@@ -26,11 +26,7 @@ def _register_namespaces():
 
 def _create_channel(title: str, description: str, base_url: str, author: str) -> Element:
     _register_namespaces()
-    rss = Element("rss", {
-        "version": "2.0",
-        "xmlns:itunes": _ITUNES_NS,
-        "xmlns:content": _CONTENT_NS,
-    })
+    rss = Element("rss", {"version": "2.0"})
     channel = SubElement(rss, "channel")
     SubElement(channel, "title").text = title
     SubElement(channel, "description").text = description
