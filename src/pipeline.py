@@ -49,9 +49,14 @@ def run(
     scripts_dir = PROJECT_ROOT / "output" / "scripts"
     audio_dir = PROJECT_ROOT / "output" / "audio"
     data_dir = PROJECT_ROOT / "data"
-    feed_path = str(PROJECT_ROOT / "feed.xml")
-    config_path = str(PROJECT_ROOT / "config" / "sources.yaml")
-    prompt_path = str(PROJECT_ROOT / "prompts" / "system_briefing_v1.md")
+
+    # Chemins configurables via env — permet d'exécuter plusieurs profils de podcast
+    feed_path   = os.getenv("FEED_FILE",          str(PROJECT_ROOT / "feed.xml"))
+    config_path = os.getenv("SOURCES_FILE",       str(PROJECT_ROOT / "config" / "sources.yaml"))
+    prompt_path = os.getenv("SYSTEM_PROMPT_FILE", str(PROJECT_ROOT / "prompts" / "system_briefing_v1.md"))
+    audio_prefix        = os.getenv("AUDIO_PREFIX", "")
+    context_file        = os.getenv("CONTEXT_FILE", "context.json")
+    episode_title_pfx   = os.getenv("EPISODE_TITLE_PREFIX", "Briefing du")
 
     result: dict = {"date": date_slug}
 
@@ -67,7 +72,7 @@ def run(
 
     # 2. Contexte récent
     logger.info("=== Étape 2 : Chargement du contexte ===")
-    context_recent = load_recent_context(str(data_dir))
+    context_recent = load_recent_context(str(data_dir), context_file=context_file)
     system_prompt = load_system_prompt(prompt_path)
 
     # 3. Génération du script
@@ -85,14 +90,14 @@ def run(
     result["script_path"] = str(script_path)
 
     from .generate import _format_date_fr
-    save_context(script_xml, _format_date_fr(date), str(data_dir))
+    save_context(script_xml, _format_date_fr(date), str(data_dir), context_file=context_file)
 
     if skip_tts:
         return result
 
     # 4. Génération audio
     logger.info("=== Étape 4 : Génération audio TTS ===")
-    audio_filename = f"{date_slug}.mp3"
+    audio_filename = f"{audio_prefix}{date_slug}.mp3"
     audio_path = str(audio_dir / audio_filename)
     generate_audio(script_xml, audio_path)
     result["audio_path"] = audio_path
@@ -109,7 +114,7 @@ def run(
 
     add_episode(
         feed_path=feed_path,
-        title=f"Briefing du {date.strftime('%d %B %Y')}",
+        title=f"{episode_title_pfx} {date.strftime('%d %B %Y')}",
         audio_url=_audio_url(audio_filename),
         audio_size_bytes=audio_size,
         script_xml=script_xml,

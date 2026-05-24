@@ -1,4 +1,4 @@
-name: Briefing matinal
+name: Briefings quotidiens
 
 on:
   schedule:
@@ -9,6 +9,7 @@ permissions:
   contents: write
 
 jobs:
+  # ─── Job 1 : Briefing matinal (actualité générale) ───────────────────────────
   briefing:
     runs-on: ubuntu-latest
     timeout-minutes: 30
@@ -24,7 +25,7 @@ jobs:
       - run: pip install -r requirements.txt
       - run: sudo apt-get install -y ffmpeg -q
 
-      - name: Générer le briefing
+      - name: Générer le briefing matinal
         run: |
           DATE=$(date +%Y-%m-%d)
           export AUDIO_BASE_URL="https://github.com/$GITHUB_REPOSITORY/releases/download/$DATE"
@@ -45,23 +46,93 @@ jobs:
           BRIEFING_DUREE_CIBLE: "12"
           BRIEFING_FENETRE_HEURES: "24"
 
-      - name: Publier le MP3 sur GitHub Releases
+      - name: Publier le MP3 — matinal
         run: |
           if gh release view "$DATE" > /dev/null 2>&1; then
             gh release upload "$DATE" "output/audio/$DATE.mp3" --clobber
           else
             gh release create "$DATE" \
               --title "Briefing du $DATE" \
-              --notes "Briefing automatisé" \
+              --notes "Briefing matinal automatisé" \
               "output/audio/$DATE.mp3"
           fi
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Sauvegarder feed.xml et contexte
+      - name: Sauvegarder feed.xml et contexte matinal
         run: |
           git config user.name "Briefing Bot"
           git config user.email "briefing-bot@noreply"
           git add feed.xml data/context.json
-          git diff --cached --quiet || git commit -m "briefing: $DATE [skip ci]"
+          git diff --cached --quiet || git commit -m "briefing-matinal: $DATE [skip ci]"
+          git push
+
+  # ─── Job 2 : Briefing Éco & Tech ─────────────────────────────────────────────
+  briefing-eco:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    needs: briefing   # séquentiel pour éviter les conflits git push
+
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main   # récupère le commit du job précédent
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+          cache: pip
+
+      - run: pip install -r requirements.txt
+      - run: sudo apt-get install -y ffmpeg -q
+
+      - name: Générer le briefing Éco & Tech
+        run: |
+          DATE=$(date +%Y-%m-%d)
+          export AUDIO_BASE_URL="https://github.com/$GITHUB_REPOSITORY/releases/download/eco-$DATE"
+          echo "DATE=$DATE" >> $GITHUB_ENV
+          python run.py
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+          PODCAST_TITLE: Éco & Tech
+          PODCAST_DESCRIPTION: Briefing quotidien marchés, crypto et tech en français québécois.
+          PODCAST_BASE_URL: https://meerkly-00.github.io/briefing-matinal
+          PODCAST_ARTWORK_URL: https://meerkly-00.github.io/briefing-matinal/artwork_eco.jpg
+          PODCAST_AUTHOR: Éco & Tech
+          CLAUDE_MODEL: claude-sonnet-4-6
+          TTS_PROVIDER: openai
+          TTS_MODEL: tts-1
+          TTS_VOICE: onyx
+          BRIEFING_DUREE_CIBLE: "12"
+          BRIEFING_FENETRE_HEURES: "24"
+          # Profil éco — surcharge les chemins par défaut
+          SOURCES_FILE: config/sources_eco.yaml
+          SYSTEM_PROMPT_FILE: prompts/system_eco_v1.md
+          FEED_FILE: feed_eco.xml
+          AUDIO_PREFIX: eco-
+          CONTEXT_FILE: context_eco.json
+          EPISODE_TITLE_PREFIX: "Éco du"
+
+      - name: Publier le MP3 — éco
+        run: |
+          TAG="eco-$DATE"
+          if gh release view "$TAG" > /dev/null 2>&1; then
+            gh release upload "$TAG" "output/audio/eco-$DATE.mp3" --clobber
+          else
+            gh release create "$TAG" \
+              --title "Éco & Tech du $DATE" \
+              --notes "Briefing éco automatisé" \
+              "output/audio/eco-$DATE.mp3"
+          fi
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Sauvegarder feed_eco.xml et contexte éco
+        run: |
+          git config user.name "Briefing Bot"
+          git config user.email "briefing-bot@noreply"
+          git pull --rebase
+          git add feed_eco.xml data/context_eco.json
+          git diff --cached --quiet || git commit -m "briefing-eco: $DATE [skip ci]"
           git push

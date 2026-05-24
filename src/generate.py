@@ -31,8 +31,8 @@ def load_system_prompt(prompt_path: str) -> str:
         return f.read()
 
 
-def load_recent_context(data_dir: str, n: int = 3) -> str:
-    path = Path(data_dir) / "context.json"
+def load_recent_context(data_dir: str, n: int = 3, context_file: str = "context.json") -> str:
+    path = Path(data_dir) / context_file
     if not path.exists():
         return ""
     with open(path, encoding="utf-8") as f:
@@ -55,8 +55,8 @@ def _extract_chapter_summaries(script_xml: str) -> str:
     return "\n".join(summaries)
 
 
-def save_context(script_xml: str, date_fr: str, data_dir: str) -> None:
-    path = Path(data_dir) / "context.json"
+def save_context(script_xml: str, date_fr: str, data_dir: str, context_file: str = "context.json") -> None:
+    path = Path(data_dir) / context_file
     entries: list[dict] = []
     if path.exists():
         with open(path, encoding="utf-8") as f:
