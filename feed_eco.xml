@@ -1,0 +1,29 @@
+<?xml version="1.0" ?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+  <channel>
+    <title>Éco &amp; Tech</title>
+    <description>Briefing quotidien marchés, crypto et tech en français québécois.</description>
+    <language>fr-CA</language>
+    <link>https://meerkly-00.github.io/briefing-matinal</link>
+    <itunes:author>Éco &amp; Tech</itunes:author>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:category text="News"/>
+    <itunes:image href="https://meerkly-00.github.io/briefing-matinal/artwork_eco.jpg"/>
+    <image>
+      <url>https://meerkly-00.github.io/briefing-matinal/artwork_eco.jpg</url>
+      <title>Éco &amp; Tech</title>
+      <link>https://meerkly-00.github.io/briefing-matinal</link>
+    </image>
+    <item>
+      <title>Éco du 24 May 2026</title>
+      <description>Au menu : Marchés, Crypto, Tech et compagnies, Éco Canada / Québec</description>
+      <pubDate>Sun, 24 May 2026 14:29:37 +0000</pubDate>
+      <guid isPermaLink="false">https://github.com/meerkly-00/briefing-matinal/releases/download/eco-2026-05-24/eco-2026-05-24.mp3</guid>
+      <enclosure url="https://github.com/meerkly-00/briefing-matinal/releases/download/eco-2026-05-24/eco-2026-05-24.mp3" type="audio/mpeg" length="14394850"/>
+      <itunes:duration>696</itunes:duration>
+      <itunes:summary>Au menu : Marchés, Crypto, Tech et compagnies, Éco Canada / Québec</itunes:summary>
+      <itunes:episode>1</itunes:episode>
+      <itunes:image href="https://meerkly-00.github.io/briefing-matinal/artwork_eco.jpg"/>
+    </item>
+  </channel>
+</rss>
