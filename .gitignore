@@ -1,0 +1,9 @@
+.env
+.claude/
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+output/audio/*.mp3
+output/scripts/*.xml

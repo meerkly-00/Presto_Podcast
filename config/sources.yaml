@@ -1,0 +1,96 @@
+feeds:
+
+  # --- Wire services ---
+  # AP : flux officiel mort, on passe par Google News
+  - url: https://news.google.com/rss/search?q=site:apnews.com&hl=en&gl=CA&ceid=CA:en
+    source: Associated Press
+    region: International
+    theme: International
+    no_scrape: true
+
+  # La Presse Canadienne / AFP : service B2B, pas de RSS public
+
+  # --- Québec ---
+  - url: https://ici.radio-canada.ca/rss/4159
+    source: Radio-Canada
+    region: QC
+    theme: Politique
+
+  - url: https://www.lapresse.ca/actualites/rss
+    source: La Presse
+    region: QC
+    theme: Politique
+    no_scrape: true
+
+  - url: https://www.ledevoir.com/rss/manchettes.xml
+    source: Le Devoir
+    region: QC
+    theme: Politique
+
+  # JDM : pas de RSS public, Google News en relais
+  - url: https://news.google.com/rss/search?q=site:journaldemontreal.com&hl=fr&gl=CA&ceid=CA:fr
+    source: Journal de Montréal
+    region: QC
+    theme: Société
+    no_scrape: true
+
+  # --- Canada anglais ---
+  - url: https://www.cbc.ca/cmlink/rss-topstories
+    source: CBC
+    region: Canada
+    theme: Politique
+    no_scrape: true
+
+  - url: https://globalnews.ca/feed/
+    source: Global News
+    region: Canada
+    theme: Politique
+    no_scrape: true
+
+  - url: https://nationalpost.com/feed/
+    source: National Post
+    region: Canada
+    theme: Politique
+    no_scrape: true
+
+  # The Hub : bloque les bots, Google News en relais
+  - url: https://news.google.com/rss/search?q=site:thehub.ca&hl=en&gl=CA&ceid=CA:en
+    source: The Hub
+    region: Canada
+    theme: Politique
+    no_scrape: true
+
+  # --- International ---
+  - url: https://www.cbc.ca/cmlink/rss-world
+    source: CBC World
+    region: International
+    theme: International
+    no_scrape: true
+
+  - url: https://feeds.bbci.co.uk/news/world/rss.xml
+    source: BBC World
+    region: International
+    theme: International
+    no_scrape: true
+
+  - url: https://www.economist.com/latest/rss.xml
+    source: The Economist
+    region: International
+    theme: Économie
+    no_scrape: true
+
+  - url: https://www.aljazeera.com/xml/rss/all.xml
+    source: Al Jazeera
+    region: International
+    theme: International
+    no_scrape: true
+
+  # --- Science ---
+  - url: https://feeds.nature.com/nature/rss/current
+    source: Nature News
+    region: International
+    theme: Tech
+    no_scrape: true
+
+min_text_length: 80
+max_per_feed: 10
