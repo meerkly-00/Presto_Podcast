@@ -44,10 +44,14 @@ jobs:
 
       - name: Publier le MP3 sur GitHub Releases
         run: |
-          gh release create "$DATE" \
-            --title "Briefing du $DATE" \
-            --notes "Briefing automatisé" \
-            "output/audio/$DATE.mp3"
+          if gh release view "$DATE" > /dev/null 2>&1; then
+            gh release upload "$DATE" "output/audio/$DATE.mp3" --clobber
+          else
+            gh release create "$DATE" \
+              --title "Briefing du $DATE" \
+              --notes "Briefing automatisé" \
+              "output/audio/$DATE.mp3"
+          fi
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
