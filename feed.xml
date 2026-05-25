@@ -10,6 +10,17 @@
     <itunes:category text="News"/>
     <item>
       <title>Briefing du 25 May 2026</title>
+      <description>Au menu : Iran : négociations dans l'incertitude, Ukraine, Ebola en République démocratique du Congo, Politique canadienne, Actualité québécoise, International : Pakistan, Turquie et Chine, Le pape Léon et l'intelligence artificielle, Sport</description>
+      <pubDate>Mon, 25 May 2026 12:19:51 +0000</pubDate>
+      <guid isPermaLink="false">https://github.com/meerkly-00/briefing-matinal/releases/download/2026-05-25/2026-05-25.mp3</guid>
+      <enclosure url="https://github.com/meerkly-00/briefing-matinal/releases/download/2026-05-25/2026-05-25.mp3" type="audio/mpeg" length="13789501"/>
+      <itunes:duration>687</itunes:duration>
+      <itunes:summary>Au menu : Iran : négociations dans l'incertitude, Ukraine, Ebola en République démocratique du Congo, Politique canadienne, Actualité québécoise, International : Pakistan, Turquie et Chine, Le pape Léon et l'intelligence artificielle, Sport</itunes:summary>
+      <itunes:episode>1</itunes:episode>
+      <itunes:image href="https://meerkly-00.github.io/briefing-matinal/artwork.jpg"/>
+    </item>
+    <item>
+      <title>Briefing du 25 May 2026</title>
       <description>Au menu : Iran : négociations dans l'incertitude, Ukraine, Liban et tour du monde, Ebola en République démocratique du Congo, Actualité québécoise, Actualité canadienne, Sport, Santé et science</description>
       <pubDate>Mon, 25 May 2026 11:25:20 +0000</pubDate>
       <guid isPermaLink="false">https://github.com/meerkly-00/briefing-matinal/releases/download/2026-05-25/2026-05-25.mp3</guid>
