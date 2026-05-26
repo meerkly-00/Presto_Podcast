@@ -2,7 +2,7 @@ name: Briefings quotidiens
 
 on:
   schedule:
-    - cron: '0 10 * * *'  # 6h00 EST (UTC-4 en été)
+    - cron: '0 8 * * *'   # 4h00 EDT (UTC-4) — filet de sécurité si cron-job.org échoue
   workflow_dispatch:       # bouton Run manuel dans GitHub
 
 permissions:
