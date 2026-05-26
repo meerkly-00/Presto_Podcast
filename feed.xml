@@ -9,6 +9,17 @@
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="News"/>
     <item>
+      <title>Briefing du 26 May 2026</title>
+      <description>Au menu : Iran : frappes américaines et négociations en péril, Liban et Gaza : escalade israélienne, Ukraine, Politique canadienne : référendum albertain et insolvabilités, Actualité québécoise, Ebola en République démocratique du Congo, Belgique et autres nouvelles internationales, Décès de Sonny Rollins, Sport</description>
+      <pubDate>Tue, 26 May 2026 13:04:39 +0000</pubDate>
+      <guid isPermaLink="false">https://github.com/meerkly-00/briefing-matinal/releases/download/2026-05-26/2026-05-26.mp3</guid>
+      <enclosure url="https://github.com/meerkly-00/briefing-matinal/releases/download/2026-05-26/2026-05-26.mp3" type="audio/mpeg" length="14439305"/>
+      <itunes:duration>737</itunes:duration>
+      <itunes:summary>Au menu : Iran : frappes américaines et négociations en péril, Liban et Gaza : escalade israélienne, Ukraine, Politique canadienne : référendum albertain et insolvabilités, Actualité québécoise, Ebola en République démocratique du Congo, Belgique et autres nouvelles internationales, Décès de Sonny Rollins, Sport</itunes:summary>
+      <itunes:episode>1</itunes:episode>
+      <itunes:image href="https://meerkly-00.github.io/briefing-matinal/artwork.jpg"/>
+    </item>
+    <item>
       <title>Briefing du 25 May 2026</title>
       <description>Au menu : Iran : négociations dans l'incertitude, Ukraine et Biélorussie, Turquie, Ebola en République démocratique du Congo, Pakistan, Politique canadienne, Actualité québécoise, Le pape Léon et l'intelligence artificielle, Sport</description>
       <pubDate>Mon, 25 May 2026 13:35:12 +0000</pubDate>
