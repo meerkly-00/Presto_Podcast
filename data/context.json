@@ -1,10 +1,6 @@
 [
   {
     "date": "dimanche 24 mai 2026",
-    "summary": "- Attaque russe sur Kyiv : On commence par un événement majeur survenu cette nuit.\n- Négociations États-Unis et Iran : On passe à un autre dossier chaud, la guerre entre les États-Unis et l'Iran, qui en est à son 86e jour.\n- Politique canadienne : Au Canada, deux dossiers retiennent l'attention ce matin.\n- Politique québécoise : Au Québec, deux nouvelles méritent attention.\n- Nouvelles internationales : Plusieurs événements importants se sont produits à l'étranger au cours des dernières heures.\n- Culture et sport : Le festival de Cannes a remis sa Palme d'or samedi soir."
-  },
-  {
-    "date": "dimanche 24 mai 2026",
     "summary": "- Ukraine : attaque russe sur Kyiv : On commence par l'Ukraine.\n- Iran : vers un accord de paix ? : On passe au conflit entre les États-Unis et l'Iran, qui en est à son 86e jour.\n- Actualité canadienne : Au Canada, plusieurs dossiers méritent attention ce matin.\n- Actualité québécoise : Au Québec, deux nouvelles retiennent l'attention.\n- Tour du monde : Plusieurs événements importants se sont produits à l'étranger au cours des dernières heures.\n- Sport : Quelques nouvelles sportives pour terminer."
   },
   {
@@ -38,5 +34,9 @@
   {
     "date": "mardi 26 mai 2026",
     "summary": "- Iran : frappes américaines et cessez-le-feu sous pression : On commence par l'Iran, où le cessez-le-feu fragile reste sous haute tension ce matin.\n- Liban et Gaza : escalade israélienne : On reste au Proche-Orient.\n- Politique canadienne : référendum albertain et Guilbeault : Au Canada, deux dossiers majeurs dominent ce mardi.\n- Actualité québécoise : Plusieurs nouvelles retiennent l'attention à Québec ce mardi.\n- Ebola et mesures canadiennes : L'épidémie d'Ebola en Afrique centrale continue de s'aggraver.\n- International : Ukraine, canicule en Europe, Belgique : Un tour d'horizon rapide des autres nouvelles internationales.\n- Divers : Quelques nouvelles en bref pour terminer."
+  },
+  {
+    "date": "mercredi 27 mai 2026",
+    "summary": "- Iran : cessez-le-feu sous tension : Le dossier iranien reste le plus important de l'actualité internationale ce matin, et la situation a évolué dans la nuit.\n- Proche-Orient : Gaza et Liban : On reste dans la région.\n- Politique canadienne : Au Canada, deux dossiers majeurs dominent ce mercredi.\n- Actualité québécoise : Plusieurs nouvelles retiennent l'attention au Québec ce matin.\n- Ebola et mesures canadiennes : L'épidémie d'Ebola en République démocratique du Congo continue de s'aggraver.\n- Autres nouvelles internationales : Un tour d'horizon rapide des autres nouvelles du monde.\n- Sport : Un mot rapide sur le hockey."
   }
 ]
