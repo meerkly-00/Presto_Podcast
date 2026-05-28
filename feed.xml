@@ -10,6 +10,17 @@
     <itunes:category text="News"/>
     <item>
       <title>Briefing du 28 May 2026</title>
+      <description>Au menu : Iran et le conflit américano-iranien, Proche-Orient : Liban et Gaza, Politique canadienne, Actualité québécoise, Climat, Nouvelles internationales en bref, Sport</description>
+      <pubDate>Thu, 28 May 2026 11:37:00 +0000</pubDate>
+      <guid isPermaLink="false">https://github.com/meerkly-00/briefing-matinal/releases/download/2026-05-28/2026-05-28.mp3</guid>
+      <enclosure url="https://github.com/meerkly-00/briefing-matinal/releases/download/2026-05-28/2026-05-28.mp3" type="audio/mpeg" length="11784754"/>
+      <itunes:duration>590</itunes:duration>
+      <itunes:summary>Au menu : Iran et le conflit américano-iranien, Proche-Orient : Liban et Gaza, Politique canadienne, Actualité québécoise, Climat, Nouvelles internationales en bref, Sport</itunes:summary>
+      <itunes:episode>1</itunes:episode>
+      <itunes:image href="https://meerkly-00.github.io/briefing-matinal/artwork.jpg"/>
+    </item>
+    <item>
+      <title>Briefing du 28 May 2026</title>
       <description>Au menu : Iran et le détroit d'Ormuz, Proche-Orient, Politique canadienne, Actualité québécoise, Ebola en République démocratique du Congo, International en bref, Sport</description>
       <pubDate>Thu, 28 May 2026 10:00:57 +0000</pubDate>
       <guid isPermaLink="false">https://github.com/meerkly-00/briefing-matinal/releases/download/2026-05-28/2026-05-28.mp3</guid>
