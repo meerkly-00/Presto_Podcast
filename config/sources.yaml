@@ -85,6 +85,27 @@ feeds:
     theme: International
     no_scrape: true
 
+  # --- Sport ---
+  # RDS : RSS direct mort, Google News en relais
+  - url: https://news.google.com/rss/search?q=site:rds.ca&hl=fr&gl=CA&ceid=CA:fr
+    source: RDS
+    region: QC
+    theme: Sport
+    no_scrape: false
+
+  # TVA Sports : RSS direct mort, Google News en relais
+  - url: https://news.google.com/rss/search?q=site:tvasports.ca&hl=fr&gl=CA&ceid=CA:fr
+    source: TVA Sports
+    region: QC
+    theme: Sport
+    no_scrape: false
+
+  - url: https://www.sportsnet.ca/feed/
+    source: Sportsnet
+    region: Canada
+    theme: Sport
+    no_scrape: false
+
   # --- Science ---
   - url: https://feeds.nature.com/nature/rss/current
     source: Nature News

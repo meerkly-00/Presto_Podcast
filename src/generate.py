@@ -50,8 +50,11 @@ def _extract_chapter_summaries(script_xml: str) -> str:
     chapters = re.findall(r'<chapitre titre="([^"]+)">(.*?)</chapitre>', script_xml, re.DOTALL)
     summaries = []
     for title, body in chapters:
-        first_sentence = body.strip().split(".")[0].strip()
-        summaries.append(f"- {title} : {first_sentence}.")
+        sentences = [s.strip() for s in body.strip().split(".") if s.strip()]
+        excerpt = ". ".join(sentences[:3]) + "."
+        if len(excerpt) > 300:
+            excerpt = excerpt[:297] + "..."
+        summaries.append(f"- {title} : {excerpt}")
     return "\n".join(summaries)
 
 
