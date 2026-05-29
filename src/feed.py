@@ -34,7 +34,9 @@ def _create_channel(title, description, base_url, author, artwork_url):
     SubElement(channel, "link").text = base_url
     SubElement(channel, f"{{{_ITUNES_NS}}}author").text = author
     SubElement(channel, f"{{{_ITUNES_NS}}}explicit").text = "no"
-    SubElement(channel, f"{{{_ITUNES_NS}}}category", {"text": "News"})
+    SubElement(channel, f"{{{_ITUNES_NS}}}type").text = "episodic"
+    cat = SubElement(channel, f"{{{_ITUNES_NS}}}category", {"text": "News"})
+    SubElement(cat, f"{{{_ITUNES_NS}}}category", {"text": "Daily News"})
     if artwork_url:
         SubElement(channel, f"{{{_ITUNES_NS}}}image", {"href": artwork_url})
         img = SubElement(channel, "image")

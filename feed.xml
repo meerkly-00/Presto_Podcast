@@ -7,7 +7,10 @@
     <link>https://prestopodcast.online</link>
     <itunes:author>Presto</itunes:author>
     <itunes:explicit>no</itunes:explicit>
-    <itunes:category text="News"/>
+    <itunes:type>episodic</itunes:type>
+    <itunes:category text="News">
+      <itunes:category text="Daily News"/>
+    </itunes:category>
     <itunes:image href="https://prestopodcast.online/artwork.jpg"/>
     <image>
       <url>https://prestopodcast.online/artwork.jpg</url>
