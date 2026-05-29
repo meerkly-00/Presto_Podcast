@@ -33,7 +33,7 @@ jobs:
       - name: Générer le Presto du jour
         run: |
           DATE=$(date +%Y-%m-%d)
-          export AUDIO_BASE_URL="https://prestopodcast.online/audio"
+          export AUDIO_BASE_URL="https://github.com/$GITHUB_REPOSITORY/releases/download/$DATE"
           echo "DATE=$DATE" >> $GITHUB_ENV
           python run.py
         env:
