@@ -1,0 +1,10 @@
+name = "presto-audio-proxy"
+main = "audio-proxy.js"
+compatibility_date = "2026-05-01"
+
+routes = [
+  { pattern = "prestopodcast.online/audio/*", zone_name = "prestopodcast.online" },
+  { pattern = "prestopodcast.online/feed.xml", zone_name = "prestopodcast.online" },
+  { pattern = "www.prestopodcast.online/audio/*", zone_name = "prestopodcast.online" },
+  { pattern = "www.prestopodcast.online/feed.xml", zone_name = "prestopodcast.online" },
+]
