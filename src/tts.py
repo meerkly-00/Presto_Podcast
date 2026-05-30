@@ -20,6 +20,90 @@ from mutagen.id3 import ID3, CHAP, CTOC, CTOCFlags, TIT2, ID3NoHeaderError
 logger = logging.getLogger(__name__)
 
 
+# ── Normalisation du texte avant TTS ────────────────────────────────────────
+
+def _normalize_numbers_fr(text: str) -> str:
+    """Convertit les nombres en mots français pour un meilleur rendu TTS."""
+    try:
+        from num2words import num2words
+    except ImportError:
+        return text
+
+    def _n2w(n: int | float, is_ordinal: bool = False) -> str:
+        try:
+            return num2words(n, lang="fr", to="ordinal" if is_ordinal else "cardinal")
+        except Exception:
+            return str(n)
+
+    # Pourcentages : "3,5 %" ou "3.5%" → "trois virgule cinq pourcent"
+    def _replace_pct(m: re.Match) -> str:
+        raw = m.group(1).replace(",", ".").replace(" ", "")
+        try:
+            val = float(raw)
+            int_part = int(val)
+            dec = round(val - int_part, 6)
+            if dec == 0:
+                return f"{_n2w(int_part)} pourcent"
+            dec_str = f"{dec:.6f}".rstrip("0").split(".")[1]
+            dec_words = " ".join(_n2w(int(d)) for d in dec_str)
+            return f"{_n2w(int_part)} virgule {dec_words} pourcent"
+        except Exception:
+            return m.group(0)
+
+    text = re.sub(r"([\d][\d\s,\.]*)\s*%", _replace_pct, text)
+
+    # Années 1900-2099 → lues comme un nombre entier (ex: "2026" → "deux mille vingt-six")
+    text = re.sub(r"\b(1[89]\d{2}|20[0-9]{2})\b",
+                  lambda m: _n2w(int(m.group(1))), text)
+
+    # Grands nombres avec espaces comme séparateurs : "1 200 000"
+    text = re.sub(r"\b(\d{1,3}(?:\s\d{3})+)\b",
+                  lambda m: _n2w(int(m.group(1).replace(" ", ""))), text)
+
+    # Nombres décimaux simples : "3,5" ou "3.5"
+    text = re.sub(r"\b(\d+)[,\.](\d+)\b", lambda m: (
+        f"{_n2w(int(m.group(1)))} virgule {' '.join(_n2w(int(d)) for d in m.group(2))}"
+    ), text)
+
+    # Entiers restants (≥ 1000 pour éviter de sur-convertir)
+    text = re.sub(r"\b(\d{4,})\b", lambda m: _n2w(int(m.group(1))), text)
+
+    return text
+
+
+def _preprocess_tts(text: str) -> str:
+    """Pré-traitement complet du texte avant envoi au TTS."""
+    # Remplacer les abréviations courantes
+    replacements = {
+        r"\bM\.\s": "Monsieur ",
+        r"\bMme\.\s": "Madame ",
+        r"\bMM\.\s": "Messieurs ",
+        r"\bDr\.\s": "Docteur ",
+        r"\bPr\.\s": "Professeur ",
+        r"\bSt\.\s": "Saint ",
+        r"\bÉ\.-U\.\b": "États-Unis",
+        r"\bU\.S\.\b": "États-Unis",
+        r"\bG7\b": "G sept",
+        r"\bG20\b": "G vingt",
+        r"\bONU\b": "O-N-U",
+        r"\bFMI\b": "F-M-I",
+        r"\bFBI\b": "F-B-I",
+        r"\bCIA\b": "C-I-A",
+        r"\bPIB\b": "P-I-B",
+        r"\bPNB\b": "P-N-B",
+        r"\bPQ\b": "Parti Québécois",
+        r"\bCAQ\b": "Coalition Avenir Québec",
+        r"\$\s*([\d\s,\.]+)\s*[Mm]ards?\b": r"\1 milliards de dollars",
+        r"\$\s*([\d\s,\.]+)\s*[Mm](?:illions?)?\b": r"\1 millions de dollars",
+        r"\$\s*([\d\s,\.]+)\b": r"\1 dollars",
+    }
+    for pattern, repl in replacements.items():
+        text = re.sub(pattern, repl, text)
+
+    text = _normalize_numbers_fr(text)
+    return text
+
+
 def _strip_xml_tags(text: str) -> str:
     return re.sub(r"<[^>]+>", "", text).strip()
 
@@ -54,6 +138,7 @@ def _tts_edge(text: str, path: str, voice: str) -> None:
 
 
 def _tts_segment(text: str, path: str) -> None:
+    text = _preprocess_tts(text)
     provider = os.getenv("TTS_PROVIDER", "openai" if os.getenv("OPENAI_API_KEY") else "edge")
     if provider == "openai":
         model = os.getenv("TTS_MODEL", "tts-1")
@@ -73,15 +158,34 @@ def _get_duration_ms(audio_path: str) -> int:
 
 
 def _concat_audio(segment_paths: list[str], output_path: str) -> None:
+    """Concatène les segments et normalise le volume à -16 LUFS (standard podcast EBU R128)."""
     with tempfile.NamedTemporaryFile("w", suffix=".txt", delete=False, encoding="utf-8") as f:
         concat_file = f.name
         for p in segment_paths:
             f.write(f"file '{Path(p).as_posix()}'\n")
+
+    tmp_concat = output_path + ".tmp.mp3"
     try:
-        subprocess.run(["ffmpeg", "-y", "-f", "concat", "-safe", "0", "-i", concat_file, "-c", "copy", output_path],
-                       check=True, capture_output=True)
+        # Étape 1 : concat sans re-encodage
+        subprocess.run(
+            ["ffmpeg", "-y", "-f", "concat", "-safe", "0", "-i", concat_file, "-c", "copy", tmp_concat],
+            check=True, capture_output=True,
+        )
+        # Étape 2 : normalisation loudness EBU R128 (-16 LUFS, -1.5 dBTP)
+        subprocess.run(
+            [
+                "ffmpeg", "-y", "-i", tmp_concat,
+                "-af", "loudnorm=I=-16:TP=-1.5:LRA=11:print_format=none",
+                "-codec:a", "libmp3lame", "-qscale:a", "3",  # VBR ~190 kbps
+                output_path,
+            ],
+            check=True, capture_output=True,
+        )
+        logger.info("Loudness normalisé à -16 LUFS (EBU R128).")
     finally:
         os.unlink(concat_file)
+        if os.path.exists(tmp_concat):
+            os.unlink(tmp_concat)
 
 
 def _add_chapter_markers(mp3_path: str, chapters: list[dict]) -> None:
