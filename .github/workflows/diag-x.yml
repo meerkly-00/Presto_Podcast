@@ -30,6 +30,28 @@ jobs:
           python - <<'PY'
           import os, tweepy
 
+          print("=== TEST 0 : Format des cles (longueurs seulement, valeurs jamais affichees) ===")
+          specs = {
+              "TWITTER_API_KEY": (20, 30, "API Key / Cle Consommateur"),
+              "TWITTER_API_SECRET": (40, 60, "API Secret"),
+              "TWITTER_ACCESS_TOKEN": (45, 70, "Access Token (doit contenir un '-' et debuter par des chiffres)"),
+              "TWITTER_ACCESS_TOKEN_SECRET": (40, 55, "Access Token Secret"),
+          }
+          for name, (lo, hi, desc) in specs.items():
+              v = os.environ.get(name, "")
+              s = v.strip()
+              flags = []
+              if not v:
+                  flags.append("VIDE / ABSENT")
+              if v != s:
+                  flags.append("ESPACE OU RETOUR DE LIGNE AU BOUT")
+              if s and not (lo <= len(s) <= hi):
+                  flags.append(f"LONGUEUR INHABITUELLE (attendu ~{lo}-{hi})")
+              if name == "TWITTER_ACCESS_TOKEN" and s and ("-" not in s or not s[:1].isdigit()):
+                  flags.append("FORMAT SUSPECT (un Access Token ressemble a: chiffres-XXXX)")
+              etat = "  <-- " + " ; ".join(flags) if flags else "  ok"
+              print(f"{name}: longueur={len(s)} [{desc}]{etat}")
+
           client = tweepy.Client(
               consumer_key=os.environ["TWITTER_API_KEY"],
               consumer_secret=os.environ["TWITTER_API_SECRET"],
