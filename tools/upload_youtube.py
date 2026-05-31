@@ -251,27 +251,34 @@ def main():
     else:
         episode_date = date.today()
 
-    # Artwork: prefer a valid local file; otherwise download from the live site
-    # (the repo has no committed artwork-v2.jpg — it's served from the website).
-    artwork_url = os.environ.get(
-        "PODCAST_ARTWORK_URL", "https://www.prestopodcast.online/artwork-v2.jpg"
-    )
-
+    # Artwork: use a valid local JPEG. Priority: --artwork, then committed
+    # artwork.jpg in the repo root. (No website download — the worker only
+    # serves /audio/* and /feed.xml, so the artwork URL 404s.)
     def _is_real_image(p: Path) -> bool:
-        # Real JPEGs start with FF D8; a Git LFS pointer / HTML is text.
         try:
             with open(p, "rb") as fh:
                 return fh.read(2) == b"\xff\xd8"
         except OSError:
             return False
 
-    local_artwork = None
+    repo_root = Path(__file__).parent.parent
+    candidates = []
     if args.artwork:
-        cand = Path(args.artwork).resolve()
+        candidates.append(Path(args.artwork))
+    candidates.append(repo_root / "artwork.jpg")
+
+    artwork = None
+    for cand in candidates:
+        cand = cand.resolve()
         if cand.exists() and _is_real_image(cand):
-            local_artwork = cand
-        else:
-            print(f"  Note: {cand} unusable, will download instead.", flush=True)
+            artwork = cand
+            break
+
+    if artwork is None:
+        tried = ", ".join(str(c) for c in candidates)
+        print(f"Error: no valid artwork found (tried: {tried})", file=sys.stderr)
+        sys.exit(1)
+    print(f"Using artwork: {artwork}", flush=True)
 
     # Step 1: Audio duration
     print("Reading audio duration...", flush=True)
