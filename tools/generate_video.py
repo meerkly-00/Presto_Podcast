@@ -24,13 +24,13 @@ def generate_video(
     # "Error applying option 'FontSize': Option not found".
     subtitle_style = (
         "FontName=DejaVu Sans"
-        ",FontSize=30"
+        ",FontSize=28"
         ",PrimaryColour=&H00FFFFFF"
         ",OutlineColour=&H00000000"
         ",Outline=2"
         ",Shadow=1"
         ",Alignment=2"
-        ",MarginV=60"
+        ",MarginV=90"
     )
 
     # The ffmpeg `subtitles` filter is notoriously fragile with absolute paths
