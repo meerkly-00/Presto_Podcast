@@ -19,15 +19,18 @@ def generate_video(
 ) -> None:
     # Build subtitle filter style string. DejaVu Sans is preinstalled on the
     # GitHub runner (fonts-dejavu-core) and renders accents correctly.
+    # libass force_style fields are separated by COMMAS, not colons. Colons
+    # collide with the subtitles filter's own option separator and trigger
+    # "Error applying option 'FontSize': Option not found".
     subtitle_style = (
         "FontName=DejaVu Sans"
-        ":FontSize=30"
-        ":PrimaryColour=&H00FFFFFF"
-        ":OutlineColour=&H00000000"
-        ":Outline=2"
-        ":Shadow=1"
-        ":Alignment=2"
-        ":MarginV=60"
+        ",FontSize=30"
+        ",PrimaryColour=&H00FFFFFF"
+        ",OutlineColour=&H00000000"
+        ",Outline=2"
+        ",Shadow=1"
+        ",Alignment=2"
+        ",MarginV=60"
     )
 
     # The ffmpeg `subtitles` filter is notoriously fragile with absolute paths
