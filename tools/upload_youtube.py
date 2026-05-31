@@ -73,8 +73,16 @@ def build_title(episode_date: date) -> str:
 
 
 def build_description(xml_path: str) -> str:
-    tree = ET.parse(xml_path)
-    root = tree.getroot()
+    # Le script XML peut être entouré de fences markdown (```xml ... ```).
+    raw = Path(xml_path).read_text(encoding="utf-8").strip()
+    if raw.startswith("```"):
+        lines = raw.splitlines()
+        if lines and lines[0].startswith("```"):
+            lines = lines[1:]
+        if lines and lines[-1].strip().startswith("```"):
+            lines = lines[:-1]
+        raw = "\n".join(lines).strip()
+    root = ET.fromstring(raw)
 
     # Intro text (first 400 chars)
     intro_el = root.find("intro")
