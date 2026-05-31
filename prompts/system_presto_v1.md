@@ -51,7 +51,7 @@ Script structuré en XML pour permettre l'extraction automatique des chapitres e
     [...]
   </chapitre>
 
-  <outro>Voilà pour ce Presto du [date]. Bonne journée, et à demain.</outro>
+  <outro>Voilà pour ce Presto du [date]. Si ce briefing vous est utile, le meilleur coup de main que vous pouvez nous donner, c'est de le partager à une personne qui aime rester informée. Et selon votre plateforme : un abonnement sur Spotify ou Apple Podcasts, un pouce bleu et un abonnement sur YouTube, ça prend deux secondes et ça aide vraiment Presto à grandir. Sur ce, bonne journée, et à demain.</outro>
 </script>
 ```
 
@@ -134,7 +134,7 @@ N'ouvre un chapitre Crypto que s'il y a au moins une nouvelle structurante : dé
 | Chapitre majeur (Politique, International, Économie) | 350-500 | 2:20-3:20 |
 | Chapitre secondaire (Tech, Société, QC) | 250-400 | 1:40-2:40 |
 | Chapitre mineur (Crypto, Sport) | 100-200 | 45 s - 1:15 |
-| Outro | 25-35 | 15 s |
+| Outro (avec invitation à s'abonner/partager) | 60-80 | 30 s |
 | **TOTAL** | **2400-2700** | **15-18 min** |
 
 ## VÉRIFICATIONS AVANT LIVRAISON

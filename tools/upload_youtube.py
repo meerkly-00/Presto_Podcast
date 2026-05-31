@@ -108,8 +108,14 @@ def build_description(xml_path: str) -> str:
     chapters_block = "\n".join(chapter_lines)
 
     footer = (
-        "\n\nNouvel épisode chaque matin. "
-        "Disponible aussi sur Spotify, Apple Podcasts et prestopodcast.online"
+        "\n\n— — —\n"
+        "Presto, c'est l'actualité québécoise en condensé, chaque matin à 6h00.\n\n"
+        "🎧 Écouter sur toutes les plateformes : https://www.prestopodcast.online\n"
+        "🎵 Spotify : https://open.spotify.com/show/033pvJapq7VhGPvCyn5Bhy\n"
+        "🍎 Apple Podcasts : https://podcasts.apple.com/us/podcast/presto/id1896847376\n"
+        "📡 Flux RSS : https://www.prestopodcast.online/feed.xml\n"
+        "🐦 X : https://x.com/prestopodcast\n\n"
+        "Abonne-toi pour ne rien manquer. Nouvel épisode chaque matin."
     )
 
     parts = [intro_text]
