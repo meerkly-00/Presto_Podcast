@@ -1,15 +1,15 @@
-name: Presto — tweet du jour
+name: Presto — tweets du jour (génération)
 
 on:
   schedule:
-    - cron: '0 12 * * *'   # 8h EDT (UTC-4) — 7h en EST l'hiver (GitHub cron ne gère pas le DST)
+    - cron: '0 11 * * *'   # 7h EDT — avant le cron Worker 8h EDT (12h UTC)
   workflow_dispatch:        # bouton Run manuel
 
 permissions:
   contents: write
 
 jobs:
-  tweet:
+  generate-tweets:
     runs-on: ubuntu-latest
     timeout-minutes: 10
 
@@ -23,7 +23,7 @@ jobs:
 
       - run: pip install -r requirements.txt
 
-      - name: Publier le tweet du jour
+      - name: Générer le thread du jour
         run: |
           DATE=$(date +%Y-%m-%d)
           echo "DATE=$DATE" >> $GITHUB_ENV
@@ -31,28 +31,23 @@ jobs:
             echo "::warning::Pas de script pour $DATE (briefing pas encore publié). Skip."
             exit 0
           fi
-          if [ -f "data/tweeted/$DATE" ]; then
-            echo "Tweet déjà publié pour $DATE. Skip."
+          if [ -f "data/tweets/$DATE.json" ]; then
+            echo "Thread déjà généré pour $DATE. Skip."
             exit 0
           fi
-          python tools/tweet.py "output/scripts/$DATE.xml"
-          mkdir -p data/tweeted && touch "data/tweeted/$DATE"
+          python tools/tweet.py "output/scripts/$DATE.xml" --output-only "data/tweets/$DATE.json"
         env:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
-          TWITTER_API_KEY: ${{ secrets.TWITTER_API_KEY }}
-          TWITTER_API_SECRET: ${{ secrets.TWITTER_API_SECRET }}
-          TWITTER_ACCESS_TOKEN: ${{ secrets.TWITTER_ACCESS_TOKEN }}
-          TWITTER_ACCESS_TOKEN_SECRET: ${{ secrets.TWITTER_ACCESS_TOKEN_SECRET }}
           CLAUDE_MODEL: claude-haiku-4-5-20251001
 
-      - name: Marquer comme publié
-        if: success()
+      - name: Sauvegarder le thread
         run: |
-          if [ -f "data/tweeted/$DATE" ]; then
+          if [ -f "data/tweets/$DATE.json" ]; then
             git config user.name "Presto Bot"
             git config user.email "presto-bot@noreply"
-            git add "data/tweeted/$DATE"
-            git diff --cached --quiet || git commit -m "tweet: $DATE [skip ci]"
+            git add "data/tweets/$DATE.json"
+            git diff --cached --quiet || git commit -m "tweets: $DATE [skip ci]"
+            git pull --rebase origin main
             git push
           fi
 
@@ -60,8 +55,8 @@ jobs:
         if: failure()
         run: |
           gh issue create \
-            --title "⚠️ Tweet Presto échoué — $DATE" \
-            --body "Le workflow tweet a échoué. Voir le run : $GITHUB_SERVER_URL/$GITHUB_REPOSITORY/actions/runs/$GITHUB_RUN_ID" \
-            --label "incident" 2>/dev/null || echo "::error::Tweet échoué pour $DATE (création d'issue impossible)"
+            --title "⚠️ Génération tweets Presto échouée — $DATE" \
+            --body "Le workflow tweet a échoué. Voir : $GITHUB_SERVER_URL/$GITHUB_REPOSITORY/actions/runs/$GITHUB_RUN_ID" \
+            --label "incident" 2>/dev/null || echo "::error::Génération tweets échouée pour $DATE"
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}

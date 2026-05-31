@@ -1,11 +1,18 @@
 """
-Génère et publie le thread quotidien Presto à partir du script XML du jour.
+Génère le thread quotidien Presto à partir du script XML du jour.
 Structure : tweet hook → 2-3 faits supplémentaires → CTA podcast
-Usage : python tools/tweet.py output/scripts/2026-05-29.xml
+
+Usage :
+  Générer + sauvegarder JSON (GitHub Actions → Cloudflare Worker) :
+    python tools/tweet.py output/scripts/2026-05-31.xml --output-only data/tweets/2026-05-31.json
+
+  Poster directement sur X (local/debug) :
+    python tools/tweet.py output/scripts/2026-05-31.xml
 """
 
+import argparse
+import json
 import os
-import re
 import sys
 import time
 from pathlib import Path
@@ -66,7 +73,6 @@ def extract_thread(script_xml: str) -> list[str]:
 
 
 def _trim_tweet(text: str, max_chars: int = 280) -> str:
-    """Tronque proprement un tweet trop long."""
     if len(text) <= max_chars:
         return text
     cut = text[:max_chars]
@@ -78,7 +84,7 @@ def _trim_tweet(text: str, max_chars: int = 280) -> str:
 
 
 def post_thread(tweets: list[str]) -> list[str]:
-    """Poste les tweets en thread, retourne la liste des IDs."""
+    """Poste les tweets en thread (usage local/debug), retourne la liste des IDs."""
     client = tweepy.Client(
         consumer_key=os.environ["TWITTER_API_KEY"],
         consumer_secret=os.environ["TWITTER_API_SECRET"],
@@ -102,7 +108,7 @@ def post_thread(tweets: list[str]) -> list[str]:
         except tweepy.errors.Forbidden as e:
             print(f"  403 Forbidden on tweet {i+1}: {e}", flush=True)
             if hasattr(e, 'response') and e.response is not None:
-                print(f"  Response body: {e.response.text}", flush=True)
+                print(f"  Response body: {e.response.text[:500]}", flush=True)
             raise
 
         tweet_id = response.data["id"]
@@ -117,11 +123,16 @@ def post_thread(tweets: list[str]) -> list[str]:
 
 
 def main():
-    if len(sys.argv) < 2:
-        print("Usage: python tools/tweet.py <script.xml>", file=sys.stderr)
-        sys.exit(1)
+    parser = argparse.ArgumentParser(description="Génère et/ou publie le thread Presto du jour")
+    parser.add_argument("script_path", help="Chemin vers le script XML du jour")
+    parser.add_argument(
+        "--output-only",
+        metavar="PATH",
+        help="Sauvegarder les tweets en JSON au lieu de poster sur X",
+    )
+    args = parser.parse_args()
 
-    script_path = Path(sys.argv[1])
+    script_path = Path(args.script_path)
     if not script_path.exists():
         print(f"Fichier introuvable : {script_path}", file=sys.stderr)
         sys.exit(1)
@@ -130,16 +141,22 @@ def main():
     print("Génération du thread...")
     content_tweets = extract_thread(script_xml)
 
-    # Ajouter le CTA final
     all_tweets = content_tweets + [CTA_TWEET]
-
-    # Trim + affichage
     all_tweets = [_trim_tweet(t) for t in all_tweets]
 
     print(f"\n{'='*50}")
     for i, t in enumerate(all_tweets, 1):
         print(f"Tweet {i}/{len(all_tweets)} ({len(t)} chars):\n{t}\n")
     print('='*50)
+
+    if args.output_only:
+        date = script_path.stem
+        output = {"date": date, "tweets": all_tweets}
+        out_path = Path(args.output_only)
+        out_path.parent.mkdir(parents=True, exist_ok=True)
+        out_path.write_text(json.dumps(output, ensure_ascii=False, indent=2), encoding="utf-8")
+        print(f"\nTweets sauvegardés → {out_path}")
+        return
 
     if os.getenv("DRY_RUN", "").lower() in ("1", "true", "yes"):
         print("[DRY_RUN] Thread non publié.")
