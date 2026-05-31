@@ -54,6 +54,23 @@ def date_to_french(d: date) -> str:
 
 
 # ---------------------------------------------------------------------------
+# XML parsing (handles markdown fences)
+# ---------------------------------------------------------------------------
+
+def _read_xml_root(xml_path: str):
+    """Read the script XML, stripping ```xml ... ``` fences if present."""
+    raw = Path(xml_path).read_text(encoding="utf-8").strip()
+    if raw.startswith("```"):
+        lines = raw.splitlines()
+        if lines and lines[0].startswith("```"):
+            lines = lines[1:]
+        if lines and lines[-1].strip().startswith("```"):
+            lines = lines[:-1]
+        raw = "\n".join(lines).strip()
+    return ET.fromstring(raw)
+
+
+# ---------------------------------------------------------------------------
 # Audio duration
 # ---------------------------------------------------------------------------
 
@@ -73,16 +90,7 @@ def build_title(episode_date: date) -> str:
 
 
 def build_description(xml_path: str) -> str:
-    # Le script XML peut être entouré de fences markdown (```xml ... ```).
-    raw = Path(xml_path).read_text(encoding="utf-8").strip()
-    if raw.startswith("```"):
-        lines = raw.splitlines()
-        if lines and lines[0].startswith("```"):
-            lines = lines[1:]
-        if lines and lines[-1].strip().startswith("```"):
-            lines = lines[:-1]
-        raw = "\n".join(lines).strip()
-    root = ET.fromstring(raw)
+    root = _read_xml_root(xml_path)
 
     # Intro text (first 400 chars)
     intro_el = root.find("intro")
@@ -91,9 +99,8 @@ def build_description(xml_path: str) -> str:
         intro_text = intro_el.text.strip()[:400]
 
     # Chapter titles
-    chapitres = root.findall("chapitre")
     chapter_lines = []
-    for ch in chapitres:
+    for ch in root.findall("chapitre"):
         titre = ch.get("titre", "").strip()
         if titre:
             chapter_lines.append(f"• {titre}")
@@ -111,6 +118,42 @@ def build_description(xml_path: str) -> str:
     parts.append(footer)
 
     return "".join(parts)
+
+
+# ---------------------------------------------------------------------------
+# Artwork resolution
+# ---------------------------------------------------------------------------
+
+def _is_real_image(p: Path) -> bool:
+    """Real JPEGs start with FF D8; a Git LFS pointer / HTML is text."""
+    try:
+        with open(p, "rb") as fh:
+            return fh.read(2) == b"\xff\xd8"
+    except OSError:
+        return False
+
+
+def resolve_artwork(arg_artwork: str | None) -> Path:
+    """Pick a valid local JPEG background.
+
+    Priority: --artwork, then youtube-bg.jpg (Presto-branded 16:9), then
+    artwork.jpg (square fallback).
+    """
+    repo_root = Path(__file__).parent.parent
+    candidates = []
+    if arg_artwork:
+        candidates.append(Path(arg_artwork))
+    candidates.append(repo_root / "youtube-bg.jpg")
+    candidates.append(repo_root / "artwork.jpg")
+
+    for cand in candidates:
+        cand = cand.resolve()
+        if cand.exists() and _is_real_image(cand):
+            return cand
+
+    tried = ", ".join(str(c) for c in candidates)
+    print(f"Error: no valid artwork found (tried: {tried})", file=sys.stderr)
+    sys.exit(1)
 
 
 # ---------------------------------------------------------------------------
@@ -157,13 +200,8 @@ def upload_video(youtube, video_path: str, title: str, description: str) -> str:
             "title": title,
             "description": description,
             "tags": [
-                "presto",
-                "podcast",
-                "actualité",
-                "québec",
-                "francophone",
-                "briefing",
-                "nouvelles",
+                "presto", "podcast", "actualité", "québec",
+                "francophone", "briefing", "nouvelles",
             ],
             "categoryId": "25",
             "defaultLanguage": "fr",
@@ -176,11 +214,8 @@ def upload_video(youtube, video_path: str, title: str, description: str) -> str:
     }
 
     media = MediaFileUpload(video_path, mimetype="video/mp4", resumable=True)
-
     request = youtube.videos().insert(
-        part="snippet,status",
-        body=body,
-        media_body=media,
+        part="snippet,status", body=body, media_body=media,
     )
 
     print("Uploading to YouTube...", flush=True)
@@ -188,11 +223,9 @@ def upload_video(youtube, video_path: str, title: str, description: str) -> str:
     while response is None:
         status, response = request.next_chunk()
         if status:
-            pct = int(status.progress() * 100)
-            print(f"  Upload progress: {pct}%", flush=True)
+            print(f"  Upload progress: {int(status.progress() * 100)}%", flush=True)
 
-    video_id = response["id"]
-    return video_id
+    return response["id"]
 
 
 # ---------------------------------------------------------------------------
@@ -209,8 +242,7 @@ def save_youtube_record(episode_date: date, video_id: str) -> None:
         "url": f"https://www.youtube.com/watch?v={video_id}",
         "uploaded_at": datetime.utcnow().isoformat() + "Z",
     }
-    with open(out_file, "w", encoding="utf-8") as f:
-        json.dump(record, f, ensure_ascii=False, indent=2)
+    out_file.write_text(json.dumps(record, ensure_ascii=False, indent=2), encoding="utf-8")
     print(f"Saved record to {out_file}")
 
 
@@ -224,23 +256,14 @@ def parse_args():
     )
     parser.add_argument("script_xml", help="Path to the episode XML script")
     parser.add_argument("audio_mp3", help="Path to the episode MP3 audio")
-    parser.add_argument(
-        "--date",
-        metavar="YYYY-MM-DD",
-        help="Episode date (defaults to today)",
-    )
-    parser.add_argument(
-        "--artwork",
-        metavar="PATH",
-        help="Path to artwork image (defaults to artwork-v2.jpg in repo root)",
-    )
+    parser.add_argument("--date", metavar="YYYY-MM-DD", help="Episode date (defaults to today)")
+    parser.add_argument("--artwork", metavar="PATH", help="Path to background image")
     return parser.parse_args()
 
 
 def main():
     args = parse_args()
 
-    # Resolve paths
     script_xml = Path(args.script_xml).resolve()
     audio_mp3 = Path(args.audio_mp3).resolve()
 
@@ -249,56 +272,26 @@ def main():
             print(f"Error: {label} not found: {path}", file=sys.stderr)
             sys.exit(1)
 
-    # Episode date
     if args.date:
         try:
             episode_date = date.fromisoformat(args.date)
         except ValueError:
-            print(f"Error: invalid date format '{args.date}', expected YYYY-MM-DD", file=sys.stderr)
+            print(f"Error: invalid date '{args.date}', expected YYYY-MM-DD", file=sys.stderr)
             sys.exit(1)
     else:
         episode_date = date.today()
 
-    # Artwork: use a valid local JPEG. Priority: --artwork, then committed
-    # artwork.jpg in the repo root. (No website download — the worker only
-    # serves /audio/* and /feed.xml, so the artwork URL 404s.)
-    def _is_real_image(p: Path) -> bool:
-        try:
-            with open(p, "rb") as fh:
-                return fh.read(2) == b"\xff\xd8"
-        except OSError:
-            return False
-
-    repo_root = Path(__file__).parent.parent
-    candidates = []
-    if args.artwork:
-        candidates.append(Path(args.artwork))
-    candidates.append(repo_root / "artwork.jpg")
-
-    artwork = None
-    for cand in candidates:
-        cand = cand.resolve()
-        if cand.exists() and _is_real_image(cand):
-            artwork = cand
-            break
-
-    if artwork is None:
-        tried = ", ".join(str(c) for c in candidates)
-        print(f"Error: no valid artwork found (tried: {tried})", file=sys.stderr)
-        sys.exit(1)
+    artwork = resolve_artwork(args.artwork)
     print(f"Using artwork: {artwork}", flush=True)
 
-    # Step 1: Audio duration
     print("Reading audio duration...", flush=True)
     duration = get_audio_duration(str(audio_mp3))
     print(f"  Duration: {duration:.1f}s ({duration/60:.1f} min)", flush=True)
 
-    # Steps 2-4 in a temp directory
     with tempfile.TemporaryDirectory(prefix="presto_yt_") as tmpdir:
         srt_path = Path(tmpdir) / "subtitles.srt"
         mp4_path = Path(tmpdir) / "episode.mp4"
 
-        # Step 2: Generate SRT
         print("Generating SRT subtitles...", flush=True)
         blocks = generate_srt.parse_script(str(script_xml))
         if not blocks:
@@ -306,34 +299,22 @@ def main():
             sys.exit(1)
         timed_blocks = generate_srt.assign_timings(blocks, duration)
         generate_srt.write_srt(timed_blocks, str(srt_path))
-        print(f"  Generated {len(timed_blocks)} subtitle entries -> {srt_path}", flush=True)
+        print(f"  Generated {len(timed_blocks)} subtitle entries", flush=True)
 
-        # Step 3: Generate MP4
         print("Generating MP4 video...", flush=True)
         gen_video_module.generate_video(
-            artwork=artwork,
-            audio=audio_mp3,
-            subtitles=srt_path,
-            output=mp4_path,
+            artwork=artwork, audio=audio_mp3, subtitles=srt_path, output=mp4_path,
         )
 
-        # Step 4: Build title + description
         title = build_title(episode_date)
         description = build_description(str(script_xml))
         print(f"Title: {title}", flush=True)
 
-        # Step 5: Upload to YouTube
         youtube = build_youtube_client()
         video_id = upload_video(youtube, str(mp4_path), title, description)
 
-    # mp4 and srt are cleaned up automatically when the with-block exits
-
-    # Step 6: Print URL
     url = f"https://www.youtube.com/watch?v={video_id}"
-    print(f"\nUploaded successfully!")
-    print(f"YouTube URL: {url}")
-
-    # Step 7: Save record
+    print(f"\nUploaded successfully!\nYouTube URL: {url}")
     save_youtube_record(episode_date, video_id)
 
 

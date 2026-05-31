@@ -40,11 +40,12 @@ def generate_video(
     srt_dir = subtitles.resolve().parent
     srt_name = subtitles.name
 
-    # Build the video filter chain
+    # Build the video filter chain. Le fond Presto (youtube-bg.jpg) est déjà
+    # noir avec le logo en haut, donc pas besoin d'assombrir — on garde le
+    # contraste maximal pour les sous-titres blancs.
     vf = (
         f"scale=1920:1080:force_original_aspect_ratio=increase,"
         f"crop=1920:1080,"
-        f"colorlevels=rimin=0:gimin=0:bimin=0:rimax=0.6:gimax=0.6:bimax=0.6,"
         f"subtitles={srt_name}:force_style='{subtitle_style}'"
     )
 
