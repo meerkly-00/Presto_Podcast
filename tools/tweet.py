@@ -90,17 +90,28 @@ def post_thread(tweets: list[str]) -> list[str]:
     reply_to = None
 
     for i, text in enumerate(tweets):
-        kwargs = {"text": text}
-        if reply_to:
-            kwargs["in_reply_to_tweet_id"] = reply_to
+        print(f"Posting tweet {i+1}/{len(tweets)}...", flush=True)
+        try:
+            if reply_to:
+                try:
+                    response = client.create_tweet(text=text, in_reply_to_tweet_id=reply_to)
+                except TypeError:
+                    response = client.create_tweet(text=text, reply={"in_reply_to_tweet_id": reply_to})
+            else:
+                response = client.create_tweet(text=text)
+        except tweepy.errors.Forbidden as e:
+            print(f"  403 Forbidden on tweet {i+1}: {e}", flush=True)
+            if hasattr(e, 'response') and e.response is not None:
+                print(f"  Response body: {e.response.text}", flush=True)
+            raise
 
-        response = client.create_tweet(**kwargs)
         tweet_id = response.data["id"]
         ids.append(tweet_id)
         reply_to = tweet_id
+        print(f"  → posted: {tweet_id}", flush=True)
 
         if i < len(tweets) - 1:
-            time.sleep(2)  # petit délai entre les tweets
+            time.sleep(2)
 
     return ids
 
