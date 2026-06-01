@@ -118,7 +118,7 @@ feeds:
     theme: Économie
     no_scrape: true
 
-  - url: https://www.bnnbloomberg.ca/rss
+  - url: https://news.google.com/rss/search?q=site:bnnbloomberg.ca&hl=en&gl=CA&ceid=CA:en
     source: BNN Bloomberg
     region: Canada
     theme: Économie
