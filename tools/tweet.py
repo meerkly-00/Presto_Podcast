@@ -21,6 +21,12 @@ import anthropic
 import tweepy
 from dotenv import load_dotenv
 
+# Force UTF-8 sur la sortie console (Windows cp1252 plante sur les emojis/accents)
+if hasattr(sys.stdout, "reconfigure"):
+    sys.stdout.reconfigure(encoding="utf-8")
+if hasattr(sys.stderr, "reconfigure"):
+    sys.stderr.reconfigure(encoding="utf-8")
+
 load_dotenv(Path(__file__).parent.parent / ".env")
 
 THREAD_PROMPT = """Tu es chargé de rédiger un thread en français québécois pour le compte @prestopodcast.
