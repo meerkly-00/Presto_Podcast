@@ -121,11 +121,64 @@ def parse_script(script_xml: str) -> list[dict]:
     return segments
 
 
+_OPENAI_TTS_LIMIT = 4096
+
+
+def _split_text_chunks(text: str, max_chars: int = _OPENAI_TTS_LIMIT) -> list[str]:
+    """Split text into chunks ≤ max_chars, breaking at sentence boundaries."""
+    if len(text) <= max_chars:
+        return [text]
+    chunks, current = [], ""
+    for sentence in re.split(r"(?<=[.!?])\s+", text):
+        if not sentence:
+            continue
+        if len(current) + len(sentence) + 1 <= max_chars:
+            current = (current + " " + sentence).strip() if current else sentence
+        else:
+            if current:
+                chunks.append(current)
+            # sentence itself may exceed limit — split by word
+            if len(sentence) > max_chars:
+                words, buf = sentence.split(), ""
+                for w in words:
+                    if len(buf) + len(w) + 1 <= max_chars:
+                        buf = (buf + " " + w).strip() if buf else w
+                    else:
+                        if buf:
+                            chunks.append(buf)
+                        buf = w
+                current = buf
+            else:
+                current = sentence
+    if current:
+        chunks.append(current)
+    return chunks
+
+
 def _tts_openai(text: str, path: str, voice: str, model: str) -> None:
     from openai import OpenAI
     client = OpenAI(api_key=os.getenv("OPENAI_API_KEY"))
-    response = client.audio.speech.create(model=model, voice=voice, input=text, response_format="mp3")
-    response.stream_to_file(path)
+    chunks = _split_text_chunks(text)
+    if len(chunks) == 1:
+        response = client.audio.speech.create(model=model, voice=voice, input=chunks[0], response_format="mp3")
+        response.stream_to_file(path)
+        return
+    # multiple chunks — generate each, then concat with ffmpeg
+    with tempfile.TemporaryDirectory() as tmpdir:
+        chunk_paths = []
+        for i, chunk in enumerate(chunks):
+            chunk_path = str(Path(tmpdir) / f"chunk_{i:03d}.mp3")
+            response = client.audio.speech.create(model=model, voice=voice, input=chunk, response_format="mp3")
+            response.stream_to_file(chunk_path)
+            chunk_paths.append(chunk_path)
+        list_file = str(Path(tmpdir) / "chunks.txt")
+        with open(list_file, "w", encoding="utf-8") as f:
+            for p in chunk_paths:
+                f.write(f"file '{Path(p).as_posix()}'\n")
+        subprocess.run(
+            ["ffmpeg", "-y", "-f", "concat", "-safe", "0", "-i", list_file, "-c", "copy", path],
+            check=True, capture_output=True,
+        )
 
 
 async def _tts_edge_async(text: str, path: str, voice: str) -> None:
