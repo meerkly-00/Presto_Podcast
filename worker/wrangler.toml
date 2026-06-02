@@ -1,9 +1,7 @@
 name = "presto-audio-proxy"
 main = "audio-proxy.js"
 compatibility_date = "2026-05-01"
-
-[triggers]
-crons = ["0 12 * * *"]   # 8h EDT (UTC-4) — poste le thread X du jour
+workers_dev = false
 
 routes = [
   { pattern = "prestopodcast.online/audio/*", zone_name = "prestopodcast.online" },
@@ -11,3 +9,6 @@ routes = [
   { pattern = "www.prestopodcast.online/audio/*", zone_name = "prestopodcast.online" },
   { pattern = "www.prestopodcast.online/feed.xml", zone_name = "prestopodcast.online" },
 ]
+
+[triggers]
+crons = ["0 12 * * *"]   # 8h EDT (UTC-4) — poste le thread X du jour
