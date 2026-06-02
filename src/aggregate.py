@@ -91,7 +91,7 @@ def fetch_feed(feed_cfg: dict, since: datetime, max_articles: int, min_text_leng
             "region": region,
             "theme": theme,
             "titre": titre,
-            "texte": texte[:4000],  # plafond par article pour maîtriser la taille du contexte
+            "texte": texte[:1500],  # réduit de 4000 à 1500 pour maîtriser la taille du contexte
             "url": link,
         })
 
