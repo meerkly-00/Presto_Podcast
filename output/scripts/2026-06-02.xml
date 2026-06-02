@@ -1,0 +1,83 @@
+```xml
+<script>
+  <intro>Bonjour, on est le mardi 2 juin 2026. Voici votre Presto en environ 17 minutes. Au menu ce matin : une attaque russe massive sur l'Ukraine, le Moyen-Orient avec le front libanais et les négociations sur l'Iran, la politique canadienne avec Carney sur l'antisémitisme et la rencontre Smith-Fréchette, l'économie avec Alphabet, Anthropic et les marchés, la tech avec Meta et OpenAI, et un mot sur le sport.</intro>
+
+  <chapitre titre="International">
+    On commence par un événement majeur survenu cette nuit. Selon CBC et BBC World, la Russie a lancé cette nuit une attaque d'envergure contre plusieurs villes ukrainiennes, faisant au moins 14 morts et plus de 100 blessés selon les autorités ukrainiennes. Des centaines de drones et des dizaines de missiles ont visé Kyiv et d'autres centres urbains. Parmi les victimes confirmées figure un garçon de huit ans, retiré des décombres d'un immeuble à appartements avec une femme. BBC World indique que la Russie avait averti des jours à l'avance d'un assaut de grande envergure.
+
+    On reste dans la région, avec le Liban et l'Iran. Hier soir, l'Associated Press et BBC World rapportaient que Trump a déclaré qu'Israël et le Hezbollah avaient accepté de réduire les hostilités. Mais selon la BBC, des combats se poursuivaient malgré cette annonce d'un cessez-le-feu partiel, confirmé aussi de son côté par le Liban. En parallèle, le National Post rapporte que Trump et le premier ministre israélien Benjamin Netanyahu ont donné des versions différentes d'un appel téléphonique portant sur les combats au Liban, au moment même où Washington cherche à relancer les négociations sur le dossier iranien.
+
+    Sur l'Iran justement, Reuters rapportait en soirée que le prix du pétrole a reculé de plus de 1 % après que Trump a affirmé que des discussions avec Téhéran étaient toujours en cours. C'est un recul par rapport à la forte pression haussière observée lundi : le Wall Street Journal soulignait que les nouvelles frappes entre les États-Unis et l'Iran avaient fait grimper les prix du pétrole et les rendements obligataires.
+
+    Également, le National Post signale que des dizaines de navires commerciaux auraient réussi à traverser le détroit d'Ormuz ces dernières semaines, avec l'appui américain, malgré les restrictions imposées par l'Iran. Ce dossier que nous suivons depuis le début de la semaine reste donc en évolution constante.
+
+    Ailleurs dans le monde. Au Kenya, deux nouvelles ce matin. Selon BBC World et Al Jazeera, des manifestations ont éclaté contre un projet de centre de quarantaine contre l'Ebola financé par les États-Unis, dans la ville de Nanyuki. Deux personnes ont été tuées lors de ces manifestations. En parallèle, la Haute Cour du Kenya a ordonné au gouvernement de divulguer les détails de ce projet. Rappelons que le briefing de dimanche mentionnait déjà l'épidémie d'Ebola qui sévit dans l'est de la République démocratique du Congo.
+
+    Au Danemark, la BBC rapporte que Mette Frederiksen, chef du Parti social-démocrate, a annoncé la formation d'un gouvernement de coalition minoritaire de centre-gauche. Ce sera son troisième mandat comme première ministre, après des mois de négociations.
+
+    Du côté du Mexique, Reuters rapporte que la présidente Claudia Sheinbaum a durci le ton contre les États-Unis, attribuant les tensions à ce qu'elle décrit comme une offensive de la droite américaine. Enfin, Reuters rapporte aussi que l'administration Trump envisage de réduire le nombre d'ambassades américaines en Afrique qui traitent les demandes de visa.
+  </chapitre>
+
+  <chapitre titre="Politique canadienne">
+    En politique canadienne, trois dossiers ce matin.
+
+    D'abord, l'antisémitisme. Le premier ministre Mark Carney a prononcé lundi soir un discours très attendu à la synagogue Holy Blossom Temple de Toronto. Selon le National Post, Carney a déclaré que le pacte civique du Canada est en train de défaillir les Canadiens juifs et qu'ils sont brutalement ciblés. Il a invoqué les prophètes, Aristote et Elie Wiesel dans ce qu'il a présenté comme un appel à l'ensemble des Canadiens. Le National Post décrit l'allocution comme l'une des plus ambitieuses de son gouvernement sur le plan oratoire.
+
+    Mais le même National Post publie aussi une opinion de Jesse Kline qui fait valoir que Carney, malgré ses mots, n'a proposé que peu de mesures concrètes, et que sur le plan politique, le discours s'apparentait à un drapeau blanc. Toujours sur ce dossier, la police de Toronto a annoncé cinq nouvelles arrestations en lien avec des pancartes antisémites affichées lors d'une manifestation du 15 mars dernier dans le quartier juif de la ville.
+
+    Deuxième dossier : la rencontre entre les premières ministres Danielle Smith et Christine Fréchette. Global News rapporte que les deux dirigeantes provinciales se rencontrent mardi et mercredi pour discuter d'énergie, de commerce interprovincial, d'autonomie provinciale, et de séparatisme. C'est la première rencontre directe de ce genre depuis l'élection de Fréchette au Québec.
+
+    Troisième dossier : le libre-échange de l'Accord Canada-États-Unis-Mexique, l'ACEUM. CBC rapporte que cet accord, qui touche plus de mille milliards de dollars de l'économie canadienne, est soumis à révision le 1er juillet prochain. Trump avait déjà évoqué la possibilité de l'abandonner, mais selon CBC, certains experts commerciaux estiment que c'est une posture de négociation plutôt qu'une menace ferme. Le dossier reste à surveiller de près.
+  </chapitre>
+
+  <chapitre titre="Actualité québécoise">
+    Quelques nouvelles du Québec ce matin.
+
+    D'abord, le rassemblement raciste de Shawinigan. Radio-Canada rapporte que le groupe Second Sons Canada a revendiqué lundi soir le rassemblement tenu samedi au parc des Vétérans à Shawinigan, que nous avions mentionné dans le briefing de lundi. Le ministre Ian Lafrenière a réagi en affirmant que ce n'est pas ça, le Québec. Le Journal de Montréal et Radio-Canada soulignent tous deux que l'événement soulève des appels à la vigilance.
+
+    Ensuite, une enquête de La Presse sur le programme de récupération de TerraCycle. Selon Jean-Thomas Léveillé à La Presse, deux entreprises canadiennes ayant traité des matières supposément recyclables pour le compte de la multinationale américaine TerraCycle en ont enfoui une partie dans des sites d'enfouissement. Des ministères et organismes publics québécois et canadiens auraient versé des dizaines de milliers de dollars en fonds publics à cette entreprise.
+
+    Radio-Canada soulève aussi un enjeu de souveraineté numérique. Un sous-ministre québécois s'inquiète de ce qu'il appelle la dépendance toxique du Québec au CLOUD Act américain, une loi qui permet aux autorités américaines d'exiger l'accès à des données hébergées sur des serveurs d'entreprises américaines, même si ces serveurs sont situés au Canada. Radio-Canada précise qu'environ 85 % du marché de l'infonuagique au Canada est détenu par trois géants américains.
+
+    Enfin, Brendan Gallagher a quitté lundi le vestiaire du Canadien de Montréal pour la dernière fois. Selon Sportsnet et Radio-Canada, le joueur a annoncé qu'il allait de l'avant, après 14 saisons avec l'équipe.
+  </chapitre>
+
+  <chapitre titre="Économie et marchés">
+    Côté économie, plusieurs mouvements importants hier.
+
+    Sur les marchés d'abord. Bloomberg rapportait en soirée que les contrats à terme sur les indices américains reculaient légèrement sur fond de confusion entourant la situation au Moyen-Orient. La géopolitique continue d'exercer une pression sur les prix du pétrole. Selon Les Affaires, le pétrole a été soutenu lundi par les craintes des investisseurs liées à la géopolitique, avant de perdre plus de 1 % après les déclarations de Trump sur les discussions avec l'Iran, selon Reuters.
+
+    Du côté des entreprises, deux nouvelles majeures en tech et finance. La première concerne Alphabet, la maison mère de Google. Selon TechCrunch et le Financial Times, Alphabet a annoncé son intention d'émettre pour 80 milliards de dollars américains en nouvelles actions afin de financer son infrastructure d'intelligence artificielle. L'entreprise indique que la demande pour ses solutions d'IA dépasse l'offre disponible.
+
+    Du côté de Hewlett Packard Enterprise, ou HPE, le Financial Times rapporte que l'action a progressé de 37 % lundi sur la Bourse de New York, portée par une forte demande pour ses produits d'infrastructure en IA.
+
+    Deuxième grande nouvelle : le secteur manufacturier canadien. BNN Bloomberg rapporte que le secteur a enregistré une croissance en mai, attribuée en partie à ce qui ressemble à un stockage anticipé lié aux tensions géopolitiques mondiales.
+
+    Sur le plan des introductions en bourse à surveiller : Apotex, le géant canadien des médicaments génériques, envisage de vendre environ 1 milliard de dollars d'actions selon BNN Bloomberg. Et la chaîne hôtelière canadienne Blue Diamond a annoncé la cessation de ses activités à Cuba, selon Les Affaires.
+
+    Enfin, un verdict dans un dossier de fraude financière. Selon le Financial Times et Reuters Business, l'investisseur américain Andrew Left, connu comme vendeur à découvert, a été reconnu coupable de fraude sur valeurs mobilières par un jury américain. Left est le fondateur de Citron Research, une firme de recherche qui publiait régulièrement des rapports négatifs sur des entreprises cotées en Bourse.
+  </chapitre>
+
+  <chapitre titre="Tech">
+    Un mot sur la technologie, avec plusieurs nouvelles structurantes en moins de 24 heures.
+
+    La première concerne Anthropic. Selon The Verge, le Financial Times et Reuters, Anthropic a déposé lundi une demande d'introduction en Bourse auprès de la Securities and Exchange Commission américaine, la SEC, de manière confidentielle. La société d'intelligence artificielle est présentée comme la startup la plus valorisée au monde, avec une valorisation de 965 milliards de dollars américains après sa dernière levée de fonds. Elle devance ainsi OpenAI, évaluée à 852 milliards. Bloomberg soulève la question des attentes : est-ce que les marchés pourront absorber deux introductions en Bourse de cette ampleur, OpenAI et Anthropic, et à ces valorisations ?
+
+    Deuxièmement, une faille de sécurité chez Meta. Selon TechCrunch, The Verge et Ars Technica, des pirates informatiques ont exploité le chatbot d'assistance de Meta pour prendre le contrôle de comptes Instagram de haut profil. L'exploit consistait à demander au chatbot de modifier l'adresse courriel associée à un compte cible, puis de réinitialiser le mot de passe. Parmi les comptes temporairement compromis figuraient celui de la Maison-Blanche de Barack Obama et celui du commandant en chef du Space Force américain, qui ont brièvement affiché des images de propagande pro-iranienne. Meta indique avoir corrigé la faille le 29 mai.
+
+    Troisième nouvelle : la poursuite contre OpenAI en Floride. Selon TechCrunch et Ars Technica, la Floride est devenue le premier État américain à poursuivre OpenAI et son PDG Sam Altman, invoquant un lien entre ChatGPT et plusieurs actes de violence. Le procureur général James Uthmeier allègue qu'OpenAI a priorité aux profits sur la sécurité des utilisateurs. OpenAI maintient que ChatGPT n'est pas responsable des actes commis par des utilisateurs, et qu'il n'aurait fourni que des informations factuelles.
+
+    Quatrième nouvelle : GitHub Copilot change son modèle de tarification. Selon Ars Technica, le service d'assistance à la programmation par IA de GitHub est passé d'un modèle basé sur le nombre de requêtes à un modèle basé sur l'utilisation réelle. Résultat : de nombreux utilisateurs constatent que quelques heures de travail suffisent à épuiser leur quota mensuel, et certains estiment que leur usage habituel se chiffrerait en milliers de dollars sous la nouvelle grille.
+
+    Cinquième nouvelle : Nvidia continue de dominer la conversation sur les puces. Reuters rapporte que le PDG de Nvidia, Jensen Huang, a déclaré lors d'une tournée en Asie que l'entreprise demeure en situation de contraintes d'approvisionnement, mais qu'elle a la capacité de répondre à la croissance robuste de la demande en IA. TechCrunch précise que Nvidia cible le marché des ordinateurs personnels avec des agents d'IA intégrés, en partenariat avec Microsoft, Dell et HP.
+
+    Enfin, dans le domaine de la santé et de la tech, Ars Technica rapporte que la Coalition pour la préparation aux épidémies et l'innovation, connue sous le sigle CEPI, s'est engagée à verser jusqu'à 50 millions de dollars américains à Moderna pour le développement préclinique d'un vaccin à ARN messager contre le virus Ebola de type Bundibugyo, la souche qui circule actuellement dans l'est de la République démocratique du Congo.
+  </chapitre>
+
+  <chapitre titre="Sport">
+    On termine avec un mot sur le sport. L'équipe nationale masculine de soccer du Canada a battu l'Ouzbékistan 2 à 0 lundi soir à Edmonton, selon Global News et Sportsnet. Jonathan Osorio a ouvert le score à la 58e minute, et Jayden Nelson a ajouté un deuxième but en prolongation. C'est le dernier match amical du Canada avant la Coupe du monde de la FIFA, qui se tient cet été en Amérique du Nord. En hockey, les Golden Knights de Vegas et les Hurricanes de la Caroline s'affrontent en finale de la Coupe Stanley, selon Sportsnet. Et Serena Williams, à 44 ans, a annoncé son retour à la compétition, selon Al Jazeera. Elle recevra une invitation en double dames pour le tournoi du Queen's Club à Londres ce mois-ci.
+  </chapitre>
+
+  <outro>Voilà pour ce Presto du mardi 2 juin 2026. Si ce briefing vous est utile, le meilleur coup de main que vous pouvez nous donner, c'est de le partager à une personne qui aime rester informée. Et selon votre plateforme : un abonnement sur Spotify ou Apple Podcasts, un pouce bleu et un abonnement sur YouTube, ça prend deux secondes et ça aide vraiment Presto à grandir. Sur ce, bonne journée, et à demain.</outro>
+</script>
+```
