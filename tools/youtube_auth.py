@@ -66,7 +66,12 @@ def main():
     flow = InstalledAppFlow.from_client_config(client_config, scopes=SCOPES)
 
     # port=0 lets the OS pick a free port automatically
-    credentials = flow.run_local_server(port=0, prompt="consent", access_type="offline")
+    credentials = flow.run_local_server(
+        port=0,
+        prompt="consent",
+        access_type="offline",
+        login_hint="prestopodcast@gmail.com",
+    )
 
     refresh_token = credentials.refresh_token
 

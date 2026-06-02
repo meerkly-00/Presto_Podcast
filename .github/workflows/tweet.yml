@@ -1,9 +1,12 @@
 name: Presto — tweets du jour (génération)
 
+# Déclenché AUTOMATIQUEMENT à la fin de briefing.yml, plus de cron timing fragile.
+# Comme ça, dès que le script du jour est committé, la génération de tweets enchaîne.
 on:
-  schedule:
-    - cron: '0 11 * * *'   # 7h EDT — avant le cron Worker 8h EDT (12h UTC)
-  workflow_dispatch:        # bouton Run manuel
+  workflow_run:
+    workflows: ["Presto — briefing matinal"]
+    types: [completed]
+  workflow_dispatch:        # bouton Run manuel (fallback)
 
 permissions:
   contents: write
@@ -12,9 +15,15 @@ jobs:
   generate-tweets:
     runs-on: ubuntu-latest
     timeout-minutes: 10
+    # Skip si le briefing a échoué (sauf en manuel)
+    if: >
+      github.event_name == 'workflow_dispatch' ||
+      github.event.workflow_run.conclusion == 'success'
 
     steps:
       - uses: actions/checkout@v4
+        with:
+          ref: main      # toujours le HEAD le plus récent (le briefing vient de pousser)
 
       - uses: actions/setup-python@v5
         with:
