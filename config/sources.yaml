@@ -1,6 +1,6 @@
 feeds:
 
-  # ─── Wire services ─────────────────────────────────────────────────────────
+  # ─── Wire services ────────────────────────────────────────────────────────
   # AP : flux officiel mort, on passe par Google News
   - url: https://news.google.com/rss/search?q=site:apnews.com&hl=en&gl=CA&ceid=CA:en
     source: Associated Press
@@ -14,7 +14,7 @@ feeds:
     theme: International
     no_scrape: true
 
-  # ─── Québec ────────────────────────────────────────────────────────────────
+  # ─── Québec ──────────────────────────────────────────────────────────
   - url: https://ici.radio-canada.ca/rss/4159
     source: Radio-Canada
     region: QC
@@ -37,7 +37,7 @@ feeds:
     theme: Société
     no_scrape: true
 
-  # ─── Canada anglais ────────────────────────────────────────────────────────
+  # ─── Canada anglais ───────────────────────────────────────────────────────
   - url: https://www.cbc.ca/cmlink/rss-topstories
     source: CBC
     region: Canada
@@ -62,7 +62,7 @@ feeds:
     theme: Politique
     no_scrape: true
 
-  # ─── International ─────────────────────────────────────────────────────────
+  # ─── International ────────────────────────────────────────────────────────
   - url: https://www.cbc.ca/cmlink/rss-world
     source: CBC World
     region: International
@@ -124,7 +124,7 @@ feeds:
     theme: Économie
     no_scrape: true
 
-  # ─── Tech ──────────────────────────────────────────────────────────────────
+  # ─── Tech ──────────────────────────────────────────────────────────
   - url: https://techcrunch.com/feed/
     source: TechCrunch
     region: International
@@ -156,7 +156,7 @@ feeds:
     theme: Crypto
     no_scrape: true
 
-  # ─── Sport ─────────────────────────────────────────────────────────────────
+  # ─── Sport ──────────────────────────────────────────────────────────
   - url: https://news.google.com/rss/search?q=site:rds.ca&hl=fr&gl=CA&ceid=CA:fr
     source: RDS
     region: QC
@@ -176,4 +176,4 @@ feeds:
     no_scrape: false
 
 min_text_length: 80
-max_per_feed: 8
+max_per_feed: 4
