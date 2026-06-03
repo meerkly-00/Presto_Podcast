@@ -2,7 +2,7 @@ name: Presto — briefing matinal
 
 on:
   schedule:
-    - cron: '0 8 * * *'   # 4h00 EDT (UTC-4) — filet de sécurité si cron-job.org échoue
+    - cron: '0 9 * * *'   # 4h00 EDT (UTC-4) — filet de sécurité si cron-job.org échoue
   workflow_dispatch:       # bouton Run manuel dans GitHub
 
 permissions:
