@@ -1,0 +1,75 @@
+```xml
+<script>
+  <intro>Bonjour, on est le mercredi 3 juin 2026. Voici votre Presto en environ 17 minutes. Au menu ce matin : l'Iran frappe le Koweït, la situation au Moyen-Orient s'étend ; les États-Unis annoncent de nouveaux tarifs sur soixante pays ; Ottawa confirme l'achat de missiles longue portée et signe une entente de dix milliards avec le Québec ; un point sur les marchés ; et la tech, avec DeepSeek, Google et les données centres sous pression.</intro>
+
+  <chapitre titre="International">
+On commence par le Moyen-Orient, parce que la situation a connu une escalade importante cette nuit.
+
+Selon CBC et BBC World, les États-Unis et l'Iran ont échangé de nouvelles frappes militaires dans la région. Dans les heures qui ont suivi, l'Iran a lancé une attaque de drones contre l'aéroport international du Koweït. Le Koweït a confirmé que l'aéroport a été touché et que des blessés sont à déplorer. Les autorités koweïtiennes ont suspendu tous les vols commerciaux dans la foulée. BBC World rapporte que l'infrastructure aéroportuaire a subi des dommages importants.
+
+C'est une nouvelle dimension dans ce conflit que nous suivons depuis le début de la semaine. Rappelons que le Koweït est un allié des États-Unis et héberge des bases militaires américaines dans la région. Cette frappe représente donc une extension géographique des hostilités au-delà de l'Iran, de l'Irak et du détroit d'Ormuz.
+
+Al Jazeera rapporte par ailleurs que le Commandement central américain a rendu publique une vidéo montrant des forces américaines neutralisant un pétrolier qu'elles décrivent comme étant en route vers l'île pétrolière iranienne de Kharg, dans le golfe Persique. Washington dit avoir désactivé le navire. Téhéran n'a pas commenté l'incident dans les sources disponibles ce matin.
+
+Sur le plan économique, Bloomberg rapporte que l'OCDE a mis en garde contre un risque de ralentissement de l'économie mondiale si le conflit irano-américain se prolonge. L'organisation n'a pas chiffré l'ampleur du ralentissement prévu dans les sources disponibles, mais l'avertissement est explicite. Reuters signale que les cours du pétrole ont progressé depuis le début des hostilités, les négociations au Moyen-Orient ayant calé. La société de négoce Vitol a déclaré que le marché pétrolier pourrait ne pas refléter pleinement les risques actuels, selon Reuters Business.
+
+Toujours dans la région, Al Jazeera rapporte que le Hezbollah a diffusé une vidéo de drones montrant des attaques contre les forces israéliennes qui occupent le château de Beaufort, dans le sud du Liban. Ce site, que nous avions mentionné lundi, reste donc au coeur d'affrontements. La BBC rapporte par ailleurs que si des frappes israéliennes ont eu lieu dans le sud du Liban, la trêve partielle entre Israël et le Hezbollah, annoncée récemment par Washington, semble pour l'instant tenir autour de Beyrouth.
+
+Ailleurs dans le monde, Reuters rapporte que des drones ukrainiens ont frappé un terminal pétrolier à Saint-Pétersbourg, au moment même où s'ouvrait le Forum économique international de la ville, que les médias russes surnomment le "Davos de Poutine". BBC World rapporte par ailleurs que sept personnes ont été tuées lorsqu'un drone a frappé un autocar circulant entre Moscou et Simféropol, en Crimée occupée par la Russie.
+
+Du côté de la Chine et du Royaume-Uni, Al Jazeera rapporte que la ministre britannique des Affaires étrangères, Yvette Cooper, a qualifié de moment de dégel les nouvelles relations entre Londres et Pékin. Elle a parlé, je la cite en anglais : "candour and respect", fin de citation, pour décrire l'état des échanges diplomatiques. Al Jazeera analyse cette évolution dans le contexte plus large de la dépendance occidentale à l'égard de la Chine, en particulier dans les chaînes d'approvisionnement industrielles et technologiques.
+
+Enfin, aux États-Unis, Al Jazeera rapporte qu'une élection au poste de gouverneur de la Californie met aux prises pour la première fois depuis 2010 un candidat républicain face à un démocrate dans cet État traditionnellement ancré à gauche.
+  </chapitre>
+
+  <chapitre titre="Politique canadienne">
+En politique canadienne, deux dossiers importants ce matin, et les deux viennent d'être confirmés mardi.
+
+D'abord, l'achat de missiles. La Presse rapporte qu'Ottawa a confirmé l'acquisition de systèmes de missiles longue portée de type HIMARS, capables d'atteindre des cibles à plus de 300 kilomètres. Ce système est le même que celui que l'Ukraine a utilisé depuis 2022, et il s'inscrit dans le cadre d'une entente avec les États-Unis. Cette annonce s'inscrit dans un contexte où le Canada fait face à une pression soutenue de ses alliés de l'OTAN pour augmenter ses dépenses militaires. Dans les sources disponibles, ni le coût total de l'acquisition ni le calendrier de livraison ne sont précisés.
+
+Deuxième dossier : une entente financière majeure entre Ottawa et Québec. La Presse et La Presse citant la revue de presse de Paul Arcand rapportent qu'une série d'ententes totalisant dix milliards de dollars a été conclue entre le gouvernement fédéral et le gouvernement du Québec. Ces fonds sont destinés à des investissements en infrastructures : hôpitaux, logements et transport collectif sont mentionnés. La Presse note que pour la population, l'annonce est positive, dans la mesure où le Québec reçoit un financement fédéral longtemps attendu.
+
+À Queen's Park, Global News rapporte que le premier ministre ontarien Doug Ford a congédié le président de son caucus dans la foulée de ce que les médias décrivent comme un double problème : un dossier de pensions et un incident impliquant un jet gouvernemental. Ford a nié tout signe de division au sein de son caucus conservateur, affirmant qu'il dirige, je le cite en anglais : "a tight team", fin de citation. Les membres de l'opposition et certains membres du caucus conservateur ont une lecture différente de la situation, selon Global News, qui ne précise pas encore si d'autres départs sont à venir.
+
+Du côté des libertés civiles à Ottawa, le National Post rapporte que le Parti conservateur du Canada demande au gouvernement Carney de scinder son projet de loi sur les pouvoirs de recherche policière. Ce projet de loi autoriserait les forces de l'ordre et les agences de renseignement à accéder à certaines informations personnelles des Canadiens. Les conservateurs disent être prêts à appuyer certaines dispositions, mais veulent soumettre les parties les plus controversées à une étude plus approfondie. Le gouvernement n'a pas répondu publiquement à cette demande dans les sources disponibles ce matin.
+  </chapitre>
+
+  <chapitre titre="Économie et marchés">
+Côté économie, plusieurs éléments à couvrir.
+
+D'abord, les marchés. Reuters Business rapporte que les actions ont terminé la séance de mardi en légère baisse, les nouvelles tensions entre les États-Unis et l'Iran ayant pesé sur l'humeur des investisseurs, tandis que les cours du pétrole ont progressé. Bloomberg précisait un peu plus tôt dans la journée que la séance avait été mitigée, les signaux du Moyen-Orient entrant en concurrence avec l'enthousiasme autour de l'intelligence artificielle. Reuters Business rapporte également que la séance de lundi avait terminé en légère hausse, les investisseurs ayant finalement accordé plus d'importance aux nouvelles technologiques qu'aux tensions géopolitiques.
+
+Sur les tarifs douaniers, Radio-Canada et l'Associated Press rapportent que les États-Unis ont annoncé leur intention d'imposer des tarifs supplémentaires de 10 % à 12,5 % sur les importations en provenance d'une soixantaine de pays, invoquant des manquements aux normes sur le travail forcé. Radio-Canada précise que les biens canadiens conformes à l'accord de libre-échange nord-américain, l'ACEUM, en seraient exemptés. Il s'agit d'une mesure distincte des tarifs sur l'acier, l'aluminium et le cuivre que Trump avait signés plus tôt cette semaine, selon BNN Bloomberg.
+
+Sur le front des entreprises, BNN Bloomberg rapporte que l'action de Marvell Technology a touché un sommet historique après que le PDG de Nvidia, Jensen Huang, a déclaré lors d'un événement que Marvell pourrait être la "prochaine entreprise à mille milliards de dollars". Cette déclaration a été faite lors de Computex, la conférence technologique de Taipei que nous avions couverte lundi.
+
+Du côté des taux d'intérêt américains, le Wall Street Journal rapporte que Kevin Warsh, le nouveau responsable pressenti à la direction de la Réserve fédérale américaine, a nommé deux vétérans des politiques économiques conservatrices comme conseillers intérimaires. Cette nomination signale la direction que pourrait prendre la Fed sous sa direction.
+
+Le PDG de Goldman Sachs, David Solomon, a déclaré selon le Financial Times qu'il perçoit, je le cite en anglais : "more greed than there is fear" sur Wall Street en ce moment, fin de citation. Solomon ne précise pas si cette dynamique lui semble durable.
+
+Enfin, au chapitre du crédit privé, le Financial Times rapporte que le fonds phare de Cliffwater, un gestionnaire d'actifs américain spécialisé en crédit privé, fait face à des demandes de rachat représentant 17 % de ses actifs. Ce chiffre illustre une tension croissante dans les fonds de crédit non cotés, qui ont connu une croissance rapide ces dernières années.
+  </chapitre>
+
+  <chapitre titre="Tech">
+Un mot sur la technologie, avec plusieurs dossiers ce matin.
+
+Le plus important vient de Chine. Reuters rapporte que DeepSeek, la startup d'intelligence artificielle chinoise qui avait surpris le secteur en début d'année avec un modèle performant développé à moindre coût, s'apprête à réaliser sa première levée de fonds externe. Selon des sources citées par Reuters, cette levée devrait atteindre sept milliards de dollars américains. Il s'agirait d'une étape importante pour une entreprise qui, jusqu'ici, avait opéré sans capital-risque extérieur. Cette nouvelle soulève des questions sur la capacité des entreprises chinoises d'intelligence artificielle à attirer des capitaux institutionnels dans un contexte de tensions commerciales avec Washington.
+
+Du côté de la réglementation, The Verge rapporte que l'Autorité de la concurrence et des marchés du Royaume-Uni, la CMA, a imposé à Google une nouvelle obligation : les éditeurs de sites web doivent désormais pouvoir choisir si leur contenu est utilisé dans les fonctionnalités d'intelligence artificielle de Google Search, notamment les résumés automatiques appelés AI Overviews, et s'il sert à l'entraînement de ses modèles. La CMA décrit cette mesure comme une première mondiale. Du côté de Google, son responsable mondial de l'infrastructure a nuancé la portée de l'engagement en déclarant, je le cite en anglais : "We're just one of dozens of players in the space", fin de citation. Les groupes de presse accueillent favorablement la décision, qui leur donne un levier dans leurs négociations avec les grandes plateformes.
+
+Toujours chez Google, The Verge rapporte que l'entreprise a publié une série de cinq engagements concernant son utilisation de l'eau dans ses centres de données. Google dit vouloir restituer plus d'eau aux communautés locales qu'elle n'en consomme d'ici 2030, investir dans des infrastructures hydriques et identifier des sources alternatives. Ce positionnement intervient en réponse à une opposition croissante à l'expansion des centres de données aux États-Unis. Erin Brockovich, l'activiste environnementale rendue célèbre par le film du même nom, a lancé un nouveau site web qui cartographie l'expansion de ces centres de données aux États-Unis et invite les résidents à signaler leurs préoccupations, selon CBC.
+
+Du côté de la Coupe du monde, CBC rapporte que des avions de chasse seront déployés au-dessus de Vancouver et de Toronto dans les prochaines semaines pour sécuriser les sites de match et les zones de célébration des partisans. Cette opération est menée conjointement par le NORAD, l'organisation de défense aérospatiale canado-américaine.
+
+Enfin, Radio-Canada rapporte que les demandes d'admission dans les programmes collégiaux de graphisme et de techniques de l'informatique ont connu des baisses importantes au Québec. Les directions de cégep interrogées pointent l'intelligence artificielle comme facteur explicatif : certains futurs étudiants se questionnent sur la pertinence de ces formations dans un contexte où les outils d'IA transforment ces métiers. CBC rapportait hier qu'une entreprise d'infrastructure logicielle pour l'IA a constaté que ses agents échouent à produire un travail de qualité professionnelle dans plus de 19 cas sur 20, et que certains analystes estiment que la technologie est surévaluée et utilisée comme prétexte pour des mises à pied.
+
+Un mot sur l'énergie de fusion. TechCrunch rapporte que la startup Xcimer a allumé pour la première fois le plus grand laser privé au monde, une étape dans sa démarche de développement d'une source d'énergie par fusion nucléaire.
+  </chapitre>
+
+  <chapitre titre="Sport">
+On termine avec un bref mot sur le sport. La finale de la Coupe Stanley a commencé hier soir. Selon Sportsnet, les Golden Knights de Vegas ont remporté le premier match contre les Hurricanes de la Caroline. C'est Tomas Hertl qui a inscrit le but vainqueur avec moins de quatre minutes à jouer en troisième période, sur une passe sans regarder de Colton Sissons. Les Hurricanes devront s'adapter pour le deuxième match, selon Sportsnet.
+  </chapitre>
+
+  <outro>Voilà pour ce Presto du mercredi 3 juin 2026. Si ce briefing vous est utile, le meilleur coup de main que vous pouvez nous donner, c'est de le partager à une personne qui aime rester informée. Et selon votre plateforme : un abonnement sur Spotify ou Apple Podcasts, un pouce bleu et un abonnement sur YouTube, ça prend deux secondes et ça aide vraiment Presto à grandir. Sur ce, bonne journée, et à demain.</outro>
+</script>
+```
