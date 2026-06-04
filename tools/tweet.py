@@ -61,7 +61,24 @@ Réponds UNIQUEMENT avec les 3 tweets séparés par une ligne contenant exacteme
 Script XML :
 {script}"""
 
-CTA_TWEET = "Le briefing complet est disponible sur toutes les plateformes 🎙️\n→ prestopodcast.online"
+_MOIS_FR = [
+    "janvier", "février", "mars", "avril", "mai", "juin",
+    "juillet", "août", "septembre", "octobre", "novembre", "décembre",
+]
+
+
+def build_cta(date_str: str = "") -> str:
+    """CTA final, varié par date pour éviter le rejet 'doublon' de X.
+
+    date_str au format YYYY-MM-DD. Si absent/invalide, fallback sans date.
+    """
+    label = ""
+    try:
+        y, m, d = (int(x) for x in date_str.split("-"))
+        label = f"Édition du {d} {_MOIS_FR[m - 1]} — "
+    except Exception:
+        pass
+    return f"{label}le briefing complet sur toutes les plateformes 🎙️\n→ prestopodcast.online"
 
 
 def extract_thread(script_xml: str) -> list[str]:
@@ -147,7 +164,7 @@ def main():
     print("Génération du thread...")
     content_tweets = extract_thread(script_xml)
 
-    all_tweets = content_tweets + [CTA_TWEET]
+    all_tweets = content_tweets + [build_cta(script_path.stem)]
     all_tweets = [_trim_tweet(t) for t in all_tweets]
 
     print(f"\n{'='*50}")
