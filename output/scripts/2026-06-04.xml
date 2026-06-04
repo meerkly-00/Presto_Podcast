@@ -1,0 +1,93 @@
+```xml
+<script>
+  <intro>Bonjour, on est le jeudi 4 juin 2026. Voici votre Presto en environ 17 minutes. Au menu ce matin : l'Iran et le Moyen-Orient, avec plusieurs développements simultanés. La politique canadienne, notamment sur les tarifs douaniers, le renseignement et la stratégie d'intelligence artificielle. L'économie et les marchés, avec Broadcom, Shopify et les tensions géopolitiques qui pèsent sur les bourses. Et un mot sur la tech, avec Google au Royaume-Uni, Apple au Texas et SpaceX.</intro>
+
+  <chapitre titre="International">
+On commence par le Moyen-Orient, parce que plusieurs fils s'entrecroisent ce matin.
+
+Premier dossier : un cessez-le-feu conditionnel entre Israël et le Liban. Selon BBC World, Al Jazeera, Radio-Canada et le National Post, Israël et le Liban ont accepté de mettre en oeuvre un cessez-le-feu, à condition que le Hezbollah cesse ses attaques. L'entente a été négociée lors de pourparlers à Washington, auxquels le Hezbollah ne participait pas directement. Les deux pays, avec les États-Unis, ont publié une déclaration commune rejetant, je les cite, "toute tentative de la part d'un État ou d'un acteur non étatique de prendre en otage l'avenir du Liban", fin de citation. Selon Radio-Canada, une nouvelle ronde de négociations est prévue la semaine du 22 juin, en vue d'un accord global.
+
+Toutefois, Al Jazeera rapporte que dès le jour même de cette annonce, Israël a mené des attaques de drones contre le Liban. C'est le jour 97 du conflit impliquant l'Iran que l'on suit depuis le début de la semaine, et Al Jazeera note que Téhéran affirme n'avoir constaté aucun progrès dans les discussions diplomatiques.
+
+Sur le front du Koweït : l'Associated Press rapporte que des drones iraniens ont frappé l'aéroport koweïtien, faisant un mort, mettant à l'épreuve, une fois de plus, la stabilité de la région.
+
+Deuxième dossier : le Congrès américain contre Trump sur l'Iran. Selon CBC World, BBC World et Radio-Canada, la Chambre des représentants des États-Unis a adopté mercredi une résolution sur les pouvoirs de guerre qui ordonnerait l'arrêt des opérations militaires américaines contre l'Iran. Le vote était de 215 contre 208. Quatre républicains ont joint leur voix aux démocrates pour faire passer la mesure. CBC World souligne qu'il s'agit de la première fois que la Chambre adopte une telle résolution depuis le début du conflit, maintenant entré dans son troisième mois. La mesure est toutefois largement symbolique selon BBC World : le président Trump peut y opposer son veto, et le Sénat doit encore se prononcer.
+
+Troisième dossier : l'Ukraine. CBC World rapporte que des drones ukrainiens à longue portée ont frappé mercredi un terminal pétrolier à Saint-Pétersbourg et y ont provoqué un incendie. Le président Zelensky a confirmé l'attaque. L'incident survient alors que Saint-Pétersbourg accueille le forum économique russe, un événement destiné à attirer des investisseurs étrangers.
+
+Toujours en Europe, Reuters rapporte que tous les membres de l'Union européenne ont donné leur aval à la première étape des négociations d'adhésion de l'Ukraine à l'UE, selon le premier ministre ukrainien.
+
+Du côté de Taïwan, deux nouvelles en parallèle. Reuters rapporte que Taïwan appelle la Chine à affronter son passé, à l'occasion de l'anniversaire des événements de la place Tiananmen. Par ailleurs, Reuters signale que Taïwan renforce son arsenal de missiles anti-navires dans le cadre de sa politique de dissuasion face à la menace d'une invasion chinoise.
+
+En Mer de Chine méridionale, BBC World publie une analyse sur la course aux îles artificielles : après des années à observer la Chine créer des terres pour appuyer ses revendications territoriales, d'autres pays dans la région auraient commencé à faire de même.
+
+Enfin, un mot sur Cuba. CBC World rapporte que la chaîne hôtelière espagnole Meliá a fermé certains de ses établissements dans l'île, rejoignant une liste d'entreprises qui réduisent leurs opérations à Cuba depuis que les États-Unis ont annoncé de nouvelles sanctions. Les Affaires ajoute que les paiements par cartes Visa et Mastercard ont été suspendus sur l'île.
+  </chapitre>
+
+  <chapitre titre="Politique canadienne">
+En politique canadienne, quatre dossiers ce matin.
+
+D'abord, les tarifs douaniers. Reuters et Les Affaires rapportent qu'Ottawa a décidé de prolonger d'un an ses mesures de riposte aux tarifs américains sur l'acier et l'aluminium. BNN Bloomberg signale par ailleurs que le Canada a soumis de nouvelles propositions commerciales aux États-Unis. Ces développements s'inscrivent dans un contexte plus large de pression tarifaire américaine : l'Associated Press rapporte que l'administration Trump cherche une nouvelle voie juridique pour imposer ses tarifs, après que ses premières tentatives ont été bloquées par les tribunaux. Le Wall Street Journal publie ce matin un guide sur ces nouveaux tarifs américains.
+
+Deuxième dossier : l'espionnage chinois. La Presse rapporte que le Service canadien du renseignement de sécurité, le SCRS, et ses partenaires internationaux ont émis un avertissement conjoint. Selon cette mise en garde, les services de renseignement militaire chinois utiliseraient des sites de réseautage professionnel et des plateformes de recherche d'emploi en ligne pour cibler des membres actuels et anciens du personnel gouvernemental et militaire canadien, au moyen de fausses offres d'emploi.
+
+Troisième dossier : la stratégie canadienne en intelligence artificielle. Global News rapporte que le ministre de l'Intelligence artificielle Evan Solomon s'apprête à rendre publique la stratégie nationale en IA, qu'il a baptisée "IA pour tous". La stratégie promet de rendre l'intelligence artificielle accessible et bénéfique pour l'ensemble des Canadiens, selon Global News.
+
+Quatrième dossier : la politique énergétique interprovinciale. Radio-Canada rapporte que la première ministre de l'Alberta, Danielle Smith, s'est dite prête à discuter d'un éventuel pipeline ou terminal au Québec. Radio-Canada précise que les échanges commerciaux entre les deux provinces s'élèvent à 29 milliards de dollars.
+
+À noter aussi : La Presse rapporte que le gouvernement fédéral va commencer à verser dès vendredi un crédit de taxe sur les produits et services ponctuel aux Canadiens admissibles. CBC confirme cette information.
+
+Enfin, sur le dossier des avions de chasse, The Hub publie une analyse sur la décision du gouvernement de se tourner vers le chasseur suédois Gripen, estimant que 90 pour cent des contrats de défense resteraient dans un système d'approvisionnement qui, selon l'auteur, est déficient.
+  </chapitre>
+
+  <chapitre titre="Économie et marchés">
+Côté économie, plusieurs éléments importants ce matin.
+
+Sur les marchés d'abord. Reuters Business rapporte que les actions mondiales ont reculé mercredi, tandis que les cours du pétrole ont progressé, les tensions au Moyen-Orient pesant sur l'humeur des investisseurs. Bloomberg confirme que les actions américaines ont terminé la séance en baisse, les nouvelles tensions entre les États-Unis et l'Iran ayant contribué à ce mouvement. Bloomberg indique également que les marchés asiatiques étaient orientés à la baisse ce matin pour les mêmes raisons. Du côté des taux, Bloomberg rapporte que les obligations du Trésor américain font face à leur plus forte baisse en deux semaines, en raison de spéculations sur une éventuelle hausse des taux de la Réserve fédérale.
+
+La grande nouvelle du jour côté marchés vient de Broadcom. Selon le Financial Times et Les Affaires, Broadcom a perdu plus de 300 milliards de dollars américains en capitalisation boursière après avoir publié des prévisions de revenus qui ont déçu les investisseurs.
+
+Côté entreprises canadiennes, BNN Bloomberg rapporte que Shopify a annoncé une augmentation de 3 milliards de dollars américains de son programme de rachat d'actions existant. Sur l'immobilier résidentiel à Toronto, BNN Bloomberg signale que le Toronto Regional Real Estate Board, le TRREB, rapporte des ventes immobilières printanières plus élevées que l'an dernier.
+
+Du côté des ressources, BNN Bloomberg publie une analyse sur l'antimoine, un métal critique dans lequel un mineur canadien pourrait jouer un rôle central pour la sécurité nationale américaine, selon la publication.
+
+Sur la géopolitique et l'énergie, le Financial Times rapporte que des États du Golfe sont en discussion pour la construction de pipelines permettant d'acheminer le pétrole en contournant le détroit d'Ormuz, dont la stabilité est menacée par le conflit avec l'Iran.
+
+Enfin, deux signaux macro à noter. Bloomberg rapporte que l'analyste de DoubleLine, Bonnie Cohen, estime qu'une bulle liée à l'intelligence artificielle se prépare sur les marchés de crédit. Et selon The Economist, le capitalisme américain traverse une période marquée par une pensée qualifiée de millénariste dans les milieux d'affaires et sur les marchés, selon cette publication.
+  </chapitre>
+
+  <chapitre titre="Tech">
+Un mot sur la technologie, avec plusieurs dossiers ce matin.
+
+D'abord, une décision réglementaire importante au Royaume-Uni. Ars Technica rapporte que le régulateur britannique de la concurrence et des marchés, le CMA, a ordonné à Google de mettre en place des attributions plus claires et des liens visibles vers les contenus des éditeurs dans ses fonctionnalités de recherche générées par intelligence artificielle, comme AI Overviews. Plus important encore, le CMA oblige Google à permettre aux éditeurs de se retirer de ces fonctionnalités d'IA, et interdit à Google de pénaliser les éditeurs qui choisissent de le faire en les déclassant dans les résultats de recherche ordinaires. Google dispose de neuf mois pour se conformer.
+
+Deuxièmement, Apple introduit la vérification d'âge dans l'App Store au Texas. Selon The Verge, à compter du 4 juin, les nouveaux utilisateurs en Texas devront confirmer qu'ils ont 18 ans ou plus en fournissant une carte de crédit ou une pièce d'identité gouvernementale. Les utilisateurs de moins de 18 ans devront rejoindre un groupe de partage familial sous la supervision d'un parent ou tuteur. La mesure fait suite à une loi texane récemment entrée en vigueur pendant qu'un recours judiciaire à son encontre suit son cours.
+
+Troisièmement, une alerte de sécurité à surveiller. Ars Technica rapporte que le gestionnaire de mots de passe Dashlane a émis lundi un avis de sécurité indiquant qu'un attaquant a mené une attaque par force brute contre certains comptes d'utilisateurs à compter du 31 mai dernier, dans le but de contourner la protection à deux facteurs et d'enregistrer de nouveaux appareils sur des comptes existants. Selon Ars Technica, 20 coffres-forts chiffrés d'utilisateurs auraient été obtenus. La publication note toutefois que plusieurs éléments de l'avis de Dashlane demeurent peu clairs.
+
+Quatrièmement, Meta entre dans la course aux agents d'IA pour les entreprises. Reuters Business rapporte que Meta a lancé un nouvel agent d'IA destiné aux entreprises, s'ajoutant ainsi à un marché déjà occupé par Microsoft, Google et d'autres.
+
+Du côté des startups, TechCrunch rapporte que Lovable, une entreprise de développement d'applications par IA, a signé un accord pluriannuel avec Google Cloud prévoyant une expansion de cinq fois son empreinte sur la plateforme, ainsi qu'un accès élargi au modèle Claude d'Anthropic.
+
+Sur le matériel, Nintendo a confirmé, selon The Verge, qu'une version de la Switch 2 avec batterie remplaçable par l'utilisateur sera commercialisée dans l'Union européenne, conformément à un règlement européen qui entrera en vigueur en février 2027.
+
+Enfin, Ars Technica publie un tour d'horizon des avancées en informatique quantique chez Microsoft, Atom Computing et EeroQ. Selon cette publication, aucune percée majeure n'est à signaler, mais les trois entreprises progressent sur leurs technologies respectives, notamment les qubits topologiques pour Microsoft.
+  </chapitre>
+
+  <chapitre titre="Économie et marchés — SpaceX">
+Un élément supplémentaire qui mérite sa place dans le panorama économique ce matin. Le Financial Times rapporte que SpaceX, la compagnie spatiale d'Elon Musk, prépare une introduction en bourse en valorisant l'entreprise à 1 800 milliards de dollars américains, selon cette publication. The Economist publie par ailleurs une analyse sur une explosion récente d'une fusée qui, selon ce magazine, pourrait compromettre à la fois les plans d'Amazon dans le secteur spatial et ceux de la NASA.
+  </chapitre>
+
+  <chapitre titre="Sport">
+Un mot rapide sur le sport.
+
+Du côté de la NBA, Sportsnet rapporte que les Knicks de New York ont remporté le premier match de la finale contre le Spurs de San Antonio, malgré un jeu qu'on dit rouillé après une pause de huit jours. C'est une victoire sur la route pour des Knicks qui avaient enchaîné onze victoires consécutives en séries.
+
+Sur la Coupe Stanley, les Golden Knights de Vegas menaient la finale un à zéro contre les Hurricanes de la Caroline après le match un. Sportsnet rapporte ce matin que l'entraîneur des Hurricanes, Rod Brind'Amour, interpelle ouvertement sa ligne d'attaque de Sebastian Aho, qui peine à produire.
+
+Et du côté du baseball, Sportsnet signale que les Blue Jays de Toronto ont subi leur quatrième défaite consécutive mercredi, cette fois contre les Braves d'Atlanta.
+  </chapitre>
+
+  <outro>Voilà pour ce Presto du jeudi 4 juin 2026. Si ce briefing vous est utile, le meilleur coup de main que vous pouvez nous donner, c'est de le partager à une personne qui aime rester informée. Et selon votre plateforme : un abonnement sur Spotify ou Apple Podcasts, un pouce bleu et un abonnement sur YouTube, ça prend deux secondes et ça aide vraiment Presto à grandir. Sur ce, bonne journée, et à demain.</outro>
+</script>
+```
