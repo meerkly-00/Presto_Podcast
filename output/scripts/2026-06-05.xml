@@ -1,0 +1,85 @@
+```xml
+<script>
+  <intro>Bonjour, on est le vendredi 5 juin 2026. Voici votre Presto en environ 17 minutes. Au menu ce matin : le Moyen-Orient, avec le cessez-le-feu au Liban qui tient à un fil ; la guerre en Ukraine, avec une lettre ouverte de Zelensky à Poutine ; les États-Unis, avec Trump, le Congrès et l'Iran ; la politique canadienne, avec les maires des grandes villes qui réclament 3,5 milliards par an pour l'itinérance, une stratégie nationale sur l'IA, et un ex-officier de la GRC accusé d'infractions à la sécurité nationale ; l'actualité québécoise, avec le REM et l'embouteillage législatif à Québec ; l'économie, avec Broadcom, SpaceX et Blackstone ; la tech, avec Anthropic qui demande une pause mondiale sur l'IA ; et le sport, avec les Hurricanes qui reviennent dans la série.</intro>
+
+  <chapitre titre="International">
+Commençons par le Moyen-Orient, parce que la situation évolue sur plusieurs fronts ce matin.
+
+Premier dossier : le cessez-le-feu au Liban. Selon BBC World et CBC World, le Hezbollah a rejeté l'accord de cessez-le-feu conclu mercredi soir par les États-Unis entre Israël et le Liban. L'armée israélienne a pour sa part indiqué qu'elle n'avait pas l'intention de retirer ses troupes du pays, ce qui, selon ces deux sources, complique les efforts de l'administration Trump pour mettre fin aux combats et forger une entente de paix avec Téhéran. Al Jazeera rapporte que le bilan du conflit au Liban dépasse maintenant 3 500 morts, et que des frappes israéliennes se sont poursuivies malgré l'accord annoncé. On en est au jour 98 du conflit entre les États-Unis et l'Iran.
+
+Selon Financial Times, Trafigura, un des plus grands négociants en matières premières au monde, parle d'un point d'inflexion sur les marchés pétroliers en lien avec la guerre contre l'Iran, et signale des profits records pour son premier semestre. La compagnie n'a pas fourni de chiffres détaillés dans les sources disponibles, mais la mention de profits records dans ce contexte est notable.
+
+Deuxième dossier : l'Ukraine. Selon BBC World et le National Post, le président ukrainien Volodymyr Zelensky a adressé jeudi une lettre ouverte à Vladimir Poutine pour lui proposer des discussions directes. En anglais, je le cite : "Life without war is infinitely better." Fin de citation. Zelensky y fait valoir que seul un engagement direct entre les deux parties pourrait mettre fin à la guerre, et souligne que les États-Unis sont pour l'instant concentrés sur la situation en Iran. De son côté, Associated Press rapporte que Poutine a dit que la Russie allait renforcer ses défenses aériennes en réponse aux attaques de drones ukrainiens. Il n'y a pas eu de réponse formelle de Moscou à la lettre de Zelensky dans les sources disponibles ce matin.
+
+Troisième dossier : les États-Unis et l'Iran. Selon BBC World, la Chambre des représentants américaine a adopté une résolution qui cherche à mettre fin aux actions militaires américaines sans l'autorisation du Congrès. Cette résolution est décrite par BBC World comme étant de nature largement symbolique. Le président Trump a réagi en qualifiant ce vote de non-patriotique.
+
+Quatrième dossier : les États-Unis imposent des sanctions contre Cuba. Selon CBC, l'administration Trump a annoncé des sanctions contre le président cubain Miguel Díaz-Canel, son épouse et trois autres individus, dans la dernière d'une série de mesures de pression contre la direction cubaine. La Havane a immédiatement condamné cette décision.
+
+Cinquième dossier : John Bolton. Selon Associated Press, l'ancien conseiller à la sécurité nationale John Bolton s'apprête à plaider coupable dans une affaire d'informations classifiées. C'est tout ce qu'Associated Press rapporte pour l'instant sur ce dossier.
+
+Sixième dossier : le décès de Marjane Satrapi. Associated Press rapporte que la dessinatrice et cinéaste franco-iranienne Marjane Satrapi, connue notamment pour Persepolis, est décédée à l'âge de 56 ans. L'Associated Press ne précise pas la cause du décès ni la date exacte dans les informations disponibles.
+
+Enfin, du côté du Pérou, Reuters rapporte qu'un sondage Ipsos montre que le candidat de gauche Sanchez gagne du terrain à l'approche du second tour de l'élection présidentielle. Reuters ne fournit pas de chiffres précis dans l'extrait disponible.
+  </chapitre>
+
+  <chapitre titre="Politique canadienne">
+En politique canadienne, trois dossiers ce matin.
+
+D'abord, l'itinérance. Selon Radio-Canada et La Presse, les maires des grandes villes canadiennes ont lancé un appel conjoint à Ottawa pour que le gouvernement fédéral consacre 3,5 milliards de dollars par an à la lutte contre l'itinérance. Selon ces sources, les maires font valoir que ce dossier devrait être traité comme un projet de construction nationale, au même titre que les grands projets d'infrastructure ou d'énergie. Les sources ne précisent pas quelles villes ont signé cet appel ni si Ottawa a répondu.
+
+Deuxième dossier : la stratégie canadienne en intelligence artificielle. Selon Reuters, Ottawa a annoncé jeudi que sa stratégie nationale en IA devrait permettre de créer 250 000 emplois et d'augmenter le PIB de 3 %. Reuters ne détaille pas les mesures concrètes ni l'horizon temporel visé. Il est à noter que le Devoir publie ce matin un éditorial qui critique la position de Mark Carney sur la souveraineté culturelle face à Washington, dans un contexte de négociations avec les États-Unis. Cet éditorial porte le ton d'une opinion, et non d'une nouvelle factuelle, mais il témoigne d'un débat en cours sur la marge de manoeuvre du gouvernement fédéral.
+
+Troisième dossier : un ex-officier de la GRC accusé d'infractions à la sécurité nationale. Selon CBC, un ancien officier de la GRC qui travaillait dans une unité de sécurité nationale a été accusé d'avoir partagé des informations classifiées avec des personnes avec lesquelles il entretenait des relations. CBC ne précise pas les chefs d'accusation exacts ni l'identité de l'individu.
+
+Un mot aussi sur l'affaire Harkat. Selon le National Post, un juge de la Cour fédérale a accordé jeudi une nouvelle révision judiciaire à Mohamed Harkat, un homme soupçonné d'être un agent dormant d'al-Qaïda que le Canada tente d'expulser depuis 24 ans, évitant ainsi une déportation immédiate. Le National Post rapporte que cette décision lui donne une nouvelle chance de contester son renvoi du pays.
+
+Enfin, Radio-Canada rapporte qu'Ottawa a annoncé qu'il repoussait à l'automne sa réforme du processus d'approbation des grands projets, prolongeant ainsi sa consultation publique.
+  </chapitre>
+
+  <chapitre titre="Actualité québécoise">
+Deux dossiers du côté du Québec ce matin.
+
+D'abord, le REM. Radio-Canada rapporte que le patron des opérations du REM a été remercié. La source identifie la personne visée comme étant Loïc Cordelle, directeur de la compagnie d'exploitation Pulsar. Radio-Canada rappelle dans son article que les interruptions de service se multiplient depuis le lancement du réseau en 2023, au grand dam des usagers. Le REM n'a pas fourni d'explications publiques sur ce départ dans les informations disponibles ce matin.
+
+Deuxième dossier : l'embouteillage législatif à Québec. La Presse rapporte que le gouvernement Fréchette fait face à un embouteillage en fin de session parlementaire, avec 18 projets de loi inscrits au feuilleton, et un dix-neuvième qui devait s'y ajouter vendredi. Selon La Presse, il ne restait que cinq jours de travaux parlementaires avant la pause estivale au moment de la publication, et l'adoption de certains projets de loi n'était pas assurée. Parmi les dossiers en suspens, La Presse mentionne une réforme pour la protection du français. Par ailleurs, Radio-Canada rapporte que l'Assemblée nationale a adopté le principe du projet de loi 3 sur la carte électorale, malgré l'opposition du député indépendant Youri Chassin, qui a dit avoir des moyens limités pour le bloquer.
+
+Un dernier mot sur l'affaire du meurtre dans un Walmart de Montréal-Nord. La Presse rapporte que trois adolescents ont plaidé non coupable jeudi à divers chefs d'accusation, dont un de meurtre au deuxième degré, en lien avec l'événement survenu mardi. Un quatrième suspect arrêté le soir du mercredi a été remis en liberté sans accusation pour le moment.
+  </chapitre>
+
+  <chapitre titre="Économie et marchés">
+Côté économie, plusieurs éléments importants ce matin.
+
+Sur les marchés, Bloomberg rapporte que les actions asiatiques étaient orientées à la baisse en début de séance vendredi, et que les cours du pétrole se stabilisaient. Ce mouvement survient après une séance difficile aux États-Unis, en partie liée aux nouvelles sur Broadcom.
+
+Justement, Broadcom. Selon Reuters Business et Financial Times, l'action de Broadcom a subi une forte correction après que l'entreprise a publié des prévisions de revenus qui n'ont pas répondu aux attentes des investisseurs en matière d'IA. Financial Times parle d'une perte de valeur boursière de l'ordre de 285 milliards de dollars américains, et Reuters Business évoquait un chiffre proche de 300 milliards dans ses premières estimations. Pour situer l'ampleur : c'est l'une des plus fortes destructions de valeur en une seule séance pour une entreprise technologique depuis plusieurs années. Broadcom reste un acteur central dans la fabrication de puces pour les centres de données d'IA, ce qui explique pourquoi ses résultats sont scrutés de près.
+
+Deuxième dossier économique : SpaceX et son entrée en bourse. Plusieurs sources abordent ce dossier sous des angles différents. Bloomberg rapporte que des analystes de Wall Street estiment que les revenus générés par l'IA chez SpaceX pourraient être multipliés par 100 d'ici 2030. Reuters rapporte par ailleurs que le S&P a confirmé ses règles existantes et a bloqué l'entrée anticipée de SpaceX dans ses indices de référence américains, une décision qui touche directement les fonds passifs qui répliquent ces indices. Financial Times publie de son côté un texte d'analyse plus critique sur l'introduction en bourse prévue, suggérant que la valorisation de l'entreprise repose en partie sur la capacité de son fondateur à créer un récit. Bloomberg évoquait jeudi une valorisation cible de 1 800 milliards de dollars américains pour cette introduction en bourse.
+
+Troisième dossier : Blackstone. Reuters Business rapporte que le fonds de crédit privé de Blackstone a plafonné les retraits après une augmentation des demandes de rachat de la part d'investisseurs. Reuters ne précise pas le montant total des demandes en attente ni le plafond exact imposé, mais c'est un signal que les investisseurs institutionnels cherchent à récupérer des liquidités dans ce segment du marché.
+
+Quatrième dossier : une alerte macroéconomique en Europe. Selon le Wall Street Journal, l'économie irlandaise est susceptible d'entraîner la zone euro dans une contraction. Le Journal ne détaille pas les chiffres dans l'extrait disponible, mais la mention d'une contraction potentielle pour l'ensemble de la zone euro mérite d'être notée.
+
+Enfin, une nouvelle canadienne. BNN Bloomberg rapporte que le chef de la direction de Canaccord Genuity a qualifié les résultats trimestriels de l'entreprise de solides sur l'ensemble de ses activités. Canaccord est l'une des plus grandes banques d'investissement indépendantes au Canada, ce qui en fait un indicateur des conditions de marché pour les entreprises de taille moyenne.
+  </chapitre>
+
+  <chapitre titre="Tech">
+Un mot sur la technologie, avec deux dossiers importants ce matin.
+
+Le premier, et probablement le plus structurant de la semaine en matière d'IA : Anthropic demande une pause mondiale sur les systèmes d'IA les plus puissants. Selon le National Post, la compagnie Anthropic a lancé jeudi un appel à une pause dans le développement des modèles d'IA les plus avancés, au motif que les dernières générations de modèles commencent à montrer des signes pouvant indiquer qu'ils pourraient échapper au contrôle humain. C'est une position notable venant d'une compagnie qui est elle-même en train de préparer une introduction en bourse. TechCrunch rapporte en parallèle que la coprésidente d'Anthropic, Daniela Amodei, a dit devant des investisseurs que les revenus annualisés de l'entreprise ont atteint 47 milliards de dollars américains en mai 2026, en hausse par rapport à environ 9 milliards à la fin de 2025. TechCrunch souligne que cette trajectoire sera mise à l'épreuve dans les prochains mois. Pour situer la tension : Anthropic prône une pause sur l'IA la plus puissante tout en faisant campagne pour lever des fonds à une valorisation qui repose sur une croissance continue. Certains observateurs pourraient y voir une contradiction, d'autres, une reconnaissance honnête des risques par une entreprise qui les connaît de l'intérieur.
+
+Deuxième dossier : une décision de la Cour suprême américaine qui touche la vie privée des utilisateurs. Ars Technica rapporte qu'AT&T et Verizon ont perdu leur cause devant la Cour suprême des États-Unis dans une affaire portant sur des amendes imposées par la Commission fédérale des communications, ou FCC, pour avoir vendu les données de localisation en temps réel de leurs utilisateurs sans leur consentement. La décision a été rendue à 8 voix contre 1, le juge Clarence Thomas étant le seul dissident. Les amendes totales imposées aux deux entreprises s'élèvent à 104 millions de dollars américains. Les entreprises faisaient valoir que le processus d'imposition des amendes par la FCC violait leur droit à un procès devant jury. La Cour a rejeté cet argument.
+
+Mentionnons aussi rapidement deux autres nouvelles tech. Premièrement, Ars Technica publie un texte critique sur les vidéos virales de robots humanoïdes, citant des experts qui soulignent l'écart entre les démonstrations publiques et les capacités réelles de ces appareils dans des conditions normales. Deuxièmement, Ars Technica rapporte que Dashlane, un gestionnaire de mots de passe, a subi une attaque coordonnée dans laquelle des intrus ont réussi à télécharger moins de 20 coffres-forts chiffrés de clients, avant que les systèmes de sécurité automatiques de l'entreprise ne bloquent l'opération.
+  </chapitre>
+
+  <chapitre titre="Sport">
+On termine avec un mot sur le sport.
+
+Du côté de la finale de la Coupe Stanley, les séries sont maintenant égales à un match partout. Selon Sportsnet, les Hurricanes de la Caroline ont nivelé la série contre les Golden Knights de Vegas en prolongation lors du deuxième match jeudi soir, grâce à un but de Seth Jarvis en avantage numérique à la 64e minute. Sportsnet note que les Hurricanes affichaient un dossier parfait de 6 victoires en 6 matchs en prolongation ce printemps avant cette partie. Sportsnet rapporte aussi que l'entraîneur des Golden Knights, John Tortorella, a fait une contestation ratée qui a attiré beaucoup d'attention, sans que cela n'ait été déterminant dans l'issue du match selon l'analyste Eric Francis.
+
+Aucune autre nouvelle sportive majeure dans les sources disponibles ce matin. On suivra la suite de la finale.
+  </chapitre>
+
+  <outro>Voilà pour ce Presto du vendredi 5 juin 2026. Si ce briefing vous est utile, le meilleur coup de main que vous pouvez nous donner, c'est de le partager à une personne qui aime rester informée. Et selon votre plateforme : un abonnement sur Spotify ou Apple Podcasts, un pouce bleu et un abonnement sur YouTube, ça prend deux secondes et ça aide vraiment Presto à grandir. Sur ce, bonne journée, et à demain.</outro>
+</script>
+```
