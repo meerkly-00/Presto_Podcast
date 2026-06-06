@@ -1,0 +1,81 @@
+```xml
+<script>
+  <intro>Bonjour, on est le samedi 6 juin 2026. Voici votre Presto en environ 17 minutes. Au menu ce matin : la situation au Moyen-Orient, où les États-Unis et l'Iran ont échangé des frappes cette nuit malgré un cessez-le-feu théoriquement en vigueur. Aussi : les marchés financiers ont subi un recul marqué vendredi, plombés par les semi-conducteurs et un rapport d'emploi américain plus fort que prévu. Du côté du Québec, un développement dans le dossier des boissons énergisantes et un mot sur la langue française. Et quelques nouvelles du côté de la tech et du sport.</intro>
+
+  <chapitre titre="International">
+On commence par un événement majeur survenu cette nuit.
+
+Les États-Unis et l'Iran se sont échangé des frappes militaires dans la nuit de vendredi à samedi, dans ce qui représente une nouvelle escalade dans un conflit qui approche le cap des cent jours. Selon Radio-Canada, CBC et Al Jazeera, les forces américaines ont d'abord abattu quatre drones iraniens qui se dirigeaient vers le détroit d'Ormuz. L'armée américaine a ensuite frappé des sites de radars de surveillance côtière iraniens à Goruk et sur l'île de Qeshm. Cette île avait déjà été ciblée mardi par les forces américaines.
+
+Dans son communiqué sur la plateforme X, le Commandement militaire américain pour le Moyen-Orient, le Centcom, a justifié ces frappes comme une opération de légitime défense. En anglais, je le cite : "forces that represented an immediate threat to regional maritime traffic." Fin de citation.
+
+L'Iran n'a pas tardé à riposter. Les Gardiens de la révolution ont indiqué avoir tiré des missiles balistiques en direction de la base aérienne Ali Al-Salem au Koweït, où sont stationnés des appareils américains, ainsi qu'en direction du quartier général de la Ve flotte américaine à Bahreïn. Selon Radio-Canada, des journalistes de l'AFP présents dans les deux pays ont rapporté avoir entendu des explosions, notamment près de l'aéroport de Koweït. Al Jazeera rapporte que sept missiles balistiques au total ont été tirés vers le Koweït et Bahreïn. Les Gardiens de la révolution ont par ailleurs indiqué que deux tours de communication ont été touchées à Sirik et à Qeshm.
+
+Le National Post rapporte que les États-Unis et l'Iran restent dans une impasse sur toute perspective de trêve à l'approche du centième jour de conflit, et que Téhéran affirme exercer une souveraineté conjointe avec Oman sur le détroit d'Ormuz.
+
+En parallèle, le conflit a une dimension géopolitique inattendue à l'approche de la Coupe du monde. Selon CBC World, les joueurs de l'équipe nationale iranienne de soccer ont obtenu leurs visas pour entrer aux États-Unis, à dix jours de leur premier match à Los Angeles. Un fonctionnaire de la Maison-Blanche en a informé Reuters vendredi.
+
+Toujours dans ce dossier, mais sur le front libanais : selon les briefings des derniers jours, Israël continue de mener des frappes au Liban. Les articles d'aujourd'hui confirment cette tendance sans donner de nouveaux détails substantiels sur ce théâtre de conflit.
+
+On passe maintenant à l'Ukraine. Selon l'Associated Press et BBC World, le président russe Vladimir Poutine a refusé de rencontrer son homologue ukrainien Volodymyr Zelensky, en réponse à une lettre ouverte dans laquelle ce dernier demandait des pourparlers directs. Le porte-parole du Kremlin, Dmitri Peskov, cité par l'agence d'État TASS, a indiqué que Poutine avait invoqué des "remarques grossières" pour justifier son refus de donner suite à cette invitation. Aucune date ni lieu de rencontre n'est donc envisagé.
+
+Un mot maintenant sur l'Arménie. Selon BBC World, le pays se prépare à des élections alors que la pression de la Russie s'intensifie sur le gouvernement pro-occidental en place. Le premier ministre sortant Nikol Pachinian brigue un troisième mandat dans un contexte de recul de sa popularité intérieure. BBC rapporte que Moscou continue de peser sur le processus politique arménien.
+
+Enfin, un élément de diplomatie asiatique. Selon Al Jazeera, le dirigeant nord-coréen Kim Jong-un a ordonné à sa marine de construire un destroyer de dix mille tonnes. Cette annonce survient à quelques jours d'une visite prévue du président chinois Xi Jinping à Pyongyang, lundi et mardi prochains.
+  </chapitre>
+
+  <chapitre titre="Économie et marchés">
+On passe à l'économie, parce que la journée de vendredi a été difficile sur les marchés financiers.
+
+Le Nasdaq a reculé de 4 % vendredi, selon le Financial Times. Cette baisse a été menée par les actions du secteur des semi-conducteurs et des fabricants de mémoire. Reuters chiffre la destruction de valeur boursière liée à ce recul dans le secteur des puces à 1,3 billion de dollars américains sur l'ensemble des marchés.
+
+Ce mouvement s'est produit dans un contexte paradoxal : le rapport d'emploi américain de mai, publié vendredi, a été plus fort que prévu. Selon le Wall Street Journal, ce rapport sur la croissance de l'emploi a pesé sur les actions, car les investisseurs anticipent que la Réserve fédérale américaine, la Fed, pourrait relever son taux directeur. Le Financial Times confirme que les paris des investisseurs sur une hausse de taux se sont renforcés après la publication de ces données. The Economist rapporte par ailleurs que le marché du travail américain est actuellement dans une phase qu'il qualifie de "tiède", tout en notant qu'il suffirait de peu pour que la Fed intervienne.
+
+Du côté canadien, une surprise. Selon le Wall Street Journal et Reuters, le taux de chômage au Canada a reculé à 6,6 % en mai, un résultat inattendu. La croissance de l'emploi a été plus forte que ce que les économistes anticipaient. Bloomberg rapporte par ailleurs que l'administration Trump tente de tirer parti des fragilités économiques canadiennes dans le cadre des négociations commerciales en cours entre les deux pays.
+
+Deux nouvelles d'entreprises importantes vendredi. Premièrement, Marvell Technology va rejoindre le S&P 500, selon Reuters Business. Le fabricant de puces remplit désormais le critère de rentabilité requis pour intégrer l'indice, une progression attribuée à la demande liée à l'intelligence artificielle. Deuxièmement, selon Bloomberg, Lululemon a revu à la baisse ses prévisions de ventes, ce qui a refroidi les analystes de Wall Street à l'égard de l'action de l'entreprise canadienne.
+
+Deux autres éléments à noter. Reuters et Reuters Business rapportent que les inventaires mondiales de pétrole sont à des niveaux bas, et que le prochain cycle de hausse des prix pourrait créer des turbulences pour les économies et les marchés financiers. Ce contexte est amplifié par les tensions militaires dans le détroit d'Ormuz, voie de transit majeure pour le pétrole mondial.
+
+Et côté introductions en bourse : Reuters Business rapporte que l'entrée en bourse de SpaceX est souscrite deux fois, selon des sources proches du dossier, ce qui indique un fort appétit des investisseurs institutionnels pour l'opération.
+
+Du côté de la zone euro, le Financial Times rapporte qu'un effondrement en Irlande a fait basculer l'économie de la zone en territoire négatif. Le journal qualifie le ralentissement irlandais de "renversant".
+  </chapitre>
+
+  <chapitre titre="Actualité québécoise">
+Du côté du Québec, trois dossiers ce matin.
+
+D'abord, les boissons énergisantes. La Presse et Radio-Canada rapportent qu'une avancée transpartisane a été conclue vendredi à l'Assemblée nationale autour du projet de loi visant à interdire la vente de boissons énergisantes aux moins de 16 ans. La Presse rapporte que c'est la prise de parole des parents de Zachary Miron qui a fait évoluer la position de la députée conservatrice Maïté Blanchette Vézina. Selon Radio-Canada, cette dernière a rencontré vendredi les parents Miron, David Miron et Veronica Martinez, et s'est entendue avec les autres partis sur une voie de passage pour l'adoption du projet de loi. La semaine précédente, la position du PCQ semblait bloquer l'adoption du texte.
+
+Deuxième dossier : la langue française. Deux développements vendredi. La Presse rapporte que le chef du Parti libéral du Québec, Charles Milliard, a dit partager les inquiétudes du commissaire à la langue française, Benoît Dubreuil, concernant le déclin du français au Québec. Milliard promet de déposer d'ici l'été un plan sur la protection du français qu'il dit vouloir "meilleur" que la loi 96 adoptée par le gouvernement caquiste. Il n'a pas précisé les contours de ce plan. Radio-Canada rapporte par ailleurs que Milliard a aussi accusé le gouvernement Fréchette de recourir à un engorgement législatif comme "stratégie" de visibilité, une accusation que le gouvernement n'a pas publiquement commentée dans les articles disponibles.
+
+Troisième dossier : le déploiement du Dossier de santé numérique, ou DSN. Selon Le Journal de Montréal, la première ministre Christine Fréchette a déclaré ne pas avoir été au courant du déploiement "chaotique" du DSN. La formulation exacte attribuée à Mme Fréchette par Le Journal de Montréal, je la cite : "Je n'étais pas au courant." Fin de citation. Le journal qualifie le déploiement de chaotique, sans préciser les détails de ce qualificatif dans l'extrait disponible.
+  </chapitre>
+
+  <chapitre titre="Tech">
+Un mot sur la technologie, avec trois dossiers ce matin.
+
+Premier dossier : un petit réacteur nucléaire modulaire a atteint la criticité aux États-Unis pour la première fois. Selon Ars Technica, la startup Antares a annoncé jeudi qu'un réacteur d'essai placé au Idaho National Laboratory avait atteint ce seuil, ce qui signifie que les réactions nucléaires à l'intérieur de l'appareil sont devenues auto-entretenues. Précision importante : atteindre la criticité ne signifie pas que le réacteur produit de l'électricité. La technologie utilisée repose sur un nouveau système de combustible appelé TRISO, des pastilles de dioxyde d'uranium entourées de couches de carbone et d'une enveloppe en céramique. Ce test s'inscrit dans le cadre d'un décret de l'administration Trump visant à accélérer le développement du nucléaire aux États-Unis, avec un objectif de trois designs atteignant la criticité en un peu plus d'un an. Antares est la première à franchir ce cap.
+
+Deuxième dossier : Reid Hoffman quitte le conseil d'administration de Microsoft. Selon TechCrunch, le cofondateur de LinkedIn et investisseur influent en Silicon Valley abandonne son siège au conseil de Microsoft après ce que TechCrunch décrit comme "une décennie très profitable" pour se consacrer à sa startup d'IA appliquée à la découverte de médicaments, appelée Manus.
+
+Troisième dossier : une faille de sécurité matérielle. Ars Technica rapporte qu'un chercheur en sécurité a découvert qu'un haut-parleur USB populaire, le Sound Blaster Katana V2X de la compagnie Creative Technologies, peut être utilisé comme vecteur d'attaque à distance. En étant à portée Bluetooth d'un appareil connecté via USB à ce haut-parleur, un acteur malveillant pourrait potentiellement exécuter du code sur l'ordinateur ciblé. Le chercheur a découvert la faille par accident, en explorant un protocole propriétaire de l'appareil. L'appareil se vend autour de 283 dollars américains.
+
+Un dernier mot sur la Station spatiale internationale. Ars Technica rapporte que cinq des sept membres d'équipage se sont brièvement réfugiés vendredi matin dans la capsule de retour SpaceX Crew Dragon, pendant que deux cosmonautes russes travaillaient sur une fuite d'air à l'autre extrémité du complexe orbital. NASA a donné l'ordre à ses astronautes ainsi qu'à une astronaute française de rejoindre la capsule par mesure de précaution. L'équipage est attendu sur Terre en septembre.
+  </chapitre>
+
+  <chapitre titre="Sport">
+On termine avec un mot sur le sport.
+
+Deux nouvelles du hockey d'abord. Selon TVA Sports, Nick Suzuki remporte le trophée Selke, remis au meilleur attaquant défensif de la LNH. TVA Sports précise que c'est une première depuis 1992 pour un joueur associé au Canadien de Montréal. Par ailleurs, TVA Sports rapporte qu'un divorce entre le défenseur Darnell Nurse et les Oilers d'Edmonton serait inévitable, sans préciser la nature exacte des discussions contractuelles en cours.
+
+Du côté du football, deux nouvelles. La saison de la Ligue canadienne de football a débuté vendredi soir. Selon Global News, les Blue Bombers de Winnipeg ont battu les Stampeders de Calgary 30 à 28 lors du match d'ouverture, grâce à un botté de placement de 38 verges de Sergio Castillo sur le dernier jeu de la partie.
+
+Et les joueurs de soccer canadiens ont complété leurs matchs préparatoires avant la Coupe du monde. Selon Sportsnet, l'équipe nationale a disputé deux rencontres d'échauffement, contre l'Ouzbékistan lundi et contre la République d'Irlande vendredi, avant d'entrer dans le tournoi.
+
+Du côté du basketball, les Knicks de New York ont pris une avance de deux matchs à zéro sur les Spurs de San Antonio en finale de la NBA. Selon Sportsnet, aucune équipe dans l'histoire n'a jamais remporté la finale après avoir perdu ses deux premiers matchs à domicile.
+  </chapitre>
+
+  <outro>Voilà pour ce Presto du 6 juin 2026. Si ce briefing vous est utile, le meilleur coup de main que vous pouvez nous donner, c'est de le partager à une personne qui aime rester informée. Et selon votre plateforme : un abonnement sur Spotify ou Apple Podcasts, un pouce bleu et un abonnement sur YouTube, ça prend deux secondes et ça aide vraiment Presto à grandir. Sur ce, bonne journée, et à demain.</outro>
+</script>
+```
