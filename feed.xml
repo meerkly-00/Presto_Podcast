@@ -1,10 +1,11 @@
 <?xml version="1.0" ?>
-<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
     <title>Presto</title>
     <description>Briefing matinal francophone québécois : actualité, politique, économie, marchés et tech en 15 à 18 minutes. Mis à jour chaque matin. Les épisodes restent disponibles 7 jours.</description>
     <language>fr-CA</language>
     <link>https://www.prestopodcast.online</link>
+    <atom:link href="https://www.prestopodcast.online/feed.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>Presto</itunes:author>
     <itunes:owner>
       <itunes:name>Presto</itunes:name>
@@ -29,7 +30,7 @@
       <enclosure url="https://github.com/meerkly-00/Presto_Podcast/releases/download/2026-06-07/2026-06-07.mp3" type="audio/mpeg" length="9775055"/>
       <itunes:duration>1046</itunes:duration>
       <itunes:summary>Au menu : International, Politique canadienne, Actualité québécoise, Économie et marchés, Tech, Sport</itunes:summary>
-      <itunes:episode>1</itunes:episode>
+      <itunes:episode>15</itunes:episode>
       <itunes:image href="https://www.prestopodcast.online/artwork-v2.jpg"/>
     </item>
     <item>
@@ -40,7 +41,7 @@
       <enclosure url="https://github.com/meerkly-00/Presto_Podcast/releases/download/2026-06-06/2026-06-06.mp3" type="audio/mpeg" length="8237957"/>
       <itunes:duration>748</itunes:duration>
       <itunes:summary>Au menu : International, Politique canadienne, Économie et marchés, Tech, Sport</itunes:summary>
-      <itunes:episode>1</itunes:episode>
+      <itunes:episode>14</itunes:episode>
       <itunes:image href="https://www.prestopodcast.online/artwork-v2.jpg"/>
     </item>
     <item>
@@ -51,7 +52,7 @@
       <enclosure url="https://github.com/meerkly-00/Presto_Podcast/releases/download/2026-06-05/2026-06-05.mp3" type="audio/mpeg" length="9241463"/>
       <itunes:duration>825</itunes:duration>
       <itunes:summary>Au menu : International, Économie et marchés, Tech, Actualité québécoise, Sport</itunes:summary>
-      <itunes:episode>1</itunes:episode>
+      <itunes:episode>13</itunes:episode>
       <itunes:image href="https://www.prestopodcast.online/artwork-v2.jpg"/>
     </item>
     <item>
@@ -62,7 +63,7 @@
       <enclosure url="https://github.com/meerkly-00/Presto_Podcast/releases/download/2026-06-04/2026-06-04.mp3" type="audio/mpeg" length="9638623"/>
       <itunes:duration>861</itunes:duration>
       <itunes:summary>Au menu : International, Politique canadienne, Actualité québécoise, Économie et marchés, Tech, Sport</itunes:summary>
-      <itunes:episode>1</itunes:episode>
+      <itunes:episode>12</itunes:episode>
       <itunes:image href="https://www.prestopodcast.online/artwork-v2.jpg"/>
     </item>
     <item>
@@ -73,7 +74,7 @@
       <enclosure url="https://github.com/meerkly-00/Presto_Podcast/releases/download/2026-06-03/2026-06-03.mp3" type="audio/mpeg" length="9618971"/>
       <itunes:duration>848</itunes:duration>
       <itunes:summary>Au menu : International, Politique canadienne, Actualité québécoise, Économie et marchés, Tech, Sport</itunes:summary>
-      <itunes:episode>1</itunes:episode>
+      <itunes:episode>11</itunes:episode>
       <itunes:image href="https://www.prestopodcast.online/artwork-v2.jpg"/>
     </item>
     <item>
@@ -84,7 +85,7 @@
       <enclosure url="https://github.com/meerkly-00/Presto_Podcast/releases/download/2026-06-02/2026-06-02.mp3" type="audio/mpeg" length="10806309"/>
       <itunes:duration>967</itunes:duration>
       <itunes:summary>Au menu : International, Politique canadienne, Actualité québécoise, Économie et marchés, Tech, Sport</itunes:summary>
-      <itunes:episode>1</itunes:episode>
+      <itunes:episode>10</itunes:episode>
       <itunes:image href="https://www.prestopodcast.online/artwork-v2.jpg"/>
     </item>
     <item>
@@ -95,7 +96,7 @@
       <enclosure url="https://github.com/meerkly-00/Presto_Podcast/releases/download/2026-06-01/2026-06-01.mp3" type="audio/mpeg" length="9857633"/>
       <itunes:duration>884</itunes:duration>
       <itunes:summary>Au menu : International : Iran, Koweït et le détroit d'Ormuz, International : Israël, Liban et l'incursion de Beaufort, International : autres nouvelles, Politique canadienne, Économie et marchés, Tech</itunes:summary>
-      <itunes:episode>1</itunes:episode>
+      <itunes:episode>9</itunes:episode>
       <itunes:image href="https://www.prestopodcast.online/artwork-v2.jpg"/>
     </item>
   

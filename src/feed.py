@@ -16,12 +16,14 @@ logger = logging.getLogger(__name__)
 
 _ITUNES_NS = "http://www.itunes.com/dtds/podcast-1.0.dtd"
 _CONTENT_NS = "http://purl.org/rss/1.0/modules/content/"
+_ATOM_NS = "http://www.w3.org/2005/Atom"
 
 
 def _register_namespaces():
     import xml.etree.ElementTree as ET
     ET.register_namespace("itunes", _ITUNES_NS)
     ET.register_namespace("content", _CONTENT_NS)
+    ET.register_namespace("atom", _ATOM_NS)
 
 
 def _create_channel(title, description, base_url, author, artwork_url):
@@ -32,6 +34,11 @@ def _create_channel(title, description, base_url, author, artwork_url):
     SubElement(channel, "description").text = description
     SubElement(channel, "language").text = "fr-CA"
     SubElement(channel, "link").text = base_url
+    # atom:link rel="self" — aide Apple/Spotify à reconnaître le feed canonique
+    feed_url = os.getenv("PODCAST_FEED_URL", f"{base_url}/feed.xml")
+    SubElement(channel, f"{{{_ATOM_NS}}}link", {
+        "href": feed_url, "rel": "self", "type": "application/rss+xml",
+    })
     SubElement(channel, f"{{{_ITUNES_NS}}}author").text = author
     owner = SubElement(channel, f"{{{_ITUNES_NS}}}owner")
     SubElement(owner, f"{{{_ITUNES_NS}}}name").text = author

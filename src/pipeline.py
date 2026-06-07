@@ -110,7 +110,17 @@ def run(
     audio_size = Path(audio_path).stat().st_size
     word_count = len(script_xml.split())
     duration_sec = int(word_count / 150 * 60)
-    existing_mp3s = sorted(audio_dir.glob("*.mp3"))
+    # Numéro d'épisode stable = jours depuis le lancement (insensible au checkout CI).
+    # len(existing_mp3s) donnait toujours "1" en CI (checkout frais).
+    from datetime import date as _date
+    launch_str = os.getenv("PODCAST_LAUNCH_DATE", "2026-05-24")
+    try:
+        launch = _date.fromisoformat(launch_str)
+        episode_number = (date.date() if hasattr(date, "date") else date).toordinal() - launch.toordinal() + 1
+        if episode_number < 1:
+            episode_number = None
+    except (ValueError, AttributeError):
+        episode_number = None
 
     # Titre en français : "Presto — édition du 28 mai 2026"
     mois_fr = _MOIS[date.month - 1]
@@ -124,7 +134,7 @@ def run(
         script_xml=script_xml,
         pub_date=date,
         duration_sec=duration_sec,
-        episode_number=len(existing_mp3s),
+        episode_number=episode_number,
     )
     result["feed_path"] = feed_path
 
