@@ -1,0 +1,115 @@
+Je vais analyser le XML fourni et le contexte récent pour produire ce briefing du dimanche 7 juin 2026.
+
+**Analyse du contenu disponible :**
+
+- **International** : Fusillade à Toledo (Ohio), Pete Hegseth à Normandie, Kosovo élections, conflit israélo-palestinien (bébé tué en Cisjordanie, tirs en Israël), forum économique russe/drones ukrainiens sur Saint-Pétersbourg, visite du pape à Madrid, décès de Bernadette Chirac, Corée du Sud (protestataires élection), Iran/Coupe du Monde (visas), OPEC+
+- **Politique canadienne** : Alberta/sondage Ipsos sur Danielle Smith, Louise Arbour (gouverneure générale), consultation Carney sur grands projets, officières Marines américaines
+- **Actualité québécoise** : PLQ (Milliard/cégeps/option fédéraliste), Éric Duhaime (La Presse), insecticide interdit accessible en ligne, mégaprocès gangs de rue
+- **Économie** : OPEC+ 4e hausse de quota, propriétaires de pétroliers (FT), finance durable/ESG (Radio-Canada), Hollywood/Paramount-Skydance
+- **Tech** : OpenAI Lockdown Mode, WWDC 2026 (Apple/Siri), Sriram Krishnan quitte rôle conseiller IA Maison-Blanche, scientifiques expulsés conférence diabète (Ars Technica)
+- **Sport** : Jeu 3 Coupe Stanley (Golden Knights 5-4 en double prolongation, hat trick de Marner), Blue Jays, Elks/Redblacks
+- **Crypto** : Rien de structurant
+
+**Éléments du contexte récent déjà couverts à ne pas répéter sans nouveauté :**
+- Conflit USA-Iran (100 jours déjà couvert hier), Marché/Nasdaq recul déjà couvert, PLQ/Milliard conseil général déjà couvert (partiellement), OpenAI/Maison-Blanche déjà couvert, résultat Jeu 3 déjà couvert
+
+**Décisions éditoriales :**
+- Le résultat du Jeu 3 a été mentionné dans le briefing du dimanche 7 juin (contexte récent), mais le hat trick record de Marner est une nouvelle distincte et spectaculaire méritant quelques mots supplémentaires dans le sport
+- Fusillade Toledo : fait nouveau et significatif
+- Hegseth à Normandie : nouvelle distincte et forte symboliquement
+- Décès de Bernadette Chirac : fait nouveau
+- Kosovo : élections, nouveau
+- Bébé palestinien tué en Cisjordanie : nouveau
+- Sondage Alberta/Smith : nouveau
+- Louise Arbour gouverneure générale : profil, déjà dans contexte ou en partie, mais l'article Radio-Canada donne des détails sur sa carrière
+- Insecticide interdit : nouveau et concret
+- OpenAI Lockdown Mode : nouveau (différent de la prise de participation déjà couverte)
+- WWDC Apple : nouveau
+- Krishnan quitte rôle : nouveau
+- OPEC+ : mentionné en économie hier (pétrole), mais la 4e hausse de quota est nouvelle
+- Scientifiques expulsés conférence diabète : nouveau et notable
+- Hollywood/Paramount-Skydance rallye travailleurs : nouveau
+
+**Ordre des chapitres** : International (plusieurs nouvelles substantielles), Politique canadienne, Actualité québécoise, Économie et marchés, Tech, Sport
+
+---
+
+```xml
+<script>
+  <intro>Bonjour, on est le dimanche 7 juin 2026. Voici votre Presto en environ 17 minutes. Au menu ce matin : international avec la fusillade de Toledo, le discours de Pete Hegseth en Normandie, le bébé palestinien tué en Cisjordanie et les élections au Kosovo. Politique canadienne avec un sondage sur Danielle Smith et la nomination de Louise Arbour. Actualité québécoise avec le Parti libéral sur les cégeps et un insecticide interdit vendu en ligne. Économie avec l'OPEC+ et les pétroliers. Tech avec OpenAI, Apple et la Maison-Blanche. Et sport avec le hat trick record de Mitch Marner en finale de la Coupe Stanley.</intro>
+
+  <chapitre titre="International">
+On commence par l'international, avec plusieurs dossiers ce matin.
+
+D'abord, une fusillade à Toledo, en Ohio. Selon CBC World, Le Devoir et l'Associated Press, au moins 12 personnes ont été blessées par balles samedi soir près d'un festival dans cette ville de l'Ohio. Deux des blessés étaient dans un état critique au moment des premières informations. Selon le chef adjoint de la police de Toledo, Joe Heffernan, au moins deux personnes semblent avoir ouvert le feu, et les enquêteurs évaluent l'hypothèse qu'elles tiraient l'une contre l'autre. La recherche de suspects était toujours en cours au moment de la publication de ces informations.
+
+Toujours aux États-Unis, le secrétaire à la Défense Pete Hegseth était en Normandie ce week-end pour les commémorations du 82e anniversaire du Débarquement. Selon la BBC, Hegseth a profité de son discours en France pour critiquer l'Europe sur la question de la migration, en utilisant l'image d'une plage envahie pour faire un parallèle avec le Jour J. Le discours a suscité des réactions dans plusieurs capitales européennes, à une journée où la commémoration du 6 juin est normalement réservée au recueillement et à l'unité entre alliés.
+
+Côté Moyen-Orient, deux nouvelles distinctes. D'abord, en Cisjordanie occupée. Selon CBC World et Reuters, des soldats israéliens ont ouvert le feu sur un véhicule en Cisjordanie samedi, tuant un bébé palestinien de sept mois et blessant ses parents. Le ministère palestinien de la Santé a confirmé le décès de l'enfant. L'armée israélienne a déclaré que ses soldats avaient tiré sur un véhicule qu'ils percevaient comme se dirigeant vers eux à vive allure, et qu'une enquête initiale a établi que les occupants du véhicule étaient des civils non impliqués dans un acte hostile.
+
+En Israël même, Al Jazeera rapporte que des attaques à l'arme à feu ont fait un mort et cinq blessés. Les circonstances de ces tirs n'étaient pas entièrement établies au moment de la publication.
+
+Toujours dans la région, le conflit en Cisjordanie et à Gaza se poursuit dans un contexte de tension continue. Al Jazeera a également publié un reportage sur un agriculteur palestinien qui dit avoir été frappé par des colons israéliens, qui auraient aussi harcelé son bétail.
+
+En Europe, le forum économique annuel de Saint-Pétersbourg a été marqué par des attaques de drones ukrainiens sur la ville, selon la BBC. L'événement, qui est la vitrine économique de la Russie, s'est donc déroulé dans un contexte de perturbations directement liées à la guerre.
+
+Au Kosovo, des élections législatives se tenaient dimanche, selon Al Jazeera. Le pays est en situation de blocage politique depuis plusieurs mois, ce qui freine ses ambitions d'adhésion à l'Union européenne et à l'Organisation du Traité de l'Atlantique Nord. Les électeurs étaient appelés à se prononcer dans un contexte de difficultés économiques et de divisions politiques persistantes.
+
+En France, le Devoir rapporte le décès de Bernadette Chirac, ancienne première dame de France et épouse de l'ex-président Jacques Chirac. Elle est décédée à l'âge de 93 ans. Le Devoir souligne qu'elle avait su se tailler une place dans un environnement politique français historiquement masculin.
+
+Enfin, à Madrid, des centaines de milliers de personnes se sont rassemblées dimanche pour une messe en plein air célébrée par le pape Léon XIV, selon CBC World et la BBC. Le pontife a parcouru la place de Cibeles en voiture papale avant d'officier une cérémonie marquée par la tradition des tapis de fleurs, une expression caractéristique de la piété populaire espagnole.
+
+Une dernière note internationale. Selon la BBC, l'Iran indique que des membres de son personnel technique se sont vu refuser des visas américains pour la Coupe du Monde de soccer, quelques heures après que Washington avait annoncé que les joueurs de l'équipe nationale iranienne pourraient entrer aux États-Unis. La situation illustre les tensions persistantes entre les deux pays, même dans le contexte sportif du tournoi qui débute sous peu en Amérique du Nord.
+  </chapitre>
+
+  <chapitre titre="Politique canadienne">
+On passe à la politique canadienne.
+
+D'abord, un sondage sur l'Alberta. Selon Global News, un sondage Ipsos publié ce week-end indique que la majorité des Albertains désapprouvent la première ministre Danielle Smith et sa gestion du dossier séparatiste. Le sondage indique que le Parti conservateur uni de Smith maintient tout de même une légère avance sur le Nouveau Parti démocratique. Cette nuance est importante : les répondants semblent distinguer leur appui à la formation politique de leur évaluation personnelle de la chef. Le dossier de la séparation de l'Alberta demeure central dans la vie politique de la province, et ce sondage intervient alors que des discussions sur un éventuel référendum continuent d'alimenter les débats.
+
+Deuxième dossier, Louise Arbour. Radio-Canada a publié samedi un portrait de la nouvelle gouverneure générale du Canada, en retraçant sa longue carrière dans le domaine des droits de la personne et de la justice internationale. Arbour a notamment occupé les fonctions de procureure au Tribunal pénal international pour l'ex-Yougoslavie et pour le Rwanda, avant de devenir juge à la Cour suprême du Canada, puis Haut-Commissaire des Nations Unies aux droits de l'homme. Sa nomination à titre de gouverneure générale a été saluée par plusieurs comme la reconnaissance d'un parcours centré sur la lutte contre l'impunité et les abus de pouvoir.
+
+Troisième dossier, les grands projets. Radio-Canada rapporte que des experts expriment des doutes quant au processus de consultation publique lancé par le gouvernement Carney autour de sa réforme visant à accélérer l'approbation des grands projets d'infrastructure. Les critiques portent notamment sur les délais jugés insuffisants pour permettre une participation significative, et sur l'articulation entre les évaluations environnementales fédérales et les intérêts des communautés concernées. Le gouvernement soutient que cette réforme est nécessaire pour accélérer des projets d'intérêt national dans un contexte économique qui exige plus de rapidité.
+  </chapitre>
+
+  <chapitre titre="Actualité québécoise">
+Du côté du Québec, deux dossiers ce matin.
+
+D'abord, le Parti libéral du Québec et la question des cégeps. Le Devoir rapporte que des membres du parti croient qu'il faudrait rétablir le libre choix de la langue d'enseignement dans les cégeps, une position qui s'éloignerait des restrictions imposées par la loi 96 de la Coalition avenir Québec. Le chef Charles Milliard a affirmé vendredi que le plan de son parti en matière de défense du français serait, je le cite : "meilleur" que celui de la CAQ. Fin de citation. Milliard avait par ailleurs présenté son parti lors d'un conseil général en fin de semaine, selon Global News, comme la seule option clairement fédéraliste à l'Assemblée nationale, à un peu moins d'un an des prochaines élections provinciales. La question de la langue d'enseignement au niveau collégial reste l'un des points de friction entre les libéraux et les autres formations, qui y voient soit un recul pour le français, soit un élargissement nécessaire des libertés individuelles selon le camp.
+
+Deuxième dossier, un insecticide dangereux accessible en ligne. La Presse rapporte qu'un insecticide interdit au Canada en raison de sa toxicité, conçu pour éliminer les coquerelles et les punaises de lit, se vend facilement sur des plateformes en ligne malgré son interdiction. Plus préoccupant encore selon La Presse : certaines bouteilles contiendrait des concentrations jusqu'à 32 fois supérieures à ce qui est indiqué sur l'étiquette. L'enquête, signée par la journaliste Valérie Simard, met en lumière une faille dans les mécanismes de contrôle des produits chimiques vendus par commerce électronique transfrontalier.
+  </chapitre>
+
+  <chapitre titre="Économie et marchés">
+On passe à l'économie. Les marchés boursiers étaient fermés samedi et dimanche, mais plusieurs dossiers méritent attention avant la reprise de lundi.
+
+D'abord, le pétrole. Selon Reuters, l'OPEC+, le cartel élargi des pays producteurs de pétrole, s'apprête à adopter une quatrième hausse de ses quotas de production depuis la fermeture du détroit d'Ormuz. Ce mouvement reflète la volonté de plusieurs membres du groupe de capter les prix élevés qui ont prévalu depuis le début des tensions dans la région, tout en rééquilibrant progressivement l'offre sur les marchés. Cette décision intervient dans un contexte où les prix du brut ont connu des variations importantes depuis le début du conflit entre les États-Unis et l'Iran.
+
+En lien avec ce dossier, le Financial Times rapporte que les propriétaires de pétroliers, qui ont engrangé des profits records depuis la fermeture d'Ormuz, commencent à exprimer des craintes face à un possible retournement du marché. Si les routes maritimes se rouvraient ou si la demande fléchissait, la capacité excédentaire de transport pourrait peser lourdement sur les revenus du secteur.
+
+Sur le front des fusions et acquisitions, Reuters Business rapporte que des travailleurs de Hollywood ont organisé un rassemblement contre l'entente entre Paramount et Skydance, la transaction qui devait remodeler l'un des grands studios américains. Les opposants à l'entente soulèvent des préoccupations liées aux suppressions d'emplois et à l'avenir des productions indépendantes.
+
+Enfin, Radio-Canada a publié une analyse sur la finance durable et les fonds dits ESG, acronyme pour environnementaux, sociaux et de gouvernance. Selon cet article, après des années de croissance, le simple fait d'apposer une étiquette verte sur un fonds ne suffit plus à rassurer les investisseurs, alors que les risques climatiques continuent de s'accumuler et que les critères de certification varient encore largement d'un gestionnaire à l'autre.
+  </chapitre>
+
+  <chapitre titre="Tech">
+Un mot sur la technologie.
+
+Premier dossier : OpenAI et la sécurité. TechCrunch rapporte qu'OpenAI a dévoilé samedi un nouveau mode appelé Lockdown Mode, ou mode de verrouillage, conçu pour protéger les données sensibles des utilisateurs contre ce que l'on appelle les attaques par injection de commandes. Ces attaques consistent à manipuler un système d'intelligence artificielle en lui faisant exécuter des instructions cachées dans des documents ou des messages. TechCrunch précise que même avec ce mode activé, ChatGPT pourrait rester vulnérable à certaines de ces manipulations, mais que l'objectif est de réduire la probabilité que des données sensibles soient transmises involontairement.
+
+Deuxième dossier : Apple et sa conférence annuelle pour les développeurs. TechCrunch rapporte que la conférence mondiale des développeurs d'Apple, connue sous le sigle WWDC, approche, et que les attentes sont centrées sur une refonte de Siri, l'assistant vocal de l'entreprise, ainsi que sur des mises à jour de la plateforme Apple Intelligence. Siri fait l'objet de critiques depuis plusieurs années sur ses capacités comparées aux assistants concurrents, et Apple a promis des changements importants cette année.
+
+Troisième dossier : un conseiller IA quitte la Maison-Blanche. TechCrunch rapporte que Sriram Krishnan, qui occupait le rôle de conseiller en intelligence artificielle auprès de l'administration Trump, quitte ce poste. Selon TechCrunch, Krishnan prévoit de lancer une nouvelle institution dont le mandat serait de continuer à orienter la politique américaine en matière d'IA, mais de l'extérieur du gouvernement cette fois.
+
+Quatrième dossier : une controverse dans le monde scientifique américain. Ars Technica rapporte que cinq chercheurs de renom ont été expulsés vendredi de la conférence annuelle de l'American Diabetes Association à La Nouvelle-Orléans. Leur geste : distribuer des copies d'un éditorial publié dans la revue Diabetes Care en avril dernier, qui critiquait les compressions de l'administration Trump dans le financement de la recherche scientifique. L'un des chercheurs expulsés, Aaron Kelly de l'Université du Minnesota, a déclaré, je le cite : "They physically grabbed us, forced us out of the conference center." Fin de citation. Le directeur des Instituts nationaux de la santé, Jay Bhattacharya, qui devait prendre la parole à cet événement, a annulé sa participation et s'est fait remplacer par un autre responsable de l'agence.
+  </chapitre>
+
+  <chapitre titre="Sport">
+On termine avec un mot sur le sport.
+
+La finale de la Coupe Stanley. Comme mentionné dans notre briefing d'hier, les Golden Knights de Vegas ont pris les devants deux victoires contre une après leur victoire de 5 à 4 en double prolongation contre les Hurricanes de la Caroline. Mais la nouvelle de ce matin, c'est comment ils ont gagné. Selon Sportsnet, Mitch Marner a inscrit un tour du chapeau en un peu plus de six minutes en deuxième période, donnant une avance de 4 à 0 à Vegas. C'est le tour du chapeau le plus rapide de l'histoire de la finale de la Coupe Stanley. Les Hurricanes ont ensuite remonté pour égaliser, mais le défenseur Shea Theodore a finalement mis fin au match en double prolongation à la 5e minute 38 de la deuxième période supplémentaire, selon CBC et Sportsnet. La série se déplace maintenant en Caroline pour le quatrième match.
+  </chapitre>
+
+  <outro>Voilà pour ce Presto du 7 juin 2026. Si ce briefing vous est utile, le meilleur coup de main que vous pouvez nous donner, c'est de le partager à une personne qui aime rester informée. Et selon votre plateforme : un abonnement sur Spotify ou Apple Podcasts, un pouce bleu et un abonnement sur YouTube, ça prend deux secondes et ça aide vraiment Presto à grandir. Sur ce, bonne journée, et à demain.</outro>
+</script>
+```

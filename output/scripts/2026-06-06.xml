@@ -1,0 +1,75 @@
+```xml
+<script>
+  <intro>Bonjour, on est le samedi 6 juin 2026. Voici votre Presto en environ 17 minutes. Au menu ce matin : les frappes entre les États-Unis et l'Iran dans le détroit d'Ormuz, la politique canadienne avec les avions de chasse et les élections partielles à venir, l'économie avec le rapport sur l'emploi américain et ses effets sur les marchés, et un tour rapide du côté de la tech et du sport.</intro>
+
+  <chapitre titre="International">
+On commence par un événement majeur survenu cette nuit. Les États-Unis et l'Iran se sont échangé des frappes militaires dans la nuit de vendredi à samedi, dans ce qui représente une nouvelle escalade dans un conflit qui dure depuis plusieurs mois.
+
+Selon CBC World et BBC World, les forces américaines ont d'abord abattu plusieurs drones lancés par l'Iran en direction du détroit d'Ormuz, puis frappé des sites radar côtiers iraniens. L'Iran a répondu en ciblant des bases américaines au Koweït et à Bahreïn. Aucun bilan de victimes n'a été immédiatement communiqué.
+
+Le détroit d'Ormuz est une voie maritime stratégique par laquelle transite une part importante des exportations de pétrole mondiales. Reuters rapporte que les inventaires pétroliers mondiaux sont déjà à des niveaux bas, et que les marchés pourraient être sensibles à toute perturbation de cette route. Dans ce contexte, le chef de Rosneft, Igor Setchine, a affirmé, selon Reuters, que la fermeture du détroit profiterait aux compagnies pétrolières américaines.
+
+La situation complique par ailleurs les négociations entre Washington et Téhéran. Les frappes surviennent alors que les deux pays étaient toujours en pourparlers, selon les informations disponibles dans les derniers jours. De son côté, CBC World rapporte que les joueurs de soccer iraniens ont obtenu leurs visas pour entrer aux États-Unis en vue de la Coupe du Monde, dont le premier match iranien est prévu le 16 juin à Los Angeles.
+
+En parallèle, l'Ukraine. BBC World et CBC World rapportent que le président russe Vladimir Poutine a rejeté la demande du président ukrainien Volodymyr Zelensky de tenir des pourparlers directs. Poutine a invoqué, selon le porte-parole du Kremlin Dmitri Peskov cité par l'agence d'État TASS, des propos qu'il a qualifiés d'inacceptables de la part de Zelensky. Ce dernier avait publié une lettre ouverte appelant à une rencontre en tête-à-tête.
+
+On passe maintenant en Arménie. BBC World rapporte que des élections législatives s'y tiennent ce week-end. Le premier ministre sortant Nikol Pachinian sollicite un troisième mandat dans un contexte de baisse de sa popularité sur le plan intérieur, tandis que la Russie exerce des pressions sur son gouvernement, qui s'est rapproché de l'Occident ces dernières années.
+
+Enfin, en Afrique centrale. Al Jazeera rapporte que la fermeture de la frontière entre l'Ouganda et la République démocratique du Congo, imposée en raison d'une épidémie d'Ebola, laisse des marchandises se détériorer des deux côtés du passage. Radio-Canada, de son côté, souligne que l'élan suscité par l'épidémie de 2013 à 2016 pour accélérer le développement d'un vaccin contre l'Ebola a cédé la place à de l'inertie, selon des experts.
+  </chapitre>
+
+  <chapitre titre="Politique canadienne">
+Du côté de la politique canadienne, deux dossiers ce matin.
+
+D'abord, les avions de chasse. CBC et Radio-Canada rapportent que le gouvernement fédéral explore l'achat d'une flotte mixte composée de F-35 américains et de Gripen suédois fabriqués par Saab. Selon des sources citées par CBC, Ottawa envisagerait toujours l'achat de 72 à 88 F-35, auxquels pourraient s'ajouter 72 chasseurs Gripen. Ce deuxième volet représenterait le plus grand projet industriel de l'histoire du Canada, avec la création possible de 9 000 emplois. Radio-Canada précise que le gouvernement étudie notamment le Gripen pour ses retombées sur le secteur industriel canadien. La flotte combinée pourrait totaliser plus de 100 appareils, selon les sources consultées.
+
+Ce choix s'inscrit dans un contexte où le Canada cherche à renforcer sa souveraineté en matière de défense tout en gérant ses relations avec les États-Unis. Le Gripen est un appareil européen qui permettrait de diversifier les fournisseurs. Des voix dans le secteur de la défense font valoir qu'une flotte plus grande renforce la capacité opérationnelle des Forces armées canadiennes. D'autres soulignent les coûts d'entretien et de formation associés à l'exploitation de deux types d'appareils différents simultanément.
+
+Deuxième dossier : les élections partielles. La Presse rapporte que le premier ministre Mark Carney devra déclencher cinq élections partielles d'ici l'automne en raison de départs qui se multiplient au sein du caucus libéral à Ottawa. Le journal précise que ces mouvements de sortie s'accumulent rapidement et que le gouvernement s'active pour gérer la situation.
+
+Par ailleurs, le National Post rapporte que le projet de loi C-22, connu sous le nom de Lawful Access Act, est actuellement étudié par le comité de la sécurité publique du Parlement. Le projet de loi, présenté par le gouvernement Carney, permettrait certaines formes de surveillance en ligne. Des experts en libertés civiles et des acteurs de l'industrie des technologies y voient une menace à la vie privée des Canadiens. Le gouvernement défend la mesure au nom de la sécurité publique.
+
+Un dernier élément du côté politique : Global News rapporte que les vidéos générées par intelligence artificielle commencent à jouer un rôle dans les campagnes politiques en Ontario. La vidéo parodique intitulée The Gravy Plane, qui met en scène Doug Ford en version LEGO avec une trame sonore country, a accumulé des centaines de milliers de vues. Le phénomène soulève des questions sur la distinction entre parodie légitime et désinformation dans le contexte électoral.
+  </chapitre>
+
+  <chapitre titre="Économie et marchés">
+On passe à l'économie, parce que les données de vendredi ont bougé les marchés de façon notable.
+
+Commençons par les marchés. Le Nasdaq a reculé de 4 % vendredi, selon le Financial Times, une baisse menée par les actions du secteur des semi-conducteurs et des fabricants de mémoire. Cette correction survient dans un contexte de tension géopolitique au Moyen-Orient et de nouvelles données économiques aux États-Unis.
+
+Ces données, justement. Le Financial Times rapporte que le rapport sur l'emploi américain de mai a été plus fort qu'attendu, ce qui a alimenté les paris sur une hausse du taux directeur de la Réserve fédérale. Le Wall Street Journal titrait vendredi que la robustesse du marché du travail pesait sur les actions. The Economist résume la situation ainsi : le marché de l'emploi américain est actuellement vigoureux, mais il suffirait de peu pour forcer une intervention de la Fed. Dans ce contexte, Bloomberg rapporte que les données sur l'emploi et l'inflation nourrissent les anticipations de hausse de taux à l'échelle mondiale.
+
+Du côté du Canada, une bonne surprise. Le Wall Street Journal rapporte que le taux de chômage canadien a reculé de façon inattendue à 6,6 % en mai. Ce chiffre va à contre-courant des attentes et représente une amélioration par rapport aux mois précédents.
+
+Sur le pétrole. Reuters rapporte que les inventaires pétroliers mondiaux sont à des niveaux bas et que les marchés pourraient être exposés à une forte volatilité des prix en cas de nouvelle perturbation de l'offre. Les tensions autour du détroit d'Ormuz que nous avons mentionnées en ouverture s'inscrivent directement dans cet enjeu.
+
+Côté entreprises, deux dossiers. D'abord, Lululemon. Bloomberg rapporte que Wall Street s'est montré moins favorable aux actions de la compagnie après que celle-ci a revu à la baisse ses prévisions de ventes. Ensuite, Marvell Technology. Reuters Business rapporte que ce fabricant de puces rejoindra le S&P 500. La compagnie a franchi le seuil de rentabilité requis pour intégrer l'indice, porté par la forte demande liée à l'intelligence artificielle.
+
+Enfin, un dossier à surveiller : Reuters Business rapporte que l'entrée en bourse de SpaceX se déroule avec une demande deux fois supérieure à l'offre disponible, selon des sources proches du dossier. L'appel public à l'épargne n'est pas encore complété, mais cet indicateur suggère un intérêt soutenu des investisseurs institutionnels.
+  </chapitre>
+
+  <chapitre titre="Tech">
+Un mot sur la technologie, avec trois dossiers ce matin.
+
+Premier dossier : Reid Hoffman quitte le conseil d'administration de Microsoft. TechCrunch rapporte que le cofondateur de LinkedIn et figure bien connue du capital de risque en Silicon Valley a annoncé son départ après ce qu'il décrit comme une décennie très profitable au sein du conseil. Il dit vouloir se consacrer à temps plein à sa startup Manus, une entreprise axée sur la découverte de médicaments par intelligence artificielle.
+
+Deuxième dossier : une faille de sécurité dans un haut-parleur grand public. Ars Technica rapporte qu'un chercheur en sécurité a découvert qu'un haut-parleur vendu par Creative Technologies, le Sound Blaster Katana V2X, peut servir de vecteur d'attaque informatique à distance. Le chercheur Rasmus Moorats a trouvé qu'un attaquant se trouvant à portée Bluetooth du haut-parleur, connecté à un ordinateur par câble USB, peut potentiellement prendre le contrôle de cet ordinateur via un protocole propriétaire de l'appareil. L'appareil est vendu autour de 280 dollars américains et est largement disponible en ligne.
+
+Troisième dossier : IBM et des allégations de dissimulation de brèches. TechCrunch rapporte qu'une ancienne cadre spécialisée en cybersécurité a déposé une poursuite contre IBM, l'accusant d'avoir dissimulé plusieurs incidents de sécurité survenus au milieu des années 2010. Selon la poursuite, IBM et deux de ses filiales auraient été compromis et n'auraient pas divulgué ces brèches. IBM n'a pas encore répondu publiquement à ces allégations au moment de la publication de ce rapport.
+
+Un dernier mot du côté de l'espace. Ars Technica rapporte qu'un incident s'est produit vendredi à bord de la Station spatiale internationale. Cinq des sept membres d'équipage ont brièvement trouvé refuge à l'intérieur de la capsule de retour SpaceX Crew Dragon pendant que deux cosmonautes russes travaillaient sur une fuite d'air à l'autre extrémité de la station. NASA a ordonné ce déplacement par mesure de précaution. L'équipage est resté à bord de la station et aucune évacuation n'a été nécessaire.
+  </chapitre>
+
+  <chapitre titre="Sport">
+On termine avec un mot rapide sur le sport.
+
+Deux dossiers ce matin. D'abord, le basketball. Sportsnet rapporte que les Knicks de New York ont remporté le deuxième match des Finales NBA contre les Spurs de San Antonio, prenant ainsi une avance de deux victoires à zéro. Jalen Brunson a inscrit un lancer franc décisif en fin de match, et la défense des Knicks a résisté à une dernière poussée de Victor Wembanyama pour sceller la victoire. Selon Sportsnet, aucune équipe dans l'histoire des Finales NBA n'a remporté le championnat après avoir perdu les deux premiers matchs à domicile.
+
+Ensuite, le football canadien. Global News rapporte que les Blue Bombers de Winnipeg ont amorcé leur saison 2026 dans la Ligue canadienne de football en battant les Stampeders de Calgary 30 à 28, sur un placement en fin de match.
+
+Du côté du soccer, la Coupe du Monde approche. Sportsnet rapporte que l'équipe canadienne a complété ses deux derniers matchs préparatoires, contre l'Ouzbékistan et la République d'Irlande, et que des observateurs tirent des leçons de ces rencontres en vue du tournoi.
+  </chapitre>
+
+  <outro>Voilà pour ce Presto du samedi 6 juin 2026. Si ce briefing vous est utile, le meilleur coup de main que vous pouvez nous donner, c'est de le partager à une personne qui aime rester informée. Et selon votre plateforme : un abonnement sur Spotify ou Apple Podcasts, un pouce bleu et un abonnement sur YouTube, ça prend deux secondes et ça aide vraiment Presto à grandir. Sur ce, bonne journée, et à demain.</outro>
+</script>
+```

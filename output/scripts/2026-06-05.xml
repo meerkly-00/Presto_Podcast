@@ -1,0 +1,73 @@
+```xml
+<script>
+  <intro>Bonjour, on est le vendredi 5 juin 2026. Voici votre Presto en environ 17 minutes. Au menu ce matin : international avec le Moyen-Orient, l'Ukraine et la Corée du Nord, économie et marchés avec SpaceX et les marchés mondiaux, tech avec Anthropic, AT&T, Verizon et Dashlane, actualité québécoise avec Hydro-Québec et les boissons énergisantes, et un mot sur le sport avec la finale de la Coupe Stanley.</intro>
+
+  <chapitre titre="International">
+Commençons par l'international, parce que plusieurs dossiers bougent ce matin.
+
+Premier dossier : le Liban. Selon Le Devoir, Israël a mené de nouvelles frappes au Liban. En parallèle, BBC World rapporte que le Hezbollah a rejeté l'accord de cessez-le-feu conclu mercredi soir par les États-Unis entre Israël et le Liban. Ce rejet fait suite à un accord que nous avions évoqué en début de semaine dans nos briefings précédents. On retient aussi que l'ONU a doublé son appel aux dons pour le Liban, réclamant près de 640 millions de dollars américains sur six mois, selon Le Devoir.
+
+Toujours dans ce dossier, Al Jazeera rapporte que le Programme alimentaire mondial des Nations Unies avertit que le conflit entre les États-Unis et l'Iran provoque des augmentations importantes des prix alimentaires dans plusieurs pays et pousse des millions de personnes vers une situation de crise alimentaire. C'est le PAM qui utilise le terme de crise, pas Presto.
+
+Deuxième dossier : l'Ukraine. BBC World et Al Jazeera rapportent que le président ukrainien Volodymyr Zelensky a lancé un appel direct à Vladimir Poutine pour des pourparlers face à face. Dans une lettre ouverte, Zelensky fait valoir que seul un engagement direct entre les deux pays pourrait mettre fin à la guerre, soulignant que les États-Unis ont l'attention tournée vers l'Iran. Al Jazeera rappelle que des pourparlers de paix ont eu lieu depuis le début de la guerre en 2022, sans résultat concret. La Russie n'a pas encore répondu publiquement à cet appel selon les sources disponibles.
+
+Sur ce même dossier ukrainien, Al Jazeera rapporte que l'Agence internationale de l'énergie atomique, l'AIEA, a négocié un cessez-le-feu local pour permettre des réparations à la centrale nucléaire de Zaporijjia. Il s'agit de la plus grande centrale nucléaire d'Europe, dont la sécurité est une préoccupation persistante depuis le début de la guerre.
+
+Troisième dossier : la Corée du Nord. CBC World rapporte que le dirigeant chinois Xi Jinping s'apprête à visiter la Corée du Nord pour la première fois depuis 2019. L'annonce de ce voyage est survenue le lendemain de la révélation par la Corée du Nord d'une nouvelle installation destinée à produire des matières fissiles pour des bombes nucléaires. CBC World ne précise pas de date exacte pour la visite.
+
+Quatrième dossier : les États-Unis. L'Associated Press rapporte que l'administration Trump a procédé à une deuxième vague de séparations d'enfants de leurs parents dans le cadre de sa politique d'immigration, selon les conclusions de l'agence. L'AP rapporte que des dizaines d'enfants ont été concernés. Par ailleurs, The Economist mentionne que le Sénat américain a adopté un projet de loi sur l'immigration de 70 milliards de dollars américains, sans en préciser davantage les contours dans les sources disponibles.
+
+Enfin, l'Associated Press rapporte le décès de Marjane Satrapi à l'âge de 56 ans. Satrapi était une dessinatrice et cinéaste d'origine iranienne et française, connue principalement pour son oeuvre autobiographique Persepolis. Son décès a été confirmé par l'AP, sans précision supplémentaire sur les circonstances.
+  </chapitre>
+
+  <chapitre titre="Économie et marchés">
+On passe à l'économie. Plusieurs éléments importants ce matin, à commencer par les marchés.
+
+Reuters Business rapporte que les actions ont reculé en début de séance vendredi, en raison d'un ralentissement des négociations de paix entre les États-Unis et l'Iran, combiné à un essoufflement du mouvement haussier lié à l'intelligence artificielle. Bloomberg confirme que les actions asiatiques étaient orientées à la baisse en début de séance vendredi, tandis que les cours du pétrole se stabilisaient. Ces mouvements surviennent après une séance difficile aux États-Unis jeudi.
+
+Dossier majeur de la semaine : l'introduction en bourse de SpaceX. Plusieurs sources convergent ce matin. Le Financial Times rapporte que SpaceX, la compagnie spatiale d'Elon Musk, prépare une allocation record à des investisseurs de détail dans le cadre de son introduction en bourse. Bloomberg rapporte que des analystes de Wall Street projettent que les revenus de SpaceX liés à l'intelligence artificielle pourraient être 100 fois plus élevés d'ici 2030. Reuters Business ajoute que S&P a confirmé ses règles existantes concernant l'entrée dans les indices de référence, ce qui bloque SpaceX d'une entrée anticipée dans les grands indices américains comme le S&P 500 : la compagnie devra satisfaire les critères habituels après sa cotation. Bloomberg avait rapporté hier que la valorisation visée est de 1 800 milliards de dollars américains. The Financial Times note dans un commentaire publié sur son site que l'introduction en bourse illustre la capacité de Musk à construire un récit autour de ses entreprises, tout en questionnant les fondements de cette valorisation.
+
+Autre dossier économique : le Canada et l'intelligence artificielle. Reuters rapporte qu'Ottawa a publié une stratégie nationale d'IA qui, selon le gouvernement fédéral, permettrait de créer 250 000 emplois et d'augmenter le produit intérieur brut de 3 %. Ce sont les chiffres avancés par le gouvernement. L'article Reuters ne présente pas de position critique ou indépendante sur ces projections.
+
+Du côté des grandes entreprises, BNN Bloomberg rapporte que Canaccord, la firme de services financiers canadienne, a publié de bons résultats trimestriels. Le PDG de Canaccord a déclaré, je le cite : "A good quarter right across the board." Fin de citation.
+
+Enfin, le Wall Street Journal rapporte que Trafigura, l'un des plus grands négociants en matières premières au monde, avertit d'un point de bascule dans les marchés de l'énergie. L'article ne précise pas davantage la nature de cet avertissement dans les éléments disponibles.
+  </chapitre>
+
+  <chapitre titre="Tech">
+Un mot sur la technologie, avec plusieurs dossiers importants ce matin.
+
+Premier dossier : Anthropic. TechCrunch rapporte que la présidente d'Anthropic, Daniela Amodei, a pris la parole en marge de la préparation à l'entrée en bourse de la compagnie pour répondre aux doutes sur la rentabilité de l'intelligence artificielle. TechCrunch précise qu'Anthropic a annoncé que ses revenus annualisés ont dépassé 47 milliards de dollars américains en mai, en hausse marquée par rapport à environ 9 milliards à la fin de 2025. Daniela Amodei a écarté les questionnements sur la viabilité des retours sur investissement en IA, sans détailler les arguments des sceptiques dans les sources disponibles. Par ailleurs, TechCrunch rapporte séparément que Mira Murati, ancienne directrice technique d'OpenAI, reprend une présence publique plus visible, dans ce que la publication décrit comme une démarche calculée pour faire connaître ses projets actuels.
+
+Deuxième dossier : une décision de la Cour suprême américaine avec des implications importantes pour la vie privée. Ars Technica rapporte qu'AT&T et Verizon ont perdu leur contestation judiciaire devant la Cour suprême des États-Unis. Les deux opérateurs téléphoniques contestaient des amendes de la Commission fédérale des communications, la FCC, pour avoir vendu les données de localisation en temps réel de leurs utilisateurs sans leur consentement. La Cour suprême a statué à 8 contre 1 que le processus de la FCC pour émettre des pénalités financières ne violait pas le droit à un procès devant jury. AT&T et Verizon avaient été condamnés à une amende totale de 104 millions de dollars américains en 2024 pour des violations remontant à 2018.
+
+Troisième dossier : Dashlane. Ars Technica rapporte que la compagnie de gestion de mots de passe Dashlane a expliqué comment des attaquants ont réussi à télécharger des coffres-forts chiffrés de moins de 20 utilisateurs individuels. Selon Dashlane, l'attaque a débuté dimanche et consistait à abuser du mécanisme d'ajout de nouveaux appareils. Des attaquants ont utilisé une attaque par force brute sur les interfaces de programmation de l'application pour générer des jetons valides et enregistrer de nouveaux appareils sur les comptes ciblés. Dashlane indique que ses systèmes de sécurité ont détecté et bloqué l'attaque avant qu'elle ne prenne plus d'ampleur.
+
+Quatrième dossier : l'Europe et la tech américaine. Nature News rapporte que des gouvernements européens, ainsi que certaines universités et institutions de recherche, font des choix en faveur d'outils numériques européens au lieu de solutions américaines. L'article soulève la question des implications pour la recherche scientifique, notamment en matière d'accès aux données et de dépendance technologique.
+
+Cinquième dossier : Valve. The Verge rapporte que la compagnie Valve a annoncé que sa console Steam Machine et son casque de réalité virtuelle Steam Frame seront lancés durant l'été. Ces deux produits avaient été annoncés l'an dernier mais leur sortie avait été reportée en raison d'une pénurie de mémoire et de stockage. Valve indique que le calendrier de lancement estival est désormais confirmé.
+
+Enfin, un élément à prendre avec prudence, mais que certains couvrent sérieusement : Ars Technica publie un texte nuancé sur les robots humanoïdes qui deviennent viraux sur les réseaux sociaux. La publication souligne l'écart entre les démonstrations spectaculaires et la fiabilité réelle de ces machines dans des conditions du monde réel. Jonathan Hurst, cofondateur d'Agility Robotics et chercheur en robotique à l'Université d'État de l'Oregon, dit, je le cite : "People automatically extrapolate and assume that the robot that looks like a person can do all the things that a person who can dance could do, which is not true." Fin de citation. Hurst ajoute que certaines compagnies profitent de cet effet pour lever des fonds.
+  </chapitre>
+
+  <chapitre titre="Actualité québécoise">
+Du côté du Québec ce matin, deux dossiers.
+
+D'abord, Hydro-Québec. Radio-Canada rapporte que le plus grand réservoir d'Hydro-Québec, le réservoir Caniapiscau, est aux trois quarts vide. Selon Radio-Canada, les stocks d'énergie sont au plus bas en 21 ans, ce qui affecte les revenus de la société d'État. L'article ne précise pas les causes de ce bas niveau ni les mesures envisagées.
+
+Ensuite, les boissons énergisantes. Radio-Canada rapporte que le Parti conservateur du Québec est critiqué pour s'être opposé au projet de loi visant à encadrer ou interdire la vente de boissons énergisantes aux jeunes. Selon Radio-Canada, le PCQ reprend des arguments du lobby des boissons énergisantes. La revue de presse de Paul Arcand à La Presse confirme que ce dossier fait partie des sujets chauds ce matin. Le gouvernement défend le projet de loi comme une mesure de santé publique. Le PCQ, de son côté, fait valoir, selon les sources disponibles, une position qui rejoint les arguments de l'industrie, sans que Radio-Canada ne précise lesquels dans les extraits disponibles.
+
+Un élément de contexte repris de notre briefing d'hier que nous mentionnons brièvement pour compléter le portrait : le patron des opérations du REM a été remercié. Radio-Canada confirme le départ de Loïc Cordelle. Les interruptions de service se sont multipliées depuis le lancement du réseau en 2023.
+  </chapitre>
+
+  <chapitre titre="Sport">
+On termine avec un mot rapide sur le sport.
+
+Du côté de la finale de la Coupe Stanley, la série est maintenant à égalité, un match partout. Sportsnet rapporte que Seth Jarvis des Hurricanes de la Caroline a marqué en prolongation lors du deuxième match jeudi soir pour vaincre les Golden Knights de Vegas. Le but a été inscrit à la 64e minute de jeu, en avantage numérique. Selon Sportsnet, les Hurricanes affichent maintenant un dossier de 6 victoires et 0 défaite en prolongation ce printemps. Par ailleurs, Sportsnet note que le défi infructueux de l'entraîneur des Golden Knights, John Tortorella, a retenu l'attention, mais que ce n'était pas, selon l'analyse de la publication, le facteur déterminant dans l'issue du match.
+
+Du côté du baseball, CBC rapporte que les négociations collectives entre la Ligue majeure de baseball et l'association des joueurs ont débuté. La convention collective expire à la fin de la saison. Les propriétaires proposent un plafond salarial et un plancher de masse salariale, deux éléments que l'association des joueurs a dit vouloir combattre. L'issue de ces négociations pourrait avoir des implications pour les Blue Jays de Toronto. Selon CBC, l'équipe est présentement à trois matchs sous la barre de 0,500.
+  </chapitre>
+
+  <outro>Voilà pour ce Presto du vendredi 5 juin 2026. Si ce briefing vous est utile, le meilleur coup de main que vous pouvez nous donner, c'est de le partager à une personne qui aime rester informée. Et selon votre plateforme : un abonnement sur Spotify ou Apple Podcasts, un pouce bleu et un abonnement sur YouTube, ça prend deux secondes et ça aide vraiment Presto à grandir. Sur ce, bonne journée, et à demain.</outro>
+</script>
+```
