@@ -105,6 +105,13 @@ def add_episode(feed_path, title, audio_url, audio_size_bytes, script_xml, pub_d
     if artwork_url:
         SubElement(item, f"{{{_ITUNES_NS}}}image", {"href": artwork_url})
 
+    # Dédoublonnage : skip si un item avec le même GUID existe déjà
+    for existing in channel.findall("item"):
+        existing_guid = existing.find("guid")
+        if existing_guid is not None and existing_guid.text == audio_url:
+            logger.info("Feed : épisode déjà présent (GUID %s), skip.", audio_url)
+            return
+
     first_item = channel.find("item")
     if first_item is not None:
         channel.insert(list(channel).index(first_item), item)
