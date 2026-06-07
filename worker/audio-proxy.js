@@ -94,8 +94,20 @@ async function postSingleFile(path, env) {
     console.log(`[cron] empty single ${path}, skip`);
     return;
   }
-  const id = await postTweet({ text: data.text, poll: data.poll }, env);
-  console.log(`[cron] single (${data.kind || "single"}) → https://x.com/prestopodcast/status/${id}`);
+  try {
+    const id = await postTweet({ text: data.text, poll: data.poll }, env);
+    console.log(`[cron] single (${data.kind || "single"}) → https://x.com/prestopodcast/status/${id}`);
+  } catch (e) {
+    // Fallback : si l'API refuse le poll (tier non supporté), on reposte en
+    // texte seul. La question est déjà incluse dans data.text, donc lisible.
+    if (data.poll) {
+      console.log(`[cron] poll refusé (${e && e.message ? e.message : e}) → repli texte`);
+      const id = await postTweet({ text: data.text }, env);
+      console.log(`[cron] single repli texte → https://x.com/prestopodcast/status/${id}`);
+    } else {
+      throw e;
+    }
+  }
 }
 
 // ─── Twitter OAuth 1.0a ──────────────────────────────────────────────────────
