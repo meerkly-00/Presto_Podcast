@@ -35,39 +35,68 @@ export default {
     return new Response("Not found", { status: 404 });
   },
 
-  // ─── scheduled handler : poster le thread X ────────────────────────────────
+  // ─── scheduled handler : poster sur X selon l'heure (cron) ─────────────────
+  //   0 12 * * *  (8h EDT)    → thread du matin     data/tweets/DATE.json
+  //   0 16 * * *  (12h EDT)   → poll de midi        data/tweets/DATE-midi.json
+  //   30 21 * * * (17h30 EDT) → contre-programme    data/tweets/DATE-soir.json
+  // (heures EDT en été ; décalent d'1h en hiver, sans incidence sur le contenu)
 
   async scheduled(event, env, ctx) {
     const date = new Date().toISOString().slice(0, 10); // YYYY-MM-DD (UTC)
-    console.log(`[tweet-cron] starting for ${date}`);
+    const cron = event.cron;
+    console.log(`[cron] ${cron} for ${date}`);
 
-    // Vérifier si le fichier tweet JSON est disponible
-    const tweetsUrl = `${RAW}/data/tweets/${date}.json`;
-    const tweetsResp = await fetch(tweetsUrl, { cf: { cacheEverything: false } });
-    if (!tweetsResp.ok) {
-      console.log(`[tweet-cron] no tweets file for ${date} (${tweetsResp.status}), skip`);
-      return;
+    try {
+      if (cron === "0 16 * * *") {
+        await postSingleFile(`data/tweets/${date}-midi.json`, env);
+      } else if (cron === "30 21 * * *") {
+        await postSingleFile(`data/tweets/${date}-soir.json`, env);
+      } else {
+        await postThreadFile(`data/tweets/${date}.json`, env); // défaut = matin
+      }
+    } catch (e) {
+      console.log(`[cron] error: ${e && e.message ? e.message : e}`);
     }
-
-    const { tweets } = await tweetsResp.json();
-    if (!tweets || tweets.length === 0) {
-      console.log(`[tweet-cron] empty tweet list for ${date}, skip`);
-      return;
-    }
-
-    console.log(`[tweet-cron] posting ${tweets.length} tweets`);
-
-    let replyToId = null;
-    for (let i = 0; i < tweets.length; i++) {
-      const id = await postTweet(tweets[i], replyToId, env);
-      console.log(`[tweet-cron] tweet ${i + 1}/${tweets.length} → ${id}`);
-      replyToId = id;
-      if (i < tweets.length - 1) await sleep(2500);
-    }
-
-    console.log(`[tweet-cron] thread done → https://x.com/prestopodcast/status/${replyToId}`);
   },
 };
+
+// ─── posteurs ────────────────────────────────────────────────────────────────
+
+async function fetchJson(path) {
+  const resp = await fetch(`${RAW}/${path}`, { cf: { cacheEverything: false } });
+  if (!resp.ok) {
+    console.log(`[cron] no file ${path} (${resp.status}), skip`);
+    return null;
+  }
+  return resp.json();
+}
+
+async function postThreadFile(path, env) {
+  const data = await fetchJson(path);
+  const tweets = data && data.tweets;
+  if (!tweets || tweets.length === 0) {
+    console.log(`[cron] empty thread ${path}, skip`);
+    return;
+  }
+  console.log(`[cron] posting thread of ${tweets.length} tweets`);
+  let replyToId = null;
+  for (let i = 0; i < tweets.length; i++) {
+    replyToId = await postTweet({ text: tweets[i], replyToId }, env);
+    console.log(`[cron] tweet ${i + 1}/${tweets.length} → ${replyToId}`);
+    if (i < tweets.length - 1) await sleep(2500);
+  }
+  console.log(`[cron] thread done → https://x.com/prestopodcast/status/${replyToId}`);
+}
+
+async function postSingleFile(path, env) {
+  const data = await fetchJson(path);
+  if (!data || !data.text) {
+    console.log(`[cron] empty single ${path}, skip`);
+    return;
+  }
+  const id = await postTweet({ text: data.text, poll: data.poll }, env);
+  console.log(`[cron] single (${data.kind || "single"}) → https://x.com/prestopodcast/status/${id}`);
+}
 
 // ─── Twitter OAuth 1.0a ──────────────────────────────────────────────────────
 
@@ -107,11 +136,17 @@ async function buildOAuthHeader(method, url, env) {
   return `OAuth ${headerParts}`;
 }
 
-async function postTweet(text, replyToId, env) {
+async function postTweet({ text, replyToId, poll }, env) {
   const authHeader = await buildOAuthHeader("POST", TWITTER_API, env);
 
   const body = { text };
   if (replyToId) body.reply = { in_reply_to_tweet_id: replyToId };
+  if (poll && Array.isArray(poll.options) && poll.options.length >= 2) {
+    body.poll = {
+      options: poll.options.slice(0, 4),
+      duration_minutes: poll.duration_minutes || 1440,
+    };
+  }
 
   const resp = await fetch(TWITTER_API, {
     method: "POST",

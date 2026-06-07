@@ -11,4 +11,8 @@ routes = [
 ]
 
 [triggers]
-crons = ["0 12 * * *"]   # 8h EDT (UTC-4) — poste le thread X du jour
+crons = [
+  "0 12 * * *",    # 8h EDT    — thread du matin       (data/tweets/DATE.json)
+  "0 16 * * *",    # 12h EDT   — poll de midi          (data/tweets/DATE-midi.json)
+  "30 21 * * *",   # 17h30 EDT — contre-programme      (data/tweets/DATE-soir.json)
+]
