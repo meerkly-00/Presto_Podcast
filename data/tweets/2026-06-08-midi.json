@@ -1,0 +1,14 @@
+{
+  "date": "2026-06-08",
+  "kind": "poll",
+  "text": "Ce matin → Un séisme de magnitude 7,8 a frappé les Philippines. Mise à jour : au moins 35 morts et des vagues de tsunami d'environ un mètre le long des côtes, selon la BBC.\n\nComment ton gouvernement devrait-il réagir aux tremblements de terre majeurs dans la région?",
+  "poll": {
+    "options": [
+      "Aide d'urgence immédiate",
+      "Soutien à long terme",
+      "Renforcer les systèmes",
+      "Collaboration régionale"
+    ],
+    "duration_minutes": 1440
+  }
+}
