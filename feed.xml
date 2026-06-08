@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
   <channel>
     <title>Presto</title>
     <description>Briefing matinal francophone québécois : actualité, politique, économie, marchés et tech en 15 à 18 minutes. Mis à jour chaque matin. Les épisodes restent disponibles 7 jours.</description>
@@ -22,6 +22,17 @@
       <title>Presto</title>
       <link>https://www.prestopodcast.online</link>
     </image>
+    <item>
+      <title>Presto — édition du 8 juin 2026</title>
+      <description>Au menu : International, Politique canadienne, Actualité québécoise, Économie et marchés, Tech, Sport</description>
+      <pubDate>Mon, 08 Jun 2026 08:00:55 +0000</pubDate>
+      <guid isPermaLink="false">https://github.com/meerkly-00/Presto_Podcast/releases/download/2026-06-08/2026-06-08.mp3</guid>
+      <enclosure url="https://github.com/meerkly-00/Presto_Podcast/releases/download/2026-06-08/2026-06-08.mp3" type="audio/mpeg" length="9830863"/>
+      <itunes:duration>887</itunes:duration>
+      <itunes:summary>Au menu : International, Politique canadienne, Actualité québécoise, Économie et marchés, Tech, Sport</itunes:summary>
+      <itunes:episode>16</itunes:episode>
+      <itunes:image href="https://www.prestopodcast.online/artwork-v2.jpg"/>
+    </item>
     <item>
       <title>Presto — édition du 7 juin 2026</title>
       <description>Au menu : International, Politique canadienne, Actualité québécoise, Économie et marchés, Tech, Sport</description>
@@ -99,6 +110,5 @@
       <itunes:episode>9</itunes:episode>
       <itunes:image href="https://www.prestopodcast.online/artwork-v2.jpg"/>
     </item>
-  
   </channel>
 </rss>

@@ -1,0 +1,93 @@
+```xml
+<script>
+  <intro>Bonjour, on est le lundi 8 juin 2026. Voici votre Presto en environ 17 minutes. Au menu ce matin : l'international en tête, avec Israël et l'Iran qui rompent leur cessez-le-feu, un séisme majeur aux Philippines, et les élections en Arménie. Ensuite, la politique canadienne, avec Mark Carney qui s'envole vers l'Europe et Pierre Poilievre à Calgary sur le dossier albertain. L'économie et les marchés, avec une semaine qui s'ouvre sous pression. Et la tech, avec plusieurs dossiers dont Nvidia, OpenAI et Apple.</intro>
+
+  <chapitre titre="International">
+On commence par un événement majeur survenu cette nuit. Israël et l'Iran ont échangé des frappes pour la première fois depuis le cessez-le-feu du 8 avril dernier, selon Radio-Canada, CBC World, l'Associated Press et le National Post.
+
+Selon CBC World, Israël a lancé des frappes aériennes tôt ce lundi matin, ciblant le centre et l'ouest de l'Iran, en réponse à des tirs de missiles iraniens. L'Associated Press rapporte qu'Israël affirme que l'Iran a lancé plusieurs salves de missiles en direction de son territoire, dans ce qu'il décrit comme le premier bombardement depuis le cessez-le-feu fragile qui tient depuis deux mois. Radio-Canada précise que c'est effectivement la première confrontation directe entre les deux pays depuis le 8 avril.
+
+Ce développement survient dans un contexte déjà tendu. Comme on l'a vu dans nos briefings des derniers jours, le conflit entre les États-Unis et l'Iran dure depuis maintenant plus de 100 jours. Selon Global News, l'Iran avait averti qu'une attaque sur Beyrouth aurait pour effet de relancer une guerre régionale à grande échelle, même alors que le Pakistan et d'autres médiateurs tentaient de relancer les négociations entre Téhéran et Washington. Le National Post rapporte que les États-Unis et l'Iran ne semblent pas près d'une entente intérimaire, les positions des deux parties restant éloignées.
+
+Al Jazeera publie une analyse plus large sur la façon dont les tensions entre le Liban et l'Iran ont servi de toile de fond à cette nouvelle escalade, soulignant que les avertissements iraniens à l'égard d'Israël avaient été formulés explicitement.
+
+Du côté de la politique américaine, BBC World rapporte que les alliés européens les plus proches du président ukrainien Volodymyr Zelensky ont établi cinq conditions pour toute reprise de pourparlers de paix avec la Russie. La réunion s'est tenue alors que l'attention de l'administration Trump reste tournée vers le dossier iranien.
+
+Toujours aux États-Unis, BBC World rapporte que le président Trump a mis fin abruptement à une entrevue accordée à NBC, après avoir été confronté à plusieurs reprises par la présentatrice Kristen Welker sur des affirmations concernant ce qu'il décrit comme une élection biaisée.
+
+En Arménie, des élections législatives se tenaient dimanche. Selon CBC World, le premier ministre Nikol Pachinian a déclaré la victoire dès les premières heures du dépouillement, alors que des résultats partiels provenant d'un peu plus du cinquième des bureaux de scrutin lui accordaient environ 54 % des voix. Radio-Canada note que ce scrutin constituait un test pour la réorientation de la politique étrangère arménienne vers les pays occidentaux.
+
+Aux Philippines, un séisme de magnitude 7,8 a frappé le sud du pays tôt ce matin. Selon CBC et l'Associated Press, la secousse, dont l'épicentre était en mer, a causé des dommages dans une ville côtière importante, entraîné des pannes de courant et déclenché des vagues de tsunami d'environ un mètre le long des côtes avoisinantes. Les autorités ont demandé à la population de se déplacer vers les hauteurs. Radio-Canada rapporte qu'au moins huit personnes ont été tuées, tandis que l'Associated Press mentionne 12 morts. Une réplique de magnitude 6,1 a aussi été ressentie.
+
+Enfin, en Espagne, l'Associated Press rapporte qu'un million de personnes ont envahi les rues de Madrid pour assister à la procession du pape Léon XIV, dont le parcours était recouvert de tapis de fleurs.
+  </chapitre>
+
+  <chapitre titre="Politique canadienne">
+On passe à la politique canadienne, avec deux dossiers ce matin.
+
+D'abord, le voyage du premier ministre Mark Carney en Europe. Selon La Presse et Global News, Mark Carney se rendra en France et en Irlande du 11 au 17 juin, dans le but de renforcer les partenariats canadiens dans les domaines du commerce, de la défense et de la technologie. Il participera notamment au sommet du G7, qui se tient à Evian-les-Bains du 15 au 17 juin. Global News précise que la France a indiqué que le sommet sera centré sur la réduction des inégalités mondiales.
+
+Ensuite, le dossier albertain. Pierre Poilievre se trouve ce lundi à Calgary pour prononcer un discours, selon La Presse. Le chef du Parti conservateur du Canada devrait y soutenir qu'une réforme des politiques fédérales suffirait à apaiser les inquiétudes des séparatistes albertains, résumant sa position ainsi : je le cite, en français dans la source : "Nous n'avons pas besoin d'un autre pays." Fin de citation.
+
+Ce discours s'inscrit dans la continuité des enjeux que l'on suit depuis plusieurs jours. Comme rapporté dans nos briefings du week-end, la question de la séparation albertaine continue de structurer la vie politique de la province. Poilievre cherche donc à proposer une réponse fédéraliste à une demande de changement dont l'ampleur reste débattue.
+
+Un autre dossier en Colombie-Britannique : Global News rapporte qu'une interruption des services d'urgence a eu lieu à l'hôpital de Mission, en Colombie-Britannique, en raison de ce que l'autorité de santé Fraser Health décrit comme des difficultés de dotation en personnel. L'interruption s'est étendue de dimanche soir jusqu'à lundi matin.
+  </chapitre>
+
+  <chapitre titre="Actualité québécoise">
+Du côté du Québec, plusieurs dossiers ce matin.
+
+D'abord, les finances municipales. Le Devoir rapporte que Québec et Montréal sont les cobayes d'un projet-pilote qui leur permettrait d'investir une partie de leurs excédents de trésorerie à la Bourse. Jusqu'ici, la loi sur les cités et les villes limitait les placements municipaux à des titres à faible risque émis par des entités publiques. Le gouvernement provincial estime que cette nouvelle approche permettrait de générer des dizaines, voire des centaines de millions de dollars supplémentaires sans augmenter les impôts. L'Union des municipalités du Québec souhaite que la mesure soit étendue à l'ensemble des grandes villes si le projet-pilote est concluant. Le directeur général de la Ville de Québec, Luc Monty, cité par Le Devoir, compare la situation actuelle à celle d'une personne qui serait obligée de garder tout son argent liquide en main.
+
+Ensuite, les changements climatiques. Le Devoir rapporte que Jean Lemire, émissaire climatique du Québec, a vendu son voilier le Sedna IV et estime que la lutte contre les changements climatiques est un échec. Dans le même registre, le Comité consultatif sur les changements climatiques du Québec indique, toujours selon Le Devoir, que la décarbonation du secteur du bâtiment passera par une approche qu'il qualifie de plus contraignante, et que les ménages en bénéficieraient selon lui à terme.
+
+Troisième dossier : les armes dans les écoles. Le Devoir rapporte que des armes de toutes sortes, des armes blanches aux faux fusils, sont retrouvées dans les écoles du Québec. Des élèves les apportent selon leurs propres déclarations pour faire peur ou pour se protéger.
+
+Enfin, un dossier de santé publique. La Presse rapporte que l'épidémie de rage du raton laveur s'approche de la grande région de Montréal. Les autorités ont déclenché une opération de capture et de vaccination dans la banlieue sud de la métropole.
+  </chapitre>
+
+  <chapitre titre="Économie et marchés">
+On passe à l'économie, parce que les marchés reprennent ce lundi dans un contexte de tension accrue.
+
+Commençons par les marchés. Bloomberg rapporte que les contrats à terme sur les actions américaines reculaient en prématché, dans la foulée d'une séance difficile pour le secteur technologique vendredi et en réaction aux nouvelles du Moyen-Orient. Reuters rapporte que les actions technologiques ont reculé en fin de semaine sous l'effet de ce que la source décrit comme une réévaluation des paris sur la politique de la Réserve fédérale américaine, qui a mis sous pression la progression des titres liés à l'intelligence artificielle.
+
+Sur le pétrole, le Financial Times rapporte que les cours ont progressé après les tirs de missiles iraniens, qui font peser une incertitude sur le cessez-le-feu fragile dans la région. Par ailleurs, le Financial Times rapporte aussi que l'OPEP+, le cartel des producteurs de pétrole, a augmenté ses quotas de production pour un quatrième mois consécutif.
+
+Du côté de la Réserve fédérale, le Financial Times rapporte que le président Trump a de nouveau exercé une pression sur Kevin Warsh, le candidat pressenti pour prendre la tête de la banque centrale américaine, en demandant publiquement une réduction du taux directeur. Reuters de son côté rapporte que les pertes sur l'or s'étendent, en raison de craintes que la Fed procède plutôt à une hausse de taux. Ces deux positions reflètent la tension persistante entre les pressions politiques en faveur d'un assouplissement et les anticipations des marchés quant à la trajectoire réelle des taux.
+
+Du côté des devises et de l'économie japonaise, Bloomberg rapporte que la croissance du Japon s'est maintenue malgré un recul des investissements des entreprises.
+
+Un chiffre à surveiller cette semaine : selon BNN Bloomberg, les résultats de Dollarama et d'Oracle sont attendus dans les prochains jours. Dollarama est particulièrement suivie comme indicateur de la santé de la consommation canadienne.
+
+Sur la consommation américaine, l'Associated Press rapporte que des détaillants américains observent un repli des dépenses des consommateurs, avec des comportements comme des réservoirs d'essence remplis partiellement et une réduction des achats non essentiels.
+
+Enfin, selon Bloomberg, la directrice générale du Fonds monétaire international avertit que le monde n'est pas prêt pour les chocs qui s'accumulent, sans donner davantage de détails dans la version disponible.
+
+Du côté des compagnies aériennes, le National Post rapporte que le secteur prévoit d'accueillir plus de passagers cette année qu'en 2025, mais que les profits devraient être réduits de moitié, en raison principalement de la hausse des coûts de carburant.
+  </chapitre>
+
+  <chapitre titre="Tech">
+Un mot sur la technologie, avec quatre dossiers ce matin.
+
+Premier dossier : Nvidia et les robots humanoïdes. Reuters rapporte que le PDG de Nvidia a annoncé que l'entreprise travaille avec le fabricant d'électronique coréen LG sur des projets de robots humanoïdes et de centres de données. Ce partenariat s'inscrit dans la stratégie plus large de Nvidia d'étendre son influence au-delà des puces graphiques vers l'intelligence artificielle physique.
+
+Deuxième dossier : Apple et Siri. Reuters Business publie une analyse sur les efforts d'Apple pour relancer Siri après ce que la source décrit comme deux années de difficultés. La question posée : l'entreprise est-elle prête pour son moment en intelligence artificielle ? Aucun détail de produit n'est confirmé dans les sources disponibles, mais le dossier est présenté comme un enjeu stratégique central pour Apple.
+
+Troisième dossier : OpenAI et la super-application. TechCrunch rapporte qu'OpenAI travaille toujours sur ce que l'entreprise appelle une super-application, un produit qui irait au-delà de l'interface de clavardage actuelle. Un employé senior d'OpenAI est cité par TechCrunch disant, je le cite en anglais : "Chat is dead." Fin de citation. TechCrunch publie aussi une analyse sur ce qu'il appelle une possible ère de hausses de prix pour les services d'intelligence artificielle, alors que les grandes entreprises du secteur préparent leurs introductions en Bourse.
+
+Quatrième dossier : une poursuite judiciaire contre un système de détection d'armes par intelligence artificielle. Ars Technica rapporte qu'un survivant d'une fusillade dans une école de Nashville, au Tennessee, en janvier 2025, a intenté une poursuite contre la firme Omnilert, dont le système de détection d'armes par caméra n'a pas repéré l'arme utilisée lors de l'attaque. Selon la poursuite déposée en cour du comté de Davidson, l'entreprise aurait connu ou aurait dû connaître les limites opérationnelles de son système, notamment en ce qui concerne l'angle des caméras, l'éclairage et la visibilité des armes. Omnilert n'a pas répondu aux demandes de commentaires d'Ars Technica.
+  </chapitre>
+
+  <chapitre titre="Sport">
+On termine avec un mot sur le sport, avec trois dossiers.
+
+D'abord, la finale de la Coupe Stanley. Comme on l'a suivi ces derniers jours, les Golden Knights de Vegas mènent la série deux victoires contre une face aux Hurricanes de la Caroline. Sportsnet rapporte que la question du gardien de but pour le quatrième match, prévu mardi, est ouverte du côté de la Caroline, après l'entrée en jeu de Brandon Bussi lors du troisième match en remplacement de Frederik Andersen.
+
+Ensuite, les Blue Jays de Toronto. Sportsnet rapporte que les Blue Jays ont remporté la série face aux Orioles de Baltimore dimanche, grâce à une montée de cinq points en sixième manche. La victoire s'est accompagnée d'un jeu contesté impliquant le joueur Clement au deuxième but, que les officiels ont jugé en faveur de Toronto malgré les protestations de Baltimore.
+
+Enfin, les Maple Leafs de Toronto. Sportsnet rapporte que l'organisation envisage de rencontrer Joe Pavelski dans le cadre de sa recherche d'un entraîneur-chef. Selon plusieurs sources citées par Sportsnet, Pavelski, futur membre du Temple de la renommée, est décrit en interne comme un candidat dans le style de Martin St. Louis.
+  </chapitre>
+
+  <outro>Voilà pour ce Presto du lundi 8 juin 2026. Si ce briefing vous est utile, le meilleur coup de main que vous pouvez nous donner, c'est de le partager à une personne qui aime rester informée. Et selon votre plateforme : un abonnement sur Spotify ou Apple Podcasts, un pouce bleu et un abonnement sur YouTube, ça prend deux secondes et ça aide vraiment Presto à grandir. Sur ce, bonne journée, et à demain.</outro>
+</script>
+```
