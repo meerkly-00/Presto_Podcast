@@ -1,13 +1,13 @@
 {
   "date": "2026-06-09",
   "kind": "poll",
-  "text": "Ce matin → Cessez-le-feu Iran-Israël au jour 102, mais tensions persistantes.\n\nNouveau : Les marchés agricoles mondiaux ont effacé la prime de risque liée à la guerre, signalant une stabilisation perçue du conflit.\n\nSelon toi, la stabilité du cessez-le-feu dépend surtout de :",
+  "text": "Ce matin → Trump avertit Israël sur le cessez-le-feu Iran-Israël au jour 102.\n\nNouveau développement → Trump affirme que l'Iran a abattu un hélicoptère Apache américain et promet une réaction.\n\nSelon toi, comment devrait réagir les États-Unis à cet incident?",
   "poll": {
     "options": [
-      "La volonté diplomatique",
-      "Les calculs militaires",
-      "La situation économique",
-      "Des négociations"
+      "Par une réponse",
+      "Par des sanctions",
+      "Par la négociation et le",
+      "En attendant plus de"
     ],
     "duration_minutes": 1440
   }
