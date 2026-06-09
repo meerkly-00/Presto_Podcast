@@ -1,0 +1,101 @@
+```xml
+<script>
+  <intro>Bonjour, on est le mardi 9 juin 2026. Voici votre Presto en environ 17 minutes. Au menu ce matin : l'international avec le cessez-le-feu fragile entre Israël et l'Iran, la rencontre Xi-Kim à Pyongyang, et les élections en Arménie. L'économie avec l'entrée en Bourse d'OpenAI et les marchés. La tech avec iOS 27, macOS 27 et les suites du WWDC d'Apple. Quelques nouvelles québécoises et canadiennes. Et le sport, avec la finale NBA.</intro>
+
+  <chapitre titre="International">
+On commence par l'international, avec plusieurs dossiers ce matin.
+
+D'abord, le dossier Israël-Iran, que l'on suit depuis lundi. Selon Al Jazeera, on en est au jour 102 du conflit, et le cessez-le-feu tient pour l'instant, mais dans un état de tension marqué. Donald Trump a mis en garde Israël contre de nouvelles frappes, en disant vouloir protéger ce qu'il décrit comme un cessez-le-feu fragile. L'Iran, de son côté, a averti que les combats pourraient reprendre.
+
+La BBC World offre une lecture plus large de la situation : selon cette source, Israël sort de cet épisode dans une position délicate vis-à-vis de Washington, et l'Iran paraît renforcé dans sa posture de négociation. La BBC soutient que les dirigeants iraniens évalueraient que l'appétit de Trump pour une escalade est limité.
+
+Toujours selon la BBC, Trump a accordé une entrevue dans laquelle il affirme que le premier ministre israélien Benjamin Netanyahu ne l'a pas défié. Cette position contraste avec la lecture de l'Economist, qui écrit que Netanyahu a contourné Washington à deux reprises en quelques jours seulement.
+
+Sur la question palestinienne, Al Jazeera rapporte qu'Israël poursuit ses opérations dans Gaza, et que des pourparlers ont débuté au Caire. Les détails de ces négociations restent imprécis dans les sources disponibles ce matin.
+
+On passe à la Cour pénale internationale. Selon la BBC World, le procureur en chef de la CPI, Karim Khan, a été suspendu de ses fonctions après l'ouverture d'une enquête pour des allégations d'inconduites sexuelles. Khan nie toutes les allégations et ses avocats ont déclaré, je les cite : "he rejects the decision in the strongest terms", fin de citation. C'est une nouvelle importante pour une institution déjà sous pression depuis ses mandats d'arrêt liés au conflit au Moyen-Orient.
+
+On passe à l'Asie, avec une visite diplomatique rare. Selon Al Jazeera et la BBC World, le président chinois Xi Jinping vient de terminer une visite de deux jours à Pyongyang, sa première en Corée du Nord depuis 2019. Xi et le dirigeant nord-coréen Kim Jong Un ont annoncé vouloir renforcer leurs liens. La BBC précise que les deux dirigeants se sont engagés à approfondir leur coopération, sans détailler les termes spécifiques de ces engagements.
+
+Cette visite survient dans un contexte de tensions persistantes autour de Taïwan. Reuters rapporte que l'armée taïwanaise a mené un exercice côtier simulant la destruction d'une force d'invasion chinoise. Par ailleurs, Le Devoir souligne que la Chine multiplie les tactiques pour s'approprier les secrets industriels du secteur des semi-conducteurs taïwanais, un secteur stratégique à l'échelle mondiale.
+
+Enfin, une nouvelle qui mérite attention : selon l'Associated Press, le Pentagone a désigné deux géants chinois, le groupe technologique Alibaba et le fabricant de véhicules électriques BYD, comme contribuant aux capacités militaires chinoises. Cette désignation peut entraîner des restrictions d'accès aux technologies et aux marchés américains, bien que les conséquences concrètes ne soient pas encore précisées dans les sources ce matin.
+
+Du côté de l'Arménie, l'Associated Press et The Economist rapportent que le premier ministre Nikol Pachinian a revendiqué la victoire aux élections législatives. The Economist présente ce scrutin comme un test de l'influence russe dans la région, et conclut que Moscou n'a pas réussi à empêcher un rapprochement de l'Arménie avec l'Occident.
+
+Dernier point international : Reuters rapporte qu'un arbitre somalien s'est vu refuser l'accès aux États-Unis et ne pourra pas officier lors de la Coupe du monde de football, qui se tient justement aux États-Unis cet été. Ce cas illustre les tensions persistantes autour des politiques d'entrée américaines.
+  </chapitre>
+
+  <chapitre titre="Économie et marchés">
+On passe à l'économie.
+
+La nouvelle de la journée en finance : OpenAI a déposé confidentiellement ses documents en vue d'une entrée en Bourse aux États-Unis. Bloomberg, le Financial Times et Reuters Business couvrent tous ce dossier. Selon Bloomberg, OpenAI a déposé de manière confidentielle auprès des autorités boursières américaines, une étape qui précède habituellement un appel public à l'épargne de quelques semaines à quelques mois. Le Financial Times qualifie l'opération de cotation spectaculaire à Wall Street.
+
+Cette entrée en Bourse d'OpenAI survient alors que son concurrent direct Anthropic a fait de même récemment, selon Reuters Business. Les deux entreprises se tournent vers les marchés publics dans un contexte de compétition intense pour attirer des capitaux dans le secteur de l'intelligence artificielle.
+
+À noter en parallèle : TechCrunch rapporte que Tools for Humanity, l'autre entreprise de Sam Altman, celle qui développe la technologie de vérification d'identité par balayage oculaire, procède à des mises à pied. Selon TechCrunch, l'entreprise aurait du mal à générer des revenus.
+
+Du côté des marchés, Bloomberg rapporte que les actions asiatiques étaient en voie de rebond ce matin, portées par un certain soulagement autour du cessez-le-feu Israël-Iran et par un optimisme lié à l'intelligence artificielle. Lundi, Reuters Business rapportait que le S&P 500 et le Nasdaq avaient progressé, soutenus par un rebond des secteurs technologique et des fabricants de puces. Le Wall Street Journal rapporte quant à lui que les taux des obligations du Trésor américain ont légèrement progressé, les marchés suivant l'évolution de la situation au Moyen-Orient et les perspectives sur les taux directeurs américains.
+
+Bank of America émet toutefois une mise en garde : selon Bloomberg, la banque conseille à ses clients de prendre des profits, en citant une multiplication de signaux d'alerte sur les marchés.
+
+Côté énergie, Reuters rapporte que le prix du pétrole a reculé, les investisseurs attendant plus de clarté après la pause dans les échanges de frappes entre l'Iran et Israël.
+
+En Bourse, le fabricant de puces Marvell a vu son action progresser après son entrée dans l'indice S&P 500, selon BNN Bloomberg.
+
+Du côté des energies et des ressources canadiennes, BNN Bloomberg rapporte qu'un autre fournisseur d'électricité européen cherche à sécuriser un approvisionnement en gaz naturel liquéfié en provenance du projet Ksi Lisims LNG, en Colombie-Britannique. C'est un signal que les acheteurs européens continuent de diversifier leurs sources d'approvisionnement énergétique en dehors de la Russie.
+
+Sur la question commerciale entre le Canada et les États-Unis, le Financial Times rapporte que le premier ministre ontarien Doug Ford, pourtant critique affiché de Donald Trump, a publiquement appelé le président américain à conclure une entente commerciale avec le Canada. Ford demanderait à Trump de, je le cite : "get a deal", fin de citation.
+
+Un mot enfin sur la Monte dei Paschi di Siena, la plus ancienne banque du monde, fondée en 1472. The Economist rapporte qu'une guerre d'enchères est en cours pour son acquisition, ce qui reflète une dynamique de consolidation bancaire en Europe.
+  </chapitre>
+
+  <chapitre titre="Tech">
+Un mot sur la technologie, avec beaucoup de matière ce matin en raison des suites du WWDC d'Apple, la conférence annuelle des développeurs qui s'est tenue lundi.
+
+Premier dossier : iOS 27 et iPadOS 27. Selon Ars Technica, la mise à jour iOS 27 ne retire le support d'aucun iPhone déjà compatible avec iOS 26, couvrant tous les appareils jusqu'à l'iPhone 11 et au iPhone SE de deuxième génération. Pour l'iPad, quelques modèles plus anciens perdent le support, dont l'iPad Air de troisième génération et l'iPad mini de cinquième génération. Ars Technica précise que les nouvelles fonctionnalités liées à Apple Intelligence restent réservées aux appareils dotés d'au moins 8 gigaoctets de mémoire vive, soit l'iPhone 15 Pro ou plus récent.
+
+The Verge a mis la main sur la version bêta développeur d'iOS 27 et note plusieurs améliorations de finition dans l'interface, notamment un curseur d'opacité pour le style visuel Liquid Glass. The Verge souligne toutefois que la nouvelle version de Siri avec intelligence artificielle n'était pas encore disponible en bêta pour son testeur.
+
+Apple a aussi annoncé des mises à jour de Screen Time, son outil de contrôle parental. The Verge est critique : selon cette source, la plupart des fonctionnalités annoncées existaient déjà ou sont des améliorations mineures à des outils existants. The Verge soutient qu'Apple cherche à projeter une image de responsabilité à l'égard des enfants, dans un contexte où Meta et Google font face à des procès pour leurs effets sur les mineurs.
+
+Sur macOS 27, baptisé Golden Gate, Ars Technica rapporte qu'Apple abandonne officiellement le support des Mac à processeur Intel. La mise à jour exigera désormais une puce Apple Silicon, à partir des modèles M1 lancés à la fin 2020. Les Mac Intel pourront continuer à recevoir des correctifs de sécurité pour environ deux ans encore sous macOS 26.
+
+TechCrunch offre une lecture plus large sur la stratégie d'Apple en intelligence artificielle : selon cette source, l'approche progressive d'Apple, souvent perçue comme un retard dans la course à l'IA, commence à avoir du sens. Apple mise sur une intégration étroite entre le matériel et le logiciel plutôt que sur des modèles de langage exposés directement aux utilisateurs.
+
+Autre dossier Apple : The Verge rapporte que Safari utilise maintenant Apple Intelligence pour permettre aux utilisateurs de créer leurs propres extensions de navigateur en décrivant ce qu'ils veulent. Apple teste cette approche pour compenser le déficit d'extensions de Safari par rapport à ses concurrents.
+
+Du côté d'Amazon, Ars Technica rapporte que la Commission fédérale des communications américaine, la FCC, a levé l'obligation pour Amazon de déployer la moitié de sa constellation de satellites Internet Project Kuiper d'ici la fin juillet 2026. Amazon avait demandé cette exemption en janvier. La FCC a choisi de retirer entièrement cette échéance intermédiaire, tout en maintenant la date limite de juillet 2029 pour le déploiement complet des 3 232 satellites.
+
+Enfin, Ars Technica publie une découverte importante sur la sécurité des infrastructures mondiales : selon une étude préliminaire des universités du Texas et de Stanford, des satellites russes seraient à l'origine d'interférences avec le signal GPS sur une échelle continentale. Les chercheurs ont identifié 75 jours d'interférences entre janvier 2019 et avril 2026, détectables simultanément depuis la Norvège jusqu'à l'Espagne, et même au Canada et au Groenland. Ars Technica note que l'intentionnalité de ces interférences n'est pas encore établie avec certitude.
+  </chapitre>
+
+  <chapitre titre="Actualité québécoise">
+Du côté du Québec, trois dossiers ce matin.
+
+D'abord, une annonce financière du gouvernement provincial. Radio-Canada et Les Affaires rapportent que Québec offrira 425 à 435 millions de dollars sur cinq ans pour aider les propriétaires à risque d'inondations. L'aide prendra la forme de subventions pour l'achat d'équipements de protection, comme des pompes ou des digues amovibles. Radio-Canada précise que le montant est de 425 millions selon sa couverture, Les Affaires mentionnant 435 millions. La différence peut refléter des éléments distincts du programme ou des mises à jour entre les articles.
+
+Deuxième dossier : les réserves d'eau souterraine au Québec. Global News rapporte qu'une coalition de 12 municipalités et neuf organisations environnementales a envoyé une lettre au ministre de l'Environnement du Québec pour alerter sur l'état des nappes phréatiques. Selon ces groupes, la province consomme actuellement plus d'eau souterraine qu'il ne s'en recharge naturellement. Cette pression sur les réserves touche des municipalités de plusieurs régions.
+
+Troisième dossier : une panne de réseau qui touche trois établissements de santé de la région de Montréal. La Presse rapporte que les systèmes informatiques et téléphoniques des CISSS de Laval, de Lanaudière et des Laurentides sont affectés depuis lundi. Des ralentissements de service sont attendus jusqu'à ce mardi.
+  </chapitre>
+
+  <chapitre titre="Politique canadienne">
+Un mot sur la politique canadienne, avec deux dossiers.
+
+D'abord, le pont international Gordie-Howe. La Presse, Radio-Canada et Global News rapportent tous que l'inauguration du pont reliant Windsor, en Ontario, à Detroit, au Michigan, est prévue pour cette semaine. Selon Global News, dont la source n'est pas autorisée à parler publiquement, la cérémonie serait provisoirement fixée au vendredi 13 juin. Radio-Canada précise que la date d'ouverture à la circulation n'est pas encore connue.
+
+Deuxième dossier, aux États-Unis mais à incidence canadienne : le National Post rapporte que Donald Trump a officiellement nommé son ex-avocat personnel Todd Blanche au poste de procureur général des États-Unis de façon permanente. Cette nomination doit être confirmée par le Sénat américain. Blanche était le principal avocat de la défense de Trump lors de ses procès pénaux. Le National Post souligne que la confirmation pourrait être contestée.
+  </chapitre>
+
+  <chapitre titre="Sport">
+On termine avec le sport, deux dossiers.
+
+D'abord, la finale NBA. Radio-Canada, Al Jazeera et Sportsnet rapportent que les Spurs de San Antonio ont remporté le troisième match de la finale face aux Knicks de New York, sur un score de 115 à 111. Victor Wembanyama a inscrit 32 points. La série est maintenant de deux victoires à une en faveur des Knicks, qui avaient pris les devants lors des deux premiers matchs. Le quatrième match se tiendra à New York.
+
+Côté hockey, Sportsnet rapporte que les Oilers d'Edmonton examineraient la possibilité d'embaucher Mike Babcock comme entraîneur-chef. Babcock avait quitté les Maple Leafs de Toronto en 2019 dans des circonstances controversées, et son retour derrière un banc dans la LNH serait un sujet de discussion dans la ligue. Par ailleurs, le Journal de Montréal rapporte que Dylan Larkin, attaquant des Red Wings de Detroit, aurait identifié trois destinations où il accepterait d'être échangé, sans que les équipes en question soient nommées dans les sources disponibles. Le Canadien de Montréal, quant à lui, fait parler de lui au Combine de la LNH pour ses questions inhabituelles aux recrues, selon TVA Sports.
+  </chapitre>
+
+  <outro>Voilà pour ce Presto du mardi 9 juin 2026. Si ce briefing vous est utile, le meilleur coup de main que vous pouvez nous donner, c'est de le partager à une personne qui aime rester informée. Et selon votre plateforme : un abonnement sur Spotify ou Apple Podcasts, un pouce bleu et un abonnement sur YouTube, ça prend deux secondes et ça aide vraiment Presto à grandir. Sur ce, bonne journée, et à demain.</outro>
+</script>
+```
