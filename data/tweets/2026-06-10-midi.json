@@ -1,0 +1,14 @@
+{
+  "date": "2026-06-10",
+  "kind": "poll",
+  "text": "Ce matin → Échanges de frappes entre États-Unis et Iran, jour 103 du conflit.\n\nSelon toi, comment les gouvernements devraient-ils réagir à la hausse des prix du pétrole due aux tensions géopolitiques?",
+  "poll": {
+    "options": [
+      "Augmenter la production",
+      "Négocier une désescalade",
+      "Aider les secteurs",
+      "Réduire la dépendance"
+    ],
+    "duration_minutes": 1440
+  }
+}
