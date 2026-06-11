@@ -1,13 +1,13 @@
 {
   "date": "2026-06-11",
   "kind": "poll",
-  "text": "Ce matin → Les États-Unis et l'Iran échangent des frappes aériennes pour la 2e nuit d'affilée au Moyen-Orient.\n\nNouveau : L'Iran dit avoir visé des actifs américains au Koweït, en Jordanie et à Bahreïn.\n\nSelon toi, comment les pays devraient-ils réagir à cette escalade?",
+  "text": "Ce matin → États-Unis et Iran échangent des frappes aériennes pour la 2e nuit.\n\nNouveau : Trump annule les frappes contre l'Iran prévues jeudi soir.\n\nSelon toi, l'annulation des frappes américaines va-t-elle réduire les tensions au Moyen-Orient?",
   "poll": {
     "options": [
-      "Par le dialogue et la",
-      "Par des sanctions",
-      "Par une présence",
-      "Par une intervention"
+      "Oui, c'est un pas vers",
+      "Non, les tensions",
+      "Trop tôt pour le dire",
+      "Aucune idée"
     ],
     "duration_minutes": 1440
   }
