@@ -23,6 +23,17 @@
       <link>https://www.prestopodcast.online</link>
     </image>
     <item>
+      <title>Presto — édition du 11 juin 2026</title>
+      <description>Au menu : International, Économie et marchés, Politique canadienne, Actualité québécoise, Tech, Sport</description>
+      <pubDate>Thu, 11 Jun 2026 08:00:49 +0000</pubDate>
+      <guid isPermaLink="false">https://github.com/meerkly-00/Presto_Podcast/releases/download/2026-06-11/2026-06-11.mp3</guid>
+      <enclosure url="https://github.com/meerkly-00/Presto_Podcast/releases/download/2026-06-11/2026-06-11.mp3" type="audio/mpeg" length="10205253"/>
+      <itunes:duration>926</itunes:duration>
+      <itunes:summary>Au menu : International, Économie et marchés, Politique canadienne, Actualité québécoise, Tech, Sport</itunes:summary>
+      <itunes:episode>19</itunes:episode>
+      <itunes:image href="https://www.prestopodcast.online/artwork-v2.jpg"/>
+    </item>
+    <item>
       <title>Presto — édition du 10 juin 2026</title>
       <description>Au menu : International, Politique canadienne, Actualité québécoise, Économie et marchés, Tech, Sport</description>
       <pubDate>Wed, 10 Jun 2026 08:00:56 +0000</pubDate>
@@ -97,17 +108,6 @@
       <itunes:duration>861</itunes:duration>
       <itunes:summary>Au menu : International, Politique canadienne, Actualité québécoise, Économie et marchés, Tech, Sport</itunes:summary>
       <itunes:episode>12</itunes:episode>
-      <itunes:image href="https://www.prestopodcast.online/artwork-v2.jpg"/>
-    </item>
-    <item>
-      <title>Presto — édition du 3 juin 2026</title>
-      <description>Au menu : International, Politique canadienne, Actualité québécoise, Économie et marchés, Tech, Sport</description>
-      <pubDate>Wed, 03 Jun 2026 12:40:21 +0000</pubDate>
-      <guid isPermaLink="false">https://github.com/meerkly-00/Presto_Podcast/releases/download/2026-06-03/2026-06-03.mp3</guid>
-      <enclosure url="https://github.com/meerkly-00/Presto_Podcast/releases/download/2026-06-03/2026-06-03.mp3" type="audio/mpeg" length="9618971"/>
-      <itunes:duration>848</itunes:duration>
-      <itunes:summary>Au menu : International, Politique canadienne, Actualité québécoise, Économie et marchés, Tech, Sport</itunes:summary>
-      <itunes:episode>11</itunes:episode>
       <itunes:image href="https://www.prestopodcast.online/artwork-v2.jpg"/>
     </item>
   </channel>
