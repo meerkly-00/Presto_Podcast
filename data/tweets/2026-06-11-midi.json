@@ -1,0 +1,14 @@
+{
+  "date": "2026-06-11",
+  "kind": "poll",
+  "text": "Ce matin → Les États-Unis et l'Iran échangent des frappes aériennes pour la 2e nuit d'affilée au Moyen-Orient.\n\nNouveau : L'Iran dit avoir visé des actifs américains au Koweït, en Jordanie et à Bahreïn.\n\nSelon toi, comment les pays devraient-ils réagir à cette escalade?",
+  "poll": {
+    "options": [
+      "Par le dialogue et la",
+      "Par des sanctions",
+      "Par une présence",
+      "Par une intervention"
+    ],
+    "duration_minutes": 1440
+  }
+}
