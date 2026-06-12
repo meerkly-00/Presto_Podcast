@@ -1,13 +1,13 @@
 {
   "date": "2026-06-12",
   "kind": "poll",
-  "text": "Ce matin → Trump annule les frappes contre l'Iran et crie victoire avec un accord, mais Téhéran dit que rien n'est finalisé.\n\nNouveau : Un analyste du National Post note que c'est la 38e tentative\n\nSelon toi, les négociations Trump-Iran peuvent-elles aboutir à un accord durable?",
+  "text": "Ce matin → Trump annule les frappes contre l'Iran et crie victoire.\n\nMaj : Téhéran déclare qu'un accord « n'a jamais été aussi proche ». Les deux camps semblent vouloir calmer le jeu.\n\nComment tu vois les chances de concrétiser cet accord dans les prochaines semaines?",
   "poll": {
     "options": [
-      "Oui, si les deux camps",
-      "Non, les divergences",
-      "Possible, mais pour peu",
-      "Trop tôt pour dire"
+      "Probable, les deux côtés",
+      "Incertain, trop de",
+      "Peu probable, manque de",
+      "Trop tôt pour évaluer"
     ],
     "duration_minutes": 1440
   }
