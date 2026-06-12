@@ -1,0 +1,14 @@
+{
+  "date": "2026-06-12",
+  "kind": "poll",
+  "text": "Ce matin → Trump annule les frappes contre l'Iran et crie victoire avec un accord, mais Téhéran dit que rien n'est finalisé.\n\nNouveau : Un analyste du National Post note que c'est la 38e tentative\n\nSelon toi, les négociations Trump-Iran peuvent-elles aboutir à un accord durable?",
+  "poll": {
+    "options": [
+      "Oui, si les deux camps",
+      "Non, les divergences",
+      "Possible, mais pour peu",
+      "Trop tôt pour dire"
+    ],
+    "duration_minutes": 1440
+  }
+}
