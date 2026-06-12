@@ -1,0 +1,91 @@
+```xml
+<script>
+  <intro>Bonjour, on est le vendredi 12 juin 2026. Voici votre Presto en environ 17 minutes. Au menu ce matin : le conflit États-Unis et Iran et la question d'un accord, l'actualité québécoise avec deux lois adoptées à l'Assemblée nationale, l'économie avec le premier trillionnaire de l'histoire et les prévisions de la Banque mondiale, la tech avec Prometheus et Nvidia, et le sport avec le coup d'envoi de la Coupe du monde et les Hurricanes en finale.</intro>
+
+  <chapitre titre="International">
+On commence par le dossier qui occupe la une depuis le début de la semaine : le conflit entre les États-Unis et l'Iran, et une nouvelle évolution majeure survenue jeudi soir.
+
+Donald Trump a annoncé qu'il annulait des frappes qu'il menaçait de lancer contre l'Iran, affirmant avoir conclu un accord avec Téhéran. Selon la BBC World, Trump a parlé d'un "great settlement" pour mettre fin au conflit. Selon Reuters, le président américain a dit que l'accord avait été approuvé et que la guerre était sur le point de se terminer.
+
+Problème : Téhéran dit tout autre chose. Radio-Canada et la BBC World rapportent que l'Iran qualifie ces affirmations de "spéculatives" et indique n'avoir rien finalisé. Un porte-parole iranien a déclaré que le pays est en réflexion, mais qu'aucune décision n'a été prise.
+
+Reuters souligne par ailleurs que les tensions dans le détroit d'Ormuz persistent. Al Jazeera rapporte que l'armée américaine a frappé trois navires dans le détroit cette semaine, tuant trois marins indiens. New Delhi n'a pas encore réagi officiellement selon les sources disponibles.
+
+Le Wall Street Journal rapporte pour sa part que l'annonce de Trump a eu un effet calmant immédiat sur les marchés. Et en Asie, Bloomberg rapporte que les indices boursiers ont progressé en préouverture vendredi matin, portés par les espoirs d'une désescalade.
+
+Le Financial Times rapporte aussi que Trump a évoqué vouloir prendre "un contrôle total" des marchés pétroliers et gaziers iraniens, une déclaration qui soulève des questions sur la nature exacte de l'accord envisagé et sa viabilité.
+
+Toujours à l'international, en Irlande du Nord, le National Post et l'Associated Press rapportent que des émeutes anti-immigration ont éclaté à Belfast et dans ses environs cette semaine. Des commerces appartenant à des minorités ethniques ont été incendiés. L'Associated Press explique que les violences ont été déclenchées par une agression au couteau. Le National Post cite des réfugiés qui se cachent par crainte pour leur sécurité. Le pape François, en visite aux îles Canaries, a condamné l'indifférence mondiale à l'égard des migrants, selon l'Associated Press.
+
+Enfin, en Thaïlande, la BBC World rapporte le décès de la princesse Bajrakitiyabha, fille aînée du roi, après plus de trois ans dans le coma. Elle s'était effondrée en décembre 2022 lors d'une promenade avec ses chiens.
+  </chapitre>
+
+  <chapitre titre="Politique canadienne">
+Du côté de la politique canadienne, deux dossiers ce matin.
+
+D'abord, le ministre fédéral des Finances, François-Philippe Champagne, est au coeur d'une controverse. Le National Post rapporte que des députés de l'opposition l'accusent d'avoir participé à plus d'une douzaine de votes sur le projet de train à grande vitesse fédéral, et ce après avoir déclaré un conflit d'intérêts potentiel. Les détails du lien personnel du ministre avec ce projet ne sont pas précisés dans les sources, mais l'opposition a posé des questions directes en chambre jeudi. Le gouvernement n'a pas encore répondu publiquement selon les sources disponibles.
+
+Deuxième dossier : la sécurité alimentaire. La Presse rapporte que le gouvernement Carney a annoncé un investissement de 3,2 milliards de dollars sur dix ans pour renforcer la sécurité alimentaire au Canada. L'objectif déclaré est double : améliorer l'accès aux aliments et faire baisser les prix à l'épicerie. Le gouvernement qualifie ça d'une nouvelle stratégie nationale. Aucune réaction officielle de l'opposition n'est disponible dans les sources pour ce matin.
+
+Un troisième élément mérite attention. Global News rapporte qu'Ottawa a coupé le financement de groupes de défense des consommateurs, et que plusieurs organisations, dont Option consommateurs au Québec, ont réagi avec vigueur. Global News cite un représentant du groupe qui dit, je le cite : "You are weakening the voice of consumers." Fin de citation. Ces groupes disent que ces coupures arrivent au pire moment, alors que les prix alimentaires et le coût de la vie demeurent une préoccupation centrale pour les ménages canadiens.
+
+Côté Alberta, La Presse rapporte que le gouvernement provincial a interjeté appel de la décision d'une juge qui avait rejeté une pétition visant à tenir un référendum sur la sortie de l'Alberta du Canada. Le dossier se retrouve donc devant les tribunaux d'appel. La démarche reste à une étape judiciaire, mais elle maintient le débat sur la question de l'indépendance albertaine dans l'actualité nationale.
+  </chapitre>
+
+  <chapitre titre="Actualité québécoise">
+Du côté du Québec, deux dossiers importants adoptés jeudi à l'Assemblée nationale.
+
+D'abord, la loi Gabie Renaud. Radio-Canada et La Presse rapportent que le projet de loi visant à mieux protéger les femmes contre la violence conjugale a été adopté à l'unanimité. La nouvelle loi permet à une femme qui craint pour sa sécurité de demander à la Sûreté du Québec de consulter les antécédents en matière de violence conjugale d'un partenaire intime. Elle pourra faire la demande en ligne ou dans un poste de police. Les policiers pourront transmettre toute information qu'ils jugent pertinente, pas seulement les condamnations.
+
+La loi porte le nom de Gabie Renaud, décédée en septembre dernier, présumément tuée par son conjoint qui avait de lourds antécédents. Sa sœur Rachel était présente à l'Assemblée nationale pour l'adoption. Radio-Canada la cite, je la cite : "Mon nom devient une loi. Et si cette loi permet de sauver une seule vie." Fin de citation. Le ministre de la Sécurité intérieure, Ian Lafrenière, a souligné la collaboration de tous les partis.
+
+Deuxième dossier : la Fonderie Horne. La Presse rapporte que l'Assemblée nationale a adopté le projet de loi 11, qui accorde à Glencore les délais demandés pour la fonderie de Rouyn-Noranda. Ce projet de loi avait fait l'objet de débats importants au cours des dernières semaines, notamment en raison des préoccupations environnementales et de santé publique liées aux émissions d'arsenic de la fonderie. La Presse rapporte simplement l'adoption, sans préciser si des voix dissidentes ont été exprimées lors du vote final.
+  </chapitre>
+
+  <chapitre titre="Économie et marchés">
+On passe à l'économie, et plusieurs dossiers importants ce matin.
+
+D'abord, l'entrée en bourse de SpaceX. Reuters, Reuters Business et BNN Bloomberg rapportent tous que SpaceX a réalisé son introduction en bourse, et que celle-ci est décrite comme la plus grande de l'histoire. L'effet direct : Elon Musk est devenu le premier trillionnaire de l'histoire, selon Reuters et Al Jazeera. Son patrimoine net a dépassé le cap des mille milliards de dollars américains, porté par la valorisation de SpaceX à la suite de l'introduction en bourse.
+
+Ce n'est pas sans nuances. Bloomberg rapporte que certains fonds institutionnels refusent d'investir dans SpaceX, qu'ils qualifient de trop risqué sur le plan de la gouvernance d'entreprise. Reuters Business souligne par ailleurs qu'Oppenheimer a lancé la première couverture de Wall Street sur SpaceX avec des perspectives favorables. Al Jazeera encadre ce développement dans un contexte plus large d'inquiétude croissante face aux inégalités mondiales de richesse.
+
+Le marché boursier plus largement : le Wall Street Journal rapporte que la décision de Trump d'annuler les frappes contre l'Iran a eu un effet stabilisateur sur les marchés jeudi. Bloomberg rapporte que les indices asiatiques progressaient vendredi matin en préouverture. Reuters indique de son côté que l'or se dirige vers une perte hebdomadaire, en raison des craintes persistantes d'inflation et d'une possible hausse des taux.
+
+Sur les perspectives macro, Reuters Business rapporte que la Banque mondiale a revu à la baisse ses prévisions de croissance mondiale, à 2,5 %. En cas de propagation des répercussions du conflit au Moyen-Orient sur les marchés, la Banque mondiale avertit que ce chiffre pourrait descendre à 1,3 %.
+
+Bloomberg rapporte aussi que la demande en puces mémoire liée à l'essor de l'intelligence artificielle contribue à des pressions inflationnistes. Le titre de l'article parle de prix "insanes" pour ces composants. La demande des centres de données en infrastructure IA dépasse actuellement l'offre disponible sur le marché.
+
+Enfin, le Wall Street Journal publie une analyse sur les déséquilibres commerciaux mondiaux comme nouvelle menace à la croissance, sans préciser de chiffres supplémentaires au-delà du titre dans les sources disponibles.
+  </chapitre>
+
+  <chapitre titre="Tech">
+Un mot sur la tech, avec deux dossiers substantiels ce matin.
+
+Premier dossier : Prometheus, la startup d'intelligence artificielle fondée par Jeff Bezos, a levé 12 milliards de dollars américains en nouveau financement, selon TechCrunch. L'entreprise est maintenant valorisée à 41 milliards de dollars. Son objectif déclaré : construire ce que TechCrunch décrit comme un "artificial general engineer" pour le monde physique, capable d'automatiser des tâches d'ingénierie lourde et de conception de médicaments. Ce financement s'inscrit dans une vague plus large de capital qui afflue vers les entreprises d'intelligence artificielle. Le Financial Times note dans ce contexte que les marchés publics s'ouvrent de plus en plus à l'IA, avec un nombre croissant d'introductions en bourse dans ce secteur.
+
+Deuxième dossier : Nvidia. Reuters rapporte, en citant des sources, que Nvidia a commencé à présenter son processeur Vera à des clients chinois. Ce produit, qui est un processeur central et non une puce graphique, n'est pas soumis aux mêmes restrictions à l'exportation que les puces IA de Nvidia. Cette démarche permettrait à Nvidia de maintenir une présence commerciale en Chine dans un contexte de contrôles stricts sur les exportations technologiques américaines vers ce marché.
+
+Sur le plan de la politique technologique aux États-Unis, Ars Technica rapporte que les sénateurs Ted Cruz, républicain du Texas, et Ron Wyden, démocrate de l'Oregon, ont déposé conjointement le JAWBONE Act, un projet de loi bipartisan qui viserait à interdire aux agences fédérales de faire pression sur les plateformes en ligne, les diffuseurs ou les services d'intelligence artificielle pour qu'ils restreignent la parole. La loi créerait un droit de poursuite privée pour les victimes de telles pressions gouvernementales. Le projet fait écho aux tensions actuelles entre certaines agences fédérales et les médias ou plateformes numériques.
+
+Du côté d'Apple, The Verge rapporte que Craig Federighi, responsable des logiciels chez Apple, a expliqué dans une entrevue que le nouveau Siri est conçu pour éviter la sycophance que l'on retrouve dans d'autres assistants IA. En anglais, je le cite : "They kind of want to pull you in." Fin de citation. Apple dit avoir délibérément conçu Siri pour ne pas chercher à prolonger l'engagement de l'utilisateur ni à établir un lien émotionnel artificiel.
+
+Enfin, Theker, une startup de robotique industrielle, a levé 85 millions de dollars américains, selon TechCrunch. Sa particularité : ses robots d'usine sont conçus pour être reconfigurés selon les tâches, contrairement aux robots à forme fixe comme ceux de Boston Dynamics.
+  </chapitre>
+
+  <chapitre titre="Sport">
+On termine avec le sport, trois dossiers ce matin.
+
+D'abord, la Coupe du monde 2026. Hier soir, le Mexique a lancé le tournoi en force. L'Associated Press rapporte que le Mexique a battu l'Afrique du Sud deux à zéro lors du match d'ouverture, joué à l'Estadio Azteca de Mexico City. Al Jazeera rapporte également que des manifestants et des policiers se sont affrontés à l'extérieur du stade juste avant le coup d'envoi.
+
+Et aujourd'hui, c'est au tour du Canada de jouer son premier match de Coupe du monde en tant que pays hôte. Sportsnet rapporte que l'équipe canadienne affronte la Bosnie-Herzégovine à Toronto. Sportsnet décrit ce match comme le plus important de l'histoire de l'équipe masculine canadienne. Plusieurs analystes cités par Sportsnet soulignent la pression qui pèse sur l'équipe, qui veut transformer le potentiel des dernières années en performance concrète sur la scène mondiale.
+
+Sur la note économique du tournoi, la BBC World publie une analyse qui décrit cette Coupe du monde comme la plus coûteuse de l'histoire en raison des guerres commerciales et de la montée des prix des billets. Enfin, le site américain a défendu des refus de visa qui ont empêché certains officiels et partisans étrangers d'entrer aux États-Unis pour le tournoi, selon Al Jazeera.
+
+Deuxième dossier sportif : la finale de la Coupe Stanley. Radio-Canada rapporte que les Hurricanes de la Caroline ont battu les Golden Knights de Vegas quatre à deux au cinquième match, et qu'ils mènent maintenant la série trois à deux. Les Hurricanes sont à une victoire de la Coupe Stanley. Le contexte émotionnel autour de Jordan Staal, vétéran de l'équipe, est souligné par Radio-Canada, qui parle d'une finale héroïque pour lui.
+
+Troisième dossier : en football canadien, Global News rapporte que les Tiger-Cats de Hamilton ont battu les Blue Bombers de Winnipeg trente-sept à vingt-sept lors du match inaugural à domicile de Winnipeg. Hamilton avait vingt-quatre points d'avance à la mi-temps.
+  </chapitre>
+
+  <outro>Voilà pour ce Presto du vendredi 12 juin 2026. Si ce briefing vous est utile, le meilleur coup de main que vous pouvez nous donner, c'est de le partager à une personne qui aime rester informée. Et selon votre plateforme : un abonnement sur Spotify ou Apple Podcasts, un pouce bleu et un abonnement sur YouTube, ça prend deux secondes et ça aide vraiment Presto à grandir. Sur ce, bonne journée, et à demain.</outro>
+</script>
+```
