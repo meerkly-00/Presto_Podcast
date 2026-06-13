@@ -1,13 +1,13 @@
 {
   "date": "2026-06-13",
   "kind": "poll",
-  "text": "Ce matin → accord de paix États-Unis-Iran en cours de négociation.\n\nNouveau : Israël a mené des frappes aériennes au Liban, malgré l'inclusion de l'Iran dans le mémorandum d'entente\n\nComment évalues-tu la poursuite des opérations militaires pendant les négociations de paix?",
+  "text": "Ce matin → Les É.-U. et l'Iran conviendraient d'un accord de paix selon le Pakistan.\n\nNouveau : Trump discutera du déminage du détroit d'Ormuz au G7.\n\nSelon toi, un accord entre les É.-U. et l'Iran changera-t-il la stabilité au Moyen-Orient?",
   "poll": {
     "options": [
-      "Légitime pour maintenir",
-      "Contreproductive aux",
-      "Dépend du contexte de",
-      "Pas d'opinion"
+      "Oui, c'est un pas vers",
+      "Non, les tensions",
+      "Ça dépend des détails",
+      "Incertain"
     ],
     "duration_minutes": 1440
   }
