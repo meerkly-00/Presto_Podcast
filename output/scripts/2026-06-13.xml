@@ -1,0 +1,95 @@
+```xml
+<script>
+  <intro>Bonjour, on est le samedi 13 juin 2026. Voici votre Presto en environ 17 minutes. Au menu ce matin : un accord de paix qui se dessine entre les États-Unis et l'Iran, avec des tensions qui persistent malgré tout ; SpaceX en bourse et Elon Musk premier trillionnaire de l'histoire ; Anthropic forcé de retirer ses nouveaux modèles d'intelligence artificielle par le gouvernement américain ; du côté canadien, le SPVM démantèle une équipe de policiers accusés de comportements racistes ; et le Canada décroche son premier point à la Coupe du monde.</intro>
+
+  <chapitre titre="International">
+    On commence par le dossier qui a dominé l'actualité mondiale toute la semaine : le conflit entre les États-Unis et l'Iran. Et ce matin, les signaux pointent vers une sortie de crise, même si la situation reste fragile.
+
+    D'abord, les bonnes nouvelles. Selon l'Associated Press, les États-Unis et l'Iran auraient convenu d'un texte d'accord pour mettre fin à leur guerre. Le premier ministre pakistanais, qui a joué un rôle de médiateur dans les négociations, a confirmé cette information. CBC rapporte qu'un haut fonctionnaire américain a dit s'attendre à ce qu'un accord initial soit signé dans les prochains jours. Selon BBC World, cet accord ouvrirait la voie à la réouverture du détroit d'Hormuz, une artère maritime essentielle pour le commerce mondial du pétrole.
+
+    Al Jazeera décrit la position de Donald Trump comme une recherche de ce qu'on appelle une "off-ramp", une sortie honorable du conflit. Trump souhaite présenter cet accord comme une victoire diplomatique, selon ce que rapporte Al Jazeera.
+
+    Mais la situation sur le terrain reste tendue. Radio-Canada rapporte que Washington a abattu des drones iraniens, et ce, malgré l'optimisme affiché par les deux parties au sujet d'un accord de paix. Reuters signale également que des actions militaires ont eu lieu près du détroit d'Hormuz, dans les heures mêmes où les négociations progressaient. La contradiction entre les signaux diplomatiques et les incidents militaires illustre la fragilité du moment.
+
+    Du côté d'Israël et du Liban, Al Jazeera rapporte que l'armée israélienne a lancé des frappes dans le sud du Liban et ordonné aux résidents de 20 villes et villages de quitter leurs foyers immédiatement. Un mort a été signalé. Ce dossier évolue en parallèle des négociations irano-américaines.
+
+    Toujours sur le front américain, Trump a annoncé vendredi que des forces américaines ont mené une frappe qui a tué Hector Rusthenford Guerrero Flores, connu sous le surnom de Niño Guerrero, chef du gang vénézuélien Tren de Aragua. Selon CBC et Al Jazeera, cette opération aurait été réalisée avec la coopération du Venezuela. Le gang Tren de Aragua est au centre d'une vaste opération de répression criminelle menée par l'administration Trump depuis plusieurs mois.
+
+    Autre développement : l'ambassadeur américain en Israël, Mike Huckabee, a accordé l'une de ses premières entrevues à la caméra depuis le début du conflit américano-iranien. CBC World rapporte qu'il a écarté les rapports faisant état de tensions entre Trump et le premier ministre israélien Benjamin Netanyahu, tout en évoquant la réaction américaine aux récentes sanctions imposées par le Canada contre des ressortissants israéliens.
+
+    Enfin, un dossier qui touche à la Coupe du monde et à la politique étrangère. CBC World rapporte que le Canada a annoncé une aide de 100 millions de dollars pour les Palestiniens de la Cisjordanie et de la bande de Gaza. C'est la ministre des Affaires étrangères, Anita Anand, qui a fait l'annonce vendredi.
+  </chapitre>
+
+  <chapitre titre="Économie et marchés">
+    On passe à l'économie, et c'est l'entrée en bourse de SpaceX qui domine largement ce chapitre.
+
+    SpaceX a commencé à se négocier vendredi sur le Nasdaq, à New York. Les actions ont ouvert à 135 dollars américains l'unité et ont terminé la journée à 160,95 dollars, une progression de plus de 19 pour cent. Selon Ars Technica, la capitalisation boursière de l'entreprise a dépassé 1 800 milliards de dollars américains à l'ouverture, et selon BBC World et BNN Bloomberg, elle a franchi les 2 200 milliards en cours de journée, ce qui en fait l'une des entreprises les plus valorisées au monde dès son premier jour de cotation.
+
+    L'Associated Press et le Financial Times rapportent que la fortune personnelle d'Elon Musk a franchi le seuil du trillion de dollars américains à la suite de cette entrée en bourse, ce qui ferait de lui le premier trillionnaire de l'histoire. Selon Bloomberg, sa participation personnelle dans SpaceX est évaluée à plus de 700 milliards de dollars. Des milliers d'employés actuels et anciens de SpaceX ont également vu la valeur de leurs options d'achat d'actions progresser de façon significative, selon Ars Technica.
+
+    BNN Bloomberg rapporte que les marchés canadiens et américains ont progressé vendredi dans le sillage de l'entrée en bourse de SpaceX et d'une baisse des cours du pétrole. La détente dans le dossier irano-américain a contribué à cette baisse du prix du brut, selon Reuters Business, qui note toutefois que la perte de production pétrolière dans le Golfe est plus limitée que certains ne l'estimaient.
+
+    Sur le plan des entreprises, Reuters Business rapporte que Roku, la plateforme de diffusion en continu américaine, examine ses options stratégiques, y compris une possible vente de l'entreprise. Parallèlement, Bloomberg rapporte que l'américain Sleep Number, fabricant de matelas, a déposé une demande de mise sous protection en vue d'une vente à Sleep Country Canada.
+
+    Du côté de la Chine et des États-Unis, Reuters Business rapporte que Pékin a exprimé une forte insatisfaction face à une décision du Pentagone visant des entreprises technologiques chinoises de premier plan. Aucun autre détail n'était disponible au moment de la publication.
+
+    Enfin, sur le plan immobilier et de la santé, deux articles de The Economist méritent mention. La revue britannique publie une analyse sur une proposition suisse de plafonner la population nationale à 10 millions d'habitants, une mesure que The Economist juge contre-productive. L'Economist publie aussi un article sur un médicament potentiellement prometteur dans le traitement des tumeurs pancréatiques, qui pourrait révéler ce que les chercheurs décrivent comme un interrupteur central dans le développement des cancers. Ces deux sujets n'ont pas de lien direct avec l'actualité canadienne, mais méritent l'attention de ceux qui suivent les tendances de fond.
+  </chapitre>
+
+  <chapitre titre="Tech">
+    Un mot sur la tech, avec deux dossiers substantiels ce matin.
+
+    Premier dossier, et le plus important : le gouvernement américain a forcé Anthropic à retirer de la circulation ses deux nouveaux modèles d'intelligence artificielle, Fable 5 et Mythos 5. Selon Ars Technica, Anthropic a reçu vendredi soir une directive du département du Commerce américain soumettant ces modèles à des contrôles d'exportation qui en restreignent l'utilisation aux États-Unis seulement. L'entreprise a indiqué que la seule façon de se conformer immédiatement à cette directive était de désactiver complètement les deux modèles pour tous ses clients, partout dans le monde. Les autres modèles d'Anthropic ne sont pas touchés.
+
+    Selon un rapport d'Axios cité par Ars Technica, l'administration américaine aurait agi après avoir été informée de l'existence d'un type d'attaque, appelé "jailbreak", qui permettrait de contourner les protections des modèles dans des domaines sensibles liés à la cybersécurité, à la chimie et à la biologie. L'administration aurait demandé une pause pour permettre à l'appareil de sécurité nationale de se préparer. Selon la même source, cette préparation pourrait prendre quelques semaines.
+
+    Anthropic n'a pas caché sa frustration face à cette décision. TechCrunch rapporte que la compagnie a écrit, je la cite : "We disagree that the finding of a narrow potential jailbreak should be cause for recalling a commercial model deployed to hundreds of millions of people." Fin de citation. Ce développement survient quelques jours après qu'Anthropic eut présenté des excuses pour un autre problème lié à ces mêmes modèles, comme on l'avait rapporté en début de semaine.
+
+    Ce dossier soulève une question structurante sur la régulation de l'intelligence artificielle. D'un côté, l'administration Trump invoque des impératifs de sécurité nationale. De l'autre, Anthropic soutient que retirer un modèle commercial déployé à grande échelle sur la base d'un jailbreak partiel est une réponse disproportionnée.
+
+    Deuxième dossier tech : une faille de sécurité critique dans le logiciel PeopleSoft d'Oracle. Ars Technica rapporte que le groupe de pirates informatiques ShinyHunters a exploité une vulnérabilité classée 9,8 sur 10 en termes de gravité, désignée CVE-2026-35273, pour cibler environ 100 organisations clientes d'Oracle et voler des gigaoctets de données. Au moins une victime a reçu une demande d'extorsion. Oracle a publié une mitigation temporaire, mais la faille n'est pas encore entièrement corrigée. Google's Mandiant a confirmé que des victimes reçoivent des demandes d'extorsion.
+
+    Un dernier mot en tech : Reuters rapporte que Microsoft aurait envisagé de se départir de sa division Xbox. Aucune décision n'a été annoncée, selon la même source.
+  </chapitre>
+
+  <chapitre titre="Politique canadienne">
+    Du côté de la politique canadienne, trois dossiers ce matin.
+
+    D'abord, Mark Carney à Paris. Le National Post rapporte que le premier ministre a annoncé, lors de sa visite chez le président Emmanuel Macron, la conclusion d'un pacte de partage du renseignement entre le Canada et la France. Carney a également déclaré que sa doctrine des "puissances moyennes", qu'il avait présentée à Davos plus tôt cette année, "gagne en traction réelle" à l'international. Il fait valoir que les puissances moyennes ont intérêt à s'unir face aux grandes puissances qu'il a désignées comme des "hégémons".
+
+    Deuxième dossier : l'Alberta commandite une étude sur les coûts d'une éventuelle séparation de la province. CBC rapporte que le gouvernement albertain a choisi l'Université de Calgary pour mener une analyse économique de 1,5 million de dollars portant sur les conséquences potentielles d'une sortie de l'Alberta de la fédération canadienne. Le gouvernement a également annoncé la création d'un panel. La décision d'Ottawa de réduire certains transferts et de maintenir la péréquation dans sa forme actuelle figure parmi les éléments de contexte qui alimentent ce débat en Alberta, selon les médias qui couvrent le dossier.
+
+    Troisième dossier : le pont Gordie-Howe. Radio-Canada rapporte que l'ouverture du pont, qui devait avoir lieu vendredi, a été reportée une nouvelle fois. Le rapport pointe vers le secrétaire américain au Commerce, Howard Lutnick, comme responsable de ce délai. Des invitations avaient déjà été envoyées pour la cérémonie d'inauguration.
+
+    Le Devoir rapporte par ailleurs que le ministre de la Défense nationale, Bill McGuinty, a accordé une entrevue dans laquelle il décrit son rôle dans la refonte de la politique de défense du Canada et dit maintenir la tête froide malgré les tensions avec Washington.
+  </chapitre>
+
+  <chapitre titre="Actualité québécoise">
+    Du côté du Québec, deux dossiers importants.
+
+    D'abord, une révélation troublante sur le Service de police de la Ville de Montréal. Radio-Canada, CBC et La Presse rapportent que 16 policiers du poste de quartier 39, dans Montréal-Nord, font l'objet d'une enquête pour comportements racistes et haineux à l'endroit de personnes noires et arabes lors d'interpellations. Deux policiers ont été suspendus et pourraient faire face à des accusations criminelles, selon Radio-Canada. Les 14 autres ont été réaffectés à des tâches sans contact avec le public.
+
+    La Presse rapporte des détails particulièrement graves : des membres du groupe auraient coupé les cheveux de personnes appréhendées afin de les conserver comme trophées. La haute direction du SPVM est intervenue vendredi soir pour démanteler cette équipe de patrouilleurs de nuit.
+
+    Ce dossier ravive des débats récurrents sur le profilage racial dans les corps policiers québécois. Aucune réaction formelle des syndicats policiers ou du gouvernement provincial n'était disponible dans les sources au moment de la publication.
+
+    Deuxième dossier : l'Assemblée nationale a adopté vendredi le projet de loi 23, qui assouplit les critères permettant l'hospitalisation forcée d'une personne en crise. Selon La Presse, l'adoption a eu lieu contre toute attente, le projet de loi étant qualifié d'"imposant". Ce texte modifie les conditions dans lesquelles une personne peut être hospitalisée sans son consentement. La loi a suscité des débats importants sur l'équilibre entre la protection des droits individuels et la réponse aux situations d'urgence en santé mentale.
+  </chapitre>
+
+  <chapitre titre="Sport">
+    On termine avec le sport, et la Coupe du monde 2026.
+
+    Hier soir à Toronto, le Canada a disputé son match d'ouverture contre la Bosnie-Herzégovine, et s'est incliné avant de revenir pour arracher le match nul : 1 à 1. Selon Sportsnet, le Canada a dominé la possession et s'est créé davantage d'occasions statistiquement parlant, mais a manqué de précision devant le filet pendant la majeure partie du match. C'est Cyle Larin qui a inscrit le but égalisateur en deuxième demie, sur une substitution. Radio-Canada rapporte que Larin, qui n'avait pas marqué depuis un certain temps, a été porté par la foule.
+
+    Ce point est le premier de l'histoire du Canada en Coupe du monde. Pour le National Post, la question ce matin est de savoir à quel point l'équipe est passée près d'une crise : les occasions manquées auraient pu mener à une défaite que le contexte festif de la première journée aurait rendu difficile à digérer.
+
+    Parallèlement, Sportsnet rapporte que les États-Unis ont dominé leur match d'ouverture. Samedi, c'est au tour du Brésil, cinq fois champion du monde, d'entrer en lice contre le Maroc.
+
+    Un mot sur un dossier en marge de la Coupe du monde. Le National Post et CBC World rapportent que le Canada a refusé un visa au joueur ghanéen Thomas Partey, qui fait face à des accusations de viol en Grande-Bretagne. La FIFA a confirmé l'information. Partey ne pourra donc pas participer au match de son équipe contre le Panama.
+
+    Enfin, Reuters rapporte que des manifestants se sont rassemblés à Toronto vendredi pour protester contre les liens de la FIFA avec Israël, en marge du match canadien.
+  </chapitre>
+
+  <outro>Voilà pour ce Presto du samedi 13 juin 2026. Si ce briefing vous est utile, le meilleur coup de main que vous pouvez nous donner, c'est de le partager à une personne qui aime rester informée. Et selon votre plateforme : un abonnement sur Spotify ou Apple Podcasts, un pouce bleu et un abonnement sur YouTube, ça prend deux secondes et ça aide vraiment Presto à grandir. Sur ce, bonne journée, et à demain.</outro>
+</script>
+```
