@@ -1,0 +1,75 @@
+```xml
+<script>
+  <intro>Bonjour, on est le dimanche 14 juin 2026. Voici votre Presto en environ 17 minutes. Au menu ce matin : le dossier États-Unis et Iran, qui se rapproche d'une signature mais ne l'a pas encore atteinte. L'actualité québécoise, avec une confrontation politique inusitée entre le PLQ et le PQ. La tech, avec de nouveaux développements sur la mise hors ligne des modèles d'Anthropic. Et le sport, avec un titre de la NBA qui met fin à une très longue attente à New York.</intro>
+
+  <chapitre titre="International">
+On commence par le dossier qui occupe les manchettes depuis maintenant plus de trois mois : le conflit entre les États-Unis et l'Iran, au jour 107. Et ce matin, la situation est à la fois plus proche d'un dénouement et plus confuse que jamais sur la question du calendrier.
+
+Donald Trump a déclaré samedi qu'un accord de paix serait signé dès dimanche. Selon CBC World et Radio-Canada, le président américain a affirmé que les deux pays étaient sur le point de conclure une première étape d'une entente pour mettre fin aux hostilités. Le Pakistan, qui joue un rôle de médiateur dans ces négociations, a indiqué pour sa part qu'un accord intérimaire visant à rouvrir le détroit d'Ormuz pourrait être finalisé dans un délai de 24 heures.
+
+Mais Téhéran n'est pas sur la même longueur d'onde sur le calendrier. Selon BBC World et Al Jazeera, l'Iran reconnaît qu'un accord est en cours de négociation, mais dit qu'une date exacte de signature n'a pas encore été arrêtée. Il parle de "prochains jours", pas de dimanche. Et Al Jazeera note que la signature de l'accord ne figure pas à l'agenda public de Trump pour aujourd'hui, ce dimanche.
+
+Selon le National Post, les deux parties continuent de se rapprocher malgré des frictions récentes près du détroit d'Ormuz, une voie maritime stratégique par laquelle transite une part importante du pétrole mondial.
+
+Donc, pour résumer l'état de la situation : les signaux de sortie de crise se multiplient, les deux parties s'entendent sur le fait qu'un accord existe en principe, mais le moment exact de la signature fait l'objet d'un désaccord public entre Washington et Téhéran. On surveille ça de près.
+
+Toujours dans le volet international, une opération militaire britannique dans la Manche. Selon Al Jazeera, le ministère de la Défense du Royaume-Uni a annoncé samedi avoir arraisonné un pétrolier de la flotte fantôme russe dans la Manche. Le navire, identifié sous le nom de Smyrtos, a été saisi à l'issue d'une opération de six heures. On rappelle que la flotte fantôme désigne les navires utilisés par la Russie pour contourner les sanctions pétrolières occidentales en transportant du pétrole sans passer par des circuits de fret conventionnels.
+
+En Irlande du Nord, CBC World rapporte que des milliers de manifestants se sont rassemblés à Belfast samedi pour dénoncer des émeutes antiimmigrants survenues plus tôt dans la semaine. Des maisons et des voitures avaient été incendiées après un meurtre attribué à un demandeur d'asile. La manifestation de samedi s'est voulue une réponse à ces violences.
+
+En Suisse, les électeurs se prononcent ce dimanche sur une initiative de la droite visant à plafonner la population du pays à 10 millions d'habitants. Selon BBC World et Al Jazeera, cette proposition est portée par le Parti du peuple suisse, qui la présente comme une "initiative de durabilité". Un vote favorable forcerait le gouvernement à restreindre l'asile, les permis de résidence et à remettre en cause l'accord de libre circulation des personnes conclu avec l'Union européenne. Les opposants font valoir que ce plan créerait un chaos économique et diplomatique pour la Suisse. Le résultat n'était pas connu au moment de la production de ce briefing.
+
+Enfin, le Financial Times rapporte que les États-Unis ont tué le chef du gang vénézuélien Tren de Aragua dans une frappe aérienne. Peu de détails étaient disponibles au moment de la production de ce briefing, mais il s'agit d'une organisation criminelle transnationale que l'administration Trump avait désignée comme organisation terroriste étrangère.
+  </chapitre>
+
+  <chapitre titre="Politique canadienne">
+On passe à la politique canadienne, avec deux dossiers ce matin.
+
+D'abord, Mark Carney poursuit sa tournée européenne. Selon Le Devoir, le premier ministre a annoncé samedi plusieurs accords entre le Canada et l'Irlande, lors d'une visite à Dublin. La visite est décrite comme la première d'un premier ministre canadien en Irlande depuis près d'une décennie.
+
+Plus tôt cette semaine, rappelons que Carney était à Paris pour rencontrer le président Emmanuel Macron, où il a conclu un pacte de partage du renseignement entre les deux pays, tel que rapporté dans les derniers briefings.
+
+La Presse rapporte que Carney a aussi évoqué le Sommet du G7, prévu la semaine prochaine, en disant que les "fils" d'un nouvel ordre mondial pourraient y être tissés. Ce sont ses mots, tels que rapportés par La Presse, et non une évaluation indépendante.
+
+Deuxième dossier canadien : la Coupe du monde et une controverse diplomatique. Selon CBC et le National Post, le gouvernement du Ghana a officiellement protesté contre la décision du Canada de refuser un visa au milieu de terrain Thomas Partey pour le match d'ouverture de son équipe. Partey fait l'objet d'un procès en Grande-Bretagne pour des accusations d'agression sexuelle. Accra qualifie la décision d'"extrêmement injuste" et menace de recourir à des voies légales pour tenter de la renverser. Le Canada, pour sa part, ne s'est pas exprimé publiquement sur les motifs spécifiques du refus.
+
+Global News rapporte par ailleurs que la Coupe du monde commence à avoir un impact économique visible à Toronto, avec des terrasses bondées et des zones pour les partisans qui animent certains quartiers. Cela dit, le même reportage note que le taux d'occupation hôtelière en juin est en deçà des niveaux de l'an dernier, malgré l'événement.
+  </chapitre>
+
+  <chapitre titre="Actualité québécoise">
+Du côté du Québec, deux dossiers ce matin.
+
+D'abord, une confrontation politique inusitée entre deux partis d'opposition à l'Assemblée nationale. Selon Radio-Canada et La Presse, le Parti libéral du Québec a annoncé son intention d'envoyer une mise en demeure au chef du Parti québécois, Paul St-Pierre Plamondon. La raison : lors d'une déclaration vendredi, St-Pierre Plamondon aurait associé le PLQ au crime organisé. Le PLQ estime que ces propos sont diffamatoires et entend le signifier formellement par voie légale. St-Pierre Plamondon n'avait pas encore répondu publiquement à cette annonce au moment de la production de ce briefing.
+
+Deuxième dossier : les suites de l'enquête sur le Service de police de la Ville de Montréal dans Montréal-Nord, qu'on a suivie depuis vendredi. Pour rappel, 16 policiers du poste de quartier 39 font l'objet d'une enquête pour comportements racistes et haineux. Ce matin, La Presse rapporte que la mairesse Soraya Martinez Ferrada remet de l'avant sa promesse d'équiper les policiers de Montréal de caméras corporelles comme réponse à cette crise. Mais des leaders de la communauté de Montréal-Nord estiment que cette mesure rate la cible. Ils font valoir que les caméras n'auraient pas empêché les comportements reprochés, qui se seraient produits dans des contextes qui ne seraient pas tous captés par ces appareils. Le débat sur la réponse adéquate à ces allégations reste ouvert.
+  </chapitre>
+
+  <chapitre titre="Tech">
+Un mot sur la tech, avec deux dossiers substantiels.
+
+Premier dossier, et le plus important : de nouveaux éléments sur la mise hors ligne des modèles d'intelligence artificielle d'Anthropic. Pour rappel, le gouvernement américain a ordonné vendredi à Anthropic de suspendre l'accès mondial à ses deux nouveaux modèles, Fable 5 et Mythos 5.
+
+Ce matin, The Verge et TechCrunch rapportent que, selon le Wall Street Journal, c'est en partie une recherche en cybersécurité menée par Amazon qui aurait déclenché la directive gouvernementale. Selon ce rapport, Amazon aurait produit un document démontrant que, par une série de commandes, il était possible d'amener Fable 5 à fournir des informations utilisables pour mener des cyberattaques. Le chef de la direction d'Amazon, Andy Jassy, aurait ensuite partagé ces conclusions avec la Maison-Blanche, ce qui aurait mené à la décision de bloquer l'accès des ressortissants étrangers aux modèles. Amazon n'a pas répondu aux demandes de commentaires des médias.
+
+TechCrunch signale également que cet épisode a déclenché un débat en Inde, où des acteurs du secteur technologique se demandent ce que l'affaire Anthropic révèle sur les risques pour les ambitions du pays en matière d'intelligence artificielle, notamment la dépendance à des modèles développés aux États-Unis qui peuvent être retirés sans préavis.
+
+Deuxième dossier tech : Meta recule sur une acquisition majeure. Selon TechCrunch, Meta serait en train de défaire son acquisition de Manus, une entreprise d'intelligence artificielle, évaluée à 2 milliards de dollars américains. La raison avancée : Pékin aurait ordonné que la transaction soit annulée. Manus est une entreprise dont les fondateurs sont d'origine chinoise, et le gouvernement chinois aurait fait pression pour empêcher son intégration à Meta. Cette situation illustre la tension croissante entre les grandes entreprises technologiques américaines et Pékin sur les questions d'acquisitions dans le domaine de l'IA.
+
+Un troisième élément, plus bref : selon The Verge, Microsoft n'a pas écarté la possibilité de se séparer de sa division Xbox, qui pourrait être transformée en filiale autonome, en coentreprise, ou même vendue. The Information, cité par The Verge, précise que rien n'est imminent, mais que des scénarios de restructuration en profondeur sont à l'étude alors que Microsoft réévalue la viabilité de sa stratégie dans le secteur des jeux vidéo.
+
+Enfin, TechCrunch rapporte que KPMG a retiré un rapport sur l'utilisation de l'intelligence artificielle après avoir constaté que le document contenait des informations inexactes attribuées à des hallucinations des outils d'IA ayant contribué à sa rédaction. KPMG n'a pas fourni de détails supplémentaires sur la nature des erreurs.
+  </chapitre>
+
+  <chapitre titre="Sport">
+On termine avec le sport, et deux dossiers ce matin.
+
+D'abord, la NBA. Les Knicks de New York sont champions. Selon CBC, BBC World et Sportsnet, New York a battu les Spurs de San Antonio 94 à 90 lors du cinquième match de la finale, samedi soir. C'est le premier titre de la NBA pour les Knicks en 53 ans. Le meneur de jeu Jalen Brunson a été nommé joueur le plus utile des finales après avoir inscrit 45 points, dont 13 consécutifs en quatrième quart pour renverser le cours du match. Selon Sportsnet, le parcours éliminatoire des Knicks cette année est décrit comme l'un des plus remarquables de l'histoire récente de la ligue.
+
+Du côté de la Coupe du monde, quelques résultats du samedi. Qatar et Suisse se sont quittés sur un verdict nul de 1 à 1 en match du groupe B, selon CBC World. Le Qatar a égalisé dans les arrêts de jeu grâce à un but de la tête de Boualem Khoukhi. Vancouver a accueilli son premier match de Coupe du monde samedi soir, opposant l'Australie à la Turquie, selon Global News. On n'avait pas le résultat final au moment de la production de ce briefing.
+
+Rappelons, pour le contexte couvert hier, que le Canada a obtenu un match nul de 1 à 1 contre la Bosnie-Herzégovine vendredi soir à Toronto lors de son match d'ouverture.
+  </chapitre>
+
+  <outro>Voilà pour ce Presto du dimanche 14 juin 2026. Si ce briefing vous est utile, le meilleur coup de main que vous pouvez nous donner, c'est de le partager à une personne qui aime rester informée. Et selon votre plateforme : un abonnement sur Spotify ou Apple Podcasts, un pouce bleu et un abonnement sur YouTube, ça prend deux secondes et ça aide vraiment Presto à grandir. Sur ce, bonne journée, et à demain.</outro>
+</script>
+```
