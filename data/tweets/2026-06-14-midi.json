@@ -1,0 +1,14 @@
+{
+  "date": "2026-06-14",
+  "kind": "poll",
+  "text": "Ce matin → Trump affirme qu'un accord sera signé dimanche avec l'Iran. Téhéran évoque plutôt « les prochains jours » sans confirmer cette date. Les deux parties se rapprochent, mais pas au même rythme.\n\nSelon toi, un accord États-Unis–Iran sera-t-il signé ce dimanche?",
+  "poll": {
+    "options": [
+      "Oui, dimanche",
+      "Plutôt dans les jours",
+      "Les négociations vont",
+      "Incertain pour l'instant"
+    ],
+    "duration_minutes": 1440
+  }
+}
