@@ -99,16 +99,5 @@
       <itunes:episode>16</itunes:episode>
       <itunes:image href="https://www.prestopodcast.online/artwork-v2.jpg"/>
     </item>
-    <item>
-      <title>Presto — édition du 7 juin 2026</title>
-      <description>Au menu : International, Politique canadienne, Actualité québécoise, Économie et marchés, Tech, Sport</description>
-      <pubDate>Sun, 07 Jun 2026 11:07:50 +0000</pubDate>
-      <guid isPermaLink="false">https://github.com/meerkly-00/Presto_Podcast/releases/download/2026-06-07/2026-06-07.mp3</guid>
-      <enclosure url="https://github.com/meerkly-00/Presto_Podcast/releases/download/2026-06-07/2026-06-07.mp3" type="audio/mpeg" length="9775055"/>
-      <itunes:duration>1046</itunes:duration>
-      <itunes:summary>Au menu : International, Politique canadienne, Actualité québécoise, Économie et marchés, Tech, Sport</itunes:summary>
-      <itunes:episode>15</itunes:episode>
-      <itunes:image href="https://www.prestopodcast.online/artwork-v2.jpg"/>
-    </item>
   </channel>
 </rss>
