@@ -1,0 +1,14 @@
+{
+  "date": "2026-06-15",
+  "kind": "poll",
+  "text": "Ce matin → La Russie a mené une attaque massive contre Kiev et Kharkiv, endommageant la cathédrale Kyiv-Pechersk Lavra, un site UNESCO. Au moins 5 morts à Kharkiv.\n\nComment ton gouvernement devrait-il réagir aux attaques contre les sites patrimoniaux?",
+  "poll": {
+    "options": [
+      "Renforcer l'aide",
+      "Augmenter les sanctions",
+      "Soutien humanitaire accru",
+      "Négociations"
+    ],
+    "duration_minutes": 1440
+  }
+}
