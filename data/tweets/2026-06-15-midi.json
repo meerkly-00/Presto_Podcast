@@ -1,13 +1,13 @@
 {
   "date": "2026-06-15",
   "kind": "poll",
-  "text": "Ce matin → La Russie a mené une attaque massive contre Kiev et Kharkiv, endommageant la cathédrale Kyiv-Pechersk Lavra, un site UNESCO. Au moins 5 morts à Kharkiv.\n\nComment ton gouvernement devrait-il réagir aux attaques contre les sites patrimoniaux?",
+  "text": "Ce matin → Les É.-U. et l'Iran annoncent un accord de paix après 100+ jours de conflit.\n\nNOUVEAU : Trump confirme « l'entente est signée ». La signature formelle aura lieu vendredi en Suisse.\n\nSelon toi, à quel délai cet accord affectera-t-il réellement les prix de l'énergie?",
   "poll": {
     "options": [
-      "Renforcer l'aide",
-      "Augmenter les sanctions",
-      "Soutien humanitaire accru",
-      "Négociations"
+      "Quelques semaines",
+      "Quelques mois",
+      "Plus d'un an",
+      "Effets limités"
     ],
     "duration_minutes": 1440
   }
