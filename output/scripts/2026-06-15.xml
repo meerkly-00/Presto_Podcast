@@ -1,0 +1,87 @@
+```xml
+<script>
+  <intro>Bonjour, on est le lundi 15 juin 2026. Voici votre Presto en environ 17 minutes. Au menu ce matin : l'accord de paix entre les États-Unis et l'Iran, qui change tout sur les marchés mondiaux ; la suite du G7 avec Mark Carney ; l'Ukraine sous les bombes ; l'actualité québécoise ; la tech ; et pour terminer, la Coupe Stanley.</intro>
+
+  <chapitre titre="International">
+On commence par un événement majeur survenu cette nuit : les États-Unis et l'Iran ont annoncé un accord pour mettre fin à la guerre.
+
+Selon Reuters, Al Jazeera et Radio-Canada, les deux pays ont conclu un mémorandum d'entente qui prévoit un cessez-le-feu et la réouverture du détroit d'Ormuz. Selon Radio-Canada, l'accord formel sera signé en Suisse le vendredi 19 juin. Le président américain Donald Trump a déclaré dimanche soir que l'accord était complété.
+
+Rappelons le contexte tel qu'il a été couvert dans les derniers briefings : ce conflit dure depuis maintenant plus de 100 jours et avait maintenu le détroit d'Ormuz partiellement fermé, perturbant les flux pétroliers mondiaux et poussant les prix de l'énergie à la hausse pendant des semaines.
+
+Quelques nuances importantes s'imposent toutefois. Selon le National Post, l'Iran avait fait circuler dans les dernières heures des versions concurrentes du projet d'accord, même pendant que Washington maintenait son calendrier. Reuters note de son côté que des risques demeurent malgré l'annonce. La signature en Suisse vendredi sera le prochain test de la solidité de l'entente.
+
+Ce qui est clair dès ce matin, c'est l'effet immédiat sur les marchés. On y revient en détail dans le chapitre économie, mais en bref : les prix du pétrole ont baissé et les marchés boursiers ont progressé. Selon l'Associated Press, les experts en énergie avertissent toutefois que les approvisionnements en pétrole et en gaz pourraient prendre des mois à revenir à la normale, même si le détroit est rouvert.
+
+La réaction internationale est généralement positive. Selon Al Jazeera, le Pakistan et le Qatar ont salué l'accord comme un pas vers la paix dans la région.
+
+Toujours à l'international, un match se joue à Los Angeles ce soir dans un contexte particulier : l'Iran dispute son match de Coupe du monde dans une ville avec une grande diaspora iranienne. Selon CBC, cette rencontre crée une collision entre géopolitique et sport dans une communauté qui a des liens émotionnels avec les deux pays en guerre depuis des mois. On reviendra sur la Coupe du monde dans le chapitre sport.
+
+On reste à l'international pour un deuxième dossier lourd : l'Ukraine. Selon Al Jazeera, l'Associated Press, BBC et Radio-Canada, la Russie a mené une attaque massive par missiles et drones dans la nuit de dimanche à lundi, ciblant Kiev, Kharkiv et d'autres villes ukrainiennes. L'attaque a provoqué un incendie dans une cathédrale orthodoxe historique à Kiev. Le maire de Kiev a fait état de 18 blessés, dont 11 hospitalisés, selon Radio-Canada. L'Associated Press rapporte que 5 personnes ont été tuées à Kharkiv. Des pannes d'électricité majeures ont aussi été signalées dans la capitale. En parallèle, BBC rapporte qu'une attaque de drone ukrainien dans la ville russe de Toula, au sud de Moscou, a tué trois personnes et en a blessé trois autres.
+
+Un mot sur le G7, dont le sommet s'ouvre cette semaine en France. Selon l'Associated Press, des manifestants à Genève ont eu des heurts avec la police en marge du sommet. Selon Reuters, Donald Trump menace d'imposer un tarif de 100 % sur le vin français, en réponse à une taxe numérique française, selon ce que rapporte le New York Post. Selon CBC, le premier ministre canadien Mark Carney a déclaré dimanche, au terme de sa tournée européenne, qu'aucun pays ni aucune institution ne pourra à lui seul définir le nouvel ordre mondial, et que les États-Unis y joueront un rôle. Carney se rend maintenant au sommet du G7.
+
+Un dernier fait à l'international : deux hélicoptères sont entrés en collision au-dessus de Rio de Janeiro dimanche, tuant six personnes, selon le National Post et BBC. Parmi les victimes se trouve le musicien américain Oliver Tree, selon BBC.
+
+En Norvège, selon BBC et Reuters, Marius Borg Høiby, le fils de 29 ans de la princesse héritière Mette-Marit, a été reconnu coupable de deux accusations de viol et condamné à quatre ans de prison.
+  </chapitre>
+
+  <chapitre titre="Économie et marchés">
+On passe à l'économie, et l'accord irano-américain est au coeur de ce chapitre aussi.
+
+Selon Reuters, le prix du pétrole a atteint son niveau le plus bas en trois mois dimanche soir, en réaction directe à l'annonce de l'accord. Bloomberg rapporte que les futures sur les indices boursiers américains ont progressé et que les obligations ont aussi monté. Reuters confirme que les actions et les obligations ont progressé tandis que le pétrole a baissé.
+
+Cela dit, Bloomberg note que des inquiétudes sur l'inflation maintiennent les marchés prudents, même après l'annonce de l'accord de paix. L'idée est que la réouverture du détroit d'Ormuz ne se traduira pas immédiatement par une baisse des prix à la consommation, et que les banques centrales restent en mode attentiste. L'Associated Press rapporte que selon des experts en énergie, les approvisionnements pourraient prendre des mois à se normaliser.
+
+Du côté des marchés asiatiques, Reuters rapporte que certains fonds de couverture en Asie ont enregistré des gains très importants cette année grâce au rally des entreprises liées à l'intelligence artificielle.
+
+Par ailleurs, Reuters signale que les obligations chinoises ont émergé comme valeur refuge inattendue pendant le conflit irano-américain. Bloomberg rapporte que l'économie chinoise progresse lentement, avec une consommation intérieure qui pourrait baisser. Et le Financial Times rapporte que la Chine prépare un système de paiements numériques destiné à concurrencer le dollar américain.
+
+Sur le dossier des automakers chinois, CBC rapporte que la demande intérieure en Chine pour les véhicules électriques ralentit, notamment en raison d'une réduction des subventions gouvernementales et d'une économie qui avance lentement. Cela rend les marchés d'exportation, dont le Canada, plus importants que jamais pour les constructeurs automobiles du pays.
+
+Un dossier canadien à noter : selon BNN Bloomberg, Air Canada et ses travailleurs syndiqués ont conclu une entente de principe. Aucun détail sur les termes de l'entente n'est fourni dans les sources disponibles.
+
+Enfin, pour la semaine à venir, BNN Bloomberg signale que les résultats trimestriels de Canopy Growth et du détaillant américain Kroger sont attendus cette semaine.
+  </chapitre>
+
+  <chapitre titre="Politique canadienne">
+Du côté de la politique canadienne, deux dossiers ce matin.
+
+D'abord, Mark Carney au G7. Comme mentionné dans le chapitre international, le premier ministre a terminé sa tournée en Irlande et se rend maintenant en France pour le sommet. Selon CBC, Carney a dit dimanche que les États-Unis joueront un rôle dans le nouvel ordre mondial, mais qu'aucun pays n'aura seul toutes les réponses. Ce positionnement précède des discussions qui s'annoncent tendues avec Washington, notamment sur les tarifs et la taxe numérique.
+
+Deuxième dossier : la question de la séparation en Alberta. Selon CBC et Global News, un panneau publicitaire pro-séparatiste demeure en place dans la ville de Taber, en Alberta, après que la municipalité aurait envoyé une lettre au propriétaire privé du panneau pour exiger son retrait avant samedi. Selon CBC, Cory Morgan, qui a payé pour le panneau, a confirmé qu'il est toujours debout. Le message affiche le blason de l'Alberta entouré des mots : en anglais, je le cite : "Send Ottawa a Message! Choose Alberta." Fin de citation. CBC rapporte que la municipalité a envoyé cette demande de retrait plus tôt ce mois-ci, et que le délai est maintenant dépassé.
+
+Un mot également sur une tragédie évoquée dans les derniers briefings : selon CBC, les communautés rurales de l'Ontario sont toujours sous le choc de la mort de cinq enfants d'une même famille dans une collision vendredi, près de Kitchener-Waterloo. Le maire de la municipalité indique que beaucoup d'habitants se tournent vers la religion pour traverser cette épreuve.
+  </chapitre>
+
+  <chapitre titre="Actualité québécoise">
+Du côté du Québec, trois dossiers ce matin.
+
+D'abord, la suite de la confrontation entre le Parti libéral du Québec et le Parti québécois, déjà couverte dans les derniers briefings. Selon La Presse, le chef du PLQ, Charles Milliard, a annoncé dimanche avoir envoyé une mise en demeure au chef du PQ, Paul St-Pierre Plamondon, lui demandant de retirer des propos qui associaient le PLQ au crime organisé. St-Pierre Plamondon a refusé de se rétracter, indiquant qu'il se réserve le droit de "poser des questions". Ce bras de fer entre les deux partis d'opposition à l'Assemblée nationale se poursuit donc sans résolution pour l'instant.
+
+Deuxième dossier, l'enquête sur le SPVM à Montréal-Nord. Selon La Presse, la mairesse de l'arrondissement de Montréal-Nord a déclaré que les prochaines semaines seront ardues pour sa communauté, en réaction aux allégations de racisme visant des policiers du poste de quartier 39. Ce dossier avait été introduit dans les briefings de samedi et dimanche : rappelons que 16 policiers font l'objet d'une enquête pour comportements allégués, selon Radio-Canada, CBC et La Presse.
+
+Troisième dossier, en tech québécois cette fois. Selon Le Devoir, une entreprise d'ici, Carange Solutions, déplore que le gouvernement du Québec ait choisi de s'associer au géant torontois Cohere pour ses projets d'intelligence artificielle, estimant que l'expertise québécoise en IA a été ignorée dans ce processus. Ce dossier illustre une tension plus large entre le soutien à l'industrie locale et les décisions d'approvisionnement gouvernemental.
+  </chapitre>
+
+  <chapitre titre="Tech">
+Un mot sur la tech, avec trois dossiers ce matin.
+
+D'abord, la suite du dossier Anthropic, couvert dans les trois derniers briefings. Pour rappel : le gouvernement américain a ordonné à Anthropic de suspendre l'accès mondial à ses modèles Mythos 5 et Fable 5. Selon The Verge, qui cite un rapport de Semafor, cette décision aurait été motivée en partie par des craintes qu'un groupe lié à la Chine ait eu accès au modèle Mythos 5. Si cela est avéré, le risque serait double : utilisation directe du modèle, mais aussi possibilité de le reproduire par distillation, une méthode où un modèle moins avancé est entraîné sur un modèle plus puissant pour en reproduire le comportement. The Verge précise que la Maison-Blanche n'a pas confirmé le rapport de Semafor, et que le conseiller de Trump, David Sacks, n'a pas mentionné la Chine dans sa communication publique sur le sujet. The Economist, de son côté, souligne que la restriction d'accès à Anthropic prive les alliés les plus proches des États-Unis du modèle d'IA que l'Economist décrit comme le plus performant disponible.
+
+Deuxième dossier tech : les vagues de mises à pied liées à l'IA. TechCrunch publie une analyse sur ce qu'il appelle une "poudrière" sociale : des dizaines de milliers de travailleurs sont mis à la porte, pendant qu'une poignée d'initiés du milieu de l'IA accumulent des fortunes qui donnent le vertige. L'article ne cite pas de chiffres précis sur les suppressions de postes, mais souligne la tension croissante entre les promesses économiques de l'IA et la réalité vécue par les travailleurs déplacés.
+
+Troisième dossier : au Royaume-Uni, selon TechCrunch, le gouvernement envisage d'interdire les réseaux sociaux aux moins de 16 ans. TechCrunch note que le pays semble suivre le modèle de l'Australie, qui a adopté une interdiction similaire. Aucune décision formelle n'a encore été annoncée.
+  </chapitre>
+
+  <chapitre titre="Sport">
+On termine avec le sport, et deux dossiers ce matin.
+
+D'abord, la Coupe Stanley. Dimanche soir à Las Vegas, les Hurricanes de la Caroline ont remporté leur deuxième Coupe Stanley de leur histoire, en battant les Golden Knights de Vegas 3 à 0 dans le match 6 de la finale. Selon CBC, c'est leur premier titre en 20 ans. Selon Sportsnet, c'est l'entraîneur Rod Brind'Amour qui a mené l'équipe à ce titre, et c'est Jordan Staal qui a accepté le trophée au nom de l'équipe. Selon RDS, les Knights avaient pourtant réalisé une épopée improbable tout au long des séries. Les Hurricanes ont remporté les trois derniers matchs de la finale pour clore la série.
+
+Du côté de la Coupe du monde, TVA Sports rapporte que la Côte d'Ivoire s'est imposée en fin de match contre l'Équateur. Et comme mentionné dans le chapitre international, le match entre l'Iran et un autre pays se joue ce soir à Los Angeles, dans un contexte géopolitique particulier lié à l'accord de paix annoncé cette nuit.
+  </chapitre>
+
+  <outro>Voilà pour ce Presto du lundi 15 juin 2026. Si ce briefing vous est utile, le meilleur coup de main que vous pouvez nous donner, c'est de le partager à une personne qui aime rester informée. Et selon votre plateforme : un abonnement sur Spotify ou Apple Podcasts, un pouce bleu et un abonnement sur YouTube, ça prend deux secondes et ça aide vraiment Presto à grandir. Sur ce, bonne journée, et à demain.</outro>
+</script>
+```
