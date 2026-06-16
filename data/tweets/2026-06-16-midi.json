@@ -1,13 +1,13 @@
 {
   "date": "2026-06-16",
   "kind": "poll",
-  "text": "Ce matin → Elon Musk devient le 1er trillionnaire de l'histoire après l'introduction en bourse de SpaceX.\n\nSelon toi, la concentration extrême de richesse chez quelques entrepreneurs technologiques est-elle un enjeu qui requiert une intervention politique?",
+  "text": "Ce matin → Carney défend l'accord Canada-Chine sur les VE (49 000 véhicules, <3% du marché). Nouveau : captation audio montre sa discussion avec Trump au G7, qui dit apprécier le plafond imposé.\n\nComment évaluer l'approche du Canada face aux VE chinois?",
   "poll": {
     "options": [
-      "Oui, il faut agir",
-      "Non, c'est le marché",
-      "Oui, mais graduellement",
-      "Indécis"
+      "Équilibre acceptable",
+      "Trop permissif envers la",
+      "Trop restrictif pour la",
+      "À redéfinir selon les"
     ],
     "duration_minutes": 1440
   }
