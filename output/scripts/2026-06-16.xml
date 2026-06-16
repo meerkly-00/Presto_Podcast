@@ -1,0 +1,97 @@
+```xml
+<script>
+  <intro>Bonjour, on est le mardi 16 juin 2026. Voici votre Presto en environ 17 minutes. Au menu aujourd'hui : l'accord irano-américain avance vers une signature officielle, mais Israël reste un facteur de friction. L'économie mondiale réagit : marchés en hausse, pétrole en baisse, et la Chine envoie des signaux préoccupants. En tech, SpaceX est en bourse, Nvidia lève 25 milliards en obligations, Fox achète Roku, et le dossier Anthropic continue d'évoluer. On passe aussi au Québec avec les allégations de racisme au SPVM. Et on termine avec un mot sur le sport.</intro>
+
+  <chapitre titre="International">
+    On commence par le dossier irano-américain, qui continue de dominer l'actualité mondiale. Pour rappel rapide, couvert dans les deux derniers briefings : dimanche soir, les États-Unis et l'Iran ont annoncé un mémorandum d'entente prévoyant un cessez-le-feu et la réouverture du détroit d'Ormuz.
+
+    Hier et ce matin, plusieurs développements. Selon la BBC, le vice-président américain J.D. Vance a déclaré que l'accord est, je le cite en anglais : "about a page and a half" and "very general." Fin de citation. Ce qui signifie, selon lui, que beaucoup de détails restent à négocier. Vance est attendu vendredi en Suisse pour une cérémonie de signature officielle, selon Radio-Canada. Et selon Les Affaires, le président Donald Trump a assuré que le détroit d'Ormuz sera, selon sa formulation, complètement ouvert vendredi.
+
+    Mais Reuters rapporte que les alliés européens des États-Unis ne partagent pas cet optimisme sur le calendrier. Selon Reuters, les Européens veulent tester Trump sur les risques liés à l'accord et sur la question ukrainienne au G7. Le National Post indique que les États-Unis et leurs alliés européens ne s'entendent pas sur la rapidité à laquelle le détroit peut réellement rouvrir. Le détroit d'Ormuz, pour rappel, est un passage par lequel transitent normalement environ un cinquième des approvisionnements mondiaux en pétrole et en gaz naturel liquéfié.
+
+    Il y a aussi un obstacle de taille du côté d'Israël. La BBC rapporte que l'accord place le premier ministre Benjamin Netanyahu dans une position politique et sécuritaire délicate. Selon CBC, Israël refuse de retirer ses forces militaires du sud du Liban, ce qui représente une condition implicite de l'accord. La question posée par CBC : Washington peut-il forcer Israël à se conformer à un accord qu'il rejette ? Il n'y a pas de réponse claire dans les sources disponibles ce matin.
+
+    Toujours en lien avec cette région, le Financial Times rapporte que ConocoPhillips s'apprête à signer un accord avec la Syrie pour relancer la production de gaz dans ce pays. Les détails de cet accord ne sont pas précisés dans les sources disponibles.
+
+    On passe maintenant à d'autres dossiers internationaux. Au Royaume-Uni, Al Jazeera rapporte que des Royal Marines britanniques ont saisi un pétrolier de la flotte fantôme russe dans la Manche, dans ce qu'Al Jazeera décrit comme une opération du premier genre. Selon Al Jazeera, d'autres pétroliers ont fait demi-tour à la suite de cette intervention. La flotte fantôme désigne les navires qui transportent du pétrole russe en contournant les sanctions occidentales.
+
+    En Ukraine, Associated Press rapporte qu'une attaque russe a tué 11 personnes et endommagé une cathédrale importante. L'Economist note par ailleurs que la Russie domine actuellement la guerre des missiles mais que l'Ukraine espère que cette situation va changer.
+
+    En Europe, le National Post rapporte que l'Union européenne a officiellement ouvert ses négociations d'adhésion avec l'Ukraine et la Moldavie, après que le nouveau gouvernement hongrois a abandonné son opposition à cette démarche. Le National Post qualifie cela de première étape d'un processus qui prendra vraisemblablement plusieurs années.
+
+    En Norvège, Associated Press rapporte que le fils aîné de la princesse héritière a été condamné à quatre ans de prison pour viol.
+
+    Un dernier mot sur le volet sécuritaire de la tech : Reuters rapporte que Google affirme que des pirates informatiques liés à la Chine ont ciblé des installations de recherche américaines et canadiennes pendant un an. Les cibles et la nature des informations visées ne sont pas précisées dans les sources disponibles.
+  </chapitre>
+
+  <chapitre titre="Économie et marchés">
+    On passe à l'économie, et le dossier irano-américain est encore au cœur de ce chapitre.
+
+    Selon Reuters, Wall Street a progressé lundi, le Dow Jones clôturant à un niveau record. Reuters attribue ce mouvement à l'accord entre les États-Unis et l'Iran ainsi qu'à la baisse du prix du pétrole. Bloomberg confirme que les marchés pétroliers se sont affaiblis en réaction à l'optimisme entourant une augmentation prochaine de l'offre.
+
+    Sur le front de la Chine, les nouvelles économiques sont moins favorables. Bloomberg rapporte que les dépenses et l'investissement en Chine ont reculé à des niveaux comparables à ceux de la période COVID. Le Wall Street Journal rapporte pour sa part que les dépenses de consommation en Chine ont baissé pour la première fois depuis la pandémie. Ce sont deux sources distinctes qui confirment un même signal : l'économie chinoise traverse une période de faiblesse.
+
+    Du côté de la Banque du Japon, Al Jazeera et la BBC rapportent toutes deux que la banque centrale japonaise a relevé son taux directeur à 1 %, soit son niveau le plus élevé depuis 1995. Selon Al Jazeera, il s'agit de la poursuite d'un virage amorcé depuis 2024, qui éloigne le Japon de plusieurs décennies de taux d'intérêt proches de zéro.
+
+    Sur le dossier SpaceX, que l'on a couvert dans les deux derniers briefings, Reuters rapporte ce matin qu'Elon Musk est devenu, selon le titre de Reuters, le premier trillionnaire de l'histoire, à la faveur de l'appel public à l'épargne de SpaceX. Bloomberg précise que 600 millions de dollars ont été alloués à des investisseurs de détail européens dans ce que Bloomberg qualifie de premier appel public à l'investissement de grande envergure. Le Financial Times rapporte que l'action de SpaceX a progressé pour une deuxième journée consécutive après ses débuts en bourse.
+
+    Toujours en tech-finance, Nvidia a lancé hier une émission obligataire de 25 milliards de dollars américains, son premier appel au marché obligataire en cinq ans. Selon Ars Technica, l'émission était initialement prévue à 20 milliards et a été réhaussée à 25 milliards après avoir reçu plus de 85 milliards de dollars en ordres d'achat d'ici le début d'après-midi à New York. L'émission comporte sept tranches, avec des échéances allant de 2 ans à 30 ans.
+
+    Sur le dossier commercial canado-américain, Les Affaires rapporte que l'ambassadeur du Canada aux États-Unis a déclaré que tout ira bien concernant l'Accord Canada-États-Unis-Mexique, soit l'ACEUM. Aucun détail supplémentaire n'est disponible dans les sources.
+
+    Enfin, un dossier médias à signaler. Les Affaires rapporte que les médias sociaux ont dépassé la télévision pour la première fois comme principale source d'information. Il s'agit d'une première dans les données mesurées, selon Les Affaires. La source du sondage ou de l'étude n'est pas précisée dans l'article disponible.
+  </chapitre>
+
+  <chapitre titre="Tech">
+    Un mot sur la tech, avec plusieurs dossiers substantiels ce matin.
+
+    D'abord, la suite du dossier Anthropic, couvert dans les trois derniers briefings. Pour rappel rapide : le gouvernement américain a ordonné vendredi à Anthropic de suspendre l'accès à ses modèles d'intelligence artificielle Mythos 5 et Fable 5 pour tout ressortissant étranger, y compris les employés d'Anthropic eux-mêmes ayant une nationalité étrangère. The Verge rapporte maintenant que la fin de semaine a été marquée par une confrontation entre Anthropic et l'administration Trump à Washington. Selon The Verge, Anthropic a reçu la directive à 17h21 vendredi et a déterminé que la seule façon d'y obéir était de désactiver complètement ses produits.
+
+    TechCrunch offre une interprétation de la situation. Selon TechCrunch, la décision de l'administration n'était pas liée à une faille de sécurité ou à un piratage du modèle, et pourrait être réactionnaire ou punitive, sans que l'on sache lequel des deux. TechCrunch écrit que le message est clair : l'industrie de l'IA n'est pas à l'abri des interventions du gouvernement américain. D'autres voix dans l'industrie font valoir que ce type d'intervention par contrôle des exportations peut entraver la compétitivité américaine en IA à long terme. Ces deux positions sont documentées dans les sources de TechCrunch.
+
+    Deuxième dossier tech : Fox acquiert Roku pour 22 milliards de dollars américains. The Verge rapporte que la transaction place Fox en position de contrôle sur les données de plus de 100 millions de foyers dans le monde qui utilisent Roku comme interface de diffusion en continu. Selon The Verge, le chef de la direction de Fox, Lachlan Murdoch, a indiqué lors d'un appel aux investisseurs que les deux entreprises resteraient séparées sur le plan opérationnel. Fox prévoit d'intégrer son contenu sportif, ses nouvelles et ses stations locales à la plateforme Roku.
+
+    Troisième dossier : Meta a lancé hier un mode dit "AI Mode" sur Facebook. Selon The Verge et TechCrunch, ce mode génère des résultats de recherche à partir des publications publiques sur les plateformes de Meta. Les utilisateurs peuvent poser des questions de suivi à l'intelligence artificielle. TechCrunch note que c'est l'un des signaux récents de la volonté de Meta de rattraper ses concurrents dans la course à l'IA.
+
+    Quatrième dossier : le Royaume-Uni annonce une interdiction des médias sociaux pour les moins de 16 ans, avec une entrée en vigueur prévue au printemps 2027. Selon Ars Technica, l'interdiction s'appliquera à Snapchat, TikTok, YouTube, Instagram, Facebook et X. Le premier ministre Keir Starmer a déclaré, je le cite en anglais : "We're going further than any country in the world by banning social media for under-16s." Fin de citation. Des règles additionnelles s'appliqueront aux 16 et 17 ans, notamment sur la diffusion en direct et les contacts avec des inconnus. Des critiques au Royaume-Uni font valoir que l'application d'une telle interdiction sera difficile à mettre en œuvre sans systèmes de vérification d'âge robustes, mais cette position n'était pas développée dans les sources disponibles.
+
+    Cinquième dossier : Microsoft est poursuivie en justice par des actionnaires. Selon Reuters, les actionnaires allèguent des problèmes liés aux dépenses, aux activités en infonuagique et à l'IA. Les détails de la poursuite ne sont pas précisés dans les sources disponibles.
+
+    Enfin, sur le front spatial européen, Ars Technica rapporte qu'Isar Aerospace, une startup spatiale basée près de Munich en Allemagne, a de nouveau annulé une tentative de lancement de sa fusée Spectrum depuis la Norvège, en raison d'un comportement non conforme détecté dans les systèmes de fluides du véhicule. C'est la quatrième annulation en cinq mois pour ce deuxième vol d'essai.
+  </chapitre>
+
+  <chapitre titre="Actualité québécoise">
+    Du côté du Québec, deux dossiers ce matin.
+
+    D'abord, les allégations de racisme au sein du Service de police de la Ville de Montréal, le SPVM. Pour rappel, couvert dans le dernier briefing : le directeur du SPVM Fady Dagher avait annoncé vendredi la suspension de deux agents et le réaffectation de 14 autres, qui ont été placés sous enquête. Depuis, la situation a évolué.
+
+    Selon Radio-Canada et La Presse, plusieurs centaines de personnes ont manifesté lundi soir dans le quartier Montréal-Nord pour dénoncer ce que les manifestants appellent du racisme policier. La marche s'est déroulée dans le calme, selon La Presse.
+
+    Selon Radio-Canada, le ministre de la Sécurité publique François Lafrenière a annoncé la nomination d'un observateur indépendant pour suivre l'enquête interne du SPVM. La mairesse de Montréal, Soraya Martinez Ferrada, avait réclamé plus tôt une enquête indépendante, selon Radio-Canada. La distinction entre un observateur qui suit une enquête interne et une enquête indépendante à part entière est au cœur du débat politique entourant ce dossier.
+
+    Global News rapporte également que des résidents de Montréal-Nord demandent des actions concrètes à la suite des allégations de comportements racistes par des agents envers des personnes noires et arabes.
+
+    Deuxième dossier québécois : le projet de terminal de gaz naturel liquéfié de Marinvest Energy. Le Devoir rapporte que l'entreprise, qui souhaite construire une usine de GNL dans la région, a refusé à trois reprises de rencontrer la députée bloquiste de la circonscription concernée. Le Devoir ne précise pas les raisons de ces refus.
+  </chapitre>
+
+  <chapitre titre="Politique canadienne">
+    Du côté d'Ottawa, deux dossiers brefs ce matin.
+
+    D'abord, la vie privée en ligne. Le National Post rapporte que le gouvernement libéral fédéral confiera l'application de nouvelles dispositions sur la vie privée au régulateur numérique qu'il est en train de créer. Ce régulateur n'existe pas encore. Le National Post note que confier des responsabilités à un organisme qui n'a pas encore été mis sur pied soulève des questions sur l'efficacité de la démarche.
+
+    Ensuite, la crise des opioïdes. La Presse rapporte qu'Ottawa affirme que la crise des drogues illicites continue d'avoir des effets importants malgré une baisse du nombre de décès liés aux opioïdes l'année dernière. Le gouvernement fédéral décrit la situation comme persistante malgré des progrès.
+  </chapitre>
+
+  <chapitre titre="Sport">
+    On termine avec le sport et deux dossiers.
+
+    D'abord, la Coupe du monde de soccer, qui se déroule en Amérique du Nord. Al Jazeera et Radio-Canada rapportent que l'Iran et la Nouvelle-Zélande ont terminé leur match à égalité 2 à 2 à Los Angeles lundi soir. Al Jazeera note que des milliers de partisans iraniens opposés au régime de Téhéran ont soutenu l'équipe nationale dans les gradins, dans une atmosphère marquée autant par la politique que par le sport. Sportsnet rapporte par ailleurs que la journée a été favorable aux équipes considérées comme des outsiders, notamment l'Espagne, qui a terminé à égalité avec le Cap-Vert.
+
+    Sur la Coupe du monde, un dossier d'ordre juridique aussi. CBC rapporte qu'un tribunal fédéral doit entendre mardi une demande d'injonction présentée par le Ghana pour permettre à son milieu de terrain Thomas Partey d'entrer au Canada afin de participer au tournoi. L'entrée de Partey au Canada avait été refusée en raison d'accusations de viol et d'agression sexuelle portées contre lui en Angleterre.
+
+    En hockey, Sportsnet rapporte que la Ligue nationale de hockey a officiellement ouvert son enquête sur la démission de Mike Babcock de son poste à Columbus en 2023, maintenant que la finale de la Coupe Stanley est terminée. Cette enquête survient dans un contexte où les Oilers d'Edmonton considèrent Babcock comme entraîneur-chef potentiel, selon Sportsnet.
+  </chapitre>
+
+  <outro>Voilà pour ce Presto du mardi 16 juin 2026. Si ce briefing vous est utile, le meilleur coup de main que vous pouvez nous donner, c'est de le partager à une personne qui aime rester informée. Et selon votre plateforme : un abonnement sur Spotify ou Apple Podcasts, un pouce bleu et un abonnement sur YouTube, ça prend deux secondes et ça aide vraiment Presto à grandir. Sur ce, bonne journée, et à demain.</outro>
+</script>
+```
