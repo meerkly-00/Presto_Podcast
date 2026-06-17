@@ -1,0 +1,14 @@
+{
+  "date": "2026-06-17",
+  "kind": "poll",
+  "text": "Ce matin → L'Iran avertit que tout retrait israélien incomplet du Liban pourrait mettre en péril l'accord avec Washington.\n\nNouveau : Israël lance de\n\nComment devraient être équilibrées les pressions diplomatiques entre les accords de paix régionaux et les opérations militaires?",
+  "poll": {
+    "options": [
+      "Priorité aux accords,",
+      "Laisser chaque État",
+      "Équilibre cas par cas",
+      "Priorité à la sécurité"
+    ],
+    "duration_minutes": 1440
+  }
+}
