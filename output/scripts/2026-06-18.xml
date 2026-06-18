@@ -1,93 +1,117 @@
 ```xml
 <script>
-  <intro>Bonjour, on est le jeudi 18 juin 2026. Voici votre Presto en environ 17 minutes. Au menu ce matin : les détails de l'accord États-Unis et Iran enfin dévoilés, la Réserve fédérale américaine sous son nouveau patron Kevin Warsh qui secoue les marchés, des nouvelles importantes pour le Canada sur le front de l'ACEUM et de l'OTAN, Apple qui annonce une hausse de prix inévitable, et du côté du sport, les Maple Leafs de Toronto ont un nouvel entraîneur-chef.</intro>
+  <intro>Bonjour, on est le jeudi 19 juin 2026. Voici votre Presto en environ 17 minutes. Au menu ce matin : l'Ukraine frappe Moscou avec sa plus grande vague de drones depuis le début de la guerre à grande échelle, la Réserve fédérale américaine entre dans une nouvelle ère sous Kevin Warsh avec un signal de hausse de taux, le dossier irano-américain continue d'évoluer, et plusieurs nouvelles du côté de la politique canadienne, du Québec et de la tech.</intro>
 
   <chapitre titre="International">
-On commence par le dossier irano-américain, qui a franchi une étape concrète hier. Pour rappel rapide : dimanche soir, les États-Unis et l'Iran avaient annoncé un mémorandum d'entente prévoyant un cessez-le-feu et la réouverture du détroit d'Ormuz. Hier, le texte complet de ce protocole a été rendu public.
+On commence par l'international, et la nouvelle la plus importante de la nuit : l'Ukraine a frappé Moscou avec ce que CBC World et la BBC décrivent comme la plus grande attaque de drones depuis le début de l'invasion russe à grande échelle, il y a plus de quatre ans.
 
-Selon CBC, le National Post et l'Associated Press, l'administration Trump a dicté le mémorandum d'entente aux journalistes mercredi. Le document a ensuite été signé par le président américain Donald Trump et le président iranien Masoud Pezeshkian. Selon la BBC, le texte en quatorze paragraphes prévoit : la fin des hostilités, l'engagement de l'Iran à ne jamais se doter d'une arme nucléaire, et un programme de redéveloppement économique évalué à 300 milliards de dollars américains pour l'Iran.
+Selon CBC World et la BBC, près de 200 drones ukrainiens ont visé une zone au sud-est de la capitale russe. Une raffinerie de pétrole a été touchée pour la deuxième fois en une semaine. Un centre commercial a aussi pris feu. Des responsables russes ont indiqué que des vols commerciaux à l'aéroport de Moscou ont été perturbés pendant l'attaque.
 
-Le National Post rapporte que le plan exige aussi que l'Iran dilue ses stocks d'uranium enrichi sous la supervision de l'Agence internationale de l'énergie atomique, l'AIEA. Des précisions sont également apportées sur la séquence du retrait des sanctions américaines. Selon Radio-Canada, Trump a menacé de reprendre les bombardements si l'Iran viole l'accord préliminaire.
+Le président ukrainien Volodymyr Zelensky a réagi. Reuters rapporte qu'il a déclaré, je le cite : "Moscow will burn if Russian strikes continue." Fin de citation.
 
-Ce même National Post soulève une tension importante dans la posture américaine : le journal rapporte que lors d'une conférence de presse mercredi, Trump a largement écarté plusieurs des lignes rouges que son administration avait utilisées pour justifier la guerre contre l'Iran. L'article indique que ces positions sont désormais ignorées sans explication publique complète.
+Toujours dans ce dossier, Reuters rapporte séparément que les combattants du régiment Azov, chassés de Marioupol en 2022, sont maintenant actifs sur d'autres fronts et qu'ils revendiquent plusieurs opérations récentes dans la guerre.
 
-Sur le terrain, la BBC rapporte que trois pétroliers iraniens chargés de pétrole brut ont passé le blocus américain dans le golfe d'Oman, selon des données de suivi de navires. Al Jazeera précise ce matin que le plan en quatorze points est techniquement entré en vigueur, mais que des questions persistent quant à son application concrète. Téhéran aurait par ailleurs adressé des avertissements à Washington, dont les termes exacts restent à préciser selon Al Jazeera.
+En parallèle, du côté de l'OTAN, CBC World rapporte que le secrétaire général Mark Rutte a déclaré que les États membres doivent se présenter au sommet du mois prochain avec des plans de dépenses militaires crédibles, conformes au nouvel objectif de l'alliance fixé à cinq pour cent du PIB. Rutte a précisé que le Canada fait face à des critiques du Pentagone en raison de l'absence d'une feuille de route détaillée pour atteindre cet objectif.
 
-Ailleurs dans le monde, la CBC rapporte que le secrétaire général de l'OTAN, Mark Rutte, a demandé aux pays membres d'arriver au sommet du mois prochain avec des plans crédibles pour atteindre le nouveau seuil de dépenses militaires de l'alliance, fixé à cinq pour cent du produit intérieur brut. Rutte a expressément mentionné le Canada, qui fait face à des critiques du Pentagone pour l'absence d'une feuille de route détaillée sur ses dépenses militaires futures.
+On passe au dossier irano-américain, qui continue d'alimenter l'actualité mondiale depuis plusieurs jours. Pour rappel rapide : dimanche soir, Washington et Téhéran ont annoncé un mémorandum d'entente en quatorze points prévoyant un cessez-le-feu et la réouverture du détroit d'Ormuz.
 
-Du côté de Gaza, CBC World rapporte que le ministère de la Santé de Gaza a indiqué mercredi que les opérations israéliennes ont tué 1 005 Palestiniens depuis le cessez-le-feu entre Israël et le Hamas conclu en octobre dernier.
+Al Jazeera publie ce matin une analyse de ce mémorandum et souligne que plusieurs questions demeurent sans réponse. Le texte prévoit une fin des hostilités, un engagement de l'Iran à ne jamais se doter de l'arme nucléaire, et un programme de redéveloppement de 300 milliards de dollars américains pour l'Iran. Mais Al Jazeera note que des points importants sur le Liban et le programme nucléaire iranien restent flous.
 
-Enfin, la BBC rapporte que le ministre japonais de la Défense Shinjiro Koizumi a déclaré que le renforcement des capacités militaires du Japon est, je le cite : "critical to prevent war." Fin de citation. Koizumi soutient que le Japon doit revoir la posture pacifiste qui le définit depuis la Deuxième Guerre mondiale.
-  </chapitre>
+La BBC résume l'accord dans le même sens : quatorze paragraphes, mais des zones d'ambiguïté sur l'application concrète.
 
-  <chapitre titre="Politique canadienne">
-On passe à la politique canadienne, avec trois dossiers ce matin.
+Ailleurs dans le monde, la BBC rapporte que des tirs et des explosions ont été entendus à l'aéroport de la capitale du Niger. Le pays fait face à une insurrection islamiste depuis une décennie, et des jihadistes avaient déjà ciblé cet aéroport en janvier dernier.
 
-D'abord, l'ACEUM. Reuters rapporte que le président Trump a dit que les États-Unis feraient mieux sans l'Accord Canada, États-Unis, Mexique, plus connu sous l'acronyme ACEUM. Cette déclaration a été faite mercredi. Elle intervient alors que la revue de l'accord est prévue en 2026, et qu'Ottawa cherche à stabiliser ses relations commerciales avec Washington. Trump n'a pas précisé dans quelle direction il souhaiterait évoluer, mais la déclaration est notable dans le contexte des négociations en cours.
+Du côté du Royaume-Uni, l'Associated Press rapporte qu'une élection partielle pourrait fragiliser le premier ministre Keir Starmer et accélérer la montée en puissance du maire de Manchester, Andy Burnham, au sein du Parti travailliste.
 
-Deuxième dossier : les véhicules électriques chinois. Le National Post rapporte que Trump a dit qu'il pouvait comprendre la décision du Canada d'autoriser l'importation d'un nombre limité de véhicules électriques chinois à taux de droits de douane réduit. Selon le même article, le premier ministre Mark Carney a rapporté que Trump s'était montré satisfait de cet arrangement. Ce positionnement canadien cherche à maintenir un certain accès au marché des véhicules électriques chinois tout en évitant une confrontation directe avec Washington sur la politique commerciale envers la Chine.
-
-Troisième dossier : la Loi sur la construction du Canada. The Hub rapporte que le gouvernement Carney marque son premier anniversaire sans avoir désigné un seul projet en vertu de la Loi sur la construction du Canada. L'article soulève des questions sur la raison d'être de cette loi, qui avait été présentée comme un mécanisme pour accélérer les grands projets d'infrastructure. Le gouvernement n'a pas répondu publiquement à cette critique selon The Hub.
-
-Un dernier élément de la journée côté canadien : le Journal de Montréal rapporte qu'un policier de la Gendarmerie royale du Canada a été accusé d'avoir menacé Donald Trump. Peu de détails sont disponibles à ce stade, mais l'accusation est formelle selon le Journal.
+Toujours au Royaume-Uni, CBC World rapporte que l'Église d'Angleterre a présenté des excuses formelles pour son rôle dans les adoptions forcées de femmes non mariées, des pratiques qui ont eu cours jusqu'au milieu des années 1970 dans des foyers pour mères et nourrissons affiliés à l'église.
   </chapitre>
 
   <chapitre titre="Économie et marchés">
-On passe à l'économie et aux marchés, et le personnage central de la journée s'appelle Kevin Warsh.
+On passe à l'économie et aux marchés. Le personnage central, comme hier, s'appelle Kevin Warsh.
 
-Warsh, nommé par Trump à la tête de la Réserve fédérale américaine, a tenu sa première réunion de politique monétaire mercredi. Reuters Business, Bloomberg, le Wall Street Journal et le Financial Times couvrent tous l'événement. Voici ce qu'on sait.
+Pour ceux qui n'étaient pas avec nous hier : Warsh a été nommé par Donald Trump à la présidence de la Réserve fédérale américaine. Il tenait mercredi sa première réunion de politique monétaire.
 
-Les taux directeurs n'ont pas bougé. Mais Warsh a pris deux décisions qui ont retenu l'attention des marchés. Premièrement, il a choisi de ne pas publier sa propre prévision personnelle du taux directeur, ce que les présidents de la Fed font habituellement dans ce qu'on appelle le "dot plot". Deuxièmement, il a annoncé une révision en profondeur des pratiques de communication de la banque centrale. Reuters Business titre que Warsh "lance une ère avec une révision exhaustive alors que les taux demeurent inchangés."
+Le bilan de cette réunion, selon Reuters Business, Bloomberg, le Wall Street Journal et le Financial Times : la Fed a maintenu son taux directeur inchangé. Mais le signal qu'elle envoie pour la suite est plus important que la décision elle-même.
 
-Le résultat sur les marchés a été immédiat. Bloomberg rapporte que les paris sur une hausse des taux cette année ont fortement augmenté après la conférence de presse de Warsh. Reuters Business titre "Wall Street recule sur les paris que la Fed va hausser les taux cette année." Bloomberg note également que les marchés obligataires ont réagi à ce qu'il décrit comme des signaux hawkish, c'est-à-dire favorables à des taux plus élevés. En conséquence, Bloomberg prévoit que les actions et les obligations asiatiques devraient reculer à l'ouverture ce matin.
+Selon le Wall Street Journal, un nombre croissant de membres du comité de politique monétaire de la Fed considèrent maintenant qu'une hausse de taux est l'étape la plus probable d'ici la fin de l'année. BNN Bloomberg précise que le consensus interne pointe vers une hausse.
 
-L'incertitude autour des intentions de Warsh est au coeur de la réaction des marchés. Le Wall Street Journal titre que Warsh "garde les marchés dans le doute sur les taux" et que son "visage de joueur de poker" a secoué les investisseurs.
+Le Wall Street Journal et le Financial Times décrivent Warsh comme quelqu'un qui joue au poker : il a remanié la communication de la banque centrale et évite de s'engager sur un calendrier précis, ce qui a créé de l'incertitude sur les marchés.
 
-Toujours côté économie, Reuters rapporte que le G7 a mis sur pied une alliance sur les minéraux critiques, assortie d'une plateforme visant à réduire la dépendance des pays membres envers la Chine pour ces ressources. Le Canada, grand producteur de minéraux critiques, est partie prenante de cette initiative.
+Reuters Business rapporte que Wall Street a reculé mercredi soir dans ce contexte. L'optimisme lié à l'accord américano-iranien, qui avait soutenu les marchés en début de semaine, a été plus qu'effacé par les signaux de la Fed sur les taux. Les actions ont baissé, selon Reuters Business.
 
-Sur l'immobilier canadien, BNN Bloomberg rapporte que selon Statistique Canada, les nouveaux arrivants achètent des propriétés à un rythme plus élevé, tandis que le taux de propriété chez les personnes nées au Canada est en recul.
+Bloomberg ajoute que les marchés asiatiques et les obligations devraient suivre le même mouvement en matinée, en réaction aux signaux jugés plus restrictifs de Warsh.
 
-Du côté des entreprises, Les Affaires rapporte que le Conseil de la radiodiffusion et des télécommunications canadiennes, le CRTC, a adressé un avertissement à Rogers concernant de nouveaux frais. Les détails de cet avertissement n'ont pas été précisés dans l'article disponible, mais la démarche du régulateur signale une préoccupation sur les pratiques tarifaires du fournisseur.
+Sur le marché pétrolier, le Financial Times publie une analyse titrée "Comment le marché pétrolier a encaissé la crise iranienne". Le titre dit l'essentiel : malgré les semaines de tensions, le marché a absorbé le choc avec plus de résilience que prévu. Le prix du brut avait déjà baissé cette semaine, comme rapporté dans les briefings précédents.
 
-Enfin, le Financial Times rapporte que l'administration Trump s'est engagée à verser 765 millions de dollars américains pour mettre fin à des projets d'éoliennes en mer. Cette décision illustre le retrait continu de l'administration des engagements en énergie renouvelable contractés sous l'administration précédente.
+Côté canadien, Les Affaires rapporte que le Conseil de la radiodiffusion et des télécommunications canadiennes, le CRTC, a adressé un avertissement formel à Rogers concernant de nouveaux frais que la compagnie envisagerait d'imposer à ses abonnés. Les détails de ces frais ne sont pas précisés dans l'article.
+
+Toujours en économie canadienne, le National Post rapporte que Statistics Canada a publié une étude montrant que les immigrants récents deviennent propriétaires à un rythme plus rapide qu'auparavant, tandis que le taux de propriété chez les personnes nées au Canada est en baisse.
+
+Et un dossier à retenir sur la scène américaine : le Financial Times rapporte que l'administration Trump s'est engagée à verser 765 millions de dollars américains pour mettre fin à des projets d'énergie éolienne en mer. Cette décision s'inscrit dans le retrait plus large de Washington du secteur des énergies renouvelables.
   </chapitre>
 
-  <chapitre titre="Tech">
-Un mot sur la tech, avec quatre dossiers ce matin.
+  <chapitre titre="Politique canadienne">
+On passe à la politique canadienne, avec plusieurs dossiers ce matin.
 
-Premier dossier : Apple et la hausse de prix à venir. The Verge et TechCrunch rapportent tous les deux que le PDG d'Apple, Tim Cook, a accordé une entrevue au Wall Street Journal dans laquelle il annonce que des hausses de prix sont inévitables. La raison invoquée : une pénurie de mémoire vive, la RAM, qui fait grimper les coûts de fabrication. En anglais, je le cite : "We're doing our best to mitigate the huge increases that are being passed to us, and we've been trying to shield our customers from the increases, but the situation has become unsustainable." Fin de citation. Cook n'a pas précisé quels produits seraient touchés ni à quelle date les hausses entreraient en vigueur.
+D'abord, les armes à feu. La Presse rapporte qu'une association de défense des femmes et plusieurs groupes favorables au contrôle des armes à feu font pression sur le premier ministre Mark Carney pour mettre en oeuvre un aspect clé d'une loi sur les armes à feu adoptée il y a trente mois. Ce volet porte sur les ordonnances de protection, un mécanisme qui permettrait de retirer plus rapidement les armes à feu aux personnes visées par des ordonnances judiciaires dans des contextes de violence conjugale.
 
-Lien avec le deuxième dossier : Reuters rapporte que Trump a annoncé qu'Apple s'associera avec Intel pour la conception et la fabrication de puces aux États-Unis. Cette annonce soulève des questions sur la stratégie à long terme d'Apple, qui a passé les dernières années à développer ses propres puces maison, les processeurs de la série M, en se distançant précisément d'Intel. L'article de Reuters ne précise pas si cette annonce vient d'Apple directement ou s'il s'agit d'une déclaration unilatérale de Trump.
+Ensuite, le registre des influences étrangères. Global News rapporte que le gouvernement Carney n'a toujours pas mis en vigueur la Loi sur la transparence et la responsabilité en matière d'influence étrangère, six mois après la publication de règlements provisoires. Des groupes de défense des droits civiques s'inquiètent de ce retard.
 
-Troisième dossier : OpenAI et un recrutement remarqué. Reuters rapporte que Noam Shazeer, co-responsable du projet Gemini chez Google, s'apprête à rejoindre OpenAI, qui prépare son entrée en bourse. Shazeer est l'un des co-auteurs de l'article fondateur sur l'architecture Transformer, qui est à la base de la quasi-totalité des grands modèles de langage actuels, y compris les produits d'OpenAI. Son départ de Google vers un concurrent direct est notable dans un secteur où la guerre des talents bat son plein.
+Troisièmement, la Loi sur la construction au Canada. The Hub rapporte que le gouvernement Carney marque un an sans qu'un seul projet n'ait été officiellement désigné en vertu de cette loi, ce qui amène des observateurs à questionner l'utilité réelle de ce cadre législatif.
 
-Quatrième dossier : la NASA et la course à Mars. TechCrunch rapporte que la NASA a sélectionné Relativity Space, une entreprise de fabrication de fusées acquise l'an dernier par l'ancien président exécutif de Google, Eric Schmidt, pour une mission vers Mars. Selon TechCrunch, Relativity Space avait rencontré des difficultés sur le chemin vers l'orbite avant cette acquisition. Cette sélection crée une situation inédite : Relativity Space et SpaceX, déjà mandatée pour des missions martiennes, sont désormais en concurrence directe pour être la première à atteindre Mars.
+Quatrièmement, l'aide médicale à mourir, ou MAID. Le National Post rapporte qu'un comité parlementaire conjoint spécial sur l'aide médicale à mourir a publié un rapport recommandant que le gouvernement exclue de manière permanente les personnes dont la seule condition médicale sous-jacente est une maladie mentale de l'admissibilité à l'aide médicale à mourir. Le chroniqueur Chris Selley du National Post soutient que cette recommandation est la bonne, et que c'est maintenant au Parlement d'agir.
+
+Enfin, une nouvelle de Saskatchewan. CBC rapporte qu'un jeune de 14 ans qui planifiait une fusillade dans une école de Saskatoon fera l'objet d'un engagement de ne pas troubler la paix lié au terrorisme pour la durée d'un an.
+
+En Ontario, CBC rapporte qu'environ 20 000 enfants sont sur la liste d'attente du programme de soutien aux familles d'enfants ayant des handicaps en Alberta, et que certains attendent depuis des années pour obtenir des services comme de la thérapie du langage ou du comportement.
+
+Toujours en Ontario, Global News rapporte que le gouvernement Ford refuse de divulguer un rapport interne du cabinet-conseil Ernst et Young sur les finances du Musée royal de l'Ontario. Selon Global News, ce rapport aurait suggéré la possibilité de vendre des artefacts du musée.
   </chapitre>
 
   <chapitre titre="Actualité québécoise">
-Du côté du Québec, deux dossiers ce matin.
+Du côté du Québec, plusieurs dossiers ce matin.
 
-D'abord, le dossier du racisme au Service de police de la Ville de Montréal, le SPVM. La Presse publie une enquête sur les allégations de comportements racistes au sein du corps policier. Selon La Presse, les policiers visés par ces allégations sont en grande majorité de jeunes agents récemment sortis de l'école. La Presse pose la question de la formation : est-elle déficiente ? Des experts cités dans l'article soutiennent que le problème se trouve ailleurs que dans le curriculum de formation. Le Devoir, de son côté, rapporte qu'une conférence de presse du Regroupement des intervenants et intervenantes d'origine haïtienne a eu lieu mardi matin à Montréal-Nord, réunissant des acteurs de la société civile du quartier et d'ailleurs pour aborder les enjeux de racisme systémique.
+D'abord, la carte électorale. Radio-Canada rapporte qu'un commissaire à la Commission de la représentation électorale, Kevin Bouchard, a démissionné pour protester contre le redécoupage des circonscriptions tel que réalisé par les députés. Radio-Canada précise que Bouchard quitte ses fonctions en signe de désaccord avec le processus.
 
-Toujours sur le terrain de la sécurité publique, La Presse rapporte aussi qu'un homme de 24 ans et une femme de 29 ans ont été arrêtés mercredi par la Sûreté du Québec. Selon La Presse, ils sont soupçonnés d'avoir administré un site web où des criminels pouvaient acheter des renseignements personnels de citoyens canadiens pour les utiliser dans des fraudes d'identité.
+Ensuite, le Bloc québécois. Radio-Canada rapporte que le directeur général de l'Union des artistes, l'UDA, Alexandre Curzi, sera candidat du Bloc québécois dans la circonscription de Rosemont-La Petite-Patrie. Le Bloc entend mettre de l'avant le thème de la culture pour tenter de reprendre ce comté.
 
-Par ailleurs, La Presse rapporte que des milliers d'amendes ont été infligées au cours des six dernières années par des services de police de grandes régions métropolitaines du Québec à des citoyens pour avoir insulté des policiers ou d'autres représentants municipaux. Ces données proviennent de sources internes obtenues par La Presse Canadienne. Cette pratique soulève des questions sur les limites de la liberté d'expression et sur l'encadrement du pouvoir policier en matière d'amendes.
+Troisième dossier : l'itinérance. Radio-Canada rapporte que le gouvernement du Québec débloque 12,5 millions de dollars pour des mesures en matière d'itinérance. Montréal reçoit cinq millions, le reste étant réparti entre les régions et des communautés des Premières Nations.
+
+Le Devoir rapporte aussi l'ouverture du centre Résilience Montréal, qui a été repensé en collaboration avec des communautés autochtones, particulièrement touchées par la crise de l'itinérance.
+
+Quatrième dossier : l'UPAC. Radio-Canada rapporte que l'Unité permanente anticorruption envisage de cesser d'enquêter sur de simples fuites journalistiques, en réaction aux critiques sur ses méthodes qualifiées de "chasse aux sources".
+
+Cinquième dossier : une étude de l'Observatoire québécois des inégalités. La Presse rapporte que le troisième volet de cette étude conclut que la crise du logement contribue à augmenter la violence conjugale et le décrochage scolaire au Québec.
+
+Enfin, un fait divers. La Presse rapporte que dix suspects, dont neuf mineurs, ont été arrêtés à Laval dans le cadre d'une vague d'agressions liées à des transactions sur une plateforme de petites annonces en ligne, notamment pour des cartes Pokémon et des ordinateurs portables MacBook.
+  </chapitre>
+
+  <chapitre titre="Tech">
+Un mot sur la tech, avec quatre dossiers substantiels ce matin.
+
+Premier dossier : Apple et la hausse de prix à venir. On avait abordé ce sujet dans le briefing d'hier. The Verge publie aujourd'hui plus de détails sur l'entrevue de Tim Cook au Wall Street Journal. Cook dit que la pénurie de mémoire vive, la RAM, est devenue insoutenable pour Apple. Je le cite en anglais : "The situation has become unsustainable." Fin de citation. Il ne précise pas quels produits seront touchés ni à quelle date. The Verge note qu'Apple a déjà cessé de vendre le Mac Studio avec 512 gigaoctets de RAM en mars, et qu'elle a relevé le prix de départ du Mac Mini à 799 dollars américains après avoir retiré l'option à 599 dollars.
+
+Deuxième dossier : Waymo et les voitures autonomes. TechCrunch rapporte que Waymo rappelle près de 4 000 de ses robotaxis après avoir identifié au moins treize cas où des véhicules ont conduit dans des zones d'autoroute fermées pour des travaux de construction. Le rappel vise à mettre à jour le logiciel pour corriger ce comportement.
+
+Troisième dossier : NASA, SpaceX et la course à Mars. TechCrunch rapporte que la NASA a sélectionné Relativity Space, une entreprise de fabrication de fusées acquise l'an dernier par l'ex-président exécutif de Google, Eric Schmidt, pour une mission vers Mars. Relativity Space, qui avait connu des revers sur le chemin vers l'orbite avant son acquisition, se retrouve maintenant en concurrence directe avec SpaceX pour cette mission.
+
+À noter en lien avec SpaceX : le National Post rapporte que le régime de retraite des enseignants de l'Ontario a réalisé des milliards de dollars de gains grâce à l'introduction en Bourse de SpaceX. Les détails financiers ne sont pas précisés dans l'article.
+
+Quatrième dossier : l'informatique quantique. Ars Technica rapporte qu'Amazon et l'entreprise QuEra promettent d'atteindre une correction d'erreurs quantique utile dès 2028, une échéance que plusieurs experts du domaine jugent plus rapide que prévu. La plupart des spécialistes estimaient jusqu'ici que des ordinateurs quantiques véritablement utiles étaient encore à cinq à dix ans de distance. Selon Ars Technica, cette promesse repose sur les progrès réalisés dans la création de qubits logiques, des unités d'information qui combinent plusieurs qubits matériels pour réduire les erreurs de calcul.
+
+En marge de la tech, The Verge rapporte que Midjourney, connue jusqu'ici pour son générateur d'images par intelligence artificielle, a dévoilé un premier produit matériel : un scanner ultrasonore à anneau de capteurs capable de produire des images de la composition corporelle, muscles, graisses, os et organes. Le PDG David Holz a indiqué que l'appareil vise une qualité d'image comparable à l'IRM pour plusieurs applications.
   </chapitre>
 
   <chapitre titre="Sport">
 On termine avec le sport, et trois dossiers ce matin.
 
-Premier dossier, et c'est la nouvelle hockey du jour : les Maple Leafs de Toronto ont nommé Jim Hiller au poste d'entraîneur-chef, selon Sportsnet et TVA Sports. TVA Sports précise que Patrick Roy faisait partie des derniers candidats en lice. Sportsnet décrit cette nomination comme une surprise, mais note que le choix s'explique à l'analyse. Hiller avait agi comme entraîneur associé à Toronto et était perçu comme proche des joueurs. Sportsnet rapporte que le raisonnement derrière le choix était notamment que, je le cite en anglais : "The game has to be fun." Fin de citation.
+D'abord, le hockey. TVA Sports rapporte que les Golden Knights de Vegas ont finalement accordé la permission à une seule équipe de s'entretenir avec leur entraîneur-chef Bruce Cassidy, dont le départ semblait imminent. L'identité de l'équipe en question n'est pas mentionnée dans l'article.
 
-Parallèlement, Sportsnet rapporte qu'une décision s'impose du côté des Golden Knights de Vegas : le club aurait accordé la permission à une seule équipe de parler à l'entraîneur Bruce Cassidy, selon TVA Sports.
+Ensuite, les Blue Jays de Toronto. Sportsnet rapporte deux nouvelles en lien avec le lanceur Max Scherzer, 41 ans. D'abord, qu'il retourne sur la liste des blessés, une semaine seulement après en avoir été retiré. Ensuite, malgré ce contretemps, sept releveurs combinés ont accordé zéro point aux Red Sox de Boston mercredi, ce qui a donné aux Blue Jays une deuxième victoire consécutive à Boston.
 
-Deuxième dossier : la Coupe du monde. Global News rapporte qu'Alphonso Davies sera disponible pour le match du Canada contre le Qatar, après avoir raté le premier match à cause d'une blessure aux ischio-jambiers. L'entraîneur Jesse Marsch l'a confirmé mercredi. C'est une bonne nouvelle pour l'équipe canadienne, qui avait dû se passer de son capitaine pour son entrée en lice dans le tournoi.
-
-Du côté des résultats, Al Jazeera rapporte que la Colombie a battu l'Ouzbékistan dans son premier match de Coupe du monde, avec Luis Diaz qui a marqué un but et préparé un autre. Al Jazeera rapporte également qu'un match Angleterre contre Croatie a généré des émotions vives à Londres et à Zagreb dans ce qu'il décrit comme une rencontre de Coupe du monde chargée d'histoire entre les deux équipes.
-
-Troisième dossier, bref : les Blue Jays de Toronto ont blanchi les Red Sox de Boston mercredi grâce à sept releveurs, remportant une deuxième victoire consécutive à Boston, selon Sportsnet. Max Scherzer est par ailleurs retourné sur la liste des blessés une semaine après en avoir été retiré.
+Enfin, la boxe. RDS rapporte que la boxeuse québécoise Tammara Thibeault affrontera une adversaire en championnat du monde le 8 août prochain, à Orlando.
   </chapitre>
 
-  <outro>Voilà pour ce Presto du jeudi 18 juin 2026. Si ce briefing vous est utile, le meilleur coup de main que vous pouvez nous donner, c'est de le partager à une personne qui aime rester informée. Et selon votre plateforme : un abonnement sur Spotify ou Apple Podcasts, un pouce bleu et un abonnement sur YouTube, ça prend deux secondes et ça aide vraiment Presto à grandir. Sur ce, bonne journée, et à demain.</outro>
+  <outro>Voilà pour ce Presto du jeudi 19 juin 2026. Si ce briefing vous est utile, le meilleur coup de main que vous pouvez nous donner, c'est de le partager à une personne qui aime rester informée. Et selon votre plateforme : un abonnement sur Spotify ou Apple Podcasts, un pouce bleu et un abonnement sur YouTube, ça prend deux secondes et ça aide vraiment Presto à grandir. Sur ce, bonne journée, et à demain.</outro>
 </script>
 ```
