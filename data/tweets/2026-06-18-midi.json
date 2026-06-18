@@ -1,0 +1,14 @@
+{
+  "date": "2026-06-18",
+  "kind": "poll",
+  "text": "Ce matin → Les États-Unis et l'Iran ont signé un accord prévoyant 300 milliards en redéveloppement économique et l'engagement que Téhéran ne se dotera pas d'arme nucléaire.\n\nNouveau : Le vice-président JD Vance a critiqué\n\nSelon toi, comment évaluer cet accord États-Unis-Iran?",
+  "poll": {
+    "options": [
+      "Une avancée pour la",
+      "Un risque pour la",
+      "Un geste commercial",
+      "Trop tôt pour se"
+    ],
+    "duration_minutes": 1440
+  }
+}
