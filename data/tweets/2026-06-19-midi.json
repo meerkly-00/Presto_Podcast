@@ -1,13 +1,13 @@
 {
   "date": "2026-06-19",
   "kind": "poll",
-  "text": "Ce matin → Les négociations irano-américaines de vendredi à Genève sont reportées.\n\nNouveau : Le Liban enregistre 18 morts dans les frappes israéliennes, tandis que 4 soldats israéliens sont\n\nSelon toi, le conflit au Liban peut-il être résolu par une négociation diplomatique?",
+  "text": "Ce matin → Les pourparlers irano-américains de vendredi à Genève sont reportés.\n\nNouveau : Le vice-président J.D. Vance ne fera pas le voyage.\n\nSelon toi, comment ces reports affectent-ils les chances d'avancées diplomatiques?",
   "poll": {
     "options": [
-      "Oui, avec engagement des",
-      "Non, trop de tensions",
-      "Possible, mais difficile",
-      "Trop tôt pour dire"
+      "Retard temporaire normal",
+      "Complique les",
+      "Les rend peu probables",
+      "Trop tôt pour évaluer"
     ],
     "duration_minutes": 1440
   }
