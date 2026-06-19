@@ -1,0 +1,14 @@
+{
+  "date": "2026-06-19",
+  "kind": "poll",
+  "text": "Ce matin → Les négociations irano-américaines de vendredi à Genève sont reportées.\n\nNouveau : Le Liban enregistre 18 morts dans les frappes israéliennes, tandis que 4 soldats israéliens sont\n\nSelon toi, le conflit au Liban peut-il être résolu par une négociation diplomatique?",
+  "poll": {
+    "options": [
+      "Oui, avec engagement des",
+      "Non, trop de tensions",
+      "Possible, mais difficile",
+      "Trop tôt pour dire"
+    ],
+    "duration_minutes": 1440
+  }
+}
