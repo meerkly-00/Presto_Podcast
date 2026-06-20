@@ -1,13 +1,13 @@
 {
   "date": "2026-06-20",
   "kind": "poll",
-  "text": "Ce matin → Cessez-le-feu entre Israël et le Hezbollah convenu, mais les frappes continuent.\n\nNouveau : L'Iran ferme le détroit d'Ormuz en représailles aux attaques israéliennes.\n\nComment vois-tu l'impact d'une fermeture du détroit d'Ormuz sur les marchés mondiaux?",
+  "text": "Ce matin → Israël et le Hezbollah ont convenu d'un cessez-le-feu, mais des frappes israéliennes ont tué 5 personnes au Liban après minuit samedi.\n\nNouveau : l'Iran affirme avoir\n\nSelon toi, la fermeture du détroit d'Ormuz par l'Iran est une mesure justifiée ou une escalade?",
   "poll": {
     "options": [
-      "Très perturbateur pour",
-      "Modérément impactant",
-      "Effets limités à court",
-      "Trop tôt pour évaluer"
+      "Une réaction justifiée",
+      "Une escalade injustifiée",
+      "Les deux simultanément",
+      "Trop tôt pour juger"
     ],
     "duration_minutes": 1440
   }
