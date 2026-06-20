@@ -1,13 +1,13 @@
 {
   "date": "2026-06-20",
   "kind": "poll",
-  "text": "Ce matin → Cessez-le-feu entre Israël et le Hezbollah en vigueur.\n\nMise à jour : Des frappes israéliennes ont tué au moins 10 personnes au Liban samedi, quelques heures après l'entrée en vigueur de l'accord.\n\nComment interpréter ces frappes après le cessez-le-feu?",
+  "text": "Ce matin → Cessez-le-feu entre Israël et le Hezbollah convenu, mais les frappes continuent.\n\nNouveau : L'Iran ferme le détroit d'Ormuz en représailles aux attaques israéliennes.\n\nComment vois-tu l'impact d'une fermeture du détroit d'Ormuz sur les marchés mondiaux?",
   "poll": {
     "options": [
-      "Légitime défense contre",
-      "Violation de l'accord",
-      "Trop tôt pour juger",
-      "Information insuffisante"
+      "Très perturbateur pour",
+      "Modérément impactant",
+      "Effets limités à court",
+      "Trop tôt pour évaluer"
     ],
     "duration_minutes": 1440
   }
