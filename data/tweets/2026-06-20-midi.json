@@ -1,0 +1,14 @@
+{
+  "date": "2026-06-20",
+  "kind": "poll",
+  "text": "Ce matin → Cessez-le-feu entre Israël et le Hezbollah en vigueur.\n\nMise à jour : Des frappes israéliennes ont tué au moins 10 personnes au Liban samedi, quelques heures après l'entrée en vigueur de l'accord.\n\nComment interpréter ces frappes après le cessez-le-feu?",
+  "poll": {
+    "options": [
+      "Légitime défense contre",
+      "Violation de l'accord",
+      "Trop tôt pour juger",
+      "Information insuffisante"
+    ],
+    "duration_minutes": 1440
+  }
+}
