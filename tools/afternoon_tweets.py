@@ -2,7 +2,8 @@
 Génère les 2 tweets auto de l'après-midi pour Presto, à partir du thread du matin.
 
   - midi : poll de suivi (continuité éditoriale sur un sujet du matin + nouveauté)
-  - soir : contre-programme (faits secs, posté ~17h30 avant les bulletins d'opinion)
+  - soir : récap du jour (faits NEUFS depuis le matin ; généré tard ~16h30, posté
+           17h30 ; SKIP si rien de neuf, pour ne pas rebrasser le matin)
 
 MINI-REFETCH : on re-agrège les feeds RSS sur une fenêtre courte (8h par défaut)
 pour capter les développements survenus depuis le briefing du matin — sans
@@ -14,9 +15,11 @@ Si un mot évaluatif passe, on régénère ; après 2 essais ratés, on SKIP le 
 plutôt que de publier quelque chose hors-marque.
 
 Usage :
-  python tools/afternoon_tweets.py --date 2026-06-07
-    → lit data/tweets/2026-06-07.json
-    → écrit data/tweets/2026-06-07-midi.json et 2026-06-07-soir.json
+  python tools/afternoon_tweets.py --date 2026-06-07 --only midi
+    → lit data/tweets/2026-06-07.json, écrit data/tweets/2026-06-07-midi.json
+  python tools/afternoon_tweets.py --date 2026-06-07 --only soir
+    → écrit data/tweets/2026-06-07-soir.json (ou rien si journée calme)
+  --only both (défaut) : génère les deux (runs manuels)
 """
 
 import argparse
@@ -44,7 +47,8 @@ if hasattr(sys.stderr, "reconfigure"):
 
 load_dotenv(ROOT / ".env")
 
-REFETCH_HEURES = int(os.getenv("AFTERNOON_REFETCH_HEURES", "8"))
+REFETCH_MIDI = int(os.getenv("AFTERNOON_REFETCH_HEURES", "8"))
+REFETCH_SOIR = int(os.getenv("EVENING_REFETCH_HEURES", "8"))
 CONFIG_PATH = os.getenv("SOURCES_FILE", str(ROOT / "config" / "sources.yaml"))
 MODEL = os.getenv("CLAUDE_MODEL_AFTERNOON", os.getenv("CLAUDE_MODEL", "claude-haiku-4-5-20251001"))
 MAX_ESSAIS = 2
@@ -88,28 +92,34 @@ Réponds UNIQUEMENT avec un objet JSON, rien d'autre :
 {{"sujet": "...", "texte_tweet": "...", "sondage": {{"question": "...", "options": ["...", "..."], "duree_minutes": 1440}}}}"""
 
 SOIR_PROMPT = """Tu génères le tweet de FIN D'APRÈS-MIDI pour Presto, briefing québécois
-factuel et non-partisan. Il est publié à 17h30, juste avant les bulletins
-d'opinion du soir. Angle implicite : pendant que les autres vont commenter,
-Presto donne juste les faits.
+factuel et non-partisan, publié à 17h30. Angle : pendant que les autres vont
+commenter au bulletin du soir, Presto donne le récap des faits NEUFS de la journée.
 
-SUJETS DU MATIN :
+DÉJÀ COUVERT CE MATIN, NE PAS REPRENDRE :
 {sujets_matin}
 
-NEWS FRAÎCHES :
+NEWS FRAÎCHES (agrégées en fin d'après-midi, couvrent la journée) :
 {news_fraiches}
 
 TÂCHE :
-1. Sélectionne 1 à 3 faits concrets qui ont bougé aujourd'hui (chiffres,
-   décisions, événements vérifiables).
-2. Ouvre par une accroche courte de la famille « X, pas Y » qui rappelle le
-   positionnement (ex. : « Ce qui a bougé aujourd'hui — sans le spin du 18h : »).
+1. Sélectionne 1 à 3 faits qui ont CASSÉ ou ÉVOLUÉ DEPUIS CE MATIN : nouvelle
+   histoire, ou développement substantiel d'un sujet du matin (nouveau chiffre,
+   décision, issue, réaction officielle). Ne reprends jamais un sujet du matin
+   tel quel ; s'il revient, c'est uniquement pour son développement neuf, cadré
+   comme tel.
+2. Ouvre par une accroche courte de la famille « ce que t'as manqué depuis ce
+   matin » (ex. : « Pendant ta journée, ça a bougé. Juste les faits : »).
 3. Liste les faits en puces courtes et sèches (« • ... »).
+
+SKIP : si AUCUN fait ne qualifie comme neuf (journée calme, rien que le matin
+n'ait déjà dit), ne force rien. Réponds {{"skip": true, "texte_tweet": ""}}.
+Mieux vaut pas de tweet qu'une redite du matin.
 
 {regles}
 - texte_tweet complet ≤ 270 caractères, puces incluses.
 
 Réponds UNIQUEMENT avec un objet JSON, rien d'autre :
-{{"texte_tweet": "...", "faits_utilises": ["...", "..."]}}"""
+{{"texte_tweet": "...", "faits_utilises": ["...", "..."], "skip": false}}"""
 
 
 def _extract_json(raw: str) -> dict:
@@ -215,6 +225,9 @@ def construire_midi(data: dict, date_slug: str) -> dict | None:
 
 
 def construire_soir(data: dict, date_slug: str) -> dict | None:
+    if data.get("skip"):
+        print("[soir] aucun fait neuf depuis le matin → tweet sauté.")
+        return None
     text = _trim(data.get("texte_tweet", "").strip(), 280)
     if not text:
         print("[soir] texte vide → tweet sauté.")
@@ -225,6 +238,8 @@ def construire_soir(data: dict, date_slug: str) -> dict | None:
 def main():
     parser = argparse.ArgumentParser(description="Génère les tweets midi + soir de Presto")
     parser.add_argument("--date", help="Date YYYY-MM-DD (défaut : aujourd'hui UTC)")
+    parser.add_argument("--only", choices=["midi", "soir", "both"], default="both",
+                        help="Quel(s) tweet(s) générer (défaut : both)")
     parser.add_argument("--dry-run", action="store_true", help="Affiche sans écrire les JSON")
     args = parser.parse_args()
 
@@ -241,21 +256,26 @@ def main():
     sujets = [t for t in morning.get("tweets", [])][:3]
     sujets_matin = "\n".join(f"{i}. {t}" for i, t in enumerate(sujets, 1)) or "(aucun)"
 
-    print(f"Mini-refetch des feeds sur {REFETCH_HEURES}h...")
-    news_fraiches = aggregate(CONFIG_PATH, since_hours=REFETCH_HEURES)
-    news_fraiches = news_fraiches[:9000]  # borne le contexte
-    print(f"News fraîches : {len(news_fraiches)} caractères.")
-
     client = anthropic.Anthropic(api_key=os.environ["ANTHROPIC_API_KEY"])
 
-    fmt = dict(sujets_matin=sujets_matin, news_fraiches=news_fraiches, regles=_REGLES_NEUTRALITE)
-    plan = [
-        ("midi", POLL_PROMPT.format(**fmt), construire_midi, f"{date_slug}-midi.json"),
-        ("soir", SOIR_PROMPT.format(**fmt), construire_soir, f"{date_slug}-soir.json"),
-    ]
+    # (gabarit_prompt, builder, fichier de sortie, fenêtre de refetch en heures)
+    plan_complet = {
+        "midi": (POLL_PROMPT, construire_midi, f"{date_slug}-midi.json", REFETCH_MIDI),
+        "soir": (SOIR_PROMPT, construire_soir, f"{date_slug}-soir.json", REFETCH_SOIR),
+    }
+    labels = ["midi", "soir"] if args.only == "both" else [args.only]
 
-    for label, prompt, builder, filename in plan:
+    for label in labels:
+        gabarit, builder, filename, refetch_h = plan_complet[label]
         print(f"\n=== Génération {label} ===")
+        print(f"Mini-refetch des feeds sur {refetch_h}h...")
+        news_fraiches = aggregate(CONFIG_PATH, since_hours=refetch_h)[:9000]  # borne le contexte
+        print(f"News fraîches : {len(news_fraiches)} caractères.")
+        prompt = gabarit.format(
+            sujets_matin=sujets_matin,
+            news_fraiches=news_fraiches,
+            regles=_REGLES_NEUTRALITE,
+        )
         data = generer_neutre(client, prompt, label)
         if data is None:
             continue

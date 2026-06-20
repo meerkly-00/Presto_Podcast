@@ -1,8 +1,9 @@
-name: Presto — tweets après-midi (midi + soir)
+name: Presto — tweet de midi (poll de suivi)
 
-# Génère les 2 tweets de l'après-midi À PARTIR du thread du matin déjà committé.
+# Génère le tweet de MIDI (poll de suivi) À PARTIR du thread du matin déjà committé.
 # Tourne à 15h UTC (11h EDT) : assez tard pour que le thread du matin existe,
 # assez tôt pour précéder le post de midi (16h UTC) fait par le worker Cloudflare.
+# Le tweet du soir est généré séparément par evening.yml (16h30 EDT).
 on:
   schedule:
     - cron: '0 15 * * *'    # 11h EDT (UTC-4)
@@ -28,25 +29,25 @@ jobs:
 
       - run: pip install -r requirements.txt
 
-      - name: Générer les tweets midi + soir
+      - name: Générer le tweet de midi
         run: |
           DATE=$(date +%Y-%m-%d)
           echo "DATE=$DATE" >> $GITHUB_ENV
           if [ ! -f "data/tweets/$DATE.json" ]; then
-            echo "::warning::Pas de thread du matin pour $DATE. Skip après-midi."
+            echo "::warning::Pas de thread du matin pour $DATE. Skip midi."
             exit 0
           fi
-          python tools/afternoon_tweets.py --date "$DATE"
+          python tools/afternoon_tweets.py --date "$DATE" --only midi
         env:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
           CLAUDE_MODEL_AFTERNOON: claude-haiku-4-5-20251001
 
-      - name: Sauvegarder les tweets après-midi
+      - name: Sauvegarder le tweet de midi
         run: |
           git config user.name "Presto Bot"
           git config user.email "presto-bot@noreply"
-          git add data/tweets/$DATE-midi.json data/tweets/$DATE-soir.json 2>/dev/null || true
-          git diff --cached --quiet || git commit -m "tweets après-midi: $DATE [skip ci]"
+          git add data/tweets/$DATE-midi.json 2>/dev/null || true
+          git diff --cached --quiet || git commit -m "tweet midi: $DATE [skip ci]"
           git pull --rebase origin main
           git push
 
@@ -54,8 +55,8 @@ jobs:
         if: failure()
         run: |
           gh issue create \
-            --title "⚠️ Tweets après-midi Presto échoués — $DATE" \
-            --body "Le workflow afternoon a échoué. Voir : $GITHUB_SERVER_URL/$GITHUB_REPOSITORY/actions/runs/$GITHUB_RUN_ID" \
-            --label "incident" 2>/dev/null || echo "::error::Tweets après-midi échoués pour $DATE"
+            --title "⚠️ Tweet de midi Presto échoué — $DATE" \
+            --body "Le workflow midi a échoué. Voir : $GITHUB_SERVER_URL/$GITHUB_REPOSITORY/actions/runs/$GITHUB_RUN_ID" \
+            --label "incident" 2>/dev/null || echo "::error::Tweet de midi échoué pour $DATE"
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}

@@ -1,0 +1,63 @@
+name: Presto — tweet du soir (récap du jour)
+
+# Génère le tweet de FIN D'APRÈS-MIDI À PARTIR du thread du matin + un refetch
+# des feeds couvrant la journée. Tourne à 20h30 UTC (16h30 EDT) : assez tard pour
+# capter l'actu de la journée (11h-17h), ~1h avant le post de 17h30 EDT fait par
+# le worker Cloudflare. Skip proprement si rien de neuf depuis le matin (aucun
+# fichier écrit → le worker fait un 404 et saute le post).
+on:
+  schedule:
+    - cron: '30 20 * * *'    # 16h30 EDT (UTC-4)
+  workflow_dispatch:          # bouton Run manuel (fallback)
+
+permissions:
+  contents: write
+
+jobs:
+  evening-tweet:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+          cache: pip
+
+      - run: pip install -r requirements.txt
+
+      - name: Générer le tweet du soir
+        run: |
+          DATE=$(date +%Y-%m-%d)
+          echo "DATE=$DATE" >> $GITHUB_ENV
+          if [ ! -f "data/tweets/$DATE.json" ]; then
+            echo "::warning::Pas de thread du matin pour $DATE. Skip soir."
+            exit 0
+          fi
+          python tools/afternoon_tweets.py --date "$DATE" --only soir
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          CLAUDE_MODEL_AFTERNOON: claude-haiku-4-5-20251001
+
+      - name: Sauvegarder le tweet du soir
+        run: |
+          git config user.name "Presto Bot"
+          git config user.email "presto-bot@noreply"
+          git add data/tweets/$DATE-soir.json 2>/dev/null || true
+          git diff --cached --quiet || git commit -m "tweet soir: $DATE [skip ci]"
+          git pull --rebase origin main
+          git push
+
+      - name: Alerte si échec
+        if: failure()
+        run: |
+          gh issue create \
+            --title "⚠️ Tweet du soir Presto échoué — $DATE" \
+            --body "Le workflow evening a échoué. Voir : $GITHUB_SERVER_URL/$GITHUB_REPOSITORY/actions/runs/$GITHUB_RUN_ID" \
+            --label "incident" 2>/dev/null || echo "::error::Tweet du soir échoué pour $DATE"
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
