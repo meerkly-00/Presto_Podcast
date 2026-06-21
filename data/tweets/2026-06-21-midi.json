@@ -1,0 +1,14 @@
+{
+  "date": "2026-06-21",
+  "kind": "poll",
+  "text": "Ce matin → L'Iran et Washington négocient en Suisse. Le VP Vance qualifie les pourparlers d'« historiques ». Pendant ce temps, Téhéran maintient sa fermeture du détroit d'Ormuz.\n\nCes négociations peuvent-elles déboucher sur un accord durable?",
+  "poll": {
+    "options": [
+      "Oui, les deux côtés ont",
+      "Non, les tensions",
+      "Trop tôt pour dire",
+      "Pas d'opinion"
+    ],
+    "duration_minutes": 1440
+  }
+}
