@@ -1,105 +1,73 @@
 ```xml
 <script>
-  <intro>Bonjour, on est le lundi 22 juin 2026. Voici votre Presto en environ 17 minutes. Au menu ce matin : les pourparlers américano-iraniens en Suisse, l'élection présidentielle en Colombie, la situation en Ukraine, la démission annoncée de Keir Starmer au Royaume-Uni, l'achat canadien d'un radar arctique, les inondations dans le Grand Montréal, les résultats à venir pour Couche-Tard et BlackBerry, la tech avec Polymarket et la Chine dans l'IA, et le sport avec la transaction Brady Tkachuk.</intro>
+  <intro>Bonjour, on est le lundi 22 juin 2026. Voici votre Presto en environ 17 minutes. Au menu ce matin : les pourparlers irano-américains en Suisse et le détroit d'Ormuz, la démission de Keir Starmer au Royaume-Uni, l'élection en Colombie, la nomination à la Cour suprême du Canada, l'inflation à 3,2 % au Canada, le décès d'Alan Greenspan, SpaceX en bourse, la tech avec Anthropic et WhatsApp, et un mot sur le sport.</intro>
 
   <chapitre titre="International">
-On commence par l'international, avec le dossier qui domine l'actualité mondiale ce matin : les négociations entre les États-Unis et l'Iran en Suisse.
+On commence par le dossier qui continue de dominer l'actualité mondiale : les négociations entre les États-Unis et l'Iran. Selon BBC World, l'Associated Press et CBC, la première ronde de discussions s'est terminée lundi en Suisse, à Bürgenstock, et le vice-président américain JD Vance a qualifié le résultat de positif. En anglais, je le cite : "good foundation for a successful final deal." Fin de citation. Radio-Canada rapporte également que Vance a déclaré que des bases très solides ont été jetées pour un accord final, et que l'Iran accepterait le retour des inspecteurs de l'Agence internationale de l'énergie atomique, l'AIEA, sur son territoire.
 
-La première journée de pourparlers à Bürgenstock, dans les Alpes suisses, s'est terminée dimanche, et les médiateurs pakistanais et qatari parlent de progrès. Selon Radio-Canada et Al Jazeera, les délégations américaine et iranienne se sont entendues sur une feuille de route visant à parvenir à un accord définitif dans un délai de 60 jours. Les deux parties ont aussi convenu de lancer des discussions techniques dès cette semaine.
+L'Associated Press précise que les négociations se sont terminées, mais que des discussions techniques se poursuivront. L'agence ajoute que des menaces formulées par le président américain Donald Trump en cours de négociations ont introduit des tensions dans le processus.
 
-Les médiateurs du Qatar et du Pakistan ont publié un communiqué conjoint saluant ce qu'ils appellent des progrès majeurs. Le ministre iranien des Affaires étrangères, Abbas Araghchi, a écrit sur X que la médiation avait permis des avancées importantes pour mettre un terme à la guerre au Liban.
+Un dossier connexe retient l'attention : le statut du détroit d'Ormuz. CBC rapporte que les récits américain et iranien se contredisent. Washington affirme que le détroit reste ouvert à la navigation commerciale, alors que Téhéran dit qu'il a été refermé. Ce passage stratégique est central pour les exportations pétrolières mondiales, et cette contradiction entretient l'incertitude sur les marchés.
 
-Radio-Canada précise que les négociateurs se sont mis d'accord sur deux points concrets : des mécanismes pour faire cesser les affrontements au Liban, et la sécurisation du détroit d'Ormuz. Ce dernier point reste sensible. CBC rapporte que les positions américaine et iranienne sur le détroit divergent publiquement : Washington affirme que le détroit reste ouvert à la navigation commerciale, alors que Téhéran dit l'avoir refermé.
+Du côté de la relation américano-israélienne, le National Post rapporte qu'un balado du journal, enregistré les 18 et 19 juin, présente des analyses d'anciens responsables israéliens selon lesquels le rapprochement américano-iranien affaiblit l'alliance entre Washington et Jérusalem. L'un d'eux, Eylon Levy, ancien porte-parole du gouvernement israélien, soutient que l'accord permet à Téhéran de creuser un fossé entre les deux pays. Un autre analyste, Danny Citrinowicz, ancien responsable du renseignement israélien et maintenant affilié à l'Atlantic Council, estime que l'opération américano-israélienne était mal conçue dès le départ. Ces points de vue représentent une lecture critique de la démarche américaine. Le gouvernement américain, de son côté, défend l'approche diplomatique en invoquant un objectif de paix durable.
 
-Ces pourparlers ne se sont pas déroulés sans friction. L'Associated Press rapporte que des déclarations de Donald Trump ont secoué les discussions en cours. CBS précise que le vice-président JD Vance, qui menait la délégation américaine, a néanmoins dit voir l'occasion de, je le cite : "turn over a new leaf." Fin de citation. Al Jazeera titre ce matin que ces 60 jours seront, selon ses sources, "really hard."
+On reste à l'international avec le Royaume-Uni, où une nouvelle politique majeure s'est produite ce lundi matin. Le premier ministre britannique Keir Starmer a annoncé sa démission. Radio-Canada, le Devoir, l'Associated Press et Reuters confirment tous l'information. Radio-Canada rapporte que Starmer était tenu responsable de la déroute de son Parti travailliste aux élections locales du 7 mai dernier. Le Devoir précise que son principal rival au sein du parti, Andy Burnham, est en position de force pour lui succéder. Reuters contextualise : si cette succession se confirme, le Royaume-Uni aura eu sept premiers ministres en une décennie.
 
-La question de l'influence israélienne plane aussi sur le dossier. The Economist pose la question ce matin : est-ce qu'Israël pourrait torpiller un accord américano-iranien, au risque de se mettre en confrontation directe avec son principal allié ?
+On passe à la Colombie. CBC, BBC World et CBC World confirment qu'Abelardo De La Espriella a remporté l'élection présidentielle de dimanche lors d'un second tour serré. Son rival, Iván Cepeda, a contesté le caractère définitif du décompte préliminaire, affirmant que les résultats ne sont pas encore officiels ni contraignants. De La Espriella a mené une campagne axée sur l'ordre public et la lutte contre le crime et la drogue. BBC World rapporte qu'il a bénéficié d'un appui public du président américain Donald Trump. CBC le décrit comme étant caractérisé par ses critiques comme étant d'extrême droite. Ce résultat s'inscrit, selon CBC, dans une tendance au virage vers la droite dans plusieurs pays d'Amérique latine.
 
-Du côté des marchés, la progression des pourparlers a eu des effets immédiats. Reuters rapporte que le prix du pétrole a baissé dimanche, et que les marchés boursiers asiatiques ont progressé, en réaction aux signaux positifs en provenance de Bürgenstock. On y reviendra dans le chapitre économie.
-
-En parallèle, on suit la situation en Ukraine. BBC World rapporte qu'une concentration de troupes russes menace Kostiantynivka, une ville dans l'est du pays. Selon la BBC, si cette ville tombait, les forces russes pourraient avancer vers les derniers bastions ukrainiens dans le Donbas. L'Ukraine a par ailleurs averti le Bélarus de ce qu'elle appelle des "conséquences" liées à la fourniture d'équipements de drones, selon le Financial Times.
-
-Ailleurs, au Royaume-Uni, un changement de gouvernement se profile. Le National Post et Reuters rapportent que des alliés de Keir Starmer s'attendent à ce qu'il annonce un calendrier pour son départ comme premier ministre dans les prochains jours. Ce serait le septième premier ministre britannique en dix ans. Selon le National Post, Andy Burnham est évoqué comme successeur potentiel.
-
-Enfin, un fait divers notable en Australie. BBC World rapporte que la police australienne a saisi 2,7 tonnes de cocaïne après une descente dans un bunker souterrain dans l'ouest de Sydney. La valeur estimée de la saisie est de 816 millions de dollars australiens. Il s'agirait de la plus grande saisie de cocaïne de l'histoire du pays.
-
-Et aux Philippines, Reuters rapporte que le président Marcos a ordonné une enquête après une fusillade dans une école qui a fait trois morts.
-  </chapitre>
-
-  <chapitre titre="International — Colombie">
-On reste à l'international, avec un résultat électoral majeur : la Colombie a un nouveau président.
-
-Selon Al Jazeera, Radio-Canada, BBC World et CBC, l'avocat d'extrême droite Abelardo De La Espriella a remporté l'élection présidentielle colombienne dimanche, lors d'un deuxième tour serré. Les résultats préliminaires officiels lui donnent 49,7 % des voix, selon Radio-Canada.
-
-De La Espriella avait obtenu l'appui de Donald Trump. CBC rapporte qu'il a fait campagne sur des promesses de répression du crime organisé et de redressement de l'économie.
-
-Son adversaire de gauche, Iván Cepeda, conteste. BBC World rapporte que Cepeda a déclaré que le décompte préliminaire n'était, je le cite : "not yet official or binding." Fin de citation. La situation reste donc à surveiller du côté de la validation officielle des résultats.
+Un dernier élément sur la scène internationale : Al Jazeera rapporte que la Chine a ajouté dix entreprises américaines à sa liste de contrôle des exportations, dont une entreprise minière active dans les terres rares. Cette décision intervient après que le Pentagone a inscrit des entreprises chinoises majeures, dont Alibaba et Baidu, sur sa propre liste noire. Les échanges de mesures restrictives entre Washington et Pékin se poursuivent donc sur le terrain des ressources stratégiques et des technologies.
   </chapitre>
 
   <chapitre titre="Politique canadienne">
 On passe à la politique canadienne, avec deux dossiers ce matin.
 
-D'abord, la défense de l'Arctique. Radio-Canada, La Presse et CBC confirment que le Canada et l'Australie ont signé un accord permettant à Ottawa d'acheter un système de radar transhorizon à haute fréquence à l'entreprise BAE Systems Australia. Ce type de radar permet une surveillance à très longue distance, ce qui est pertinent pour la surveillance de l'Arctique.
+D'abord, une nomination à la Cour suprême du Canada. Le National Post rapporte que le premier ministre Mark Carney a annoncé lundi matin la nomination du juge en chef Glenn Joyal, de la Cour du Banc du Roi du Manitoba, comme nouveau membre de la Cour suprême. C'est une nomination qui comble un siège vacant et qui provient de l'Ouest canadien.
 
-Radio-Canada chiffre la transaction à près de 2,5 milliards de dollars canadiens. Reuters, de son côté, indique 1,7 milliard de dollars américains. Les deux chiffres correspondent approximativement selon le taux de change actuel. CBC qualifie cet accord de record en matière de vente de technologie militaire australienne à l'étranger.
+Deuxième dossier : le train à grande vitesse. CBC rapporte que le gouvernement libéral étudie une modification importante du tracé pour le projet de train à haute vitesse Alto, qui relierait Québec à Toronto. Selon des informations que CBC dit avoir confirmées, Ottawa envisage de déplacer le corridor vers le sud, le long de la rive du lac Ontario, de manière à inclure un arrêt à Kingston, en Ontario. Ce changement de tracé constituerait un virage important pour un projet déjà en cours de planification.
 
-Cette acquisition s'inscrit dans un contexte de pression accrue sur le Canada pour renforcer sa présence dans l'Arctique et respecter ses engagements envers l'OTAN.
+Un troisième élément, plus court : le National Post rapporte que les deux agences de renseignement canadiennes ont fait marche arrière sur leur décision initiale d'exclure leurs employés de première ligne du programme fédéral de retraite anticipée. Ces employés pourront désormais soumettre des demandes, qui seront étudiées au cas par cas.
 
-Deuxième dossier : l'incendie de forêt près de Lytton, en Colombie-Britannique. La Presse rapporte que la progression de l'incendie Saw Creek s'est éloignée des zones habitées dimanche, et que les conditions météorologiques ont facilité la lutte contre le brasier. Les opérations se poursuivent. On continue de suivre la situation.
-
-Un troisième point, bref : en Alberta, CBC rapporte que la Ville d'Edmonton et plusieurs municipalités environnantes ont demandé dimanche à leurs résidents d'éviter les douches, les lessives et la chasse d'eau, après que de fortes pluies ont poussé les systèmes d'eaux usées à leur limite de capacité.
-  </chapitre>
-
-  <chapitre titre="Actualité québécoise">
-Du côté du Québec, deux dossiers ce matin.
-
-D'abord, les inondations dans le Grand Montréal. Le Journal de Montréal rapporte qu'environ 300 maisons ont été inondées dans la région après les pluies diluviennes de samedi soir. Presto avait couvert dimanche les inondations à Dollard-des-Ormeaux et dans l'arrondissement de Pierrefonds-Roxboro. L'ampleur totale semble donc plus importante qu'estimé initialement.
-
-Deuxième dossier : la natalité. Radio-Canada rapporte que le Québec cherche des solutions face à ce que la diffuseur qualifie d'un creux historique du taux de natalité dans les dernières années. L'article ne précise pas quelles mesures sont à l'étude, mais le dossier s'inscrit dans un débat plus large sur les politiques familiales et l'immigration.
-
-Et en marge : La Presse rapporte que le corps du kayakiste disparu mardi dans la rivière Chaudière a été retrouvé dimanche à Lévis, selon la Sûreté du Québec.
+Un quatrième point : Global News rapporte que Metrolinx, l'agence de transport en commun de la région de Toronto, a annoncé une radiation comptable de 504 millions de dollars canadiens liée à des travaux de signalisation sur le corridor ferroviaire Union, entamés en 2013 et devenus inutilisables dans le cadre de la planification actuelle. Cette somme figure dans le rapport annuel de l'organisme.
   </chapitre>
 
   <chapitre titre="Économie et marchés">
 On passe à l'économie et aux marchés.
 
-Le dossier principal ce matin est l'effet des pourparlers irano-américains sur les prix des matières premières et sur les marchés. Reuters rapporte que le prix du pétrole a baissé après la conclusion des premières discussions en Suisse, les opérateurs anticipant une possible levée des restrictions sur les exportations iraniennes de pétrole et de produits pétrochimiques. Radio-Canada précise que ces exportations ne sont désormais plus restreintes dans le cadre de l'accord préliminaire. Parallèlement, les marchés boursiers asiatiques ont progressé dimanche soir selon Reuters, en réaction aux signaux positifs.
+Le chiffre de la journée vient de Statistique Canada : l'inflation a atteint 3,2 % en mai au Canada, en hausse par rapport à 2,8 % en avril. CBC rapporte que les prix de l'essence ont été le principal facteur à la hausse, et que le coût des fruits et légumes frais a également progressé, poussant l'inflation alimentaire vers le haut. Radio-Canada confirme ces mêmes données. Ce niveau dépasse la cible de 2 % de la Banque du Canada, un point dont les décisions de politique monétaire futures tiendront vraisemblablement compte.
 
-On regarde maintenant vers la semaine. BNN Bloomberg signale que les résultats trimestriels d'Alimentation Couche-Tard et de BlackBerry sont attendus cette semaine. Deux entreprises canadiennes d'envergure à surveiller de près. On y reviendra dans le briefing lorsque les chiffres seront disponibles.
+Sur les marchés, Reuters Business rapporte que les actions ont été stables et le pétrole en baisse en réaction aux progrès des pourparlers irano-américains, les opérateurs anticipant une possible augmentation de l'offre pétrolière si un accord est conclu. Le Wall Street Journal rapporte toutefois que les rendements obligataires américains et le dollar ont progressé, le journal décrivant les négociations comme avançant difficilement.
 
-Du côté des entreprises, le Financial Times rapporte que le groupe de matériaux de construction CRH serait en négociation avancée pour acquérir Arcosa, dans ce qui serait la plus grande transaction de son histoire.
+Une nouvelle structurante du côté de SpaceX. Reuters rapporte que l'entreprise d'Elon Musk a lancé une émission de dette pour lever des capitaux et qu'elle affiche 100,8 milliards de dollars américains en trésorerie. Reuters rapporte également que la première semaine de SpaceX comme entreprise cotée en bourse a suscité un vif intérêt sur les marchés.
 
-Sur les marchés émergents, Bloomberg publie une analyse soulignant une hausse des profits dans ces marchés, ce que certains stratèges présentent comme un argument en faveur d'un cycle haussier prolongé.
+Le Financial Times rapporte que le groupe de matériaux de construction CRH a conclu une acquisition d'Arcosa pour 8,5 milliards de dollars américains, ce que le journal décrit comme une transaction record pour ce secteur.
 
-Enfin, The Economist publie un article sur ce qu'il appelle les "zombie unicorns" de la Silicon Valley : des entreprises technologiques évaluées à plus d'un milliard de dollars sur le papier, mais dont les perspectives de sortie en Bourse ou de rachat sont devenues très minces après des années de valorisations élevées. Un sujet à suivre alors que le marché des introductions en Bourse reste sélectif.
+Le Wall Street Journal publie une entrevue exclusive avec Satya Nadella, le chef de la direction de Microsoft. Nadella soutient que les grandes entreprises d'intelligence artificielle ne devraient pas accaparer les gains économiques générés par cette technologie, un propos qui intervient dans un débat plus large sur la concentration du pouvoir dans le secteur de l'IA.
+
+Enfin, une note nécrologique sur la scène financière mondiale : Alan Greenspan, l'ancien président de la Réserve fédérale américaine, est décédé lundi à l'âge de 100 ans. L'Associated Press et The Economist confirment son décès. Greenspan a dirigé la Fed de 1987 à 2006.
   </chapitre>
 
   <chapitre titre="Tech">
-Un mot sur la tech, avec trois dossiers ce matin.
+Un mot sur la tech, avec quatre dossiers ce matin.
 
-Premier dossier : la Chine et l'intelligence artificielle. The Economist publie une analyse ce matin sur ce qu'il décrit comme un nouveau moment clé pour l'IA chinoise. Selon le magazine, un nouveau modèle chinois aurait réduit l'écart avec les États-Unis de façon notable. L'article ne nomme pas le modèle spécifiquement, mais le titre est direct : "La Chine vit un autre moment IA." Le magazine souligne que cet écart qui se rétrécit pose des questions stratégiques autant qu'économiques.
+Premier dossier : Anthropic et un interdit d'exportation américain. Ars Technica rapporte qu'en analysant des données du Financial Times, on constate qu'Anthropic a évoqué les risques liés à l'intelligence artificielle cinq fois plus souvent que son rival OpenAI cette année. L'article indique que Washington a récemment interdit aux ressortissants étrangers d'accéder aux derniers modèles d'Anthropic, baptisés Mythos et Fable. Certains observateurs du milieu technologique font un lien entre les mises en garde répétées d'Anthropic sur les dangers de ses propres outils et cette décision gouvernementale. Ars Technica décrit Anthropic comme un groupe évalué à 965 milliards de dollars américains.
 
-Deuxième dossier : Polymarket et les vidéos trompeuses. TechCrunch et The Verge rapportent tous deux qu'une enquête du Wall Street Journal a révélé que Polymarket, la plateforme de paris sur les marchés prédictifs, aurait payé des créateurs de contenu pour publier des vidéos les montrant en train de placer des paris et de célébrer des gains qui n'étaient pas réels. The Verge précise que parmi les plus de 1 100 clips recensés par le Journal, certains étaient filmés sur des copies quasi parfaites du site Polymarket, avec de subtiles différences dans l'URL. Les créateurs identifiés ont confirmé avoir été payés pour ces publications sans le divulguer dans leurs vidéos.
+Deuxième dossier : un changement de direction chez WhatsApp. The Verge rapporte que Will Cathcart, qui dirigeait WhatsApp depuis 2019, quitte ses fonctions. Mark Zuckerberg, le chef de la direction de Meta, a annoncé que Kunal Shah, le fondateur d'une startup indienne de technologie financière appelée Cred, prendra la tête de l'application. The Verge précise, en citant Bloomberg, que Meta investit 900 millions de dollars américains dans Cred en échange d'une participation de 20 %.
 
-Troisième dossier : les robotaxis et la Chine. TechCrunch publie cette semaine une analyse de son équipe mobilité sur un nouveau classement des robotaxis à l'échelle mondiale. Selon ce classement, la Chine domine le secteur. L'article ne précise pas les critères de classement, mais la tendance est cohérente avec les développements que Presto a couverts ces dernières semaines dans ce secteur.
+Troisième dossier : Instagram et la télévision. TechCrunch rapporte qu'Instagram compte étendre son application de télévision avec des formats plus longs, des séries épisodiques et du contenu en direct, dans une stratégie qui vise directement des plateformes comme Netflix et Amazon Prime Video.
 
-Et une note triste pour le milieu du jeu vidéo. TechCrunch rapporte que Claude Guillemot, l'un des cinq frères fondateurs d'Ubisoft, est décédé à l'âge de 69 ans dans un accident d'avion. Ubisoft est l'une des plus grandes entreprises de jeu vidéo au monde, avec des studios notamment à Montréal et à Québec.
-  </chapitre>
-
-  <chapitre titre="Politique canadienne — IA">
-Un bref dossier sur la politique fédérale en matière d'intelligence artificielle. Global News rapporte que le gouvernement canadien a déposé un projet de loi sur l'IA. Le texte inclurait des mesures pour réduire le risque que des agents conversationnels transmettent du contenu nuisible, ainsi que des protocoles d'intervention en cas de contenu lié à l'automutilation, au suicide ou à la violence.
-
-Selon Global News, des défenseurs de la sécurité numérique reconnaissent que le projet de loi constitue un premier pas, mais soutiennent que davantage de travail est nécessaire. Le texte ne prévoit pas, selon l'article, de mécanismes de surveillance indépendante robustes.
+Quatrième dossier : Lucid Motors en difficulté. TechCrunch rapporte que le nouveau chef de la direction du fabricant de voitures électriques Lucid Motors a annoncé des réductions représentant 18 % des effectifs de l'entreprise, ainsi que l'élimination d'un quart de travail à son usine de l'Arizona, afin, selon le communiqué de la direction, d'aligner les plans de production avec la demande anticipée.
   </chapitre>
 
   <chapitre titre="Sport">
-On termine avec le sport, rapidement ce matin.
+On termine avec le sport, rapidement.
 
-D'abord, une transaction majeure dans la LNH. CBC, Sportsnet et d'autres sources confirment que les Sénateurs d'Ottawa ont échangé leur capitaine, Brady Tkachuk, aux Panthers de la Floride. En retour, Ottawa reçoit quatre choix au repêchage. Brady Tkachuk rejoindra ainsi son frère Matthew Tkachuk chez les Panthers, champions en titre. Sportsnet rapporte que le directeur général des Sénateurs, Steve Staios, est attendu pour annoncer la suite de sa stratégie de reconstruction avant le 1er juillet.
+D'abord, la Coupe du monde. Sportsnet rapporte que la journée de dimanche a livré plusieurs matchs notables : une victoire convaincante de l'Espagne, une performance remarquée du gardien de but iranien, et un match nul du Cap-Vert qui maintient vivante une belle histoire dans ce tournoi. Al Jazeera indique que l'Argentine de Messi affronte l'Autriche en groupe J ce lundi. TVA Sports rapporte que les Roses ont rendu hommage à Ismaël Koné et ont terminé sur un match nul.
 
-À la Coupe du monde de soccer, Sportsnet rapporte que dimanche a été une journée marquante : l'Espagne a livré ce que le site décrit comme une performance autoritaire, et Cap-Vert a obtenu un match nul surprenant qui continue d'alimenter les discussions sur les possibles surprises du tournoi. Reuters mentionne aussi que l'Iran a partagé les points avec la Belgique, dans un match à Los Angeles où les gardiens iraniens ont été particulièrement en vue. TVA Sports rapporte par ailleurs que l'équipe du Canada féminin a rendu hommage au Québécois Ismaël Koné lors d'un match nul.
+Ensuite, la LNH. Presto avait rapporté hier la transaction entre les Sénateurs d'Ottawa et les Panthers de la Floride impliquant Brady Tkachuk. Ce matin, Sportsnet publie une analyse d'un recruteur sur l'intégration de Tkachuk à Florida, et s'interroge sur ce que le directeur général des Sénateurs, Steve Staios, peut faire pour reconstruire l'équipe d'ici le 1er juillet. Les rumeurs de transactions autour des Jets de Winnipeg sont aussi actives, selon Global News, notamment concernant le gardien Connor Hellebuyck.
+
+Enfin, les Blue Jays de Toronto. Sportsnet rapporte qu'un match reporté dimanche offre paradoxalement un avantage à l'équipe, qui évite ainsi une séquence de 16 matchs en 16 jours consécutifs.
   </chapitre>
 
-  <outro>Voilà pour ce Presto du lundi 22 juin 2026. Si ce briefing vous est utile, le meilleur coup de main que vous pouvez nous donner, c'est de le partager à une personne qui aime rester informée. Et selon votre plateforme : un abonnement sur Spotify ou Apple Podcasts, un pouce bleu et un abonnement sur YouTube, ça prend deux secondes et ça aide vraiment Presto à grandir. Sur ce, bonne journée, et à demain.</outro>
+  <outro>Voilà pour ce Presto du 22 juin 2026. Si ce briefing vous est utile, le meilleur coup de main que vous pouvez nous donner, c'est de le partager à une personne qui aime rester informée. Et selon votre plateforme : un abonnement sur Spotify ou Apple Podcasts, un pouce bleu et un abonnement sur YouTube, ça prend deux secondes et ça aide vraiment Presto à grandir. Sur ce, bonne journée, et à demain.</outro>
 </script>
 ```
