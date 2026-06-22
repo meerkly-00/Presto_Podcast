@@ -1,0 +1,14 @@
+{
+  "date": "2026-06-22",
+  "kind": "poll",
+  "text": "Ce matin → Les États-Unis et l'Iran se sont entendus sur une feuille de route pour un accord dans 60 jours.\n\n🔄 NOUVEAU : Le vice-président Vance déclare que les pourparlers en Suisse ont jeté une\n\nSelon toi, combien de temps faudra-t-il pour qu'un accord USA-Iran soit finalisé?",
+  "poll": {
+    "options": [
+      "Moins de 60 jours",
+      "Exactement dans 60 jours",
+      "Entre 60 et 120 jours",
+      "Plus de 120 jours"
+    ],
+    "duration_minutes": 1440
+  }
+}
