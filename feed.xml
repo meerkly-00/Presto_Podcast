@@ -23,6 +23,17 @@
       <link>https://www.prestopodcast.online</link>
     </image>
     <item>
+      <title>Presto — édition du 22 juin 2026</title>
+      <description>Au menu : International, International — Colombie, Politique canadienne, Actualité québécoise, Économie et marchés, Tech, Politique canadienne — IA, Sport</description>
+      <pubDate>Mon, 22 Jun 2026 08:00:59 +0000</pubDate>
+      <guid isPermaLink="false">https://github.com/meerkly-00/Presto_Podcast/releases/download/2026-06-22/2026-06-22.mp3</guid>
+      <enclosure url="https://github.com/meerkly-00/Presto_Podcast/releases/download/2026-06-22/2026-06-22.mp3" type="audio/mpeg" length="9372373"/>
+      <itunes:duration>846</itunes:duration>
+      <itunes:summary>Au menu : International, International — Colombie, Politique canadienne, Actualité québécoise, Économie et marchés, Tech, Politique canadienne — IA, Sport</itunes:summary>
+      <itunes:episode>30</itunes:episode>
+      <itunes:image href="https://www.prestopodcast.online/artwork-v2.jpg"/>
+    </item>
+    <item>
       <title>Presto — édition du 21 juin 2026</title>
       <description>Au menu : International, Actualité québécoise, Politique canadienne, Économie et marchés, Tech, Sport</description>
       <pubDate>Sun, 21 Jun 2026 08:00:56 +0000</pubDate>
@@ -86,17 +97,6 @@
       <itunes:duration>958</itunes:duration>
       <itunes:summary>Au menu : International, Économie et marchés, Tech, Actualité québécoise, Politique canadienne, Sport</itunes:summary>
       <itunes:episode>24</itunes:episode>
-      <itunes:image href="https://www.prestopodcast.online/artwork-v2.jpg"/>
-    </item>
-    <item>
-      <title>Presto — édition du 15 juin 2026</title>
-      <description>Au menu : International, Économie et marchés, Politique canadienne, Actualité québécoise, Tech, Sport</description>
-      <pubDate>Mon, 15 Jun 2026 08:00:53 +0000</pubDate>
-      <guid isPermaLink="false">https://github.com/meerkly-00/Presto_Podcast/releases/download/2026-06-15/2026-06-15.mp3</guid>
-      <enclosure url="https://github.com/meerkly-00/Presto_Podcast/releases/download/2026-06-15/2026-06-15.mp3" type="audio/mpeg" length="9034731"/>
-      <itunes:duration>845</itunes:duration>
-      <itunes:summary>Au menu : International, Économie et marchés, Politique canadienne, Actualité québécoise, Tech, Sport</itunes:summary>
-      <itunes:episode>23</itunes:episode>
       <itunes:image href="https://www.prestopodcast.online/artwork-v2.jpg"/>
     </item>
   </channel>
