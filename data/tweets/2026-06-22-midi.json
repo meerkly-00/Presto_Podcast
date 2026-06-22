@@ -1,13 +1,13 @@
 {
   "date": "2026-06-22",
   "kind": "poll",
-  "text": "Ce matin → Les États-Unis et l'Iran se sont entendus sur une feuille de route pour un accord dans 60 jours.\n\n🔄 NOUVEAU : Le vice-président Vance déclare que les pourparlers en Suisse ont jeté une\n\nSelon toi, combien de temps faudra-t-il pour qu'un accord USA-Iran soit finalisé?",
+  "text": "Ce matin → ~300 maisons inondées dans le Grand Montréal après les fortes pluies de samedi.\n\nMise à jour : Le gouvernement du Québec annonce un programme d'aide aux sinistrés.\n\nSelon toi, quel devrait être le priorité dans les jours qui viennent?",
   "poll": {
     "options": [
-      "Moins de 60 jours",
-      "Exactement dans 60 jours",
-      "Entre 60 et 120 jours",
-      "Plus de 120 jours"
+      "Aide immédiate aux",
+      "Étudier les causes des",
+      "Améliorer les",
+      "Évaluer les dégâts totaux"
     ],
     "duration_minutes": 1440
   }
