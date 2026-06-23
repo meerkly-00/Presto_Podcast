@@ -1,0 +1,14 @@
+{
+  "date": "2026-06-23",
+  "kind": "poll",
+  "text": "Ce matin → 3 morts dans une fusillade à Côte-des-Neiges. Aujourd'hui : la SDC annule les festivités de la Fête nationale prévues demain pour respecter la communauté.\n\nComment vois-tu les décisions d'annuler les rassemblements publics après un événement comme celui-ci?",
+  "poll": {
+    "options": [
+      "Nécessaire pour la",
+      "Compréhensible par",
+      "À évaluer au cas par cas",
+      "À éviter autant que"
+    ],
+    "duration_minutes": 1440
+  }
+}
