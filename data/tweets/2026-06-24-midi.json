@@ -1,0 +1,14 @@
+{
+  "date": "2026-06-24",
+  "kind": "poll",
+  "text": "Ce matin → Seth Scott Hatfield, 25 ans, identifié comme le tireur de Côte-des-Neiges.\n\nSelon toi, les perquisitions interprovinciales aident-elles à résoudre les enquêtes criminelles?",
+  "poll": {
+    "options": [
+      "Oui, elles sont",
+      "Oui, mais avec limites",
+      "Non, trop complexes",
+      "Incertain"
+    ],
+    "duration_minutes": 1440
+  }
+}
