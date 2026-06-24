@@ -1,13 +1,13 @@
 {
   "date": "2026-06-24",
   "kind": "poll",
-  "text": "Ce matin → Seth Scott Hatfield, 25 ans, identifié comme le tireur de Côte-des-Neiges.\n\nSelon toi, les perquisitions interprovinciales aident-elles à résoudre les enquêtes criminelles?",
+  "text": "Ce matin → Seth Scott Hatfield, 25 ans, identifié comme tireur de Côte-des-Neiges.\n\nNouveau : la police a mené une perquisition à haut risque en Alberta et\n\nLes opérations policières interprovinciales en matière de sécurité publique devraient-elles être coordonnées différemment?",
   "poll": {
     "options": [
-      "Oui, elles sont",
-      "Oui, mais avec limites",
-      "Non, trop complexes",
-      "Incertain"
+      "Davantage centralisées",
+      "Maintien du statu quo",
+      "Plus décentralisées",
+      "Pas d'avis"
     ],
     "duration_minutes": 1440
   }
