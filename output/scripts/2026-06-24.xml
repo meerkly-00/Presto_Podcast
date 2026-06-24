@@ -1,0 +1,95 @@
+```xml
+<script>
+  <intro>Bonjour, on est le mercredi 24 juin 2026. Voici votre Presto en environ 17 minutes. Au menu ce matin : les suites de la fusillade de Côte-des-Neiges, avec une enquête qui s'étend maintenant à l'Alberta. L'Iran et les États-Unis, où les négociations avancent mais les tensions restent vives. Une vague de chaleur meurtrière en Europe. Un rapport de l'ONU sur Gaza qui fait grand bruit. Une correction boursière liée aux actions technologiques. Et plusieurs dossiers tech à couvrir, dont des mises à pied massives chez Oracle.</intro>
+
+  <chapitre titre="Actualité québécoise">
+Commençons ici, à Montréal, avec les suites de la fusillade de lundi dans le quartier Côte-des-Neiges. Pour ceux qui n'auraient pas suivi les derniers briefings : un policier du Service de police de la Ville de Montréal, un civil et le tireur lui-même ont perdu la vie lors de cet événement survenu vers 11 h 30 dans un hôtel bordant l'autoroute Décarie.
+
+Ce mardi, les enquêteurs ont obtenu de nouveaux éléments sur l'identité du tireur. Radio-Canada et Le Devoir rapportent que le Bureau du coroner du Québec a révélé son identité : Seth Scott Hatfield, 25 ans, originaire de Lethbridge, en Alberta, et étudiant à l'Université de Lethbridge. L'enquête s'est transportée en Alberta : la police de Lethbridge a mené une perquisition à haut risque dans un quartier résidentiel de la ville, entraînant l'évacuation de plusieurs foyers avoisinants en raison de la présence possible d'armes à feu. Les autorités albertaines collaborent avec le Bureau des enquêtes indépendantes du Québec.
+
+Le Journal de Montréal rapporte que Hatfield passait inaperçu dans sa communauté étudiante. Le Devoir indique que des experts interrogés par le journal tentent d'expliquer le passage à l'acte, évoquant une idéologie qu'ils décrivent comme conservatrice et essentialiste. L'auteur aurait laissé un manifeste misogyne et violent, selon Radio-Canada.
+
+Du côté de l'arme utilisée, Le Devoir rapporte que le tireur se serait servi d'un fusil de type SKS, une arme d'origine soviétique. Le groupe PolySeSouvient plaide pour son interdiction, citant ce qu'il décrit comme l'implication répétée de cette arme dans des fusillades au Canada. Le gouvernement fédéral n'a pas encore répondu publiquement à cet appel.
+
+La Presse précise que le policier tué, Mohamed Lamine Benredouane, est le premier membre du SPVM à mourir en service depuis 24 ans. Toujours selon La Presse, il s'agissait du troisième policier mort en service en seulement deux semaines au Canada. Des experts consultés par le journal soutiennent que, malgré ce chiffre, il n'y aurait pas de tendance à la hausse de la violence dirigée contre les policiers.
+
+Radio-Canada souligne que les proches des victimes, les policiers du SPVM et le public vivent chacun un deuil et un stress distincts, que des professionnels qualifient d'événement à haute teneur traumatique.
+
+Un mot sur la solidarité : La Presse rapporte que plus de 400 000 dollars avaient été amassés sur la plateforme GoFundMe pour soutenir les familles des victimes, en début de soirée mardi.
+
+Enfin, un autre dossier du côté du Québec : La Presse rapporte qu'Amélie Lemieux, la mère des fillettes Carpentier, tuées par leur père en 2020, recevra une indemnité de la Sûreté du Québec. Le travail de la police avait été sévèrement critiqué lors d'une enquête publique sur cette affaire.
+  </chapitre>
+
+  <chapitre titre="International">
+On passe à l'international, avec trois dossiers majeurs ce matin.
+
+D'abord, l'Iran et les États-Unis. Presto suit ce dossier depuis plusieurs jours. Al Jazeera rapporte, ce mercredi, que les négociateurs des deux pays travaillent à conclure un accord final dans un délai de 60 jours, mais que des désaccords persistent sur deux points : les inspections nucléaires et le contrôle du détroit d'Ormuz.
+
+Le Congrès américain a adopté une résolution symbolique pour demander le retrait des forces américaines en Iran. Le Devoir et BBC World rapportent que le Sénat américain a approuvé cette résolution avec 50 voix pour et 48 contre. BBC World précise qu'il s'agit de la première fois que le Congrès adopte une mesure de ce type sur les pouvoirs de guerre. La résolution n'a pas force de loi, mais elle ajoute une pression politique sur la Maison-Blanche. Le National Post rapporte que le président Trump, de son côté, a indiqué que l'Iran pourrait utiliser des fonds débloqués de comptes gelés uniquement pour acheter de la nourriture et des médicaments aux États-Unis, cherchant à rassurer ceux qui s'inquiètent des négociations de paix.
+
+Toujours sur l'Ormuz : BBC World rapporte que le secrétaire d'État américain Marco Rubio a averti l'Iran qu'aucun pays ne peut percevoir de frais pour le passage de navires dans le détroit. Le Financial Times a rapporté plus tôt que la fermeture du détroit avait immobilisé près de 1 200 navires de commerce transportant pour environ 125 milliards de dollars américains de marchandises. Les Affaires rapporte que l'évacuation des quelque 11 000 marins bloqués dans le détroit a commencé. Reuters indique par ailleurs que le prix du pétrole continue de baisser, en raison des attentes d'une normalisation du trafic maritime par ce corridor stratégique.
+
+Un sondage Reuters et Ipsos publié mardi révèle que peu d'Américains estiment que la guerre contre l'Iran en valait la peine, et que la cote d'approbation de Trump atteint l'un de ses points les plus bas depuis le début de son mandat.
+
+Deuxième dossier international : Gaza. CBC et CBC World rapportent que la Commission d'enquête des Nations Unies a conclu qu'Israël avait une intention génocidaire dans la bande de Gaza, l'indicateur principal étant selon la Commission le ciblage délibéré d'enfants palestiniens. Le ministère de la Santé de Gaza indique que depuis le début du cessez-le-feu en octobre 2025, plus de 1 000 personnes sont mortes, dont 265 enfants. Al Jazeera rapporte par ailleurs que des pénuries d'insuline et de matériel médical exposent les patients diabétiques de Gaza à des risques graves, voire mortels.
+
+Troisième dossier : la vague de chaleur en Europe. Al Jazeera et BBC World rapportent qu'une vague de chaleur a balayé une grande partie du continent, déclenchant les alertes rouge de niveau maximal en Grande-Bretagne et en France. BBC World précise que 40 personnes se sont noyées en France depuis jeudi dernier, selon le premier ministre Sébastien Lecornu. L'Associated Press rapporte également que des pannes ont perturbé le réseau ferroviaire allemand en raison d'un problème dans un système de communication.
+
+Un dernier élément sur la scène internationale : Le Devoir rapporte que Kim Jong-un a annoncé que des navires militaires nord-coréens sont en cours d'équipement avec des armes nucléaires, et qu'il souhaite construire des bâtiments militaires de 10 000 tonnes.
+  </chapitre>
+
+  <chapitre titre="Politique canadienne">
+On passe à la politique canadienne, avec deux dossiers ce matin.
+
+Premier dossier : l'Arctique. Radio-Canada et La Presse rapportent qu'Ottawa s'apprête à annoncer mercredi qu'il entamera le processus visant à désigner deux projets d'infrastructure clés dans l'Arctique comme projets d'intérêt national, en vertu de la nouvelle loi fédérale. Parmi les projets mentionnés : la route de la vallée du Mackenzie, dans les Territoires du Nord-Ouest. Ce mécanisme de désignation, prévu dans la loi fédérale pour accélérer les grands projets, serait utilisé pour la première fois.
+
+Deuxième dossier : en Colombie-Britannique, Global News rapporte que le gouvernement provincial a élargi son initiative sur les contrevenants chroniques. Les nouveaux centres pourront suivre jusqu'à 420 individus à haut risque et les connecter à des services de logement, de santé mentale et de traitement des dépendances. L'initiative est généralement bien reçue, mais des intervenants soulèvent des préoccupations sur les capacités d'hébergement et les ressources disponibles pour assurer un suivi réel.
+  </chapitre>
+
+  <chapitre titre="Économie et marchés">
+On passe à l'économie et aux marchés.
+
+Le tableau boursier d'abord. Reuters Business, l'Associated Press et BNN Bloomberg rapportent que les grandes capitalisations technologiques ont entraîné les indices américains en recul mardi. Plusieurs sources confirment des baisses sur le S&amp;P 500 et le Nasdaq. BNN Bloomberg soulève la question de fond : s'agit-il d'une simple prise de profits sur les actions liées à l'intelligence artificielle, ou d'une inquiétude plus profonde sur les valorisations et les dépenses en IA ? Le Wall Street Journal rapporte que les investisseurs s'interrogent sur les niveaux de dépenses des grandes entreprises technologiques dans l'IA et sur les valorisations actuelles. En Asie, Bloomberg et Reuters rapportent que les marchés asiatiques subissaient des pressions supplémentaires ce mercredi matin, dans la foulée de ce recul.
+
+Un cas particulier : Reuters Business rapporte que l'indice coréen KOSPI a reculé de près de 10 % après que le régulateur financier sud-coréen ait mis en garde contre les fonds négociés en bourse à effet de levier, ce qu'on appelle les ETF à levier. C'est un mouvement notable sur les marchés asiatiques.
+
+Du côté de l'économie réelle américaine, le Financial Times rapporte que les emplois manufacturiers aux États-Unis reculent à leur rythme le plus rapide depuis la pandémie. Le contexte : les tensions commerciales persistantes, les tarifs douaniers et la réorganisation des chaînes d'approvisionnement pèsent sur le secteur.
+
+Également aux États-Unis, Reuters Business rapporte que l'administration américaine a annoncé 17,5 milliards de dollars américains en prêts pour soutenir la chaîne d'approvisionnement du secteur nucléaire civil.
+
+Du côté canadien, Les Affaires rapporte que le gouverneur de la Banque du Canada a mis en garde contre les déséquilibres mondiaux, sans que les détails précis de ses propos ne soient disponibles dans ce qui a été publié.
+
+Une bonne nouvelle du côté des entreprises québécoises : Les Affaires rapporte que les marges bénéficiaires et le titre boursier de Couche-Tard ont atteint un sommet.
+
+Enfin, dans les marchés obligataires, le Financial Times rapporte que SpaceX sollicite des investisseurs pour une émission d'obligations de 25 milliards de dollars américains.
+  </chapitre>
+
+  <chapitre titre="Tech">
+Un mot sur la tech, avec plusieurs dossiers importants ce matin.
+
+D'abord, Oracle et les mises à pied liées à l'IA. Ars Technica rapporte qu'Oracle a déclaré dans un dépôt réglementaire auprès de la Securities and Exchange Commission avoir réduit ses effectifs de 21 000 personnes au cours de la dernière année fiscale, soit une baisse de 12,9 %, passant de 162 000 à 141 000 employés. La société indique dans son dépôt, je le cite en anglais : "the adoption and deployment of AI technologies across our operations have resulted, and may continue to result, in reductions to our workforce." Fin de citation. Ces compressions accompagnent des investissements massifs dans l'infrastructure d'intelligence artificielle, financés en partie par endettement.
+
+Deuxième dossier : la cryptographie post-quantique. Ars Technica rapporte que la Maison-Blanche a publié un décret exigeant que les systèmes gouvernementaux à haute valeur complètent la transition vers des systèmes de chiffrement résistants aux ordinateurs quantiques d'ici le 31 décembre 2030, et vers des signatures numériques sécurisées d'ici le 31 décembre 2031. Ce calendrier représente une accélération d'environ cinq ans par rapport aux délais précédents. La raison invoquée : de nouvelles recherches indiquent que le coût et les ressources nécessaires pour construire un ordinateur quantique capable de briser les systèmes de chiffrement actuels sont sensiblement moins élevés que ce que l'on pensait jusqu'ici. Des entreprises comme Google et Cloudflare ont déjà annoncé qu'elles devanceraient ces délais.
+
+Troisième dossier : les agences de cybersécurité des Five Eyes, soit les États-Unis, le Royaume-Uni, le Canada, l'Australie et la Nouvelle-Zélande, ont publié conjointement un avertissement, selon CBC World. Elles soutiennent que les nouveaux modèles d'intelligence artificielle sont sur le point de renforcer les capacités offensives des pirates informatiques, et que des mesures urgentes s'imposent pour y faire face.
+
+Quatrième dossier : le site américain climate.gov, qui centralisait des décennies de données et de ressources sur les changements climatiques, a été mis hors ligne par l'administration Trump en invoquant l'exécution d'un décret sur ce qu'elle appelle la science de référence. Ars Technica rapporte que des bénévoles extérieurs au gouvernement ont relancé le site sous forme à but non lucratif.
+
+Enfin, une acquisition dans le secteur de l'IA : TechCrunch rapporte que la plateforme de messagerie Superhuman a acquis GPTZero, une startup spécialisée dans la détection de contenu généré par intelligence artificielle.
+  </chapitre>
+
+  <chapitre titre="Sport">
+On termine avec le sport, rapidement.
+
+D'abord, le hockey. Sportsnet rapporte que la journée de mardi a été particulièrement active sur le marché des transactions dans la LNH. Parmi les mouvements notables : Bowen Byram, William Eklund et Jordan Kyrou ont tous changé d'équipe. Sportsnet précise qu'Eklund et Brady Tkachuk ont essentiellement été échangés l'un pour l'autre, Eklund se retrouvant à Ottawa, ce que le même Sportsnet qualifie de pari logique pour les Sénateurs. Par ailleurs, les Flames de Calgary ont acquis Simon Nemec, un jeune défenseur, en capitalisant sur sa frustration avec son club précédent et sur le capital de choix au repêchage dont dispose Calgary.
+
+Du côté du baseball, Sportsnet rapporte que les Blue Jays de Toronto ont perdu en prolongation mardi, dans le match marquant le retour au jeu du lanceur Shane Bieber.
+
+En basketball, Global News rapporte que les Raptors de Toronto ont sélectionné un joueur du nom de Graves au 19e rang au total lors du repêchage de la NBA.
+
+Et du côté du soccer, Radio-Canada rapporte que le Canada peut terminer premier de son groupe à la Coupe du monde masculine avec un seul point lors de son prochain match contre la Suisse.
+  </chapitre>
+
+  <outro>Voilà pour ce Presto du mercredi 24 juin 2026. Si ce briefing vous est utile, le meilleur coup de main que vous pouvez nous donner, c'est de le partager à une personne qui aime rester informée. Et selon votre plateforme : un abonnement sur Spotify ou Apple Podcasts, un pouce bleu et un abonnement sur YouTube, ça prend deux secondes et ça aide vraiment Presto à grandir. Sur ce, bonne journée, et à demain.</outro>
+</script>
+```
