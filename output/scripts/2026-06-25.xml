@@ -1,0 +1,89 @@
+```xml
+<script>
+  <intro>Bonjour, on est le jeudi 25 juin 2026. Voici votre Presto en environ 17 minutes. Au menu ce matin : un séisme majeur au Venezuela, la guerre en Iran et ses turbulences à Washington, les marchés et le pétrole, la tech avec OpenAI et Broadcom, et le Canada en huitièmes de finale de la Coupe du monde.</intro>
+
+  <chapitre titre="International">
+On commence par un événement majeur survenu cette nuit. Deux séismes puissants ont frappé le Venezuela mercredi, causant des destructions importantes dans la capitale Caracas et dans les régions environnantes. Selon Al Jazeera, CBC et Global News, les deux secousses ont eu des magnitudes de 7,2 et 7,5 sur l'échelle de Richter, et elles se sont produites à quelques secondes d'intervalle. Des bâtiments se sont effondrés. Des évacuations ont eu lieu dans des villes situées jusqu'à 1 700 kilomètres du Venezuela, notamment dans l'Amazonie brésilienne.
+
+Radio-Canada rapporte que la présidente par intérim Delcy Rodriguez a déclaré l'état d'urgence tôt ce matin. Le bilan s'établit à au moins 32 morts et plus de 700 blessés, selon Rodriguez. Des équipes de recherche et de sauvetage sont à l'oeuvre pour dégager des survivants des décombres. Selon BBC World, des résidents de Caracas ont décrit la panique au moment des secousses, certains craignant que leur immeuble s'effondre sur eux.
+
+On passe maintenant à l'Iran et aux États-Unis, un dossier que Presto suit depuis plusieurs jours. La guerre entre les États-Unis et l'Iran continue de provoquer des frictions à Washington, et pas seulement avec les adversaires de Trump. Selon le National Post, le président Donald Trump et des sénateurs républicains se sont affrontés mercredi sur deux fronts distincts. D'un côté, des élus de son propre parti l'ont questionné sur sa gestion du conflit en Iran. De l'autre, Trump a annulé sans préavis la signature d'un projet de loi bipartisan sur l'accessibilité au logement.
+
+Sur le volet militaire, BBC World rapporte que Trump a demandé au Congrès une enveloppe de 87 milliards de dollars américains, principalement pour couvrir ce qu'il qualifie de coûts urgents liés à la guerre en Iran. Cette demande arrive un jour après que des législateurs ont exprimé publiquement leur opposition à l'intervention militaire. Selon BBC World, la demande budgétaire fait face à des obstacles importants au Congrès.
+
+Toujours sur ce dossier, Reuters rapporte que Trump a déclaré qu'il n'était peut-être pas possible de déterminer qui était responsable d'une frappe sur une école de filles en Iran. Cette déclaration a suscité des réactions à Washington, sans qu'une enquête formelle n'ait été annoncée.
+
+En parallèle, l'Associated Press rapporte que le "Trump whisperer" de l'OTAN, comme l'appelle l'AP, a rencontré le président en vue du sommet de l'Alliance prévu le mois prochain. L'objectif de cette rencontre était d'aplanir les tensions avant le sommet. La Presse rapporte de son côté que le premier ministre canadien Mark Carney s'est entretenu avec Trump mercredi dans ce même contexte préparatoire au sommet.
+
+On reste en Europe pour un autre dossier. BBC World rapporte qu'une vague de chaleur frappe l'Europe de l'Ouest, avec des températures records enregistrées en France, au Royaume-Uni et en Espagne. Des alertes rouges ont été émises dans plusieurs pays. En France, selon BBC World, la chaleur relance un débat de longue date sur la climatisation, que de nombreux Français et plusieurs élus considèrent encore avec méfiance pour des raisons culturelles et environnementales.
+
+Deux autres nouvelles brèves à l'international. Selon Al Jazeera, le Kenya a adopté un projet de loi controversé, deux ans après les manifestations mortelles de la génération Z qui avaient ébranlé le pays. Et l'Associated Press rapporte que la successeure désignée de Jack Kennedy à New York, Jack Schlossberg, petit-fils de JFK, a perdu sa primaire démocrate dans la 12e circonscription de Manhattan face à Micah Lasher. Schlossberg était perçu comme le favori au début de la course.
+
+Un mot sur l'Ukraine. L'Associated Press rapporte que l'armée ukrainienne affirme avoir frappé un pont ferroviaire reliant la Russie à la Crimée, dans le but d'isoler davantage la péninsule occupée par Moscou. Kyiv n'a pas fourni de détails sur l'ampleur des dommages.
+
+Enfin, sur l'Ebola. CBC rapporte que le directeur général de l'Organisation mondiale de la santé, Tedros Adhanom Ghebreyesus, a déclaré mercredi qu'il n'y avait pas lieu de paniquer concernant un cas d'Ebola détecté en France chez un médecin ayant travaillé en République démocratique du Congo. Tedros a indiqué que le risque pour le reste du monde demeurait faible.
+  </chapitre>
+
+  <chapitre titre="Politique canadienne">
+On passe à la politique canadienne. Deux dossiers ce matin.
+
+D'abord, l'appel Carney-Trump. La Presse rapporte que le premier ministre Mark Carney a parlé au téléphone avec le président américain Donald Trump mercredi, en prévision du sommet de l'OTAN qui doit avoir lieu le mois prochain. L'Associated Press décrit cet appel comme faisant partie d'une série de démarches visant à préparer Trump avant le sommet, notamment pour éviter les frictions publiques que l'Alliance a connues lors de ses derniers rassemblements. Les détails de l'échange n'ont pas été rendus publics par Ottawa ni par la Maison-Blanche.
+
+Deuxième dossier : la guerre des puces entre Washington et l'Europe, et ses implications pour le Canada. On développe ce sujet dans le chapitre Tech, mais il a aussi des ramifications diplomatiques qui méritent d'être signalées ici. TechCrunch rapporte que les États-Unis cherchent à étendre leurs restrictions sur les exportations de semi-conducteurs vers la Chine par le biais d'une loi appelée le MATCH Act, qui viserait notamment des équipements de lithographie à ultraviolets profonds fabriqués principalement par le fabricant néerlandais ASML. L'Europe résiste à ces pressions. Le Canada, qui s'aligne généralement avec Washington sur les contrôles technologiques, devra se positionner dans ce débat alors que le sommet de l'OTAN approche.
+  </chapitre>
+
+  <chapitre titre="Actualité québécoise">
+Un mot sur le Québec. La journée de mercredi était marquée par les funérailles du policier du Service de police de la Ville de Montréal, Mohamed Lamine Benredouane, tué lundi dans la fusillade à Côte-des-Neiges. Presto suit ce dossier depuis le début de la semaine. Radio-Canada et La Presse rapportent que des centaines de personnes se sont réunies mercredi soir au Centre islamique du Québec, dans l'arrondissement de Saint-Laurent, pour prier à sa mémoire. Radio-Canada le décrit comme un "martyr du devoir". La Presse rapporte que l'atmosphère était solennelle, à l'intérieur et à l'extérieur du centre, des fidèles ne pouvant entrer se recueillant à l'extérieur.
+
+Mercredi était aussi la Fête nationale, et malgré le deuil qui pesait sur certains quartiers de Montréal, les célébrations ont eu lieu. La Presse rapporte que plus de 200 artistes ont défilé rue Rachel lors du défilé de la fête nationale, dans une ambiance qui mêlait bleu et blanc aux couleurs de toutes les communautés représentées.
+
+Un autre dossier de société, qui vient du Nouveau-Brunswick mais concerne directement les droits des francophones. Le Devoir rapporte qu'un patient francophone est décédé seul aux urgences de l'hôpital Miramichi en raison d'une barrière linguistique. La commissaire aux langues officielles de la province a dénoncé ce qu'elle appelle l'"anglonormativité" de l'établissement. Ce cas illustre les tensions persistantes sur les services en français dans les provinces à majorité anglophone.
+  </chapitre>
+
+  <chapitre titre="Économie et marchés">
+On passe à l'économie et aux marchés. Deux grandes histoires ce matin : le pétrole et les actions technologiques.
+
+D'abord le pétrole. Avec la réouverture progressive du détroit d'Ormuz, après les semaines de tensions dans la région, l'offre mondiale de brut augmente rapidement. Bloomberg, Reuters Business et le Financial Times rapportent que le prix du pétrole est revenu à ses niveaux d'avant-guerre. Reuters Business indique que les marchés physiques du brut commencent à signaler une situation de suroffre à court terme, alors que des pétroliers quittent le détroit d'Ormuz en nombre croissant. Le Financial Times précise que les flux en provenance du Golfe reprennent, ce qui exerce une pression à la baisse sur les prix. C'est une inversion notable par rapport aux semaines précédentes, où les tensions autour du détroit avaient contribué à faire monter les prix.
+
+Sur les marchés boursiers, la journée de mercredi a été portée par les résultats de Micron et les prévisions de Qualcomm. Reuters rapporte que les deux entreprises ont publié des perspectives favorables sur la demande de puces liée à l'intelligence artificielle, ce qui a provoqué un mouvement de 400 milliards de dollars américains sur les actions du secteur des semi-conducteurs. Les marchés asiatiques ont progressé en réaction à ces nouvelles, selon Reuters. Le Wall Street Journal résume la séance par une formule simple : les actions montent, le pétrole recule.
+
+Toujours côté économie, le Wall Street Journal rapporte que les minutes de la Banque du Canada, rendues publiques mercredi, indiquent que la banque centrale entend éviter de sur-réagir aux pressions inflationnistes récentes. La Banque dit vouloir agir avec prudence dans son processus de décision, sans donner de signal clair sur la direction de son prochain mouvement de taux.
+
+Un mot sur la Chine. Bloomberg publie une analyse en six indicateurs sur l'affaiblissement de l'économie chinoise. L'article ne présente pas de chiffres macroéconomiques nouveaux, mais résume les tendances qui inquiètent les analystes : ralentissement de la consommation intérieure, difficultés dans l'immobilier, pressions déflationnistes. L'Économiste note aussi que de nouveaux fabricants de véhicules électriques continuent d'apparaître en Chine, même dans un contexte économique difficile, certains venant du secteur des électroménagers robotisés.
+
+Enfin, sur Alphabet. Bloomberg rapporte que l'entrée d'Alphabet au Dow Jones Industrial Average, qui vient de se concrétiser, soulève des questions sur la capacité de l'indice à refléter fidèlement l'économie réelle dans un environnement dominé par les grandes capitalisations technologiques. Le débat est méthodologique : le Dow est pondéré par le prix de l'action, ce qui peut créer des distorsions importantes avec des actions à haute valeur nominale comme Alphabet.
+  </chapitre>
+
+  <chapitre titre="Tech">
+Un mot sur la tech, avec trois dossiers importants.
+
+D'abord, OpenAI et Broadcom annoncent une puce. Selon Ars Technica, les deux entreprises ont annoncé conjointement le développement d'une puce appelée "Jalapeño", conçue spécifiquement pour l'inférence de grands modèles de langage, autrement dit pour faire tourner des modèles d'IA dans des centres de données à grande échelle. Les deux entreprises décrivent ce projet comme la première génération d'une collaboration à long terme. La puce est destinée aux grands centres de données. Cet annonce illustre la tendance des grandes entreprises d'IA à développer leur propre silicium plutôt que de dépendre exclusivement de Nvidia.
+
+Deuxième dossier : la guerre des puces entre Washington et l'Europe. TechCrunch rapporte que les États-Unis cherchent à étendre leurs restrictions sur les exportations de semi-conducteurs vers la Chine via le MATCH Act, une loi qui viserait notamment les équipements de lithographie à ultraviolets profonds fabriqués par le néerlandais ASML. Ces outils, qui datent d'environ une décennie de développement, sont encore ceux que la Chine peut acquérir à l'heure actuelle. L'Europe résiste, selon TechCrunch, qui précise que le PDG d'ASML, Christophe Fouquet, avait averti en mai que les nouvelles restrictions américaines affecteraient des équipements de génération précédente. Le bras de fer entre Washington et ses alliés sur le contrôle des exportations technologiques n'est pas réglé.
+
+Troisième dossier : Qualcomm achète Modular. Reuters Business et Bloomberg rapportent que Qualcomm a annoncé l'acquisition de la startup Modular pour environ 3,9 à 4 milliards de dollars américains selon les sources. Modular développe des logiciels pour l'IA, et Qualcomm dit vouloir renforcer sa position dans ce secteur. C'est une acquisition notable dans un contexte où plusieurs grands fabricants de puces cherchent à intégrer des couches logicielles à leur offre matérielle.
+
+Un mot sur Cerebras. TechCrunch rapporte que l'action de Cerebras, fabricant de puces pour l'IA récemment introduit en Bourse, a reculé après la publication de ses premiers résultats financiers en tant que société cotée. La raison : la société a présenté des perspectives de marge brute plus étroites dans son activité principale, ce qui a inquiété les investisseurs. Le PDG a dit que ses propos sur les marges avaient été mal interprétés.
+
+Enfin, une note sur Grand Theft Auto VI. Ars Technica rapporte que les précommandes du jeu très attendu s'ouvrent cette semaine à un prix de 80 dollars américains au lancement, soit 10 dollars de plus que les titres à grande diffusion de la génération précédente. Ars Technica note aussi que la version physique du jeu ne contiendra pas de disque, seulement un code de téléchargement dans une boîte.
+  </chapitre>
+
+  <chapitre titre="Crypto">
+Un mot rapide sur le Bitcoin. Le Financial Times rapporte que Bitcoin a atteint un creux sur 20 mois mercredi, dans un contexte de sentiment général négatif sur les marchés des actifs numériques. Aucune décision réglementaire ni événement institutionnel majeur n'est associé à ce mouvement dans les sources disponibles ce matin.
+  </chapitre>
+
+  <chapitre titre="Sport">
+On termine avec le sport, et c'est une belle nouvelle pour le Canada.
+
+D'abord, la Coupe du monde. CBC rapporte que le Canada a terminé deuxième du Groupe B et s'est qualifié pour les huitièmes de finale de la Coupe du monde masculine de soccer, une première dans l'histoire du pays. L'équipe se rendra à Los Angeles pour un match du 32e de finale dimanche. Radio-Canada décrit cette qualification comme un mélange de douceur et d'amertume pour la sélection de Jesse Marsch, sans préciser davantage le contexte de la dernière rencontre.
+
+Du côté de la LNH, la repêche a eu lieu mercredi. Sportsnet et TVA Sports rapportent que les Blues de Saint-Louis ont accumulé quatre choix au premier tour lors de cette repêche, ce qui les rapprocherait d'un record du Canadien de Montréal en termes de choix de premier tour lors d'une même repêche. Global News rapporte que les Raptors de Toronto ont utilisé le 50e choix au total pour sélectionner le joueur de basketball Jaden Bradley lors du repêchage de la NBA.
+
+Deux autres notes rapides. Sportsnet rapporte que Connor McDavid des Oilers d'Edmonton a exprimé son appui au retour de l'entraîneur Mike Babcock, disant que c'est "ce que l'équipe voulait". Et Sportsnet mentionne que le défenseur des Maple Leafs de Toronto Morgan Rielly aurait demandé à être échangé, après 951 matchs dans l'uniforme torontois.
+
+Les Blue Jays de Toronto, eux, ont perdu leur série contre les Astros de Houston mercredi dans les circonstances que Sportsnet décrit comme évitables, une erreur de couverture en huitième manche ayant coûté la victoire à l'équipe.
+  </chapitre>
+
+  <outro>Voilà pour ce Presto du jeudi 25 juin 2026. Si ce briefing vous est utile, le meilleur coup de main que vous pouvez nous donner, c'est de le partager à une personne qui aime rester informée. Et selon votre plateforme : un abonnement sur Spotify ou Apple Podcasts, un pouce bleu et un abonnement sur YouTube, ça prend deux secondes et ça aide vraiment Presto à grandir. Sur ce, bonne journée, et à demain.</outro>
+</script>
+```
