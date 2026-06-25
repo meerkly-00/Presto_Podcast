@@ -1,13 +1,13 @@
 {
   "date": "2026-06-25",
   "kind": "poll",
-  "text": "Ce matin → La vague de chaleur frappe l'Europe de l'Ouest. Nouveauté : La France élève son alerte santé au plus haut niveau, avec des décès signalés chez les jeunes. L'Allemagne pourrait atteindre 40°C.\n\nFace à une vague de chaleur prolongée, la climatisation doit-elle être:",
+  "text": "Ce matin → Une vague de chaleur record frappe l'Europe de l'Ouest.\n\nFace aux vagues de chaleur extrêmes, la climatisation devrait-elle être plus accessible malgré ses impacts environnementaux?",
   "poll": {
     "options": [
-      "Encouragée largement",
-      "Utilisée de façon ciblée",
-      "Limitée pour raisons",
-      "Régulée par les autorités"
+      "Oui, priorité à la santé",
+      "Non, trouver des",
+      "Dépend de la région",
+      "Régulation stricte de"
     ],
     "duration_minutes": 1440
   }
