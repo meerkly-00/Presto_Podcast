@@ -1,13 +1,13 @@
 {
   "date": "2026-06-26",
   "kind": "poll",
-  "text": "Ce matin → Au moins 235 morts aux séismes au Venezuela.\n\nMISE À JOUR : Le bilan s'alourdit à 589 décès. Des centaines de personnes ont passé la nuit dans les parcs de Caracas.\n\nFace aux séismes majeurs au Venezuela, la priorité devrait être :",
+  "text": "Ce matin → Au moins 235 morts aux tremblements de terre au Venezuela.\n\nMIS À JOUR : Le bilan atteint maintenant 589 morts selon la BBC.\n\nComment les pays devraient-ils prioriser l'aide d'urgence au Venezuela?",
   "poll": {
     "options": [
-      "L'aide humanitaire",
-      "Les enquêtes techniques",
-      "Les deux en parallèle",
-      "Le soutien aux pays"
+      "Aide médicale et",
+      "Reconstruction des",
+      "Aide alimentaire et",
+      "Support financier au"
     ],
     "duration_minutes": 1440
   }
