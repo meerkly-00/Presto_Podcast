@@ -1,13 +1,13 @@
 {
   "date": "2026-06-27",
   "kind": "poll",
-  "text": "Ce matin → accord-cadre Israël-Liban-États-Unis annoncé vendredi. Nouveauté : l'armée israélienne a mené une frappe dans le sud du Liban samedi, première opération après l'annonce de l'accord.\n\nSelon toi, comment interpréter cette frappe israélienne après l'annonce de l'accord?",
+  "text": "Ce matin → États-Unis et Iran ont échangé des frappes vendredi et samedi.\n\nSelon toi, comment interpréter ces attaques après l'accord?",
   "poll": {
     "options": [
-      "Application progressive",
-      "Signal de pression pour",
-      "Remise en question de",
-      "Trop tôt pour évaluer"
+      "Signes que l'accord est",
+      "Tests de limites entre",
+      "Manquements à l'accord à",
+      "Conflits distincts, pas"
     ],
     "duration_minutes": 1440
   }
