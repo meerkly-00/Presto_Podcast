@@ -1,99 +1,127 @@
 ```xml
 <script>
-  <intro>Bonjour, on est le samedi 27 juin 2026. Voici votre Presto en environ 17 minutes. Au menu ce matin : les échanges de frappes entre les États-Unis et l'Iran, le bilan des séismes au Venezuela qui continue de s'alourdir, un accord-cadre entre Israël et le Liban, la Chine qui épure ses rangs, le bilan boursier de vendredi, SpaceX qui rejoint le Nasdaq 100, Québecor qui lorgne Corus, une décision importante de l'administration Trump sur l'IA, et le repêchage de la LNH.</intro>
+  <intro>Bonjour, on est le samedi 27 juin 2026. Voici votre Presto en environ 17 minutes. Au menu ce matin : les frappes entre les États-Unis et l'Iran dans le détroit d'Ormuz, la situation au Venezuela où la fenêtre de sauvetage se referme, la Russie sous drones ukrainiens, la politique canadienne, l'économie et les marchés, la tech, et un mot sur le sport.</intro>
 
   <chapitre titre="International : Iran et détroit d'Ormuz">
-On commence par un dossier qui évolue rapidement depuis vendredi. Les États-Unis et l'Iran ont échangé des frappes militaires, dans ce que CBC World décrit comme le test le plus important depuis qu'une entente provisoire avait été conclue entre les deux pays il y a une semaine pour tenter de mettre fin à leur guerre et de rouvrir le détroit d'Ormuz.
+On commence par le dossier le plus urgent de ce matin : les échanges de frappes entre les États-Unis et l'Iran.
 
-Voici la séquence des événements telle que rapportée par BBC World, CBC World, le Financial Times et Radio-Canada. L'Iran a d'abord mené une attaque au drone contre un cargo commercial dans le détroit d'Ormuz. En réponse, l'armée américaine a frappé des installations iraniennes : selon le commandement central américain, les cibles visées étaient des sites de stockage de missiles et de drones, ainsi que des positions radar côtières. Le Financial Times précise que ces frappes ont eu lieu vendredi.
+Presto vous suit ce dossier depuis vendredi. Pour rappeler rapidement le fil des événements : un cargo avait été la cible d'une attaque de drone dans le détroit d'Ormuz, et les États-Unis ont répondu en frappant des cibles en Iran. Ce matin, la situation a pris un tour plus sérieux.
 
-Samedi matin, Radio-Canada rapportait qu'Iran a affirmé avoir riposté à ces frappes américaines. Selon Al Jazeera, qui couvre ce qu'elle appelle le jour 120 de la guerre avec l'Iran, Téhéran condamne les frappes américaines et dit que celles-ci constituent une violation d'un mémorandum d'entente entre les deux pays. L'Iran affirme de son côté avoir visé des sites militaires américains dans la région. Les États-Unis disent avoir ciblé des sites de stockage de missiles et de drones iraniens.
+BBC World et Reuters rapportent que l'Iran affirme avoir riposté en frappant des cibles qu'il décrit comme liées aux forces américaines, en réponse aux frappes américaines de vendredi. CBC World qualifie cet échange de frappes de test le plus important depuis qu'une entente provisoire avait été conclue entre les deux pays il y a environ une semaine, une entente visant à tenter de mettre fin à leur conflit des derniers mois et à rouvrir le détroit d'Ormuz.
 
-Ce dossier reste ouvert et Presto y reviendra.
+Radio-Canada confirme cette séquence : l'Iran affirme avoir riposté samedi à des frappes menées la veille par les États-Unis contre son territoire.
+
+De son côté, l'Iran accuse les États-Unis de violer l'entente en vigueur. Washington, pour sa part, justifiait ses frappes comme une réponse à l'attaque sur le cargo.
+
+La situation évolue. On continue de la suivre.
+
+Pendant ce temps, il y a aussi un développement diplomatique à noter du côté canadien dans ce dossier. La Presse rapporte que la ministre des Affaires étrangères, Anita Anand, a déclaré vendredi que le Canada n'a pas l'intention d'ouvrir d'ambassade en Iran, ni au Venezuela. La ministre n'a pas précisé si cette décision était liée aux événements en cours dans ces deux pays.
   </chapitre>
 
   <chapitre titre="International : Venezuela">
-On passe au Venezuela, où le bilan des séismes de mercredi continue de s'alourdir de manière importante. Radio-Canada et BBC World rapportent qu'au moins 920 personnes ont perdu la vie, et que 50 000 personnes sont portées disparues. Des équipes de secours internationales sont arrivées sur place pour appuyer les opérations de recherche dans les décombres.
+On passe au Venezuela, où la course contre la montre se poursuit dans les décombres.
 
-Pour rappel, Presto vous suit ce dossier depuis mercredi : deux secousses successives avaient alors frappé le pays, avec des épicentres près de Caracas. Le bilan était de 235 morts vendredi matin selon Radio-Canada. Il a plus que quadruplé en 24 heures.
+BBC World et Al Jazeera rapportent qu'au moins 920 personnes ont perdu la vie dans les deux séismes qui ont frappé le pays mercredi, et que plus de 51 000 personnes sont portées disparues. Pour rappel, les deux secousses s'étaient produites à une minute d'intervalle, avec des magnitudes de 7,2 et 7,5.
 
-BBC World rapporte qu'à Caracas, des centaines de personnes ont passé la nuit à l'extérieur, dans des parcs, de peur de retourner dans des bâtiments qui pourraient être fragilisés. L'agence décrit également le cas d'une mère décédée en protégeant sa fille lors des séismes.
+Al Jazeera précise que la fenêtre critique de 72 heures pour les opérations de sauvetage approche de son terme, ce qui rend les prochaines heures déterminantes pour les personnes encore potentiellement coincées sous les débris.
 
-En parallèle, La Presse rapporte vendredi soir que la ministre canadienne des Affaires étrangères, Anita Anand, a déclaré que le Canada n'a pas l'intention d'ouvrir d'ambassade au Venezuela, ni en Iran, dans le contexte actuel.
+CBC World brosse un portrait de la situation sur le terrain : selon des Vénézuéliens impliqués dans les efforts de secours, c'est essentiellement la population civile qui a porté le poids du travail de recherche et de sauvetage depuis le début, en l'absence de moyens d'État suffisants. Un intervenant cité par CBC World décrit la situation en disant, je le cite : "It's all improvisation." Fin de citation.
 
-Presto continue de suivre la situation au Venezuela.
+Des équipes internationales de secours sont arrivées sur place, selon BBC World et Radio-Canada, mais la désorganisation reste un obstacle majeur. L'Associated Press rapporte que de nombreuses familles ont pris en main la recherche de leurs proches, faute d'une coordination centralisée efficace.
+
+BBC World a également rapporté un cas particulièrement marquant : un père a partagé sur les réseaux sociaux le récit de sa conjointe, qui a perdu la vie en protégeant leur fille lors des séismes.
+
+Presto y reviendra demain avec les dernières mises à jour du bilan.
   </chapitre>
 
-  <chapitre titre="International : Israël, Liban et autres dossiers">
-Toujours à l'international, une nouvelle diplomatique importante : Israël, le Liban et les États-Unis ont signé vendredi un accord-cadre. CBC World rapporte que le secrétaire d'État américain Marco Rubio a joint les ambassadeurs des deux pays à Washington pour annoncer ce qu'il décrit comme une première étape vers la paix, après des mois de conflit entre Israël et le Hezbollah libanais. Radio-Canada confirme cette annonce.
+  <chapitre titre="International : Russie et Ukraine">
+Toujours à l'international, un développement important du côté de la Russie et de l'Ukraine.
 
-On reste à l'international, avec la Chine. Reuters rapporte que Pékin a retiré leurs postes de législateurs à plusieurs hauts responsables, dont des généraux, un ancien régulateur financier et un membre du Bureau politique du Parti communiste. Ce type d'épuration au sein de l'Assemblée nationale du peuple suit généralement des enquêtes anticorruption. Les noms des individus concernés ne sont pas précisés dans le fil Reuters.
+CBC et CBC World rapportent que l'Ukraine a mené ce que CBC décrit comme la plus grande offensive de drones jamais dirigée contre Moscou, ciblant la capitale russe ainsi que des infrastructures énergétiques en d'autres points du territoire russe.
 
-Enfin, un mot sur les États-Unis. L'Associated Press rapporte que le Texas a approuvé des histoires bibliques comme lectures obligatoires dans les écoles publiques de l'État. Cette décision s'inscrit dans un mouvement plus large aux États-Unis autour de la place de la religion dans l'éducation publique, un enjeu qui divise profondément les partisans de la séparation de l'Église et de l'État et les défenseurs de ce qu'ils considèrent comme un héritage culturel et moral.
+Dans les suites de cette offensive, des signaux de fragilité apparaissent dans le soutien à Vladimir Poutine. CBC rapporte que la confiance envers la direction du Kremlin semble avoir vacillé parmi une partie de la population civile et chez certains nationalistes en vue. Toutefois, CBC précise que des analystes restent sceptiques quant à la portée réelle de ce phénomène, estimant que cela ne suffit pas à changer le rapport de force.
 
-Un autre dossier américain, rapporté par CBC World : une cour d'appel de Californie a confirmé vendredi la condamnation pour viol et agression sexuelle de Harvey Weinstein en 2022, tout en ordonnant au tribunal de première instance de le resentencier.
+C'est un dossier à suivre.
+  </chapitre>
 
-Et toujours aux États-Unis, un dossier qu'on avait abordé vendredi : la Cour suprême a confirmé sa décision d'autoriser l'administration Trump à mettre fin au statut de protection temporaire, le TPS, accordé aux Haïtiens et aux Syriens. L'Associated Press le confirme ce matin.
+  <chapitre titre="International : autres nouvelles">
+Quelques autres nouvelles du côté international.
+
+D'abord, en Chine. Reuters rapporte que Pékin a retiré leur poste de député à plusieurs généraux, à un ex-régulateur financier et à un membre du politburo. Ce type de mesure est habituellement associé à des enquêtes anticorruption.
+
+Du côté de l'Italie et des États-Unis, BBC World décrit une détérioration de la relation entre la première ministre italienne Giorgia Meloni et le président Donald Trump. BBC World note que Meloni, qui était décrite il y a peu comme quelqu'un capable de maintenir un canal de communication privilégié avec Trump, se retrouve maintenant dans une relation marquée par des attaques publiques et des insultes personnelles entre les deux dirigeants.
+
+À Pékin, l'Associated Press rapporte qu'un petit aéronef s'est écrasé sur l'édifice le plus haut de la ville, selon un service de suivi de vols. On continue de suivre cette nouvelle.
+
+Et en Californie, le Sénat de l'État du Texas a approuvé l'utilisation d'extraits bibliques comme lecture obligatoire dans les écoles publiques, selon l'Associated Press. Cette décision s'inscrit dans un contexte plus large de débats sur la place de la religion dans l'éducation publique aux États-Unis.
   </chapitre>
 
   <chapitre titre="Politique canadienne">
-On passe à la politique canadienne, avec trois dossiers.
+On passe à la politique canadienne, avec trois dossiers ce matin.
 
-D'abord, une bonne nouvelle pour les forces de l'ordre. CBC rapporte que Ali Boivin, décrit comme le fugitif le plus recherché au Canada et natif du Québec, a été arrêté en Espagne. C'est la Sûreté du Québec qui a confirmé l'arrestation.
+D'abord, les hélicoptères Griffon. CBC rapporte que le gouvernement fédéral a suspendu le programme de prolongation de vie des hélicoptères Griffon de l'Aviation royale canadienne, un programme évalué à 800 millions de dollars. CBC attribue cette décision à des problèmes techniques et à des préoccupations croissantes liées aux coûts et à la complexité du projet. La question qui se pose maintenant, selon CBC, est de savoir si les 82 appareils seront finalement tous modernisés, alors qu'Ottawa évalue en parallèle un programme de remplacement dont la valeur est estimée à 18 milliards de dollars et que les engagements envers l'OTAN s'accumulent.
 
-Ensuite, un dossier que Presto suit depuis le début de la semaine : la fusillade de Côte-des-Neiges à Montréal. La Presse rapporte vendredi soir que Lina Benredouane, la sœur de l'agent du Service de police de la Ville de Montréal, le SPVM, Mohamed Lamine Benredouane, tué lundi dans la fusillade, demande au public de signaler les images de la mort de son frère, qui circulent sur les réseaux sociaux depuis les moments qui ont suivi l'événement.
+Deuxième dossier : les libéraux fédéraux et la criminalité. CBC publie une analyse sur ce qu'elle décrit comme un virage à 180 degrés du gouvernement libéral en matière de justice. Après plusieurs années de réformes axées sur une approche plus douce envers certains contrevenants, le gouvernement Carney a resserré ses politiques au cours de la dernière année, notamment en matière de libération sous caution. CBC explique que ce changement de cap est lié à une montée des taux de criminalité devenue un enjeu politique sensible dans plusieurs circonscriptions à fort poids électoral. Des défenseurs de la réforme du système de justice critiquent ce changement, estimant qu'il ne s'attaque pas aux causes profondes de la criminalité. Des élus libéraux, eux, défendent le virage comme une réponse aux attentes concrètes de la population.
 
-Global News, de son côté, rapporte qu'un voisin de Seth Scott Hatfield, l'homme accusé dans cette fusillade et résidant à Lethbridge en Alberta, a déclaré le connaître très peu, le croisant seulement de passage.
+Troisième dossier : la Loi sur les médias sociaux sécuritaires. CBC rapporte qu'un projet de loi fédéral visant à encadrer les plateformes de médias sociaux, le Safe Social Media Act, ne couvrirait pas des plateformes comme Roblox et Discord, pourtant régulièrement signalées par les corps policiers canadiens comme présentant des risques pour les enfants. CBC précise que même des partisans du projet de loi qualifient cette omission de préoccupante. Le gouvernement n'a pas encore expliqué publiquement pourquoi ces plateformes ont été exclues du périmètre de la loi.
+  </chapitre>
 
-Troisième dossier : le pipeline en Alberta. CBC rapporte qu'alors qu'une date limite du 1er juillet approche pour le dépôt d'une proposition auprès du bureau fédéral des grands projets, des questions subsistent quant à savoir si la proposition sera prête à temps et si le projet est commercialement viable. Le gouvernement de l'Alberta dit que le dossier est sur la bonne voie.
+  <chapitre titre="Actualité québécoise">
+Un mot sur l'actualité québécoise, avec deux dossiers.
 
-Un dernier point : CBC rapporte qu'Ottawa a ajouté la juge à la retraite Corrine Sparks, première Néo-Écossaise d'origine africaine nommée à la magistrature de sa province, à son nouveau Conseil consultatif sur les droits, l'égalité et l'inclusion. Cette nomination fait suite à des critiques sévères adressées au gouvernement fédéral pour avoir omis, dans un premier temps, d'y inclure une représentante noire.
+D'abord, les suites de la fusillade de Côte-des-Neiges. Presto suit ce dossier depuis lundi. La Presse publie ce matin une reconstitution détaillée du déroulement des événements, élaborée à partir de preuves visuelles analysées par la rédaction, de témoignages directs et de sources policières. Ce récit factuel de la séquence des faits constitue la contribution journalistique principale de La Presse sur ce dossier ce matin. Global News rapporte également qu'un voisin lethbridgeois de Seth Scott Hatfield, l'homme accusé dans cette affaire, a accordé une entrevue, indiquant qu'il le voyait de temps à autre dans le quartier sans le connaître.
+
+Deuxième dossier : la FTQ-Construction poursuivie. La Presse rapporte qu'une femme victime de harcèlement et d'agressions sexuelles de la part de l'ex-président de la FTQ-Construction, Rénald Grondin, poursuit le syndicat ainsi que la Fédération des travailleurs et travailleuses du Québec pour plus de 466 000 dollars. Cette poursuite civile s'ajoute aux procédures déjà en cours dans ce dossier.
+
+Et une donnée économique pertinente pour les jeunes Québécois, rapportée par Le Devoir. Selon un premier sondage de l'été réalisé auprès des élèves de 15 à 24 ans qui retournent aux études cet automne, le taux de chômage chez les étudiants était de 11 % le mois dernier au Québec, en amélioration par rapport à 12,8 % à la même période l'an dernier. Le Devoir note toutefois que ce chiffre reste bien au-dessus de la moyenne estivale de 6,6 % enregistrée en 2022, le taux de chômage étudiant ayant plus que doublé depuis lors.
   </chapitre>
 
   <chapitre titre="Économie et marchés">
-On passe à l'économie et aux marchés.
+On passe à l'économie et aux marchés, avec plusieurs dossiers ce matin.
 
-D'abord, le tableau boursier de vendredi. Le Financial Times rapporte que le S&amp;P 500 a enregistré sa plus longue série de baisses en dix mois, portée principalement par un recul des fabricants de semi-conducteurs. BNN Bloomberg confirme que le dollar américain plus fort continue d'exercer une pression sur le dollar canadien.
+D'abord, SpaceX et le Nasdaq 100. Reuters rapporte que SpaceX est sur le point d'intégrer le Nasdaq 100, ce qui devrait déclencher une vague d'achats passifs de la part des fonds indiciels et des fonds négociés en bourse qui répliquent cet indice. Dans le même temps, le Financial Times signale que les obligations de SpaceX ont perdu de la valeur dans les jours suivant la conclusion par l'entreprise d'une transaction de dette de 25 milliards de dollars américains combinant financement lié à l'intelligence artificielle et au secteur des fusées.
 
-Du côté de Bloomberg, deux analyses de marché méritent mention. Un stratège de Goldman Sachs voit des opportunités dans les grandes capitalisations technologiques en période de volatilité des semi-conducteurs. Par ailleurs, le directeur des investissements de NewEdge, un certain Dawson selon Bloomberg, soutient que la hausse de l'endettement sur marge amplifie les mouvements baissiers du marché.
+Toujours sur SpaceX, Reuters Business rapporte que l'entreprise vise désormais les consommateurs américains avec une offensive commerciale autour de son service mobile Starlink.
 
-Maintenant, SpaceX. Reuters et Reuters Business rapportent que SpaceX s'apprête à intégrer le Nasdaq 100, ce qui devrait déclencher une vague d'achats passifs par les fonds indiciels qui répliquent cet indice. Le Financial Times ajoute que des obligations de SpaceX ont reculé dans les jours ayant suivi une transaction de dette de 25 milliards de dollars américains conclue par la compagnie. La question de l'évaluation de SpaceX, entreprise non cotée jusqu'ici sur les marchés publics, fait l'objet de débats chez les analystes, notamment quant à savoir si son intégration à un indice majeur reflète réellement sa valeur fondamentale.
+Du côté d'Apple, Reuters rapporte, en citant le Financial Times, qu'Apple cherche à obtenir une autorisation gouvernementale pour s'approvisionner en puces auprès d'une entreprise chinoise figurant sur une liste noire américaine. Cette démarche survient dans un contexte de tensions commerciales persistantes entre Washington et Pékin.
 
-Au Canada, un dossier à surveiller. Reuters Business rapporte que le groupe français EDF a accepté de vendre ses actifs américains et canadiens au fonds d'investissement américain KKR. Les actifs en question comprennent des opérations en Amérique du Nord. Les détails de la transaction, notamment les actifs canadiens concernés, ne sont pas précisés davantage dans le fil Reuters.
+Autre transaction à noter : Reuters Business rapporte qu'EDF a conclu un accord pour vendre ses activités aux États-Unis et au Canada au fonds de capital-investissement KKR. Le montant de la transaction n'est pas précisé dans les sources disponibles ce matin.
 
-Et enfin, un dossier québécois important en médias et télécommunications. Les Affaires rapporte que Québecor Média souhaiterait acquérir Corus Entertainment. Corus, qui possède notamment des chaînes de télévision spécialisées et des stations de radio au Canada, est en difficulté financière depuis quelques années dans un contexte de transformation du secteur des médias. Presto reviendra sur ce dossier si des détails supplémentaires sont confirmés.
+Du côté du dollar canadien, BNN Bloomberg signale que le renforcement du dollar américain continue d'exercer une pression sur le huard. Bloomberg rapporte par ailleurs que les contrats à terme sur actions américaines reprenaient leur tendance à la baisse en raison de préoccupations liées à l'intelligence artificielle qui freinent le redressement du secteur technologique.
+
+Sur le front commercial Canada-Chine, Reuters Business rapporte en exclusivité que le constructeur automobile chinois Geely prévoit d'expédier les premiers véhicules électriques de la marque Lotus au Canada en juillet, dans le cadre d'un accord conclu entre le premier ministre Mark Carney et le président Xi Jinping. Selon l'ambassadeur cité par Reuters, c'est la première livraison concrète découlant de ce rapprochement commercial.
+
+Enfin, sur le marché immobilier en Europe, Radio-Canada rapporte que Paris envisage d'imposer une surtaxe sur les logements vacants afin de forcer les propriétaires à mettre leurs biens en location ou à les vendre, en réponse à un déséquilibre entre l'offre et la demande sur le marché locatif. L'Economist, de son côté, publie deux analyses sur la vague de chaleur en Europe : Berlin fait face à des prévisions de 40 degrés Celsius ce week-end, et le continent se réchauffe plus vite que toute autre région du monde, selon l'hebdomadaire britannique.
+
+Et une note québécoise tirée de Les Affaires : Québecor Média serait intéressée à acquérir Corus Entertainment. Les détails de cette démarche ne sont pas précisés dans la source.
   </chapitre>
 
   <chapitre titre="Tech">
-Un mot sur la tech, avec plusieurs dossiers ce matin.
+Un mot sur la tech, avec trois dossiers substantiels ce matin.
 
-D'abord, l'intelligence artificielle et la Maison-Blanche. CBC World rapporte qu'OpenAI a annoncé que son nouveau modèle, appelé GPT-5.6 Sol, ne sera initialement disponible qu'à un petit groupe de partenaires de confiance approuvés par l'administration Trump. Cette décision fait suite à un précédent : Anthropic avait retiré deux de ses modèles peu après leur lancement pour se conformer à une directive de l'administration.
+D'abord, l'intelligence artificielle et la Maison-Blanche. TechCrunch rapporte que l'administration Trump a autorisé plus de 100 entreprises et agences gouvernementales américaines à utiliser Mythos 5, le nouveau modèle d'Anthropic. TechCrunch précise que cette autorisation couvre également les employés non américains de ces organisations. C'est une décision notable dans le contexte des tensions autour du contrôle des technologies d'IA avancées.
 
-Toujours sur l'IA et l'administration Trump, TechCrunch rapporte une décision distincte concernant Anthropic. L'administration a autorisé plus de 100 entreprises et agences gouvernementales américaines à utiliser le modèle Mythos 5 d'Anthropic, y compris leurs employés non américains. Ces deux décisions, prises à quelques heures d'intervalle, illustrent le rôle croissant de Washington dans la régulation de l'accès aux grands modèles d'intelligence artificielle.
+Deuxième dossier : la Corée du Sud et les drones. Ars Technica rapporte que le ministre de la Défense sud-coréen, Ahn Gyu-back, a annoncé un plan visant à former l'ensemble des membres des forces armées du pays, soit près d'un demi-million de personnes, à l'utilisation des drones. L'objectif est d'en faire un outil de combat universel, au même titre qu'une arme personnelle. Ars Technica rapporte que le ministre a explicitement cité les conflits en Ukraine et au Moyen-Orient comme sources d'inspiration pour cette réforme. En parallèle, la Corée du Sud prévoit de déployer davantage de drones bon marché pour la surveillance et les frappes, ainsi que des systèmes laser et à micro-ondes pour les contrer.
 
-Du côté des fusions et acquisitions en tech, TechCrunch rapporte que la Commission fédérale du commerce américaine, la FTC, a autorisé Elon Musk à acquérir la startup Mesh, fondée par d'anciens employés de SpaceX. La compagnie était sortie de la discrétion en février avec un financement de série A de 50 millions de dollars américains.
+Troisième dossier : Apple et la Russie. Ars Technica rapporte que la Russie reste de loin le pays qui formule le plus de demandes de retrait d'applications auprès d'Apple, avec 1 213 demandes en 2025, selon le rapport de transparence de l'App Store publié par Apple. Ces demandes visent principalement des applications permettant de contourner la censure sur Internet. Ars Technica précise que le gouvernement russe pousse ses citoyens à passer à Android, dans le cadre de son projet de construire un réseau Internet domestique fermé.
 
-Autre dossier tech avec des implications militaires et géopolitiques : Ars Technica rapporte que la Corée du Sud a annoncé son intention de former l'ensemble de son armée, soit près d'un demi-million de soldats, à l'utilisation de drones comme outil de combat universel. L'objectif est que chaque militaire puisse opérer un drone aussi facilement qu'une arme personnelle. Le ministre de la Défense de la Corée du Sud a cité les conflits en Ukraine et au Moyen-Orient comme source d'inspiration pour cette réforme, selon Ars Technica.
-
-Et une nouvelle réglementaire aux États-Unis, rapportée par Ars Technica : à compter du 1er juillet, il sera illégal en Californie pour les plateformes de diffusion en continu de diffuser des publicités à un volume sonore supérieur au contenu regardé. La loi, signée par le gouverneur Gavin Newsom en octobre 2025, étend aux plateformes numériques une règle qui s'appliquait déjà à la télévision conventionnelle, câblée et par satellite.
-
-Enfin, Reuters rapporte qu'Apple cherche à obtenir l'autorisation du gouvernement américain pour s'approvisionner en puces auprès d'une entreprise chinoise figurant sur une liste noire, selon le Financial Times. On ne connaît pas encore l'issue de cette demande.
+Et en Californie, Ars Technica rapporte qu'à compter du 1er juillet, les plateformes de diffusion en continu n'auront plus le droit de jouer des publicités à un volume plus élevé que le contenu qu'elles accompagnent. Cette loi, signée par le gouverneur Gavin Newsom en octobre 2025, étend aux services de streaming des règles qui s'appliquaient déjà à la télévision traditionnelle depuis plusieurs années.
   </chapitre>
 
   <chapitre titre="Sport">
-On termine avec le sport et deux dossiers, à la suite du repêchage de la LNH qui s'est tenu vendredi soir à Buffalo.
+On termine avec le sport, avec les suites du repêchage de la LNH qui s'est tenu vendredi soir à Buffalo. Presto vous en a parlé hier.
 
-D'abord, le grand titre : Sportsnet rapporte que les Maple Leafs de Toronto ont sélectionné Gavin McKenna au premier rang du repêchage. Sportsnet décrit McKenna comme un ailier très attendu, qui a lui-même confié avoir été surpris par l'intensité de l'émotion au moment de monter sur la scène en bleu et blanc, tout en disant être prêt pour la pression qui l'attend.
+Pour ce qui est de la deuxième ronde et des suivantes, quelques sélections canadiennes à noter. Global News rapporte que les Jets de Winnipeg ont utilisé leur huitième choix au total pour sélectionner l'attaquant suédois Viggo Bjorck. Global News rapporte aussi qu'un joueur du Manitoba, Carels, a été sélectionné au sixième rang au total, sans préciser par quelle équipe.
 
-Du côté du Canadien de Montréal, Radio-Canada rapporte que l'équipe a sélectionné l'attaquant Gleb Pugachyov au 26e rang. Natif d'Almaty, au Kazakhstan, Pugachyov a évolué principalement avec le club junior de Nijni Novgorod, en Russie.
+Du côté québécois, Radio-Canada rapporte que le Canadien de Montréal a sélectionné l'attaquant Gleb Pugachyov au 26e rang. Pugachyov, natif d'Almaty au Kazakhstan, a évolué avec le club junior de Nijni Novgorod, en Russie.
 
-Pour les Jets de Winnipeg, Global News rapporte que l'équipe a utilisé son huitième choix au total pour sélectionner l'attaquant suédois Viggo Bjorck. Global News signale également qu'un joueur du Manitoba, un certain Carels, a été sélectionné au sixième rang au total, sans préciser l'équipe qui l'a choisi.
+Sportsnet rapporte que les Canucks de Vancouver ont sélectionné Caleb Malhotra, le fils de leur entraîneur Manny Malhotra, une décision que Sportsnet décrit comme sortant des normes habituelles du sport professionnel. Le nouveau directeur général des Canucks, Ryan Johnson, a assumé ce choix.
 
-Pour les Canucks de Vancouver, Sportsnet rapporte que l'équipe a sélectionné Caleb Malhotra, le fils de l'entraîneur-chef Mick Malhotra, dans le cadre de sa reconstruction. Le directeur général Ryan Johnson a assumé cette décision qui rompt avec les conventions habituelles en matière de conflits d'intérêts.
+Sportsnet publie également une analyse des gagnants et perdants de ce repêchage, identifiant notamment les Sharks de San Jose comme une équipe ayant bien tiré son épingle du jeu, et les Blackhawks de Chicago comme ayant raté certaines occasions.
 
-Et en soccer, Al Jazeera rapporte que la Belgique s'est qualifiée pour les huitièmes de finale de la Coupe du monde, terminant en tête du groupe G devant l'Égypte, grâce notamment à un doublé de Leandro Trossard contre la Nouvelle-Zélande, qui elle est éliminée du tournoi.
+Sur la Coupe du monde de soccer, Al Jazeera rapporte que l'Espagne, l'Égypte et le Cap-Vert se sont qualifiés pour le tour des 32 vendredi. Le Cap-Vert, précise Al Jazeera, réalise ainsi une qualification historique pour ce stade de la compétition. Concernant l'Iran, l'équipe attend toujours de savoir si elle se qualifie pour le tour des 32.
   </chapitre>
 
-  <outro>Voilà pour ce Presto du samedi 27 juin 2026. Si ce briefing vous est utile, le meilleur coup de main que vous pouvez nous donner, c'est de le partager à une personne qui aime rester informée. Et selon votre plateforme : un abonnement sur Spotify ou Apple Podcasts, un pouce bleu et un abonnement sur YouTube, ça prend deux secondes et ça aide vraiment Presto à grandir. Sur ce, bonne journée, et à demain.</outro>
+  <outro>Voilà pour ce Presto du 27 juin 2026. Si ce briefing vous est utile, le meilleur coup de main que vous pouvez nous donner, c'est de le partager à une personne qui aime rester informée. Et selon votre plateforme : un abonnement sur Spotify ou Apple Podcasts, un pouce bleu et un abonnement sur YouTube, ça prend deux secondes et ça aide vraiment Presto à grandir. Sur ce, bonne journée, et à demain.</outro>
 </script>
 ```
