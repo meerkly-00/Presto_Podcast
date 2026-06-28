@@ -1,13 +1,13 @@
 {
   "date": "2026-06-28",
   "kind": "poll",
-  "text": "Ce matin → L'Iran et les États-Unis poursuivent leurs échanges de frappes, menaçant la trêve de deux semaines.\n\nNouveau : Les marchés iraniens réagissent mal après deux nuits de confrontations\n\nComment devraient réagir les médiateurs internationaux face à cette escalade?",
+  "text": "Ce matin → Israël a frappé le sud du Liban un jour après la signature d'un accord-cadre.\n\nMise à jour : Hezbollah qualifie l'accord de « reddition » tandis que les forces israéliennes maintiennent leur\n\nSelon toi, comment interpréter ces frappes après la signature de l'accord?",
   "poll": {
     "options": [
-      "Renforcer les",
-      "Attendre avant",
-      "Imposer des mesures de",
-      "Laisser les deux pays"
+      "Violation de l'accord",
+      "Application de l'accord",
+      "Mesure de sécurité",
+      "Signal politique"
     ],
     "duration_minutes": 1440
   }
