@@ -1,0 +1,14 @@
+{
+  "date": "2026-06-28",
+  "kind": "poll",
+  "text": "Ce matin → L'Iran et les États-Unis poursuivent leurs échanges de frappes, menaçant la trêve de deux semaines.\n\nNouveau : Les marchés iraniens réagissent mal après deux nuits de confrontations\n\nComment devraient réagir les médiateurs internationaux face à cette escalade?",
+  "poll": {
+    "options": [
+      "Renforcer les",
+      "Attendre avant",
+      "Imposer des mesures de",
+      "Laisser les deux pays"
+    ],
+    "duration_minutes": 1440
+  }
+}
