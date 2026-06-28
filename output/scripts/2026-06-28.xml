@@ -1,103 +1,93 @@
 ```xml
 <script>
-  <intro>Bonjour, on est le dimanche 28 juin 2026. Voici votre Presto en environ 17 minutes. Au menu ce matin : les échanges de frappes entre les États-Unis et l'Iran qui s'intensifient, le Venezuela où le bilan des séismes atteint 1 430 morts, Israël et le Liban au lendemain de l'accord-cadre, la Serbie qui va perdre son président, la canicule en Europe et les incendies de forêt au Québec, l'économie avec les constructeurs automobiles allemands sous pression, la tech avec Apple qui cherche des puces chinoises et un départ chez Vision Pro, et un mot sur le sport, incluant le Canada à la Coupe du monde et la LNH.</intro>
+  <intro>Bonjour, on est le dimanche 29 juin 2026. Voici votre Presto en environ 17 minutes. Au menu ce matin : les États-Unis et l'Iran s'échangent des frappes pour une deuxième journée consécutive, le bilan du Venezuela continue de s'alourdir, le Canada joue son premier match éliminatoire en Coupe du monde, et plusieurs développements en tech et en politique canadienne.</intro>
 
-  <chapitre titre="International : Iran et États-Unis">
-On commence par le dossier le plus urgent de ce matin : les échanges de frappes entre les États-Unis et l'Iran. Presto vous suit ce dossier depuis vendredi.
+  <chapitre titre="International : États-Unis et Iran">
+Le dossier le plus urgent de ce matin : la situation entre les États-Unis et l'Iran continue de se détériorer rapidement, et Presto vous suit ce dossier depuis vendredi.
 
-Pour rappeler rapidement le fil des événements : un cargo avait été la cible d'une attaque près du détroit d'Ormuz, et les États-Unis avaient répondu par des frappes sur des cibles en Iran. Un accord provisoire avait été conclu entre les deux pays il y a environ deux semaines pour tenter de mettre fin aux hostilités. Cet accord est maintenant sérieusement mis à l'épreuve.
+Pour replacer le contexte rapidement : les deux pays avaient signé un mémorandum d'entente il y a une semaine dans le but de mettre fin aux hostilités, de rouvrir le détroit d'Ormuz et de permettre à l'Iran de reprendre ses ventes de pétrole. Depuis vendredi, ce fragile accord est sous pression intense.
 
-CBC World et Reuters rapportent que l'Iran et les États-Unis ont poursuivi leurs échanges de frappes au cours des dernières heures, chacun accusant l'autre de violer la trêve. Selon CBC World, le Corps des Gardiens de la révolution islamique d'Iran a annoncé que ses forces navales et aérospatiales ont mené des opérations conjointes de missiles et de drones contre des sites militaires américains au Koweït et à Bahreïn, en riposte aux frappes américaines contre l'Iran. Le Financial Times, de son côté, rapporte que les États-Unis ont mené un deuxième jour consécutif de frappes contre l'Iran.
+Ce matin, BBC World et CBC World rapportent que les États-Unis et l'Iran s'accusent mutuellement de violer le cessez-le-feu. Selon CBC World, l'Iran a lancé des opérations conjointes de missiles et de drones ciblant des installations militaires américaines au Koweït et au Bahreïn, en réponse à des frappes américaines menées contre l'Iran. C'est l'Iran's Islamic Revolutionary Guard Corps qui a revendiqué ces opérations.
 
-Le National Post rapporte que Bahreïn a confirmé avoir été visé par des drones iraniens, et qu'un navire a été frappé dans le détroit d'Ormuz samedi, ajoutant une nouvelle couche de tension à cette situation déjà très volatile.
+Al Jazeera rapporte que le Koweït et le Bahreïn ont tous deux condamné les attaques iraniennes sur leur territoire. Al Jazeera cite également des analystes qui estiment que les États-Unis cherchent à trouver une sortie du mémorandum d'entente, ce qui indiquerait que Washington considère la situation comme un test de la volonté américaine à maintenir la pression militaire.
 
-Radio-Canada rapporte également que le président Trump a de nouveau menacé d'anéantir l'Iran, sans préciser la nature de ces déclarations au-delà de cette formulation.
+Reuters rapporte pour sa part que les deux parties continuent d'escalader les attaques tout en s'accusant mutuellement de violations, ce qui crée une situation où le mécanisme de désescalade prévu dans l'accord ne semble pas fonctionner.
 
-La situation reste très fluide. Presto continue de suivre ce dossier.
+Le National Post publie ce matin un texte d'opinion qui soutient qu'Ottawa devrait rester vigilant face à un régime iranien qui, selon cette perspective, profite du répit offert par l'accord pour consolider son pouvoir à l'interne. Presto vous présente ce point de vue à titre d'illustration du débat public, sans endosser la position.
+
+La situation reste très fluide ce matin. On continue de suivre ce dossier.
   </chapitre>
 
   <chapitre titre="International : Venezuela">
-On passe au Venezuela, où la course contre la montre dans les décombres prend un tournant plus sombre. Associated Press et Le Devoir rapportent que le bilan des deux séismes qui ont frappé le pays mercredi est maintenant d'au moins 1 430 morts.
+On passe au Venezuela, où la situation humanitaire continue de s'aggraver.
 
-BBC World décrit des scènes de désespoir à La Guaira, où des familles font le guet devant des immeubles effondrés, espérant retrouver des proches, mais confrontées à l'impossibilité de déplacer les débris lourds sans équipement spécialisé. La chaîne rapporte également que des équipes de secours font face à une tâche qui s'avère de plus en plus difficile au fil des heures.
+Associated Press et Le Devoir rapportent que le bilan des deux séismes qui ont frappé le pays mercredi est maintenant d'au moins 1 430 morts. BBC World décrit des scènes de détresse à La Guaira, où des familles montent la garde jour et nuit près de bâtiments effondrés, espérant retrouver des proches, mais se heurtant à l'impossibilité de déplacer des débris trop lourds sans équipement lourd.
 
-Le Devoir souligne que les tensions ont monté face à ce que la source décrit comme une réponse insuffisante du gouvernement vénézuélien. Le National Post rapporte pour sa part que les centres de santé de l'État côtier de La Guaira sont submergés par les victimes, et que le système de santé, déjà fragile avant la catastrophe, est poussé à ses limites.
+BBC World rapporte également que la colère monte face à ce que les médias décrivent comme une réponse insuffisante du gouvernement vénézuélien. Le Devoir précise que les tensions ont atteint un point critique dans plusieurs zones touchées.
 
-Presto vous suit ce dossier depuis mercredi. Pour rappel, le bilan était de 235 morts vendredi matin, de 920 morts samedi matin. Il atteint maintenant 1 430.
+Pour rappel, Presto vous suit ce dossier depuis mercredi. Le bilan était de 920 morts vendredi et dépasse maintenant les 1 430. Le nombre de personnes portées disparues, qui était à plus de 51 000 vendredi selon Al Jazeera, n'a pas été mis à jour dans les sources de ce matin.
+
+La situation reste une course contre la montre dans les décombres, avec des ressources limitées et une population en état de choc.
   </chapitre>
 
-  <chapitre titre="International : Israël, Liban et Moyen-Orient">
-Toujours à l'international, un développement important au Liban. Presto vous en a parlé hier : Israël, le Liban et les États-Unis ont signé vendredi un accord-cadre. Ce matin, BBC World rapporte qu'Israël a mené des frappes dans le sud du Liban, tuant au moins une personne selon les médias d'État libanais, et ce un jour seulement après la signature de cet accord-cadre.
+  <chapitre titre="International : Liban, Israël et autres dossiers">
+Toujours à l'international, un développement au Liban qui complique l'accord-cadre signé vendredi entre Israël, le Liban et les États-Unis.
 
-Associated Press soulève par ailleurs une question structurelle importante : l'accord exige le désarmement du Hezbollah, ce que la source décrit comme une tâche qui pourrait se révéler très difficile à accomplir. Le mouvement, lui, condamne l'accord, selon BBC World.
+Presto vous en a parlé hier : le secrétaire d'État américain Marco Rubio avait décrit cet accord comme un pas vers une normalisation durable. Mais Associated Press rapporte ce matin que l'accord exige le désarmement du Hezbollah, ce qui, selon AP, pourrait s'avérer très difficile à mettre en oeuvre. Le mouvement armé est profondément intégré dans les structures politiques et sociales du Liban, et plusieurs analystes cités par AP doutent que le gouvernement libanais ait la capacité ou la volonté politique d'imposer ce désarmement.
 
-La combinaison de l'accord-cadre et des frappes qui l'ont immédiatement suivi illustre la fragilité de la situation dans la région. Presto continue de suivre ce dossier.
-  </chapitre>
+Selon les sources disponibles ce matin, des frappes israéliennes ont eu lieu dans le sud du Liban depuis la signature de l'accord, ce qui ajoute une couche de tension supplémentaire à un processus diplomatique déjà fragile.
 
-  <chapitre titre="International : autres nouvelles">
-Quelques autres nouvelles de l'international ce matin.
+Ailleurs, en Irak. Al Jazeera rapporte qu'une opération de grande envergure a été menée à l'aube dans la zone verte de Bagdad et dans plusieurs quartiers de la capitale. Les forces de sécurité irakiennes ont arrêté plusieurs responsables dans le cadre d'une opération décrite comme une vaste campagne anticorruption.
 
-D'abord, en Serbie. Reuters rapporte que le président Aleksandar Vucic a annoncé qu'il démissionnera dans les prochaines semaines. La source ne précise pas les circonstances qui ont conduit à cette décision.
+En Serbie, Reuters rapportait hier que le président Aleksandar Vucic a annoncé qu'il démissionnera dans les prochaines semaines. Presto en a fait mention dans l'édition d'hier, mais c'est une nouvelle structurante qui mérite un rappel.
 
-En Europe, CBC World rapporte qu'une vague de chaleur a battu des records samedi en Suisse, en Tchéquie et au Danemark, alors que la chaleur qui avait frappé l'Europe de l'Ouest cette semaine se déplace vers les régions centrales et orientales du continent. Radio-Canada note de son côté que le Québec est mieux équipé pour faire face à de telles vagues de chaleur que l'Europe, 69 % des ménages québécois disposant d'un système de climatisation, contre environ 20 % en Europe.
-
-En Nouvelle-Calédonie, Al Jazeera rapporte que les premières élections provinciales depuis 2019 ont eu lieu dimanche, avec environ 2 500 policiers déployés pour sécuriser et surveiller les bureaux de vote, selon le radiodiffuseur public néo-zélandais cité par Al Jazeera.
-
-Du côté de la Coupe du monde de soccer, quelques résultats à noter. Al Jazeera rapporte que la République démocratique du Congo a décroché une place historique en phase à élimination directe. L'Iran, lui, est éliminé : Al Jazeera rapporte qu'un match nul 3 à 3 entre l'Autriche et l'Algérie a scellé le sort de l'équipe iranienne, qui ne participait pas directement à cette partie.
-  </chapitre>
-
-  <chapitre titre="Économie et marchés">
-On passe à l'économie. Les marchés étaient fermés vendredi aux États-Unis en raison du long week-end, donc pas de clôture boursière à rapporter ce matin. On fait plutôt le point sur deux dossiers substantiels.
-
-D'abord, l'industrie automobile allemande. Le Financial Times rapporte que les grands constructeurs automobiles allemands s'engagent dans des suppressions d'emplois que la source qualifie de considérables, sous la pression des constructeurs chinois qui inondent les marchés mondiaux. Le Financial Times ne précise pas les noms des constructeurs ou le nombre d'emplois touchés dans l'article disponible ce matin, mais il situe ce mouvement dans un contexte de concurrence structurelle qui redessine l'industrie automobile mondiale.
-
-Ensuite, Amazon Prime Day. Reuters rapporte que l'événement de vente annuel d'Amazon offre un aperçu de l'état du consommateur américain, qui navigue avec un budget serré. La source présente Prime Day comme un indicateur conjoncturel utile, sans en préciser les résultats chiffrés pour l'instant.
-
-Sur le plan macroéconomique, Bloomberg publie ce matin une analyse sur ce que la source décrit comme la stagnation de la Chine, en faisant valoir que le terme "japonification", souvent utilisé pour décrire une économie prise dans une longue période de faible croissance et de déflation, ne s'applique pas bien au cas chinois, dont les dynamiques sont différentes. L'analyse est éditoriale et de long terme, sans nouvelle économique immédiate à son cœur.
-
-Enfin, sur le pont Gordie Howe, le National Post rapporte qu'une famille de milliardaires de Detroit, propriétaire du pont Ambassador entre Detroit et Windsor depuis les années 1970, serait derrière les délais de mise en service du pont Gordie Howe, selon un candidat au Sénat américain cité dans l'article. La famille, dont le National Post décrit les intérêts d'affaires, aurait un soutien influent au niveau politique pour protéger sa position concurrentielle face au nouveau pont canado-américain.
-  </chapitre>
-
-  <chapitre titre="Actualité québécoise">
-Un mot sur l'actualité québécoise, avec deux dossiers ce matin.
-
-D'abord, les incendies de forêt dans le nord du Québec. La Presse rapporte qu'un cocktail de sécheresse et de foudre cause des difficultés importantes à la Société de protection des forêts contre le feu, la SOPFEU. Au total, 78 incendies ont été recensés dans la zone nordique de la SOPFEU en date du 27 juin, soit quatre fois plus que la moyenne des dix dernières années. La situation est particulièrement intense dans les régions nordiques de la province.
-
-Ensuite, deux accidents mortels survenus samedi. La Presse rapporte qu'un enfant de deux ans a perdu la vie dans une collision sur un terrain privé à Irlande, dans la région de Chaudière-Appalaches. La Sûreté du Québec enquête. La Presse rapporte également que deux motocyclistes ont perdu la vie dans une collision à Saint-André-de-Restigouche, en Gaspésie.
+Et enfin, en Europe, CBC World rapporte que la vague de chaleur qui a frappé l'Europe occidentale cette semaine s'est déplacée vers le centre et l'est du continent. Des records de température ont été enregistrés samedi en Suisse, au Danemark et en République tchèque.
   </chapitre>
 
   <chapitre titre="Politique canadienne">
-Un mot sur la politique canadienne, avec un dossier météo qui dépasse les frontières provinciales.
+Un mot sur la politique canadienne, avec deux dossiers ce matin.
 
-Global News rapporte que les Prairies canadiennes font face à une double menace ce week-end : des risques d'inondation en Alberta, alors qu'Edmonton approche d'un record de précipitations pour le mois de juin, et des veilles de tornade ainsi que des tempêtes importantes en Saskatchewan. La situation météorologique est surveillée de près par les autorités.
+D'abord, les "Lost Canadians" et les rappels de certificats de citoyenneté. Global News rapporte que le ministère de l'Immigration a commencé à envoyer des lettres à un nombre inconnu de personnes leur ordonnant de remettre des certificats de citoyenneté canadienne récemment émis. Global News précise que des avocats spécialisés en immigration ont réagi avec surprise, décrivant le manque d'explications du gouvernement comme une situation préoccupante. L'article ne précise pas les critères utilisés pour déterminer qui reçoit ces lettres ni le nombre total de personnes visées.
+
+Deuxième dossier : l'immigration et les droits des peuples autochtones. Le National Post rapporte qu'une femme amérindienne américaine, dont la demande de résidence permanente au Canada avait été refusée en raison de condamnations pour conduite avec les facultés affaiblies et possession de drogue, a obtenu gain de cause en appel. Le tribunal a conclu que l'agent d'immigration avait ignoré deux facteurs dans sa décision : l'intérêt supérieur de ses enfants et son statut de femme autochtone. L'affaire devra être réexaminée.
+
+Par ailleurs, le National Post publie aujourd'hui une analyse sur le programme souverainiste du Parti québécois, qui prévoit qu'un Québec indépendant demanderait à joindre l'OTAN et le Commandement de la défense aérospatiale de l'Amérique du Nord, le NORAD. Le texte soulève plusieurs obstacles pratiques à une telle adhésion, notamment le fait que l'adhésion à ces organisations requiert l'appui des membres existants, dont le Canada. Presto vous présente cette analyse à titre informatif.
+  </chapitre>
+
+  <chapitre titre="Économie et marchés">
+Un mot sur l'économie ce matin, avec deux dossiers substantiels.
+
+D'abord, la Banque des règlements internationaux, la BRI, a publié une mise en garde sur les risques liés à une possible correction dans le secteur de l'intelligence artificielle. Selon Bloomberg, la BRI estime qu'un repli du secteur de l'IA pourrait avoir des répercussions en cascade sur la croissance économique et sur les marchés du crédit. L'institution ne prédit pas un effondrement, mais signale que les valorisations actuelles dans le secteur créent des vulnérabilités systémiques si les attentes de revenus ne se matérialisent pas. C'est une mise en garde structurelle, pas une prévision à court terme.
+
+Deuxième dossier : The Economist publie une analyse sur la politique commerciale américaine à l'égard de la Chine. Selon The Economist, l'administration Trump pousse les entreprises chinoises hors du marché américain, mais conserve leurs technologies. Le phénomène crée ce que The Economist décrit comme une nouvelle catégorie d'investisseurs américains dans les technologies vertes : des entreprises qui rachètent des actifs chinois délaissés ou abandonnés sur le sol américain. C'est une dynamique qui illustre la complexité de la relation commerciale sino-américaine, où découplage politique et intégration technologique coexistent.
+
+Les marchés américains et canadiens étaient fermés vendredi en raison du long week-end, donc il n'y a pas de clôture boursière à rapporter ce matin.
   </chapitre>
 
   <chapitre titre="Tech">
 Un mot sur la tech, avec plusieurs dossiers ce matin.
 
-D'abord, Apple et les puces chinoises. The Verge rapporte qu'Apple cherche à obtenir une dérogation de l'administration Trump pour pouvoir acheter des puces de mémoire vive de CXMT, une entreprise chinoise inscrite sur la liste noire du Pentagone en raison de liens présumés avec l'Armée populaire de libération. Selon The Verge, qui cite le Financial Times, la montée en flèche des prix de la mémoire vive et du stockage a poussé Apple à relever les prix de presque tous ses produits récemment, ce qui explique l'intérêt de la compagnie pour des sources alternatives. The Verge note cependant que faire affaire avec une entreprise liée à l'armée chinoise comporterait des risques réputationnels importants, même si cela n'est pas légalement interdit.
+D'abord, un mouvement de personnel important entre Apple et OpenAI. TechCrunch rapporte que Paul Meade, le vice-président d'Apple responsable du Vision Pro, quitterait l'entreprise pour se joindre à l'équipe matériel d'OpenAI. Si la nouvelle se confirme, ce serait un signal que OpenAI accélère ses ambitions dans le domaine des appareils physiques, un terrain qu'Apple occupe depuis longtemps.
 
-Ensuite, un départ notable chez Apple. TechCrunch rapporte que Paul Meade, le vice-président d'Apple responsable du casque Vision Pro, quitterait l'entreprise pour rejoindre l'équipe matérielle d'OpenAI. Le rapport n'est pas encore confirmé par les parties.
+Toujours du côté d'Apple, The Verge rapportait hier qu'Apple cherche à obtenir une dérogation de l'administration Trump pour acheter des puces de mémoire vive auprès de CXMT, une entreprise chinoise inscrite sur la liste noire du Pentagone en raison de liens présumés avec l'Armée populaire de libération. The Verge précise qu'Apple n'est pas légalement interdite d'acheter ces puces, mais que faire affaire avec une entreprise liée à l'armée chinoise comporte des risques importants sur le plan de la réputation. Le contexte : la hausse des prix des composants mémoire a poussé Apple à augmenter le prix de presque tous ses produits cette semaine.
 
-Sur Anthropic et son modèle Mythos 5, CBC World rapporte que le gouvernement américain a permis à Anthropic de diffuser son modèle d'intelligence artificielle à certaines organisations américaines qualifiées de fiables, revenant en partie sur une décision prise il y a deux semaines de suspendre l'accès au modèle pour des raisons de sécurité nationale. Presto vous a suivi ce dossier depuis jeudi.
+Sur l'intelligence artificielle, Reuters Business rapportait hier que les États-Unis seraient sur le point de permettre à Anthropic de rétablir son modèle Fable 5, selon Axios. Presto vous avait rapporté vendredi que l'administration Trump avait autorisé plus de 100 entreprises et agences gouvernementales à utiliser un autre modèle d'Anthropic, Mythos 5. L'accès à Fable 5 avait visiblement été suspendu, et sa restauration est en cours d'approbation.
 
-Enfin, sur Elon Musk et les centres de données en orbite. TechCrunch rapporte que le PDG de SoftBank, Masayoshi Son, n'est pas le seul à se montrer sceptique face à la vision de Musk de placer des centres de données en orbite terrestre. La source rapporte des doutes dans le secteur quant à la viabilité et aux coûts de ce concept, sans que des chiffres précis ne soient disponibles.
+Enfin, un mot sur Margaret Atwood et l'intelligence artificielle. The Verge rapporte que l'autrice canadienne, lors d'un festival littéraire au Portugal, a dit avoir utilisé un outil d'intelligence artificielle une seule fois, le Claude d'Anthropic, et en être ressortie déçue. En anglais, je la cite : "Claude gave me the wrong answer, or it lied." Fin de citation. Atwood a ajouté que la machine ne savait pas qu'elle mentait parce qu'elle n'est pas un être humain. Elle a résumé son point de vue en disant que le problème de l'IA, c'est "garbage in, garbage out", c'est-à-dire qu'on ne peut pas obtenir mieux que ce qu'on y a mis. C'est une position partagée par de nombreux critiques du secteur, qui soulignent que la qualité des données d'entraînement détermine largement la fiabilité des réponses.
   </chapitre>
 
   <chapitre titre="Sport">
-On termine avec le sport, et quelques dossiers.
+On termine avec le sport, avec deux dossiers majeurs ce matin.
 
-D'abord, la Coupe du monde et le Canada. TVA Sports rapporte que le Canada veut continuer à écrire son histoire dans ce tournoi. La question de la disponibilité d'Alphonso Davies est au cœur des discussions, comme le souligne le National Post : la star canadienne a été présente dans l'actualité tout au long du tournoi, et le National Post s'interroge sur ses chances de participer au prochain match de l'équipe.
+D'abord, la Coupe du monde et le Canada. Aujourd'hui, l'équipe canadienne de soccer dispute son premier match en ronde éliminatoire de l'histoire, face à l'Afrique du Sud. Global News et Al Jazeera rapportent tous deux que c'est la première fois que le Canada atteint ce stade d'un Mondial masculin. Al Jazeera note par ailleurs que l'Iran a été éliminé du tournoi, et que l'Afrique continue de créer des surprises dans cette édition. La pression est forte sur le Canada, qui joue en terrain neutre, mais avec l'élan d'une phase de groupes réussie.
 
-Du côté de la LNH, les suites du repêchage continuent de faire les manchettes. Sportsnet rapporte que les Maple Leafs de Toronto ont acquis le défenseur Brandon Carlo par voie d'échange, une transaction que Sportsnet présente comme une autre pièce dans la reconstruction de la brigade défensive torontoise. Sportsnet mentionne également que Zach Werenski, gagnant du trophée Norris remis au meilleur défenseur de la ligue la saison dernière, pourrait être disponible par voie d'échange, et analyse pourquoi Toronto devrait s'y intéresser.
+Du côté de la LNH, quelques développements dans les suites du repêchage de vendredi dernier à Buffalo. Sportsnet rapporte que les Maple Leafs de Toronto ont échangé Brandon Carlo, décrit comme une pièce restante du bilan de la date limite des transactions de 2025. C'est selon Sportsnet un autre pas vers la reconstruction de la brigade défensive des Leafs. Par ailleurs, Sportsnet rapporte que les Flames de Calgary ont repêché Joe Iginla au 65e rang, fils de la légende calgaryenne Jarome Iginla. Le jeune homme rejoint ainsi l'ancienne équipe de son père.
 
-Radio-Canada rapporte pour sa part que le Canadien de Montréal a repêché Gleb Pugachyov en Russie, dans une démarche orientée vers la recherche de joueurs rares.
+En football canadien, Global News rapporte que les Stampeders de Calgary ont défait les Lions de la Colombie-Britannique par la marque de 41 à 33, samedi soir. C'était la première victoire des Stampeders de la jeune saison de la LCF.
 
-En baseball, Sportsnet rapporte que les Blue Jays de Toronto ont encaissé une cinquième défaite consécutive samedi, battus par les Rangers du Texas. Le lanceur Dylan Cease a connu des difficultés dans ce match.
-
-En football canadien, Global News rapporte que les Stampeders de Calgary ont battu les Lions de la Colombie-Britannique 41 à 33 samedi soir, signant leur première victoire de la jeune saison de la LCF. Vernon Adams fils a guidé l'attaque des Stampeders.
+Et du côté des Blue Jays de Toronto, Sportsnet rapporte que les Jays ont subi une cinquième défaite consécutive, cette fois contre les Rangers du Texas. C'est le lanceur Dylan Cease qui a eu des difficultés dans ce match.
   </chapitre>
 
-  <outro>Voilà pour ce Presto du dimanche 28 juin 2026. Si ce briefing vous est utile, le meilleur coup de main que vous pouvez nous donner, c'est de le partager à une personne qui aime rester informée. Et selon votre plateforme : un abonnement sur Spotify ou Apple Podcasts, un pouce bleu et un abonnement sur YouTube, ça prend deux secondes et ça aide vraiment Presto à grandir. Sur ce, bonne journée, et à demain.</outro>
+  <outro>Voilà pour ce Presto du dimanche 29 juin 2026. Si ce briefing vous est utile, le meilleur coup de main que vous pouvez nous donner, c'est de le partager à une personne qui aime rester informée. Et selon votre plateforme : un abonnement sur Spotify ou Apple Podcasts, un pouce bleu et un abonnement sur YouTube, ça prend deux secondes et ça aide vraiment Presto à grandir. Sur ce, bonne journée, et à demain.</outro>
 </script>
 ```
