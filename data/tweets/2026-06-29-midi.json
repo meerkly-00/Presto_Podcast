@@ -1,13 +1,13 @@
 {
   "date": "2026-06-29",
   "kind": "poll",
-  "text": "Ce matin → Washington et Téhéran annoncent une suspension mutuelle des attaques après des échanges de frappes la fin de semaine.\n\nNouveau : Trump annonce une rencontre avec l'Iran à Doha mardi, bien que\n\nSelon toi, cette suspension peut-elle mener à des négociations durables?",
+  "text": "Ce matin → Une vague de chaleur a tué ~1 300 personnes en Europe, dont 1 000 en France la semaine dernière.\n\nNouveau : L'Allemagne a enregistré 41,7°C, son record national.\n\nFace aux vagues de chaleur extrême, quelle approche te semble prioritaire?",
   "poll": {
     "options": [
-      "Oui, c'est un signal",
-      "Trop tôt pour se",
-      "Doute, tensions trop",
-      "Non, c'est tactique"
+      "Réduire les émissions de",
+      "Adapter les villes et",
+      "Les deux en parallèle",
+      "Incertain"
     ],
     "duration_minutes": 1440
   }
