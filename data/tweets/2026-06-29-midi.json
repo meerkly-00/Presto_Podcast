@@ -1,0 +1,14 @@
+{
+  "date": "2026-06-29",
+  "kind": "poll",
+  "text": "Ce matin → Washington et Téhéran annoncent une suspension mutuelle des attaques après des échanges de frappes la fin de semaine.\n\nNouveau : Trump annonce une rencontre avec l'Iran à Doha mardi, bien que\n\nSelon toi, cette suspension peut-elle mener à des négociations durables?",
+  "poll": {
+    "options": [
+      "Oui, c'est un signal",
+      "Trop tôt pour se",
+      "Doute, tensions trop",
+      "Non, c'est tactique"
+    ],
+    "duration_minutes": 1440
+  }
+}
