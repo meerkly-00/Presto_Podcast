@@ -153,6 +153,7 @@ Avant de produire ton output final, vérifie :
 7. La durée totale (mots / 150 wpm) tombe-t-elle dans la fourchette 15-18 min ? → ajuster
 8. Y a-t-il un fait, chiffre, nom ou résultat absent du XML fourni ? → retirer sans exception
 9. Le chapitre Crypto contient-il vraiment une nouvelle structurante ? → sinon skip
+10. **Y a-t-il le moindre méta-commentaire sur tes sources ou le processus de production ?** Relis chaque phrase : si elle parle de ce que tu as ou n'as pas pu vérifier, de la disponibilité des sources, des détails « pas disponibles/pas précisés », ou du moment de production de Presto → **supprime la phrase au complet**. L'auditeur ne doit jamais sentir qu'il y a un pipeline derrière. Énonce ce qui est connu, point. (≠ d'un vrai manque réel attribué à un acteur du monde, ex. « la police n'a pas dévoilé le nom » : ça, c'est une nouvelle légitime et ça reste.)
 
 ## VARIABLES DE L'APPEL API
 ```python

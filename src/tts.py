@@ -65,8 +65,12 @@ def _normalize_numbers_fr(text: str) -> str:
         f"{_n2w(int(m.group(1)))} virgule {' '.join(_n2w(int(d)) for d in m.group(2))}"
     ), text)
 
-    # Entiers restants (≥ 1000 pour éviter de sur-convertir)
-    text = re.sub(r"\b(\d{4,})\b", lambda m: _n2w(int(m.group(1))), text)
+    # Tous les entiers restants → mots français. Indispensable : une voix
+    # anglophone comme onyx lit un chiffre brut en anglais ("12" → "twelve",
+    # "28" → "twenty-eight", "500" → "five hundred"). On convertit donc TOUT
+    # ce qui reste (1 à 3 chiffres compris), une fois %, années, décimaux et
+    # grands nombres déjà traités au-dessus.
+    text = re.sub(r"\b(\d+)\b", lambda m: _n2w(int(m.group(1))), text)
 
     return text
 

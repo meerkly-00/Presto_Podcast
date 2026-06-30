@@ -71,6 +71,39 @@ def save_context(script_xml: str, date_fr: str, data_dir: str, context_file: str
         json.dump(entries, f, ensure_ascii=False, indent=2)
 
 
+# Filet de sécurité : supprime tout méta-commentaire sur les sources/le
+# processus que le LLM aurait laissé passer malgré la règle 7 du prompt.
+# Cible uniquement le méta-process (≠ un vrai manque attribué à un acteur du
+# monde, ex. « la police n'a pas dévoilé le nom » qui reste une nouvelle).
+_META_SOURCE = (
+    r"(?:"
+    r"sources?[^.!?<>]{0,40}?(?:disponibl\w*|fournies)"
+    r"|je n'ai pas pu (?:vérifier|confirmer)\w*"
+    r"|aucune source[^.!?<>]{0,30}?(?:confirm\w*|disponibl\w*)"
+    r"|informations? non (?:confirmé\w*|vérifié\w*)"
+    r"|au moment de (?:la production|la mise en presse|la publication|produire ce briefing|écrire ces lignes)"
+    r"|il n'a pas été possible de (?:vérifier|confirmer|obtenir)"
+    r"|les détails (?:ne sont pas (?:disponibles|précisés|connus)|manquent|restent imprécis)"
+    r")"
+)
+# Une « phrase » sans balise ni ponctuation interne, contenant le motif méta,
+# se terminant par . ! ? — on l'efface en entier. [^.!?<>] garantit qu'on ne
+# traverse jamais une frontière de phrase ni une balise XML.
+_META_SENTENCE_RE = re.compile(
+    r"\s*[^.!?<>]*?" + _META_SOURCE + r"[^.!?<>]*[.!?]",
+    re.IGNORECASE,
+)
+
+
+def strip_meta_source_commentary(script_xml: str) -> tuple[str, int]:
+    cleaned, n = _META_SENTENCE_RE.subn("", script_xml)
+    if n:
+        # Nettoie les espaces doublés laissés par la suppression.
+        cleaned = re.sub(r"[ \t]{2,}", " ", cleaned)
+        cleaned = re.sub(r"\n[ \t]+\n", "\n\n", cleaned)
+    return cleaned, n
+
+
 def generate_script(
     articles_xml: str,
     system_prompt: str,
@@ -105,6 +138,11 @@ def generate_script(
     )
 
     script = message.content[0].text
+
+    script, n_meta = strip_meta_source_commentary(script)
+    if n_meta:
+        logger.warning("Filtre méta-sources : %d phrase(s) supprimée(s) du script.", n_meta)
+
     logger.info(
         "Script généré : ~%d mots, ~%.0f min de lecture",
         len(script.split()),
