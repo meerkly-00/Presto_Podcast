@@ -1,13 +1,13 @@
 {
   "date": "2026-06-30",
   "kind": "poll",
-  "text": "Ce matin → La Cour suprême américaine a rejeté la tentative de Trump d'abolir le droit du sol. Le 14e amendement demeure : tout enfant né aux États-Unis est citoyen. Vote : 6-3.\n\nSelon toi, le droit du sol devrait-il s'appliquer à tout enfant né sur le territoire?",
+  "text": "Ce matin → Trump voulait limiter le droit du sol aux États-Unis.\n\nMardi, la Cour suprême a rejeté cette proposition et confirmé que le 14e amendement confère la nationalité à tout enfant né sur le\n\nLe droit du sol devrait-il être le critère de la citoyenneté à la naissance?",
   "poll": {
     "options": [
-      "Oui, sans exception",
-      "Oui, sauf cas",
-      "Non, il faut vérifier le",
-      "Non, il faut l'abolir"
+      "Oui, tel que confirmé",
+      "Non, d'autres critères",
+      "À revoir selon contexte",
+      "Sans opinion"
     ],
     "duration_minutes": 1440
   }
