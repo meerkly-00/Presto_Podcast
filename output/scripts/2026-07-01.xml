@@ -1,0 +1,103 @@
+```xml
+<script>
+  <intro>Bonjour, on est le mercredi 1er juillet 2026, fête du Canada. Voici votre Presto en environ 17 minutes. Au menu ce matin : l'ACEUM et ce que son avenir signifie pour le Canada, la fête du Canada sur fond de référendum en Alberta, plusieurs décisions importantes de la Cour suprême américaine, le séisme au Venezuela, les marchés et le bilan du trimestre, et quelques dossiers en tech.</intro>
+
+  <chapitre titre="Politique canadienne">
+On commence par la politique canadienne, avec deux dossiers étroitement liés ce matin : l'ACEUM et le référendum albertain.
+
+D'abord, l'accord de libre-échange. C'est aujourd'hui, le 1er juillet, que les États-Unis devaient se prononcer formellement sur la reconduction de l'Accord Canada–États-Unis–Mexique, communément appelé l'ACEUM. Et le scénario que beaucoup anticipaient semble se concrétiser. Reuters rapportait hier que Washington s'orienterait vers la non-reconduction de l'accord, ce qui déclencherait un compte à rebours de dix ans avant la fin officielle du traité. Pour l'instant, cela ne change rien d'immédiat : l'accord reste en vigueur pendant cette période de transition.
+
+Le premier ministre Mark Carney a cherché à calmer le jeu. Le Devoir rapporte qu'il a déclaré hier ne pas s'attendre à un drame dans les discussions sur l'ACEUM, et que l'accord restera en vigueur malgré l'échéance du 1er juillet, quelle que soit la décision de Washington. Carney a ainsi tenté de tempérer les inquiétudes des milieux économiques, qui suivent la situation depuis plusieurs semaines.
+
+Les enjeux restent significatifs. BNN Bloomberg rapporte que l'énergie canadienne porte actuellement l'économie, pendant que les tarifs continuent de peser sur le secteur manufacturier, selon des économistes. Par ailleurs, BNN Bloomberg indique aussi que le PIB d'avril a affiché un rebond solide, ce qui amène des économistes à conclure que le Canada n'est pas en récession.
+
+Toujours du côté canadien, un dossier distinct mais qui colore la journée du 1er juillet : l'Alberta et son référendum à venir sur la place de la province au sein du Canada. Radio-Canada rapporte que les célébrations de la fête du Canada se déroulent ce matin dans un contexte particulier pour les Albertains, qui seront bientôt appelés à voter sur cette question. Les réactions sur le terrain sont contrastées. Certains disent que le référendum restait en arrière-plan, d'autres tenaient à mettre la politique de côté pour simplement célébrer. L'ACFA régionale de Cold Lake organisait pour la deuxième année consécutive un événement pour le 1er juillet, et sa directrice générale, Christine St. Laurent, a dit y voir avant tout une célébration, sans y penser dans l'optique du référendum.
+
+La situation avec l'Alberta reflète une tension plus large sur la question de l'unité nationale, dans un contexte commercial difficile avec les États-Unis.
+
+Du côté de l'Ouest canadien, CBC rapporte que des équipes de recherche et sauvetage ont terminé l'évacuation des campeurs coincés dans le parc Kananaskis Country en Alberta, après que des glissements de terrain et des inondations avaient fermé plus de cent kilomètres de routes dans les parcs provinciaux le long des Rocheuses.
+
+Un autre dossier albertain mérite mention. CBC rapporte que la première ministre Danielle Smith balaie du revers de la main l'opposition publique d'un député d'arrière-ban de son propre parti, le Parti conservateur uni, contre l'entente de principe conclue avec Ottawa concernant la construction d'un pipeline pétrolier.
+  </chapitre>
+
+  <chapitre titre="International">
+On passe à l'international, avec plusieurs dossiers importants ce matin.
+
+D'abord, et c'est la décision la plus attendue depuis l'ouverture du terme judiciaire américain, la Cour suprême des États-Unis a statué hier sur la citoyenneté par droit du sol. BBC World et Al Jazeera rapportent tous deux que la Cour a maintenu le principe du droit à la citoyenneté américaine à la naissance pour les enfants nés sur le sol américain, y compris ceux de parents en situation irrégulière. Il s'agit d'un revers pour l'administration Trump, qui cherchait à mettre fin à cette pratique par décret exécutif.
+
+La décision a suscité des réactions vives dans l'entourage politique proche du président, selon Al Jazeera. Les groupes de défense des droits civils, eux, ont accueilli la décision favorablement. BBC World note que cette décision s'inscrit dans un terme de la Cour qui a été à la fois défavorable à Trump sur certains enjeux, tout en lui accordant d'autres victoires importantes, notamment sur la capacité du président à congédier des dirigeants d'institutions fédérales indépendantes, une décision rendue lundi que Presto a couverte.
+
+Par ailleurs, le National Post rapporte que la Cour suprême a accepté d'entendre des contestations contre des lois interdisant la possession d'armes dites d'assaut. Cette décision d'entendre la cause ne tranche rien au fond, mais elle ouvre la voie à un éventuel jugement sur le droit constitutionnel des Américains à posséder ce type d'armes, qui ont été utilisées dans de nombreuses fusillades de masse.
+
+Toujours aux États-Unis, une révélation financière d'envergure. Reuters et BBC World rapportent que Donald Trump a déclaré plus d'un milliard quatre cents millions de dollars américains en revenus provenant de ses activités dans le secteur des cryptomonnaies au cours de sa première année de retour à la Maison-Blanche. BBC World précise que ces revenus liés à la crypto surpassent largement ses gains immobiliers et ses revenus d'articles à son effigie. Ce dossier soulève des questions sur les conflits d'intérêts potentiels pour un président dont l'administration prend des décisions de réglementation sur ces mêmes actifs.
+
+Sur le front de la guerre en Ukraine, Reuters rapporte que la Suède et l'Ukraine ont signé un contrat d'achat de chasseurs Gripen d'une valeur de deux milliards cinq cents quarante millions de dollars américains. C'est un engagement militaire occidental significatif envers Kyiv.
+
+Du côté russe, l'Associated Press rapporte que des frappes de drones ukrainiens sur des raffineries de pétrole russes plongent la Russie dans une crise des carburants en période estivale.
+
+Le séisme au Venezuela continue de faire des ravages. Le Devoir rapporte que le bilan est monté à 1 943 morts, et que la nourriture commence à manquer dans les zones sinistrées. En parallèle, BBC World rapporte une note d'espoir : des sauveteurs ont extrait vivant un enfant de trois ans des décombres à La Guaira, six jours après le tremblement de terre. C'est une opération qui a suscité des scènes d'émotion parmi les équipes de secours.
+
+Enfin, en Indonésie, Al Jazeera rapporte que Nadiem Makarim, cofondateur de l'application Gojek et ancien ministre de l'Éducation, a été condamné à dix ans de prison.
+  </chapitre>
+
+  <chapitre titre="Économie et marchés">
+Un mot sur l'économie et les marchés, avec un bilan trimestriel notable et quelques dossiers importants.
+
+Reuters Business rapporte que le S&P 500 et le Nasdaq ont enregistré leur meilleur trimestre depuis 2020 pour le deuxième trimestre de 2026. C'est une performance qui contraste avec le contexte géopolitique tendu, notamment le conflit impliquant l'Iran, dont Presto a rendu compte ces dernières semaines.
+
+Du côté des obligations américaines, le Wall Street Journal rapporte que les rendements des bons du Trésor ont prolongé leur hausse trimestrielle, soutenue par la résistance de l'économie américaine. Le dollar progressait en début de séance selon Bloomberg, dans l'attente d'un discours de Kevin Warsh, le président de la Réserve fédérale américaine. Le Wall Street Journal note par ailleurs que Warsh souhaite que la Fed communique moins publiquement, ce qui paradoxalement pousse les marchés à décortiquer chacune de ses interventions encore plus attentivement.
+
+Sur le marché de l'or, le Financial Times rapporte que le métal jaune se dirige vers son pire trimestre en plus d'une décennie, après que l'engouement des petits investisseurs s'est dissipé.
+
+Du côté du cuivre, Bloomberg rapporte que les négociants se préparent à une nouvelle période de turbulences liées aux tarifs douaniers.
+
+À noter pour le Canada, BNN Bloomberg rapporte que le PIB d'avril a affiché un rebond solide, confirmant selon des économistes que le Canada n'est pas en récession. Le secteur énergétique continue de porter l'activité économique, pendant que le secteur manufacturier reste sous pression à cause des tarifs américains.
+
+Un contrat gouvernemental d'envergure au pays : Les Affaires rapporte que MDA Space, l'entreprise spatiale canadienne, recevra 688 millions de dollars pour construire le satellite de remplacement de RADARSAT. C'est un contrat fédéral majeur pour une entreprise dont le siège est en Colombie-Britannique mais qui a des activités importantes au Canada.
+
+Du côté de la Banque mondiale, le Financial Times rapporte qu'elle s'oriente vers l'élimination progressive de ses prêts à la Chine, ce qui représente un changement de cap institutionnel notable.
+
+Enfin, UBS a publié ses données sur la richesse mondiale. BNN Bloomberg rapporte qu'un nombre record de nouveaux millionnaires a été créé en 2025 à l'échelle planétaire, selon cette étude de la banque suisse.
+  </chapitre>
+
+  <chapitre titre="Tech">
+Un mot sur la tech, avec plusieurs dossiers substantiels ce matin.
+
+D'abord, l'intelligence artificielle et la politique américaine. TechCrunch et The Verge rapportent tous deux que l'administration Trump a levé les contrôles à l'exportation qui pesaient sur deux modèles d'Anthropic, Claude Fable 5 et Claude Mythos 5. Anthropic a indiqué qu'il commencerait à rétablir l'accès à ces modèles dès aujourd'hui pour les utilisateurs à l'échelle mondiale, et qu'il réactiverait l'accès sur AWS, Google Cloud et Microsoft Foundry, sans calendrier précis pour ces plateformes. TechCrunch note que l'approche de l'administration Trump en matière de politique d'intelligence artificielle a laissé les entreprises du secteur avec peu de certitudes sur ce qui gouvernera les prochaines publications de modèles. Dans le même élan, le Financial Times rapporte qu'Anthropic a lancé Claude Science, un produit ciblant le secteur pharmaceutique pour générer des revenus dans ce domaine.
+
+Microsoft de son côté s'apprête à tailler dans ses effectifs. Reuters Business rapporte que l'entreprise prévoit de réduire moins de 2,5 % de son personnel mondial dans la dernière vague de mises à pied.
+
+Du côté de Meta, The Verge rapporte que l'entreprise s'apprête à imposer des limites d'utilisation à ses lunettes connectées. La fonctionnalité Conversation Focus sera plafonnée à trois heures par mois pour les utilisateurs non abonnés, et à quinze heures pour ceux qui paient un abonnement mensuel de 19,99 dollars américains appelé Meta One Premium. The Verge note que cette limite s'applique à du matériel que les utilisateurs ont déjà acheté.
+
+Deux nouvelles de faillite et de restructuration. The Verge rapporte que Dish, l'entreprise qui opère Dish TV et Sling TV, a déposé une demande de protection en vertu du chapitre 11 de la loi américaine sur les faillites. La cause invoquée est un retard imprévu dans la vente d'un bloc de spectre 5G d'une valeur de 23 milliards de dollars à AT&T. Dish TV, Sling TV et les autres marques du groupe continueront d'opérer pendant le processus, et l'entreprise dit viser une sortie du chapitre 11 d'ici la fin du troisième trimestre 2026.
+
+La Commission fédérale du commerce américaine, la FTC, a infligé une amende de 2,25 millions de dollars américains à Amazon, selon The Verge. La FTC reproche à Amazon d'avoir refusé de fournir à des victimes d'usurpation d'identité les informations dont elles avaient besoin sur des comptes ouverts frauduleusement en leur nom, en violation de la loi américaine sur la protection du crédit.
+
+Enfin, une nouvelle symbolique dans le monde de l'internet. TechCrunch rapporte que Vinton Cerf, l'un des pères fondateurs des protocoles sur lesquels repose internet, quittera son poste d'évangéliste en chef de l'internet chez Google la semaine prochaine.
+  </chapitre>
+
+  <chapitre titre="Actualité québécoise">
+Un mot sur l'actualité québécoise, avec quelques dossiers ce matin.
+
+D'abord, la chaleur. Le Journal de Montréal rapporte que des personnes sont décédées au Québec en raison de la canicule actuelle. Le Devoir rapportait hier que la santé publique montréalaise appelait à la solidarité entre citoyens, en soulignant que ceux qui ont accès à des endroits climatisés doivent aider à protéger les autres. Cette vague de chaleur s'inscrit dans un contexte mondial : La Presse rapporte que les océans mondiaux viennent de connaître leur mois de juin le plus chaud jamais observé, sous l'effet combiné d'El Niño et du réchauffement climatique, selon l'observatoire européen Copernicus Marine.
+
+Sur le dossier du logement abordable, Radio-Canada rapporte qu'un quatre et demi financé par Québec se loue à 1 100 dollars par mois, ce qui soulève la question de savoir si ces unités sont réellement abordables pour les ménages à faibles et moyens revenus.
+
+Du côté judiciaire, La Presse rapporte que onze adolescents font face à des accusations dans le cadre de l'enquête sur les événements entourant la mort du jeune Nooran Rezayi, à Longueuil, en septembre dernier. Et un policier tué lors de la fusillade survenue dans le quartier Côte-des-Neiges à Montréal la semaine dernière sera honoré lors d'une cérémonie commémorative au Centre Bell.
+
+Enfin, Radio-Canada rapporte que le mégasite d'enfouissement de Lachenaie, à Terrebonne, a obtenu l'autorisation d'agrandir sa capacité en urgence, permettant l'enfouissement de plus d'un million deux cents mille tonnes supplémentaires de déchets. Ce site est décrit comme le plus grand site d'enfouissement du Québec.
+  </chapitre>
+
+  <chapitre titre="Sport">
+On termine avec le sport, et deux dossiers ce matin.
+
+D'abord, une transaction majeure à Toronto. Sportsnet rapporte que les Raptors de Toronto ont acquis Kawhi Leonard, dans ce que le journaliste Michael Grange décrit comme la plus grande transaction dans le sport torontois depuis la première fois que les Raptors avaient obtenu Leonard. Sportsnet note que l'équipe est radicalement différente en vue de la saison 2026-2027, mais que cette acquisition comporte aussi des risques. Leonard, qu'on se souvient, avait mené les Raptors au titre de la NBA en 2019 avant de quitter en tant qu'agent libre.
+
+En hockey, deux nouvelles rapides pour ce 1er juillet, qui marque l'ouverture officielle des transactions. Sportsnet rapporte que Zach Werenski, défenseur des Blue Jackets de Columbus, a exercé sa clause de non-échange pour bloquer un échange vers les Stars de Dallas, selon le journaliste Elliotte Friedman. Du côté des Oilers d'Edmonton, Sportsnet rapporte que l'organisation relance sa recherche d'un gardien de but pour la prochaine saison.
+
+Les Blue Jays de Toronto, quant à eux, ont subi une défaite en vertu d'un jeu blanc hier soir contre les Mets de New York, malgré six manches solides du lanceur Kevin Gausman.
+  </chapitre>
+
+  <outro>Voilà pour ce Presto du 1er juillet 2026. Si ce briefing vous est utile, le meilleur coup de main que vous pouvez nous donner, c'est de le partager à une personne qui aime rester informée. Et selon votre plateforme : un abonnement sur Spotify ou Apple Podcasts, un pouce bleu et un abonnement sur YouTube, ça prend deux secondes et ça aide vraiment Presto à grandir. Sur ce, bonne journée, et à demain.</outro>
+</script>
+```
