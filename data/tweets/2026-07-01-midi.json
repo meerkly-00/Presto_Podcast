@@ -1,0 +1,14 @@
+{
+  "date": "2026-07-01",
+  "kind": "poll",
+  "text": "Ce matin → Les É.-U. refusent de reconduire l'ACEUM.\n\nNouveau : L'administration Trump a officiellement annoncé son refus d'étendre l'accord commercial.\n\nComment devraient réagir le Canada et le Mexique?",
+  "poll": {
+    "options": [
+      "Négocier rapidement un",
+      "Attendre les dix années",
+      "Préparer des mesures",
+      "Demander la médiation"
+    ],
+    "duration_minutes": 1440
+  }
+}
