@@ -1,103 +1,97 @@
 ```xml
 <script>
-  <intro>Bonjour, on est le mercredi 1er juillet 2026, fête du Canada. Voici votre Presto en environ 17 minutes. Au menu ce matin : l'ACEUM et ce que son avenir signifie pour le Canada, la fête du Canada sur fond de référendum en Alberta, plusieurs décisions importantes de la Cour suprême américaine, le séisme au Venezuela, les marchés et le bilan du trimestre, et quelques dossiers en tech.</intro>
+ <intro>Bonjour, on est le mercredi 1er juillet 2026, fête du Canada. Voici votre Presto en environ 17 minutes. Au menu aujourd'hui : politique canadienne, actualité québécoise, international, économie et marchés, tech, et un mot sur le sport.</intro>
 
-  <chapitre titre="Politique canadienne">
-On commence par la politique canadienne, avec deux dossiers étroitement liés ce matin : l'ACEUM et le référendum albertain.
+ <chapitre titre="Politique canadienne">
+On commence par la politique canadienne, avec deux dossiers importants en ce 1er juillet.
 
-D'abord, l'accord de libre-échange. C'est aujourd'hui, le 1er juillet, que les États-Unis devaient se prononcer formellement sur la reconduction de l'Accord Canada–États-Unis–Mexique, communément appelé l'ACEUM. Et le scénario que beaucoup anticipaient semble se concrétiser. Reuters rapportait hier que Washington s'orienterait vers la non-reconduction de l'accord, ce qui déclencherait un compte à rebours de dix ans avant la fin officielle du traité. Pour l'instant, cela ne change rien d'immédiat : l'accord reste en vigueur pendant cette période de transition.
+D'abord, la fête du Canada sous le signe du référendum albertain. Radio-Canada rapporte que les célébrations se déroulent cette année dans un contexte particulier en Alberta, alors que les résidents de la province seront prochainement appelés à se prononcer sur la place de l'Alberta au sein du Canada. Certains Albertains consultés par Radio-Canada disent vouloir mettre la politique de côté pour la journée. L'un d'eux, identifié sous le nom de Sam Toth, dit avoir acheté des tatouages temporaires à ses enfants pour les encourager à être fiers d'être canadiens, tout en admettant que le référendum restera en arrière-plan. Une autre résidente, Vishakha Sunger, estime que les voix du mouvement séparatiste sont parfois les plus fortes. D'autres, comme Jasneet Uppal, demandent simplement de laisser la politique de côté et de célébrer. L'ACFA, l'Association canadienne-française de l'Alberta, organise pour une deuxième année consécutive un événement pour le 1er juillet à Cold Lake, et sa directrice générale, Christine St. Laurent, dit n'avoir pas pensé à la journée dans l'optique du référendum.
 
-Le premier ministre Mark Carney a cherché à calmer le jeu. Le Devoir rapporte qu'il a déclaré hier ne pas s'attendre à un drame dans les discussions sur l'ACEUM, et que l'accord restera en vigueur malgré l'échéance du 1er juillet, quelle que soit la décision de Washington. Carney a ainsi tenté de tempérer les inquiétudes des milieux économiques, qui suivent la situation depuis plusieurs semaines.
+Le deuxième dossier, c'est le pont Gordie Howe. Le National Post rapporte qu'un élu américain du Congrès, un représentant républicain de la Californie, s'est joint au groupe de voix réclamant l'ouverture du pont international Gordie Howe, qui relie Windsor en Ontario à Detroit au Michigan. Le pont est construit mais toujours fermé, et selon le National Post, le représentant a dit, je le cite en anglais : "Canada gave us a free bridge." Fin de citation. L'enjeu de l'ouverture de ce pont continue de créer des remous des deux côtés de la frontière.
 
-Les enjeux restent significatifs. BNN Bloomberg rapporte que l'énergie canadienne porte actuellement l'économie, pendant que les tarifs continuent de peser sur le secteur manufacturier, selon des économistes. Par ailleurs, BNN Bloomberg indique aussi que le PIB d'avril a affiché un rebond solide, ce qui amène des économistes à conclure que le Canada n'est pas en récession.
+Et rappel de contexte commercial : c'est aussi le sixième anniversaire de l'Accord Canada–États-Unis–Mexique, l'ACEUM, communément appelé CUSMA en anglais. Selon le National Post, le 1er juillet marque cet anniversaire dans un contexte de tensions commerciales persistantes entre Ottawa et Washington. Ce dossier, qu'on a suivi de près cette semaine, continue d'évoluer.
 
-Toujours du côté canadien, un dossier distinct mais qui colore la journée du 1er juillet : l'Alberta et son référendum à venir sur la place de la province au sein du Canada. Radio-Canada rapporte que les célébrations de la fête du Canada se déroulent ce matin dans un contexte particulier pour les Albertains, qui seront bientôt appelés à voter sur cette question. Les réactions sur le terrain sont contrastées. Certains disent que le référendum restait en arrière-plan, d'autres tenaient à mettre la politique de côté pour simplement célébrer. L'ACFA régionale de Cold Lake organisait pour la deuxième année consécutive un événement pour le 1er juillet, et sa directrice générale, Christine St. Laurent, a dit y voir avant tout une célébration, sans y penser dans l'optique du référendum.
+Enfin, du côté de la sécurité publique au Québec, Global News rapporte que le service de police de Montréal, le SPVM, a annoncé mardi qu'une cérémonie commémorative se tiendra le 7 juillet au Centre Bell en mémoire de l'agent Mohamed Lamine Benredouane, qui a été tué dans l'exercice de ses fonctions.
+ </chapitre>
 
-La situation avec l'Alberta reflète une tension plus large sur la question de l'unité nationale, dans un contexte commercial difficile avec les États-Unis.
+ <chapitre titre="Actualité québécoise">
+Un mot sur l'actualité québécoise, avec plusieurs dossiers ce matin.
 
-Du côté de l'Ouest canadien, CBC rapporte que des équipes de recherche et sauvetage ont terminé l'évacuation des campeurs coincés dans le parc Kananaskis Country en Alberta, après que des glissements de terrain et des inondations avaient fermé plus de cent kilomètres de routes dans les parcs provinciaux le long des Rocheuses.
+D'abord, la crise du logement et le 1er juillet. La Presse publie un portrait de l'intérieur de ce que les équipes de la Ville de Montréal appellent l'opération 1er juillet. Des intervenants coordonnent une aide d'urgence pour les locataires en détresse, ceux qui perdent leur logement au tournant du renouvellement des baux. L'objectif décrit par La Presse : trouver une solution de logement durable pour éviter que des gens se retrouvent à la rue. C'est un enjeu récurrent à Montréal, où le 1er juillet est aussi la date habituelle d'expiration de la majorité des baux résidentiels.
 
-Un autre dossier albertain mérite mention. CBC rapporte que la première ministre Danielle Smith balaie du revers de la main l'opposition publique d'un député d'arrière-ban de son propre parti, le Parti conservateur uni, contre l'entente de principe conclue avec Ottawa concernant la construction d'un pipeline pétrolier.
-  </chapitre>
+Radio-Canada rapporte aussi ce matin que le site d'enfouissement de Terrebonne, décrit comme le plus grand du Québec, vient d'être agrandi en urgence. Plus de 1,2 million de tonnes de déchets supplémentaires pourront y être enfouis, selon Radio-Canada. Cette décision s'inscrit dans un contexte où la gestion des matières résiduelles reste un enjeu pressant pour la province.
 
-  <chapitre titre="International">
-On passe à l'international, avec plusieurs dossiers importants ce matin.
+Toujours en Montérégie, La Presse rapporte qu'un projet d'usine de captation et d'embouteillage d'eau souterraine à Hinchinbrooke suscite une vive opposition dans la région. C'est la deuxième usine de ce type qui arriverait dans ce secteur. Les opposants font valoir que les pénuries d'eau sont de plus en plus fréquentes dans la région et que les nouveaux projets industriels d'embouteillage font peser un risque supplémentaire sur la ressource.
 
-D'abord, et c'est la décision la plus attendue depuis l'ouverture du terme judiciaire américain, la Cour suprême des États-Unis a statué hier sur la citoyenneté par droit du sol. BBC World et Al Jazeera rapportent tous deux que la Cour a maintenu le principe du droit à la citoyenneté américaine à la naissance pour les enfants nés sur le sol américain, y compris ceux de parents en situation irrégulière. Il s'agit d'un revers pour l'administration Trump, qui cherchait à mettre fin à cette pratique par décret exécutif.
+Également, Radio-Canada rapporte que les nouveaux logements qualifiés d'abordables par Québec soulèvent des questions. Selon le reportage, un appartement de quatre pièces et demie dans ces unités financées par la province se loue à 1100 dollars par mois. Le terme "abordable" est contesté dans ce contexte.
 
-La décision a suscité des réactions vives dans l'entourage politique proche du président, selon Al Jazeera. Les groupes de défense des droits civils, eux, ont accueilli la décision favorablement. BBC World note que cette décision s'inscrit dans un terme de la Cour qui a été à la fois défavorable à Trump sur certains enjeux, tout en lui accordant d'autres victoires importantes, notamment sur la capacité du président à congédier des dirigeants d'institutions fédérales indépendantes, une décision rendue lundi que Presto a couverte.
+Du côté de la météo, Environnement Canada a émis des alertes de chaleur à l'échelle du pays, selon le National Post, avec des températures pouvant atteindre 37 degrés Celsius. Le Journal de Montréal avait rapporté hier que des personnes sont décédées au Québec lors de la canicule actuelle, et cette vague de chaleur se poursuit.
+ </chapitre>
 
-Par ailleurs, le National Post rapporte que la Cour suprême a accepté d'entendre des contestations contre des lois interdisant la possession d'armes dites d'assaut. Cette décision d'entendre la cause ne tranche rien au fond, mais elle ouvre la voie à un éventuel jugement sur le droit constitutionnel des Américains à posséder ce type d'armes, qui ont été utilisées dans de nombreuses fusillades de masse.
+ <chapitre titre="International">
+On passe à l'international, avec plusieurs dossiers importants.
 
-Toujours aux États-Unis, une révélation financière d'envergure. Reuters et BBC World rapportent que Donald Trump a déclaré plus d'un milliard quatre cents millions de dollars américains en revenus provenant de ses activités dans le secteur des cryptomonnaies au cours de sa première année de retour à la Maison-Blanche. BBC World précise que ces revenus liés à la crypto surpassent largement ses gains immobiliers et ses revenus d'articles à son effigie. Ce dossier soulève des questions sur les conflits d'intérêts potentiels pour un président dont l'administration prend des décisions de réglementation sur ces mêmes actifs.
+D'abord, la Cour suprême des États-Unis et le droit du sol. BBC World rapporte que la Cour suprême américaine a statué en faveur du maintien de la citoyenneté par droit du sol, rejetant ainsi les efforts de l'administration Trump pour la restreindre. Le Devoir précise que les enfants nés sur le sol américain de parents à statut irrégulier ou temporaire conservent leur statut de citoyens américains. BBC World décrit la décision comme un revers pour l'agenda migratoire de Donald Trump, et Al Jazeera et d'autres médias la qualifient de victoire pour les groupes de défense des droits civils.
 
-Sur le front de la guerre en Ukraine, Reuters rapporte que la Suède et l'Ukraine ont signé un contrat d'achat de chasseurs Gripen d'une valeur de deux milliards cinq cents quarante millions de dollars américains. C'est un engagement militaire occidental significatif envers Kyiv.
+Toujours à la Cour suprême américaine, l'Associated Press rapporte que le tribunal a par ailleurs confirmé la validité des lois étatiques interdisant aux filles et aux femmes transgenres de participer aux équipes sportives scolaires féminines. Cette décision, distincte du dossier du droit du sol, a été bien accueillie par les gouvernements républicains des États concernés. Les groupes de défense des droits LGBTQ ont exprimé leur désaccord avec le jugement.
 
-Du côté russe, l'Associated Press rapporte que des frappes de drones ukrainiens sur des raffineries de pétrole russes plongent la Russie dans une crise des carburants en période estivale.
+Maintenant, l'Ukraine et la Russie. Al Jazeera rapporte que des frappes russes ont tué trois personnes en Ukraine, pendant que le président ukrainien Volodymyr Zelensky dit que Kyiv étend sa campagne de drones à longue portée avec de nouvelles frappes en profondeur sur le territoire russe. L'Associated Press rapporte de son côté que les attaques répétées de drones ukrainiens sur des raffineries de pétrole russes commencent à plonger la Russie dans une pénurie de carburant estivale.
 
-Le séisme au Venezuela continue de faire des ravages. Le Devoir rapporte que le bilan est monté à 1 943 morts, et que la nourriture commence à manquer dans les zones sinistrées. En parallèle, BBC World rapporte une note d'espoir : des sauveteurs ont extrait vivant un enfant de trois ans des décombres à La Guaira, six jours après le tremblement de terre. C'est une opération qui a suscité des scènes d'émotion parmi les équipes de secours.
+Et un développement notable dans les relations militaires entre Moscou et Pékin. Reuters rapporte en exclusivité que la Russie a approuvé, au plus haut niveau, un programme d'entraînement militaire secret pour des soldats chinois. L'agence cite des sources anonymes. Ni Moscou ni Pékin n'ont commenté officiellement.
 
-Enfin, en Indonésie, Al Jazeera rapporte que Nadiem Makarim, cofondateur de l'application Gojek et ancien ministre de l'Éducation, a été condamné à dix ans de prison.
-  </chapitre>
+En Belgique, BBC World rapporte qu'un incendie dans un immeuble à appartements de dix étages dans le quartier Linkeroever d'Anvers a fait au moins cinq morts.
 
-  <chapitre titre="Économie et marchés">
-Un mot sur l'économie et les marchés, avec un bilan trimestriel notable et quelques dossiers importants.
+Un mot enfin sur les revenus en cryptomonnaies du président Trump. Reuters rapporte que Trump a déclaré plus de 1,4 milliard de dollars américains en revenus provenant de ses entreprises liées aux cryptomonnaies. BBC World précise que ces revenus dépassent largement ses entrées d'argent liées à l'immobilier ou à ses produits dérivés. Ce dossier soulève des questions sur les conflits d'intérêts potentiels pour un président dont l'administration élabore simultanément des politiques de régulation du secteur crypto. Les partisans de Trump font valoir que ses intérêts ont été divulgués de manière transparente.
+ </chapitre>
 
-Reuters Business rapporte que le S&P 500 et le Nasdaq ont enregistré leur meilleur trimestre depuis 2020 pour le deuxième trimestre de 2026. C'est une performance qui contraste avec le contexte géopolitique tendu, notamment le conflit impliquant l'Iran, dont Presto a rendu compte ces dernières semaines.
+ <chapitre titre="Économie et marchés">
+Un mot sur l'économie et les marchés, avec plusieurs dossiers substantiels.
 
-Du côté des obligations américaines, le Wall Street Journal rapporte que les rendements des bons du Trésor ont prolongé leur hausse trimestrielle, soutenue par la résistance de l'économie américaine. Le dollar progressait en début de séance selon Bloomberg, dans l'attente d'un discours de Kevin Warsh, le président de la Réserve fédérale américaine. Le Wall Street Journal note par ailleurs que Warsh souhaite que la Fed communique moins publiquement, ce qui paradoxalement pousse les marchés à décortiquer chacune de ses interventions encore plus attentivement.
+Commençons par le Canada. BNN Bloomberg rapporte que le produit intérieur brut canadien a rebondi en avril, et que des économistes estiment que ce chiffre confirme que le Canada n'est pas en récession. BNN Bloomberg rapporte aussi que selon ces mêmes économistes, c'est le secteur de l'énergie qui porte présentement l'économie canadienne, alors que les tarifs douaniers américains continuent de peser sur le secteur manufacturier.
 
-Sur le marché de l'or, le Financial Times rapporte que le métal jaune se dirige vers son pire trimestre en plus d'une décennie, après que l'engouement des petits investisseurs s'est dissipé.
+Du côté des marchés américains, le Wall Street Journal rapporte que les rendements des obligations du Trésor américain et la valeur du dollar américain ont progressé en début de journée. Selon Bloomberg, cela s'explique en partie par l'attente d'un discours de Kevin Warsh, une figure suivie de près dans les cercles financiers, et par une baisse du cours de l'or. Rappelons qu'hier, Reuters Business avait rapporté que le S&P 500 et le Nasdaq avaient enregistré leur meilleur trimestre depuis 2020 pour le deuxième trimestre de 2026, malgré les tensions géopolitiques avec l'Iran.
 
-Du côté du cuivre, Bloomberg rapporte que les négociants se préparent à une nouvelle période de turbulences liées aux tarifs douaniers.
+Sur le front des entreprises, Reuters Business rapporte que Microsoft s'apprête à réduire son effectif de moins de 2,5 %, selon Business Insider. C'est la dernière d'une série de mises à pied dans le secteur technologique américain.
 
-À noter pour le Canada, BNN Bloomberg rapporte que le PIB d'avril a affiché un rebond solide, confirmant selon des économistes que le Canada n'est pas en récession. Le secteur énergétique continue de porter l'activité économique, pendant que le secteur manufacturier reste sous pression à cause des tarifs américains.
+Également, Les Affaires rapporte que la compagnie québécoise MDA Space recevra un contrat de 688 millions de dollars pour construire le satellite de remplacement de RADARSAT. C'est un contrat fédéral majeur pour une entreprise canadienne dans le domaine spatial.
 
-Un contrat gouvernemental d'envergure au pays : Les Affaires rapporte que MDA Space, l'entreprise spatiale canadienne, recevra 688 millions de dollars pour construire le satellite de remplacement de RADARSAT. C'est un contrat fédéral majeur pour une entreprise dont le siège est en Colombie-Britannique mais qui a des activités importantes au Canada.
+Du côté international, le Financial Times rapporte que la Banque mondiale a décidé d'éliminer graduellement ses prêts à la Chine. Cette décision reflète la réévaluation en cours du rôle de la Banque mondiale face aux économies qui ont atteint un niveau de développement suffisant pour accéder aux marchés de capitaux privés, selon le FT. La Chine, de son côté, n'a pas commenté.
 
-Du côté de la Banque mondiale, le Financial Times rapporte qu'elle s'oriente vers l'élimination progressive de ses prêts à la Chine, ce qui représente un changement de cap institutionnel notable.
+Rio Tinto, le géant minier, a conclu de nouvelles conditions financières pour un projet de mine de cuivre évalué à 18 milliards de dollars américains, selon le Financial Times. Ce projet est l'un des plus importants dans le secteur minier mondial en ce moment.
 
-Enfin, UBS a publié ses données sur la richesse mondiale. BNN Bloomberg rapporte qu'un nombre record de nouveaux millionnaires a été créé en 2025 à l'échelle planétaire, selon cette étude de la banque suisse.
-  </chapitre>
+Enfin, un mot sur la Banque d'Angleterre. Bloomberg rapporte que le gouverneur Andrew Bailey a dit que le choc pétrolier lié aux tensions au Moyen-Orient complique la conduite de la politique monétaire au moment où l'économie britannique est en position de faiblesse. Du côté de la Banque centrale européenne, Bloomberg rapporte qu'un membre du conseil, Bostjan Vasle, dit ne pas voir d'urgence à relever les taux si les marchés de l'énergie restent calmes.
 
-  <chapitre titre="Tech">
-Un mot sur la tech, avec plusieurs dossiers substantiels ce matin.
+Et selon BNN Bloomberg et le rapport annuel de UBS, le nombre de millionnaires dans le monde a atteint un niveau record en 2025.
+ </chapitre>
 
-D'abord, l'intelligence artificielle et la politique américaine. TechCrunch et The Verge rapportent tous deux que l'administration Trump a levé les contrôles à l'exportation qui pesaient sur deux modèles d'Anthropic, Claude Fable 5 et Claude Mythos 5. Anthropic a indiqué qu'il commencerait à rétablir l'accès à ces modèles dès aujourd'hui pour les utilisateurs à l'échelle mondiale, et qu'il réactiverait l'accès sur AWS, Google Cloud et Microsoft Foundry, sans calendrier précis pour ces plateformes. TechCrunch note que l'approche de l'administration Trump en matière de politique d'intelligence artificielle a laissé les entreprises du secteur avec peu de certitudes sur ce qui gouvernera les prochaines publications de modèles. Dans le même élan, le Financial Times rapporte qu'Anthropic a lancé Claude Science, un produit ciblant le secteur pharmaceutique pour générer des revenus dans ce domaine.
+ <chapitre titre="Tech">
+Un mot sur la tech, avec plusieurs dossiers importants ce matin.
 
-Microsoft de son côté s'apprête à tailler dans ses effectifs. Reuters Business rapporte que l'entreprise prévoit de réduire moins de 2,5 % de son personnel mondial dans la dernière vague de mises à pied.
+D'abord, la fin d'une fusion majeure dans le secteur des images. The Verge rapporte que Getty Images a décidé d'abandonner son entente de fusion avec Shutterstock, évaluée à 3,7 milliards de dollars américains. Le blocage vient du régulateur britannique de la concurrence, la Competition and Markets Authority, qui avait imposé une condition : que Shutterstock vende sa division éditoriale mondiale, incluant les agences photo Backgrid et Splash. Getty a dit, dans un dépôt à la Securities and Exchange Commission américaine, qu'elle n'est pas obligée d'accepter ces conditions. Le ministère américain de la Justice avait pourtant accordé son autorisation sans conditions en février. C'est donc le régulateur britannique qui a fait dérailler l'entente malgré le feu vert américain.
 
-Du côté de Meta, The Verge rapporte que l'entreprise s'apprête à imposer des limites d'utilisation à ses lunettes connectées. La fonctionnalité Conversation Focus sera plafonnée à trois heures par mois pour les utilisateurs non abonnés, et à quinze heures pour ceux qui paient un abonnement mensuel de 19,99 dollars américains appelé Meta One Premium. The Verge note que cette limite s'applique à du matériel que les utilisateurs ont déjà acheté.
+Ensuite, Anthropic et la Maison-Blanche. TechCrunch et le Financial Times rapportent tous deux que l'administration Trump a levé les restrictions à l'exportation qui pesaient sur deux modèles d'intelligence artificielle d'Anthropic, identifiés sous les noms Mythos et Fable. TechCrunch note que l'approche erratique de Washington en matière de politique d'IA laisse les entreprises du secteur avec peu de clarté sur ce qui gouvernera les prochaines publications de modèles.
 
-Deux nouvelles de faillite et de restructuration. The Verge rapporte que Dish, l'entreprise qui opère Dish TV et Sling TV, a déposé une demande de protection en vertu du chapitre 11 de la loi américaine sur les faillites. La cause invoquée est un retard imprévu dans la vente d'un bloc de spectre 5G d'une valeur de 23 milliards de dollars à AT&T. Dish TV, Sling TV et les autres marques du groupe continueront d'opérer pendant le processus, et l'entreprise dit viser une sortie du chapitre 11 d'ici la fin du troisième trimestre 2026.
+Autre dossier chez Anthropic : le Financial Times rapporte que la compagnie a lancé un outil appelé Claude Science, ciblant spécifiquement le secteur pharmaceutique dans le but d'y générer des revenus.
 
-La Commission fédérale du commerce américaine, la FTC, a infligé une amende de 2,25 millions de dollars américains à Amazon, selon The Verge. La FTC reproche à Amazon d'avoir refusé de fournir à des victimes d'usurpation d'identité les informations dont elles avaient besoin sur des comptes ouverts frauduleusement en leur nom, en violation de la loi américaine sur la protection du crédit.
+Du côté des véhicules électriques, The Verge publie un grand reportage sur Rivian et son usine de Normal, en Illinois, qui a été frappée par une tornade le 17 avril dernier. L'article décrit comment la tempête a arraché une partie du toit de l'usine. Le PDG de Rivian, RJ Scaringe, a appris la nouvelle via une vidéo reçue sur son téléphone lors d'un événement en Californie. The Verge relate comment l'entreprise a géré la crise et les répercussions sur sa chaîne d'approvisionnement pour le modèle R2.
 
-Enfin, une nouvelle symbolique dans le monde de l'internet. TechCrunch rapporte que Vinton Cerf, l'un des pères fondateurs des protocoles sur lesquels repose internet, quittera son poste d'évangéliste en chef de l'internet chez Google la semaine prochaine.
-  </chapitre>
+Un dossier plus léger mais symbolique : TechCrunch rapporte que Vinton Cerf, l'un des créateurs des protocoles fondateurs d'internet et évangéliste en chef chez Google, prendra sa retraite la semaine prochaine. Cerf est considéré comme l'un des pères de l'internet.
 
-  <chapitre titre="Actualité québécoise">
-Un mot sur l'actualité québécoise, avec quelques dossiers ce matin.
+Enfin, Wayve, une startup spécialisée dans la conduite autonome, lance une offre de rachat d'actions destinée aux employés à hauteur de 85 millions de dollars américains, à une valorisation de 8,5 milliards de dollars, selon TechCrunch.
+ </chapitre>
 
-D'abord, la chaleur. Le Journal de Montréal rapporte que des personnes sont décédées au Québec en raison de la canicule actuelle. Le Devoir rapportait hier que la santé publique montréalaise appelait à la solidarité entre citoyens, en soulignant que ceux qui ont accès à des endroits climatisés doivent aider à protéger les autres. Cette vague de chaleur s'inscrit dans un contexte mondial : La Presse rapporte que les océans mondiaux viennent de connaître leur mois de juin le plus chaud jamais observé, sous l'effet combiné d'El Niño et du réchauffement climatique, selon l'observatoire européen Copernicus Marine.
+ <chapitre titre="Sport">
+On termine avec le sport, avec deux dossiers de la Coupe du monde et un dossier hockey.
 
-Sur le dossier du logement abordable, Radio-Canada rapporte qu'un quatre et demi financé par Québec se loue à 1 100 dollars par mois, ce qui soulève la question de savoir si ces unités sont réellement abordables pour les ménages à faibles et moyens revenus.
+D'abord, la France. Le Devoir rapporte que Kylian Mbappé a inscrit un doublé mardi soir et que la France a battu la Suède 3-0 pour accéder aux huitièmes de finale. Mbappé a inscrit son neuvième but en ronde éliminatoire de Coupe du monde, ce qui en fait le meneur historique de cette statistique, devançant Leonidas du Brésil et Ronaldo du Brésil. Lors du tournoi en cours, Mbappé totalise six buts en autant de rencontres. La France affrontera le Paraguay samedi, à Philadelphie. Les vainqueurs croiseront ensuite le Canada ou le Maroc le 9 juillet, à Foxborough.
 
-Du côté judiciaire, La Presse rapporte que onze adolescents font face à des accusations dans le cadre de l'enquête sur les événements entourant la mort du jeune Nooran Rezayi, à Longueuil, en septembre dernier. Et un policier tué lors de la fusillade survenue dans le quartier Côte-des-Neiges à Montréal la semaine dernière sera honoré lors d'une cérémonie commémorative au Centre Bell.
+Au Mexique, Reuters et BBC World rapportent que les célébrations qui ont suivi la victoire mexicaine contre l'Équateur ont fait trois morts. Plus d'un million de personnes ont envahi les rues de Mexico City mardi pour marquer la victoire.
 
-Enfin, Radio-Canada rapporte que le mégasite d'enfouissement de Lachenaie, à Terrebonne, a obtenu l'autorisation d'agrandir sa capacité en urgence, permettant l'enfouissement de plus d'un million deux cents mille tonnes supplémentaires de déchets. Ce site est décrit comme le plus grand site d'enfouissement du Québec.
-  </chapitre>
+Du côté hockey, le marché des joueurs autonomes s'est ouvert aujourd'hui, le 1er juillet. Sportsnet rapporte que le défenseur Zach Werenski a refusé un échange des Blue Jackets de Columbus vers les Stars de Dallas. Selon le journaliste Elliotte Friedman, une transaction était en place entre les deux équipes, mais Werenski a exercé sa clause de non-échange pour la bloquer.
 
-  <chapitre titre="Sport">
-On termine avec le sport, et deux dossiers ce matin.
+Du côté baseball, Sportsnet rapporte que les Blue Jays de Toronto ont subi une défaite par jeu blanc contre les Mets de New York mardi, malgré un solide départ du lanceur Kevin Gausman, qui a accordé un seul point en six manches.
+ </chapitre>
 
-D'abord, une transaction majeure à Toronto. Sportsnet rapporte que les Raptors de Toronto ont acquis Kawhi Leonard, dans ce que le journaliste Michael Grange décrit comme la plus grande transaction dans le sport torontois depuis la première fois que les Raptors avaient obtenu Leonard. Sportsnet note que l'équipe est radicalement différente en vue de la saison 2026-2027, mais que cette acquisition comporte aussi des risques. Leonard, qu'on se souvient, avait mené les Raptors au titre de la NBA en 2019 avant de quitter en tant qu'agent libre.
-
-En hockey, deux nouvelles rapides pour ce 1er juillet, qui marque l'ouverture officielle des transactions. Sportsnet rapporte que Zach Werenski, défenseur des Blue Jackets de Columbus, a exercé sa clause de non-échange pour bloquer un échange vers les Stars de Dallas, selon le journaliste Elliotte Friedman. Du côté des Oilers d'Edmonton, Sportsnet rapporte que l'organisation relance sa recherche d'un gardien de but pour la prochaine saison.
-
-Les Blue Jays de Toronto, quant à eux, ont subi une défaite en vertu d'un jeu blanc hier soir contre les Mets de New York, malgré six manches solides du lanceur Kevin Gausman.
-  </chapitre>
-
-  <outro>Voilà pour ce Presto du 1er juillet 2026. Si ce briefing vous est utile, le meilleur coup de main que vous pouvez nous donner, c'est de le partager à une personne qui aime rester informée. Et selon votre plateforme : un abonnement sur Spotify ou Apple Podcasts, un pouce bleu et un abonnement sur YouTube, ça prend deux secondes et ça aide vraiment Presto à grandir. Sur ce, bonne journée, et à demain.</outro>
+ <outro>Voilà pour ce Presto du 1er juillet 2026. Si ce briefing vous est utile, le meilleur coup de main que vous pouvez nous donner, c'est de le partager à une personne qui aime rester informée. Et selon votre plateforme : un abonnement sur Spotify ou Apple Podcasts, un pouce bleu et un abonnement sur YouTube, ça prend deux secondes et ça aide vraiment Presto à grandir. Sur ce, bonne journée, et à demain.</outro>
 </script>
 ```
