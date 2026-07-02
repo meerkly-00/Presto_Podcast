@@ -1,0 +1,14 @@
+{
+  "date": "2026-07-02",
+  "kind": "poll",
+  "text": "Ce matin → La Russie a lancé l'une de ses plus importantes séries de frappes sur Kyiv depuis plusieurs semaines.\n\nMise à jour → Selon la BBC, au moins 20 personnes ont été tuées dans cette attaque aux drones\n\nComment les pays occidentaux devraient-ils répondre à cette attaque ?",
+  "poll": {
+    "options": [
+      "Augmenter l'aide",
+      "Renforcer les sanctions",
+      "Favoriser des",
+      "Combiner plusieurs de"
+    ],
+    "duration_minutes": 1440
+  }
+}
