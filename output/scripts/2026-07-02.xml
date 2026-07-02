@@ -1,0 +1,89 @@
+```xml
+<script>
+  <intro>Bonjour, on est le jeudi 2 juillet 2026. Voici votre Presto en environ 17 minutes. Au menu ce matin : l'ACEUM et les conséquences du refus américain, les frappes russes sur Kyiv, le Venezuela toujours sous le choc des séismes, les marchés et plusieurs dossiers économiques importants, et un tour du côté de la tech avec Xbox, Sony et Bending Spoons.</intro>
+
+  <chapitre titre="Politique canadienne">
+On commence par la politique canadienne, et par la nouvelle la plus structurante de la semaine : les États-Unis ont officiellement refusé de renouveler l'Accord Canada-États-Unis-Mexique, l'ACEUM.
+
+Radio-Canada, CBC World et Reuters confirment tous que l'administration Trump a annoncé hier, 1er juillet, qu'elle n'allait pas reconduire l'accord. Ce refus déclenche un compte à rebours : l'ACEUM demeure en vigueur pour dix ans, mais sera réexaminé annuellement, et les négociations pour en modifier les termes commencent maintenant sous pression. Reuters précise que la décision américaine lance officiellement le processus pour mettre fin à l'accord tel qu'on le connaît, tout en ouvrant la porte à des changements.
+
+CBC World rapporte que les tarifs américains sur les produits canadiens restent en place pendant cette période de renégociation, une situation que The Hub décrit comme une incertitude économique persistante pour le Canada. Du côté canadien, le gouvernement Carney n'a pas encore répondu formellement ce matin, mais le contexte politique est chargé.
+
+Le National Post rapporte que le chef de l'opposition Pierre Poilievre a qualifié le bilan économique du premier ministre Carney d'illusion, en lien direct avec ce dossier commercial. Carney, pour sa part, devait prononcer un discours à Edmonton hier pour la fête du Canada, mais La Presse rapporte que ce discours a été annulé en raison de violents orages à Ottawa.
+
+En parallèle, le National Post note que Carney et son prédécesseur Justin Trudeau ont tous deux évoqué l'importance de la cohésion nationale dans leurs messages de fête du Canada, dans un contexte où le référendum albertain sur l'indépendance continue d'occuper l'espace politique, comme on en avait parlé dans les derniers jours.
+
+Un autre dossier à Ottawa : Radio-Canada rapporte qu'un témoignage devant le Congrès américain a fait état d'une baisse des saisies de drogue à la frontière canado-américaine. Selon Radio-Canada, ce témoignage contredit les affirmations de certains républicains qui prétendent que les cartels mexicains se tournent vers le Canada pour acheminer des stupéfiants vers les États-Unis.
+  </chapitre>
+
+  <chapitre titre="International">
+On passe à l'international, avec plusieurs dossiers importants ce matin.
+
+D'abord, l'Ukraine. BBC World et l'Associated Press rapportent que la Russie a lancé cette nuit une série de frappes de missiles et de drones sur Kyiv, décrite par des responsables ukrainiens comme l'une des plus importantes depuis plusieurs semaines. BBC World précise qu'au moins 13 personnes ont été tuées, avec un nombre significatif de blessés, dont des enfants. Radio-Canada chiffrait le bilan à au moins neuf morts plus tôt ce matin, et ce nombre a depuis été revu à la hausse selon BBC et l'AP. Des dommages importants ont été signalés à travers la capitale ukrainienne.
+
+Ensuite, le Venezuela. La situation humanitaire continue de se détériorer après les séismes jumeaux du 24 juin. CBC World rapporte que des milliers de personnes déplacées vivent dans des conditions sanitaires difficiles, sans accès à l'eau potable, alors que les hôpitaux, déjà sous pression, peinent à absorber l'afflux de patients d'urgence. Des travailleurs humanitaires cités par CBC World font état d'un risque de crise médicale majeure dans les prochains jours. Al Jazeera publie ce matin un reportage en images sur la faim et le désespoir dans les zones sinistrées. Une note plus humaine aussi : BBC World rapporte qu'un garçon de deux ans, Kleiber Moran, a été extrait des décombres mercredi, six jours après les séismes, et que sa tante a dit à BBC qu'elle allait lui donner la chaleur d'une mère.
+
+Du côté des États-Unis et de l'Iran, CBC World rapporte que le vice-président JD Vance a déclaré que Trump ne retournera pas les États-Unis dans une guerre totale contre l'Iran, je le cite, "unless he has to", fin de citation. Une nouvelle ronde de pourparlers indirects s'est conclue mercredi sans avancée notable, selon CBC World, les deux parties semblant encore accrochées aux mêmes points de friction qu'il y a deux semaines.
+
+En Afrique du Sud, Al Jazeera rapporte que plus de 900 personnes ont été arrêtées lors de manifestations antimigrantes à travers le pays. Ces tensions xénophobes ont pris la forme de marches nationales, selon Al Jazeera.
+
+Enfin, une note plus légère : l'Associated Press rapporte que quatre personnes sont mortes à Mexico lors de célébrations consécutives à une victoire mexicaine à la Coupe du monde, sans préciser davantage les circonstances.
+  </chapitre>
+
+  <chapitre titre="Économie et marchés">
+Un mot sur l'économie et les marchés, avec plusieurs dossiers ce matin.
+
+D'abord, Wall Street. Reuters Business rapporte que la séance de mercredi s'est terminée en baisse, dans une session qualifiée de volatile, tirée vers le bas par les actions du secteur technologique. On reviendra sur certaines de ces nouvelles tech dans un instant.
+
+Du côté des actions individuelles, Les Affaires rapporte que Meta a progressé de plus de 7 % à la Bourse de New York mercredi. Reuters Business explique en partie ce mouvement : Bloomberg News aurait rapporté que Meta développe une activité d'infonuagique pour vendre sa capacité excédentaire en intelligence artificielle à des tiers, une nouvelle que le marché a accueillie positivement.
+
+Également sur les marchés américains, Reuters Business rapporte que Lime, l'entreprise de trottinettes et vélos électriques soutenue par Uber, a fait ses débuts au Nasdaq à une valeur de 1,7 milliard de dollars américains.
+
+Du côté de la Réserve fédérale américaine, Kevin Warsh, qui est pressenti pour succéder à Jerome Powell à la tête de la Fed, a multiplié les déclarations hier. Le Financial Times rapporte que Warsh a promis qu'il n'apporterait, je le cite, "no changes", fin de citation, à l'indépendance de la banque centrale. Le Wall Street Journal rapporte pour sa part que Warsh a dit que les perspectives sur l'inflation se sont améliorées, mais qu'il n'a pas voulu se prononcer sur la direction des taux directeurs. Bloomberg rapporte que les marchés asiatiques s'orientaient à la baisse ce matin, les investisseurs soupesant à la fois l'enjeu de l'intelligence artificielle et la nomination potentielle de Warsh.
+
+Sur le marché de l'énergie, Bloomberg rapporte que les cours du pétrole brut américain ont reculé, les marchés effaçant ce qu'on appelle une prime de risque de guerre avec l'Iran, à mesure que la crise énergétique liée au conflit s'atténue.
+
+Également à noter : le Wall Street Journal rapporte que la Banque des règlements internationaux, la BRI, voit des risques pour l'économie et le système financier dans le boom des investissements en intelligence artificielle. Et Bloomberg signale que le responsable du fonds de crédit privé en difficulté de BlackRock s'apprête à quitter son poste après des pertes.
+
+Du côté des entreprises canadiennes, Reuters rapporte que Shopify a réglé à l'amiable une poursuite en droits d'auteur contre une plateforme de commerce en ligne concurrente, sans préciser les termes de l'entente.
+
+Enfin, sur le plan des divulgations financières américaines, l'Associated Press et le Financial Times rapportent tous deux que la déclaration financière annuelle de Donald Trump révèle qu'il a engrangé environ 1,2 milliard de dollars américains provenant d'entreprises liées aux cryptomonnaies l'an dernier, et plus de un milliard de dollars au total depuis son retour à la présidence.
+  </chapitre>
+
+  <chapitre titre="Tech">
+Un mot sur la tech, avec plusieurs dossiers substantiels ce matin.
+
+D'abord, Xbox. The Verge rapporte que la division jeux vidéo de Microsoft s'apprête à annoncer des mises à pied et des fermetures de studios le 6 juillet, dans le cadre de ce que la direction appelle un "Xbox reset". Selon The Verge, Microsoft envisage de fermer au moins cinq studios et pourrait annuler des jeux en développement, dont un titre intitulé Blade. La nouvelle PDG d'Xbox, Asha Sharma, et le responsable du contenu Matt Booty ont envoyé un mémo au personnel évoquant des défis importants, dont une marge de rentabilité serrée et des prix de composantes en hausse en raison de pénuries de mémoire et de stockage. Xbox a déjà annoncé des hausses de prix pour ses consoles et un repositionnement de son abonnement Game Pass.
+
+Ensuite, Sony et les disques physiques. The Verge rapporte que Sony a annoncé qu'elle cesserait de fabriquer des disques pour les nouveaux jeux PlayStation à compter de janvier 2028. Cette décision a des répercussions sur les détaillants indépendants, les collectionneurs et les groupes de préservation du jeu vidéo. The Verge cite Cody Spencer, copropriétaire de la chaîne Pink Gorilla Games, qui dit, je le cite : "This decision is only a negative for gamers." Fin de citation. Des voix dans l'industrie soulèvent des enjeux liés à la propriété des jeux, à leur revente et à leur partage.
+
+Du côté de l'intelligence artificielle, Reuters rapporte que le Financial Times a révélé qu'OpenAI proposait de céder une participation de 5 % à l'administration Trump, dans le cadre de ses démarches pour obtenir un appui réglementaire ou politique. Reuters Business signale par ailleurs qu'un panel des Nations Unies a averti que des progrès non encadrés en IA pourraient présenter des risques catastrophiques.
+
+Également en tech : TechCrunch rapporte que Bending Spoons, une entreprise italienne de logiciels qui a acquis et relancé des marques internet vieillissantes comme AOL, Eventbrite, Evernote, Meetup et Vimeo, a progressé de 40 % lors de sa première journée de cotation en Bourse, dans le cadre d'un premier appel public à l'épargne évalué à 18 milliards de dollars américains. L'Economist note que Bending Spoons applique un modèle inspiré du capital-investissement à des actifs logiciels.
+
+TechCrunch rapporte aussi qu'un entrepreneur technologique indien, Bhavin Turakhia, investit 30 millions de dollars américains de ses propres fonds pour développer une alternative à Microsoft Office et Google Workspace basée sur l'IA, sous le nom Neo.
+
+Sur Apple, The Verge et TechCrunch rapportent tous deux, en s'appuyant sur Bloomberg, qu'Apple travaille sur une version remaniée de son MacBook Pro d'entrée de gamme, dont le lancement pourrait survenir dans la première moitié de 2027, ainsi que sur quatre nouveaux modèles d'iPad Pro attendus au printemps. Le nouveau MacBook Pro garderait un écran de 14 pouces mais adopterait un design en phase avec les futurs MacBook à écran tactile qu'Apple développe en parallèle.
+
+Ars Technica rapporte que l'administrateur de la NASA, Jared Isaacman, a salué les progrès de Blue Origin dans la remise en état de son pas de lancement, endommagé lors de l'explosion de son lanceur New Glenn fin mai. Isaacman a dit que la réponse de Blue Origin est, je le cite en anglais : "almost beyond impressive", fin de citation. La NASA compte sur Blue Origin pour des missions cargo et éventuellement habitées vers la Lune.
+
+Ars Technica rapporte également que T-Mobile poursuit Broadcom en justice à New York, alléguant que Broadcom était contractuellement tenu de continuer à soutenir ses licences perpétuelles VMware. T-Mobile dit avoir des dizaines de milliers de machines virtuelles VMware à migrer, une opération qu'elle décrit comme longue et complexe.
+
+Enfin, côté batteries résidentielles, Ars Technica rapporte que les nouvelles installations de batteries à domicile aux États-Unis ont atteint un niveau record de 673 mégawatts au premier trimestre de 2026, selon l'Administration américaine de l'information sur l'énergie, portées par des mesures incitatives dans les États à prix d'électricité élevés, notamment la Californie et Hawaï.
+  </chapitre>
+
+  <chapitre titre="Sport">
+On termine avec le sport, rapidement.
+
+Au hockey, Sportsnet rapporte que les Maple Leafs de Toronto ont conclu une journée très active en vue du marché des joueurs autonomes, avec deux échanges et cinq signatures. La plus notable : l'arrivée du gardien Sergei Bobrovsky, que Sportsnet décrit comme le premier gardien de premier plan de l'ère Connor McDavid à Edmonton. Attendez, rectification : c'est pour les Oilers d'Edmonton que Sportsnet parle d'Andersen, et pour les Leafs que Sportsnet couvre Bobrovsky. Sportsnet rapporte que les Leafs ont signé Bobrovsky dans le cadre d'une journée intense sous le directeur général John Chayka.
+
+Du côté des Oilers, Sportsnet rapporte que la signature du gardien Frederik Andersen représente, pour la première fois dans la carrière de Connor McDavid, la présence d'un gardien de premier plan dans l'effectif d'Edmonton.
+
+Côté baseball, Sportsnet rapporte que les Blue Jays de Toronto ont battu les Mets de New York lors de la fête du Canada, avec notamment un double de Vladimir Guerrero fils en première manche.
+
+Et à la Coupe du monde, ce matin, Al Jazeera présente une prévisualisation du match Espagne-Autriche en huitièmes de finale, qui se joue à Los Angeles. Le vainqueur affrontera le Portugal ou la Croatie au tour suivant.
+  </chapitre>
+
+  <outro>Voilà pour ce Presto du 2 juillet 2026. Si ce briefing vous est utile, le meilleur coup de main que vous pouvez nous donner, c'est de le partager à une personne qui aime rester informée. Et selon votre plateforme : un abonnement sur Spotify ou Apple Podcasts, un pouce bleu et un abonnement sur YouTube, ça prend deux secondes et ça aide vraiment Presto à grandir. Sur ce, bonne journée, et à demain.</outro>
+</script>
+```
