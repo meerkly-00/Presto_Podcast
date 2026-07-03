@@ -1,0 +1,14 @@
+{
+  "date": "2026-07-03",
+  "kind": "poll",
+  "text": "Ce matin → Le Canada négocie depuis 14 mois avec les États-Unis sur le CUSMA et d'autres enjeux commerciaux.\n\nNouveau : L'envoyé américain Pete Hoekstra affirme qu'aucun progrès significatif n'a été réalisé, mais que les discussions\n\nComment vois-tu l'avenir de ces négociations?",
+  "poll": {
+    "options": [
+      "Accord possible avec",
+      "Prolongation sans accord",
+      "Résultat dépend des",
+      "Désaccord inévitable"
+    ],
+    "duration_minutes": 1440
+  }
+}
