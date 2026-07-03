@@ -1,0 +1,87 @@
+```xml
+<script>
+ <intro>Bonjour, on est le vendredi 3 juillet 2026. Voici votre Presto en environ 17 minutes. Au menu ce matin : politique canadienne avec le pipeline Alberta-Colombie-Britannique et les développements sur l'ACEUM, la situation à Kyiv, l'économie et les marchés américains, et quelques nouvelles tech. On commence.</intro>
+
+ <chapitre titre="Politique canadienne">
+Le dossier le plus structurant de la matinée vient d'Ottawa et d'Edmonton. Radio-Canada, le National Post et le Financial Times rapportent tous que le premier ministre Mark Carney et la première ministre albertaine Danielle Smith ont annoncé hier le tracé d'un nouveau pipeline vers la côte ouest. Le projet suivrait sensiblement le tracé de l'actuel pipeline Trans Mountain, reliant les sables bitumineux du nord de l'Alberta à un port en eau profonde dans le sud-ouest de la Colombie-Britannique. Le point de départ serait la municipalité de Bruderheim, à une soixantaine de kilomètres au nord d'Edmonton.
+
+Selon Radio-Canada, l'Alberta a officiellement soumis le projet au Bureau des grands projets, un organisme fédéral dont le mandat est d'accélérer la planification d'infrastructures d'intérêt national. Le pipeline serait construit par un consortium de sociétés d'État et d'un exploitant privé, et transporterait jusqu'à un million de barils par jour. Les travaux devraient débuter entre 2027 et 2029, pour une mise en service prévue entre 2032 et 2034. Selon le premier ministre Carney, le projet générerait plus de 200 milliards de dollars en investissements directs au Canada et créerait au moins 175 000 emplois.
+
+Toujours selon Radio-Canada, l'annonce a été rendue possible par une entente parallèle entre Ottawa et la Colombie-Britannique : le gouvernement fédéral s'est engagé à maintenir le moratoire sur les grands pétroliers dans les eaux côtières de la province, ce qui était une condition non négociable pour Victoria. Le premier ministre Carney a déclaré, je le cite : "Lorsque nous travaillons ensemble, le Canada est maître de son avenir." Fin de citation.
+
+Ce projet prend une importance particulière dans le contexte commercial que Presto suit depuis le début de la semaine. Comme on l'a rapporté jeudi, les États-Unis ont officiellement refusé de renouveler l'Accord Canada-États-Unis-Mexique, l'ACEUM. The Hub et d'autres sources confirment que la date limite est passée, et que les tarifs douaniers américains restent en place. Le Canada, les États-Unis et le Mexique restent en négociation, mais sans accord de principe pour l'instant. Ce pipeline vers la côte ouest s'inscrit directement dans cette logique de diversification des marchés d'exportation, réduisant la dépendance canadienne au marché américain pour son pétrole.
+
+En marge de ce dossier, Reuters rapporte en exclusivité que le Canada vise à annoncer l'appui de dix pays à une banque mondiale de financement de la défense, lors du prochain sommet de l'OTAN. Ce dossier devrait être au coeur des discussions diplomatiques des prochains jours.
+
+Autre élément en politique canadienne : le National Post rapporte que l'ouverture du pont Gordie Howe, à la frontière Ontario-Michigan, est toujours bloquée. Selon l'ambassadeur américain au Canada, Pete Hoekstra, Washington veut revoir l'impact des dépassements de coûts et des délais sur le partage des revenus prévu dans l'entente de construction. L'ambassadeur a qualifié de "grand mythe" l'idée que le Canada aurait payé la totalité des coûts de construction.
+ </chapitre>
+
+ <chapitre titre="International">
+On passe à l'international, et on commence par l'Ukraine, où la situation continue d'évoluer dans le sillage de l'attaque massive que Presto a couverte jeudi matin.
+
+L'Associated Press rapporte que les frappes russes sur Kyiv ont fait au moins 21 morts. CBC World confirme qu'il s'agissait d'une attaque de 11 heures combinant missiles et drones. Moscou a dit agir en représailles à des frappes ukrainiennes sur des installations pétrolières russes.
+
+En parallèle, The Economist rapporte qu'un nouveau rapport attribue à la Russie les incursions de drones survenues récemment au-dessus de l'Europe. Le rapport ne précise pas quels pays ont été visés, mais il confirme une tendance que plusieurs gouvernements européens avaient déjà évoquée sans pouvoir l'établir formellement.
+
+Du côté du détroit d'Hormuz, CBC World rapporte qu'Iran a averti jeudi tous les pétroliers circulant dans le détroit qu'ils devaient emprunter des routes approuvées par Téhéran, sous peine d'une "réponse de force". Cette déclaration intervient dans un contexte de tensions persistantes dans la région. Le BBC World a de son côté envoyé des journalistes à Bandar Abbas, sur la rive iranienne du détroit : leur reportage décrit une atmosphère tendue, avec des navires saisis visibles depuis la côte.
+
+Un bref fait divers à caractère symbolique devant le siège des Nations Unies à New York : Al Jazeera rapporte qu'un homme tenant un drapeau tibétain est décédé après s'être immolé par le feu devant les bâtiments de l'ONU. Il a été déclaré mort à son arrivée à l'hôpital. Une militante pour les droits tibétains l'a décrit comme un défenseur de la cause.
+
+Au Pakistan, Al Jazeera rapporte qu'au moins 40 personnes ont été tuées après qu'un autobus a perdu le contrôle et a plongé dans un ravin rocheux, près de la frontière entre le Baloutchistan et le Khyber Pakhtunkhwa, dans le sud-ouest du pays.
+
+Enfin, sur le plan religieux, l'Associated Press rapporte que le Vatican a prononcé des excommunications contre des évêques et des prêtres ayant participé à un schisme au sein de l'Église catholique, et a averti leurs fidèles. Ce schisme implique des catholiques traditionalistes qui ont refusé de reconnaître l'autorité du pape Léon XIV.
+ </chapitre>
+
+ <chapitre titre="Économie et marchés">
+On passe à l'économie et aux marchés, et la nouvelle la plus importante de la séance de jeudi vient du marché de l'emploi américain.
+
+Le Financial Times rapporte que l'économie américaine a créé 57 000 emplois au mois de juin, un chiffre inférieur aux prévisions des économistes. Reuters Business rapporte que cette publication a eu un effet immédiat sur les marchés : le Dow Jones a clôturé à un niveau record, tandis que le Nasdaq a terminé en baisse, entraîné vers le bas par les actions du secteur des semi-conducteurs. Le Wall Street Journal décrit cette séance sous le titre "Les actions des puces chutent de nouveau, l'emploi ralentit". Les marchés asiatiques ont trouvé leur équilibre vendredi matin, selon Reuters Business, en s'appuyant sur ces données d'emploi ainsi que sur des indices des directeurs d'achat.
+
+La logique derrière ces mouvements est la suivante : un marché de l'emploi qui ralentit peut amener la Réserve fédérale américaine à abaisser son taux directeur plus tôt que prévu, ce qui est généralement favorable aux obligations et aux secteurs sensibles aux taux, mais moins favorable aux actions technologiques, notamment les fabricants de puces, qui avaient déjà reculé en début de semaine.
+
+Du côté des entreprises, Reuters Business rapporte que Tesla a annoncé une hausse de ses ventes au deuxième trimestre. L'entreprise a également lancé aux États-Unis une version six places de son populaire modèle Y, appelée Model Y L. Ces nouvelles surviennent dans un contexte où les analystes cherchaient des signes de reprise après une période difficile pour la marque.
+
+En Allemagne, le Financial Times rapporte que le chancelier Friedrich Merz a annoncé un plan de réductions fiscales de 10 milliards d'euros pour relancer la croissance économique. Le Wall Street Journal consacre également un article à ce chantier de réforme économique allemand, qui représente un changement de cap significatif pour la première économie de la zone euro.
+
+BNN Bloomberg rapporte qu'une proposition de règlement de 10 millions de dollars a été soumise dans un recours collectif contre la CIBC. Selon BNN Bloomberg, le Canada se classe au 13e rang mondial en termes de richesse moyenne par habitant, la Suisse occupant la première place.
+
+Pour ce qui est du dossier commercial, Bloomberg rapporte que le Mexique voit son économie tournée vers l'exportation menacée par les révisions annuelles de l'ACEUM maintenant imposées par Washington. Cette dynamique touche les trois pays de l'accord, avec des conséquences potentielles sur les chaînes d'approvisionnement continentales.
+ </chapitre>
+
+ <chapitre titre="Tech">
+Un mot sur la tech, avec plusieurs dossiers ce matin.
+
+D'abord, chez Meta. TechCrunch rapporte que lors d'une réunion interne, le chef de la direction Mark Zuckerberg a indiqué à ses équipes que le développement des agents d'intelligence artificielle n'avait pas progressé aussi vite qu'il l'espérait. Cette déclaration contraste avec les annonces enthousiastes faites par Meta ces derniers mois sur sa stratégie en IA. Zuckerberg fait de l'IA générative le pivot central de Meta, comme en témoigne le lancement simultané d'une nouvelle application appelée Pocket, rapporté par The Verge. Cette application, qui n'a aucun lien avec l'ancienne application de lecture différée du même nom, permet aux utilisateurs de créer et partager de petites expériences interactives générées par des instructions en langage naturel.
+
+Sur le dossier des émissions de gaz à effet de serre liées à l'IA, La Presse rapporte que Google et Amazon ont tous deux publié cette semaine des rapports montrant une hausse de leurs émissions de CO2, tirée par la construction d'infrastructures d'IA. Ces annonces les éloignent de leurs engagements de neutralité carbone. Du côté de la demande, The Economist examine si la résistance citoyenne à l'implantation de centres de données pourrait freiner l'essor de l'IA, notant que les commissions d'urbanisme américaines ne partagent pas l'urgence de l'industrie.
+
+Du côté de la sécurité, TechCrunch rapporte qu'un politicien européen siégeant à un comité de l'Union européenne chargé d'enquêter sur les abus des logiciels espions a lui-même été victime du logiciel Pegasus, développé par NSO Group. Un gouvernement client de NSO aurait utilisé le logiciel pour pirater le téléphone de ce politicien pendant qu'il menait son enquête. L'identité du gouvernement responsable n'a pas été révélée dans l'article de TechCrunch. Ars Technica, de son côté, rapporte la découverte d'un nouveau logiciel malveillant pour macOS, baptisé PamStealer, qui utilise une technique peu commune pour voler des identifiants de connexion tout en restant difficile à détecter.
+
+Sur la question des vols supersoniques, Ars Technica rapporte que la Federal Aviation Administration a proposé une nouvelle règle qui lèverait l'interdiction de 53 ans sur les vols civils supersoniques au-dessus du territoire américain. La nouvelle norme proposée serait basée non plus sur la vitesse mais sur le niveau sonore : les avions pourraient voler en régime supersonique à condition que la pression de leur onde de choc à la surface reste sous un certain seuil. Cette proposition s'inscrit dans la suite d'un décret de l'administration Trump.
+
+Enfin, The Verge rapporte que Sony prépare la fin de la production de disques physiques pour PlayStation. L'usine autrichienne de Thalgau, qui produit 600 000 disques par jour dont la moitié pour PlayStation, ne devrait plus en produire que 10 pour cent de ce volume d'ici 2028. Les 300 employés du site seront reconvertis à la fabrication de microlentilles optiques.
+
+Un mot rapide sur les données scientifiques : La Presse rapporte qu'une nouvelle étude conclut que la chaleur extrême et l'humidité qui frappent la moitié est des États-Unis auraient été, je les cite, "pratiquement impossibles" sans les changements climatiques. L'étude a été publiée alors que les États-Unis accueillent la Coupe du monde et célèbrent leur 250e anniversaire. Al Jazeera rapporte par ailleurs que l'Organisation mondiale de la santé avertit que l'Europe doit planifier les vagues de chaleur estivales comme elle planifie la grippe hivernale.
+ </chapitre>
+
+ <chapitre titre="Actualité québécoise">
+Un mot sur l'actualité québécoise avant de terminer.
+
+Radio-Canada et La Presse rapportent que des orages violents ont balayé le sud du Québec jeudi en fin de journée, pour un deuxième jour consécutif. À l'apogée des pannes, plus de 130 000 clients d'Hydro-Québec étaient privés de courant. Vers deux heures du matin vendredi, ce nombre était encore de 75 000. Les régions les plus touchées sont Lanaudière et les Laurentides, qui représentaient à elles seules plus de la moitié des pannes au petit matin. Montréal, Laval et la Montérégie ont aussi enregistré des milliers de pannes. Selon Environnement Canada, des vents ont soufflé à plus de 90 kilomètres par heure, notamment à L'Assomption où un grand chapiteau a été soulevé. Les températures vendredi dans le sud du Québec devraient de nouveau dépasser 30 degrés Celsius, avec un indice humidex de plus de 40.
+
+En Ontario francophone, Le Devoir rapporte que l'Ombudsman de l'Ontario a reçu un nombre record de plaintes dans la dernière année, dont 266 liées aux services en français. L'Ombudsman cite notamment le cas d'un service de police municipal qui a envoyé une alerte concernant un suspect de meurtre en cavale uniquement en anglais. Une alerte en français a suivi près de dix minutes plus tard. La Police provinciale de l'Ontario a reconnu que son système était capable d'envoyer les alertes dans les deux langues simultanément, mais que cette option n'avait pas été activée. Elle dit avoir modifié ses pratiques. Le Devoir note qu'il ne s'agit pas d'un premier avertissement : l'Ombudsman avait déjà formulé une recommandation similaire en 2019.
+ </chapitre>
+
+ <chapitre titre="Sport">
+Un dernier mot sur le sport.
+
+À la Coupe du monde, Radio-Canada rapporte que le Portugal a éliminé la Croatie en huitièmes de finale, par la marque de 2 à 1, grâce à des buts de Cristiano Ronaldo et de Goncalo Ramos. Le Portugal affrontera l'Espagne au tour suivant. Al Jazeera rapporte que l'Argentine de Lionel Messi, tenante du titre, affronte le Cap-Vert à Miami dans un match du dernier 32.
+
+En football canadien, Global News rapporte que le quart Vernon Adams fils a mené les Stampeders de Calgary à une victoire de 58 à 36 contre les Argonauts de Toronto, jeudi soir.
+
+Au hockey, TVA Sports rapporte que le défenseur Cale Makar aurait des attentes salariales que la publication qualifie de considérables dans ses négociations de prolongation de contrat. Sportsnet note que plus d'une semaine après l'ouverture du marché des joueurs autonomes, plusieurs joueurs importants restent sans équipe.
+ </chapitre>
+
+ <outro>Voilà pour ce Presto du vendredi 3 juillet 2026. Si ce briefing vous est utile, le meilleur coup de main que vous pouvez nous donner, c'est de le partager à une personne qui aime rester informée. Et selon votre plateforme : un abonnement sur Spotify ou Apple Podcasts, un pouce bleu et un abonnement sur YouTube, ça prend deux secondes et ça aide vraiment Presto à grandir. Sur ce, bonne journée, et à demain.</outro>
+</script>
+```
