@@ -1,13 +1,13 @@
 {
   "date": "2026-07-03",
   "kind": "poll",
-  "text": "Ce matin → Le Canada négocie depuis 14 mois avec les États-Unis sur le CUSMA et d'autres enjeux commerciaux.\n\nNouveau : L'envoyé américain Pete Hoekstra affirme qu'aucun progrès significatif n'a été réalisé, mais que les discussions\n\nComment vois-tu l'avenir de ces négociations?",
+  "text": "Ce matin → Les États-Unis ont créé 57 000 emplois en juin, bien sous les attentes.\n\nMise à jour : le marché boursier européen ignore les turbulences économiques et poursuit\n\nUn ralentissement de l'emploi aux États-Unis devrait-il influencer les décisions économiques du Canada?",
   "poll": {
     "options": [
-      "Accord possible avec",
-      "Prolongation sans accord",
-      "Résultat dépend des",
-      "Désaccord inévitable"
+      "Oui, adapter la",
+      "Non, chaque pays gère",
+      "Attendre plus de données",
+      "Surveiller sans changer"
     ],
     "duration_minutes": 1440
   }
