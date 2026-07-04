@@ -1,0 +1,14 @@
+{
+  "date": "2026-07-04",
+  "kind": "poll",
+  "text": "Ce matin → Des millions d'Iraniens aux funérailles de Khamenei à Téhéran.\n\nDeveloppement : La cérémonie s'étend sur une semaine.\n\nComment vois-tu les funérailles de Khamenei comme signal politique?",
+  "poll": {
+    "options": [
+      "Consolidation du pouvoir",
+      "Contexte de fragilité",
+      "Geste symbolique sans",
+      "Signal aux négociateurs"
+    ],
+    "duration_minutes": 1440
+  }
+}
