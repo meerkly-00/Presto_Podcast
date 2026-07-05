@@ -23,6 +23,17 @@
       <link>https://www.prestopodcast.online</link>
     </image>
     <item>
+      <title>Presto — édition du 5 juillet 2026</title>
+      <description>Au menu : International, Politique canadienne, Actualité québécoise, Sport, Économie et marchés, Tech</description>
+      <pubDate>Sun, 05 Jul 2026 08:01:16 +0000</pubDate>
+      <guid isPermaLink="false">https://github.com/meerkly-00/Presto_Podcast/releases/download/2026-07-05/2026-07-05.mp3</guid>
+      <enclosure url="https://github.com/meerkly-00/Presto_Podcast/releases/download/2026-07-05/2026-07-05.mp3" type="audio/mpeg" length="7344833"/>
+      <itunes:duration>672</itunes:duration>
+      <itunes:summary>Au menu : International, Politique canadienne, Actualité québécoise, Sport, Économie et marchés, Tech</itunes:summary>
+      <itunes:episode>43</itunes:episode>
+      <itunes:image href="https://www.prestopodcast.online/artwork-v2.jpg"/>
+    </item>
+    <item>
       <title>Presto — édition du 4 juillet 2026</title>
       <description>Au menu : International, Politique canadienne, Actualité québécoise, Économie et marchés, Tech, Sport</description>
       <pubDate>Sat, 04 Jul 2026 08:01:09 +0000</pubDate>
@@ -86,17 +97,6 @@
       <itunes:duration>916</itunes:duration>
       <itunes:summary>Au menu : International, Politique canadienne, Actualité québécoise, Économie et marchés, Tech, Sport</itunes:summary>
       <itunes:episode>37</itunes:episode>
-      <itunes:image href="https://www.prestopodcast.online/artwork-v2.jpg"/>
-    </item>
-    <item>
-      <title>Presto — édition du 28 juin 2026</title>
-      <description>Au menu : International : Iran et États-Unis, International : Venezuela, International : Israël, Liban et Moyen-Orient, International : autres nouvelles, Économie et marchés, Actualité québécoise, Politique canadienne, Tech, Sport</description>
-      <pubDate>Sun, 28 Jun 2026 08:00:55 +0000</pubDate>
-      <guid isPermaLink="false">https://github.com/meerkly-00/Presto_Podcast/releases/download/2026-06-28/2026-06-28.mp3</guid>
-      <enclosure url="https://github.com/meerkly-00/Presto_Podcast/releases/download/2026-06-28/2026-06-28.mp3" type="audio/mpeg" length="8979947"/>
-      <itunes:duration>840</itunes:duration>
-      <itunes:summary>Au menu : International : Iran et États-Unis, International : Venezuela, International : Israël, Liban et Moyen-Orient, International : autres nouvelles, Économie et marchés, Actualité québécoise, Politique canadienne, Tech, Sport</itunes:summary>
-      <itunes:episode>36</itunes:episode>
       <itunes:image href="https://www.prestopodcast.online/artwork-v2.jpg"/>
     </item>
   </channel>
