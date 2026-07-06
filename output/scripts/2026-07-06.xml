@@ -1,0 +1,79 @@
+```xml
+<script>
+  <intro>Bonjour, on est le lundi 6 juillet 2026. Voici votre Presto en environ 17 minutes. Au menu ce matin : les frappes russes sur Kyiv à la veille du sommet de l'OTAN, les funérailles de Khamenei, le test de missile chinois, l'affaire Balogun à la Coupe du monde, un déraillement de train à Repentigny, les marchés et le pétrole, plus quelques dossiers tech.</intro>
+
+  <chapitre titre="International">
+On commence par l'international, avec plusieurs dossiers importants ce matin.
+
+D'abord, l'Ukraine. Des bombardements russes ont frappé Kyiv et sa région dans la nuit de dimanche à lundi, faisant au moins dix morts. Radio-Canada, Al Jazeera et BBC World rapportent que la capitale a enregistré au moins neuf personnes tuées et 46 blessées. Une autre personne est morte dans le district de Boutcha, en périphérie. Des journalistes de l'AFP ont été témoins de dizaines d'explosions dans la ville. Selon les services d'urgence ukrainiens, au moins 15 immeubles résidentiels ont été endommagés ou détruits. Le ministère russe de la Défense a dit avoir lancé ce qu'il qualifie de frappe massive contre des cibles militaro-industrielles, énergétiques et aéroportuaires, en réponse à ce qu'il décrit comme des attaques ukrainiennes sur des infrastructures civiles russes. Le chef de l'administration militaire régionale de Kyiv, de son côté, accuse Moscou de frapper délibérément des civils.
+
+Ces frappes surviennent à la veille d'un sommet de l'OTAN à Ankara. Le National Post rapporte que le président américain Donald Trump doit y rencontrer le président ukrainien Volodymyr Zelenskyy mercredi, lors d'un sommet qui s'annonce tendu, notamment en raison des positions de Trump sur le Groenland, les dépenses de défense européennes et la guerre en Iran. Al Jazeera soulignait hier que Zelenskyy avait publiquement averti d'une attaque imminente avant ce sommet.
+
+Toujours dans ce dossier : selon The Economist, la plupart des Européens souhaitent un renforcement de leurs forces armées, mais les gouvernements peinent à dégager les ressources budgétaires nécessaires. Ce contexte pèsera vraisemblablement sur les discussions à Ankara.
+
+On passe maintenant à l'Iran. Al Jazeera rapporte que le cortège funèbre de l'ayatollah Ali Khamenei, guide suprême tué dans une frappe américano-israélienne, s'est mis en route ce matin à travers Téhéran, avant une inhumation prévue à Mashhad dans le cadre de cérémonies qui durent toute la semaine. Des foules ont rempli les rues de la capitale pour accompagner le cortège. CBC World rapporte une information intrigante en marge des funérailles : Mojtaba Khamenei, le fils désigné pour succéder à son père à la tête du régime, était absent de la cérémonie de dimanche, alors que trois autres fils de l'ayatollah y ont pris part et ont prié à côté des cercueils. Le National Post rapporte par ailleurs que le ministre iranien des Affaires étrangères, Abbas Araghchi, a rencontré en marge des funérailles des représentants d'organisations alliées de Téhéran, dont le Hamas et le Hezbollah.
+
+Le Wall Street Journal soulève un angle économique lié à ce dossier : une augmentation de l'offre de pétrole sur les marchés mondiaux pourrait affaiblir la position de négociation de l'Iran dans les pourparlers en cours, dans la mesure où le pétrole représente une source de revenus vitale pour le régime.
+
+Un troisième dossier international ce matin : la Chine. Radio-Canada et Al Jazeera rapportent que l'armée chinoise a effectué un tir d'essai de missile balistique intercontinental depuis un sous-marin dans l'océan Pacifique. L'Australie, la Nouvelle-Zélande et le Japon ont émis des critiques à la suite de ce test. Selon Radio-Canada, certains pays de la région avaient été informés d'un test imminent. Pékin a confirmé l'essai.
+
+Enfin, un développement notable en France. BBC World rapporte que la cour d'appel rendra prochainement son verdict dans la cause concernant Marine Le Pen, cheffe du Rassemblement national, qui a été condamnée en première instance pour détournement de fonds. Le résultat de cet appel déterminera si elle sera éligible pour se présenter à l'élection présidentielle française de 2027, à laquelle elle arrive en tête des sondages.
+  </chapitre>
+
+  <chapitre titre="Politique canadienne">
+On passe à la politique canadienne, avec deux dossiers ce matin.
+
+D'abord, l'ambassadeur américain au Canada. Global News rapporte que l'ambassadeur Pete Hoekstra a accordé une entrevue dans laquelle il affirme que l'administration Trump ne rencontre pas les séparatistes albertains et ne coordonne pas de stratégie avec eux. Cette déclaration survient dans un contexte de tensions commerciales et politiques entre Ottawa et Washington, alors que le mouvement souverainiste en Alberta a gagné en visibilité ces derniers mois.
+
+Deuxièmement, l'ACEUM et l'industrie automobile. Global News rapporte que General Motors a déclaré que le renouvellement de l'Accord Canada-États-Unis-Mexique, l'ACEUM, est, je le cite : "very important" pour l'industrie automobile. Fin de citation. Cette position intervient alors que les États-Unis ont confirmé leur intention d'imposer un réexamen annuel de l'accord, une décision déjà rapportée dans nos derniers briefings. L'incertitude commerciale autour de cet accord continue d'inquiéter les constructeurs automobiles qui s'appuient sur des chaînes d'approvisionnement intégrées entre les trois pays.
+
+Un mot aussi sur les incendies de forêt. La Presse rapporte qu'un incendie hors de contrôle près de Boston Bar, en Colombie-Britannique, a plus que décuplé sa superficie depuis la veille, et que les équipes d'intervention ont demandé des ressources supplémentaires. Rappelons que Presto a couvert ces derniers jours les risques d'incendies également dans le Nord-du-Québec.
+  </chapitre>
+
+  <chapitre titre="Actualité québécoise">
+Un mot sur l'actualité québécoise, avec deux dossiers ce matin.
+
+D'abord, un déraillement de train à Repentigny. Radio-Canada, La Presse et CBC rapportent qu'un train de marchandises a déraillé dimanche après-midi dans le secteur Le Gardeur de Repentigny, en plein quartier résidentiel. Aucun blessé n'a été signalé, mais 200 résidents ont dû être évacués, selon le service des incendies de la Ville. La Presse rapporte que l'événement suscite des inquiétudes dans la population, survenant la veille du 13e anniversaire de l'explosion du train à Lac-Mégantic.
+
+Ensuite, une performance sportive à noter. Radio-Canada rapporte que la nageuse Summer McIntosh a fracassé le record mondial du 200 mètres papillon lors des essais canadiens de natation, qui se tiennent à Montréal. Elle fait tomber une marque qui tenait depuis 2009.
+  </chapitre>
+
+  <chapitre titre="Économie et marchés">
+Un mot sur l'économie et les marchés.
+
+Sur les marchés, Bloomberg rapporte ce matin que le rebond des actions technologiques marque le pas, tandis que le dollar américain progresse légèrement. Reuters signale que les marchés asiatiques ont évolué de manière hésitante en début de séance, dans un contexte où les investisseurs attendent les résultats d'entreprises des prochaines semaines.
+
+Du côté du pétrole, Reuters et l'Associated Press rapportent que sept pays membres de l'OPEP-plus ont convenu d'une nouvelle augmentation modeste de leurs cibles de production mensuelles. Le prix du brut a légèrement reculé à la suite de cette décision, les marchés ayant intégré l'augmentation prévue de l'offre. Ce mouvement s'inscrit dans une tendance plus large : le Wall Street Journal souligne que l'abondance de l'offre pétrolière mondiale pèse sur les revenus des pays exportateurs, dont l'Iran, au moment où ce pays traverse une transition politique majeure.
+
+Sur le marché des actions, un développement notable du côté de la technologie coréenne. Reuters et Bloomberg rapportent que SK Hynix, le fabricant sud-coréen de mémoire vive, cherche à lancer une cotation aux États-Unis évaluée entre 28 et 29 milliards de dollars américains. L'objectif déclaré est d'attirer des investisseurs exposés au secteur de l'intelligence artificielle, dont SK Hynix est un fournisseur clé en matière de mémoire haute performance.
+
+Du côté du marché des devises, le Wall Street Journal rapporte que la paire dollar-yen continue de tester des niveaux élevés malgré la possibilité d'une intervention des autorités japonaises.
+
+Enfin, un dossier de fond de The Economist : l'hebdomadaire publie une analyse sur le ralentissement apparent des progrès des femmes dans le monde du travail professionnel. Il y signale des données suggérant que les gains enregistrés par les femmes dans les postes de direction depuis le début des années 2010 semblent plafonner dans plusieurs économies avancées.
+  </chapitre>
+
+  <chapitre titre="Tech">
+Un mot sur la tech, avec trois dossiers ce matin.
+
+D'abord, la robotique humanoïde. TechCrunch rapporte qu'Agility Robotics, une entreprise spécialisée en robots humanoïdes, a annoncé son intention d'entrer en bourse via une transaction SPAC. Ce qui distingue Agility des autres acteurs du secteur, c'est le discours de sa direction : la cheffe de la direction dit ouvertement ne pas promettre un robot dans chaque foyer à court terme, préférant miser sur des déploiements industriels démontrables. TechCrunch note que d'autres entreprises du même secteur ont, au contraire, misé sur des valorisations très élevées adossées à des promesses ambitieuses.
+
+Ensuite, Amazon. TechCrunch rapporte qu'Amazon a annoncé qu'il cessera d'accepter de nouveaux clients pour son service Mechanical Turk. Ce service permettait depuis des années à des entreprises de confier des microtâches à des travailleurs humains pour entraîner ou évaluer des systèmes d'intelligence artificielle. Sa fermeture progressive marque la fin d'un modèle qui aura durablement influencé le développement de l'IA.
+
+Troisième dossier : Uber en Europe. TechCrunch rapporte qu'Uber avait annoncé en février son intention de s'étendre dans sept nouveaux marchés européens en 2026, mais que cinq de ces lancements seraient désormais mis en attente. L'article ne précise pas les raisons invoquées par la compagnie pour chacun des marchés concernés.
+  </chapitre>
+
+  <chapitre titre="Sport">
+Un dernier mot sur le sport, avec la Coupe du monde et la LNH.
+
+À la Coupe du monde d'abord. Ce soir, les États-Unis affrontent la Belgique en huitièmes de finale. La rencontre est marquée par une controverse : l'attaquant américain Folarin Balogun, qui devait purger une suspension d'un match pour carton rouge, a été autorisé à jouer après que la FIFA a suspendu sa sanction. CBC et le National Post rapportent que cette décision a été saluée publiquement par le président américain Donald Trump, qui a remercié la FIFA, et qu'elle a provoqué l'indignation des autorités belges du football. Reuters précise que la FIFA s'est appuyée sur l'article 27 de son Code disciplinaire pour justifier la suspension de la peine.
+
+Ailleurs à la Coupe du monde, Sportsnet rapporte qu'en match disputé dimanche, l'Angleterre a battu le Mexique 3 à 2, se qualifiant pour les quarts de finale. Jude Bellingham a inscrit deux buts en 98 secondes, et Harry Kane a converti un penalty alors que son équipe jouait à dix hommes. C'est la première défaite du Mexique à domicile dans un match de Coupe du monde à l'Estadio Azteca.
+
+En parallèle, TVA Sports rapporte que Cristiano Ronaldo, en marge de la Coupe du monde, a lancé aux médias, je le cite : « Vous avez essayé de me tuer pendant 23 ans. » Fin de citation. Une sortie remarquée lors d'une rencontre avec la presse.
+
+Du côté de la LNH, TVA Sports rapporte que 15 joueurs ont soumis des demandes d'arbitrage salarial. RDS et Sportsnet rapportent que le défenseur Pavel Mintyukov reste à Anaheim après avoir décliné une offre hostile, et que les Oilers d'Edmonton ont signé Shakir Mukhamadullin à un contrat de prolongation de deux ans.
+  </chapitre>
+
+  <outro>Voilà pour ce Presto du lundi 6 juillet 2026. Si ce briefing vous est utile, le meilleur coup de main que vous pouvez nous donner, c'est de le partager à une personne qui aime rester informée. Et selon votre plateforme : un abonnement sur Spotify ou Apple Podcasts, un pouce bleu et un abonnement sur YouTube, ça prend deux secondes et ça aide vraiment Presto à grandir. Sur ce, bonne journée, et à demain.</outro>
+</script>
+```
