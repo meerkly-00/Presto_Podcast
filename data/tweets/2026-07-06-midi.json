@@ -1,0 +1,14 @@
+{
+  "date": "2026-07-06",
+  "kind": "poll",
+  "text": "Ce matin → 10 morts dans des frappes russes sur Kyiv, à la veille du sommet de l'OTAN où Trump doit rencontrer Zelenskyy mercredi à Ankara.\n\nNouveau :\n\nComment évalues-tu la coordination entre les sommets de l'OTAN et les enjeux militaires en Europe de l'Est et au Moyen-Orient?",
+  "poll": {
+    "options": [
+      "Cruciale pour trouver",
+      "Importante mais",
+      "Secondaire face aux",
+      "Trop peu de détails pour"
+    ],
+    "duration_minutes": 1440
+  }
+}
