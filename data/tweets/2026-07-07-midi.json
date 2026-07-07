@@ -1,13 +1,13 @@
 {
   "date": "2026-07-07",
   "kind": "poll",
-  "text": "Ce matin → Le Canada confie à ThyssenKrupp la construction de sa future flotte de sous-marins, s'inscrivant dans ses engagements de défense à l'OTAN.\n\nNouveau développement : En marge du\n\nSelon toi, les pays de l'OTAN doivent-ils augmenter davantage leurs dépenses en défense?",
+  "text": "Ce matin → Le Canada choisit ThyssenKrupp pour sa flotte de sous-marins.\n\nNouveau : Au sommet de l'OTAN, Mark Carney rencontre ses homologues turcs et ukrainiens pour renforcer les engagements de défense collectifs.\n\nComment vois-tu cet investissement canadien en défense navale?",
   "poll": {
     "options": [
-      "Oui, pour renforcer la",
-      "Non, investir ailleurs",
-      "Seulement si menace",
-      "Répartition plus"
+      "Nécessaire pour la",
+      "Utile mais coûteux",
+      "Priorité secondaire",
+      "Sans avis"
     ],
     "duration_minutes": 1440
   }
