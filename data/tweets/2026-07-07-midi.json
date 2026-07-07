@@ -1,0 +1,14 @@
+{
+  "date": "2026-07-07",
+  "kind": "poll",
+  "text": "Ce matin → Le Canada confie à ThyssenKrupp la construction de sa future flotte de sous-marins, s'inscrivant dans ses engagements de défense à l'OTAN.\n\nNouveau développement : En marge du\n\nSelon toi, les pays de l'OTAN doivent-ils augmenter davantage leurs dépenses en défense?",
+  "poll": {
+    "options": [
+      "Oui, pour renforcer la",
+      "Non, investir ailleurs",
+      "Seulement si menace",
+      "Répartition plus"
+    ],
+    "duration_minutes": 1440
+  }
+}
