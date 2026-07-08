@@ -1,0 +1,14 @@
+{
+  "date": "2026-07-08",
+  "kind": "poll",
+  "text": "Ce matin → Les États-Unis ont frappé plus de 80 cibles en Iran. Nouveau : Trump déclare la fin du cessez-le-feu et annonce la reprise des hostilités, affirmant que les négociations sont « une perte de temps ».\n\nSelon toi, cette escalade militaire devrait-elle mener à :",
+  "poll": {
+    "options": [
+      "Des pourparlers",
+      "Une riposte iranienne",
+      "Une implication accrue",
+      "Un retrait de la région"
+    ],
+    "duration_minutes": 1440
+  }
+}
