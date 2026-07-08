@@ -1,105 +1,101 @@
 ```xml
 <script>
-  <intro>Bonjour, on est le mercredi 8 juillet 2026. Voici votre Presto en environ 17 minutes. Au menu ce matin : frappes américaines en Iran et riposte iranienne, le sommet de l'OTAN à Ankara, la mort de Marc Messier, les marchés sous pression, la tech avec Meta et SambaNova, et un mot sur le sport.</intro>
+  <intro>Bonjour, on est le mercredi 8 juillet 2026. Voici votre Presto en environ 17 minutes. Au menu ce matin : le dossier Iran-États-Unis qui s'emballe, le sommet de l'OTAN à Ankara, Marine Le Pen candidate malgré sa condamnation, l'économie sous tension géopolitique, la tech avec Meta, Samsung et une alerte de sécurité sur l'IA, puis un mot sur le sport.</intro>
 
-  <chapitre titre="International : frappes américaines en Iran">
-On commence par un dossier majeur survenu dans les dernières heures : des frappes militaires entre les États-Unis et l'Iran.
+  <chapitre titre="International : Iran et États-Unis">
+On commence par le dossier majeur de la nuit : de nouvelles frappes militaires entre les États-Unis et l'Iran, et une déclaration de Trump qui change la donne.
 
-Selon Radio-Canada et la BBC, l'armée américaine a frappé plus de 80 cibles en Iran, incluant des sites de missiles et des centres de commandement. L'élément déclencheur, selon Reuters Business : des attaques contre des pétroliers et des méthaniers dans le détroit d'Ormuz. En réponse, l'Iran a annoncé avoir frappé des bases militaires américaines au Koweït et à Bahreïn.
+Voici ce qu'on sait. Selon l'Associated Press et la BBC, l'armée américaine a lancé de nouvelles frappes contre l'Iran en réponse à des attaques iraniennes sur trois pétroliers dans le détroit d'Ormuz. La BBC précise que ces frappes américaines ont ciblé des embarcations militaires iraniennes. En parallèle, selon CBC et Al Jazeera, l'Iran a riposté en attaquant des bases hébergeant des forces américaines au Koweït et à Bahreïn.
 
-Reuters rapporte que le secrétaire général de l'OTAN a qualifié les nouvelles frappes américaines d'absolument nécessaires. La BBC précise que Washington a présenté ses frappes comme une réaction défensive aux attaques sur les tankers.
+C'est dans ce contexte que Donald Trump a pris la parole depuis le sommet de l'OTAN à Ankara. Selon CBC, Al Jazeera et Reuters, Trump a déclaré que l'accord intérimaire visant à mettre fin aux hostilités avec l'Iran était, je le cite : "over." Fin de citation. Il a ajouté que des négociateurs américains pouvaient continuer de parler aux Iraniens "s'ils le voulaient", mais le ton était clairement celui d'une rupture.
 
-Du côté iranien, Al Jazeera rapporte que l'économie du pays fait face à une longue route de rétablissement. Selon des analystes cités par Al Jazeera, les dommages subis par les installations industrielles lors de deux guerres en l'espace d'un an pourraient prendre des années à être réparés. Un cessez-le-feu fragile est en place, mais il est mis à l'épreuve.
+En parallèle, l'Associated Press rapporte que Washington a révoqué un permis de vente de pétrole iranien, une mesure de pression économique supplémentaire.
 
-Sur le plan économique, l'impact est immédiat. Bloomberg indique que le prix du pétrole a progressé à la suite des frappes, tandis que les marchés boursiers asiatiques accusaient des baisses. Reuters Business rapporte par ailleurs que les États-Unis ont rétabli des sanctions sur les ventes de pétrole iranien dans la foulée des attaques sur les tankers.
+Du côté des conséquences économiques directes, Bloomberg rapporte qu'une attaque sur un pétrolier transportant du gaz naturel liquéfié menace les efforts du Qatar pour relancer ses exportations via le détroit d'Ormuz, une voie maritime qui compte parmi les plus importantes au monde pour l'énergie.
 
-Ce dossier a aussi une dimension financière à surveiller : le détroit d'Ormuz est l'un des passages maritimes les plus stratégiques au monde pour le transport d'hydrocarbures. On continue de suivre la situation, elle évolue rapidement.
+Selon Reuters, le secrétaire général de l'OTAN a déclaré que les nouvelles frappes américaines en Iran étaient "absolument nécessaires", appuyant ainsi la position de Washington. Mais cette unanimité de façade cache des tensions au sein de l'Alliance, notamment sur la question de la participation des alliés européens au dossier iranien. Radio-Canada rapporte que Trump, à Ankara, s'est montré très critique envers ses alliés, leur reprochant de ne pas avoir soutenu les États-Unis contre l'Iran.
 
-Toujours dans le volet international, un autre fil à suivre concerne l'Ukraine. Reuters rapporte que la Russie tente de brouiller les systèmes Starlink de l'entreprise SpaceX pour contrer les drones ukrainiens. CBC World s'interroge sur les capacités de défense aérienne de l'Ukraine : lors de la dernière attaque russe dans la nuit de dimanche à lundi, aucun des missiles balistiques tirés par Moscou n'a été intercepté. CBC World précise que l'Ukraine fait face à une pénurie d'intercepteurs, ce qui complique sa défense face aux missiles balistiques. La BBC rapporte aussi que la Russie vit des pénuries de carburant croissantes, y compris à Moscou, où les autorités ne peuvent plus garantir l'approvisionnement. La BBC pose la question : est-ce que cette pression économique poussera Poutine vers des négociations ou vers une escalade ? La réponse reste ouverte.
+La situation évolue rapidement, et Presto y reviendra.
   </chapitre>
 
-  <chapitre titre="International : sommet de l'OTAN à Ankara">
-On passe au sommet de l'OTAN, dont c'est aujourd'hui la deuxième et dernière journée à Ankara, en Turquie.
+  <chapitre titre="International : sommet de l'OTAN et Trump">
+On reste à Ankara, où se tenait aujourd'hui la deuxième et dernière journée du sommet de l'OTAN. Ce sommet était déjà chargé avant même les derniers développements avec l'Iran.
 
-Selon Al Jazeera, Trump et les dirigeants des pays membres se réunissent pour clore ce sommet. L'Associated Press rapporte que l'OTAN a dévoilé plusieurs milliards en contrats d'armement pour démontrer la capacité de feu de l'Alliance. La BBC précise que le premier ministre britannique Keir Starmer convoque une douzaine de dirigeants pour discuter d'un nouveau projet de missiles évalué à 37 milliards de livres sterling.
+Selon Radio-Canada, Trump s'est montré très en colère lors du sommet, s'en prenant à plusieurs alliés sur une série de dossiers simultanément : le Groenland, l'Espagne, et l'absence d'aide occidentale contre l'Iran.
 
-En marge du sommet, CBC World rapporte que Donald Trump a à nouveau affirmé que les États-Unis devraient contrôler le Groenland, au lieu du Danemark. Cette déclaration a créé des tensions parmi les alliés réunis à Ankara.
+Sur l'Espagne : Reuters rapporte que Trump a annoncé avoir ordonné une coupure des échanges commerciaux américains avec l'Espagne. On n'a pas plus de détails sur la portée exacte de cette mesure pour l'instant.
 
-L'Associated Press indique que l'OTAN cherche à naviguer dans un équilibre délicat : éviter de provoquer Trump tout en maintenant la solidarité de l'Alliance. Le contexte est d'autant plus complexe que les frappes en Iran se déroulent en parallèle du sommet.
+Sur le Groenland : CBC rapporte que Trump a réitéré sa position selon laquelle les États-Unis, et non le Danemark, devraient contrôler le Groenland, une déclaration qu'il a faite à la veille même du sommet et qui a ravivé les tensions avec plusieurs membres de l'Alliance.
+
+Il y a cependant eu au moins un développement concret positif du côté de la défense. La BBC rapporte que les alliés de l'OTAN ont annoncé un investissement de 37 milliards de livres sterling dans un nouveau projet de missiles. Le premier ministre britannique Keir Starmer devait réunir une douzaine de dirigeants à Ankara pour discuter de ce programme.
+
+Le sommet aura donc produit un accord sur les missiles, mais aussi beaucoup de friction interne, sur fond de crise iranienne qui s'est intensifiée au cours des mêmes 24 heures.
   </chapitre>
 
-  <chapitre titre="International : Le Pen et la France">
-Un mot sur la France, avec un développement politique structurant. Selon la BBC et l'Associated Press, une cour d'appel à Paris a confirmé un verdict de culpabilité contre Marine Le Pen. Or, malgré cette décision et une surveillance judiciaire ordonnée par le tribunal, Le Pen a annoncé qu'elle se présentera à l'élection présidentielle française l'an prochain. L'Associated Press rapporte qu'elle a lancé sa campagne présidentielle dans les heures suivant la confirmation du verdict.
+  <chapitre titre="International : Marine Le Pen et la France">
+Un mot sur la France, avec un développement politique structurant. Radio-Canada, la BBC et l'Economist rapportent tous la même chose : Marine Le Pen a annoncé sa candidature à l'élection présidentielle française, quelques heures seulement après qu'une cour d'appel à Paris a confirmé un verdict de culpabilité à son endroit.
 
-L'Economist précise que la question juridique centrale est de savoir si cette condamnation l'empêchera légalement de se présenter. La situation reste en évolution.
+Radio-Canada rapporte que le tribunal a également ordonné le port d'un bracelet électronique pour Le Pen, mais les conditions d'application de cette peine devaient être précisées dans les 20 jours suivant la décision. Le Pen avait elle-même dit auparavant qu'elle ne pourrait pas faire campagne si un bracelet lui était imposé, parce que cela limiterait sa capacité à se déplacer à travers le pays et à participer à des rassemblements partisans en soirée.
 
-En parallèle, l'Associated Press rapporte que Nigel Farage, chef du parti Reform UK en Grande-Bretagne, dit vouloir démissionner de son siège de député et se représenter à une élection partielle, dans la foulée d'allégations sur des dons à son parti.
+Malgré ça, dès le soir du verdict, elle a annoncé sa candidature lors du grand bulletin télévisé de TF1, invitant les téléspectateurs à visiter son site de campagne. Le lendemain matin, mercredi, elle faisait déjà une sortie dans les rues de La Flèche, en Sarthe, une ville récemment remportée par le Rassemblement national aux élections municipales.
+
+Radio-Canada rapporte aussi que ce geste met le RN dans une position délicate : Jordan Bardella, qui s'était dit prêt à la remplacer comme candidat du parti, se retrouve mis de côté. Le Pen justifie sa décision en contestant la décision de la cour d'appel, dont elle conteste la légitimité.
+
+La BBC rappelle que cette candidature est portée par une femme reconnue coupable de détournement de fonds publics, ce qui est un enjeu constitutionnel et politique que la France n'a pas encore pleinement tranché.
   </chapitre>
 
   <chapitre titre="Politique canadienne">
 On passe à la politique canadienne, avec trois dossiers ce matin.
 
-D'abord, les minéraux critiques. Le National Post et Reuters rapportent que le gouvernement canadien a annoncé une contribution pouvant atteindre 400 millions de dollars canadiens à Teck Resources, pour augmenter la production à une raffinerie de métaux stratégiques en Colombie-Britannique. Selon Reuters, cet accord vise à garantir au Canada une part de l'approvisionnement futur en germanium, antimoine et gallium. Ces métaux sont au coeur de la fabrication de semi-conducteurs et d'équipements militaires. Les Affaires confirme qu'il s'agit du premier accord conclu dans le cadre du nouvel Accélérateur canadien des minéraux critiques.
+D'abord, une nomination contestée au Sénat. La Presse rapporte que le premier ministre Mark Carney a défendu la nomination de son secrétaire principal, Tom Pitfield, au Sénat. On n'a pas plus de détails sur la nature des critiques soulevées contre cette nomination, mais le fait que Carney ait cru nécessaire de la défendre publiquement indique que le dossier fait débat.
 
-Deuxièmement, la crise des opioïdes. Radio-Canada rapporte que le recours collectif pancanadien sur la crise des opioïdes ira en procès en 2028. C'est la Colombie-Britannique qui mène cette action contre plusieurs groupes pharmaceutiques.
+Deuxièmement, les sous-marins et les conséquences de la décision canadienne. Hier, on avait rapporté que le Canada avait sélectionné l'entreprise allemande ThyssenKrupp pour construire sa future flotte de sous-marins. Aujourd'hui, Radio-Canada rapporte que l'entreprise sud-coréenne Hanwha, qui était en lice pour ce contrat, a décidé de se retirer d'un partenariat de formation en Ontario. Ce partenariat visait à créer un pôle de formation à la construction navale à Hamilton. La perte du contrat de sous-marins a donc eu des effets concrets au-delà de la décision principale.
 
-Troisièmement, une tragédie sur la route. CBC rapporte que trois personnes ont été tuées dans une collision entre une ambulance et un camion-remorque près du pont de la Confédération, au Nouveau-Brunswick. Les victimes, une femme de 77 ans, un homme de 56 ans et une femme de 23 ans, voyageaient à bord de l'ambulance de l'Île-du-Prince-Édouard. La GRC du Nouveau-Brunswick a confirmé les informations.
-
-Également, les infirmières de la Colombie-Britannique intensifient leur action syndicale. Global News rapporte que le Syndicat des infirmières de la C.-B. a établi une ligne de piquetage à l'Hôpital général de Vancouver. Cette action fait suite au rejet d'une entente de principe par les deux tiers des membres, selon Global News.
-  </chapitre>
-
-  <chapitre titre="Actualité québécoise">
-Un mot sur l'actualité québécoise, avec trois dossiers ce matin.
-
-D'abord, le Québec est en deuil. Radio-Canada rapporte le décès de Marc Messier, acteur québécois très aimé du public et de ses collègues. Le milieu culturel lui rend hommage.
-
-Ensuite, la reprise ferroviaire à Repentigny. Radio-Canada rapporte que les activités du CN ont repris progressivement dans la nuit de mardi à mercredi sur le tronçon où un train avait déraillé dimanche dans le secteur Le Gardeur. La Ville de Repentigny indique que le site a été déclaré sans risque par les équipes d'urgence, et que les trains circulent d'abord à vitesse réduite, avec des inspections après chaque passage.
-
-Enfin, le Québec propose de resserrer les contrôles sur la vente de Benadryl. Global News rapporte que cette mesure fait suite à la recommandation d'un coroner, après le décès par surdose d'un adolescent de 18 ans en 2023.
-
-Un autre dossier à mentionner : Le Devoir soulève la question de la cherté du logement au Québec, évoquant le 1er juillet comme une journée révélatrice des difficultés des locataires et des acheteurs potentiels dans le marché actuel.
+Troisièmement, Hydro-Québec et la communauté innue de Pessamit sont au seuil d'une entente de plusieurs milliards de dollars, selon Radio-Canada. L'accord en discussion permettrait à Hydro-Québec de régler ses litiges avec Pessamit et de construire une nouvelle centrale hydroélectrique. Un référendum aurait lieu dans la communauté pour approuver l'entente. C'est un développement significatif pour l'avenir énergétique du Québec et pour les relations entre le gouvernement et les communautés autochtones.
   </chapitre>
 
   <chapitre titre="Économie et marchés">
-On passe à l'économie et aux marchés, avec plusieurs dossiers ce matin.
+On passe à l'économie et aux marchés, avec plusieurs dossiers directement liés à la situation géopolitique.
 
-Les frappes américaines en Iran ont eu un effet direct sur les marchés. Bloomberg rapporte que le pétrole a progressé à la suite des attaques, tandis que les actions asiatiques étaient orientées à la baisse en début de séance. Reuters Business indique que l'or a également progressé, les marchés attendant la publication des minutes de la Réserve fédérale américaine, la Fed, tout en digérant les tensions géopolitiques au Moyen-Orient.
+La hausse du pétrole est la réaction la plus immédiate. Bloomberg et Reuters Business rapportent que le prix du pétrole a progressé à la suite des nouvelles attaques iraniano-américaines et de l'annonce par Trump que l'accord de cessez-le-feu était terminé. Dans le même mouvement, Reuters Business rapporte que l'or a reculé, une réaction typique quand le pétrole monte brusquement dans un contexte de tensions au Moyen-Orient.
 
-En Asie, la journée de mardi avait déjà été difficile. Reuters Business rapportait que l'indice sud-coréen KOSPI avait reculé de près de 5 %, avec une forte pression sur les fabricants de puces liée aux inquiétudes autour de l'intelligence artificielle.
+Du côté des bourses, Reuters Business rapportait déjà hier soir que le Nasdaq avait reculé en raison de préoccupations sur l'intelligence artificielle affectant les fabricants de puces. Bloomberg rapporte par ailleurs que les actions asiatiques étaient orientées à la baisse en début de séance, et que la Corée du Sud continuait de subir des pressions importantes sur son marché.
 
-Du côté des entreprises, Bloomberg rapporte que Samsung a publié des profits records au dernier trimestre, mais que ce résultat n'a pas suffi à rassurer les marchés dans un contexte de vente généralisée dans le secteur technologique. Le Wall Street Journal confirme la pression sur les actions tech, avec Amazon qui a émis des obligations liées à l'IA.
+Chose notable, Bloomberg signale que les actions chinoises se comportaient mieux que leurs pairs asiatiques dans ce contexte difficile, une divergence qui mérite d'être notée.
 
-Sur un autre front, le Fonds monétaire international a nommé une nouvelle économiste en chef. Le Financial Times rapporte que le FMI a choisi Silvana Tenreyro pour ce poste.
+Côté institutions internationales, le Financial Times rapporte que le Fonds monétaire international a nommé Silvana Tenreyro comme prochaine économiste en chef. C'est un changement de garde notable pour une institution qui joue un rôle central dans les grandes crises économiques.
 
-Côté obligations, The Economist note que l'intelligence artificielle, après avoir dominé les marchés boursiers, commence à s'imposer dans le marché obligataire : Amazon et d'autres grandes entreprises technologiques émettent des obligations pour financer leurs investissements dans l'IA. The Economist souligne que l'évaluation du risque de crédit lié à ce secteur est particulièrement complexe pour les investisseurs.
+Sur le front de l'énergie et de la tech, Ars Technica rapporte que la demande énergétique des centres de données d'intelligence artificielle crée des pressions sur les coûts d'électricité pour les fabricants américains, particulièrement dans les États desservis par le réseau PJM Interconnection dans la région Rust Belt. Selon Reuters, cité par Ars Technica, l'entreprise Belden Brick Company en Ohio a vu sa facture d'électricité mensuelle passer de 1 600 à 12 000 dollars américains. L'association des fabricants d'acier américains avertit que ses membres paient des dizaines de millions de dollars de plus par année en coûts d'électricité. Ce phénomène crée une tension directe avec les objectifs de réindustrialisation promus par l'administration Trump.
 
-Enfin, Ars Technica rapporte que la demande énergétique des centres de données nuit au plan de réindustrialisation américain de Donald Trump. Selon une analyse de Reuters citée par Ars Technica, des fabricants de la Rust Belt paient des factures d'électricité beaucoup plus élevées en raison de la pression exercée sur le réseau par la croissance des centres de données. À titre d'exemple, Ars Technica cite la Belden Brick Company en Ohio, dont la facture mensuelle d'électricité est passée de 1 600 à 12 000 dollars américains. La Steel Manufacturers Association avertit que les aciéristes américains paient des dizaines de millions de dollars supplémentaires en coûts d'énergie par année.
+Enfin, l'Economist publie une analyse selon laquelle l'intelligence artificielle, après avoir transformé le marché boursier, commence à prendre de la place sur le marché obligataire, notamment avec Amazon qui aurait émis des obligations liées à l'IA, selon le Wall Street Journal.
   </chapitre>
 
   <chapitre titre="Tech">
 Un mot sur la tech, avec quatre dossiers ce matin.
 
-D'abord, les lunettes connectées de Meta. The Verge rapporte que Meta va déployer une mise à jour de ses lunettes intelligentes pour désactiver la caméra si quelqu'un tente de modifier ou de détruire le voyant lumineux de confidentialité. Cette annonce fait suite à des cas de modeurs qui avaient percé physiquement ce voyant pour contourner l'avertissement de captation. La mesure vise à répondre aux critiques du public sur la vie privée.
+D'abord, une alerte de sécurité importante. Ars Technica rapporte que des chercheurs ont découvert qu'il est possible d'exploiter neuf des outils d'intelligence artificielle les plus populaires pour assembler des réseaux de machines infectées, ce qu'on appelle des botnets. La vulnérabilité repose sur une technique appelée injection de prompt : les grands modèles de langage sont incapables de distinguer entre des instructions légitimes et des instructions malveillantes glissées dans des courriels, du code source ou d'autres contenus que le modèle traite. Selon Ars Technica, une nouvelle classe d'attaques permet désormais de cibler des victimes à grande échelle, et pas seulement individuellement comme c'était le cas auparavant. C'est un développement préoccupant pour la sécurité des systèmes utilisant l'IA.
 
-Deuxièmement, Meta a lancé un nouveau modèle de génération d'images. TechCrunch et The Verge rapportent que l'entreprise a lancé Muse Image, son nouveau modèle d'intelligence artificielle pour créer des images. Ce modèle est développé par les Superintelligence Labs de Meta et permet notamment d'intégrer des photos d'autres utilisateurs Instagram dans des images générées par IA. TechCrunch note que des utilisateurs ont déjà exprimé des réserves face à l'utilisation de leurs photos.
+Deuxième dossier : Meta et ses lunettes connectées. The Verge rapporte que Meta va déployer une mise à jour de ses lunettes intelligentes qui désactivera la caméra si quelqu'un tente de modifier ou de détruire le voyant lumineux de confidentialité. Cette mise à jour répond à des modifieurs qui avaient physiquement percé ou altéré le voyant pour filmer discrètement sans que personne ne le sache. The Verge note cependant que ce voyant reste difficile à voir, même en fonctionnement normal.
 
-Troisièmement, la sécurité de l'IA. Ars Technica rapporte qu'une recherche a démontré que neuf des outils d'intelligence artificielle les plus populaires peuvent être exploités par des pirates informatiques pour assembler des botnets de grande envergure. Le mécanisme utilisé s'appelle l'injection de prompt : les modèles de langage sont incapables de distinguer les instructions légitimes des instructions malveillantes dissimulées dans des courriels ou du code. Selon Ars Technica, les développeurs de systèmes d'IA se retrouvent à construire des garde-fous pour atténuer les dommages plutôt qu'à résoudre le problème à la source.
+Toujours sur Meta : TechCrunch rapporte que l'entreprise a lancé Muse Image, un nouveau générateur d'images par intelligence artificielle, le premier depuis ce que le Financial Times décrit comme une refonte profonde par Mark Zuckerberg de la stratégie IA de l'entreprise. TechCrunch rapporte que des utilisateurs ont déjà exprimé des objections quant à l'utilisation de leurs photos pour entraîner ce modèle.
 
-Quatrièmement, deux nouvelles de financement. TechCrunch rapporte que SambaNova, un fabricant de puces pour l'IA, vient de lever un milliard de dollars américains à une valorisation de 11 milliards, cinq mois après sa précédente ronde de financement d'envergure. TechCrunch note qu'Intel avait été évoqué comme acheteur potentiel à environ 1,6 milliard il y a quelques mois. Également, TechCrunch rapporte que la startup française ZML, dont le cofondateur bénéficie de l'appui du lauréat du prix Turing Yann LeCun, a lancé gratuitement un logiciel appelé ZML/LLMD, conçu pour accélérer l'inférence des modèles d'IA sur différents types de puces et ainsi réduire les coûts d'exploitation.
+Troisième dossier : Samsung confirme son prochain événement. The Verge rapporte que Samsung a annoncé un événement Galaxy Unpacked pour le 22 juillet. L'entreprise devrait y présenter un nouveau téléphone pliable au format plus large et plus court que ses modèles habituels, en plus de versions mises à jour de ses téléphones Flip et Fold existants.
 
-Un dernier élément tech à noter : Netflix passe à la vidéo courte. The Verge et le National Post rapportent qu'à partir du 3 août, Netflix intégrera des vidéos courtes provenant de médias numériques comme BuzzFeed, Condé Nast, Hearst Magazines et Tastemade. L'objectif affiché est de permettre aux abonnés de regarder du contenu de l'internet sans quitter Netflix, dans un mouvement qui ressemble à une réponse directe à TikTok et YouTube.
+Quatrième dossier : une levée de fonds majeure dans les puces pour l'IA. TechCrunch rapporte que SambaNova, un fabricant de puces pour l'intelligence artificielle, a levé 1 milliard de dollars américains à une valorisation de 11 milliards, seulement cinq mois après un précédent tour de financement. L'entreprise avait notamment été ciblée par Intel comme acquisition potentielle à environ 1,6 milliard, selon TechCrunch, avant que ce projet ne soit abandonné.
   </chapitre>
 
   <chapitre titre="Sport">
-Un dernier mot sur le sport, avec la Coupe du monde et quelques nouvelles de la LNH.
+Un dernier mot sur le sport, avec la Coupe du monde et deux nouvelles de la LNH.
 
-À la Coupe du monde, Al Jazeera rapporte qu'Argentina a éliminé l'Égypte en huitièmes de finale. Ce soir, la France affronte le Maroc en quart de finale. Al Jazeera précise que c'est une revanche du match de 2022, où les Bleus avaient battu le Maroc en demi-finale. Kylian Mbappé mène l'attaque française.
+À la Coupe du monde, Al Jazeera rapporte que la Suisse a rejoint les quarts de finale. Dans la course au Soulier d'or, Al Jazeera signale que Lionel Messi est en tête des buteurs avec huit buts, suivi d'Erling Haaland et de Kylian Mbappé. Ce soir, selon La Presse, la France affronte le Maroc en quart de finale.
 
-Du côté des Blue Jays, Sportsnet rapporte que Toronto a renversé la vapeur mardi en battant les Giants de San Francisco, effaçant la défaite de 8 à 1 du lundi. Selon Sportsnet, l'offensive torontoise a dépassé sa production des quatre matchs précédents dès les trois premières manches.
+Du côté de la LNH, deux nouvelles. D'abord, Sportsnet rapporte que les Maple Leafs de Toronto ont ajouté Daniel Alfredsson à leur organisation, une addition que Sportsnet décrit comme une approche renouvelée de la direction, en phase avec les thèmes de l'intersaison.
 
-Dans la LNH, deux nouvelles. Sportsnet rapporte que les Maple Leafs de Toronto ont ajouté Daniel Alfredsson à leur organisation, dans ce que l'article décrit comme un signal d'un nouveau départ pour l'équipe. Également, Sportsnet rapporte que Kyle Lowry, figure emblématique des Raptors de Toronto, a officiellement pris sa retraite, et que les Raptors l'accueillent en retour pour clore ce chapitre de sa carrière.
+Ensuite, Sportsnet rapporte que les Raptors de Toronto ont officiellement accueilli Kyle Lowry pour son retrait de la compétition. Selon Sportsnet, c'était toujours le plan prévu pour mettre fin à la carrière de l'icône de la franchise à Toronto.
+
+Et du côté des Blue Jays, Sportsnet rapporte que l'équipe a remporté une victoire face aux Giants de San Francisco mardi soir, surpassant en trois manches l'offensive totale des quatre matchs précédents.
   </chapitre>
 
-  <outro>Voilà pour ce Presto du 8 juillet 2026. Si ce briefing vous est utile, le meilleur coup de main que vous pouvez nous donner, c'est de le partager à une personne qui aime rester informée. Et selon votre plateforme : un abonnement sur Spotify ou Apple Podcasts, un pouce bleu et un abonnement sur YouTube, ça prend deux secondes et ça aide vraiment Presto à grandir. Sur ce, bonne journée, et à demain.</outro>
+  <outro>Voilà pour ce Presto du mercredi 8 juillet 2026. Si ce briefing vous est utile, le meilleur coup de main que vous pouvez nous donner, c'est de le partager à une personne qui aime rester informée. Et selon votre plateforme : un abonnement sur Spotify ou Apple Podcasts, un pouce bleu et un abonnement sur YouTube, ça prend deux secondes et ça aide vraiment Presto à grandir. Sur ce, bonne journée, et à demain.</outro>
 </script>
 ```
