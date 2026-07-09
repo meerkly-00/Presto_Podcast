@@ -1,13 +1,13 @@
 {
   "date": "2026-07-09",
   "kind": "poll",
-  "text": "Ce matin → Les États-Unis et l'Iran échangent des frappes.\n\nFace à cette escalade, comment tu vois l'impact économique sur les prix de l'énergie?",
+  "text": "Ce matin → Les É.-U.\n\nSelon toi, qui devrait assurer la sécurité du détroit d'Ormuz?",
   "poll": {
     "options": [
-      "Hausse rapide des prix à",
-      "Impact limité à court",
-      "Fluctuations suivant les",
-      "Trop tôt pour dire"
+      "Une coalition",
+      "Chaque pays pour ses",
+      "Les pays riverains de la",
+      "L'OTAN"
     ],
     "duration_minutes": 1440
   }
