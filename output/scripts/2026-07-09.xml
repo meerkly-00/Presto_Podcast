@@ -1,103 +1,99 @@
 ```xml
 <script>
-  <intro>Bonjour, on est le jeudi 9 juillet 2026. Voici votre Presto en environ 17 minutes. Au menu : la guerre entre les États-Unis et l'Iran qui s'intensifie, les suites du sommet de l'OTAN, un naufrage en Colombie-Britannique, un premier contrat de syndicat chez Walmart au Canada, l'économie mondiale sous tension, et plusieurs nouvelles en tech.</intro>
+ <intro>Bonjour, on est le jeudi 9 juillet 2026. Voici votre Presto en environ 17 minutes. Au menu ce matin : la guerre d'usure entre les États-Unis et l'Iran s'intensifie, avec de nouvelles frappes et une menace directe sur le détroit d'Ormuz. Du côté canadien, Walmart syndiqué en Ontario, c'est une première en Amérique du Nord. En économie, la Fed est profondément divisée sur l'inflation, et le FMI retire son avertissement de récession. En tech, Meta construira son premier centre de données au Canada, et un scandale d'intelligence artificielle secoue l'Université Brown. Et on ferme avec le sport : Dylan Cease a frôlé le match parfait hier soir.</intro>
 
-  <chapitre titre="International : Iran et États-Unis">
-On commence par le dossier dominant de la nuit. Les États-Unis ont lancé de nouvelles frappes militaires contre l'Iran. Selon la BBC et Radio-Canada, Trump a décrit ces attaques comme une riposte, je le cite : "retribution for yesterday's bombing of ships by Iran." Fin de citation. L'Associated Press confirme que les frappes ont ciblé le sud du pays, et que l'Iran a promis de fortes représailles.
+ <chapitre titre="International : États-Unis et Iran">
+Commençons par le dossier dominant de la nuit. Les États-Unis et l'Iran ont échangé de nouvelles frappes pour une deuxième nuit consécutive, et la situation au détroit d'Ormuz se détériore.
 
-Téhéran, de son côté, a franchi un nouveau pas. Radio-Canada rapporte que l'Iran revendique le droit d'imposer des droits de passage dans le détroit d'Ormuz, malgré l'opposition de Washington. C'est une escalade significative : le détroit d'Ormuz est l'un des passages maritimes les plus stratégiques au monde pour le transport du pétrole.
+Selon Al Jazeera et la BBC, l'armée américaine a frappé 90 cibles en Iran depuis le début des hostilités. En réponse, l'Iran a envoyé des frappes de drones contre des sites liés aux États-Unis dans les États du Golfe. La BBC rapporte que le trafic à travers le détroit d'Ormuz a baissé de façon notable depuis le début des attaques les plus récentes.
 
-Reuters analyse la situation sous un angle plus large : Trump souhaite sortir de ce conflit rapidement, mais selon l'agence de presse, ce ne sera pas possible dans un avenir rapproché. L'Iran a également répliqué en direction des États arabes du Golfe, selon l'Associated Press. On continue de suivre l'évolution de la situation.
+Radio-Canada rapporte que l'Iran revendique le droit d'imposer des droits de passage sur le détroit d'Ormuz, ce que Washington rejette. La ministre canadienne des Affaires étrangères, Anita Anand, a qualifié les attaques iraniennes contre des navires commerciaux d' « inacceptables », selon La Presse, ajoutant que le Canada suit la situation de près.
 
-Toujours en lien avec ce dossier, un mot sur les marchés pétroliers. Reuters Business rapporte que le prix du pétrole a progressé de plus d'un dollar par baril à la suite des nouvelles frappes. Mais quelques heures plus tard, Reuters signale que les cours se sont stabilisés, les marchés pesant l'impact réel du conflit sur l'approvisionnement. On reviendra sur l'ensemble des marchés dans le chapitre économie.
+L'Associated Press rapporte que ces nouvelles hostilités menacent un accord intérimaire qui avait été conclu pour mettre fin aux combats. Cet accord est maintenant fragilisé. Selon Reuters, Trump a déclaré que l'accord de cessez-le-feu était « terminé », ce qui a conduit à la reprise des opérations militaires.
 
-Un dernier mot sur les suites du sommet de l'OTAN, dont la clôture a eu lieu hier à Ankara. CBC World rapporte que Trump a quitté le sommet en ayant obtenu l'endossement public de la garantie de défense collective, mais que peu d'autres questions ont été réglées. Le sommet s'est terminé avec des incertitudes persistantes sur le niveau des troupes américaines en Europe, les objectifs de dépenses en défense, et la capacité des alliés européens à assumer un rôle plus grand sans Washington.
+Toujours selon Reuters, les prix du pétrole ont d'abord progressé à la suite des nouvelles frappes, avant de se stabiliser, les marchés cherchant à mesurer l'impact réel des opérations militaires sur les flux d'approvisionnement.
 
-Le National Post rapporte que Trump a ensuite lié la question des troupes américaines en Europe à deux dossiers : le Groenland et la guerre en Iran. Des déclarations qui, selon le National Post, ont amplifié les inquiétudes des membres de l'alliance sur son engagement envers la sécurité collective.
+Du côté diplomatique, Al Jazeera et Reuters rapportent que l'Iran prépare les funérailles de son guide suprême, Ali Khamenei, qui sera inhumé dans sa ville natale, la ville sainte de Mashhad, à l'est du pays. Ces funérailles se déroulent en plein contexte de guerre ouverte avec les États-Unis, ce qui ajoute une dimension politique importante à ce moment de transition pour le régime iranien.
 
-Du côté ukrainien, un développement notable. L'Associated Press rapporte que Trump a annoncé que les États-Unis accorderaient à l'Ukraine une licence pour produire des systèmes de défense antimissiles Patriot. C'est un geste qui donne à Kyiv une capacité industrielle de défense, au-delà du simple transfert d'équipement.
-  </chapitre>
+Le premier ministre canadien Mark Carney est pour sa part en Arabie saoudite, où il a rencontré le prince héritier Mohammed ben Salmane. Selon Radio-Canada, Ensaf Haidar, l'épouse de Raif Badawi, prisonnier politique saoudien, a demandé publiquement à Carney d'aborder la question des droits de la personne lors de cette rencontre.
+ </chapitre>
 
-  <chapitre titre="Politique canadienne">
-On passe à la politique canadienne, avec plusieurs dossiers ce matin.
-
-D'abord, le premier ministre Mark Carney est en Arabie saoudite, où il a rencontré le prince héritier Mohammed ben Salmane. Radio-Canada rapporte que la femme de Raif Badawi, Ensaf Haidar, a demandé publiquement à Carney d'aborder la question des droits de la personne lors de cette rencontre et, spécifiquement, de parler du cas de son mari, toujours emprisonné en Arabie saoudite.
-
-En marge de ce voyage, une anecdote diplomatique. Le National Post rapporte que le président turc Recep Tayyip Erdogan a offert à tous les dirigeants présents au sommet de l'OTAN un pistolet gravé. Le gouvernement canadien a confirmé que Carney ne gardera pas l'arme et trouvera un "placement approprié" pour elle.
-
-Sur le dossier de la surveillance corporative, CBC rapporte une controverse : le chien de garde fédéral des entreprises acceptait encore des plaintes au moment même où le premier ministre Carney en a annoncé la dissolution, apparemment de façon abrupte. Or, selon Carney, la décision de fermer ce bureau avait été prise "des mois" plus tôt. L'opposition et des groupes de défense des droits ont critiqué la façon dont la fermeture a été gérée.
-
-Un autre dossier : le projet d'oléoduc Northern Shield. Le Devoir rapporte que le corridor énergétique de 3 300 kilomètres, annoncé lundi conjointement par la première ministre de l'Alberta Danielle Smith et le premier ministre de l'Ontario Doug Ford, est accueilli avec scepticisme par au moins un spécialiste du secteur. Richard Masson, ancien président de l'Alberta Petroleum Marketing Commission, a déclaré au National Observer, et je le cite : "Ce projet n'a pratiquement aucune chance de réussir." Fin de citation. L'oléoduc transporterait jusqu'à 500 000 barils supplémentaires par jour vers les raffineries de Sarnia, avec la possibilité d'atteindre 800 000 barils. Selon Masson, le problème est simple : il n'y a pas de marché à Sarnia pour davantage de pétrole, les raffineries étant déjà approvisionnées à pleine capacité. Smith et Ford défendent le projet comme un outil de souveraineté énergétique et de création d'emplois.
-
-Finalement, une première historique dans le milieu syndical canadien. Radio-Canada rapporte que des employés d'un entrepôt Walmart en banlieue de Toronto, à Mississauga, ont ratifié un premier contrat de travail négocié par le syndicat Unifor. C'est la première convention collective signée dans un entrepôt Walmart en Amérique du Nord. Walmart, de son côté, n'a pas commenté publiquement.
-  </chapitre>
-
-  <chapitre titre="Actualité québécoise">
-Un mot sur l'actualité québécoise, avec deux dossiers ce matin.
-
-D'abord, un naufrage en Colombie-Britannique. La Presse rapporte que le bilan du naufrage d'un bateau de pêche au large de la région métropolitaine de Vancouver a alourdi : l'une des quatre personnes secourues est décédée à l'hôpital, portant le nombre présumé de victimes à sept.
-
-Ensuite, à Repentigny, La Presse rapporte que le trafic ferroviaire a repris progressivement à la suite du déraillement d'un train survenu dimanche dernier. Le CN indique que les causes de l'incident font toujours l'objet d'une enquête et que l'entreprise multiplie les inspections.
-
-Autre sujet : la basilique Notre-Dame de Montréal. La Presse rapporte que la facture de restauration de l'édifice a bondi de façon importante, passant d'une estimation initiale de 15 millions à 100 millions de dollars. Un journaliste de La Presse a pu visiter le chantier, perché sur une passerelle en bois vieille de 200 ans, à plusieurs étages au-dessus du sol.
-
-Un dernier mot sur un dossier de santé à Montréal. Le Devoir rapporte qu'il est impossible pour les patients de connaître les délais d'attente pour consulter un médecin spécialiste à Montréal. Le Centre de répartition des demandes de services, le CRDS, accepte uniquement les demandes transmises par un omnipraticien, sans fournir d'information publique sur les temps d'attente.
-  </chapitre>
-
-  <chapitre titre="International : autres dossiers">
+ <chapitre titre="International : autres dossiers">
 Quelques autres nouvelles de l'international ce matin.
 
-Aux États-Unis, un développement politique notable. Selon CBC World et la BBC, le candidat démocrate Graham Platner a suspendu sa campagne dans la course au Sénat dans l'État du Maine, après qu'une accusation d'agression sexuelle a été formulée contre lui. Platner dit que l'accusation est, selon ses mots, "categorically false." Mais la décision de mettre fin à sa campagne fragilise les espoirs démocrates de regagner le contrôle du Sénat. CBC World et la BBC analysent que la candidature Platner, bâtie sur un message populiste de gauche, exposait déjà les tensions entre l'aile progressiste et l'aile modérée du parti. Sa sortie du course rend ces divisions encore plus visibles.
+Au Royaume-Uni, les nominations pour la course à la direction du Parti travailliste sont ouvertes. Selon Al Jazeera, l'ancien maire du Grand Manchester, Andy Burnham, est le grand favori. Si aucun rival sérieux ne se présente, il pourrait devenir premier ministre britannique dès ce mois-ci.
 
-Du côté de la Chine, Al Jazeera rapporte que des inondations causées par la tempête tropicale Maysak ont fait 39 morts dans la région du Guangxi, dans le sud du pays. Environ 130 000 personnes ont été évacuées et des milliers de secouristes ont été déployés.
+Aux États-Unis, le candidat démocrate Graham Platner a suspendu sa campagne dans la course au Sénat dans l'État du Maine. Selon la BBC et CBC World, cette décision fait suite à une accusation d'agression sexuelle formulée contre lui, accusation qu'il dit être « catégoriquement fausse ». Cet épisode met en lumière des divisions profondes au sein du Parti démocrate entre son aile gauche et son centre, alors que les élections de mi-mandat approchent.
 
-En ce qui concerne Gaza, Al Jazeera rapporte que des frappes israéliennes ont tué neuf Palestiniens, dont deux enfants, selon des sources médicales sur place. Ces frappes surviennent malgré un cessez-le-feu qui était en vigueur.
+En Asie, CBC World rapporte que les autorités du sud de la Chine ont signalé 39 décès dans des inondations causées par la tempête tropicale Maysak. Taiwan se prépare à l'arrivée d'un autre typhon important attendu dans les prochains jours sur la côte est de la Chine et à Taiwan.
 
-Enfin, sur la Russie, The Economist publie ce matin un contenu rare : un entretien avec l'oligarque Andrey Melnichenko, qui prend la parole pour avertir que la Russie fait face à un désastre imminent, et qui soutient que lorsque la guerre en Ukraine se terminera, Moscou devra faire partie de la nouvelle architecture de sécurité internationale. C'est une prise de position peu commune dans le contexte actuel.
-  </chapitre>
+Au Venezuela, CBC World rapporte que des enfants déplacés par les deux séismes qui ont frappé le pays le mois dernier témoignent de la perte de membres de leur famille et des difficultés liées au déplacement forcé, dans un contexte où le retour dans leur communauté est incertain pour plusieurs.
 
-  <chapitre titre="Économie et marchés">
-On passe à l'économie et aux marchés.
+En France, le Parti travailliste britannique n'est pas le seul à traverser une période de restructuration. On suit toujours le dossier Marine Le Pen, dont la candidature à la présidentielle, annoncée malgré sa condamnation confirmée en appel, continue de polariser le paysage politique français. On y reviendra dans les prochains briefings.
 
-La géopolitique domine les nouvelles économiques ce matin. Reuters Business rapporte que le pétrole a progressé de plus d'un dollar par baril à la suite des nouvelles frappes américaines en Iran, avant de se stabiliser. Les marchés tentent d'évaluer si le conflit affectera réellement les flux pétroliers par le détroit d'Ormuz.
+Enfin, un dernier mot sur le sommet de l'OTAN, dont les travaux se sont conclus hier à Ankara. Selon CBC World, Trump a obtenu l'endossement public de la garantie de défense collective de l'Alliance, mais peu d'autres engagements concrets. Des questions demeurent sur les engagements futurs des États-Unis en matière de troupes et de financement, ainsi que sur la capacité de l'Europe à assumer une plus grande responsabilité de défense sans Washington.
+ </chapitre>
 
-Deux nouvelles importantes du Fonds monétaire international. Le Wall Street Journal rapporte que le FMI a retiré son avertissement de récession à la suite d'un cessez-le-feu conclu en juin, qui semble avoir réduit les tensions commerciales mondiales. Mais le Financial Times rapporte en parallèle que le FMI avertit que la menace inflationniste reste importante pour l'économie mondiale, avec des risques persistants liés aux perturbations des chaînes d'approvisionnement et aux tensions géopolitiques.
+ <chapitre titre="Politique canadienne">
+On passe au Canada, avec deux dossiers notables ce matin.
 
-Sur les taux d'intérêt aux États-Unis, l'Associated Press rapporte que les procès-verbaux de la dernière réunion de la Réserve fédérale américaine montrent que les membres du comité de politique monétaire sont profondément divisés sur la trajectoire future de l'inflation. Certains membres anticipent une baisse des pressions inflationnistes, d'autres voient des risques à la hausse persistants. Cette division rend l'orientation future des taux difficile à prévoir.
+D'abord, une première historique dans le monde du travail en Amérique du Nord. Radio-Canada rapporte que des employés d'un entrepôt Walmart en banlieue de Toronto, à Mississauga, ont ratifié une première convention collective négociée par le syndicat Unifor. C'est la première fois qu'un entrepôt Walmart est syndiqué en Amérique du Nord.
 
-Du côté du marché immobilier canadien, BNN Bloomberg rapporte que le loyer demandé a reculé de plus de 4 % en juin par rapport à la même période l'an dernier, selon un nouveau rapport. C'est un signal d'un marché locatif qui se détend légèrement après plusieurs années de hausses soutenues.
+Deuxièmement, la fermeture d'un bureau fédéral chargé de surveiller la conduite des entreprises soulève des questions à Ottawa. Selon CBC, ce bureau acceptait encore des plaintes au moment même où le premier ministre Mark Carney a annoncé sa dissolution, bien que Carney ait dit que la décision avait été prise « des mois » plus tôt. Le bureau était lié au dossier des droits de la personne dans les chaînes d'approvisionnement des entreprises canadiennes. Des critiques remettent en question la transparence de cette décision et son calendrier.
 
-Enfin, une nouvelle importante pour le secteur technologique canadien. Reuters rapporte que Meta a annoncé la construction d'un centre de données en Alberta, au coût de 13 milliards de dollars canadiens. Ce serait le premier centre de données de Meta au Canada. Cette annonce survient dans un contexte où le Canada cherche activement à attirer les investissements des grandes entreprises technologiques dans les infrastructures d'intelligence artificielle, notamment en offrant des sources d'énergie abordables et relativement stables.
+Par ailleurs, le National Post rapporte que le Canada et les États-Unis réduisent tous les deux leurs politiques d'accueil pour les étudiants internationaux. Des politiques d'immigration plus strictes, des restrictions de visas et un contexte politique changeant ont eu un impact sur les inscriptions dans les universités des deux côtés de la frontière.
 
-Sur la fusion entre Paramount et Warner Bros, Reuters Business rapporte que la transaction ne sera pas conclue avant le 22 juillet en raison d'une enquête menée par l'État de l'Oregon.
-  </chapitre>
+Enfin, un mot sur le pont Gordie Howe. Le National Post rapporte qu'un nombre croissant d'élus américains réclament l'ouverture de ce pont, qui relie Windsor, en Ontario, à Detroit. La pression politique monte du côté américain pour que ce lien entre les deux pays soit officiellement mis en service.
+ </chapitre>
 
-  <chapitre titre="Tech">
+ <chapitre titre="Actualité québécoise">
+Un mot sur l'actualité québécoise, avec deux dossiers ce matin.
+
+D'abord, la Fonderie Horne. La Presse rapporte que la Direction de la santé publique du Québec ne critique plus publiquement les assouplissements accordés à la Fonderie Horne par le gouvernement Fréchette, contrairement à ce qu'elle avait fait par le passé. De plus, la Santé publique refuse de rendre public son avis sur la question. Des observateurs notent que ce silence tranche avec la transparence affichée lors du précédent gouvernement, qui avait rendu public un avis similaire.
+
+Ensuite, le décès de Bonnie Tyler. Radio-Canada et l'Associated Press rapportent que la chanteuse galloise est décédée à 75 ans dans un hôpital au Portugal. Tyler était connue pour sa voix rocailleuse et pour la ballade Total Eclipse of the Heart, l'une des chansons les plus écoutées de tous les temps. Radio-Canada rapporte que cette chanson, sortie en 1983, avait franchi le milliard d'écoutes sur Spotify au début de 2026. Tyler avait été hospitalisée en mai pour une opération intestinale et placée en coma artificiel, avant que son état se stabilise, puis se détériore à nouveau.
+ </chapitre>
+
+ <chapitre titre="Économie et marchés">
+On passe à l'économie et aux marchés, avec plusieurs dossiers ce matin.
+
+Sur les marchés, Reuters Business rapporte que le S&P 500 a clôturé en baisse hier, après la déclaration de Trump stipulant que l'accord avec l'Iran était « terminé ». Bloomberg rapporte pour sa part que les contrats à terme sur actions américaines étaient orientés à la baisse en début de séance asiatique, tandis que le pétrole progressait à la suite des nouvelles frappes. Reuters confirme que les prix du pétrole ont ensuite reculé, les marchés cherchant à évaluer l'effet réel des opérations militaires sur les approvisionnements.
+
+Deux nouvelles importantes sur la Réserve fédérale américaine. D'abord, le Financial Times et l'Associated Press rapportent que le procès-verbal de la dernière réunion de la Fed révèle que ses membres sont profondément divisés sur l'évolution future de l'inflation aux États-Unis. C'était également la première réunion présidée par le nouveau président Kevin Warsh. Le Financial Times rapporte que les craintes inflationnistes ont été au centre des discussions lors de cette séance. Cette division interne complique la lecture des prochaines décisions sur les taux directeurs.
+
+Du côté du Fonds monétaire international, le Wall Street Journal rapporte que le FMI a retiré son avertissement de récession mondiale, dans le sillage du cessez-le-feu de juin. Ce retrait signale que l'organisme estime que le risque de contraction mondiale a reculé, même si la situation géopolitique demeure incertaine.
+
+Bloomberg rapporte par ailleurs que les grandes entreprises technologiques ont effectué des ventes d'obligations pour un total de 25 milliards de dollars américains sur les marchés, ce qui pousse les limites du marché obligataire. Et selon Bloomberg, la hausse des prix du carburant représente un risque inflationniste persistant pour les marchés.
+
+Sur le marché immobilier canadien, BNN Bloomberg rapporte que les loyers demandés ont baissé de plus de 4 % en juin par rapport à la même période l'an dernier, selon un nouveau rapport. C'est un recul notable dans un contexte où l'abordabilité du logement reste une préoccupation centrale au pays.
+
+Enfin, un dossier à suivre : selon The Economist, la Chine pourrait avoir du mal à financer les ambitions technologiques de Xi Jinping. Le redressement des marchés de capitaux en cours ne serait pas suffisant pour combler les besoins de financement liés à la stratégie industrielle du pays.
+ </chapitre>
+
+ <chapitre titre="Tech">
 Un mot sur la tech, avec plusieurs dossiers ce matin.
 
-D'abord, Meta et les lunettes intelligentes. The Verge rapporte que Meta travaille sur des prototypes de lunettes dites de "super-détection", capables d'enregistrer en continu de l'audio et de prendre des photos toutes les quelques secondes. Selon le Financial Times, cité par The Verge, les images et l'audio ne seraient pas nécessairement accessibles directement à l'utilisateur ni stockés par Meta, mais des métadonnées seraient extraites et analysées par l'intelligence artificielle de Meta. La question de la vie privée se pose de façon évidente : des lunettes qui enregistrent en permanence l'environnement de leur porteur, et celui des personnes autour d'eux.
+D'abord, Meta en Alberta. Reuters rapporte que Meta construira son premier centre de données au Canada, en Alberta, pour un investissement de 13 milliards de dollars canadiens. Ce projet s'inscrit dans un contexte plus large de course aux infrastructures numériques, alors que le Canada cherche à attirer les géants technologiques. Reuters Business rapporte que plusieurs grandes entreprises tech étaient présentes au Calgary Stampede cette semaine, dans le cadre d'un effort de séduction de l'industrie canadienne de l'énergie en vue de l'alimentation de ces centres de données.
 
-Sur la sécurité informatique, Ars Technica rapporte qu'une vulnérabilité dans le système Linux, baptisée CVE-2026-53359, permet à des machines virtuelles non fiables d'obtenir un accès administrateur complet à la machine hôte. La faille existait dans le noyau Linux depuis 16 ans. Google a versé 250 000 dollars américains à la personne qui l'a découverte et signalée.
+Toujours sur Meta, The Verge rapporte que l'entreprise travaille sur des prototypes de lunettes intelligentes dites de « super-détection », capables d'enregistrer de l'audio en continu et de prendre des photos toutes les quelques secondes. Selon le Financial Times, cité par The Verge, les données brutes ne seraient pas stockées par Meta ni directement accessibles à l'utilisateur. Dans un système proposé, seules les métadonnées issues de ces captures seraient conservées. Ces prototypes alimentent le débat sur la surveillance passive et le consentement des personnes filmées à leur insu.
 
-Sur l'intelligence artificielle et la tromperie académique, Ars Technica rapporte un cas à l'Université Brown. Un professeur d'économie, Roberto Serrano, qui enseigne à l'aveugle, a exigé un examen final en personne après avoir soupçonné une utilisation massive de l'IA pour tricher. Les résultats ont chuté de 50 %. Une enquête de Princeton citée par Ars Technica indique que 29,9 % des étudiants de cette université ont admis avoir triché avec l'IA sur au moins un examen ou travail.
+Sur SpaceX, The Verge rapporte que la compagnie est en avance sur son rythme record de l'an dernier pour le déploiement de satellites Starlink. Au premier semestre de 2026, SpaceX a mis en orbite 1 589 satellites Starlink, contre 1 489 au même point en 2025. L'année 2025 avait déjà été une année record avec 3 180 satellites déployés au total. Ars Technica rapporte également que Starship, la fusée la plus puissante du monde, est en train de changer les modèles d'affaires de l'industrie spatiale, avec la NASA et l'armée américaine qui envisagent de nouvelles façons d'exploiter sa capacité exceptionnelle.
 
-Un dossier plus sombre sur l'IA générative. Ars Technica rapporte qu'une action collective contre xAI et X, l'ancienne Twitter, allègue que l'outil d'intelligence artificielle Grok a été utilisé par un homme pour générer 7 000 images sexuellement explicites à partir d'une seule photo de sa belle-fille prise alors qu'elle avait 11 ans. Selon la plainte, Grok n'aurait émis aucun signal d'alerte tout au long de ce processus, sauf lors d'une requête précise, ce qui a déclenché une alerte au Centre national pour les enfants disparus et exploités aux États-Unis. L'homme a mis fin à ses jours après que les policiers ont découvert les images.
+Du côté de Microsoft et du jeu vidéo, The Verge rapporte qu'Obsidian Entertainment, le studio derrière Grounded et The Outer Worlds, va entamer le développement d'un nouveau jeu Fallout dans le cadre d'une restructuration plus large chez Xbox. Cette réorganisation inclut des mises à pied touchant 3 200 employés, et l'annulation de plusieurs projets, dont une suite à Avowed.
 
-Sur Elon Musk, TechCrunch rapporte qu'un juge a approuvé le règlement de 1,5 million de dollars américains entre Musk et la Securities and Exchange Commission américaine, la SEC, malgré des réserves exprimées par le tribunal. Ce règlement porte sur la façon dont Musk avait divulgué sa prise de participation croissante dans Twitter, aujourd'hui X.
+Enfin, un scandale d'intelligence artificielle à l'Université Brown, aux États-Unis. Ars Technica rapporte qu'un professeur d'économie, Roberto Serrano, a imposé un examen final en présentiel après avoir soupçonné de la triche par IA. Les résultats des étudiants ont chuté de 50 % par rapport aux évaluations précédentes. Le professeur fait valoir que cela démontre l'ampleur de la dépendance à l'IA dans les travaux scolaires. Une enquête publiée à Princeton avait déjà révélé que près de 30 % des étudiants interrogés admettaient avoir triché avec l'IA sur au moins un examen ou travail.
 
-Finalement, Microsoft et Xbox. The Verge rapporte que dans le cadre d'une restructuration interne qui comprend 3 200 mises à pied, Microsoft a redirigé le studio Obsidian Entertainment, connu pour des titres comme Grounded et The Outer Worlds, vers le développement d'un nouveau jeu Fallout. Plusieurs projets en cours chez Obsidian ont été annulés, dont la suite du jeu Avowed.
-  </chapitre>
+Un dernier mot sur la tech, concernant Elon Musk. TechCrunch rapporte qu'un juge a approuvé, bien qu'avec des « réserves », un règlement de 1,5 million de dollars américains entre Musk et la Securities and Exchange Commission, la SEC, concernant la façon dont Musk avait divulgué sa prise de participation croissante dans Twitter, aujourd'hui rebaptisé X. Ce dossier juridique est ainsi clos.
+ </chapitre>
 
-  <chapitre titre="Sport">
-Un dernier mot sur le sport, avec la Coupe du monde et les Blue Jays de Toronto.
+ <chapitre titre="Sport">
+Un dernier mot sur le sport, avec les Blue Jays de Toronto et la Coupe du monde.
 
-Ce soir, deux quarts de finale au programme à la Coupe du monde. Al Jazeera rapporte que la France affronte le Maroc. C'est un match entre les favoris du titre et les champions d'Afrique. Selon Sportsnet, les huit équipes encore en lice présentent des niveaux de compétition très serrés.
+D'abord, une performance remarquable hier soir à Toronto. Sportsnet rapporte que le lanceur Dylan Cease a porté un match sans point ni coup sûr jusqu'en neuvième manche contre les Giants de San Francisco, avant qu'un frappeur adverse brise le sortilège avec un simple. Malgré tout, les Blue Jays ont remporté la partie par une large marge.
 
-Du côté baseball, Sportsnet rapporte que le lanceur Dylan Cease des Blue Jays a failli réussir un match sans point ni coup sûr contre les Giants de San Francisco. Il a maintenu son blanchissage jusqu'en neuvième manche, avant qu'un simple coup sûr de Heliot Ramos n'y mette fin. Malgré tout, Toronto a remporté la partie par un score imposant.
+À la Coupe du monde, deux quarts de finale sont au programme aujourd'hui. Al Jazeera rapporte que la France affronte le Maroc ce soir. Les huit équipes encore en lice se disputent les places en demi-finale.
+ </chapitre>
 
-En hockey, le Journal de Montréal rapporte qu'un ancien entraîneur-chef rejoint le personnel de Martin St-Louis avec le Canadien de Montréal à titre d'adjoint. Et TVA Sports rapporte que Brendan Gallagher, maintenant avec les Canucks de Vancouver, était de passage à Brossard cette semaine.
-  </chapitre>
-
-  <outro>Voilà pour ce Presto du jeudi 9 juillet 2026. Si ce briefing vous est utile, le meilleur coup de main que vous pouvez nous donner, c'est de le partager à une personne qui aime rester informée. Et selon votre plateforme : un abonnement sur Spotify ou Apple Podcasts, un pouce bleu et un abonnement sur YouTube, ça prend deux secondes et ça aide vraiment Presto à grandir. Sur ce, bonne journée, et à demain.</outro>
+ <outro>Voilà pour ce Presto du jeudi 9 juillet 2026. Si ce briefing vous est utile, le meilleur coup de main que vous pouvez nous donner, c'est de le partager à une personne qui aime rester informée. Et selon votre plateforme : un abonnement sur Spotify ou Apple Podcasts, un pouce bleu et un abonnement sur YouTube, ça prend deux secondes et ça aide vraiment Presto à grandir. Sur ce, bonne journée, et à demain.</outro>
 </script>
 ```
