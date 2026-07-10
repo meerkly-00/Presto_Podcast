@@ -1,0 +1,14 @@
+{
+  "date": "2026-07-10",
+  "kind": "poll",
+  "text": "Ce matin → SK Hynix a levé 26,5 G$ à son entrée en bourse aux États-Unis, le plus gros appel public à l'épargne d'une entreprise étrangère sur ce marché.\n\nNouveau → Ses actions sont indiquées à la hausse de 20% à\n\nComment vois-tu cette cotation record de SK Hynix aux États-Unis?",
+  "poll": {
+    "options": [
+      "Signal de force du",
+      "Reflète surtout les",
+      "Opportunité pour les",
+      "Dépend des résultats"
+    ],
+    "duration_minutes": 1440
+  }
+}
