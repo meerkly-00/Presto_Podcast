@@ -1,13 +1,13 @@
 {
   "date": "2026-07-10",
   "kind": "poll",
-  "text": "Ce matin → SK Hynix a levé 26,5 G$ à son entrée en bourse aux États-Unis, le plus gros appel public à l'épargne d'une entreprise étrangère sur ce marché.\n\nNouveau → Ses actions sont indiquées à la hausse de 20% à\n\nComment vois-tu cette cotation record de SK Hynix aux États-Unis?",
+  "text": "Ce matin → Les États-Unis et l'Iran ont échangé 90 frappes depuis le début des hostilités.\n\n🔴 NOUVEAU : Trump déclare que le cessez-le-feu est « terminé », mais que les discussions vont se poursuivre.\n\nComment devraient évoluer les négociations États-Unis-Iran?",
   "poll": {
     "options": [
-      "Signal de force du",
-      "Reflète surtout les",
-      "Opportunité pour les",
-      "Dépend des résultats"
+      "Suspendre les",
+      "Continuer les",
+      "Impliquer davantage",
+      "Laisser chaque pays agir"
     ],
     "duration_minutes": 1440
   }
