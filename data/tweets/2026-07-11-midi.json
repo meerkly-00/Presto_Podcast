@@ -1,13 +1,13 @@
 {
   "date": "2026-07-11",
   "kind": "poll",
-  "text": "Ce matin → Négociations États-Unis-Iran reprennent en Oman ce samedi.\n\nNouveau : L'Iran affirme que l'attaque contre des navires cette semaine était « une erreur ».\n\nLes négociations peuvent-elles réduire les tensions dans le détroit d'Ormuz?",
+  "text": "Ce matin → Négociations États-Unis-Iran reprennent en Oman samedi.\n\nNouveau : l'Iran aurait qualifié d'« erreur » une attaque contre des navires en début de semaine. Trump et le guide suprême échangent des menaces.\n\nComment vois-tu l'évolution de ces négociations?",
   "poll": {
     "options": [
-      "Oui, c'est possible",
-      "Non, les positions sont",
-      "Incertain, à voir",
-      "Pas assez d'information"
+      "Les pourparlers peuvent",
+      "Les tensions vont",
+      "Ça dépend des prochains",
+      "Trop tôt pour dire"
     ],
     "duration_minutes": 1440
   }
