@@ -1,13 +1,13 @@
 {
   "date": "2026-07-12",
   "kind": "poll",
-  "text": "Ce matin → Les États-Unis frappent l'Iran après une attaque sur un navire civil.\n\nNouveau développement : Téhéran a répliqué en frappant des États arabes et ferme le détroit d'Ormuz.\n\nSelon toi, comment devrait évoluer la diplomatie entre les États-Unis et l'Iran?",
+  "text": "Ce matin → Les États-Unis et l'Iran échangent des frappes pour la 3e fois en une semaine.\n\nNouveau : Téhéran annonce la fermeture du détroit d'Ormuz « jusqu'à nouvel ordre ».\n\nComment réagir à cette escalade entre les États-Unis et l'Iran?",
   "poll": {
     "options": [
-      "Renforcer les",
-      "Augmenter la pression",
-      "Impliquer davantage les",
-      "Laisser les acteurs"
+      "Appuyer la position des",
+      "Appuyer la position de",
+      "Chercher une médiation",
+      "Rester neutre dans ce"
     ],
     "duration_minutes": 1440
   }
