@@ -23,6 +23,17 @@
       <link>https://www.prestopodcast.online</link>
     </image>
     <item>
+      <title>Presto — édition du 13 juillet 2026</title>
+      <description>Au menu : International : Iran et États-Unis, Économie et marchés, International : autres dossiers, Politique canadienne, Actualité québécoise, Tech, Sport</description>
+      <pubDate>Mon, 13 Jul 2026 08:01:20 +0000</pubDate>
+      <guid isPermaLink="false">https://github.com/meerkly-00/Presto_Podcast/releases/download/2026-07-13/2026-07-13.mp3</guid>
+      <enclosure url="https://github.com/meerkly-00/Presto_Podcast/releases/download/2026-07-13/2026-07-13.mp3" type="audio/mpeg" length="9351809"/>
+      <itunes:duration>856</itunes:duration>
+      <itunes:summary>Au menu : International : Iran et États-Unis, Économie et marchés, International : autres dossiers, Politique canadienne, Actualité québécoise, Tech, Sport</itunes:summary>
+      <itunes:episode>51</itunes:episode>
+      <itunes:image href="https://www.prestopodcast.online/artwork-v2.jpg"/>
+    </item>
+    <item>
       <title>Presto — édition du 12 juillet 2026</title>
       <description>Au menu : International, Politique canadienne, Économie et marchés, Tech, Sport</description>
       <pubDate>Sun, 12 Jul 2026 08:01:43 +0000</pubDate>
