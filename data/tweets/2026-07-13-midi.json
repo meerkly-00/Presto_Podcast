@@ -1,0 +1,14 @@
+{
+  "date": "2026-07-13",
+  "kind": "poll",
+  "text": "Ce matin → Les États-Unis affirment « prendre le contrôle » du détroit d'Ormuz suite à l'escalade avec l'Iran. Les cours du pétrole montent pendant que les actions technologiques reculent.\n\nComment devraient réagir les pays importateurs de pétrole à cette volatilité?",
+  "poll": {
+    "options": [
+      "Accroître les réserves",
+      "Accélérer la transition",
+      "Chercher d'autres",
+      "Soutenir les efforts"
+    ],
+    "duration_minutes": 1440
+  }
+}
