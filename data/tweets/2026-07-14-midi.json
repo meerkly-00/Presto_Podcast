@@ -1,13 +1,13 @@
 {
   "date": "2026-07-14",
   "kind": "poll",
-  "text": "Ce matin → Trump intensifie le blocus sur l'Iran et menace une installation nucléaire.\n\nNouveauté : L'Inde a convoqué le diplomate iranien après la mort d'un marin indien aux mains d'un missile dans le détroit d'Ormuz.\n\nComment le conflit Iran-États-Unis devrait-il être résolu?",
+  "text": "Ce matin → Trump intensifie le blocus maritime sur l'Iran et menace une installation nucléaire.\n\nNouveau : Trump abandonne l'idée de taxer 20 % les cargaisons transitant par le détroit d'Ormuz,\n\nSelon toi, comment les tensions entre les É.-U. et l'Iran affectent-elles le Québec?",
   "poll": {
     "options": [
-      "Par la diplomatie et",
-      "Par une intervention",
-      "Par des sanctions",
-      "Pas clair pour l'instant"
+      "Surtout par le prix de",
+      "Par les marchés",
+      "Par les deux également",
+      "Peu d'impacts directs"
     ],
     "duration_minutes": 1440
   }
