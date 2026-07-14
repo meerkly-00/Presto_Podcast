@@ -1,97 +1,105 @@
 ```xml
 <script>
- <intro>Bonjour, on est le mardi 14 juillet 2026. Voici votre Presto en environ 17 minutes. Au menu ce matin : le conflit États-Unis et Iran qui s'intensifie encore, les marchés sous pression, la politique canadienne avec Carney qui remanie son équipe, l'actualité québécoise, la tech, et le sport avec la Coupe du monde en demi-finales.</intro>
+ <intro>Bonjour, on est le mardi 14 juillet 2026. Voici votre Presto en environ 17 minutes. Au menu ce matin : le conflit États-Unis et Iran, qui s'élargit au Yémen et à l'Arabie saoudite, les marchés mondiaux sous pression, une purge politique en Chine, la situation en Ukraine, des nouvelles du côté de la politique canadienne et québécoise, et un tour d'horizon en tech. On commence.</intro>
 
- <chapitre titre="International : États-Unis et Iran">
-La tension entre les États-Unis et l'Iran a encore monté d'un cran depuis hier. Selon CBC World, Reuters et l'Associated Press, l'armée américaine a mené une troisième nuit consécutive de frappes contre l'Iran dans la nuit de dimanche à lundi. En parallèle, le président Donald Trump a réimposé un blocus maritime sur les expéditions iraniennes, et annoncé qu'il facturerait des frais de 20 pour cent à quiconque utilise le détroit d'Ormuz pour commercer. Deux pétroliers ont également été pris à partie dans le détroit.
+ <chapitre titre="International : États-Unis, Iran et le Golfe">
+Le dossier Iran et États-Unis continue de dominer l'actualité mondiale, et il s'est encore compliqué depuis hier.
 
-Du côté iranien, Al Jazeera rapporte que Téhéran a mené ses propres attaques dans le secteur. Trump a par ailleurs menacé de frapper ce qu'il appelle la "Pickaxe Mountain", une installation nucléaire souterraine et fortifiée en Iran.
+Commençons par un développement nouveau : le président Donald Trump a annoncé qu'il réimposait un blocus naval sur l'Iran. Selon Bloomberg, cette annonce a fait passer le cours du pétrole au-dessus de 86 dollars américains le baril, un sommet de quatre semaines. Reuters confirme que les cours du pétrole ont atteint ce niveau en réaction directe à l'escalade dans la région.
 
-Pendant ce temps, les Houthis du Yémen ont frappé l'aéroport d'Abha, en Arabie saoudite, avec des missiles et des drones, selon l'Associated Press. C'est une escalade distincte mais liée au contexte régional plus large.
+Pendant ce temps, le conflit déborde maintenant vers la péninsule arabique. Selon BBC World et l'Associated Press, les Houthis du Yémen, soutenus par l'Iran, ont lancé des missiles et des drones contre l'aéroport Abha, en Arabie saoudite. Les Houthis disaient répondre à des frappes sur l'aéroport de Sanaa, la capitale yéménite. C'est une escalade notable qui étend la portée géographique du conflit au-delà de l'Iran.
 
-Sur le front diplomatique, Al Jazeera rapporte que le Pakistan continue d'appeler au dialogue entre Washington et Téhéran, mais que les analystes estiment que l'influence d'Islamabad dans ce dossier est limitée.
+Toujours dans ce dossier, Al Jazeera rapporte ce matin que Trump a aussi menacé de s'attaquer à ce que certains appellent la "Montagne Pioche" : un site nucléaire fortifié au sud de Téhéran. Al Jazeera décrit ce site comme entouré de mystère, situé dans la roche, et considéré par Washington comme l'un des points les plus sensibles du programme nucléaire iranien.
 
-Par ailleurs, dans un dossier séparé lié à la Russie : selon Ars Technica, des frappes de drones ukrainiens ont forcé la Russie à interrompre complètement sa navigation dans la mer d'Azov entre le 6 et le 13 juillet. Plus d'une centaine de navires russes auraient été ciblés chaque nuit, selon Reuters. Le corridor maritime entre le Don et la mer d'Azov, ainsi que le passage par le détroit de Kertch vers la mer Noire, sont bloqués. Cela isole davantage la péninsule de Crimée, déjà soumise à des pénuries de carburant.
+Du côté économique et géopolitique, Reuters Business note que la menace d'un blocus américain sur le détroit d'Hormuz a fait monter les actions et les obligations à contre-courant, dans un mouvement de risque généralisé sur les marchés mondiaux. Sur ce dossier, Presto continue de suivre la situation.
 
-Toujours en Russie : selon le National Post, un critique du Kremlin, anti-guerre et candidat déclaré aux élections législatives de l'automne, a été arrêté lundi sous l'étiquette d'"agent étranger".
+Passons maintenant à l'Ukraine, où se joue un autre front.
 
-Un autre dossier mérite votre attention : selon BBC World, la police antiterroriste britannique a pris en charge l'enquête sur l'assassinat de la politicienne conservatrice Ann Widdecombe, après l'émergence de nouveaux éléments dans l'affaire.
+Selon Ars Technica, des frappes de drones ukrainiens ont contraint la Russie à interrompre complètement la navigation dans la mer d'Azov entre le 6 et le 13 juillet. Les forces ukrainiennes auraient visé plus de 100 navires russes, dont des pétroliers, chaque nuit pendant cette période, en fournissant des images vidéo des frappes. L'arrêt de ces routes maritimes coupe l'approvisionnement en carburant vers la Crimée occupée, qui connaissait déjà des pénuries, selon Reuters cité dans le même rapport d'Ars Technica.
 
-Et une nouvelle sur le plan humain : l'acteur néo-zélandais Sam Neill, connu notamment pour son rôle dans Jurassic Park, est décédé à 78 ans, selon l'Associated Press.
+The Economist publie aussi ce matin une analyse sur l'Ukraine et sa stratégie de drones, évaluant la performance du ministre de la Défense. On ne rentrera pas dans les détails de cette analyse d'opinion, mais elle souligne que la guerre de drones est en train de redéfinir les rapports de force maritimes dans la région.
+
+Un dernier point sur la scène internationale : un incendie dans un bar de Bangkok. Selon BBC World, l'enquête sur l'incendie qui a ravagé un bar dans le district de Chatuchak a mis en lumière des portes verrouillées et des décorations inflammables. Le bilan est passé à 30 morts. Les premiers constats des enquêteurs et des survivants font état d'un manque de signalisation aux sorties de secours. On avait couvert l'incendie initial dans un briefing précédent : le bilan a donc continué de s'alourdir.
+ </chapitre>
+
+ <chapitre titre="International : Chine et autres dossiers">
+En Chine, une nouvelle purge au sommet du pouvoir. Selon Reuters, Pékin a annoncé l'expulsion d'un troisième membre du Politburo dans le cadre de la campagne anticorruption du président Xi Jinping. C'est un événement notable : le Politburo regroupe les 24 personnalités les plus puissantes du Parti communiste chinois, et en perdre trois dans une même séquence est rare. Reuters ne précise pas l'identité du membre visé dans l'extrait disponible, mais signale que la campagne s'intensifie.
+
+Deux autres nouvelles méritent votre attention ce matin.
+
+D'abord, un décès dans le monde du cinéma. Selon l'Associated Press, l'acteur néo-zélandais Sam Neill est mort à l'âge de 78 ans. Neill était connu notamment pour ses rôles dans Jurassic Park et dans The Piano.
+
+Ensuite, en France, un incendie en forêt. Selon CBC World, un feu couvrant environ huit kilomètres carrés brûle dans la forêt de Fontainebleau, au sud de Paris. Le ministre de l'Intérieur Laurent Nunez a déclaré que l'incendie pourrait avoir été allumé intentionnellement. Une autoroute à proximité a été fermée dans les deux sens, et deux avions bombardiers d'eau ont été déployés depuis le sud du pays.
  </chapitre>
 
  <chapitre titre="Économie et marchés">
-Les tensions dans le Golfe ont des répercussions directes sur les marchés mondiaux. Selon Reuters Business, Wall Street a clôturé en baisse lundi. Le Financial Times rapporte que les actions et les obligations ont reculé simultanément, les investisseurs réagissant aux nouvelles frappes et à la réimposition du blocus sur l'Iran. Le Wall Street Journal note en particulier une chute des titres liés à l'intelligence artificielle, alors que les prix du pétrole montaient.
+Les marchés mondiaux ont terminé la journée de lundi sous pression, dans le sillage de l'escalade dans le Golfe.
 
-Sur le pétrole : selon Bloomberg et Reuters, le baril a dépassé les 85 dollars américains lundi, atteignant son plus haut niveau en un mois. Bloomberg signale ce matin que ces gains se maintiennent, le conflit alimentant des inquiétudes sur l'inflation.
+Selon le Wall Street Journal, les actions américaines ont reculé lundi, dans un mouvement combiné : la hausse des cours du pétrole d'un côté, et une vente sur les titres d'intelligence artificielle de l'autre. Le Nasdaq a terminé en baisse. Le Financial Times rapporte que les actions et les obligations ont reculé simultanément, ce qui traduit une réaction d'évitement du risque de la part des investisseurs.
 
-Sur l'or : selon Reuters, le métal a d'abord touché un creux de deux semaines avant de partiellement se reprendre. Bloomberg rapporte que des remarques d'un officiel de la Réserve fédérale ont pesé sur le cours.
+Bloomberg précise que l'or, qui avait d'abord progressé, s'est ensuite replié depuis un sommet à deux semaines. Deux facteurs jouaient contre le métal : les tensions au Moyen-Orient ont momentanément favorisé les actifs refuges, mais des commentaires d'un haut responsable de la Réserve fédérale américaine ont pesé dans l'autre sens.
 
-Sur la Fed justement : selon Reuters Business et le Financial Times, le gouverneur Christopher Waller a déclaré lundi qu'une hausse des taux directeurs pourrait être nécessaire si l'inflation de base reste élevée. Waller n'est pas président de la Fed, mais ses commentaires ont été relevés par les marchés. Les données d'inflation américaine sont attendues sous peu, selon Reuters.
+Ce responsable, c'est Christopher Waller, membre du conseil des gouverneurs de la Fed. Selon le Financial Times, Waller a averti qu'une inflation plus forte que prévu pourrait forcer la banque centrale à hausser son taux directeur. Les marchés attendent aujourd'hui la publication des données sur l'inflation américaine pour le mois de juin, et selon Reuters, cette publication est guettée de près pour savoir si la Fed pourra baisser ses taux cette année ou si elle devra au contraire les maintenir, voire les relever.
 
-Du côté de la Banque du Canada : selon BNN Bloomberg, un mois de données économiques turbulentes a laissé la Banque sans orientation claire. L'article de BNN décrit une institution qui se retrouve, selon leur formulation, "de retour à la case départ" quant à ses intentions sur les taux.
+Sur les devises, Bloomberg note que le won sud-coréen a atteint son plus haut niveau en deux mois, en réaction à des anticipations d'entrées de capitaux étrangers. Reuters Business publie aussi ce matin une analyse sur le marché boursier sud-coréen, décrit comme l'un des marchés en difficultés prolongées à l'échelle mondiale. On ne rentre pas dans les détails de cette analyse.
 
-Deux nouvelles importantes du côté des entreprises canadiennes. D'abord, Air Canada a conclu une nouvelle entente de principe avec le syndicat IAMAW, selon BNN Bloomberg. Les détails de l'entente ne sont pas précisés. Ensuite, Unifor commencera ses assemblées de ratification vendredi pour l'entente provisoire conclue avec Ford Motor Co., selon BNN Bloomberg.
+Deux nouvelles canadiennes du côté des marchés.
 
-Du côté québécois : le gouvernement du Québec investit 200 millions de dollars dans le parc industriel et portuaire de Bécancour, selon le Journal de Montréal. Aucun détail supplémentaire sur l'affectation de ces fonds n'est précisé dans la source.
+D'abord, Air Canada. Selon BNN Bloomberg, la compagnie aérienne a conclu une nouvelle entente de principe avec le syndicat IAMAW, qui représente une partie de ses employés de maintenance. L'entente doit être soumise à un vote de ratification.
 
-Enfin, Radio-Canada rapporte qu'une entente a été signée pour Pathways Alliance, décrit comme le plus grand projet de capture et stockage de carbone au Canada. Le contexte de cet accord et les parties signataires ne sont pas détaillés dans la source, mais Radio-Canada qualifie l'entente de protocole d'accord.
+Ensuite, une entente dans le secteur automobile. Selon BNN Bloomberg, Unifor amorce vendredi ses réunions de ratification pour l'entente de principe conclue avec Ford Motor Co. Les membres du syndicat auront à se prononcer dans les prochains jours.
 
-Et une note sur Sherritt International : selon Les Affaires, la compagnie minière affirme avoir besoin de nouveaux capitaux pour redémarrer ses activités.
+Du côté québécois, le Journal de Montréal rapporte que le gouvernement du Québec investit 200 millions de dollars dans le parc industriel et portuaire de Bécancour. Ce parc, situé en Mauricie, accueille déjà plusieurs projets liés à la chaîne de valeur des batteries pour véhicules électriques.
  </chapitre>
 
  <chapitre titre="Politique canadienne">
-À Ottawa, La Presse rapporte que le premier ministre Mark Carney procède à un remaniement de son équipe de conseillers principaux. Selon La Presse, un proche collaborateur de Carney envisage de se présenter lors d'une élection partielle, ce qui entraînerait son départ du bureau du premier ministre. Certains stratèges libéraux interprètent ces décisions comme une volonté de Carney d'imposer sa marque au gouvernement.
+Quelques développements au Canada ce matin.
 
-Toujours au fédéral : l'Assemblée des Premières Nations tient son assemblée générale annuelle. Selon La Presse, la cheffe nationale Cindy Woodhouse Nepinak a présenté les priorités, en insistant sur les grands projets et une rencontre à venir avec Carney et les premiers ministres provinciaux.
+D'abord, en Ontario. Selon Global News, le ministre du Tourisme, de la Culture et des Jeux, Stan Cho, a facturé 16 203 dollars aux contribuables pour des séjours à l'hôtel à Toronto entre 2023 et 2026. Or, selon Global News, le ministre réside à Toronto. L'Assemblée législative de l'Ontario aurait remboursé ces frais sous la rubrique "hébergement à Toronto". Global News rapporte les faits, et la couverture soulève des questions sur les règles de dépenses des élus provinciaux.
 
-En Saskatchewan, Global News rapporte que la saison des orages sévères est sur le point de battre des records, avec un nombre de tornades en hausse. Des intempéries ont de nouveau frappé la province au cours de la fin de semaine.
+Toujours en Ontario, Global News rapporte que le gouvernement Ford se prépare à modifier sa loi sur la revente de billets, quelques mois à peine après l'avoir adoptée. Selon plusieurs sources industrielles citées par Global News, le bureau du premier ministre a demandé au ministre concerné de préparer des options réglementaires pour corriger la loi. Les modifications envisagées n'ont pas encore été précisées.
 
-En Colombie-Britannique, selon La Presse, les équipes de lutte contre les feux de forêt près de Boston Bar profitent d'une accalmie météorologique pour s'attaquer directement aux incendies, mais s'attendent à une reprise de l'activité dans les prochains jours.
+Du côté fédéral, La Presse rapportait hier que le premier ministre Mark Carney recevait lors du sommet de l'OTAN un revolver personnalisé avec munitions, en cadeau protocolaire. La Presse indique maintenant ce matin que cet objet devra faire l'objet d'un examen avant d'aller dans un musée national canadien, en raison des règles encadrant les armes à feu au pays. Le cadeau est destiné à rejoindre la collection d'un musée consacré à la guerre ou à l'histoire du Canada.
 
-Un dossier au Manitoba : CBC rapporte que l'ancien député fédéral Inky Mark a été accusé de trafic d'armes après que des centaines d'armes à feu entreposées de façon non conforme ont été saisies à son domicile.
+En Alberta, Global News rapporte qu'un juge a ordonné le gel temporaire de jusqu'à 8,5 millions de dollars en actifs appartenant à l'avocat Jeffrey Rath et à sa société professionnelle, dans le cadre d'un litige avec la Première Nation Tallcree. Rath est décrit par Global News comme un avocat associé au mouvement séparatiste albertain.
 
-À Toronto, la police a identifié les deux victimes de la fusillade survenue samedi lors d'un festival de musique latine. Radio-Canada et La Presse rapportent qu'il s'agit de Shaquan Quashie, 25 ans, et de Cesar Vernaza, 20 ans. Le chef de la police de Toronto, Myron Demkiw, a qualifié la fusillade d'"acte ciblé".
-
-Enfin, un incendie dans un immeuble d'appartements dans le nord-est d'Edmonton a fait une victime, selon Global News. Onze équipes de pompiers sont intervenues.
+Enfin, Radio-Canada rapporte que l'Assemblée des Premières Nations tient actuellement son assemblée annuelle, et que la question de l'indépendance de l'Alberta figure parmi les dossiers à l'ordre du jour, aux côtés de la protection de l'enfance et du logement.
  </chapitre>
 
  <chapitre titre="Actualité québécoise">
-Deux dossiers ce matin au Québec. D'abord, le dossier Pessamit et Hydro-Québec. Radio-Canada rapporte que le ministre Ian Lafrenière a pris la parole après le rejet par référendum de l'entente proposée par Hydro-Québec à la communauté de Pessamit. Lafrenière a estimé, selon Radio-Canada, qu'il "fallait oser" soumettre cette entente au vote, ajoutant que le contexte électoral, autant à Pessamit qu'à Québec, a contribué à la rapidité du processus référendaire. Presto vous avait rapporté lundi que 63 pour cent des votes exprimés avaient rejeté l'entente.
+Deux dossiers ce matin au Québec.
 
-Deuxième dossier : l'intelligence artificielle dans le système de santé québécois. Le Devoir publie ce matin une double couverture sur le sujet. D'un côté, les modèles d'IA qui répondent aux questions des cliniciens suscitent un intérêt croissant dans les hôpitaux et cabinets médicaux de la province. De l'autre, Le Devoir rapporte que des solutions locales émergent pour remplacer les outils développés par des entreprises américaines, de l'hôpital à la pharmacie. Le journal souligne la tension entre l'adoption rapide de ces technologies et la question de la souveraineté des données de santé des Québécois.
+D'abord, une démission en politique provinciale. Selon le Journal de Montréal, François Bonnardel quitte la politique. Bonnardel était député de la Coalition Avenir Québec depuis plusieurs années et avait notamment occupé le poste de ministre des Transports.
 
-Et une brève politique : selon le Journal de Montréal, François Bonnardel quitte la politique. Le député caquiste ne se représentera pas.
+Ensuite, une découverte scientifique sur le territoire québécois. CBC rapporte qu'un astronome amateur, Joël Lapointe, a découvert un cratère météoritique vieux de 390 millions d'années dans la région de la Côte-Nord du Québec. Lapointe l'a repéré en 2024 en naviguant sur Google Maps, en notant ce qui lui semblait être un creux suspect. Selon CBC, ce cratère n'avait jamais été identifié auparavant.
+
+Un mot sur le dossier StubHub. Radio-Canada et CBC World rapportent tous les deux qu'une demande de recours collectif a été déposée contre StubHub et son PDG, Eric Baker, pour ce que la demande décrit comme des pratiques trompeuses liées à des revendeurs de billets à grande échelle. Selon CBC World, la demande réclame 5 millions de dollars américains et fait suite à une enquête de CBC News publiée la semaine dernière sur les liens de l'entreprise avec des revendeurs organisés.
  </chapitre>
 
  <chapitre titre="Tech">
-Plusieurs nouvelles en tech ce matin. Commençons par SpaceX. Selon Ars Technica, le 13e vol d'essai de Starship est prévu dès jeudi. La fenêtre de lancement s'ouvre à 22h45 UTC. Ce vol inclut une nouveauté majeure : 20 satellites Starlink de version 3, fonctionnels mais non destinés au réseau opérationnel, seront chargés dans la soute du vaisseau. L'objectif est de valider le mécanisme de déploiement et d'établir des liaisons laser entre les nouveaux satellites et ceux déjà en orbite. Reuters Business rapporte que SpaceX a reçu le feu vert des autorités après avoir résolu les questions soulevées par l'enquête sur le vol précédent.
+Plusieurs nouvelles en tech ce matin.
 
-Sur la cybersécurité : Ars Technica rapporte que le gouvernement américain, en collaboration avec des partenaires dont l'Australie, le Danemark, la Nouvelle-Zélande et le Royaume-Uni, a lancé un avertissement formel sur les activités de hackers liés au Service fédéral de sécurité russe, le FSB. Ces groupes, connus sous plusieurs noms dont Berserk Bear et Dragonfly, compromettent des routeurs domestiques et de petits bureaux à grande échelle pour masquer leurs opérations contre des cibles dans les secteurs public et privé.
+Commençons par New York. Selon The Verge, la gouverneure Kathy Hochul a signé un moratoire d'un an sur les nouveaux centres de données hyperschelle dans l'État de New York. Concrètement, aucun nouveau permis environnemental ne sera délivré pour des centres de données dépassant 50 mégawatts de puissance pendant cette période. L'objectif, selon le bureau de la gouverneure, est de donner le temps à l'État de mettre en place des règles encadrant l'impact sur les prix de l'énergie et sur l'environnement. The Verge note qu'une loi adoptée par l'Assemblée législative de l'État prévoyait un seuil plus bas, à 20 mégawatts, et attend toujours la signature de la gouverneure. C'est le premier moratoire de ce genre à l'échelle d'un État américain.
 
-Du côté de X, l'ancienne Twitter : TechCrunch rapporte que la plateforme a modifié son algorithme pour amplifier les publications des abonnés mutuels des utilisateurs, dans l'objectif de donner à l'application un caractère plus communautaire et moins conflictuel.
+Côté cybersécurité, Ars Technica rapporte que l'agence américaine de cybersécurité CISA a diffusé lundi une alerte conjointe avec plusieurs gouvernements alliés, dont l'Australie, le Danemark, la Nouvelle-Zélande et le Royaume-Uni. L'alerte vise des acteurs russes liés au service de renseignement FSB qui exploitent des routeurs domestiques et de petites entreprises pour mener des attaques contre des infrastructures critiques. Ces groupes sont suivis sous plusieurs noms, dont Berserk Bear et Dragonfly.
 
-OnePlus et sa société mère Oppo prépareraient leur retrait des marchés américain et européen, selon The Verge, qui cite une traduction d'un rapport du site allemand WinFuture. L'annonce officielle serait attendue dans les prochains jours.
+Du côté de SpaceX, Ars Technica et Reuters Business confirment que le 13e vol d'essai de Starship est prévu dès jeudi cette semaine. La fenêtre de lancement s'ouvre à 17h45, heure du Centre. Selon Ars Technica, la principale nouveauté de ce vol est l'embarquement de 20 vrais satellites Starlink V3 dans la soute du vaisseau. SpaceX tentera de les éjecter un à un et d'établir des liens de communication laser avec d'autres satellites en orbite basse. Les satellites ne feront pas partie du réseau commercial, mais le vol validera l'interopérabilité avec la génération précédente. SpaceX avait aussi reçu l'autorisation réglementaire pour ce vol après une enquête sur l'incident du vol précédent, selon Reuters Business.
 
-Microsoft teste de son côté une version allégée du menu de recherche de Windows 11, sans publicités ni contenu recommandé. Selon The Verge, cette version épurée est testée auprès des membres du canal expérimental du programme Windows Insider.
+Sur OnePlus, The Verge rapporte, en citant une traduction d'un article du site WinFuture, que OnePlus et sa maison mère Oppo prévoient d'annoncer dans les prochains jours leur retrait des marchés américain et européen. Si cela se confirme, ce serait la conclusion d'une série de rumeurs qui circulent depuis janvier. Notons que OnePlus avait démenti en début d'année que ses activités en Amérique du Nord étaient menacées.
 
-Un financement important à signaler : selon TechCrunch, la startup de génération vidéo par IA PixVerse a levé 439 millions de dollars américains, faisant passer sa valorisation à plus de 2 milliards. L'entreprise prévoit d'étendre son offre de modèles de monde et de rejoindre de nouveaux marchés.
-
-Enfin, sur la santé : Ars Technica rapporte qu'un deuxième citoyen américain travaillant en République démocratique du Congo a été testé positif à Ebola et a été transféré en Allemagne pour y être soigné, et non aux États-Unis. L'administration Trump maintient des restrictions de voyage strictes et bloque le rapatriement de citoyens exposés au virus, selon Ars Technica, et ce malgré l'existence de plusieurs établissements américains équipés pour traiter ces cas. L'épidémie en cours dans la RDC est la troisième plus importante jamais enregistrée : selon Ars Technica, 1 926 cas et 702 décès avaient été rapportés en date du 12 juillet.
+Enfin, une ronde de financement notable. Selon TechCrunch, la startup de génération vidéo par intelligence artificielle PixVerse a levé 439 millions de dollars américains, ce qui porte sa valeur estimée à plus de 2 milliards de dollars. L'entreprise prévoit d'utiliser ces fonds pour élargir son offre de modèles et atteindre de nouveaux marchés géographiques.
  </chapitre>
 
  <chapitre titre="Sport">
-Un mot sur le sport. À la Coupe du monde, les deux demi-finales s'annoncent relevées. Selon l'Associated Press, ni la France ni l'Espagne n'ont été menées au score en un seul match du tournoi jusqu'ici. Les deux nations se retrouveront face à face pour une place en finale.
+Un mot sur le sport avant de terminer.
 
-L'autre demi-finale opposera l'Angleterre à l'Argentine, selon TVA Sports.
+À la Coupe du monde, les deux demi-finales se jouent aujourd'hui et demain. Selon l'Associated Press, ni la France ni l'Espagne n'avaient été menées au score en un seul match du tournoi jusqu'à ce stade. Les deux nations se retrouvent en demi-finale, ce qui signifie que l'une d'elles sera éliminée. De l'autre côté du tableau, Al Jazeera et TVA Sports rapportent que l'Argentine affronte l'Angleterre, une rivalité chargée d'histoire. Al Jazeera note que des vétérans de guerre argentins ont publiquement demandé à ce que le match se joue sur le terrain, en mettant de côté le contexte historique.
 
-À signaler : un joueur de la Colombie qui a raté un tir crucial lors de l'élimination de son équipe face au Canada à Vancouver reçoit des menaces. Selon CBC, l'endroit où se trouve le joueur serait inconnu une semaine après la rencontre.
+Du côté du baseball, c'est le match des Étoiles de la Ligue majeure ce soir. Selon Sportsnet, le lanceur des Blue Jays de Toronto Dylan Cease a été nommé partant pour l'équipe de la Ligue américaine. Sportsnet rapporte que Cease a convaincu les Blue Jays avec sa saison, et que sa sélection correspond à ce que le club espérait en le recrutant l'hiver dernier.
 
-En baseball : selon Sportsnet, le lanceur partant des Blue Jays de Toronto, Dylan Cease, a été sélectionné comme partant pour le match des étoiles de la Ligue majeure de baseball. Sportsnet note que c'est exactement ce que l'équipe espérait de son recrutement hivernal.
-
-Au Home Run Derby : selon Sportsnet, Jordan Walker, des Cardinals de Saint-Louis, a remporté le concours en frappant son 12e circuit en n'ayant plus qu'un essai en banque, après avoir été en déficit de quatre circuits. C'est le premier joueur des Cardinals à remporter cet événement dans l'histoire de la Ligue majeure, selon Sportsnet.
+Enfin, dans le cadre du Home Run Derby qui s'est tenu hier, Sportsnet rapporte que Jordan Walker, des Cardinals de Saint-Louis, a remporté le concours en comblant un retard de quatre circuits avec un seul coup restant. Selon Sportsnet, c'est le premier Cardinal de l'histoire du baseball majeur à remporter le Home Run Derby.
  </chapitre>
 
- <outro>Voilà pour ce Presto du mardi 14 juillet 2026. Si ce briefing vous est utile, le meilleur coup de main que vous pouvez nous donner, c'est de le partager à une personne qui aime rester informée. Et selon votre plateforme : un abonnement sur Spotify ou Apple Podcasts, un pouce bleu et un abonnement sur YouTube, ça prend deux secondes et ça aide vraiment Presto à grandir. Sur ce, bonne journée, et à demain.</outro>
+ <outro>Voilà pour ce Presto du 14 juillet 2026. Si ce briefing vous est utile, le meilleur coup de main que vous pouvez nous donner, c'est de le partager à une personne qui aime rester informée. Et selon votre plateforme : un abonnement sur Spotify ou Apple Podcasts, un pouce bleu et un abonnement sur YouTube, ça prend deux secondes et ça aide vraiment Presto à grandir. Sur ce, bonne journée, et à demain.</outro>
 </script>
 ```
