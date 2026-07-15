@@ -23,6 +23,17 @@
       <link>https://www.prestopodcast.online</link>
     </image>
     <item>
+      <title>Presto — édition du 15 juillet 2026</title>
+      <description>Au menu : International : États-Unis, Iran et le Golfe, International : Chine et autres dossiers, Économie et marchés, Politique canadienne, Actualité québécoise, Tech, Sport</description>
+      <pubDate>Wed, 15 Jul 2026 08:01:24 +0000</pubDate>
+      <guid isPermaLink="false">https://github.com/meerkly-00/Presto_Podcast/releases/download/2026-07-15/2026-07-15.mp3</guid>
+      <enclosure url="https://github.com/meerkly-00/Presto_Podcast/releases/download/2026-07-15/2026-07-15.mp3" type="audio/mpeg" length="9739787"/>
+      <itunes:duration>902</itunes:duration>
+      <itunes:summary>Au menu : International : États-Unis, Iran et le Golfe, International : Chine et autres dossiers, Économie et marchés, Politique canadienne, Actualité québécoise, Tech, Sport</itunes:summary>
+      <itunes:episode>53</itunes:episode>
+      <itunes:image href="https://www.prestopodcast.online/artwork-v2.jpg"/>
+    </item>
+    <item>
       <title>Presto — édition du 14 juillet 2026</title>
       <description>Au menu : International : États-Unis et Iran, Économie et marchés, Politique canadienne, Actualité québécoise, Tech, Sport</description>
       <pubDate>Tue, 14 Jul 2026 08:01:16 +0000</pubDate>
@@ -86,17 +97,6 @@
       <itunes:duration>975</itunes:duration>
       <itunes:summary>Au menu : International : Iran et États-Unis, Politique canadienne, Actualité québécoise, International : autres dossiers, Économie et marchés, Tech, Sport</itunes:summary>
       <itunes:episode>47</itunes:episode>
-      <itunes:image href="https://www.prestopodcast.online/artwork-v2.jpg"/>
-    </item>
-    <item>
-      <title>Presto — édition du 8 juillet 2026</title>
-      <description>Au menu : International : frappes américaines en Iran, International : sommet de l'OTAN à Ankara, International : Le Pen et la France, Politique canadienne, Actualité québécoise, Économie et marchés, Tech, Sport</description>
-      <pubDate>Wed, 08 Jul 2026 08:01:21 +0000</pubDate>
-      <guid isPermaLink="false">https://github.com/meerkly-00/Presto_Podcast/releases/download/2026-07-08/2026-07-08.mp3</guid>
-      <enclosure url="https://github.com/meerkly-00/Presto_Podcast/releases/download/2026-07-08/2026-07-08.mp3" type="audio/mpeg" length="10029757"/>
-      <itunes:duration>909</itunes:duration>
-      <itunes:summary>Au menu : International : frappes américaines en Iran, International : sommet de l'OTAN à Ankara, International : Le Pen et la France, Politique canadienne, Actualité québécoise, Économie et marchés, Tech, Sport</itunes:summary>
-      <itunes:episode>46</itunes:episode>
       <itunes:image href="https://www.prestopodcast.online/artwork-v2.jpg"/>
     </item>
   </channel>

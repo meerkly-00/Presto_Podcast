@@ -1,0 +1,91 @@
+```xml
+<script>
+  <intro>Bonjour, on est le mercredi 15 juillet 2026. Voici votre Presto en environ 17 minutes. Au menu ce matin : le conflit États-Unis et Iran qui s'intensifie encore, les marchés sous pression entre bonnes nouvelles d'inflation et mauvaises nouvelles de Chine, du côté tech un problème de sécurité majeur chez Microsoft et une poursuite contre Meta, et pour terminer, la Coupe du monde avec l'Espagne en finale.</intro>
+
+  <chapitre titre="International : États-Unis, Iran et le Golfe">
+    Le dossier Iran continue de dominer l'actualité mondiale ce matin, et la situation a pris un nouveau tournant depuis hier.
+
+    Commençons par le geste le plus concret : selon CBC World, le président Donald Trump a réimposé mardi un blocus naval complet sur tous les ports iraniens. En parallèle, il a menacé de frapper des ponts et des centrales électriques en Iran dès la semaine prochaine, à moins que Téhéran ne reprenne les négociations. BBC World rapporte que ces commentaires ont été diffusés alors que les deux pays s'échangeaient des tirs pour le quatrième jour consécutif.
+
+    En réaction, l'Associated Press rapporte que Téhéran a menacé de bloquer l'ensemble des exportations d'énergie du Moyen-Orient. C'est une menace de grande portée : le détroit d'Ormuz, par lequel transite une part importante du pétrole mondial, se retrouve au coeur du bras de fer. BBC World note que le détroit est devenu le principal point de friction entre les deux pays, alors que les discussions de cessez-le-feu peinent à avancer.
+
+    Il y a aussi un recul notable de Trump à signaler. BBC World rapporte que le président américain a fait marche arrière sur sa proposition d'imposer des frais de passage dans le détroit d'Ormuz. Selon BBC World, ce recul abrupt est le dernier rebondissement d'un conflit qui dure maintenant depuis plus de quatre mois, et il suggère que Washington éprouve des difficultés à mettre fin à la guerre.
+
+    Bloomberg rapporte que l'effondrement des pourparlers de paix entre Washington et Téhéran a secoué les marchés mondiaux du carburant. The Economist précise que la hausse des cours du pétrole n'est qu'une partie du problème : le brinkmanship autour d'Ormuz aggrave une crise d'approvisionnement en carburant à l'échelle mondiale.
+
+    Du côté de l'Ukraine, l'Associated Press rapporte que les forces ukrainiennes ont abattu cinq missiles balistiques russes alors que Kyiv cherche à renforcer ses défenses aériennes. Ce dossier reste actif en parallèle du conflit dans le Golfe.
+
+    Enfin, un dossier en Inde à mentionner. Reuters rapporte que le meurtre brutal d'une fillette de 11 ans a mis en lumière ce que l'agence décrit comme une violence sexuelle persistante dans le pays.
+  </chapitre>
+
+  <chapitre titre="International : Chine et autres dossiers">
+    La Chine publie ce matin des données économiques qui retiennent l'attention. Selon le Financial Times et BBC World, la Chine a enregistré sa plus faible croissance du produit intérieur brut en plus de trois ans au deuxième trimestre. BBC World précise que la demande intérieure est restée molle et que l'impact de la guerre en Iran sur les cours du pétrole a pesé sur les résultats, malgré des exportations robustes. Le pays rate ainsi sa cible de croissance.
+
+    Ce chiffre arrive dans un contexte de tensions persistantes autour de l'IA. The Economist publie une analyse ce matin sur les risques liés à l'intelligence artificielle à code ouvert développée en Chine, soutenant que miser sur ces outils pour contrer la domination américaine en IA comporte ses propres pièges.
+
+    Par ailleurs, le Wall Street Journal publie un récit sur un économiste chinois qui avait critiqué publiquement l'économie de son pays, avant de disparaître du domaine public de façon permanente. Le journal y voit un signal sur les limites de la dissidence intellectuelle en Chine.
+
+    Autre dossier international : selon Ars Technica, l'administration Trump a ordonné l'inscription d'Américains se trouvant en République démocratique du Congo sur une liste d'interdiction d'embarquement, les empêchant de rentrer aux États-Unis. La mesure vise à contenir une épidémie d'Ebola en cours dans ce pays. Les Américains concernés devront séjourner 21 jours dans un pays tiers avant de pouvoir rentrer. Selon Ars Technica, des dizaines de citoyens américains qui devaient embarquer mardi ont déjà été bloqués par cette règle, dont potentiellement des employés des Centres de contrôle et de prévention des maladies déployés sur place.
+
+    Enfin, au Québec, CBC World rapporte que des élus californiens des deux partis ont signé une lettre à la première ministre Christine Frechette pour lui demander de remettre les vins et spiritueux américains sur les tablettes de la Société des alcools du Québec. La première ministre n'a pas modifié sa position dans le cadre de la guerre commerciale entre le Canada et les États-Unis.
+  </chapitre>
+
+  <chapitre titre="Économie et marchés">
+    Plusieurs nouvelles économiques importantes sont arrivées hier. Commençons par les marchés américains.
+
+    Selon Reuters Business, le S&amp;P 500 et le Nasdaq ont clôturé en hausse mardi. Deux facteurs ont joué : des données d'inflation plus favorables que prévu et de solides résultats trimestriels des grandes banques. Selon le Wall Street Journal, l'inflation aux États-Unis a reculé à 3,5 % en juin, soutenue par une baisse des prix de l'essence. BNN Bloomberg confirme que l'inflation a été inférieure aux attentes, avec un ralentissement des prix sous-jacents.
+
+    Ces chiffres arrivent dans un contexte de débat sur la politique monétaire. Bloomberg rapporte que la firme TS Lombard estime que la Réserve fédérale américaine est en retard sur l'économie alors que le secteur technologique connaît une période de forte activité. BNN Bloomberg signale par ailleurs qu'un analyste financier soutient que la hausse des prix de l'essence agit déjà comme une hausse de taux implicite, à l'approche de la prochaine décision de la Banque du Canada.
+
+    Du côté des résultats trimestriels, Les Affaires rapporte que Goldman Sachs a publié des résultats en hausse au deuxième trimestre, soutenus notamment par ses investissements dans le pétrole et dans SpaceX. En revanche, IBM a connu une journée difficile. Selon le Financial Times et Reuters Business, l'action d'IBM a reculé de 25 % après que la société a averti que la vague d'investissements en intelligence artificielle comprimait les budgets des clients pour les logiciels traditionnels. Reuters Business décrit un mouvement qui a entraîné d'autres titres du secteur technologique dans son sillage.
+
+    Côté fusions et acquisitions, Reuters Business rapporte qu'en exclusivité, les studios Lionsgate auraient attiré l'intérêt de deux acheteurs potentiels : le groupe Bolloré et la société européenne Banijay. Thomson Reuters, pour sa part, a annoncé la vente d'une participation de 51 % dans son activité d'impression mondiale au fonds KKR pour 500 millions de dollars américains, toujours selon Reuters Business.
+
+    Deux autres signaux macro à noter. Premièrement, selon Les Affaires et BNN Bloomberg, un rapport du Boston Consulting Group indique que les dépenses des ménages sont en hausse, mais que les revenus ne suivent pas le rythme pour un grand nombre de ménages. Deuxièmement, le Financial Times rapporte qu'une mine de cuivre soutenue par la Chine au Pakistan menace de fermer ses opérations en raison de risques sécuritaires, ce qui pourrait peser sur l'offre mondiale de ce métal industriel.
+  </chapitre>
+
+  <chapitre titre="Politique canadienne">
+    Deux dossiers canadiens ce matin.
+
+    D'abord, Postes Canada. Selon le National Post, la société d'État a versé 30,8 millions de dollars en primes à ses gestionnaires en 2025, malgré un déficit de 1,57 milliard de dollars la même année. Ces informations proviennent d'une divulgation faite au Comité permanent des opérations gouvernementales de la Chambre des communes. Le National Post ne rapporte pas de réaction immédiate du gouvernement fédéral à ce sujet.
+
+    Ensuite, à Toronto, le National Post rapporte qu'une fin de semaine meurtrière marquée par des fusillades ayant fait trois morts et plusieurs blessés a mis la sécurité publique au coeur de la campagne électorale municipale de l'automne. Selon le National Post, les candidats à la mairie, Josh Bradford et Olivia Chow, ont tous deux durci le ton sur la criminalité à la suite de ces événements.
+
+    À signaler aussi en Ontario : selon La Presse, des résidents de localités du nord-ouest de la province ont reçu l'ordre d'évacuer en raison d'incendies de forêt à proximité.
+  </chapitre>
+
+  <chapitre titre="Actualité québécoise">
+    Deux sujets au Québec ce matin.
+
+    D'abord, un dossier environnemental. Selon La Presse, un économiste spécialisé en environnement soutient que le secteur des sables bitumineux devrait connaître une augmentation de ses émissions de gaz à effet de serre, même si le projet de stockage de carbone Pathways se concrétise. La Presse rapporte que les émissions du secteur dépasseraient les réductions prévues par ce projet.
+
+    Ensuite, côté sécurité publique. Le Journal de Montréal rapporte qu'un deuxième policier du Service de police de la Ville de Gatineau a été arrêté en moins d'une semaine. Le journal ne précise pas la nature des accusations. Dans un autre dossier criminel, toujours selon le Journal de Montréal, un premier trafiquant lié au réseau de l'influenceur All Boivin a réglé son dossier judiciaire.
+  </chapitre>
+
+  <chapitre titre="Tech">
+    Plusieurs nouvelles importantes en tech ce matin, à commencer par une faille de sécurité majeure.
+
+    Selon Ars Technica, des chercheurs de la firme ESET ont découvert que le mécanisme Secure Boot de Microsoft, conçu pour protéger les appareils Windows et Linux contre les infections au niveau du micrologiciel, a été contournable pendant 13 de ses 14 années d'existence. La faille passe par des fichiers appelés shims, utilisés pour étendre Secure Boot aux appareils Linux. Microsoft avait identifié des problèmes dans certains de ces fichiers, mais n'avait jamais révoqué les images défectueuses qui étaient restées publiquement accessibles. Selon Ars Technica, même un pirate novice pourrait exploiter cette faille pour installer un micrologiciel malveillant qui persiste même après la réinstallation du système d'exploitation ou le remplacement du disque dur. La menace vise autant les utilisateurs Windows que Linux.
+
+    Toujours sur le front de la sécurité, Microsoft a publié mardi sa plus grande mise à jour mensuelle à ce jour, selon The Verge. Le correctif couvre au moins 570 failles, soit près du triple du record du mois précédent. La mise à jour inclut aussi la possibilité de reporter indéfiniment les mises à jour de Windows 11, une option réclamée par de nombreux utilisateurs.
+
+    Passons à Meta. Selon Ars Technica, une poursuite judiciaire a été déposée par 26 employés en Californie, alléguant que les décisions de mise à pied lors des licenciements massifs de 8 000 personnes ont été prises par des systèmes d'intelligence artificielle internes plutôt que par des gestionnaires humains. Selon la poursuite, Meta aurait utilisé plusieurs outils d'IA, dont un système appelé Metamate, pour évaluer, classer et sélectionner les employés à congédier, en se basant notamment sur leur niveau d'adoption des outils d'IA de l'entreprise. La poursuite allègue aussi que les personnes ciblées comprenaient de façon disproportionnée des travailleurs ayant des handicaps ou ayant pris des congés médicaux ou familiaux protégés. Meta n'avait pas encore répondu publiquement à ces allégations au moment du dépôt de la poursuite.
+
+    Du côté d'OpenAI, deux nouvelles. D'abord, TechCrunch rapporte qu'un chercheur d'OpenAI, Miles Wang, serait en discussions pour lancer une startup de découverte de médicaments par intelligence artificielle, valorisée à deux milliards de dollars américains. Ensuite, selon TechCrunch, Bloomberg décrit le premier appareil physique qu'OpenAI s'apprêterait à lancer : un haut-parleur sans écran, comportant des éléments mécaniques mobiles, et conçu pour agir comme un compagnon physique représentant ChatGPT. OpenAI a repoussé une poursuite d'Apple liée à des allégations de vol de secrets commerciaux, soutenant selon TechCrunch que cette poursuite manque de fondement.
+
+    Enfin, sur Android : selon The Verge, Google et Epic Games ont conjointement retiré leur tentative de règlement dans le cadre de la poursuite antitrust qui oblige Google à héberger des boutiques d'applications tierces dans le Google Play Store. Conséquence directe : Google a indiqué au tribunal qu'il est prêt à accueillir des boutiques concurrentes dès le mercredi 22 juillet.
+
+    Un dernier mot sur les marchés technologiques : Reuters rapporte que les actions de SK Hynix ont progressé de 13 % en séance, portées par l'optimisme entourant la demande en intelligence artificielle, et que les valeurs technologiques américaines ont repris leur progression dans ce sillage.
+  </chapitre>
+
+  <chapitre titre="Sport">
+    Un dernier mot sur le sport, avec deux dossiers.
+
+    À la Coupe du monde, l'Espagne est en finale. Selon Al Jazeera et Reuters, la sélection espagnole a battu la France 2 à 0 en demi-finale mardi. Kylian Mbappé a qualifié son équipe de "sloppy", c'est-à-dire relâchée, après la défaite, selon Reuters. L'entraîneur espagnol Luis de la Fuente a évoqué l'esprit de 2010, année du premier titre mondial de l'Espagne, selon Al Jazeera. Radio-Canada souligne que la défaite est tombée le jour de la fête nationale française. L'autre demi-finale, entre l'Angleterre et l'Argentine, se tient aujourd'hui selon Radio-Canada.
+
+    En baseball majeur, Sportsnet rapporte que le match des étoiles de la Ligue majeure de baseball s'est tenu mardi. Dylan Cease, des Blue Jays de Toronto, a retiré trois frappeurs sur prises en première manche lors de ses débuts au match des étoiles. Le deuxième but des Blue Jays, Ernie Clement, a réussi un jeu défensif remarqué dans la cinquième manche. Sportsnet note que le spectacle sur le terrain tranche avec le litige de travail en cours dans le baseball majeur, qui continue d'assombrir l'avenir de la ligue.
+  </chapitre>
+
+  <outro>Voilà pour ce Presto du mercredi 15 juillet 2026. Si ce briefing vous est utile, le meilleur coup de main que vous pouvez nous donner, c'est de le partager à une personne qui aime rester informée. Et selon votre plateforme : un abonnement sur Spotify ou Apple Podcasts, un pouce bleu et un abonnement sur YouTube, ça prend deux secondes et ça aide vraiment Presto à grandir. Sur ce, bonne journée, et à demain.</outro>
+</script>
+```
