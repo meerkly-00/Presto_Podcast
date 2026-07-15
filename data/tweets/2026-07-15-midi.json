@@ -1,13 +1,13 @@
 {
   "date": "2026-07-15",
   "kind": "poll",
-  "text": "Ce matin → L'inflation US recule à 3,5 % en juin. Aujourd'hui → La Banque du Canada maintient son taux à 2,25 %, estimant l'inflation de retour à 2 % d'ici 2027.\n\nComment vois-tu les taux d'intérêt canadiens dans les 6 prochains mois?",
+  "text": "Ce matin → Microsoft traverse des turbulences de sécurité.\n\nMaj : le géant a corrigé 570 failles de vulnérabilités ce mois-ci, son record historique, grâce à l'aide de l'IA pour les\n\nComment vois-tu l'utilisation de l'IA pour identifier les failles de sécurité informatique?",
   "poll": {
     "options": [
-      "Baisse progressive",
-      "Stabilité maintenue",
-      "Augmentation modérée",
-      "Fluctuations"
+      "Un atout majeur pour la",
+      "Utile, mais avec des",
+      "Pas assez pour garantir",
+      "Trop tôt pour l'évaluer"
     ],
     "duration_minutes": 1440
   }
