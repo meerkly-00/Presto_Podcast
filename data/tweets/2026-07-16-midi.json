@@ -1,13 +1,13 @@
 {
   "date": "2026-07-16",
   "kind": "poll",
-  "text": "Ce matin → Des dizaines d'incendies ravagent le nord de l'Ontario.\n\nNouveau : La province sollicite l'aide fédérale pour évacuer par avion les communautés.\n\nComment les provinces devraient-elles gérer les crises de feux de forêt à grande échelle?",
+  "text": "Ce matin → Ottawa verse 2 G$ sur 4 ans pour 190 véhicules blindés de General Dynamics.\n\nLe PM Carney poursuit ses investissements en défense. Les livraisons débuteront dans les prochaines années.\n\nQuel élément te semble le plus pertinent dans cet investissement en défense?",
   "poll": {
     "options": [
-      "Principalement avec des",
-      "Principalement avec",
-      "En partenariat égal",
-      "Selon les capacités"
+      "Renforcer les capacités",
+      "Soutenir l'industrie",
+      "Équilibrer avec d'autres",
+      "Réduire les dépenses"
     ],
     "duration_minutes": 1440
   }
