@@ -1,0 +1,14 @@
+{
+  "date": "2026-07-16",
+  "kind": "poll",
+  "text": "Ce matin → Des dizaines d'incendies ravagent le nord de l'Ontario.\n\nNouveau : La province sollicite l'aide fédérale pour évacuer par avion les communautés.\n\nComment les provinces devraient-elles gérer les crises de feux de forêt à grande échelle?",
+  "poll": {
+    "options": [
+      "Principalement avec des",
+      "Principalement avec",
+      "En partenariat égal",
+      "Selon les capacités"
+    ],
+    "duration_minutes": 1440
+  }
+}
