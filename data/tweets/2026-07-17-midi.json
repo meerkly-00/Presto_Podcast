@@ -1,13 +1,13 @@
 {
   "date": "2026-07-17",
   "kind": "poll",
-  "text": "Ce matin → Les États-Unis ont frappé l'Iran pour le 6e jour consécutif.\n\nNouveau : les frappes de vendredi ont ciblé des ponts, des sites énergétiques et ont effondré une tour dans un port clé iranien.\n\nComment devraient réagir les démocraties face à ces échanges militaires?",
+  "text": "Ce matin → Mark Carney peine à clarifier l'accord sur le pont Gordie-Howe.\n\nNouveau : Pierre Poilievre demande des précisions sur le partage des revenus entre le Canada et les\n\nSelon toi, quel élément devrait être prioritaire dans les négociations commerciales Canada-États-Unis?",
   "poll": {
     "options": [
-      "Augmenter le soutien à",
-      "Chercher une médiation",
-      "Maintenir une position",
-      "Renforcer les alliances"
+      "La clarté des détails",
+      "Conclure rapidement un",
+      "Consulter les provinces",
+      "Évaluer l'impact"
     ],
     "duration_minutes": 1440
   }
