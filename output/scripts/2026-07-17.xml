@@ -1,107 +1,101 @@
 ```xml
 <script>
- <intro>Bonjour, on est le vendredi 17 juillet 2026. Voici votre Presto en environ 17 minutes. Au menu ce matin : la crise militaire entre les États-Unis et l'Iran qui s'intensifie, le discours de Trump sur l'intégrité électorale, les marchés sous pression avec une chute des titres de semi-conducteurs, les négociations commerciales Canada-États-Unis et le dossier du pont Gordie-Howe, plus un tour d'horizon en tech et quelques nouvelles du côté du sport.</intro>
+  <intro>Bonjour, on est le vendredi 17 juillet 2026. Voici votre Presto en environ 17 minutes. Au menu ce matin : la crise États-Unis et Iran qui s'intensifie, le discours de Trump sur les élections et la Chine, les marchés sous pression avec la dégringolade des semi-conducteurs, des nouvelles du côté de la politique canadienne, de la tech, et un mot sur le sport avant de conclure.</intro>
 
- <chapitre titre="International : La crise États-Unis - Iran">
-Commençons par le dossier qui continue de dominer l'actualité mondiale. Les États-Unis ont lancé une nouvelle vague de frappes sur l'Iran, en élargissant leur campagne aux infrastructures civiles. Selon BBC World et l'Associated Press, les frappes américaines ont visé des ponts sur le territoire iranien. Téhéran affirme que des infrastructures civiles ont été touchées.
+  <chapitre titre="International : la crise États-Unis et Iran">
+La crise militaire entre les États-Unis et l'Iran continue d'escalader. Selon BBC World et l'Associated Press, les États-Unis ont lancé une nouvelle vague de frappes sur le territoire iranien, ciblant cette fois des ponts. Téhéran affirme que ces frappes visent des infrastructures civiles. En parallèle, selon BBC World, les forces américaines ont procédé à un abordage d'un navire dans le détroit d'Ormuz.
 
-Du côté iranien, Radio-Canada rapporte que les bombardements américains ont fait 38 morts et plus de 400 blessés selon les autorités iraniennes. Les alliés des États-Unis dans la région sont également visés par des ripostes de Téhéran, selon la même source.
+Côté pétrolier, le détroit d'Ormuz reste un point de passage stratégique pour une portion importante du pétrole mondial, et les tensions dans la région continuent de peser sur les prix de l'énergie. Selon le Financial Times, Chevron et l'Irak travaillent sur un projet de pipeline passant par la Syrie pour contourner précisément ce détroit. Un signal que les acteurs du secteur anticipent une perturbation durable de cette route maritime.
 
-C'est le sixième jour consécutif d'échanges militaires entre les deux pays. Pour rappel, le contexte établi dans les derniers jours : la crise avait débuté par des menaces américaines, puis une première vague de frappes, avant de s'étendre aux pays du Golfe voisins. La situation a continué de s'aggraver depuis.
+On continue de suivre la situation, qui évolue rapidement.
+  </chapitre>
 
-Un développement stratégique connexe est rapporté par le Financial Times : Chevron et l'Irak cherchent à construire un pipeline via la Syrie pour acheminer le pétrole irakien sans passer par le détroit d'Ormuz, qui est désormais sous pression en raison du conflit. C'est une illustration directe de l'impact géopolitique de la crise sur les routes d'approvisionnement énergétique.
+  <chapitre titre="International : Trump, les élections et la Chine">
+Un deuxième dossier international majeur ce matin. Selon Radio-Canada et CBC, le président américain Donald Trump a prononcé jeudi soir un discours en prime time dans lequel il a accusé la Chine d'avoir interféré dans l'élection présidentielle de 2020. Trump a invoqué des documents déclassifiés qui démontreraient, selon lui, des vulnérabilités dans les infrastructures électorales américaines.
 
-Les tensions continuent également de peser sur les marchés, on en parlera dans le chapitre économie. Presto continue de suivre cette situation.
+La Chine a réagi rapidement. Selon Reuters, Pékin a qualifié les affirmations de Trump de fabriquées de toutes pièces. Du côté américain, selon CBC, les démocrates ont dit que Trump cherchait à miner la crédibilité des élections de mi-mandat prévues cet automne.
 
-En Ukraine, un dossier qui mérite une mention. Selon l'Associated Press, des citoyens ukrainiens ont manifesté après le limogeage du ministre de la Défense Mykhailo Fedorov par le président Volodymyr Zelensky. Ce renvoi avait été rapporté dans notre édition d'hier. Les protestataires dénoncent la décision comme une perte pour le pays. Parallèlement, The Economist rapporte que l'Ukraine intensifie ses frappes de drones en Crimée, fragilisant la capacité de la Russie à ravitailler et défendre la péninsule.
+Il faut rappeler un élément de contexte rapporté par CBC : une évaluation du renseignement américain avait conclu qu'il n'existait aucune preuve que la Chine avait modifié le résultat du scrutin de 2020. Radio-Canada a aussi publié un vérificateur de faits rappelant que les allégations de fraude massive lors de cette élection ont été réfutées à de nombreuses reprises devant les tribunaux.
 
-Ailleurs sur la scène internationale : selon Al Jazeera, le président chinois Xi Jinping a déclaré lors d'une conférence à Shanghai que l'intelligence artificielle, je le cite, "should not be a solo performance by a single country." Fin de citation. Xi a appelé à une coopération internationale accrue dans le développement de la technologie. Cette sortie survient dans un contexte de vive tension avec Washington, notamment sur les semi-conducteurs.
+Ailleurs, selon l'Associated Press, l'opérateur du téléprompteur de Trump a été placé en congé sans solde. Selon Reuters Business et le Financial Times, cet employé fait l'objet d'une enquête de la Commission américaine des transactions sur contrats à terme, la CFTC, pour avoir prétendument parié sur des marchés de prédiction en utilisant une connaissance préalable du contenu des discours présidentiels.
+  </chapitre>
 
-Un mot sur le Texas. Selon CBC et Al Jazeera, des inondations soudaines et importantes ont frappé la région du Hill Country au Texas, faisant au moins deux morts et nécessitant le sauvetage de plus de 200 personnes. La région avait déjà été touchée par des inondations dévastatrices l'an dernier. En parallèle, la fumée des incendies de forêt qui sévissent au nord de la frontière a rendu la qualité de l'air malsaine du Midwest américain jusqu'à la côte Est, selon l'Associated Press.
+  <chapitre titre="International : Ukraine, Israël et autres dossiers">
+Plusieurs autres développements internationaux à signaler ce matin.
 
-Enfin, en Hongrie, CBC rapporte que le nouveau premier ministre cherche à démettre la présidente héritée de l'ère Orbán, ce que des défenseurs des droits humains jugent précipité. La situation politique dans ce pays d'Europe centrale continue d'évoluer rapidement depuis le changement de gouvernement.
- </chapitre>
+En Ukraine d'abord. Selon l'Associated Press et Al Jazeera, des manifestations ont eu lieu en Ukraine en soutien à l'ex-ministre de la Défense Mykhailo Fedorov, limogé par le président Volodymyr Zelensky. Al Jazeera rapporte que ce limogeage a mis en évidence un défi politique pour Zelensky, Fedorov étant perçu comme une figure populaire pour son travail de modernisation technologique de l'armée ukrainienne. Certains observateurs font valoir que Zelensky s'est créé un rival potentiel en le poussant dehors.
 
- <chapitre titre="International : Le discours de Trump sur les élections">
-Un deuxième sujet international qui a fait beaucoup de bruit cette nuit. Selon CBC, Radio-Canada et le National Post, le président Donald Trump a prononcé jeudi soir un discours en prime time dans lequel il a réitéré des allégations non démontrées de fraude lors de l'élection présidentielle de 2020, et a accusé la Chine d'avoir interféré dans ce scrutin.
+Du côté d'Israël, la Knesset a été dissoute, ce qui déclenche des élections générales prévues le 27 octobre 2026. Selon Al Jazeera, il s'agit du premier terme complet du parlement israélien depuis 1988. L'élection survient dans un contexte particulièrement tendu, avec les conséquences des dernières années de conflit et une coalition gouvernementale fragilisée.
 
-Trump a invoqué des documents qu'il dit avoir déclassifiés pour appuyer ses affirmations, affirmant qu'ils révèlent des "vulnérabilités" dans les infrastructures électorales américaines. Il a également exprimé des doutes sur la sécurité des élections de mi-mandat à venir.
+En Russie, selon l'agence officielle TASS, reprise par Reuters, un blogueur qui avait critiqué Vladimir Poutine et la guerre a été arrêté. Peu de détails ont été rendus publics sur son identité.
 
-Le problème, selon CBC et Reuters : une évaluation du renseignement américain avait conclu que rien ne prouve que Pékin ait modifié les résultats du vote de 2020, une conclusion qui contredit directement les allégations du président. Radio-Canada rappelle de son côté que les allégations de fraudes massives lors de cette élection ont été réfutées à plusieurs reprises devant les tribunaux.
+Et une nouvelle humanitaire préoccupante : selon BBC World, deux embarcations transportant environ 530 Rohingyas ont disparu en mer depuis le 29 juin, au départ du Myanmar. On ignore ce qu'il est advenu des passagers.
 
-Reuters indique que ce discours pourrait menacer la trêve commerciale et diplomatique entre les États-Unis et la Chine, à un moment où les deux pays tentent de maintenir un équilibre fragile sur plusieurs dossiers. Le timing de ces déclarations, en plein conflit avec l'Iran, a été noté par plusieurs observateurs cités dans les sources.
+Finalement, selon BBC World, le Japon a modifié ses règles de succession impériale pour permettre l'adoption de membres masculins éloignés de la famille âgés de plus de 15 ans. L'interdiction faite aux femmes d'accéder au trône impérial demeure, malgré des pressions en ce sens depuis plusieurs années.
+  </chapitre>
 
-Un élément distinct, mais connexe : Reuters et le Financial Times rapportent que la Commission de négociation des contrats à terme sur matières premières, la CFTC, a ouvert une enquête sur l'opérateur du télésouffleur de Trump, soupçonné d'avoir effectué des paris sur des marchés de prédiction juste avant le discours présidentiel, ce qui pourrait constituer de l'initié. L'affaire est encore à un stade préliminaire.
- </chapitre>
+  <chapitre titre="Économie et marchés">
+Les marchés ont terminé la semaine sous pression, et les marchés asiatiques ont pris le relais à la baisse ce matin.
 
- <chapitre titre="Politique canadienne">
-Deux dossiers importants au Canada ce matin.
+Commençons par Wall Street. Selon le Wall Street Journal et le Financial Times, le Nasdaq a reculé de façon notable jeudi, plombé par une chute des titres de semi-conducteurs et de mémoire. Selon Bloomberg, les contrats à terme sur les indices américains glissaient également en matinée, prolongeant le mouvement.
 
-D'abord, le pont Gordie-Howe et les négociations commerciales avec Washington. Selon Radio-Canada et La Presse, le premier ministre Mark Carney a eu du mal à clarifier les détails de l'accord conclu avec l'administration Trump concernant le partage des revenus du pont frontalier Windsor-Detroit. Ce que Carney a précisé : le Canada et les États-Unis se partageront les revenus nets du pont, mais seulement après que les coûts d'exploitation auront été déduits, et seulement après que la dette de construction aura été remboursée. Reuters confirme cette position. L'accord reste donc favorable au Canada à court terme, mais son architecture financière demeure complexe à communiquer, comme l'a illustré la conférence de presse du premier ministre.
+En Asie, selon Reuters, les marchés boursiers de la région ont aussi reculé dans le sillage de cette correction technologique. Des analystes cités par Reuters ont qualifié la séance de brutale pour les titres technologiques asiatiques.
 
-Sur le plan commercial plus large, CBC rapporte que l'envoyé commercial américain a signalé qu'il y a eu peu de progrès dans les négociations bilatérales depuis que l'administration américaine a refusé de renouveler l'Accord Canada-États-Unis-Mexique, l'ACEUM. Selon le même envoyé, le Canada ne reçoit pas de "crédit" pour les concessions commerciales qu'il a déjà accordées. Une position qui ne laisse pas beaucoup de marge de manoeuvre à Ottawa.
+Deux facteurs alimentent cette nervosité. D'un côté, les tensions dans le Golfe Persique, avec les frappes américaines en Iran et le risque d'une interruption dans le détroit d'Ormuz, maintiennent une pression à la hausse sur le prix du pétrole. Selon Reuters Business, les cours du brut sont en voie d'enregistrer un gain net sur la semaine. De l'autre, la correction dans le secteur des semi-conducteurs semble liée à un réexamen des valorisations dans le secteur de l'intelligence artificielle.
 
-Par ailleurs, selon le National Post, des élus républicains du Midwest américain ont blâmé le Canada pour la fumée des incendies de forêt qui dérive vers le sud, certains allant jusqu'à formuler des menaces. La même fumée provenant du nord-ouest de l'Ontario, dont on avait parlé hier, continue de causer des problèmes de qualité de l'air aux États-Unis.
+Un développement à noter du côté de l'économie chinoise. Selon Al Jazeera, des économistes observent un ralentissement de l'économie chinoise : si le moteur des exportations fonctionne bien, le marché du travail intérieur stagne, ce qui comprime les dépenses des ménages. Des experts consultés par Al Jazeera estiment que cela crée des problèmes à moyen terme pour Pékin.
 
-Sur les incendies justement : selon La Presse, l'Ontario a demandé l'aide d'Ottawa en prévision d'éventuelles évacuations supplémentaires, et l'Assemblée des Premières Nations a exhorté le gouvernement fédéral à fournir un soutien immédiat à une Première Nation du nord de l'Ontario touchée par les feux.
+Du côté canadien, selon BNN Bloomberg, la Banque Royale du Canada indique qu'il reste un long chemin à parcourir avant que le marché immobilier canadien retrouve un équilibre. Le rapport de la RBC ne précise pas d'échéancier, mais souligne la persistance des obstacles à l'accessibilité.
 
-Un mot sur Rogers. CBC rapporte que l'entreprise procède à des mises à pied parmi ses agents de service à la clientèle dans le secteur des télécommunications, après avoir annoncé la semaine dernière la fermeture de six stations de radio et le licenciement de 230 personnes. Rogers refuse de confirmer le nombre de postes supprimés et n'a pas répondu aux questions sur des rapports indiquant que des travailleurs seraient maintenant formés au Maroc.
- </chapitre>
+Enfin, chez Verizon, selon Reuters Business, le télécommunicateur américain a annoncé la vente de 274 de ses boutiques et la mise à pied de 500 employés supplémentaires au sein de ses équipes corporatives.
 
- <chapitre titre="Actualité québécoise">
-Quelques nouvelles du côté du Québec ce matin.
+Et une petite nouvelle économique qui a tout l'air d'une histoire de capital-risque, mais qui touche aussi à la finance comportementale : Bloomberg rapporte que la plateforme de marchés de prédiction Kalshi prévoit d'offrir des contrats permettant de parier sur les résultats d'essais cliniques de médicaments, à la manière des paris sportifs. Le modèle soulève des questions éthiques sur l'accès à l'information en médecine, un débat qui commence à peine.
+  </chapitre>
 
-D'abord, un accident d'aéronef. Selon le Journal de Montréal, un aéronef s'est écrasé à l'aéroport de Saint-Hubert. Presto y reviendra si des précisions sont publiées dans les prochaines heures.
+  <chapitre titre="Politique canadienne">
+Deux dossiers au Canada ce matin.
 
-Ensuite, une enquête sur des allégations de racisme à Montréal-Nord. Selon La Presse, le commissaire à la déontologie policière du Québec a ouvert une enquête sur des comportements qui auraient été adoptés par des agents dans cet arrondissement. L'annonce survient dans un contexte déjà tendu. Le Journal de Montréal rapporte par ailleurs qu'un policier aurait invité un automobiliste noir à quitter le Canada lors d'une intervention. Les deux incidents ne sont pas nécessairement liés, mais s'inscrivent dans un même débat public sur la conduite policière à Montréal.
+D'abord, le pont Gordie-Howe. Selon Reuters, le premier ministre Mark Carney a précisé jeudi que le Canada ne partagera pas les revenus de péage du pont avec les États-Unis tant que la dette associée au projet ne sera pas remboursée. Cette clarification survient après plusieurs jours d'ambiguïté sur les détails de l'accord conclu entre Ottawa et Washington sur le financement de l'infrastructure. Carney avait eu du mal, selon nos briefings précédents, à clarifier la nature exacte de cet accord.
 
-Du côté judiciaire, La Presse rapporte que la Commission scolaire Sir-Wilfrid-Laurier est visée par une demande d'action collective après avoir transmis par erreur des informations confidentielles de milliers de personnes, dont des numéros d'assurance sociale, à l'ensemble des parents de l'École secondaire de Rosemère.
+Ensuite, le scandale des dépenses d'hôtel en Ontario. Selon Global News, une enquête révèle que le gouvernement Ford avait discrètement assoupli les règles encadrant les remboursements d'hôtel pour les députés, alors même que des élus conservateurs commençaient à facturer aux contribuables des séjours dans des hôtels du centre-ville de Toronto. Le gouvernement Ford avait indiqué la semaine dernière vouloir revenir en arrière sur ces règles. La nouvelle révélation de Global News complique cette position, en montrant que l'assouplissement des règles avait été fait de façon proactive par le gouvernement lui-même.
 
-Enfin, en matière de sécurité routière numérique : le National Post rapporte que le Barreau de l'Ontario a suspendu pour six mois une avocate après qu'un juge l'a prise en flagrant délit, en plein tribunal, d'avoir utilisé des références générées par intelligence artificielle qui s'avéraient fictives dans une affaire de droit de la famille et de successions. C'est un cas qui illustre les risques concrets de l'utilisation non vérifiée des outils d'IA dans les professions réglementées.
- </chapitre>
+Par ailleurs, un dossier qui soulève des questions sur les relations entre le Canada et l'Inde. Selon CBC, la sous-commissaire de la GRC, Lisa Moreland, a déclaré qu'il n'existe aucune preuve liant des responsables du gouvernement indien à des crimes commis par des gangs indiens ayant fait l'objet d'enquêtes canadiennes et américaines, incluant l'assassinat de l'activiste sikh Hardeep Singh Nijjar. CBC note que cette affirmation semble contredire des déclarations antérieures faites par d'autres responsables canadiens, dont l'ancien premier ministre Justin Trudeau et la commissaire de la GRC.
+  </chapitre>
 
- <chapitre titre="Économie et marchés">
-Les marchés ont mal terminé la semaine à New York. Selon le Wall Street Journal et le Financial Times, le Nasdaq a reculé de façon notable jeudi, plombé par une chute des titres de semi-conducteurs et de mémoire. Les marchés asiatiques ont suivi le mouvement à la baisse en début de séance vendredi, selon Bloomberg.
+  <chapitre titre="Tech">
+Plusieurs nouvelles en tech ce matin.
 
-Plusieurs facteurs se combinent : les tensions dans le Golfe persistent et maintiennent une prime de risque sur les marchés, et les valorisations dans le secteur des puces font l'objet d'un examen plus attentif de la part des investisseurs depuis quelques séances.
+Commençons par SpaceX. Selon Ars Technica, SpaceX a annulé jeudi soir un deuxième essai de vol de son lanceur Starship V3 au moment précis où le compte à rebours atteignait zéro, à Starbase, au Texas. La séquence de démarrage des moteurs du propulseur Super Heavy a été interrompue automatiquement par les ordinateurs de contrôle. Selon TechCrunch, l'action de SpaceX a reculé de plus de 4 % dans les échanges hors séance, avant de réduire ses pertes. La compagnie n'a pas immédiatement annoncé de nouvelle date pour une tentative de lancement.
 
-À noter en parallèle : TSMC, le géant taïwanais de la fabrication de puces, a publié des résultats trimestriels qui ont dépassé les attentes, selon le Wall Street Journal. Mais cette bonne nouvelle n'a pas suffi à contrebalancer la pression sur le secteur dans son ensemble.
+Côté intelligence artificielle dans les produits grand public, Netflix a révélé dans son rapport de résultats du deuxième trimestre 2026, rapporté par The Verge, qu'environ 300 titres sur sa plateforme ont eu recours à l'intelligence artificielle générative, principalement en postproduction. La plateforme donne des exemples de séries ayant utilisé la technologie pour créer des scènes de foule, des séquences de bataille historiques et des plans d'établissement de monde fictif.
 
-Sur le pétrole : Reuters indique que le brut est en voie d'enregistrer un gain hebdomadaire, porté par les tensions dans le détroit d'Ormuz et les incertitudes d'approvisionnement.
+Du côté des robotaxis, selon TechCrunch, le maire de San Francisco, Daniel Lurie, a demandé aux régulateurs de l'État de la Californie d'imposer des exigences plus strictes aux opérateurs comme Waymo, dans la foulée d'un blocage de la circulation qui a duré plusieurs heures dans la ville. Waymo n'a pas immédiatement commenté publiquement la demande du maire.
 
-Côté entreprises : Reuters Business rapporte que Verizon vendra 274 de ses points de vente et mettra à pied 500 employés corporatifs supplémentaires. Et toujours selon Reuters Business, le conseil d'administration de PayPal juge insuffisante une offre d'acquisition présentée par un consortium formé de Stripe et du fonds Advent.
+Une nouvelle sur Coca-Cola : selon TechCrunch, l'entreprise a suspendu la production de sa division laitière Fairlife aux États-Unis à la suite d'une attaque par rançongiciel.
 
-En finance canadienne : selon BNN Bloomberg et un rapport de RBC, la reprise du marché immobilier canadien sera longue. Le rapport décrit une "longue route" avant que le marché ne retrouve un équilibre, dans un contexte de taux encore élevés et d'incertitude économique.
+En Inde, selon Ars Technica, la Commission de la concurrence indienne a condamné HP India et plusieurs partenaires revendeurs à une amende totale de 1,4 milliard de roupies, soit environ 14,4 millions de dollars américains. L'autorité indienne a conclu à une entente entre les parties pour fixer les prix de contrats gouvernementaux portant sur des ordinateurs, des cartouches d'encre et du toner.
 
-Enfin, Bloomberg signale que la plateforme de marchés de prédiction Kalshi va offrir des contrats permettant de parier sur les résultats d'essais cliniques de médicaments, sur le modèle des paris sportifs. Une évolution qui soulève des questions sur les limites réglementaires de ces marchés.
- </chapitre>
+Enfin, une nouvelle de la sphère scientifique. Selon Nature, des astronomes ont détecté de l'hélium s'échappant de l'atmosphère de l'exoplanète LHS 1140b, une planète rocheuse qui orbite dans la zone dite habitable de son étoile. La découverte d'une atmosphère sur une planète rocheuse de ce type est présentée par les chercheurs comme une avancée dans la compréhension des conditions susceptibles d'accueillir la vie.
 
- <chapitre titre="Tech">
-Plusieurs nouvelles en tech ce matin, à commencer par SpaceX.
+Un dernier mot sur les données et les centres de calcul. Selon CBC, la suspension de nouveaux centres de données de grande envergure à New York, liée aux préoccupations sur la consommation énergétique et les ressources en eau, suscite une réflexion similaire au Canada. Plusieurs provinces examinent si elles pourraient imposer leurs propres moratoires face à la demande croissante des entreprises d'intelligence artificielle pour de telles installations.
+  </chapitre>
 
-Selon Ars Technica et TechCrunch, SpaceX a dû annuler jeudi soir un essai de vol de son lanceur Starship V3 et du propulseur Super Heavy au moment même où le compte à rebours atteignait zéro. La séquence de démarrage des moteurs du Super Heavy a été interrompue automatiquement par les ordinateurs de contrôle. Le lancement visait 17h45, heure locale au Texas. L'action SpaceX a reculé de plus de 4 % en transactions après-bourse avant de récupérer une partie des pertes, selon TechCrunch. Aucune date n'a encore été annoncée pour une nouvelle tentative.
+  <chapitre titre="Crypto">
+Un mot sur le secteur des cryptomonnaies. Selon le Financial Times, la plateforme d'échange Crypto.com a atteint une valorisation de 20 milliards de dollars américains après un investissement de Citadel Securities, la firme de tenue de marché fondée par Ken Griffin. C'est l'un des premiers investissements directs d'une firme de Wall Street de cette envergure dans une plateforme d'échange de cryptomonnaies, ce qui marque une étape dans la normalisation institutionnelle du secteur.
+  </chapitre>
 
-Du côté des robotaxis : TechCrunch rapporte que le maire de San Francisco, Daniel Lurie, a demandé aux régulateurs de l'État de Californie d'imposer de nouvelles exigences aux opérateurs de taxis autonomes comme Waymo. La demande fait suite à un événement de congestion majeur causé par des véhicules Waymo qui ont provoqué un blocage de la circulation pendant plusieurs heures dans la ville.
+  <chapitre titre="Sport">
+Un mot sur le sport avant de conclure.
 
-Netflix a révélé dans ses résultats du deuxième trimestre que près de 300 de ses titres ont utilisé de l'intelligence artificielle générative, selon The Verge. La plateforme dit recourir à ces outils principalement en post-production pour livrer "un résultat de qualité supérieure plus rapidement et à moindre coût". Parmi les titres cités : "The American Experiment", "Glory" et "Brasil 70", pour créer des séquences complexes comme des foules, des batailles historiques et des plans d'ambiance.
+D'abord, la Coupe du monde de soccer. Selon Al Jazeera, la France et l'Angleterre s'affrontent aujourd'hui dans le match pour la troisième place. Pour l'entraîneur français Didier Deschamps, il s'agit de son dernier match à la tête des Bleus. Kylian Mbappé, pour sa part, est en chasse d'un record individuel lors de cette rencontre.
 
-Toujours en IA : TechCrunch rapporte qu'une attaque par rançongiciel a forcé Coca-Cola à suspendre la production de sa division laitière Fairlife aux États-Unis. La production "restera suspendue" selon l'entreprise. Un rappel que les cyberattaques continuent de cibler des infrastructures de production physique.
+La grande finale, elle, opposera l'Espagne et l'Argentine, comme mentionné dans nos éditions précédentes.
 
-Enfin, une sanction notable : selon Ars Technica, le régulateur de la concurrence indien a infligé à HP India et à ses partenaires une amende de 1,4 milliard de roupies, soit environ 14,4 millions de dollars américains, pour entente illégale sur les prix de cartouches d'encre, de toner et d'ordinateurs dans le cadre d'appels d'offres gouvernementaux.
- </chapitre>
+Du côté du Canadien de Montréal, selon TVA Sports, Kirby Dach et le Canadien ont conclu une entente, évitant ainsi de recourir à l'arbitrage. Les termes du contrat n'ont pas été dévoilés.
 
- <chapitre titre="Crypto">
-Une nouvelle structurante dans le secteur ce matin. Selon le Financial Times, la plateforme d'échange Crypto.com a atteint une valorisation de 20 milliards de dollars américains après un investissement de Citadel Securities, la firme de tenue de marché fondée par Ken Griffin. C'est un signal d'intérêt institutionnel important pour le secteur, à un moment où les grandes maisons de courtage traditionnelles continuent d'élargir leur présence dans l'univers des actifs numériques.
- </chapitre>
+Enfin, la LNH a publié son calendrier 2026-2027. Selon Sportsnet, certaines confrontations retiennent particulièrement l'attention des amateurs, sans précision additionnelle sur les matchs en question à ce stade.
+  </chapitre>
 
- <chapitre titre="Sport">
-Quelques nouvelles sportives avant de conclure.
-
-D'abord, le Canadien de Montréal. Selon TVA Sports, Kirby Dach et le Canadien ont conclu une entente, évitant ainsi de recourir à l'arbitrage.
-
-En marge de la Coupe du monde, dont on rappelle que la finale opposera l'Espagne et l'Argentine dimanche, CBC rapporte une controverse diplomatique. Lors de leur célébration après la victoire en demi-finale contre l'Angleterre, des joueurs argentins ont brandi une banderole portant l'inscription "Las Malvinas son Argentinas", revendiquant en espagnol la souveraineté argentine sur les îles Falkland, sur lesquelles Buenos Aires et Londres se sont affrontés militairement en 1982. Le gouvernement britannique a protesté auprès de la FIFA.
- </chapitre>
-
- <outro>Voilà pour ce Presto du vendredi 17 juillet 2026. Si ce briefing vous est utile, le meilleur coup de main que vous pouvez nous donner, c'est de le partager à une personne qui aime rester informée. Et selon votre plateforme : un abonnement sur Spotify ou Apple Podcasts, un pouce bleu et un abonnement sur YouTube, ça prend deux secondes et ça aide vraiment Presto à grandir. Sur ce, bonne journée, et à demain.</outro>
+  <outro>Voilà pour ce Presto du vendredi 17 juillet 2026. Si ce briefing vous est utile, le meilleur coup de main que vous pouvez nous donner, c'est de le partager à une personne qui aime rester informée. Et selon votre plateforme : un abonnement sur Spotify ou Apple Podcasts, un pouce bleu et un abonnement sur YouTube, ça prend deux secondes et ça aide vraiment Presto à grandir. Sur ce, bonne journée, et à demain.</outro>
 </script>
 ```
