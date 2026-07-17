@@ -1,0 +1,14 @@
+{
+  "date": "2026-07-17",
+  "kind": "poll",
+  "text": "Ce matin → Les États-Unis ont frappé l'Iran pour le 6e jour consécutif.\n\nNouveau : les frappes de vendredi ont ciblé des ponts, des sites énergétiques et ont effondré une tour dans un port clé iranien.\n\nComment devraient réagir les démocraties face à ces échanges militaires?",
+  "poll": {
+    "options": [
+      "Augmenter le soutien à",
+      "Chercher une médiation",
+      "Maintenir une position",
+      "Renforcer les alliances"
+    ],
+    "duration_minutes": 1440
+  }
+}
