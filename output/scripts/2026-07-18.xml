@@ -1,0 +1,93 @@
+```xml
+<script>
+  <intro>Bonjour, on est le samedi 18 juillet 2026. Voici votre Presto en environ 17 minutes. Au menu ce matin : la crise États-Unis et Iran entre dans sa septième nuit, avec des frappes qui s'étendent maintenant aux alliés américains dans le Golfe. Au Canada, Trump menace d'ajouter des tarifs liés à la fumée des feux de forêt, et Ottawa et Mexico s'allient contre les tarifs automobiles américains. En politique internationale, Andy Burnham devient le nouveau chef du Parti travailliste britannique. En économie, les marchés américains ont terminé la semaine en baisse sur des inquiétudes liées à l'intelligence artificielle, et Boeing retrouve le droit de certifier ses avions. Et en tech, Databricks atteint une valorisation de 188 milliards, et des satellites de détection de feux de forêt entrent en service.</intro>
+
+  <chapitre titre="International : la crise États-Unis et Iran">
+La crise militaire entre les États-Unis et l'Iran se poursuit, et elle s'intensifie. Selon BBC World et CBC World, les États-Unis ont lancé pour la septième nuit consécutive des frappes sur le territoire iranien. Cette fois, les deux camps ciblent des infrastructures.
+
+L'Iran a riposté en frappant des alliés américains dans la région. Selon BBC World, le Koweït a rapporté qu'une centrale d'eau et d'électricité avait été touchée. Radio-Canada confirme l'escalade de part et d'autre, et signale également des incidents maritimes dans le détroit d'Ormuz.
+
+Sur la question pétrolière, le Financial Times pose la question que se posent les marchés en ce moment : combien de temps les marchés pétroliers peuvent-ils absorber le choc lié à la perturbation du détroit d'Ormuz, par où transite une portion importante du commerce mondial du brut ? La réponse reste ouverte.
+
+Côté américain, le conflit continue de produire des tensions internes. Selon le National Post, plus de cent élus démocrates de la Chambre des représentants ont voté cette semaine pour réduire l'aide militaire à Israël, exposant une fracture de plus en plus visible au sein du parti à quelques mois des élections de mi-mandat de novembre. Ce vote illustre des positions divergentes sur la politique étrangère américaine au Moyen-Orient, dans un contexte où la crise iranienne redessine les alliances dans la région.
+
+Par ailleurs, Reuters rapporte qu'un commissaire de la FCC, la Commission fédérale des communications, a déclaré que l'appel de Donald Trump à révoquer les licences des chaînes ABC et NBC est inconstitutionnel. Trump avait évoqué cette possibilité en réaction à la couverture médiatique jugée déloyale envers son administration.
+
+On continue de suivre l'évolution du conflit dans le Golfe.
+  </chapitre>
+
+  <chapitre titre="International : Ukraine et Royaume-Uni">
+Deux autres dossiers à l'international ce matin.
+
+D'abord, l'Ukraine. La controverse autour du limogeage du ministre de la Défense Mykhailo Fedorov, que nous avons suivi en début de semaine, prend de l'ampleur. Selon BBC World, de nombreux soldats ukrainiens ont exprimé leur mécontentement face à cette décision du président Volodymyr Zelensky. Selon l'Associated Press, l'Ukraine combat présentement sous la direction d'un ministre de la Défense par intérim, et le remaniement gouvernemental de Zelensky reste vivement contesté dans les rangs militaires. Des manifestations de soutien à Fedorov avaient déjà eu lieu jeudi.
+
+Par ailleurs, selon l'Associated Press, des drones ukrainiens ont frappé un centre logistique dans une petite ville de l'ouest de la Russie, faisant sept morts et vingt-quatre blessés, selon Radio-Canada.
+
+Côté Royaume-Uni, un changement de leadership important. Selon CBC World et l'Associated Press, Andy Burnham a officiellement été déclaré chef du Parti travailliste britannique vendredi. Il remplace Keir Starmer, dont The Economist évalue le bilan de deux ans au pouvoir comme mitigé : quelques avancées, mais un rythme jugé trop lent. Burnham, ancien maire de Manchester, doit prendre ses fonctions de premier ministre la semaine prochaine.
+  </chapitre>
+
+  <chapitre titre="Politique canadienne">
+Trois dossiers canadiens ce matin, et ils sont liés à la relation avec Washington.
+
+D'abord, un développement qui a surpris. Selon Reuters et BBC World, le président américain Donald Trump a menacé vendredi d'imposer de nouveaux tarifs au Canada, cette fois pour le motif que la fumée des feux de forêt canadiens se répand dans des villes américaines et nuit à la qualité de l'air. Trump a dit vouloir ajouter ce coût aux tarifs existants. Le premier ministre Mark Carney a répondu que les États-Unis et le Canada ont une responsabilité égale face aux changements climatiques, que des experts qualifient de facteur aggravant pour les incendies de forêt, selon BBC World.
+
+Deuxième dossier : les tarifs sur l'automobile. Selon le National Post et CBC World, le Canada et le Mexique ont convenu vendredi de coordonner leurs efforts pour obtenir une réduction des tarifs américains sur les véhicules importés des deux pays. Le secrétaire aux Affaires étrangères du Mexique a précisé lors d'une rencontre à Ottawa que son pays ne cherche pas à conclure un accord bilatéral avec Washington qui exclurait le Canada. Les deux pays réaffirment ainsi leur intérêt à maintenir le cadre trilatéral de l'accord commercial.
+
+Troisième dossier : les droits des Premières Nations et la question de la séparation de l'Alberta. Selon CBC, l'Assemblée des Premières Nations a exhorté Ottawa et les provinces à protéger les droits issus des traités contre ce qu'elle décrit comme les menaces que font peser les velléités séparatistes de l'Alberta. Des chefs de Premières Nations de partout au Canada ont exprimé leurs préoccupations lors d'une réunion sur cette question.
+
+Un mot enfin sur Fort Simpson, dans les Territoires du Nord-Ouest. Selon CBC, l'ordre d'évacuation qui pesait sur la communauté a été levé et les résidents ont pu commencer à rentrer chez eux ce matin dès 8 heures.
+  </chapitre>
+
+  <chapitre titre="Actualité québécoise">
+Deux sujets du côté du Québec ce matin.
+
+D'abord, les feux de forêt et la fumée. Selon La Presse, un panache de fumée provenant des incendies de forêt en Ontario s'est déplacé vers le Québec dans la nuit de vendredi à samedi et pourrait dégrader la qualité de l'air dans l'ouest de la province. L'arrivée d'un système de pluie et d'orages devrait toutefois dissiper rapidement cette pollution.
+
+En Colombie-Britannique, la situation reste préoccupante. Selon Radio-Canada, 78 nouveaux départs de feux ont été enregistrés en 24 heures vendredi, portant le total des feux actifs à 97. La foudre est responsable d'un grand nombre de ces nouveaux foyers. Selon La Presse, l'incendie d'Ainslie Creek, au nord de Boston Bar, a détruit au moins sept bâtiments, dont quatre maisons ou chalets. Plusieurs alertes d'évacuation ont été émises dans les districts régionaux de Thompson-Nicola et de Cariboo.
+
+Toujours au Québec, Radio-Canada rapporte que le Canadien National a pulvérisé de l'herbicide dans l'arrondissement Mercier-Hochelaga-Maisonneuve à Montréal, sans en avoir avisé au préalable les résidents ni les élus. La mairesse du secteur ainsi que des citoyens dénoncent cette pratique.
+
+Et un développement dans le dossier judiciaire de l'homme d'affaires Frank Stronach. Selon La Presse, un tribunal a annulé la condamnation pour agression sexuelle prononcée contre lui. C'est une décision rare après verdict. Il ne reste plus qu'une seule condamnation parmi les douze chefs d'accusation initiaux.
+
+Enfin, selon La Presse, le Réseau express métropolitain a été interrompu vendredi entre les stations Panama et Gare Centrale pendant plus de trois heures, à compter de 16 h 48. Des usagers ont été coincés dans des trains immobilisés. Le service a repris en soirée, et l'opérateur cherche à déterminer la cause du problème.
+  </chapitre>
+
+  <chapitre titre="Économie et marchés">
+Les marchés américains ont terminé la semaine en baisse. Selon Bloomberg, les actions américaines ont reculé vendredi sur fond d'inquiétudes liées à ce que certains investisseurs comparent à un éventuel nouveau moment DeepSeek, une référence à l'irruption d'un modèle d'intelligence artificielle chinois à faible coût qui avait secoué les marchés en début d'année. Bloomberg signale que le modèle d'IA chinois Moonshot, développé par la firme Kimi, suscite des interrogations similaires sur la durabilité des valorisations des entreprises d'IA américaines. Nous avions rapporté jeudi que le Nasdaq avait reculé en milieu de semaine, plombé par les semi-conducteurs. Cette tendance s'est confirmée en fin de semaine.
+
+Du côté des grandes capitalisations, BNN Bloomberg rapporte qu'Apple a dépassé Nvidia pour redevenir la société cotée en bourse la plus précieuse au monde, dans un contexte de recalibrage des paris sur l'IA. Aucun chiffre de valorisation précis n'est disponible dans les sources, mais le déplacement au sommet reflète un repositionnement des investisseurs.
+
+Une nouvelle importante pour l'aviation commerciale. Selon Reuters, la Federal Aviation Administration américaine, la FAA, a rétabli l'autorité de Boeing pour certifier elle-même ses avions 737 MAX et 787. Cette autorité avait été retirée à Boeing à la suite de défaillances graves de contrôle qualité. Le rétablissement de cette prérogative marque une étape dans le redressement de l'avionneur américain.
+
+Bloomberg rapporte par ailleurs que les émetteurs d'obligations des grandes entreprises technologiques, les hyperscalers, exercent une pression à la baisse sur les indicateurs obligataires dans les marchés mondiaux, un phénomène lié au volume de financement qu'ils mobilisent pour leurs infrastructures d'IA.
+
+Enfin, selon Reuters Business, l'introduction en bourse de SpaceX a généré des gains de plusieurs millions de dollars pour Kelly Loeffler, la directrice de la Small Business Administration américaine. Cela soulève des questions sur les conflits d'intérêts potentiels au sein de l'administration Trump, mais aucune procédure formelle n'a été annoncée à ce stade.
+  </chapitre>
+
+  <chapitre titre="Tech">
+Plusieurs nouvelles en tech ce matin.
+
+Commençons par Databricks. Selon TechCrunch, la firme spécialisée dans les données et l'IA a atteint une valorisation de 188 milliards de dollars américains lors de son plus récent tour de financement, ce qui en fait l'une des startups privées les mieux valorisées au monde. TechCrunch note que Databricks s'est repositionnée comme une entreprise d'IA à part entière, notamment en publiant des travaux sur la réduction des coûts des modèles d'IA en accès libre pour le développement logiciel.
+
+Du côté de l'IA et de la redistribution de ses retombées, TechCrunch rapporte les propos du capital-risqueur Neil Rimer, cofondateur d'Index Ventures, qui prédit que la richesse générée par l'IA dans la Silicon Valley devra être redistribuée, que ce soit volontairement ou par voie réglementaire.
+
+Sur TikTok, selon The Verge, la plateforme teste un outil de détection des sosies générés par l'IA. L'outil, testé en ce moment auprès d'un certain nombre de créateurs américains, permet aux utilisateurs de vérifier si une IA a reproduit leur apparence, et de le signaler à TikTok. Pour y accéder, les créateurs doivent vérifier leur identité auprès d'une firme appelée Jumio, par une photo en temps réel et un contrôle de pièce d'identité. YouTube propose un outil similaire, rendu accessible récemment à tous ses utilisateurs adultes, selon The Verge. Le lancement de ces outils reflète les préoccupations croissantes autour des faux sosies numériques. Des groupes de défense des droits numériques soulèvent par ailleurs des questions sur la collecte des données biométriques liées à ce type de vérification.
+
+Enfin, une nouvelle sur la détection des feux de forêt. Selon Ars Technica, trois premiers satellites opérationnels du programme FireSat, soutenu financièrement par Google, ont été lancés avec succès depuis la base de Vandenberg, en Californie, le 7 juillet 2026. Ces microsatellites, conçus par la firme californienne Muon Space, constituent la première constellation satellite construite spécifiquement pour détecter les incendies de forêt, y compris les petits feux que d'autres satellites peuvent manquer. Ils couvriront chaque région à risque de feux deux fois par jour. Google a investi plus de 15 millions de dollars américains dans le programme, et le Bezos Earth Fund y a contribué 26 millions. La mise en service opérationnelle est prévue avant la fin de l'année, après une période de test de trois mois.
+  </chapitre>
+
+  <chapitre titre="Sport">
+Un tour rapide du côté du sport avant de conclure.
+
+D'abord, la Coupe du monde. Selon Al Jazeera, la France et l'Angleterre s'affrontent aujourd'hui dans le match pour la troisième place, avant la grande finale entre l'Argentine et l'Espagne demain. Ce match marque aussi la dernière rencontre de Didier Deschamps à la tête de l'équipe de France : le sélectionneur, qui avait mené les Bleus au titre en 2018, tire sa révérence, selon Al Jazeera. Son successeur pressenti serait Zinédine Zidane.
+
+Du côté du hockey, selon TVA Sports, il y aurait eu un intérêt mutuel entre Anthony Mantha et le Canadien de Montréal, dans les discussions entourant le marché des joueurs autonomes. Sportsnet rapporte par ailleurs que plusieurs joueurs autonomes de premier plan demeurent sans contrat après la frénésie du 1er juillet, qui a vu les directeurs généraux de la LNH dépenser 950 millions de dollars américains en une seule journée.
+
+En golf, Sportsnet rapporte que Bryson DeChambeau a reçu une pénalité de deux coups au Championnat de golf de l'Omnium britannique, ce qui complique ses chances dans le tournoi.
+
+Et une dernière note d'actualité canadienne : CBC World rapporte qu'un couple de Regina, Jay et Deb MacDonald, a été tué par un ours à un lac au nord de La Ronge, en Saskatchewan. L'événement s'est produit mercredi. Les autorités ont confirmé leur identité.
+  </chapitre>
+
+  <outro>Voilà pour ce Presto du samedi 18 juillet 2026. Si ce briefing vous est utile, le meilleur coup de main que vous pouvez nous donner, c'est de le partager à une personne qui aime rester informée. Et selon votre plateforme : un abonnement sur Spotify ou Apple Podcasts, un pouce bleu et un abonnement sur YouTube, ça prend deux secondes et ça aide vraiment Presto à grandir. Sur ce, bonne journée, et à demain.</outro>
+</script>
+```
