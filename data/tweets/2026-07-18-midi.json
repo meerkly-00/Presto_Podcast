@@ -1,13 +1,13 @@
 {
   "date": "2026-07-18",
   "kind": "poll",
-  "text": "Ce matin → Andy Burnham devient PM britannique la semaine prochaine.\n\nSelon toi, le nouveau PM doit-il autoriser les bases UK pour les frappes américaines contre l'Iran?",
+  "text": "Ce matin → Plus de 160 feux actifs au Québec, 950 au Canada.\n\nFace aux feux de forêt transfrontaliers, qui devrait être responsable des mesures d'atténuation?",
   "poll": {
     "options": [
-      "Oui, soutenir l'allié",
-      "Non, rester neutre",
-      "Dépend des circonstances",
-      "Pas d'avis"
+      "Chaque pays pour son",
+      "Responsabilité commune",
+      "Effort coordonné avec",
+      "Dépend des causes"
     ],
     "duration_minutes": 1440
   }
