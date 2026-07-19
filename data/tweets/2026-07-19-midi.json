@@ -1,0 +1,14 @@
+{
+  "date": "2026-07-19",
+  "kind": "poll",
+  "text": "Ce matin → Washington mène sa 8e nuit de frappes consécutives après la mort de soldats américains, et Téhéran suspend son accord intérimaire.\n\nNouveau : l'Iran a lancé des attaques au missile et drone contre les alliés\n\nComment vois-tu la trajectoire de cette escalade?",
+  "poll": {
+    "options": [
+      "Risque majeur de conflit",
+      "Tensions gérables avec",
+      "Situation instable mais",
+      "Impossible à prédire"
+    ],
+    "duration_minutes": 1440
+  }
+}
