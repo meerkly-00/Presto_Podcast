@@ -1,13 +1,13 @@
 {
   "date": "2026-07-19",
   "kind": "poll",
-  "text": "Ce matin → Washington mène sa 8e nuit de frappes consécutives après la mort de soldats américains, et Téhéran suspend son accord intérimaire.\n\nNouveau : l'Iran a lancé des attaques au missile et drone contre les alliés\n\nComment vois-tu la trajectoire de cette escalade?",
+  "text": "Ce matin → Washington et Téhéran franchissent un seuil critique.\n\nNouveau : après les frappes américaines, l'Iran affirme que des installations nucléaires en construction ont été touchées.\n\nComment tu vois cette escalade entre les États-Unis et l'Iran?",
   "poll": {
     "options": [
-      "Risque majeur de conflit",
-      "Tensions gérables avec",
-      "Situation instable mais",
-      "Impossible à prédire"
+      "Risque d'emballement",
+      "Nécessité de diplomatie",
+      "Situation à surveiller",
+      "Enjeu régional à gérer"
     ],
     "duration_minutes": 1440
   }
