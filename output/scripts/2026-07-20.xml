@@ -1,97 +1,87 @@
 ```xml
 <script>
-  <intro>Bonjour, on est le lundi 20 juillet 2026. Voici votre Presto en environ 17 minutes. Au menu ce matin : le conflit États-Unis et Iran qui s'intensifie encore, la Coupe du monde remportée par l'Espagne, plusieurs dossiers canadiens dont les feux de forêt et le pont Gordie Howe, l'accord Ford-Unifor, des nouvelles en tech avec Netflix et Nvidia, et un dossier québécois sur des collèges privés fermés.</intro>
+  <intro>Bonjour, on est le lundi 20 juillet 2026. Voici votre Presto en environ 17 minutes. Au menu ce matin : le conflit États-Unis et Iran qui s'étend dans le Golfe, l'arrivée d'un nouveau premier ministre au Royaume-Uni, le Canada qui ferme temporairement ses portes aux voyageurs en provenance du Congo, un tour des marchés, des nouvelles en tech, et un dernier mot sur la Coupe du monde.</intro>
 
-  <chapitre titre="International : conflit États-Unis – Iran">
-Le conflit militaire entre les États-Unis et l'Iran continue de s'intensifier, et de nouveaux développements sont survenus cette nuit. Selon l'Associated Press, les États-Unis ont mené de nouvelles frappes aériennes sur l'Iran, après avoir annoncé le décès d'un autre militaire américain. C'est la neuvième nuit consécutive de frappes américaines sur le territoire iranien.
+  <chapitre titre="International : conflit États-Unis et Iran">
+Le conflit militaire entre les États-Unis et l'Iran continue de s'intensifier, et de nouveaux développements sont survenus cette nuit.
 
-CBC rapporte qu'un soldat américain a été tué samedi en Irak lors de la détonation contrôlée d'un drone iranien, selon le Commandement central américain. La veille, deux autres soldats américains avaient été tués en Jordanie. Le bilan des pertes militaires américaines dans ce conflit continue donc d'augmenter.
+Selon l'Associated Press et CBC, les États-Unis ont mené une nouvelle série de frappes aériennes sur l'Iran tôt lundi matin, après avoir annoncé le décès d'un autre militaire américain. BBC World rapporte que Washington dit avoir mené ces frappes en hommage aux soldats américains tués. Il s'agit de la neuvième nuit consécutive de frappes américaines sur le territoire iranien.
 
-BBC World rapporte de son côté qu'un soldat américain a été tué et un autre blessé à la suite d'une attaque iranienne en Irak, précisant que le rapport militaire américain faisait état d'un décès supplémentaire, un jour après les deux morts en Jordanie.
+En parallèle, l'Iran a élargi ses contre-attaques. Selon CBC, l'Iran a lancé des attaques ciblant Bahreïn, le siège de la Cinquième flotte de la marine américaine, ainsi que le Koweït. Al Jazeera se demande ce que cette attaque contre les infrastructures du Koweït signifie pour la région du Golfe. BBC World rapporte aussi que deux navires auraient explosé dans le détroit d'Ormuz, l'une des voies maritimes les plus stratégiques au monde pour le transport du pétrole.
 
-Bloomberg indique ce matin que le prix du pétrole est en hausse en raison de l'escalade du conflit au Moyen-Orient. Les marchés restent attentifs à l'évolution de la situation avant l'ouverture de la semaine.
+CBC précise que les États-Unis ont identifié deux soldats tués en Jordanie, en plus d'un autre militaire mort en Irak à la suite d'une attaque iranienne, selon BBC World.
 
-Du côté diplomatique, le Financial Times rapporte que l'Union européenne fait face à un effritement du soutien pour de nouvelles sanctions contre la Russie, un dossier parallèle qui complique la gestion des crises en cours à Bruxelles.
-
-Presto continue de suivre la situation avec l'Iran de près.
+La situation géographique de ce conflit s'élargit donc sensiblement : on est passé de frappes sur le sol iranien à des attaques iraniennes sur plusieurs pays du Golfe. Presto continue de suivre ce dossier.
   </chapitre>
 
-  <chapitre titre="International : autres fronts">
-Deux autres dossiers internationaux à noter ce matin.
+  <chapitre titre="International : Royaume-Uni, Canada et Congo, ferry en Guyane">
+Trois autres dossiers internationaux à couvrir ce matin.
 
-D'abord, le Pérou. Selon l'Associated Press et CBC World, un séisme de magnitude 5,5 a frappé la région des Andes dimanche. Le bilan fait état d'au moins six personnes décédées, plus de 30 blessées, et environ 300 personnes déplacées.
+D'abord, le Royaume-Uni se donne un nouveau premier ministre aujourd'hui. Selon Radio-Canada, Andy Burnham entre en fonction lundi avec le défi de revigorer le Parti travailliste. The Economist, dans son balado quotidien, se demande quels sont les plans du nouveau premier ministre. Burnham, ancien maire de la région de Manchester, est une figure connue de la gauche britannique, mais il hérite d'un parti affaibli et d'une économie sous pression.
 
-Ensuite, l'arrestation des frères Tate, que Presto avait notée ce week-end. Un point d'évolution ce matin : BBC World rapporte que le Crown Prosecution Service britannique a officiellement demandé leur extradition depuis les États-Unis. Les nouvelles charges portées au Royaume-Uni portent maintenant à 59 le total des chefs d'accusation visant Andrew et Tristan Tate. Leur avocat a indiqué qu'ils nient les faits.
+Ensuite, une décision canadienne qui soulève des questions. Selon Reuters, le Canada a annoncé qu'il interdirait temporairement l'entrée aux ressortissants étrangers qui se sont récemment trouvés en République démocratique du Congo. Reuters précise que cette décision va à l'encontre de l'avis des Nations Unies. Aucun détail supplémentaire sur les raisons officielles invoquées par Ottawa ni sur la durée prévue de cette mesure n'était disponible dans la dépêche de Reuters au moment de sa publication.
 
-Un mot aussi sur Singapour. Al Jazeera rapporte qu'un ministre du gouvernement a remis sa démission après ce que le premier ministre a décrit comme des interactions avec une femme. Al Jazeera précise que le Parti d'action populaire, au pouvoir, a été secoué par une série de controverses récentes, entachant sa réputation de rigueur éthique.
-
-Enfin, la Norvège a inauguré dimanche un nouveau mémorial pour les victimes du massacre de 2011, selon BBC World. La cérémonie a eu lieu à Oslo, à quelques jours du 15e anniversaire de l'attentat.
+Enfin, une tragédie maritime en Amérique du Sud. Selon CBC, des dizaines de personnes seraient mortes après le naufrage d'un traversier au large des côtes du Guyana dimanche. Les autorités guyanaises auraient secouru 67 personnes, dont 15 enfants, mais aucun survivant supplémentaire n'avait été retrouvé en fin de journée dimanche.
   </chapitre>
 
   <chapitre titre="Politique canadienne">
-Plusieurs dossiers au Canada ce matin.
+Deux dossiers à noter du côté du Canada ce matin.
 
-On commence par les feux de forêt. Selon La Presse, le premier ministre Mark Carney a qualifié la saison actuelle d'incendies de forêt de l'une des plus intenses de l'histoire canadienne. Des centaines de Canadiens évacués de leur domicile attendent de connaître l'état de leurs propriétés. La saison s'accélère de façon notable, et plusieurs provinces sont touchées simultanément.
+D'abord, les feux de forêt et la relation Carney-Trump. Selon Reuters, le président américain Donald Trump a déclaré avoir dit au premier ministre Mark Carney que le Canada devait prendre les feux de forêt en main. On se rappelle que Carney avait qualifié cette saison d'incendies de l'une des plus intenses de l'histoire canadienne lors du briefing de ce matin plus tôt cette semaine. La sortie de Trump ajoute une dimension diplomatique à une crise qui est d'abord et avant tout une urgence environnementale et humanitaire au pays.
 
-À cela s'ajoute une tornade qui a frappé le centre de l'Alberta samedi. CBC rapporte que des bâtiments, des maisons, des arbres et des routes ont subi des dégâts importants dans le comté de Clearwater. Aucune blessure n'a été signalée en lien avec la tornade.
+Ensuite, un dossier commercial. Selon le National Post, Falak Kothari, directeur général chez le cabinet de gestion du risque Marsh Risk Canada, estime que les États-Unis finiront par revenir à la table sur l'Accord Canada-États-Unis-Mexique, connu sous le sigle ACEUM. Washington avait laissé passer la date limite du 1er juillet pour le renouvellement de l'accord. Kothari dit rester optimiste sur la relation commerciale entre le Canada et les États-Unis, malgré ce délai manqué. Le National Post note toutefois que cette position est celle d'un acteur de l'industrie manufacturière, et non une position gouvernementale officielle.
 
-Passons maintenant au pont Gordie Howe. Le National Post rapporte que le secrétaire américain au Commerce, Howard Lutnick, a publié sur les réseaux sociaux ses propres calculs concernant l'accord conclu entre le Canada et les États-Unis pour l'ouverture du pont international Gordie Howe. Lutnick affirme que les États-Unis obtiendront 50 % des revenus nets générés par l'infrastructure, et il a qualifié cela d'application de l'Art of the Deal. Le National Post souligne que la confusion persiste quant aux termes précis de l'entente négociée par Ottawa.
+Toujours au pays, Global News rapporte que le député provincial ontarien Stan Cho a facturé son association de circonscription pour des dîners, des billets d'avion, des nuitées à l'hôtel et des locations de limousine entre 2023 et 2026. Ces informations proviennent de relevés de dépenses détaillés du bureau de circonscription.
 
-Dernier dossier canadien : une mesure d'immigration. Reuters rapporte que le Canada s'apprête à interdire temporairement l'entrée aux ressortissants étrangers ayant récemment séjourné en République démocratique du Congo. Cette décision va à l'encontre des recommandations des Nations Unies, selon Reuters.
+Et CBC rapporte une histoire qui touche à l'accès aux médicaments. Sophie Djeme-Mi Koumazock, une employée fédérale atteinte d'un cancer du sein incurable, a reçu une prescription pour un nouveau médicament qui pourrait ralentir la progression de sa maladie, mais dont le coût peut atteindre 12 000 dollars par mois. Son assureur, Canada Life, refuse de couvrir ce traitement. Le dossier illustre une tension connue entre les régimes d'assurance collective et les thérapies innovantes à coût élevé.
   </chapitre>
 
   <chapitre titre="Actualité québécoise">
-Deux dossiers du côté du Québec ce matin.
+Deux nouvelles du côté du Québec ce matin.
 
-D'abord, la fermeture de quatre collèges privés. Selon La Presse, des dizaines d'étudiants étrangers se sont rassemblés dimanche au centre-ville de Montréal pour réclamer une solution du gouvernement du Québec. Le ministère de l'Éducation a refusé de renouveler les permis d'exploitation de quatre collèges privés, laissant ces étudiants dans l'incertitude quant à la poursuite de leurs études. La Presse cite leurs témoignages, plusieurs d'entre eux parlant de rêves brisés et d'angoisse devant la situation.
+D'abord, une bonne nouvelle économique pour Montréal. Selon Le Devoir, le cabinet-conseil britannique Mace Consult s'implante à Montréal et promet de créer une centaine d'emplois. Le Devoir indique que cette arrivée apportera une expertise en gestion de grands projets d'infrastructures dans la métropole.
 
-Deuxième dossier : l'accord Ford-Unifor. Radio-Canada rapporte que Ford et le syndicat Unifor ont conclu une entente prévoyant une augmentation salariale de 9 % sur trois ans pour les employés concernés. Ford chiffre les investissements prévus au Canada dans le cadre de cet accord à 1,25 milliard de dollars canadiens.
-
-Et un dernier élément de contexte économique québécois : Le Devoir rapporte que le cabinet-conseil britannique Mace Consult s'implante à Montréal et promet de créer une centaine d'emplois. La firme, spécialisée en gestion de grands projets d'infrastructures, fait ainsi son entrée sur le marché québécois.
+Ensuite, la clôture du Festival d'été de Québec. Selon Radio-Canada, le 58e Festival d'été s'est terminé dimanche avec un spectacle du chanteur américain Jelly Roll. Radio-Canada décrit la soirée comme une communion entre l'artiste et le public de Québec.
   </chapitre>
 
   <chapitre titre="Économie et marchés">
-Un tour d'horizon économique ce matin, alors que les marchés américains et canadiens s'apprêtent à ouvrir la semaine sous une pression géopolitique accrue.
+Un tour des marchés et de quelques dossiers économiques ce matin.
 
-Reuters indique que les actions sont sous pression ce matin, le prix du pétrole en hausse pesant sur le sentiment des investisseurs. La semaine sera aussi marquée par des résultats trimestriels importants dans le secteur de l'intelligence artificielle, que Reuters désigne comme une période charnière pour les grandes entreprises tech.
+Du côté des marchés, Bloomberg rapporte que les actions ont progressé vendredi, alors que la baisse dans le secteur des semi-conducteurs s'est stabilisée et que le prix du pétrole a reculé. Reuters, pour sa part, signale ce matin que les obligations sont sous pression, que le pétrole et le gaz sont en hausse, et que la saison des résultats trimestriels s'annonce chargée, notamment pour les entreprises liées à l'intelligence artificielle. La tension géopolitique dans le Golfe, avec les attaques iraniennes sur des infrastructures pétrolières régionales, pèse sur le sentiment des investisseurs en début de semaine.
 
-Du côté de Boeing, Reuters Business rapporte que l'avionneur est sur la bonne voie pour livrer le nouvel Air Force One en 2028, mais que les coûts du projet ont augmenté.
+Sur le front commercial, Reuters Business indique que Boeing est en voie de livrer le nouvel Air Force One en 2028, mais que les coûts du projet ont augmenté. Aucun chiffre précis sur l'ampleur de cette hausse n'était donné dans la dépêche.
 
-Le Wall Street Journal soulève un enjeu à surveiller aux États-Unis : une révision statistique de la méthode de calcul de l'inflation est sur le point d'entrer en vigueur, et selon le Journal, cette révision devrait mécaniquement faire baisser les chiffres d'inflation publiés. Le Journal souligne que cette modification arrive à un moment critique, alors que la Réserve fédérale calibre ses décisions de taux directeur.
+Du côté des données économiques à surveiller aujourd'hui, La Presse note dans son sommaire matinal que l'indice des prix à la consommation au Canada sera publié ce lundi, en plus d'une journée chargée du côté du Royaume-Uni. Les chiffres de l'inflation canadienne seront particulièrement suivis dans le contexte des décisions à venir de la Banque du Canada.
 
-Du côté des marchés émergents, Bloomberg rapporte que les devises d'Amérique latine représentent actuellement les positions de portage les plus stables dans les marchés émergents, une tendance que Bloomberg attribue à la relative stabilité macroéconomique de la région.
-
-L'Economist publie ce matin un article sur le système de paiement numérique brésilien Pix, qui a attiré les critiques de Donald Trump. Selon l'Economist, les menaces tarifaires de Washington envers Pix ont eu l'effet contraire de celui escompté : elles ont renforcé l'attachement des Brésiliens à ce système et la popularité du président Lula.
-
-Enfin, une note sur le financement du captage de carbone dans les sables bitumineux. Le Devoir rapporte que le gouvernement fédéral est incapable de préciser le montant de son investissement dans ce projet de stockage de carbone des pétrolières albertaines, soulevant des questions de transparence sur ce dossier environnemental et financier.
+Enfin, selon le Financial Times, l'Union européenne fait face à une érosion du soutien en faveur de nouvelles sanctions contre la Russie. Plusieurs États membres hésiteraient à aller de l'avant avec de nouvelles mesures, ce qui complique la position diplomatique du bloc européen face à Moscou.
   </chapitre>
 
   <chapitre titre="Tech">
 Plusieurs nouvelles en tech ce matin.
 
-On commence par l'acquisition la plus importante de la semaine. TechCrunch rapporte que Netflix a payé 587 millions de dollars américains en argent comptant pour acquérir InterPositive, une startup co-fondée par l'acteur et réalisateur Ben Affleck. InterPositive est spécialisée dans la production cinématographique assistée par intelligence artificielle. C'est une transaction significative qui confirme l'appétit des grands studios et plateformes pour les outils d'IA appliqués à la création de contenu.
+On commence par l'intelligence artificielle et la compétition entre la Chine et les États-Unis. Selon The Verge, deux entreprises chinoises ont présenté de nouveaux modèles d'IA cette semaine. Moonshot AI a lancé son modèle Kimi K3 vendredi, et Alibaba a présenté son modèle Qwen. The Verge rapporte que Moonshot affirme, sur la base de ses propres tests, que Kimi K3 se classe au-dessus de presque tous les systèmes américains, à l'exception d'OpenAI. Alibaba fait des affirmations similaires pour Qwen. The Verge note que ces lancements successifs suggèrent que l'avance américaine à la frontière de l'IA se resserre, à un moment où cette technologie est devenue centrale pour la sécurité nationale et la puissance économique des États.
 
-Du côté d'OpenAI, TechCrunch soulève une question qui agite l'industrie : est-ce qu'une poursuite judiciaire d'Apple pourrait compromettre les projets d'OpenAI de se lancer dans le matériel informatique et de procéder à une introduction en Bourse ? Le débat reste ouvert, et TechCrunch note que les deux dossiers, la poursuite et l'entrée en Bourse, évoluent en parallèle.
+Côté acquisitions, TechCrunch rapporte que Netflix a payé 587 millions de dollars américains en argent comptant pour acquérir InterPositive, une startup cofondée par l'acteur et réalisateur Ben Affleck. La startup est active dans la production cinématographique assistée par intelligence artificielle. C'est une des acquisitions les plus importantes de Netflix depuis plusieurs années.
 
-TechCrunch publie également une analyse sur la réglementation des véhicules autonomes, décrivant une bataille en cours entre les entreprises du secteur et les autorités réglementaires américaines pour définir les règles d'exploitation des taxis robotisés. Les partisans d'une réglementation allégée font valoir que des règles trop strictes freinent l'innovation, tandis que les défenseurs d'un encadrement plus serré soulignent les enjeux de sécurité publique.
+En parallèle, TechCrunch rapporte qu'Apple aurait intenté une poursuite judiciaire qui pourrait compliquer les plans d'OpenAI dans le secteur du matériel informatique. OpenAI a laissé entendre son intention d'entrer dans le marché des appareils et d'éventuellement aller en Bourse. Les détails de la poursuite ne sont pas précisés dans la dépêche de TechCrunch.
 
-Du côté de Nvidia, TechCrunch rapporte que le PDG Jensen Huang a quitté Tokyo après une série de rencontres qui ont couvert l'ensemble de l'écosystème technologique japonais. TechCrunch indique que ces rencontres devraient se traduire par plusieurs partenariats et ententes dans les prochaines semaines.
+Du côté de l'Europe, The Verge rapporte qu'AliExpress a écopé d'une amende de 550 millions d'euros, soit environ 629 millions de dollars américains, de la part de la Commission européenne pour violation des règles de la Loi sur les services numériques, la DSA. La Commission reproche à AliExpress de ne pas avoir pris de mesures efficaces pour retirer des produits illégaux, contrefaits ou dangereux de sa plateforme, notamment des jouets non sécuritaires et des cosmétiques dangereux qui seraient restés en ligne pendant plusieurs semaines après leur détection. The Verge note que cette amende est plus du double de celle infligée récemment à Temu pour des infractions similaires.
 
-Enfin, une nouvelle spatiale. Ars Technica rapporte que l'Inde a réussi samedi le vol inaugural de la fusée Vikram-1, développée par la firme privée Skyroot Aerospace. C'est la première fusée entièrement commerciale de l'Inde. La fusée mesure environ 22 mètres de hauteur et peut placer jusqu'à 350 kilogrammes de charge utile en orbite basse. Le lancement depuis l'île de Sriharikota a été qualifié de grand succès par les responsables spatiaux indiens.
+Enfin, selon Ars Technica, l'Inde a réussi samedi le lancement orbital de sa première fusée développée par une entreprise privée. La fusée Vikram-1, développée par Skyroot Aerospace, a atteint une orbite à environ 450 kilomètres d'altitude depuis l'île de Sriharikota. Les autorités spatiales indiennes ont qualifié ce lancement de grand succès. C'est une étape notable pour l'industrie spatiale commerciale indienne, qui cherche à se positionner dans le marché des petits satellites.
 
-SpaceX, de son côté, a repoussé sa prochaine tentative de lancement de Starship à jeudi, selon Reuters.
-
-Un mot aussi sur une évolution préoccupante aux États-Unis signalée par The Verge : selon le New York Times, des agents fédéraux auraient reçu la directive que le FBI ne mènerait plus d'enquêtes sur des affrontements impliquant des agents de l'agence américaine d'immigration et de contrôle des frontières, connue sous l'acronyme ICE. Le département de la Sécurité intérieure et le département de la Justice ont démenti ce changement de politique auprès du Times. The Verge relie cette information à deux décès survenus lors d'interventions d'ICE au cours des deux dernières semaines, dont les manifestations à Houston que rapporte Al Jazeera ce matin.
+TechCrunch rapporte aussi que Jensen Huang, le PDG de Nvidia, a conclu plusieurs ententes lors d'une visite au Japon, couvrant l'ensemble de l'écosystème technologique japonais.
   </chapitre>
 
   <chapitre titre="Sport">
-Un tour rapide du côté du sport pour clore ce Presto.
+Un dernier mot sur le sport, même si l'essentiel a été couvert dans les deux derniers briefings.
 
-La grande nouvelle du week-end, c'est la finale de la Coupe du monde de soccer. L'Espagne a battu l'Argentine 1 à 0 en prolongation dimanche au MetLife Stadium, dans le New Jersey. C'est Ferran Torres, entré en cours de jeu, qui a inscrit le but décisif à la 106e minute, selon CBC World, l'Associated Press et Global News. C'est le deuxième titre mondial de l'Espagne. Pour l'Argentine et Lionel Messi, c'est une défaite qui met possiblement fin à sa carrière internationale.
+La Coupe du monde est terminée. L'Espagne a battu l'Argentine 1 à 0 en prolongation dimanche au MetLife Stadium, dans le New Jersey. C'est Ferran Torres, entré en cours de jeu, qui a inscrit le but décisif à la 106e minute. Selon l'Associated Press, c'est le deuxième titre mondial de l'Espagne, et la victoire prive Lionel Messi d'un deuxième titre consécutif, dans ce qui serait son dernier match en sélection nationale. Selon Al Jazeera, Madrid attend son équipe ce lundi pour un défilé devant ce qui devrait être un million de personnes.
 
-Trump était présent à la remise du trophée. L'Associated Press rapporte qu'il a présenté le trophée à l'Espagne et a qualifié le tournoi de victoire américaine, en référence à la co-organisation du Mondial par les États-Unis, le Canada et le Mexique. Al Jazeera rapporte également une scène où le président de la FIFA, Gianni Infantino, a tenté d'éloigner Trump au moment de la cérémonie.
+Une note triste s'est ajoutée aux célébrations. BBC World rapporte qu'un adolescent de 13 ans est mort lors des festivités en Espagne, après qu'une fontaine s'est partiellement effondrée à Ciudad Rodrigo, dans la ville de Salamanque. Deux autres jeunes ont été blessés.
 
-Enfin, une nouvelle tragique dans le football canadien. CBC et Sportsnet rapportent que Jayden Dalke, secondeur et capitaine des Roughriders de la Saskatchewan, a perdu la vie dans un accident de voiture samedi soir. L'équipe a annoncé son décès dans un communiqué dimanche. Il était une figure centrale de la franchise.
+Du côté du golf, selon Sportsnet, le Néo-Zélandais Ryan Fox a remporté The Open Championship dimanche, son premier titre majeur.
+
+Et enfin, Sportsnet rapporte le décès de Duane Ward, lanceur de relève des Blue Jays de Toronto au début des années 1990. Sa mort est survenue ce week-end, lors d'activités commémoratives liées à l'équipe, selon Sportsnet.
   </chapitre>
 
   <outro>Voilà pour ce Presto du lundi 20 juillet 2026. Si ce briefing vous est utile, le meilleur coup de main que vous pouvez nous donner, c'est de le partager à une personne qui aime rester informée. Et selon votre plateforme : un abonnement sur Spotify ou Apple Podcasts, un pouce bleu et un abonnement sur YouTube, ça prend deux secondes et ça aide vraiment Presto à grandir. Sur ce, bonne journée, et à demain.</outro>
