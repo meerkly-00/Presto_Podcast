@@ -1,13 +1,13 @@
 {
   "date": "2026-07-20",
   "kind": "poll",
-  "text": "Ce matin → 9e nuit de frappes aériennes américaines sur l'Iran.\n\nNouveau : Al Jazeera rapporte que les États-Unis ont ciblé des routes, ponts et centrales électriques iraniennes. L'Iran a riposté de la même manière.\n\nComment devrait-on gérer ce conflit?",
+  "text": "Ce matin → 9e nuit de frappes aériennes américaines sur l'Iran.\n\nNouveau : l'Iran affirme que des efforts diplomatiques sont en cours via des médiateurs, tandis qu'un porte-parole militaire assure que le conflit se poursuivra\n\nComment cette région devrait-elle être gérée?",
   "poll": {
     "options": [
-      "Poursuivre les frappes",
-      "Négocier un cessez-le-feu",
-      "Intervention",
-      "Retrait militaire"
+      "Priorité aux négociations",
+      "Maintien de la pression",
+      "Intervention de l'ONU",
+      "Isolement de la région"
     ],
     "duration_minutes": 1440
   }
