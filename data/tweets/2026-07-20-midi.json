@@ -1,0 +1,14 @@
+{
+  "date": "2026-07-20",
+  "kind": "poll",
+  "text": "Ce matin → 9e nuit de frappes aériennes américaines sur l'Iran.\n\nNouveau : Al Jazeera rapporte que les États-Unis ont ciblé des routes, ponts et centrales électriques iraniennes. L'Iran a riposté de la même manière.\n\nComment devrait-on gérer ce conflit?",
+  "poll": {
+    "options": [
+      "Poursuivre les frappes",
+      "Négocier un cessez-le-feu",
+      "Intervention",
+      "Retrait militaire"
+    ],
+    "duration_minutes": 1440
+  }
+}
