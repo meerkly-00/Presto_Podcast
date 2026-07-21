@@ -1,0 +1,14 @@
+{
+  "date": "2026-07-21",
+  "kind": "poll",
+  "text": "Ce matin → Washington impose 50 % de droits de douane sur 20 milliards en marchandises canadiennes.\n\nNouveau : Le PM Mark Carney s'entretiendra mardi avec les premiers ministres provinciaux par\n\nFace aux droits de douane américains, le Canada devrait-il prioritairement…?",
+  "poll": {
+    "options": [
+      "Négocier directement",
+      "Riposter avec ses",
+      "Consulter ses alliés",
+      "Accepter et adapter son"
+    ],
+    "duration_minutes": 1440
+  }
+}
