@@ -1,0 +1,83 @@
+```xml
+<script>
+ <intro>Bonjour, on est le mardi 21 juillet 2026. Voici votre Presto en environ 17 minutes. Au menu ce matin : une escalade majeure sur deux fronts simultanés, les nouveaux tarifs américains de 50 % sur les exportations canadiennes, la guerre entre les États-Unis et l'Iran qui entre dans sa dixième nuit consécutive de frappes, les marchés qui réagissent, et quelques nouvelles en tech. On commence.</intro>
+
+ <chapitre titre="Politique canadienne et commerce">
+Washington vient d'imposer de nouveaux droits de douane de 50 % sur une vaste gamme de produits canadiens. Reuters, le Financial Times, CBC et Radio-Canada le confirment tous : les États-Unis ont annoncé ces tarifs lundi soir, ciblant environ 20 milliards de dollars américains en exportations canadiennes. BBC World précise que ces nouvelles mesures marquent ce que la chaîne décrit comme une escalade importante dans les tensions commerciales entre les deux voisins.
+
+Washington justifie ces nouveaux tarifs en affirmant être victime des mesures de représailles que le Canada avait adoptées en réponse aux droits de douane américains précédents. En d'autres termes, c'est une escalade en réponse à une contre-mesure. Le premier ministre Mark Carney a indiqué qu'Ottawa allait intensifier les négociations commerciales. Il n'a pas encore précisé les modalités de la réponse canadienne.
+
+Côté provincial, la première ministre de l'Alberta, Danielle Smith, s'adressait hier à une assemblée de gens d'affaires et d'élus canadiens et américains. Selon Radio-Canada, elle a plaidé en faveur du libre-échange entre les deux pays, une position qui tranche avec celle d'Ottawa sur les représailles tarifaires. L'Alberta, dont l'économie dépend largement de ses exportations pétrolières vers les États-Unis, a un intérêt direct à éviter une guerre commerciale prolongée.
+
+Pendant ce temps, la ministre des Affaires étrangères, Anita Anand, poursuit une tournée diplomatique active. Selon Radio-Canada, Mme Anand était hier à Islamabad pour rencontrer son homologue pakistanais. C'est la première visite d'un ministre canadien des Affaires étrangères au Pakistan depuis 19 ans. La ministre a récemment été au Brésil, en Roumanie et au Panama, et prévoit se rendre au Bénin et en Côte d'Ivoire. Radio-Canada rapporte qu'Ottawa adopte une nouvelle approche en politique étrangère axée sur le commerce et le développement économique, en privilégiant les rencontres en face-à-face et la signature d'accords commerciaux. Mme Anand a déclaré, je la cite : "C'est une diplomatie que le Canada n'a pas pratiquée récemment." Fin de citation.
+
+Du côté des feux de forêt, Reuters signale que les incendies en Ontario continuent de prendre de l'ampleur et que la fumée s'étend dans certaines régions des États-Unis. En Colombie-Britannique, selon La Presse, la ville de Kimberley, qui compte plus de 8 000 habitants près de la frontière albertaine, a été placée en alerte d'évacuation en raison d'un incendie hors de contrôle. Le maire a indiqué que la situation dépend de la direction des vents.
+
+Toujours sur le plan syndical, BNN Bloomberg rapporte que les travailleurs d'Unifor ont ratifié une nouvelle convention collective avec Ford.
+ </chapitre>
+
+ <chapitre titre="International">
+Le conflit entre les États-Unis et l'Iran entre dans une nouvelle phase ce matin, et il s'élargit. Reuters confirme que l'armée américaine a complété une dixième nuit consécutive de frappes sur l'Iran. BBC World et le National Post rapportent que le président Donald Trump a averti que Téhéran allait payer, selon ses mots, "many times over", à la suite du décès de trois soldats américains. Trump a par ailleurs indiqué que des médiateurs cherchent à négocier une trêve, même si les frappes se poursuivent.
+
+L'Iran, de son côté, est passé à l'acte sur un nouveau front. CBC World rapporte qu'un tanker a été attaqué dans le détroit d'Ormuz tôt mardi matin, forçant son équipage à abandonner le navire. BBC World ajoute que l'Iran dit avoir visé deux navires dans le détroit d'Ormuz, ainsi que des cibles au Bahreïn et en Jordanie. C'est une expansion notable du théâtre de conflit.
+
+Dans la même région, l'Associated Press rapporte que les Houthis du Yémen, soutenus par l'Iran, ont annoncé un embargo maritime sur l'Arabie saoudite, bloquant les navires saoudiens à l'entrée de la mer Rouge. BBC World confirme que cet embargo est entré en vigueur immédiatement, en représailles à ce que les Houthis décrivent comme un blocus saoudien de leurs ports et aéroports.
+
+Ce conflit a aussi une dimension juridique inattendue aux États-Unis. CBC World rapporte qu'une poursuite judiciaire allègue que l'administration Trump, même en menant une guerre contre l'Iran, collaborait simultanément avec le régime iranien pour accélérer les déportations de demandeurs d'asile iraniens, incluant des dissidents.
+
+Sur le plan pétrolier, le Financial Times signale que les prix du pétrole ont touché 90 dollars américains le baril après l'attaque sur les tankers. Le prix de l'essence aux États-Unis a dépassé en moyenne quatre dollars le gallon, selon BNN Bloomberg et le Financial Times. Toutefois, Reuters publie une analyse intéressante sur le fait que les prix du pétrole n'ont pas encore connu de dérapage extrême malgré cinq mois de conflit, en raison de plusieurs facteurs d'offre qui compensent partiellement.
+
+Ailleurs dans le monde, au Liban, Radio-Canada rapporte que le président libanais Joseph Aoun rencontre Donald Trump aujourd'hui à Washington. C'est la première visite d'un président libanais à la Maison-Blanche depuis 2009. L'Economist précise que le Liban espère obtenir l'aide américaine pour sa reconstruction et pour désarmer le Hezbollah, deux dossiers liés. Trump a répondu à cette visite en déclarant par ailleurs, selon le National Post, que le premier ministre israélien Benjamin Netanyahu ne sera pas arrêté aux États-Unis, en réponse à une déclaration du maire de New York, Zohran Mamdani, qui avait évoqué cette possibilité.
+
+Du côté de Gaza, Al Jazeera rapporte que Khalil al-Hayya a été élu nouveau chef du Hamas. Les réactions parmi la population de Gaza sont, selon Al Jazeera, partagées. Certains Palestiniens interrogés disent simplement vouloir vivre en paix.
+
+En Russie, l'Associated Press rapporte que le président Vladimir Poutine a rencontré le ministre des Affaires étrangères de la Corée du Nord, dans ce que l'agence décrit comme un échange diplomatique de haut niveau entre Moscou et Pyongyang. L'intensification de ces liens entre les deux pays est suivie de près par les chancelleries occidentales.
+
+Au Royaume-Uni, Andy Burnham est officiellement devenu premier ministre lundi, après la démission de Keir Starmer. Selon l'Associated Press, Burnham est le septième premier ministre britannique en une décennie. L'Economist, pour sa part, note que Burnham promet beaucoup mais révèle peu pour l'instant sur ses intentions concrètes.
+
+En Inde, l'Associated Press signale que la police a utilisé du gaz lacrymogène pour disperser des partisans du mouvement dit "Cockroach", qui tentaient de marcher sur le Parlement à New Delhi. Ce mouvement de protestation continue de prendre de l'ampleur dans le pays.
+
+Enfin, au Mexique, le National Post rapporte qu'Ismael "El Mayo" Zambada, co-fondateur du cartel de Sinaloa, a été condamné lundi à la prison à perpétuité par un tribunal américain.
+ </chapitre>
+
+ <chapitre titre="Économie et marchés">
+Les marchés ont été agités lundi par les tensions géopolitiques, mais certains secteurs ont résisté. Le Wall Street Journal rapporte que les actions dans le secteur des semi-conducteurs ont regagné du terrain lundi, ce qui a soutenu le Nasdaq. Les tensions autour du conflit américano-iranien et les nouveaux tarifs sur le Canada ont pesé sur le sentiment général, mais pas uniformément.
+
+Du côté du pétrole, le Financial Times signale que le baril a touché 90 dollars américains, porté par l'attaque iranienne sur des tankers dans le détroit d'Ormuz. Les prix de l'essence aux États-Unis ont franchi à nouveau la barre des quatre dollars le gallon en moyenne, selon BNN Bloomberg, ce qui commence à exercer une pression politique sur l'administration Trump à l'approche des élections de mi-mandat de novembre.
+
+Bloomberg signale par ailleurs que les fonds du marché monétaire maintiennent leurs liquidités à court terme dans un contexte où la Réserve fédérale américaine, la Fed, laisse les marchés dans l'incertitude quant à la direction des taux. Les investisseurs évitent de s'engager trop loin sur la courbe des taux.
+
+Sur le plan de la fusion et acquisition dans les médias, un juge fédéral a bloqué temporairement la fusion de 111 milliards de dollars américains entre Paramount Skydance et Warner Bros. Discovery. Selon Ars Technica, un groupe de 12 États américains, menés par la Californie, avait poursuivi les deux entreprises pour empêcher cette transaction qui avait pourtant reçu l'approbation de l'administration Trump. Le juge a émis une ordonnance de restriction temporaire valable 14 jours, qui pourrait être convertie en injonction préliminaire si le tribunal décide d'aller plus loin. Les États plaident que la fusion éliminerait la concurrence en combinant deux des cinq grands studios hollywoodiens et deux des cinq grands propriétaires de chaînes câblées de base.
+
+Un autre dossier économique à noter : Reuters Business indique qu'une plateforme de lancement américaine et militaire, le programme National Security Space Launch, a vu son enveloppe maximale augmenter à 30 milliards de dollars américains, après avoir déjà été portée à 17 milliards vendredi. C'est le Space Force qui gère ce programme de lancement de satellites militaires.
+
+Enfin, selon Reuters Business, Chevron a interrompu l'exploitation d'une plateforme dans le golfe du Mexique en prévision d'une tempête tropicale en développement.
+ </chapitre>
+
+ <chapitre titre="Tech">
+Le dossier qui retient le plus l'attention en tech ce matin, c'est la décision judiciaire concernant Anthropic et le droit d'auteur. TechCrunch rapporte qu'un règlement de 1,5 milliard de dollars américains entre Anthropic et des ayants droit a reçu son approbation finale d'un tribunal. C'est un règlement historique en termes de montant dans le domaine de l'IA et du droit d'auteur, mais TechCrunch précise que cette décision ne règle pas la question de fond : peut-on utiliser des oeuvres protégées pour entraîner des modèles d'intelligence artificielle ? Ce débat continuera devant d'autres tribunaux.
+
+Dans la même veine, The Verge rapporte que Sony Music Entertainment a déposé une nouvelle poursuite contre Udio, un générateur de musique par intelligence artificielle, alléguant la violation du droit d'auteur de plus de 30 000 chansons. La liste va d'Elvis Presley à Beyoncé en passant par Harry Styles. Sony précise dans sa plainte que cette liste ne représente qu'une petite partie des oeuvres potentiellement touchées.
+
+Côté gouvernance de l'IA aux États-Unis, TechCrunch rapporte que le dernier responsable nommé par l'administration Trump à la direction du Centre pour les standards et l'innovation en IA, le CAISI, a déjà démissionné. TechCrunch note que ce poste est devenu une porte tournante depuis le départ de David Sacks comme conseiller en IA de la Maison-Blanche.
+
+Du côté des puces électroniques, TechCrunch signale qu'Alphabet, la maison mère de Google, travaillerait sur une nouvelle puce conçue pour rendre ses modèles Gemini plus efficaces. Aucun calendrier de lancement n'a été annoncé.
+
+Sur la question des drones chinois aux États-Unis, The Verge rapporte que la Commission fédérale des communications américaine, la FCC, prépare l'interdiction rétroactive de gadgets soupçonnés d'être des produits DJI vendus par des entreprises écrans. La FCC avait déjà proposé une amende de 25 000 dollars américains pour huit de ces entreprises. Elle passe maintenant à une interdiction pure, en invoquant le fait que des compagnies auraient contourné l'interdiction fédérale visant les drones de fabrication chinoise.
+
+En California, Ars Technica rapporte que des tests de drones pompiers ont été menés cet été, notamment par le département de foresterie et de protection contre les incendies de la Californie, le CAL FIRE. Lors d'un test le 15 juillet, cinq drones autonomes ont déployé collectivement entre 500 et 1 000 gallons de mousse pour étouffer des feux. Ces appareils sont nettement plus petits que les avions-citernes traditionnels, mais les agences voient en eux un outil de réponse rapide pour les incendies naissants.
+
+Enfin, TechCrunch rapporte que Colossal Biosciences, la startup spécialisée dans la désextinction d'espèces, serait en discussions pour lever de nouveaux capitaux à une valorisation de 20 à 30 milliards de dollars américains, soit le double ou le triple de sa valorisation précédente. Aucune transaction n'a été confirmée.
+ </chapitre>
+
+ <chapitre titre="Sport">
+Un mot rapide sur le sport. La Coupe du monde est terminée et couverte en détail dans les derniers briefings. Ce matin, deux nouvelles en marge. D'abord, Reuters rapporte que la FIFA a ouvert une enquête sur une bagarre survenue après le match final entre l'Argentine et l'Espagne. Al Jazeera, pour sa part, a recueilli les propos de Lionel Messi, qui a remercié les partisans argentins mais a indiqué que la blessure de cette défaite, je le cite, "will take time to heal." Fin de citation. La finale aurait pu être son dernier match en Coupe du monde, selon des rumeurs rapportées par Al Jazeera, sans confirmation officielle de sa part.
+
+Du côté du baseball, Sportsnet rapporte que les Blue Jays de Toronto ont atteint la marque des 100 matchs joués dans une position difficile. L'équipe souffre d'une offensive défaillante qui lui a valu des huées à domicile, et la date limite des transactions approche. Sportsnet analyse que les Jays pourraient devoir agir depuis une position intermédiaire, ni acheteurs agressifs ni vendeurs francs.
+
+Enfin, CBC rapporte que le joueur de ligne défensive des Roughriders de la Saskatchewan, Jayden Dalke, conduisait à contresens sur une autoroute divisée, avec de l'alcool et du cannabis dans son véhicule, lors de l'accident fatal qui l'a tué lui et un autre homme. C'est la GRC qui a rendu ces informations publiques.
+ </chapitre>
+
+ <outro>Voilà pour ce Presto du mardi 21 juillet 2026. Si ce briefing vous est utile, le meilleur coup de main que vous pouvez nous donner, c'est de le partager à une personne qui aime rester informée. Et selon votre plateforme : un abonnement sur Spotify ou Apple Podcasts, un pouce bleu et un abonnement sur YouTube, ça prend deux secondes et ça aide vraiment Presto à grandir. Sur ce, bonne journée, et à demain.</outro>
+</script>
+```
