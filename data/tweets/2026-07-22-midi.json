@@ -1,0 +1,14 @@
+{
+  "date": "2026-07-22",
+  "kind": "poll",
+  "text": "Ce matin → 11e nuit de frappes US sur l'Iran, coût estimé à 37,5 G$ USD.\n\nNouveau : l'Iran a lancé des missiles sur la Jordanie près de la frontière israélienne. Les alertes se multiplient au Moyen-Orient.\n\nComment évalues-tu la trajectoire du conflit Iran-États-Unis?",
+  "poll": {
+    "options": [
+      "Vers une désescalade",
+      "Vers une escalade majeure",
+      "Risque d'implication",
+      "Incertain"
+    ],
+    "duration_minutes": 1440
+  }
+}
