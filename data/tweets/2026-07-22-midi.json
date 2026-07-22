@@ -1,13 +1,13 @@
 {
   "date": "2026-07-22",
   "kind": "poll",
-  "text": "Ce matin → 11e nuit de frappes US sur l'Iran, coût estimé à 37,5 G$ USD.\n\nNouveau : l'Iran a lancé des missiles sur la Jordanie près de la frontière israélienne. Les alertes se multiplient au Moyen-Orient.\n\nComment évalues-tu la trajectoire du conflit Iran-États-Unis?",
+  "text": "Ce matin → 11e nuit de frappes américaines sur l'Iran.\n\nNOUVEAU : Le secrétaire à la Défense demande 70 milliards $ supplémentaires pour poursuivre les opérations.\n\nSelon toi, le coût financier d'une escalade militaire devrait-il limiter les interventions?",
   "poll": {
     "options": [
-      "Vers une désescalade",
-      "Vers une escalade majeure",
-      "Risque d'implication",
-      "Incertain"
+      "Oui, les dépenses",
+      "Non, la sécurité n'a pas",
+      "Ça dépend de la menace",
+      "Autres considérations"
     ],
     "duration_minutes": 1440
   }
