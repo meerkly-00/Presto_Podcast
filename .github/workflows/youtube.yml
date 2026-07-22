@@ -1,9 +1,13 @@
 name: Presto — YouTube upload
 
+# Feed auto YouTube désactivé : compte YouTube suspendu, l'upload échoue de toute
+# façon. On garde uniquement le déclenchement manuel (workflow_dispatch) pour
+# pouvoir relancer l'upload si le compte est réactivé.
+# Pour réactiver le feed auto, remettre le bloc workflow_run ci-dessous :
+#   workflow_run:
+#     workflows: ["Presto — briefing matinal"]
+#     types: [completed]
 on:
-  workflow_run:
-    workflows: ["Presto — briefing matinal"]
-    types: [completed]
   workflow_dispatch:
 
 permissions:
@@ -14,9 +18,6 @@ jobs:
   youtube:
     runs-on: ubuntu-latest
     timeout-minutes: 60
-    if: >
-      github.event_name == 'workflow_dispatch' ||
-      github.event.workflow_run.conclusion == 'success'
 
     steps:
       - uses: actions/checkout@v4
