@@ -23,6 +23,17 @@
       <link>https://www.prestopodcast.online</link>
     </image>
     <item>
+      <title>Presto — édition du 22 juillet 2026</title>
+      <description>Au menu : International : conflit États-Unis et Iran, International : Ukraine et autres dossiers, Politique canadienne et commerce, Économie et marchés, Tech, Sport</description>
+      <pubDate>Wed, 22 Jul 2026 08:01:00 +0000</pubDate>
+      <guid isPermaLink="false">https://github.com/meerkly-00/Presto_Podcast/releases/download/2026-07-22/2026-07-22.mp3</guid>
+      <enclosure url="https://github.com/meerkly-00/Presto_Podcast/releases/download/2026-07-22/2026-07-22.mp3" type="audio/mpeg" length="8843096"/>
+      <itunes:duration>796</itunes:duration>
+      <itunes:summary>Au menu : International : conflit États-Unis et Iran, International : Ukraine et autres dossiers, Politique canadienne et commerce, Économie et marchés, Tech, Sport</itunes:summary>
+      <itunes:episode>60</itunes:episode>
+      <itunes:image href="https://www.prestopodcast.online/artwork-v2.jpg"/>
+    </item>
+    <item>
       <title>Presto — édition du 21 juillet 2026</title>
       <description>Au menu : Politique canadienne et commerce, International, Économie et marchés, Tech, Sport</description>
       <pubDate>Tue, 21 Jul 2026 08:00:59 +0000</pubDate>
