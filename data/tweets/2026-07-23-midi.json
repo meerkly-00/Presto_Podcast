@@ -1,13 +1,13 @@
 {
   "date": "2026-07-23",
   "kind": "poll",
-  "text": "Ce matin → le brut à +5 ans. Nouveauté : le prix du pétrole Brent a dépassé 100 $ le baril jeudi pour la 1ère fois depuis mai, au cœur de l'escalade au Moyen-Orient.\n\nComment devraient réagir les gouvernements à la hausse du pétrole?",
+  "text": "Ce matin → Le brut progressait pour une 5e jour.\n\nComment devraient réagir les gouvernements face à la volatilité des prix du pétrole?",
   "poll": {
     "options": [
-      "Intervenir sur les",
-      "Laisser le marché",
-      "Appuyer la diplomatie",
-      "Diversifier les sources"
+      "Augmenter les stocks",
+      "Investir dans les",
+      "Négocier la",
+      "Laisser jouer le marché"
     ],
     "duration_minutes": 1440
   }
