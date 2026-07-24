@@ -1,0 +1,83 @@
+```xml
+<script>
+  <intro>Bonjour, on est le vendredi 24 juillet 2026. Voici votre Presto en environ 17 minutes. Au menu ce matin : le conflit Iran et États-Unis franchit un nouveau cap, avec des frappes meurtrières et une menace sur les avoirs gelés iraniens. Washington impose en parallèle une nouvelle vague de droits de douane sur des dizaines de pays, et le Canada envisage des représailles. Sur les marchés, le pétrole Brent franchit les 100 dollars américains le baril pour la première fois depuis mai. En tech, AMD défie Nvidia avec un nouveau système d'intelligence artificielle, et un projet de loi américain veut donner au gouvernement le pouvoir d'éteindre des systèmes d'IA jugés dangereux. Et du côté sport, les Blue Jays mettent fin à leur séquence de quatre défaites.</intro>
+
+  <chapitre titre="International">
+Le conflit entre les États-Unis et l'Iran se poursuit et se complexifie. Radio-Canada rapporte que les autorités iraniennes ont fait état de quatre morts à la suite de frappes américaines dans la nuit de jeudi à vendredi, dans le sud-ouest du pays, dans les environs de la ville d'Ahvaz. Selon l'agence de presse gouvernementale iranienne Irna, citée par Radio-Canada, un responsable provincial, Valiollah Hayati, a déclaré que quatre personnes avaient été tuées et cinq autres blessées. L'armée américaine avait auparavant annoncé avoir complété sa treizième nuit consécutive de bombardements contre des cibles militaires iraniennes. Des médias d'État iraniens avaient aussi signalé des explosions dans le sud du pays et sur l'île de Qeshm, près du détroit d'Ormuz.
+
+En parallèle, CBC World rapporte que Donald Trump a promis jeudi une punition militaire majeure à l'Iran et à ses alliés houthis au Yémen, après que des combattants houthis ont frappé deux pétroliers saoudiens en mer Rouge. Cette extension du conflit vers un deuxième point de passage maritime stratégique a eu des répercussions immédiates sur les marchés énergétiques mondiaux, dont on parlera dans le chapitre économie.
+
+Trump a aussi annoncé que les fonds iraniens gelés aux États-Unis serviraient à rembourser les dommages causés aux navires dans le Golfe. Al Jazeera rapporte que le ministre iranien des Affaires étrangères, Abbas Araghchi, a qualifié cette menace d'incendiaire. L'Associated Press, de son côté, rapporte que Reuters confirme : Trump a déclaré que ces dommages seraient payés par de l'argent iranien que les États-Unis ont, je le cite, "in its possession, and controls." Fin de citation.
+
+Par ailleurs, Radio-Canada rapporte qu'une attaque de drones ukrainiens a provoqué un incendie dans un entrepôt à Saint-Pétersbourg, et que 571 drones ukrainiens ont été abattus dans la nuit selon le ministère russe de la Défense. Al Jazeera publie une analyse sur le nouveau commandant en chef des forces armées ukrainiennes, Mykhailo Drapatyi, qui avait été nommé en remplacement du général Syrskyi, comme on en avait parlé dans les derniers briefings.
+
+Sur la question de la paix en Ukraine, l'Associated Press rapporte que le secrétaire d'État américain Marco Rubio a déclaré que les États-Unis étaient prêts à aider à mettre fin à ce qu'il a décrit comme une guerre insensée, mais qu'aucun règlement rapide n'était à prévoir.
+
+Un autre développement géopolitique à suivre : le deal nucléaire entre les États-Unis et l'Arabie saoudite, signé mercredi selon nos briefings précédents, est déjà remis en question. Le National Post et BBC World rapportent tous les deux que Donald Trump a affirmé jeudi que cet accord de coopération nucléaire était conditionnel à la normalisation des relations entre l'Arabie saoudite et Israël, c'est-à-dire à l'adhésion de Riyad aux Accords d'Abraham. Cette sortie complique significativement l'entente, signée à peine 24 heures plus tôt.
+
+Enfin, en Europe, Radio-Canada rapporte que les incendies de forêt continuent de sévir. La France a sollicité l'aide de l'Union européenne pour lutter contre les feux, et l'Espagne a décrété l'état d'urgence dans certaines régions. Radio-Canada précise que 2026 est actuellement au deuxième rang des surfaces brûlées dans l'Union européenne depuis deux décennies de mesures.
+  </chapitre>
+
+  <chapitre titre="Politique canadienne et commerce">
+Le dossier commercial entre le Canada et les États-Unis s'est considérablement compliqué en 24 heures. Reuters, CBC et l'Associated Press rapportent tous que l'administration Trump a imposé une nouvelle vague de droits de douane sur une soixantaine de partenaires commerciaux. Ces nouveaux tarifs, fondés cette fois sur des préoccupations liées au travail forcé, remplacent les droits de douane universels de 10 % qui expiraient vendredi, après que la Cour suprême américaine les avait invalidés en février dernier.
+
+Radio-Canada rapporte que ces nouvelles mesures visent des dizaines de partenaires commerciaux, avec des taux à deux chiffres selon l'Associated Press. Le représentant au Commerce américain Jamieson Greer est cité dans le même contexte par Radio-Canada.
+
+Le premier ministre canadien Mark Carney a réagi. Selon Reuters, il a dit que le Canada allait envisager des représailles contre ces derniers tarifs américains. La publication The Hub fait valoir, dans une analyse publiée hier, que le chiffre le plus pertinent pour le Canada dans cette nouvelle structure tarifaire n'est pas 50 %, mais bien 2,5 %, en référence au taux effectif qui s'appliquerait aux exportations canadiennes selon la structure annoncée. La distinction est importante : plusieurs articles de presse ont mis en avant le chiffre de 50 % en titre, mais The Hub soutient que cette présentation ne reflète pas la réalité de l'impact sur les exportations canadiennes.
+
+La position du gouvernement canadien reste donc à suivre. Le Canada a déjà riposté aux précédentes vagues de tarifs américains. Si de nouvelles mesures de représailles sont annoncées, Presto y reviendra.
+
+Du côté des incendies de forêt en Colombie-Britannique, un dossier qui touche aussi le Canada. La Presse rapporte que les structures d'une vingtaine de propriétés ont été affectées par un incendie qui fait rage au nord-ouest de Clinton, certaines d'entre elles ayant été détruites selon un responsable régional.
+  </chapitre>
+
+  <chapitre titre="Économie et marchés">
+La grande nouvelle des marchés hier : le pétrole Brent a franchi le seuil des 100 dollars américains le baril pour la première fois depuis mai. BBC World rapporte que le prix du Brent a progressé de plus de 6 % en une seule journée, en lien direct avec l'escalade du conflit au Moyen-Orient et les menaces sur les voies maritimes stratégiques.
+
+Reuters décrit ce que cela coûte concrètement aux pétroliers qui doivent contourner le détroit d'Hormuz et le passage Bab el-Mandeb : environ un mois supplémentaire en mer et 2,5 millions de dollars américains de plus par trajet. Ce surcoût logistique contribue à faire pression sur les prix.
+
+La hausse du pétrole a pesé sur Wall Street. Selon Reuters Business, le Wall Street Journal et l'Associated Press, les marchés américains ont reculé jeudi. Les baisses dans le secteur technologique ont aussi joué un rôle. Bloomberg rapporte par ailleurs que les obligations de sociétés technologiques ont subi des pressions, liées à des craintes sur les dépenses en intelligence artificielle.
+
+Du côté des résultats trimestriels, Intel a publié des chiffres qui ont dépassé les attentes, selon Reuters Business, notamment grâce à la demande de puces liée à l'expansion de l'IA. Les actions d'Intel ont progressé en réaction.
+
+En Asie, Bloomberg rapporte que les marchés étaient orientés à la baisse en matinée, en lien avec la hausse du pétrole. Bloomberg signale aussi que la Banque populaire de Chine, la banque centrale chinoise, a injecté le plus de liquidités dans l'économie depuis cinq mois, dans le but de soutenir la croissance.
+
+Sur les taux d'intérêt américains, le Wall Street Journal rapporte que la Réserve fédérale se dirige vers l'une de ses réunions les plus imprévisibles en plusieurs années. La publication ne donne pas de détails supplémentaires sur le résultat attendu, mais le contexte de hausse du pétrole et de tensions géopolitiques ajoute une variable supplémentaire aux délibérations de la Fed.
+
+Enfin, Bloomberg rapporte que les marchés obligataires mondiaux ont connu des ventes, entraînées par la hausse des prix du pétrole. Le Financial Times confirme cette dynamique en titrant sur la hausse du pétrole comme moteur d'une vente d'obligations à l'échelle mondiale.
+  </chapitre>
+
+  <chapitre titre="Tech">
+Plusieurs développements structurants en tech ce matin.
+
+D'abord, AMD défie directement Nvidia avec un nouveau système appelé Helios. TechCrunch rapporte que cette plateforme à l'échelle d'un rack complet, conçue pour les applications d'intelligence artificielle, commencera à être expédiée aux clients plus tard cette année. Le marché des puces pour l'IA est au coeur d'une vive compétition, et ce lancement s'inscrit dans un contexte où Intel vient aussi de publier des résultats solides grâce à la demande dans ce segment.
+
+Du côté de la réglementation de l'IA aux États-Unis, Ars Technica rapporte qu'un projet de loi appelé AI Kill Switch Act a été déposé au Congrès. Ce texte donnerait au secrétaire à la Sécurité intérieure le pouvoir d'ordonner la suspension ou la fermeture complète de systèmes d'IA jugés capables de causer des dommages majeurs. Les entreprises qui refuseraient de se conformer pourraient faire face à des amendes allant jusqu'à 20 millions de dollars américains par jour de violation. Le projet de loi exigerait aussi que les développeurs d'IA intègrent des capacités techniques permettant de réduire ou d'interrompre leurs systèmes sur ordre du gouvernement. Des partisans du texte y voient un filet de sécurité nécessaire face à des systèmes de plus en plus puissants. Des opposants pourraient faire valoir que ce pouvoir centralisé risque d'être utilisé à des fins politiques plutôt que pour des raisons de sécurité réelles.
+
+TechCrunch publie aussi une enquête sur les chercheurs en cybersécurité offensive, ceux qui cherchent des vulnérabilités et développent des outils d'exploitation. Selon des chercheurs interrogés par TechCrunch, les garde-fous imposés par OpenAI et Anthropic à leurs modèles d'IA nuisent à leur travail, en bloquant des requêtes légitimes dans le cadre de recherches de sécurité autorisées.
+
+Du côté des assistants vocaux, Anthropic étend son mode vocal à ses modèles Claude Opus et Sonnet, jusqu'ici disponible uniquement sur Haiku, le modèle plus léger de la compagnie. The Verge rapporte que le mode vocal est maintenant intégré à des applications comme Gmail, Slack et Canva. Anthropic explique que les utilisateurs utilisaient le mode vocal pour traiter des problèmes d'affaires complexes, ce que le modèle Haiku n'était pas conçu pour faire.
+
+Amazon, de son côté, lance une mise à jour pour son assistant Alexa Plus, selon The Verge. Cette mise à jour lui permet de se connecter à des appareils domestiques intelligents de marques comme Bosch, iRobot et Whirlpool, et d'interpréter des instructions complexes pour choisir automatiquement les bons réglages. L'exemple donné par Amazon : demander à Alexa de laver un maillot de soccer avec un cycle approprié, même si l'étiquette recommande un lavage à froid seulement.
+
+Enfin, Ars Technica rapporte que Google propose maintenant une nouvelle façon de récupérer l'accès à un compte oublié : la reconnexion par vidéo selfie. L'utilisateur doit d'abord enregistrer une vidéo de son visage que Google conserve sur ses serveurs. La fonctionnalité ne s'applique pas aux comptes Workspace, aux comptes d'enfants ni aux comptes inscrits au programme de protection avancée de Google.
+
+Un dernier développement du côté des fabricants de moniteurs : Ars Technica rapporte que des moniteurs LG installaient discrètement sur les ordinateurs connectés une application qui diffusait des publicités pour McAfee via des fenêtres surgissantes. L'application, appelée LG Monitor App Installer, se déployait lors de mises à jour de pilotes via Windows Update. Microsoft a réagi à la controverse, et LG aurait commencé à retirer l'application en question, selon Ars Technica.
+  </chapitre>
+
+  <chapitre titre="Actualité québécoise">
+Deux nouvelles du Québec ce matin.
+
+D'abord, un plaidoyer de culpabilité dans une affaire de trafic de personnes liée à une tragédie survenue dans le fleuve Saint-Laurent. La Presse rapporte que Stephanie Square, une femme extradée du Canada vers les États-Unis, a plaidé coupable aux États-Unis dans une affaire de trafic d'êtres humains. Neuf personnes avaient péri noyées dans le fleuve alors qu'elles tentaient de traverser la frontière.
+
+Deuxième nouvelle : une baisse du crime au Québec, mais avec une exception du côté des jeunes. La Presse rapporte que selon un rapport sur le taux de criminalité, l'indice de gravité de la criminalité au Québec est parmi les plus bas du Canada, notamment grâce à un système communautaire que des experts décrivent comme mieux structuré qu'ailleurs. Toutefois, les jeunes Québécois figurent parmi les plus criminalisés au pays. Des experts cités par La Presse attribuent cette tendance à la pandémie et à l'influence des réseaux sociaux.
+  </chapitre>
+
+  <chapitre titre="Sport">
+Un mot sur les Blue Jays de Toronto pour terminer ce tour de l'actualité. Après une séquence difficile que Presto suivait depuis plusieurs jours, l'équipe a mis fin à quatre défaites consécutives. Sportsnet rapporte que les Blue Jays ont battu les Rays de Tampa Bay 3 à 1, portés par sept solides manches du lanceur Shane Bieber. Cette victoire permet à Toronto d'éviter un balayage en quatre matchs contre les Rays, premiers dans la division Est de la Ligue américaine. George Springer a déclaré après le match que l'équipe devait continuer à se battre.
+
+Par ailleurs, Sportsnet rapporte que la situation de LeBron James en agent libre continue d'alimenter les conversations dans la NBA. Près d'un mois après l'ouverture du marché des agents libres, James n'a toujours pas signé avec une équipe.
+  </chapitre>
+
+  <outro>Voilà pour ce Presto du vendredi 24 juillet 2026. Si ce briefing vous est utile, le meilleur coup de main que vous pouvez nous donner, c'est de le partager à une personne qui aime rester informée. Et selon votre plateforme : un abonnement sur Spotify ou Apple Podcasts, un pouce bleu et un abonnement sur YouTube, ça prend deux secondes et ça aide vraiment Presto à grandir. Sur ce, bonne journée, et à demain.</outro>
+</script>
+```
