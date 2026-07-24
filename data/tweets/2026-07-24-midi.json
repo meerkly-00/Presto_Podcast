@@ -1,0 +1,14 @@
+{
+  "date": "2026-07-24",
+  "kind": "poll",
+  "text": "Ce matin → Trump annonce 50 % de droits sur les biens canadiens.\n\nAujourd'hui → Le Canada inaugure le pont Gordie-Howe sans dignitaires américains, en réaction aux menaces tarifaires.\n\nComment le Canada devrait-il réagir aux tarifs annoncés?",
+  "poll": {
+    "options": [
+      "Négocier une entente",
+      "Imposer des tarifs en",
+      "Saisir les organismes",
+      "Chercher d'autres"
+    ],
+    "duration_minutes": 1440
+  }
+}
