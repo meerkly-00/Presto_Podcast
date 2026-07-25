@@ -1,13 +1,13 @@
 {
   "date": "2026-07-25",
   "kind": "poll",
-  "text": "Ce matin → Plus de 220 000 personnes évacuées en France et Espagne.\n\nNOUVEAU : Le bilan grimpe à plus de 250 000 personnes ayant fui les incendies de forêt.\n\nFace aux évacuations massives, les gouvernements doivent-ils prioriser:",
+  "text": "Ce matin → Trump prépare une opération militaire contre l'Iran.\n\nNouveau : l'Iran a attaqué un navire ukrainien en mer Caspienne, tuant un marin, selon Téhéran.\n\nComment les tensions entre les États-Unis et l'Iran devraient-elles être gérées?",
   "poll": {
     "options": [
-      "La protection des zones",
-      "La prévention à long",
-      "L'aide aux sinistrés",
-      "L'évacuation préventive"
+      "Par la diplomatie et les",
+      "Par des mesures",
+      "Par des sanctions",
+      "Par une combinaison de"
     ],
     "duration_minutes": 1440
   }
