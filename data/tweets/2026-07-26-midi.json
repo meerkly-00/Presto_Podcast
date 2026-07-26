@@ -1,13 +1,13 @@
 {
   "date": "2026-07-26",
   "kind": "poll",
-  "text": "Ce matin → Plus de 325 000 évacués en France et Espagne.\n\nNouveau : À Bordeaux, les flammes sont à 15 km de l'agglomération.\n\nFace à ces incendies d'ampleur historique, quelle priorité te semble centrale ?",
+  "text": "Ce matin → Plus de 340 000 personnes évacuées en France et Espagne.\n\nMis à jour : 55 000 personnes ont été évacuées en une seule nuit dans le sud-ouest de la France. Les flammes se rapprochent de Bordeaux.\n\nFace aux mégafeux, quelle priorité selon toi?",
   "poll": {
     "options": [
-      "Évacuation et sécurité",
-      "Combattre les foyers",
-      "Préparation climatique",
-      "Soutien aux sinistrés"
+      "Évacuations et sauvetage",
+      "Lutte directe contre les",
+      "Prévention long terme et",
+      "Adaptation aux"
     ],
     "duration_minutes": 1440
   }
