@@ -1,13 +1,13 @@
 {
   "date": "2026-07-27",
   "kind": "poll",
-  "text": "Ce matin → Deux incendies fusionnent en C.-B., couvrant 670 km². Dimanche, les autorités ont ordonné l'évacuation de Clinton et des zones avoisinantes alors que les flammes détruisent des habitations.\n\nSelon toi, quel défi devrait être priorisé face aux mégafeux?",
+  "text": "Ce matin → Les États-Unis et l'Iran suspendent leurs frappes pour un 2e jour consécutif.\n\nNouveau : Ukraine a frappé un navire iranien en mer Caspienne.\n\nComment devraient réagir les États-Unis et l'Iran face à cette escalade?",
   "poll": {
     "options": [
-      "Évacuation et protection",
-      "Lutte directe contre les",
-      "Prévention à long terme",
-      "Aide aux sinistrés après"
+      "Poursuivre les",
+      "Riposter militairement",
+      "Impliquer la communauté",
+      "Maintenir le statu quo"
     ],
     "duration_minutes": 1440
   }
