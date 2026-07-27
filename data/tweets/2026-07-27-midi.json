@@ -1,0 +1,14 @@
+{
+  "date": "2026-07-27",
+  "kind": "poll",
+  "text": "Ce matin → Deux incendies fusionnent en C.-B., couvrant 670 km². Dimanche, les autorités ont ordonné l'évacuation de Clinton et des zones avoisinantes alors que les flammes détruisent des habitations.\n\nSelon toi, quel défi devrait être priorisé face aux mégafeux?",
+  "poll": {
+    "options": [
+      "Évacuation et protection",
+      "Lutte directe contre les",
+      "Prévention à long terme",
+      "Aide aux sinistrés après"
+    ],
+    "duration_minutes": 1440
+  }
+}
