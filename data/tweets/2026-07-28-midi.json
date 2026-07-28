@@ -1,13 +1,13 @@
 {
   "date": "2026-07-28",
   "kind": "poll",
-  "text": "Ce matin → Les agents de bord de WestJet ont voté pour une grève dès dimanche.\n\nNOUVEAU : La grève coïncide avec la longue fin de semaine du 1er août, période de forte affluence aérienne au Canada.\n\nSelon toi, comment les voyageurs devraient-ils se préparer?",
+  "text": "Ce matin → Les agents de bord de WestJet ont voté pour une grève dès dimanche.\n\nNouveau : La longue fin de semaine du 1er août coïncide avec le début possible de l'arrêt de travail, affectant potentiellement\n\nComment vois-tu l'impact d'une grève WestJet en période de vacances?",
   "poll": {
     "options": [
-      "Modifier leur vol avant",
-      "Attendre de voir si la",
-      "Demander un",
-      "Contacter directement"
+      "Priorité aux conditions",
+      "Priorité à la continuité",
+      "Négociation d'urgence",
+      "Incertain sur les enjeux"
     ],
     "duration_minutes": 1440
   }
