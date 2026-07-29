@@ -1,13 +1,13 @@
 {
   "date": "2026-07-29",
   "kind": "poll",
-  "text": "Ce matin → L'Iran a lancé des missiles balistiques contre des bases américaines. Développement : les États-Unis et l'Arabie saoudite ont frappé des milices soutenues par Téhéran en Irak en réaction.\n\nComment devraient réagir les pays tiers à cette escalade?",
+  "text": "Ce matin → L'Iran a lancé des missiles balistiques contre des bases américaines. Nouveauté → Les États-Unis et l'Arabie saoudite ont frappé l'Irak. Trump promet une riposte majeure contre l'Iran.\n\nSelon toi, comment devrait évoluer cette situation?",
   "poll": {
     "options": [
-      "Favoriser la négociation",
-      "Renforcer le soutien",
-      "Maintenir la neutralité",
-      "Augmenter les sanctions"
+      "Par la diplomatie et",
+      "Par des mesures",
+      "Par des ripostes",
+      "Par une escalade"
     ],
     "duration_minutes": 1440
   }
