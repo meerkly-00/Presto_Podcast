@@ -1,0 +1,14 @@
+{
+  "date": "2026-07-29",
+  "kind": "poll",
+  "text": "Ce matin → L'Iran a lancé des missiles balistiques contre des bases américaines. Développement : les États-Unis et l'Arabie saoudite ont frappé des milices soutenues par Téhéran en Irak en réaction.\n\nComment devraient réagir les pays tiers à cette escalade?",
+  "poll": {
+    "options": [
+      "Favoriser la négociation",
+      "Renforcer le soutien",
+      "Maintenir la neutralité",
+      "Augmenter les sanctions"
+    ],
+    "duration_minutes": 1440
+  }
+}
