@@ -23,6 +23,17 @@
       <link>https://www.prestopodcast.online</link>
     </image>
     <item>
+      <title>Presto — édition du 30 juillet 2026</title>
+      <description>Au menu : International : États-Unis et Iran, Politique canadienne, Actualité québécoise, Économie et marchés, Tech, Sport</description>
+      <pubDate>Thu, 30 Jul 2026 08:00:57 +0000</pubDate>
+      <guid isPermaLink="false">https://github.com/meerkly-00/Presto_Podcast/releases/download/2026-07-30/2026-07-30.mp3</guid>
+      <enclosure url="https://github.com/meerkly-00/Presto_Podcast/releases/download/2026-07-30/2026-07-30.mp3" type="audio/mpeg" length="11359910"/>
+      <itunes:duration>1039</itunes:duration>
+      <itunes:summary>Au menu : International : États-Unis et Iran, Politique canadienne, Actualité québécoise, Économie et marchés, Tech, Sport</itunes:summary>
+      <itunes:episode>68</itunes:episode>
+      <itunes:image href="https://www.prestopodcast.online/artwork-v2.jpg"/>
+    </item>
+    <item>
       <title>Presto — édition du 29 juillet 2026</title>
       <description>Au menu : International : Iran, Moyen-Orient, Politique canadienne, Actualité québécoise, Économie et marchés, Tech, Sport, Séisme au Japon</description>
       <pubDate>Wed, 29 Jul 2026 08:00:59 +0000</pubDate>
