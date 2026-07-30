@@ -1,0 +1,14 @@
+{
+  "date": "2026-07-30",
+  "kind": "poll",
+  "text": "Ce matin → Les États-Unis ont frappé des cibles militaires iraniennes.\n\nComment devraient réagir les acteurs internationaux à cette escalade ?",
+  "poll": {
+    "options": [
+      "Chercher une médiation",
+      "Renforcer les sanctions",
+      "Augmenter la présence",
+      "Laisser les parties"
+    ],
+    "duration_minutes": 1440
+  }
+}
