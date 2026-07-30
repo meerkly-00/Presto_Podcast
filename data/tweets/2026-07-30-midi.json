@@ -1,13 +1,13 @@
 {
   "date": "2026-07-30",
   "kind": "poll",
-  "text": "Ce matin → Les États-Unis ont frappé des cibles militaires iraniennes.\n\nComment devraient réagir les acteurs internationaux à cette escalade ?",
+  "text": "Ce matin → Les États-Unis ont frappé des cibles militaires iraniennes en riposte.\n\nNouveau : l'IRGC diffuse une vidéo montrant le lancement de missiles contre des cibles américaines en Jordanie.\n\nSelon toi, comment devrait évoluer la situation?",
   "poll": {
     "options": [
-      "Chercher une médiation",
-      "Renforcer les sanctions",
-      "Augmenter la présence",
-      "Laisser les parties"
+      "Vers des négociations",
+      "Maintenir la dissuasion",
+      "Augmenter les sanctions",
+      "Intervention d'un tiers"
     ],
     "duration_minutes": 1440
   }
