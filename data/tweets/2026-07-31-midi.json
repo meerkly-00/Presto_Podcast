@@ -1,13 +1,13 @@
 {
   "date": "2026-07-31",
   "kind": "poll",
-  "text": "Ce matin → Au moins 15 migrants noyés à Ceuta jeudi. Nouveau développement : environ 60 000 migrants ont traversé la frontière Maroc-Ceuta en 24 heures.\n\nComment devraient réagir les pays face à ces mouvements migratoires massifs?",
+  "text": "Ce matin → Trump annonce un accord de désarmement complet du Hamas. Nouveauté : Al Jazeera rapporte qu'une feuille de route sur 3 ans est proposée, avec 14 jours pour finaliser la transition politique de Gaza.\n\nSelon toi, un désarmement du Hamas sur 3 ans peut-il stabiliser Gaza?",
   "poll": {
     "options": [
-      "Renforcer les contrôles",
-      "Augmenter l'accueil et",
-      "Adresser les causes à la",
-      "Combinaison de ces"
+      "Oui, c'est réaliste",
+      "Non, trop long",
+      "Dépend de l'application",
+      "Impossible à évaluer"
     ],
     "duration_minutes": 1440
   }
