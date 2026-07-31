@@ -1,0 +1,14 @@
+{
+  "date": "2026-07-31",
+  "kind": "poll",
+  "text": "Ce matin → Au moins 15 migrants noyés à Ceuta jeudi. Nouveau développement : environ 60 000 migrants ont traversé la frontière Maroc-Ceuta en 24 heures.\n\nComment devraient réagir les pays face à ces mouvements migratoires massifs?",
+  "poll": {
+    "options": [
+      "Renforcer les contrôles",
+      "Augmenter l'accueil et",
+      "Adresser les causes à la",
+      "Combinaison de ces"
+    ],
+    "duration_minutes": 1440
+  }
+}
