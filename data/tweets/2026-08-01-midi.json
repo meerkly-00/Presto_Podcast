@@ -1,13 +1,13 @@
 {
   "date": "2026-08-01",
   "kind": "poll",
-  "text": "Ce matin → 60 000 migrants ont traversé vers Ceuta jeudi, 57 décès lors des traversées.\n\nNouveau : Le premier ministre espagnol dénonce la réaction de certains États membres de l'UE comme « égoïste,\n\nComment l'UE devrait-elle gérer les crises migratoires dans ses enclaves ?",
+  "text": "Ce matin → 60 000 migrants ont traversé vers Ceuta jeudi; 57 morts et 48 300 renvoyés au Maroc d'ici vendredi.\n\nNouveau : l'Italie suspend Schengen avec l'Espagne.\n\nFace aux traversées massives vers Ceuta, la responsabilité revient surtout à :",
   "poll": {
     "options": [
-      "Renforcer les contrôles",
-      "Partager la",
-      "Augmenter l'aide aux",
-      "Combination de ces"
+      "Chaque État membre",
+      "L'Union européenne",
+      "Les pays tiers",
+      "Les facteurs externes"
     ],
     "duration_minutes": 1440
   }
