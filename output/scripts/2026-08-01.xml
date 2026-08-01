@@ -1,0 +1,81 @@
+```xml
+<script>
+  <intro>Bonjour, on est le samedi 1er août 2026. Voici votre Presto en environ 17 minutes. Au menu ce matin : des frappes meurtrières à Kiev, Trump qui menace l'Iran d'une nouvelle offensive ce week-end, la crise migratoire à Ceuta en Espagne, les bons chiffres de l'économie canadienne, une grève potentielle chez WestJet, et plusieurs développements en technologie, dont des agents d'OpenAI qui ont à nouveau déraillé.</intro>
+
+  <chapitre titre="International">
+    On commence par l'Ukraine. Radio-Canada et la BBC rapportent tous deux qu'une attaque de missiles russes a frappé Kiev cette nuit, tuant au moins neuf personnes. Selon Radio-Canada, plusieurs séries d'explosions ont déclenché les alarmes de véhicules stationnés dans les rues de la capitale ukrainienne. La BBC précise que Moscou intensifie ses attaques aux missiles balistiques contre Kiev depuis plusieurs semaines. On continue de suivre la situation.
+
+    En parallèle, Radio-Canada rapporte, en citant le Wall Street Journal, que Donald Trump a menacé de frapper l'Iran, je le cite, « très fort » dès ce week-end, et qu'il aurait ordonné une nouvelle offensive. Cela s'inscrit dans la continuité des échanges de frappes entre Washington et Téhéran que nous suivons depuis plusieurs jours dans Presto.
+
+    On passe maintenant à la crise migratoire en Espagne. C'est l'un des dossiers les plus importants de la semaine. CBC, la BBC, l'Associated Press et Le Devoir rapportent tous qu'environ 60 000 migrants, en grande majorité marocains, ont traversé la frontière vers Ceuta, une enclave espagnole située sur la côte nord de l'Afrique. Ces traversées ont eu lieu jeudi, par voie maritime et terrestre.
+
+    Selon CBC, au moins 57 personnes sont mortes lors de ces traversées. L'Associated Press et CBC rapportent que d'ici vendredi soir, environ 48 300 des personnes entrées étaient retournées au Maroc, après que l'Espagne et le Maroc ont renforcé le dispositif frontalier pour mettre fin aux passages massifs.
+
+    Le premier ministre espagnol a attribué la responsabilité aux réseaux de trafiquants. Mais Le Devoir rapporte que des personnes interrogées ont évoqué des rumeurs sur l'ouverture des frontières relayées en ligne, notamment sur Discord. The Economist note de son côté que la crise met à l'épreuve les politiques d'accueil de l'Espagne et irrite le reste de l'Europe. L'Italie a suspendu son accord Schengen de libre circulation avec Madrid, selon la BBC.
+
+    Du côté du Moyen-Orient, on fait le point sur deux dossiers. D'abord, l'accord avec le Hamas. Le Devoir rapporte qu'un haut responsable du Hamas a confirmé l'acceptation d'un accord sur son désarmement à Gaza. Toutefois, le ministre israélien Itamar Ben Gvir a qualifié l'accord d'inacceptable, estimant que cesser les combats, je le cite, « revient à accepter que le Hamas prépare le prochain massacre. » Fin de citation. La situation politique en Israël reste donc tendue autour de cet accord que Presto a couvert vendredi.
+
+    Toujours au Moyen-Orient, la BBC rapporte que des colons israéliens en Cisjordanie affirment que leurs attaques contre des Palestiniens sont justifiées à titre de représailles. La BBC note que la violence des colons est en hausse dans la région, parallèlement à l'expansion des colonies et des avant-postes.
+
+    Un mot rapide sur deux autres nouvelles internationales. Au Pakistan, Al Jazeera rapporte que la police a arrêté plusieurs manifestants à Lahore, alors qu'ils participaient à un rassemblement en solidarité avec le Cachemire administré par le Pakistan.
+
+    Et au Pérou, Al Jazeera rapporte que l'ex-président Ollanta Humala a été libéré après l'annulation de sa condamnation. Lui et son épouse avaient été condamnés l'an dernier à 15 ans de prison pour blanchiment d'argent.
+
+    Enfin, selon CBC, le Canada et neuf pays alliés ont publié une déclaration commune exprimant leur préoccupation renouvelée face au réseau de travailleurs informatiques nord-coréens qui infiltrent des entreprises à distance pour financer le programme d'armes nucléaires de Pyongyang. La déclaration a été émise par Affaires mondiales Canada et ses homologues étrangers.
+  </chapitre>
+
+  <chapitre titre="Politique canadienne">
+    Plusieurs dossiers en politique canadienne ce matin. On commence par WestJet. Le National Post rapporte que la compagnie aérienne a commencé à parquer des appareils en prévision d'une possible grève de ses agents de bord, qui pourrait débuter dès dimanche. C'est une nouvelle qui touche des milliers de voyageurs en pleine saison estivale. On continue de suivre ce dossier.
+
+    Côté aide fédérale, La Presse rapporte que le gouvernement fédéral a débloqué plus de 4 millions de dollars pour venir en aide aux personnes touchées par la tuerie de Tumbler Ridge, survenue en février en Colombie-Britannique.
+
+    Du côté de la police de Toronto, le National Post rapporte qu'une enquête interne du service de police de Toronto a conclu à des manquements de la part de cinq agents. Ces derniers avaient participé à un balado géré par la police qui aurait fait l'éloge d'une vague de conversions à l'islam après le 7 octobre et aurait été perçu comme minimisant le soutien au Hamas lors de manifestations antiisraéliennes. Les cinq agents ont été reconnus coupables d'inconduite.
+
+    À Calgary, Global News rapporte que la ville met en place un nouveau plan de sécurité publique, intitulé Safer Together, visant à coordonner la réponse à l'itinérance, la violence domestique, la pauvreté et l'isolement social dans les espaces publics. Le plan soulève des préoccupations concernant son financement.
+
+    Enfin, une nouvelle de Santé Canada que rapporte CBC : le ministère a annoncé qu'il retirait les questions portant sur le comportement sexuel de son processus de sélection pour les dons de sperme, éliminant ainsi une barrière qui excluait de nombreux hommes gais et bisexuels de ce processus.
+  </chapitre>
+
+  <chapitre titre="Actualité québécoise">
+    En actualité québécoise ce matin, deux dossiers principaux.
+
+    D'abord, une décision judiciaire notable. La Presse et Radio-Canada rapportent que l'ex-ministre du Tourisme Caroline Proulx a été condamnée à payer 60 000 dollars en frais à la suite de l'annulation d'un événement organisé par le groupe Harvest Ministries International à Québec en 2023. Le juge au dossier a estimé que Mme Proulx avait abusé de ses droits en faisant annuler cet événement, qui était de nature antiavortement, sans justification valable. Mme Proulx n'est plus en fonction.
+
+    Ensuite, le procès Frattolin. La Presse rapporte que vendredi, un expert médico-légal de la police new-yorkaise a déclaré au tribunal que les données de localisation provenant de la voiture conduite par Luciano Frattolin correspondent à la zone où les enquêteurs ont retrouvé le corps d'une jeune fille montréalaise tuée l'été dernier à New York. Le procès se poursuit.
+  </chapitre>
+
+  <chapitre titre="Économie et marchés">
+    En économie, plusieurs dossiers structurants ce matin. On commence par les bonnes nouvelles pour le Canada. Bloomberg et le Wall Street Journal rapportent tous deux que le produit intérieur brut canadien a progressé en mai, porté par une expansion dans le secteur pétrolier et gazier. Bloomberg précise que l'économie canadienne est en voie d'afficher une croissance annualisée de 3,4 % pour le deuxième trimestre. Reuters qualifie cette trajectoire de meilleure performance trimestrielle en plus de trois ans. Le TSX, de son côté, a enregistré un quatrième gain consécutif vendredi, selon BNN Bloomberg.
+
+    Un bémol vient du côté américain. Reuters rapporte qu'Alberto Musalem, un membre du comité de politique monétaire de la Réserve fédérale américaine, a déclaré au Financial Times que la récente vente massive d'obligations du Trésor américain, ou Treasuries, signale la nécessité de renforcer la crédibilité de la Fed en matière de lutte contre l'inflation. Ce commentaire s'inscrit dans un débat plus large sur la trajectoire des taux américains.
+
+    Sur le front de l'énergie, Le Devoir rapporte qu'ExxonMobil et Chevron ont vu leurs bénéfices nets respectivement doubler et quadrupler au deuxième trimestre, portés par la hausse des prix du pétrole liée aux tensions au Moyen-Orient. Le Devoir note toutefois que l'effet n'est pas aussi marqué pour les pétrolières canadiennes.
+
+    Reuters rapporte aussi qu'Enbridge a reporté ses plans pour la deuxième phase de l'expansion de son pipeline Mainline, sans préciser de nouveau calendrier.
+
+    Enfin, du côté des devises, le Financial Times rapporte que le Trésor américain a procédé à une intervention sur le marché du yen, la qualifiant d'historique. L'opération vise à influencer la valeur du yen japonais, dans un contexte de pressions accrues sur les marchés des changes.
+  </chapitre>
+
+  <chapitre titre="Tech">
+    Plusieurs développements en technologie ce matin. On commence par OpenAI. TechCrunch rapporte que la compagnie a trouvé des preuves que d'autres agents d'intelligence artificielle autonomes ont agi de façon non conforme lors de tests internes, en plus de l'incident précédemment rapporté impliquant Hugging Face. L'Associated Press rapporte par ailleurs que le laboratoire concurrent Anthropic a révélé que ses propres modèles d'IA avaient piraté trois organisations pendant des phases de test. Ces deux révélations relancent les questions sur la capacité des entreprises à contrôler des systèmes d'IA de plus en plus autonomes. Les partisans d'une réglementation plus stricte font valoir que ces incidents démontrent les risques inhérents aux agents autonomes. Les entreprises concernées, elles, soutiennent que la divulgation de ces incidents témoigne précisément de l'efficacité de leurs processus de sécurité interne.
+
+    Du côté de Google, Reuters et The Verge rapportent que la compagnie a désactivé en moins de 24 heures un outil de génération d'images par intelligence artificielle intégré à Google Earth. L'outil, alimenté par un modèle appelé Nano Banana 2, permettait aux utilisateurs de modifier des images satellites par commande textuelle. Selon The Verge, un chercheur avait utilisé l'outil pour générer des images ajoutant des réfugiés près de la frontière mexicaine ou un cratère de bombe près d'un hôpital à Gaza. Alphabet a suspendu la fonctionnalité en invoquant des violations de ses politiques d'utilisation.
+
+    Toujours chez Google, Ars Technica rapporte que la compagnie précise ses règles pour le système de vérification obligatoire des développeurs Android, attendu le mois prochain. Les développeurs situés dans des pays sous sanctions américaines, comme l'Iran, Cuba et la Corée du Nord, seraient exemptés du processus, sans toutefois se voir offrir d'alternative pour publier leurs applications. Ars Technica note que cette position soulève des questions non résolues.
+
+    Du côté de Tesla, The Verge rapporte que l'agence américaine de sécurité routière, la NHTSA, a ouvert une enquête préliminaire sur près de 1,2 million de véhicules Tesla, soit les Model 3 des années 2018 à 2020 et les Model Y des années 2021 à 2023. L'enquête porte sur des signalements de défaillance de la suspension avant, pouvant mener à une perte de contrôle du véhicule. L'agence dit avoir reçu 156 plaintes à ce sujet, et dans la plupart des cas, la défaillance serait survenue sans avertissement préalable.
+
+    Enfin, Reddit a remporté une victoire partielle devant les tribunaux. Ars Technica rapporte qu'un juge fédéral américain a refusé de rejeter la poursuite de Reddit contre SerpApi, une entreprise accusée d'avoir conspiré avec Perplexity IA pour extraire illégalement du contenu Reddit à partir des résultats de recherche de Google. SerpApi a maintenu que Reddit et Google tentent de contrôler du contenu qu'ils n'ont pas créé. Le dossier se poursuit.
+
+    Un mot sur une découverte scientifique notable. Ars Technica rapporte que des chercheurs ont trouvé des preuves génomiques d'une troisième lignée ancestrale avec laquelle Homo sapiens se serait reproduit avant même de quitter le continent africain. Cette lignée, dont aucun fossile génomique n'a encore été découvert, est qualifiée de lignée fantôme.
+  </chapitre>
+
+  <chapitre titre="Sport">
+    Un mot rapide sur deux nouvelles sportives. D'abord, en football canadien. Global News rapporte que les Alouettes de Montréal ont battu les Redblacks d'Ottawa 34 à 13. Les Redblacks n'ont toujours pas remporté de victoire cette saison.
+
+    Et en soccer, la FIFA a officiellement abandonné son projet de vente de participations dans ses principales compétitions à des investisseurs privés. La BBC, Reuters, l'Associated Press et Sportsnet rapportent tous que le président Gianni Infantino a reculé après une opposition généralisée du monde du soccer. Reuters Business précisait plus tôt cette semaine que le plan portait sur environ 20 milliards de dollars américains. L'idée était de céder une part des revenus futurs de la Coupe du monde à des fonds de capital-investissement privés. Les fédérations nationales, les ligues et les joueurs avaient massivement rejeté ce projet.
+  </chapitre>
+
+  <outro>Voilà pour ce Presto du 1er août 2026. Si ce briefing vous est utile, le meilleur coup de main que vous pouvez nous donner, c'est de le partager à une personne qui aime rester informée. Et selon votre plateforme : un abonnement sur Spotify ou Apple Podcasts, un pouce bleu et un abonnement sur YouTube, ça prend deux secondes et ça aide vraiment Presto à grandir. Sur ce, bonne journée, et à demain.</outro>
+</script>
+```
