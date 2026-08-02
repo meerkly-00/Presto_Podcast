@@ -1,13 +1,13 @@
 {
   "date": "2026-08-02",
   "kind": "poll",
-  "text": "Ce matin → Trump suspend les frappes contre l'Iran après accord des alliés américains du Moyen-Orient.\n\nNouveau : Israël a mené des frappes aériennes à Gaza qui ont tué au moins 8\n\nSelon toi, les négociations militaires au Moyen-Orient doivent-elles prioritairement viser ?",
+  "text": "Ce matin → Trump suspend les frappes contre l'Iran après un accord des alliés américains du Moyen-Orient.\n\nNouveau : Israël affirme avoir de sérieuses réserves sur le désarmement du\n\nSelon toi, les accords régionaux peuvent-ils tenir sans l'accord de tous les acteurs impliqués?",
   "poll": {
     "options": [
-      "Un cessez-le-feu immédiat",
-      "Des accords de",
-      "La sécurité régionale à",
-      "Le retrait des troupes"
+      "Oui, si les principaux",
+      "Non, tous doivent être",
+      "Ça dépend du contexte et",
+      "Incertain"
     ],
     "duration_minutes": 1440
   }
