@@ -1,13 +1,13 @@
 {
   "date": "2026-08-03",
   "kind": "poll",
-  "text": "Ce matin → 130 feux actifs en C.-B., plus de la moitié hors de contrôle.\n\nNouveauté : En État de Washington, environ 600 structures ont été détruites et 60 000 personnes évacuées.\n\nFace aux feux de forêt massifs en Colombie-Britannique et Washington, quelles priorités?",
+  "text": "Ce matin → 130 feux actifs en C.-B., plus de la moitié hors de contrôle.\n\n📍 NOUVEAU : Une évacuation d'ordre supplémentaire a été émise pour un incendie en marge du lac Okanagan, à l'ouest.\n\nComment devraient être gérées les ressources d'intervention face aux feux multiples ?",
   "poll": {
     "options": [
-      "Évacuation et sauvetage",
-      "Containment et",
-      "Enquête sur les causes",
-      "Planification de"
+      "Concentrer sur les zones",
+      "Répartir entre tous les",
+      "Prioriser par taille de",
+      "Combiner ressources"
     ],
     "duration_minutes": 1440
   }
