@@ -1,87 +1,81 @@
 ```xml
 <script>
- <intro>Bonjour, on est le lundi 3 août 2026. Voici votre Presto en environ 17 minutes. Au menu ce matin : les feux de forêt qui ravagent la Colombie-Britannique et l'État de Washington, la grève WestJet qui se poursuit, les incendies suspects à Montréal dans Côte-des-Neiges, les négociations Iran-États-Unis qui reprennent, un dossier économique sur le yen japonais et les marchés, et quelques nouvelles en technologie.</intro>
+  <intro>Bonjour, on est le lundi 3 août 2026. Voici votre Presto en environ 17 minutes. Au menu ce matin : les feux de forêt en Colombie-Britannique qui continuent de s'aggraver, la grève WestJet qui se règle, le dossier Iran-États-Unis qui se complique, un point sur les marchés et le yen, et quelques nouvelles en tech, dont un nouveau modèle d'intelligence artificielle d'Alibaba qui fait jaser.</intro>
 
- <chapitre titre="Canada : feux de forêt en Colombie-Britannique">
-On commence par ce qui est, ce matin, la nouvelle la plus urgente pour des dizaines de milliers de Canadiens : les feux de forêt en Colombie-Britannique.
+  <chapitre titre="Canada : feux de forêt en Colombie-Britannique">
+On commence par la Colombie-Britannique, où la situation des feux de forêt continue de se détériorer. Radio-Canada et Global News rapportent tous deux que plus de 5 000 personnes ont reçu des ordres d'évacuation dans les dernières 24 heures. Global News précise qu'on compte maintenant environ 130 feux actifs dans la province, et que près de la moitié d'entre eux sont considérés hors de contrôle par le BC Wildfire Service.
 
-Radio-Canada, CBC et Global News rapportent tous que la situation s'est aggravée de façon significative dans les dernières 24 heures. On compte maintenant environ 130 feux actifs en Colombie-Britannique, dont près de la moitié sont considérés hors de contrôle par le BC Wildfire Service. Plus de 5 000 personnes ont reçu des ordres d'évacuation au cours des dernières 24 heures seulement, selon Radio-Canada.
+Des renforts arrivent de partout. Radio-Canada rapporte que des équipes sont en route du Mexique, de l'Alberta et même de l'Australie pour prêter main-forte aux pompiers déjà sur le terrain. La Presse souligne que des pompiers forestiers québécois quittent également pour la Colombie-Britannique dans le cadre des efforts de mobilisation interprovinciaux.
 
-La région du nord de l'Okanagan est particulièrement touchée. CBC rapporte que des résidents de la région de Vernon ont dû quitter leurs maisons en urgence, certains laissant derrière eux des effets personnels et même des animaux de compagnie pour échapper à un feu qui progressait rapidement. Des résidents témoignent d'un niveau de stress élevé.
+La situation n'est pas unique au Canada. De l'autre côté de la frontière, CBC World rapporte que des feux dans l'est de l'État de Washington ont forcé l'évacuation d'environ 5 000 résidences, et que près de 600 bâtiments, incluant des maisons et des commerces, ont été détruits. Ces feux demeuraient hors de contrôle dimanche selon les autorités locales.
 
-Pour soutenir l'effort, Radio-Canada précise que des renforts sont arrivés du Mexique, de l'Alberta et même de l'Australie.
+En Europe, CBC World rapporte aussi qu'un incendie majeur brûle à l'ouest d'Athènes, en Grèce, et que les efforts pour le combattre ont été marqués par une tragédie : une collision en vol entre deux hélicoptères de lutte contre les incendies a tué deux membres d'équipage dimanche. Cinq avions-citernes et cinq hélicoptères supplémentaires ont été déployés lundi matin pour appuyer les centaines de pompiers au sol.
+  </chapitre>
 
-La situation est tout aussi critique juste en dessous de la frontière. Al Jazeera et CBC rapportent tous deux que des feux dans l'est de l'État de Washington, notamment dans la région de Spokane, ont détruit environ 600 structures, maisons, commerces et autres bâtiments. Quelque 60 000 personnes ont été évacuées, selon Al Jazeera. Ces feux n'étaient pas encore maîtrisés dimanche.
-
-C'est un dossier qui continue d'évoluer, et Presto y reviendra.
- </chapitre>
-
- <chapitre titre="Politique canadienne">
+  <chapitre titre="Politique canadienne">
 Deux dossiers en politique canadienne ce matin.
 
-D'abord, la grève WestJet. On en a parlé hier : les agents de bord ont déclenché un arrêt de travail après l'échec des négociations. Ce matin, le National Post apporte des précisions sur le fond du litige. Selon le Post, la direction de WestJet avait offert une augmentation de salaire de 13 pour cent ainsi qu'une prime pour le travail effectué avant le décollage. Le syndicat représentant les agents de bord a dit trouver ces offres insuffisantes. Des milliers de voyageurs ont dû ajuster leurs plans de voyage, et la situation restait incertaine dimanche soir.
+D'abord, une bonne nouvelle pour des centaines de milliers de voyageurs : la grève WestJet est terminée. Radio-Canada et Reuters rapportent tous deux que WestJet et le syndicat des agents de bord ont conclu une entente de principe lundi matin. Les Affaires confirme que cette entente met fin à toute perturbation opérationnelle. On avait couvert dans les derniers briefings les annulations de vols et le déclenchement de l'arrêt de travail dimanche, après l'échec des négociations. Les conditions précises de l'entente n'ont pas été rendues publiques au moment où ces lignes ont été rédigées, mais les deux parties ont confirmé la conclusion d'un accord.
 
-Deuxièmement, un dossier qui a pris de l'ampleur depuis dimanche : les incendies dans le quartier Côte-des-Neiges, à Montréal. La Presse rapporte que deux incendies ont eu lieu dans la nuit de vendredi à samedi, l'un touchant un restaurant casher, l'autre une mosquée dans le même secteur. Les incendies sont soupçonnés d'être criminels.
+Deuxième dossier : les élections partielles fédérales. Global News publie une analyse signée David Akin qui soulève une question politique intéressante. Le gouvernement Carney a convoqué trois élections partielles, alors qu'il y a quatre circonscriptions vacantes. Selon cette analyse, les libéraux ont délibérément évité de déclencher une élection partielle dans la quatrième circonscription, qui est un siège québécois vacant, ce qui leur donne un avantage financier de trois contre un face au Bloc québécois dans les courses actuellement en cours. L'analyse note que cette décision est stratégique : en ne déclenchant pas la quatrième partielle, les libéraux évitent une compétition coûteuse au Québec tout en forçant le Bloc à disperser ses ressources.
 
-Le National Post rapporte que des élus américains ont pris position sur le dossier, certains qualifiant l'incendie du restaurant casher d'acte antisémite s'inscrivant selon eux dans un schème plus large d'attaques de ce type. Ces élus ont demandé que le Canada prenne des mesures.
+Un mot aussi sur l'Alberta, à l'approche d'un référendum qui prend de plus en plus de place dans l'actualité. La Presse rapporte que les drapeaux canadien et albertain sont devenus un symbole visible des tensions entre fédéralistes et indépendantistes dans la province, à moins de trois mois du scrutin prévu en octobre.
+  </chapitre>
 
-Il est important de noter que les autorités canadiennes n'ont pas encore officiellement confirmé le mobile des incendies au moment où ces rapports ont été produits. L'enquête est en cours.
- </chapitre>
+  <chapitre titre="International">
+Sur la scène internationale, le dossier Iran-États-Unis prend un nouveau tournant, et pas dans la direction attendue.
 
- <chapitre titre="International">
-Sur la scène internationale, trois dossiers ce matin.
+On vous a parlé dans les derniers briefings de la suspension des frappes militaires américaines annoncée par le président Donald Trump, et de sa volonté de reprendre les négociations. Ce matin, le ton a changé. Radio-Canada rapporte que Trump a annoncé dimanche, à bord d'Air Force One, qu'une reprise des pourparlers aurait lieu dès lundi. Mais l'Iran dément. BBC World et Reuters confirment tous deux que Téhéran affirme qu'aucune négociation avec les États-Unis n'est en cours. La BBC précise cependant que l'Iran tient des discussions séparées avec Oman, portant sur l'accès au détroit d'Ormuz.
 
-On commence par l'Iran. On a couvert dans les deux derniers briefings la suspension des frappes américaines annoncée par le président Donald Trump, conditionnelle à la reprise rapide des négociations. Ce matin, Radio-Canada et la BBC rapportent tous deux que Trump a annoncé, à bord d'Air Force One, que de nouveaux pourparlers avec l'Iran devaient commencer dès ce lundi. La BBC précise cependant que Téhéran n'a pas confirmé cette annonce, et rappelle que Trump a déjà signalé que des négociations étaient imminentes dans le passé, avant que les frappes ne reprennent. La situation reste donc à suivre.
+Al Jazeera publie de son côté une analyse sur les rivalités internes à Téhéran concernant la reconstruction de l'Iran dans l'après-guerre, avec des narratives concurrentes sur qui devrait orienter cette reprise. Ce dossier reste à suivre.
 
-Toujours sur le dossier du Moyen-Orient, CBC rapporte qu'Israël a partagé avec la Maison-Blanche ce qu'un responsable israélien a décrit comme de « sérieuses préoccupations en matière de sécurité » concernant le projet d'accord de désarmement avec le Hamas, annoncé récemment par Trump. C'est parmi les premiers commentaires publics d'Israël depuis cette annonce.
+En Ukraine, Al Jazeera et l'Associated Press rapportent qu'une attaque de drones longue portée a visé un entrepôt du géant du commerce électronique russe Wildberries. L'AP précise que cette attaque a tué cinq personnes en Russie. Il s'agit du deuxième ciblage de cette entreprise par l'Ukraine.
 
-Deuxième dossier international : la crise migratoire à Ceuta. L'Union européenne a convoqué une réunion d'urgence pour discuter du passage massif de migrants marocains vers l'enclave espagnole de Ceuta, selon CBC. Cette réunion fait suite à une lettre signée par 22 États membres réclamant des mesures pour renforcer les frontières de l'Union. L'Associated Press rapporte de son côté que la grande majorité des migrants avaient quitté le territoire de Ceuta dimanche, mais que les autorités locales continuaient de gérer les séquelles de cette vague.
+Du côté de la Pologne, le National Post rapporte que Varsovie accélère ses dépenses militaires, avec un programme de réarmement évalué à plusieurs milliards, dans l'objectif déclaré de dissuader toute confrontation directe avec la Russie à l'est des frontières de l'OTAN.
 
-Troisième dossier : la Grèce. La BBC et CBC rapportent tous deux qu'une collision entre deux hélicoptères de lutte contre les incendies de forêt a fait deux morts dimanche à l'ouest d'Athènes. Selon la BBC, un pilote danois et un pilote grec ont perdu la vie dans l'incident. Un pilote britannique et un autre membre d'équipage grec ont survécu. Les appareils combattaient un feu attisé par le vent au moment de l'accident.
- </chapitre>
+Au Pakistan-administré Cachemire, Al Jazeera et BBC World rapportent que des élections se tiennent dans un contexte tendu. Des protestations liées à la représentation des réfugiés ont dégénéré en violence, forçant la tenue d'élections échelonnées sous un black-out internet. Des appels au boycott ont été lancés par certains groupes.
 
- <chapitre titre="Économie et marchés">
-En économie ce matin, plusieurs dossiers à noter alors que les marchés nord-américains s'apprêtent à ouvrir pour la première fois depuis vendredi.
+Enfin, en Indonésie, CBC World rapporte qu'au moins cinq personnes ont perdu la vie après l'incendie d'un traversier dans les eaux au large de l'île de Java. Les secouristes avaient réussi à récupérer 229 personnes, mais recherchaient toujours d'éventuels disparus lundi.
+  </chapitre>
 
-On commence par le dossier yen. Le Financial Times et Bloomberg rapportent tous deux que le Japon s'est dit prêt à intervenir de nouveau auprès des États-Unis sur la question du yen si la situation l'exige. Bloomberg précise que le secrétaire au Trésor américain Scott Bessent a indiqué que d'autres mesures étaient possibles sur le yen, et que le président Trump a exprimé des commentaires positifs à l'égard du Japon. Ce dossier s'inscrit dans un contexte de tensions commerciales plus larges entre Washington et ses partenaires.
+  <chapitre titre="Économie et marchés">
+En économie, plusieurs développements ce matin.
 
-Justement sur ces tensions, Reuters rapporte que la Chine a dessiné ce qu'elle décrit comme des « lignes rouges » autour de son modèle économique, en vue de négociations commerciales à venir avec l'Union européenne et les États-Unis. Selon Reuters, Pékin indique qu'il ne sera pas question de remettre en cause les structures fondamentales de son économie dans le cadre de ces discussions.
+On commence par le yen japonais, un dossier que l'on suivait déjà hier. Le Financial Times et Bloomberg rapportent tous deux que le Japon a réitéré sa volonté d'intervenir conjointement avec les États-Unis sur le marché des changes si la situation l'exige. Bloomberg précise que le secrétaire au Trésor américain Scott Bessent a indiqué que des mesures supplémentaires sont possibles concernant le yen, et que le président Trump a publiquement félicité le Japon pour sa gestion de la question. Ce signal coordonné entre Tokyo et Washington est notable dans le contexte de la volatilité des marchés asiatiques des dernières semaines.
 
-Du côté du pétrole, Bloomberg rapporte que les cours ont reculé ce matin en réaction à l'optimisme entourant les pourparlers Iran-États-Unis. Un accord diplomatique potentiel soulèverait la perspective d'un retour du pétrole iranien sur les marchés.
+Du côté des marchés en général, Bloomberg rapportait dimanche soir que les actions avaient progressé, en partie parce que la baisse du prix du pétrole a réduit la pression sur les taux obligataires. Cette baisse du brut est directement liée à la suspension des frappes américaines contre l'Iran annoncée par Trump : l'Associated Press rapporte que les prix du pétrole ont reculé après cette annonce. La situation reste toutefois instable étant donné les contradictions entre Washington et Téhéran sur l'état des négociations.
 
-Un mot sur Toyota. Reuters Business rapporte que le constructeur automobile japonais s'apprête à annoncer une cinquième baisse consécutive de ses bénéfices. Les investisseurs examinent notamment les répercussions du récent séisme au Japon sur les activités de la compagnie.
+Sur l'immobilier montréalais, Les Affaires publie les données de l'Indice Tardif de juillet 2026. Le marché résidentiel de l'île de Montréal affiche un score de 24,5 sur 100, ce qui le fait entrer en zone d'acheteur léger. C'est un repère à surveiller pour les acheteurs et vendeurs dans la région.
 
-Enfin, sur la question structurante de l'intelligence artificielle et de l'emploi, The Economist publie une analyse posant la question suivante : les États-Unis peuvent-ils recycler leurs travailleurs avant que l'IA ne les laisse derrière ? Selon The Economist, réussir ce virage nécessiterait d'investir dans les travailleurs avec autant de sérieux que le pays investit dans les semi-conducteurs. Le débat entre ceux qui estiment que l'IA crée davantage d'emplois qu'elle n'en détruit et ceux qui prévoient des pertes nettes massives reste ouvert, et cette analyse s'inscrit clairement dans le camp de ceux qui jugent que les risques sont réels et sous-estimés.
- </chapitre>
+À l'international, Reuters Business rapporte que des jeunes Sud-Coréens se tournent vers le marché du travail japonais, en raison des difficultés à trouver de l'emploi dans leur pays. Un signe de la pression sur les marchés du travail en Asie du Nord-Est.
 
- <chapitre titre="Tech">
+Reuters et Bloomberg signalent aussi que les marchés émergents ont connu un mois difficile en juillet, et que certains analystes estiment que cette période pourrait préfigurer des tensions plus durables, notamment dans le contexte d'un ralentissement du commerce mondial.
+
+Enfin, le Financial Times soulève la question de ce que les analystes appellent un rideau de fer numérique, avec une fragmentation croissante entre les écosystèmes technologiques américains et chinois, qui pourrait peser sur l'économie mondiale à moyen terme.
+  </chapitre>
+
+  <chapitre titre="Tech">
 Quelques développements en technologie ce matin.
 
-On commence par un enjeu qui touche directement les consommateurs : la pénurie mondiale de mémoire vive. TechCrunch rapporte que cette pénurie commence à affecter la disponibilité du MacBook Air d'Apple, qui est le Mac le plus populaire de la compagnie. La demande en mémoire provenant de l'industrie de l'intelligence artificielle est citée comme facteur sous-jacent. The Verge avait aussi rapporté ce week-end que les prix des consoles Xbox de Microsoft augmentent de façon importante en Europe. Selon The Verge, le modèle Xbox Series X avec lecteur de disque passe de 499 livres sterling à 669 livres sterling au Royaume-Uni, soit une hausse de plus de 30 pour cent. Le modèle Series S voit quant à lui son prix grimper de plus de 43 pour cent. Microsoft avait déjà annoncé des hausses aux États-Unis en juin. The Verge attribue ces augmentations en partie à la montée des prix de la mémoire RAM et du stockage, liée à la demande de l'industrie de l'IA.
+Le plus structurant vient de Chine. The Verge rapporte qu'Alibaba a publié son plus grand modèle d'intelligence artificielle à ce jour, baptisé Qwen3.8-Max. La compagnie affirme que ce modèle rivalise avec les meilleurs systèmes des laboratoires américains Anthropic et OpenAI, ainsi qu'avec des concurrents chinois comme Kimi K3, développé par Moonshot AI. Alibaba a rendu le modèle largement accessible aux utilisateurs lundi. The Verge note que cette sortie alimente les tensions déjà élevées entre la Silicon Valley et Washington d'un côté, et l'industrie technologique chinoise de l'autre. La publication de modèles ouverts chinois de haute capacité est devenue un point de friction majeur dans la compétition technologique entre les deux pays.
 
-En intelligence artificielle, deux développements à noter. D'abord, Reuters rapporte qu'Alibaba a dévoilé ce qu'elle décrit comme son modèle d'IA le plus performant à ce jour. Selon Reuters, ce nouveau modèle n'est pas loin derrière celui de Moonshot en termes de taille. Ensuite, également selon Reuters, un cabinet de recherche indique que le nouveau modèle d'IA de DeepSeek est de loin le moins coûteux à opérer parmi les modèles bien connus sur le marché.
+En parallèle, TechCrunch rapporte qu'un débat s'est ouvert dans l'industrie de l'IA autour des propos de Sam Altman, le dirigeant d'OpenAI, qui a appelé le secteur à, je le cite : "pace the rate of AI development." Fin de citation. TechCrunch note que ces commentaires ont relancé la discussion entre ceux qui veulent accélérer le développement et ceux qui préconisent un ralentissement volontaire.
 
-Ces deux annonces chinoises s'inscrivent dans un contexte où le débat sur la cadence de développement de l'IA est relancé. TechCrunch rapporte que Sam Altman, le président d'OpenAI, a appelé l'industrie à « ralentir la cadence de développement de l'IA ». Cette prise de position, plutôt inhabituelle de la part d'un des principaux acteurs du secteur, alimente un débat public sur la vitesse à laquelle ces technologies devraient progresser.
+Une startup appuyée par Marc Benioff, le fondateur de Salesforce, fait aussi parler d'elle ce matin. TechCrunch rapporte que June est sortie de la discrétion avec un financement pré-amorçage de 20 millions de dollars américains. Sa mission : simplifier l'adoption de l'IA en entreprise, un problème que beaucoup d'organisations rencontrent malgré la prolifération des outils disponibles.
 
-Le National Post soulève par ailleurs une question juridique émergente : qui est légalement responsable lorsqu'un agent d'IA agit de façon autonome et cause des dommages, comme lors de cyberattaques récemment attribuées à des modèles OpenAI qui auraient agi de façon non conforme ? Selon le Post, cette question n'a pas encore été tranchée devant les tribunaux.
- </chapitre>
+Du côté de la sécurité des consommateurs, TechCrunch rapporte que Samsung a interdit les applications de ses téléviseurs intelligents qui partagent la connexion internet des utilisateurs avec des inconnus. Cette pratique, liée à ce qu'on appelle les réseaux de proxys résidentiels, permet à des tiers d'acheminer leur trafic via l'adresse IP d'un autre utilisateur à son insu. De nouvelles recherches en sécurité auraient mis en lumière l'étendue de ce phénomène, ce qui a poussé Samsung à agir.
 
- <chapitre titre="Actualité québécoise">
-Un mot sur deux nouvelles de l'actualité québécoise.
+Enfin, The Verge rapporte que Microsoft a annoncé des hausses de prix importantes pour ses consoles Xbox en Europe et au Royaume-Uni. Selon The Verge, la Xbox Series X de 1 téraoctet avec lecteur disque passe de 499,99 livres à 669,99 livres au Royaume-Uni, soit une augmentation de plus de 30 pour cent. La Xbox Series S subit quant à elle une hausse de plus de 43 pour cent. The Verge attribue en partie ces augmentations à la hausse du prix des mémoires vives, elle-même liée à la demande de l'industrie de l'IA, un lien que l'on avait déjà établi la semaine dernière avec la pénurie affectant le MacBook Air d'Apple.
+  </chapitre>
 
-D'abord, un fait divers tragique. Radio-Canada rapporte qu'une commémoration a eu lieu dimanche dans une école secondaire de Shawinigan pour rendre hommage à un adolescent qui a été tué dans cette ville. Ses amis et proches se sont rassemblés pour lui rendre hommage.
+  <chapitre titre="Actualité québécoise">
+Deux éléments de l'actualité québécoise pour terminer.
 
-La Presse rapporte aussi qu'une possible tornade a causé des dommages à Repentigny dimanche en fin d'après-midi. Des arbres ont été déracinés, un balcon décroché, et des rues inondées. Les détails sur l'ampleur des dégâts n'étaient pas encore consolidés dimanche soir.
- </chapitre>
+D'abord, un bilan routier. La Presse rapporte que la SAAQ, la Société de l'assurance automobile du Québec, la Sûreté du Québec et l'Association des directeurs de police ont publié le bilan des vacances de la construction. Dix-huit personnes ont perdu la vie dans quinze collisions survenus sur les routes de la province durant cette période. C'est le bilan que ces organisations ont présenté ce matin.
 
- <chapitre titre="Sport">
-Rapidement en sport, deux nouvelles canadiennes.
+Ensuite, une petite secousse qui a surpris bien des gens dimanche soir. Le Devoir et La Presse rapportent tous deux que Séismes Canada a confirmé un tremblement de terre de magnitude 2,8 dans la région de Québec. La secousse s'est produite à 20 h 33. L'épicentre se trouvait à 12 kilomètres à l'ouest-sud-ouest de la ville, à une profondeur de 22,7 kilomètres. Sur les réseaux sociaux, plusieurs personnes ont dit avoir ressenti quelque chose, le comparant au passage d'un véhicule lourd ou à un coup de tonnerre. Aucun dommage n'a été signalé.
+  </chapitre>
 
-Sportsnet rapporte que les Blue Jays de Toronto ont échangé leur lanceur Kevin Gausman aux Cubs de Chicago. En retour, Toronto obtient Ty Southisene et Brett Bateman. C'est un mouvement de calibre dans la transaction de la date limite des échanges.
-
-Du côté du tennis, Reuters rapporte que les finales du tournoi de Washington ont été repoussées en raison de la pluie, et que des matchs de l'Omnium Banque Nationale, qui se tient en ce moment au Canada, ont également été retardés pour la même raison.
- </chapitre>
-
- <outro>Voilà pour ce Presto du 3 août 2026. Si ce briefing vous est utile, le meilleur coup de main que vous pouvez nous donner, c'est de le partager à une personne qui aime rester informée. Et selon votre plateforme : un abonnement sur Spotify ou Apple Podcasts, un pouce bleu et un abonnement sur YouTube, ça prend deux secondes et ça aide vraiment Presto à grandir. Sur ce, bonne journée, et à demain.</outro>
+  <outro>Voilà pour ce Presto du lundi 3 août 2026. Si ce briefing vous est utile, le meilleur coup de main que vous pouvez nous donner, c'est de le partager à une personne qui aime rester informée. Et selon votre plateforme : un abonnement sur Spotify ou Apple Podcasts, un pouce bleu et un abonnement sur YouTube, ça prend deux secondes et ça aide vraiment Presto à grandir. Sur ce, bonne journée, et à demain.</outro>
 </script>
 ```
