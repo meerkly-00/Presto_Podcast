@@ -23,6 +23,17 @@
       <link>https://www.prestopodcast.online</link>
     </image>
     <item>
+      <title>Presto — édition du 3 août 2026</title>
+      <description>Au menu : Canada : feux de forêt en Colombie-Britannique, Politique canadienne, International, Économie et marchés, Tech, Actualité québécoise, Sport</description>
+      <pubDate>Mon, 03 Aug 2026 08:01:21 +0000</pubDate>
+      <guid isPermaLink="false">https://github.com/meerkly-00/Presto_Podcast/releases/download/2026-08-03/2026-08-03.mp3</guid>
+      <enclosure url="https://github.com/meerkly-00/Presto_Podcast/releases/download/2026-08-03/2026-08-03.mp3" type="audio/mpeg" length="7807847"/>
+      <itunes:duration>739</itunes:duration>
+      <itunes:summary>Au menu : Canada : feux de forêt en Colombie-Britannique, Politique canadienne, International, Économie et marchés, Tech, Actualité québécoise, Sport</itunes:summary>
+      <itunes:episode>72</itunes:episode>
+      <itunes:image href="https://www.prestopodcast.online/artwork-v2.jpg"/>
+    </item>
+    <item>
       <title>Presto — édition du 2 août 2026</title>
       <description>Au menu : International, Politique canadienne, Actualité québécoise, Tech</description>
       <pubDate>Sun, 02 Aug 2026 08:00:57 +0000</pubDate>
@@ -86,17 +97,6 @@
       <itunes:duration>936</itunes:duration>
       <itunes:summary>Au menu : International, Politique canadienne, Actualité québécoise, Économie et marchés, Tech, Sport</itunes:summary>
       <itunes:episode>66</itunes:episode>
-      <itunes:image href="https://www.prestopodcast.online/artwork-v2.jpg"/>
-    </item>
-    <item>
-      <title>Presto — édition du 27 juillet 2026</title>
-      <description>Au menu : International, Politique canadienne, Actualité québécoise, Économie et marchés, Tech, Sport</description>
-      <pubDate>Mon, 27 Jul 2026 08:00:59 +0000</pubDate>
-      <guid isPermaLink="false">https://github.com/meerkly-00/Presto_Podcast/releases/download/2026-07-27/2026-07-27.mp3</guid>
-      <enclosure url="https://github.com/meerkly-00/Presto_Podcast/releases/download/2026-07-27/2026-07-27.mp3" type="audio/mpeg" length="9893035"/>
-      <itunes:duration>881</itunes:duration>
-      <itunes:summary>Au menu : International, Politique canadienne, Actualité québécoise, Économie et marchés, Tech, Sport</itunes:summary>
-      <itunes:episode>65</itunes:episode>
       <itunes:image href="https://www.prestopodcast.online/artwork-v2.jpg"/>
     </item>
   </channel>
