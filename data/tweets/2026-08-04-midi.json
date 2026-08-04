@@ -1,0 +1,14 @@
+{
+  "date": "2026-08-04",
+  "kind": "poll",
+  "text": "Ce matin → Les États-Unis ont acheté des yens en vendant des euros.\n\nL'intervention directe d'un État sur les marchés des changes est-elle justifiée pour corriger une monnaie ?",
+  "poll": {
+    "options": [
+      "Oui, si elle stabilise",
+      "Seulement en cas de",
+      "Non, les marchés doivent",
+      "Dépend du contexte"
+    ],
+    "duration_minutes": 1440
+  }
+}
