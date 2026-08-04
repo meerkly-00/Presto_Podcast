@@ -1,13 +1,13 @@
 {
   "date": "2026-08-04",
   "kind": "poll",
-  "text": "Ce matin → Les États-Unis ont acheté des yens en vendant des euros.\n\nL'intervention directe d'un État sur les marchés des changes est-elle justifiée pour corriger une monnaie ?",
+  "text": "Ce matin → Trump exige un accord ou une capitulation totale de l'Iran. Nouveau : les prix du pétrole baissent, car les États-Unis et l'Iran ont progressé vers la réouverture du détroit d'Ormuz.\n\nCes développements te font croire à une résolution rapide du dossier Iran?",
   "poll": {
     "options": [
-      "Oui, si elle stabilise",
-      "Seulement en cas de",
-      "Non, les marchés doivent",
-      "Dépend du contexte"
+      "Oui, les signaux sont",
+      "Non, trop de désaccords",
+      "Incertain pour le moment",
+      "Dépend des étapes"
     ],
     "duration_minutes": 1440
   }
