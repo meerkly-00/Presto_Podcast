@@ -1,13 +1,13 @@
 {
   "date": "2026-08-05",
   "kind": "poll",
-  "text": "Ce matin → 230 maisons détruites par les feux près de Vernon en C.-B.\n\nNouveau : des mesures de sécurité supplémentaires ont été mises en place pour les zones adjacentes, et les autorités élargissent les\n\nFace aux feux de forêt récurrents au Canada, que privilégies-tu?",
+  "text": "Ce matin → 230 maisons détruites par les feux près de Vernon en C.-B.\n\nNouveau : Trump affirme que les États-Unis et l'Iran ont des « very good discussions » sur\n\nSelon toi, quels investissements prioritaires aideraient le plus à réduire les pertes liées aux incendies de forêt?",
   "poll": {
     "options": [
-      "Renforcer les ressources",
-      "Investir en prévention",
-      "Adapter l'aménagement du",
-      "Combiner les trois"
+      "Prévention et détection",
+      "Infrastructure et",
+      "Reforestation et",
+      "Recherche climatique"
     ],
     "duration_minutes": 1440
   }
