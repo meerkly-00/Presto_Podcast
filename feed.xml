@@ -23,6 +23,17 @@
       <link>https://www.prestopodcast.online</link>
     </image>
     <item>
+      <title>Presto — édition du 5 août 2026</title>
+      <description>Au menu : Feux de forêt en Colombie-Britannique, International : Iran et le détroit d'Ormuz, International : autres dossiers, Politique canadienne, Économie et marchés, Tech, Actualité québécoise, Sport</description>
+      <pubDate>Wed, 05 Aug 2026 08:00:55 +0000</pubDate>
+      <guid isPermaLink="false">https://github.com/meerkly-00/Presto_Podcast/releases/download/2026-08-05/2026-08-05.mp3</guid>
+      <enclosure url="https://github.com/meerkly-00/Presto_Podcast/releases/download/2026-08-05/2026-08-05.mp3" type="audio/mpeg" length="9762833"/>
+      <itunes:duration>906</itunes:duration>
+      <itunes:summary>Au menu : Feux de forêt en Colombie-Britannique, International : Iran et le détroit d'Ormuz, International : autres dossiers, Politique canadienne, Économie et marchés, Tech, Actualité québécoise, Sport</itunes:summary>
+      <itunes:episode>74</itunes:episode>
+      <itunes:image href="https://www.prestopodcast.online/artwork-v2.jpg"/>
+    </item>
+    <item>
       <title>Presto — édition du 4 août 2026</title>
       <description>Au menu : International, Actualité américaine : feux de Spokane, Politique canadienne, Économie et marchés, Tech, Crypto, Actualité québécoise</description>
       <pubDate>Tue, 04 Aug 2026 08:00:52 +0000</pubDate>
