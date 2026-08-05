@@ -1,99 +1,109 @@
 ```xml
 <script>
-  <intro>Bonjour, on est le mercredi 5 août 2026. Voici votre Presto en environ 17 minutes. Au menu ce matin : les feux de forêt en Colombie-Britannique avec un bilan lourd, l'Iran et le détroit d'Ormuz dont la situation évolue rapidement, la mort de Lloyd Robertson, figure de la télé canadienne, les marchés et les résultats de SpaceX, la tech avec Texas et les centres de données, et quelques nouvelles du Québec.</intro>
-
-  <chapitre titre="Feux de forêt en Colombie-Britannique">
-On commence par une nouvelle lourde de la Colombie-Britannique, que Presto suit depuis plusieurs jours. La Presse rapporte qu'environ 230 maisons ont été détruites par un violent incendie de forêt près de Vernon. C'est le chef de la Première Nation d'Okanagan qui a fait cette annonce, et La Presse précise qu'il s'agit de l'une des pires pertes liées aux feux de forêt dans l'histoire récente du Canada.
-
-Pour rappel, les briefings des derniers jours avaient déjà signalé des milliers d'évacuations dans cette région. La situation reste active.
-
-Un mot aussi sur le dossier des feux à Spokane, dans l'État de Washington, que l'on a couvert mardi. L'Associated Press rapporte qu'un homme a été accusé d'avoir allumé le plus grand incendie de Spokane, et qu'il avait déjà été questionné en lien avec deux autres incendies l'année dernière. Les accusations sont maintenant formelles.
-
-Par ailleurs, la CBC rapporte qu'en Alberta, le ministère des Forêts et des Parcs fait face à des accusations criminelles en lien avec la mort d'un pompier forestier lors des feux de Jasper en 2024. Les accusations sont déposées en vertu de la loi sur la santé et la sécurité au travail, et portent sur des violations alléguées de plusieurs règles de sécurité.
-  </chapitre>
+  <intro>Bonjour, on est le mercredi 5 août 2026. Voici votre Presto en environ 17 minutes. Au menu ce matin : le détroit d'Ormuz, où un accord potentiel entre Washington et Téhéran pourrait être annoncé aujourd'hui même; la mort du journaliste Lloyd Robertson; les résultats de SpaceX et des nouvelles de marchés; Google Assistant qui tire sa révérence; et un mot sur la situation en Ukraine.</intro>
 
   <chapitre titre="International : Iran et le détroit d'Ormuz">
-Le dossier Iran-États-Unis continue d'évoluer rapidement, et c'est probablement la nouvelle internationale la plus structurante de ce matin.
+On commence par le dossier le plus structurant de ce matin, et celui qui mérite votre attention immédiate si vous nous écoutez pendant votre commute : la crise entre les États-Unis et l'Iran autour du détroit d'Ormuz.
 
-Reuters rapporte que le président Donald Trump a déclaré mardi que les États-Unis et l'Iran avaient, je le cite : "very good discussions." Fin de citation. Il a aussi prévenu que l'Iran serait, selon ses termes, frappé très fort si le détroit d'Ormuz n'était pas rouvert rapidement.
+Selon l'Associated Press, le président américain Donald Trump a déclaré mercredi qu'un accord pour rouvrir le détroit d'Ormuz pourrait être conclu dès aujourd'hui. La BBC rapporte que Trump a également prévenu que l'Iran serait, je le cite : "hit very hard." Fin de citation, si l'ouverture du détroit n'intervient pas rapidement.
 
-Du côté des négociations, le National Post rapporte qu'un haut responsable américain a dit qu'une entente pour rouvrir le détroit pourrait être conclue "aujourd'hui ou demain", ce qui a entraîné une baisse des prix du pétrole en anticipation d'une reprise des livraisons. Reuters confirme que le pétrole a prolongé sa baisse alors que les investisseurs attendent l'issue des discussions.
+Pour situer l'enjeu : le détroit d'Ormuz est le point de passage d'une grande partie du pétrole mondial. Sa fermeture, ou même la menace de fermeture, a des répercussions directes sur les prix du brut et, par ricochet, sur l'inflation et les marchés financiers. On va y revenir dans la section économie.
 
-L'Associated Press rapporte pour sa part que l'Iran et Oman travaillent ensemble sur un plan pour rouvrir le détroit. CBC World ajoute que le Qatar a dit que les médiateurs font des progrès.
+Le secrétaire d'État Marco Rubio et le secrétaire au Trésor Scott Bessent ont tous deux indiqué que les discussions avaient progressé, selon la BBC. Reuters rapporte par ailleurs que l'Iran et Oman travaillent ensemble sur un plan concret pour rouvrir le passage. L'Associated Press confirme ces développements et signale que des pourparlers impliquant plusieurs acteurs régionaux sont en cours.
 
-Cela dit, la situation reste tendue. CBC World précise que Téhéran a repoussé l'affirmation de Trump selon laquelle des pourparlers formels étaient en cours, et qu'une attaque contre un navire près du détroit a semé des doutes sur une résolution rapide.
+Côté iranien, la situation reste complexe. CBC World rapporte que Qatar a dit que des médiateurs faisaient des progrès pour mettre fin au conflit entre les États-Unis et l'Iran. Mais CBC souligne aussi qu'une attaque contre un navire près du détroit, survenue mardi, et un rebond des prix du pétrole ont semé des doutes sur la proximité d'une résolution. Téhéran avait en outre repoussé l'affirmation de Trump selon laquelle des négociations directes étaient déjà en cours.
 
-Bloomberg signale que la progression des négociations a eu un effet sur les marchés obligataires, réduisant les paris sur une hausse des taux. L'or, selon le Wall Street Journal, a progressé alors que les marchés évaluaient l'incertitude au Moyen-Orient.
+En bref : les signaux diplomatiques sont plus positifs que depuis longtemps dans ce dossier, mais la situation reste instable. Presto continue de suivre de près.
 
-En parallèle, le National Post rapporte que les incidents antisémites au Royaume-Uni ont augmenté de 21 % dans les six premiers mois de 2026 par rapport à la même période l'année dernière, une hausse que la charité juive citée dans l'article attribue au contexte du conflit américano-israélien contre l'Iran.
+Toujours sur le front international, un bref mot sur le Venezuela. Radio-Canada rapporte que la présidente par intérim Delcy Rodriguez avait jusqu'au 5 août, soit aujourd'hui, pour organiser un scrutin électoral. La situation politique au Venezuela demeure tendue.
   </chapitre>
 
-  <chapitre titre="International : autres dossiers">
-Un autre développement diplomatique à noter. Reuters rapporte que les États-Unis ont révoqué le visa de l'ambassadeur du Brésil, dans le cadre d'un différend diplomatique entre Washington et Brasília. L'article ne détaille pas les causes précises du différend.
+  <chapitre titre="International : Ukraine et Moyen-Orient">
+Deux autres dossiers internationaux méritent votre attention ce matin.
 
-Du côté de la Corée du Sud, la BBC rapporte que les bureaux de Starbucks Korea ont été perquisitionnés par la police. Des plaintes avaient été déposées contre la chaîne pour avoir fait, selon les plaignants, référence de manière légère au soulèvement de Gwangju, un événement historique particulièrement sensible dans la mémoire collective coréenne.
+D'abord l'Ukraine. CBC World et BBC World rapportent tous deux qu'une frappe russe par missiles et drones sur Kyiv et la région environnante a tué 17 personnes et en a blessé 42 autres dans la nuit de mardi à mercredi. Le ministère russe de la Défense a affirmé avoir visé des centres logistiques et des dépôts d'approvisionnement dans la capitale et ses environs. Le président ukrainien Volodymyr Zelensky a déclaré que des intercepteurs auraient pu sauver des vies, ce qui relance le débat sur les livraisons de systèmes de défense antiaérienne à l'Ukraine.
 
-En Ukraine, BBC World et Radio-Canada rapportent tous deux qu'une frappe russe a tué au moins 15 à 17 personnes dans la région de Kiev. Radio-Canada précise que l'attaque a provoqué des incendies dans des entrepôts et des sites logistiques. Le président Zelensky a indiqué que des systèmes d'interception supplémentaires auraient pu sauver des vies. Le chef de l'administration militaire de Kiev parle d'une attaque massive de la région.
+Ensuite, au Moyen-Orient. Al Jazeera rapporte que des discussions entre le Liban et Israël se poursuivent à Rome pour une deuxième journée, mais que les deux parties restent divisées sur deux points centraux : le désarmement du Hezbollah et le retrait des forces israéliennes du sud du Liban. Aucun progrès décisif n'a été signalé au moment de ces échanges.
 
-Enfin, en Europe, L'Associated Press rapporte que des rumeurs en ligne ont déclenché une ruée de migrants vers l'enclave espagnole de Ceuta, au Maroc. Les détails sur l'ampleur et le dénouement de cet épisode restent à préciser dans les prochaines heures.
+L'Associated Press rapporte pour sa part que le premier ministre israélien Benjamin Netanyahu a réaffirmé qu'il n'y aurait aucun retrait israélien de Gaza tant que le Hamas ne serait pas entièrement désarmé. Cette position continue de bloquer les négociations sur un accord de cessez-le-feu.
+
+Par ailleurs, CBC World a publié un reportage sur une cérémonie funèbre à Gaza : près de trois ans après la mort de plus de 100 membres des familles Abu Sharia et Hasayna dans une frappe aérienne israélienne, les survivants ont pu procéder à des funérailles, après des mois d'attente liée aux conditions sur le terrain.
+
+En Inde, Al Jazeera rapporte que la mousson de cette année a été particulièrement meurtrière, causant plus de 100 morts depuis juillet en raison de glissements de terrain et d'inondations. Al Jazeera attribue en partie l'intensité de la mousson aux dérèglements climatiques et au phénomène El Niño.
   </chapitre>
 
   <chapitre titre="Politique canadienne">
-Deux nouvelles canadiennes ce matin, dont une qui touche directement les relations entre Ottawa et Washington.
+Deux nouvelles importantes en politique canadienne ce matin.
 
-CBC rapporte que l'administration Trump a annoncé la fermeture du consulat américain de Winnipeg, présentée comme une mesure d'économie. Un ancien employé du consulat dit que cette décision fera perdre aux États-Unis le contact avec "une large portion du Canada". C'est une décision qui s'inscrit dans un contexte plus large de reconfiguration de la présence diplomatique américaine.
+D'abord, le décès de Lloyd Robertson. Global News rapporte que le journaliste canadien Lloyd Robertson, qui a passé plus de six décennies dans l'industrie de la radiodiffusion, est mort à l'âge de 92 ans. Robertson était l'une des figures les plus reconnues du journalisme télévisé canadien, ayant occupé le poste d'animateur principal aux nouvelles nationales de CTV pendant des décennies. Sa mort constitue la fin d'une époque pour le journalisme canadien.
 
-Et ce matin, le décès de Lloyd Robertson, ancienne figure vedette de CTV News. Radio-Canada, le National Post et Global News rapportent tous trois que Robertson est décédé mardi soir à l'âge de 92 ans. Sa famille l'a confirmé à La Presse canadienne. Robertson avait rejoint CTV en 1976 et en avait été le chef d'antenne et rédacteur en chef de 1984 à 2011. Pendant onze années consécutives, les lecteurs du TV Guide Canada l'avaient élu journaliste télévisé le plus digne de confiance au pays. Il terminait chacun de ses bulletins par une formule devenue sa marque de commerce : "Voilà le genre de journée que j'ai passée." Il avait 92 ans.
+Ensuite, un dossier qui touche la politique fédérale. Les Affaires rapporte que le gouvernement du Canada a établi un registre des activités d'influence étrangère. Ce registre vise à encadrer et à rendre transparentes les activités de personnes qui travaillent au nom d'entités étrangères et qui cherchent à influencer des décisions politiques ou gouvernementales canadiennes. L'article ne précise pas les détails du mécanisme ni les entités visées en priorité.
 
-À noter aussi, Global News rapporte que du boeuf australien, vendu à un prix nettement inférieur aux prix canadiens dans des épiceries en Alberta, pourrait introduire de la concurrence sur le marché de la viande bovine et aider à stabiliser les coûts pour les consommateurs. Global News précise que cette dynamique est observée dans les épiceries albertaines.
+CBC rapporte par ailleurs que l'ancien député fédéral vert Mike Morrice, qui représentait la circonscription de Kitchener-Centre en Ontario, a annoncé sa candidature à la direction du Parti vert du Canada. Selon CBC, il est l'un des deux candidats actuellement en lice pour diriger ce parti.
+
+Global News rapporte enfin qu'un groupe d'anciens conscrits iraniens vivant au Canada craignent d'être déportés. Un avocat en immigration cité dans l'article explique que plusieurs hommes d'origine iranienne font face à des procédures d'expulsion en raison de leur service militaire passé en Iran, un service qui était obligatoire. L'article soulève des questions sur l'interprétation des dossiers d'immigration dans ce contexte.
+
+Reuters rapporte également que l'armée canadienne a confirmé qu'un militaire accusé d'infractions liées au terrorisme n'était plus en service actif. L'article ne fournit pas le nom de l'individu ni les détails des accusations.
   </chapitre>
 
   <chapitre titre="Économie et marchés">
-En économie, plusieurs développements à couvrir ce matin. On commence par les marchés américains, qui ont atteint des niveaux records mardi. L'Associated Press rapporte que les actions américaines ont progressé, portées notamment par des résultats solides de Palantir et par un recul des prix du pétrole lié aux espoirs d'une entente sur le détroit d'Ormuz. Bloomberg confirme que les marchés asiatiques s'orientaient à la hausse en début de journée, dans le même contexte.
+En économie, plusieurs développements structurants ce matin, dont certains sont directement liés à la situation en Iran.
 
-Sur les tarifs douaniers, une décision importante. Le Financial Times rapporte que l'administration Trump a remboursé 100 milliards de dollars américains en tarifs prélevés lors de la journée dite de "liberation day". C'est un renversement notable, même si le Financial Times ne précise pas les raisons détaillées dans l'article disponible.
+Sur les marchés américains mardi, l'Associated Press rapporte que les actions américaines ont atteint des niveaux records, portées notamment par des résultats solides de l'entreprise Palantir et par un recul des prix du pétrole. Le Wall Street Journal rapporte ce matin que l'or s'échange au-dessus de 4 200 dollars américains l'once, en partie en raison des perspectives d'un accord au Moyen-Orient qui atténueraient les pressions inflationnistes. Bloomberg note pour sa part que la progression boursière a vacillé en fin de séance en raison d'une remontée des prix du pétrole liée aux menaces sur les routes d'approvisionnement maritime.
 
-Du côté des devises, le dossier du yen japonais que Presto suivait en début de semaine se précise. Al Jazeera explique que l'intervention coordonnée de Washington et Tokyo sur le marché des changes vise à éviter des effets d'entraînement sur le système financier mondial. Le Financial Times décrit cette action comme un signal d'un "nouvel activisme américain en matière de devises" de la part du secrétaire au Trésor Scott Bessent. Reuters Business avertit que cette intervention pourrait signaler une tempête parfaite sur les marchés des changes et des obligations.
+Bloomberg rapporte également que le cuivre s'approche du seuil de 14 000 dollars américains la tonne, en raison de flux accrus vers les États-Unis qui resserrent le marché mondial.
 
-Bloomberg rapporte aussi que le cuivre s'approche des 14 000 dollars américains la tonne métrique, en raison d'une réduction des flux vers les États-Unis qui resserre le marché.
+Sur le front des devises, le Financial Times et Reuters Business signalent tous deux de l'agitation autour du yen japonais. Reuters parle d'une intervention sur le yen qui pourrait signaler une tempête parfaite sur les marchés des changes et des obligations. Le Financial Times évoque le "vrai message" derrière cette intervention, sans que les détails complets soient disponibles dans les articles agrégés.
 
-Résultats de SpaceX : Reuters Business rapporte que l'entreprise d'Elon Musk a publié ses premiers résultats financiers, et que les revenus ont progressé de manière marquée, portés par les activités satellite et intelligence artificielle. TechCrunch ajoute que lors de l'appel aux investisseurs, Musk a surenchéri à plusieurs reprises sur les promesses déjà ambitieuses faites par ses dirigeants.
+Côté tarifs douaniers, le Financial Times rapporte que l'administration Trump a remboursé 100 milliards de dollars américains en droits de douane prélevés lors du "Liberation Day", la journée d'annonce des tarifs massifs plus tôt cette année. Cette décision représente un recul partiel, mais l'article ne précise pas les critères de remboursement ni les secteurs concernés.
 
-SpaceX a aussi annoncé des ambitions dans les télécommunications mobiles. The Verge rapporte que la présidente de SpaceX, Gwynne Shotwell, a dit que l'entreprise compte construire un réseau mobile terrestre pour concurrencer T-Mobile, AT&T et Verizon. SpaceX dit vouloir utiliser le spectre qu'elle a acquis auprès d'EchoStar à cette fin. Elon Musk a pour sa part dit vouloir "acquérir un bon nombre" de clients des grands opérateurs.
+En Inde, le Financial Times rapporte que le gouvernement indien a levé 40 milliards de dollars américains auprès de la diaspora indienne pour soutenir la roupie, dont la valeur s'était détériorée.
 
-Côté véhicules électriques, Reuters Business rapporte que Lucid, le fabricant d'électriques, reporte le lancement de son modèle abordable dans le cadre d'une "remise à zéro opérationnelle". TechCrunch précise que le nouveau PDG Silvio Napoli a identifié quatre priorités, dont réduire les dépenses de 1,4 milliard de dollars américains et développer des robotaxis. Ars Technica de son côté note que Tesla, dont la usine de Shanghai a battu un record de production en juin, fait face à une baisse de ses ventes locales en Chine depuis plus d'un an, même si l'usine demeure très rentable en partie grâce aux exportations vers l'Europe et le Canada.
+Du côté des résultats d'entreprise, SpaceX a tenu son premier appel aux résultats, et les chiffres sont notables. Reuters Business rapporte que les revenus de SpaceX ont progressé de façon marquée, tirés notamment par ses activités satellitaires et ses services liés à l'intelligence artificielle. TechCrunch rapporte par ailleurs qu'Elon Musk a plusieurs fois surenchéri sur les promesses de ses propres dirigeants lors de l'appel, en amplifiant les projections du directeur financier et de la présidente Gwynne Shotwell.
 
-Un tribunal américain a statué que l'EPA, l'agence de protection de l'environnement de Trump, a eu tort de mettre fin à des milliards de dollars en subventions climatiques. Reuters Business rapporte que la cour d'appel a renversé cette décision.
+Toujours sur SpaceX, The Verge rapporte que lors de cet appel, Shotwell et Musk ont annoncé l'intention de l'entreprise de construire un réseau de téléphonie mobile terrestre pour concurrencer directement T-Mobile, AT&T et Verizon. SpaceX possède du spectre radioélectrique acquis auprès d'EchoStar qui comporte une composante terrestre. On y reviendra dans la section Tech.
+
+Reuters Business rapporte enfin que le fabricant de véhicules électriques Lucid a annoncé le report du lancement de son véhicule électrique abordable, invoquant une remise à plat opérationnelle. L'entreprise n'a pas fourni de nouvelle date cible.
+
+Un sondage de KPMG Canada publié ce matin et relayé par Les Affaires indique que les entreprises canadiennes perçoivent des perspectives prometteuses dans le programme économique du gouvernement fédéral, mais soulignent que l'exécution est désormais l'enjeu central.
   </chapitre>
 
   <chapitre titre="Tech">
-Deux dossiers tech structurants ce matin.
+Plusieurs développements technologiques importants ce matin.
 
-Le premier concerne le Texas. Ars Technica rapporte que le gouverneur républicain Greg Abbott a imposé un moratoire sur tous les nouveaux raccordements de centres de données au réseau électrique de l'État, et ce jusqu'à ce que les développeurs fournissent davantage d'information sur l'impact de leurs projets sur le réseau et les communautés locales. Le gouverneur a ordonné à la Commission de services publics du Texas et aux gestionnaires du réseau ERCOT d'effectuer une vérification complète de tous les centres de données en attente de connexion. Ars Technica rappelle que le Texas avait activement courtisé les centres de données avec des incitatifs fiscaux et peu de réglementation, au point d'être sur le point de devenir le plus grand marché américain dans ce secteur, dépassant la Virginie. Ce moratoire marque donc un tournant.
+D'abord, une annonce qui va toucher des millions d'utilisateurs Android dans le monde. The Verge rapporte que Google a annoncé la fin de Google Assistant sur les téléphones et tablettes Android, ainsi que sur les appareils couplés comme les montres intelligentes et les écouteurs. L'accès sera retiré à compter du 4 septembre prochain. L'annonce a été faite par courriel envoyé à certains utilisateurs, et repérée par le site 9to5Google. Google Assistant sera ainsi remplacé par Gemini, l'assistant basé sur l'intelligence artificielle générative que Google déploie depuis l'an dernier.
 
-Le deuxième dossier vient d'Ars Technica également : des sénateurs américains ont écrit à la Commodity Futures Trading Commission, la CFTC, pour demander un encadrement des marchés prédictifs sur les feux de forêt. Des sites comme Polymarket avaient permis à des utilisateurs de miser sur l'évolution des feux en Californie. Les sénateurs, représentant notamment l'Oregon, la Californie et le Nevada, estiment que ces marchés minimisent la souffrance des communautés touchées au profit de gains financiers.
+Ensuite, un dossier qui soulève des questions sur la politique américaine en matière d'IA. The Verge rapporte, en citant Axios, que la Maison-Blanche a publié un cadre de test de cybersécurité pour les systèmes d'intelligence artificielle avancés. Ce cadre fait suite à un décret signé par Trump en juin qui demandait aux entreprises d'IA de partager leurs modèles de frontière avec le gouvernement avant leur publication. Mais The Verge note que ce cadre exclut explicitement les modèles ouverts, c'est-à-dire ceux que n'importe qui peut télécharger et inspecter. De plus, le cadre stipule qu'il ne peut pas être utilisé pour restreindre des modèles ouverts après leur publication. Des critiques du domaine estiment que cette exclusion crée un angle mort majeur dans la politique de cybersécurité liée à l'IA.
 
-Sur Signal, The Verge rapporte que l'application de messagerie chiffrée permet maintenant de lier plusieurs téléphones à un même compte, une fonctionnalité jusqu'ici limitée aux ordinateurs et aux tablettes. La mise à jour est disponible à partir des versions 8.20 sur Android et 8.22 sur iPhone.
+Sur SpaceX et la téléphonie, pour revenir sur ce qu'on mentionnait à l'instant : The Verge rapporte que la présidente de SpaceX, Gwynne Shotwell, a confirmé lors de l'appel aux résultats que l'entreprise entend déployer une infrastructure terrestre pour la téléphonie mobile, en plus de son réseau satellitaire. Elon Musk a affirmé vouloir "acquérir un bon nombre" de clients aujourd'hui abonnés aux trois grands opérateurs américains. C'est la première fois que SpaceX confirme aussi explicitement son intention de concurrencer directement les opérateurs établis.
 
-Enfin, Ars Technica rapporte que l'administration Trump a accepté de réactiver un programme de subventions pour l'accès à la large bande, après qu'un tribunal l'a forcée à respecter le Digital Equity Act adopté par le Congrès en 2021. Le gouvernement acceptera les demandes de subvention dès décembre. Toutefois, un juge a permis à l'administration d'exclure les critères raciaux et ethniques dans l'attribution des fonds, une victoire partielle pour l'administration.
+Côté données au Texas, un développement qu'on suivait depuis hier : Ars Technica rapporte en détail que le gouverneur républicain Greg Abbott a confirmé le 3 août un moratoire sur tous les nouveaux raccordements de centres de données au réseau électrique de l'État. Abbott a demandé aux régulateurs de l'énergie et à ERCOT, l'opérateur du réseau texan, de réaliser un audit complet de tous les projets de centres de données en cours de raccordement. Le Texas avait pourtant activement courtisé ce secteur avec des incitatifs fiscaux et des fonciers moins chers. Ce virage illustre la tension croissante entre la demande en électricité des centres de données et la stabilité des réseaux.
+
+Ars Technica rapporte aussi que l'administration Trump a été contrainte de réinstaurer une partie du programme de subventions à l'accès à la large bande, après une décision de justice lui interdisant d'ignorer complètement la loi sur l'équité numérique votée par le Congrès en 2021. Le gouvernement prévoit de rouvrir les demandes de subventions en décembre. Cela dit, le tribunal a accordé une victoire partielle à l'administration en statuant que les critères d'attribution ne peuvent pas être basés sur la race ou l'ethnicité des bénéficiaires, bien que des critères comme le revenu, l'âge et le handicap restent permis.
+
+Enfin, sur Tesla et la Chine : Ars Technica rapporte que l'usine de Shanghai a connu son meilleur mois de juin jamais enregistré, avec 93 579 véhicules produits, en hausse de 38 % par rapport à juin 2025. Mais les ventes aux clients chinois sont en baisse depuis plus d'un an. En conséquence, plus de 40 % de la production de cette usine est destinée à l'exportation, notamment vers l'Europe, le Canada et d'autres marchés asiatiques. Au total, au deuxième trimestre, plus de la moitié des véhicules produits à Shanghai étaient destinés à l'export. Ars Technica note que Tesla étudie en coulisse une possible séparation des actifs chinois et non chinois de l'entreprise, bien que Tesla ait nié ces préparatifs.
   </chapitre>
 
   <chapitre titre="Actualité québécoise">
 Quelques nouvelles du Québec pour terminer.
 
-D'abord, les inondations. La Presse rapporte que la Communauté métropolitaine de Montréal demande à Québec de financer une cartographie des zones à risque d'inondation dans la région métropolitaine. La mairesse Soraya Martinez Ferrada a fait cette demande publiquement mardi, dans la foulée d'épisodes de pluies diluviennes répétés. Rappelons que le dernier briefing avait signalé des résidants de Pierrefonds qui manifestaient devant la mairie.
+La Presse rapporte qu'une étude du World Weather Attribution de l'Imperial College de Londres conclut que les changements climatiques liés aux combustibles fossiles ont doublé la probabilité des conditions météorologiques extrêmes responsables des récents incendies de forêt en Ontario et dans les Territoires du Nord-Ouest. C'est une donnée qui s'inscrit dans un contexte de saison des feux particulièrement active au Canada cet été.
 
-Le Journal de Montréal rapporte que les glissements de terrain risquent de devenir plus fréquents au Québec, sans préciser les causes ou les données derrière cette affirmation dans le texte disponible. La tendance est à suivre.
+Toujours en lien avec les intempéries, La Presse mentionne dans sa revue de presse du matin que la municipalité de L'Ascension, dans les Laurentides, a déclenché un état d'urgence après que des pluies diluviennes ont provoqué l'affaissement de plusieurs routes, dont une partie de la rue Principale. La situation paralyse la municipalité.
 
-À Montréal, La Presse rapporte que la Ville a présenté un plan de développement urbain, économique et social pour le Quartier chinois. L'objectif est d'occuper différemment l'espace public, de lutter contre l'itinérance et la crise du logement, notamment en s'attaquant aux nombreux terrains vacants du secteur.
+Radio-Canada rapporte que le gouvernement du Québec élargit ses projets vitrines en soutien à domicile à neuf régions. Jusqu'à 623 000 heures de services à tarifs réduits pourraient être rendues disponibles dans le cadre de cette expansion, qui vise à offrir davantage de soins à la maison pour les personnes âgées ou en perte d'autonomie.
 
-En santé mentale, Radio-Canada rapporte que l'organisme Jeunesse, J'écoute a recensé une hausse de 24 % des conversations nocturnes pour le début de 2026. Cela signifie que de plus en plus de jeunes cherchent de l'aide en dehors des heures habituelles, la nuit.
-
-Et sur le plan judiciaire, La Presse rapporte que la police a trouvé des traces de sang sur la veste d'une fillette de neuf ans originaire de Montréal, décédée l'été dernier dans une zone rurale de l'État de New York. L'enquête se poursuit.
+Radio-Canada rapporte également qu'une vaste enquête policière cible un terrain à Sainte-Julie dans le cadre d'une affaire de vols de véhicules et d'aluminium. La Ville avait déjà constaté des infractions sur ce terrain.
   </chapitre>
 
   <chapitre titre="Sport">
-Rapidement en sport. Radio-Canada rapporte que Gabriel Diallo et Denis Shapovalov ont tous deux dû abandonner à l'Omnium Banque Nationale de Montréal en raison de blessures. Félix Auger-Aliassime, deuxième tête de série du tournoi, est le seul Canadien encore en lice. Du côté masculin à Toronto, Sportsnet signale que Vladimir Guerrero Jr. des Blue Jays de Toronto se sent "tendu et fatigué" et a connu des difficultés au bâton mardi.
+Rapidement en sport. Au tennis, deux nouvelles à noter pour les amateurs canadiens.
+
+CBC rapporte que la joueuse philippine Alex Eala, fraîchement couronnée d'une victoire au tournoi Mubadala Open de Washington, joue ce mercredi à l'Omnium Banque Nationale de Toronto devant une salle comble de 10 000 spectateurs. Elle est la première joueuse des Philippines à remporter un titre sur le circuit WTA.
+
+Du côté canadien, Sportsnet rapporte que Denis Shapovalov a dû abandonner à l'Omnium Banque Nationale de Montréal en raison d'une blessure, ce qui constitue une nouvelle déception pour lui après une saison difficile. On retiendra aussi que Vladimir Guerrero Jr., des Blue Jays de Toronto, est décrit par l'entraîneur John Schneider comme étant "tight and tired", selon Sportsnet. Guerrero a connu des difficultés au bâton en mardi, et sa condition physique sera à surveiller dans les prochains jours.
+
+Global News signale par ailleurs que Jeremy Lin estime que l'arrivée de Kawhi Leonard fait des Raptors de Toronto un adversaire à prendre au sérieux dans l'association de l'Est la saison prochaine.
   </chapitre>
 
   <outro>Voilà pour ce Presto du mercredi 5 août 2026. Si ce briefing vous est utile, le meilleur coup de main que vous pouvez nous donner, c'est de le partager à une personne qui aime rester informée. Et selon votre plateforme : un abonnement sur Spotify ou Apple Podcasts, un pouce bleu et un abonnement sur YouTube, ça prend deux secondes et ça aide vraiment Presto à grandir. Sur ce, bonne journée, et à demain.</outro>
