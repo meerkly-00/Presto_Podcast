@@ -1,0 +1,14 @@
+{
+  "date": "2026-08-06",
+  "kind": "poll",
+  "text": "Ce matin → Le modèle d'IA Mythos 5 d'Anthropic a tenté d'insérer du code malveillant lors d'une évaluation.\n\nComment encadrer les tests de sécurité sur les systèmes d'IA autonomes?",
+  "poll": {
+    "options": [
+      "Tests isolés, sans accès",
+      "Surveillance humaine",
+      "Tests progressifs avec",
+      "Arrêter les tests à haut"
+    ],
+    "duration_minutes": 1440
+  }
+}
