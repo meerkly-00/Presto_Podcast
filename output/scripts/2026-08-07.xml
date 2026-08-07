@@ -1,0 +1,83 @@
+```xml
+<script>
+  <intro>Bonjour, on est le vendredi 7 août 2026. Voici votre Presto en environ 17 minutes. Au menu ce matin : l'international avec le détroit d'Ormuz, la Thaïlande et la Chine, la politique canadienne avec une démission dans le caucus conservateur, l'économie et les marchés, la tech avec OpenAI et Meta, et un coup d'oeil rapide sur le sport.</intro>
+
+  <chapitre titre="International">
+Commençons par la scène internationale, où trois dossiers méritent votre attention ce matin.
+
+D'abord, le détroit d'Ormuz. On vous a suivi ce dossier toute la semaine et la situation continue d'évoluer. Reuters rapporte que le prix du pétrole a progressé ce matin en raison des inquiétudes liées aux plans de réouverture du détroit. Autrement dit, même l'annonce de négociations en cours génère de l'incertitude sur les marchés pétroliers mondiaux. Bloomberg confirme de son côté que les bourses asiatiques ont marqué une pause ce matin, les investisseurs attendant les chiffres de l'emploi américain tout en surveillant l'évolution de la situation au Moyen-Orient. On continue de suivre ce dossier.
+
+Ensuite, une tragédie en Thaïlande. Radio-Canada et l'Associated Press rapportent tous deux qu'un adolescent de 14 ou 15 ans a ouvert le feu dans une école secondaire et a tué au moins 8 personnes, dont 6 à l'intérieur même de l'établissement. Le tireur est mort, selon plusieurs médias locaux thaïlandais. L'Associated Press faisait initialement état d'au moins 6 victimes dans un rapport plus tôt ce matin.
+
+Troisième dossier : la Chine et les États-Unis, à la veille d'un sommet Trump-Xi attendu le mois prochain. Le National Post rapporte que la Chine a déployé un arsenal croissant de mesures de rétorsion légales contre Washington, en réponse aux restrictions américaines sur les technologies. Selon le National Post, Beijing cherche ainsi à envoyer un avertissement à Washington avant la rencontre prévue entre Xi Jinping et Donald Trump. Les tensions portent principalement sur l'accès aux technologies de pointe, un dossier que les deux capitales se disputent depuis plusieurs années.
+
+En parallèle, le National Post rapporte également que la Nouvelle-Zélande et plusieurs autres pays du Pacifique ont tenté, lors d'une rencontre annuelle de diplomates à Fidji, de faire adopter une déclaration conjointe condamnant un récent essai de missile nucléaire par la Chine. Selon le National Post, cette tentative s'est heurtée à de la résistance de la part de certains pays de la région. La ministre des Affaires étrangères de la Nouvelle-Zélande a dit publiquement regretter que l'occasion n'ait pas été saisie.
+
+Toujours sur la scène internationale, le National Post rapporte que l'Arabie saoudite, la Turquie et le Pakistan devaient signer vendredi un pacte de défense conjoint à Djeddah. Cette information provient de sources proches du gouvernement et de l'armée saoudiens, selon l'agence AFP citée par le National Post.
+
+Enfin, une nouvelle triste du côté de l'alpinisme. Al Jazeera rapporte qu'une équipe de secours a récupéré les corps du grimpeur renommé Nirmal Purja et de plusieurs membres de son équipe, tués lors d'une avalanche sur le Broad Peak, un sommet de plus de 8 000 mètres au Pakistan.
+
+En Allemagne, Ars Technica rapporte que la police a désarmé un drone portant des explosifs découvert près de deux avions-cargo ukrainiens de la compagnie Antonov Airlines, stationnés à l'aéroport de Leipzig. Selon le ministre fédéral de l'Intérieur Alexander Dobrindt, le drone avait été modifié pour tromper les capteurs de détection de l'aéroport et transportait un paquet d'une substance identifiée comme étant du Semtex, un explosif plastique. Seul un détonateur défaillant a empêché l'explosion. Les autorités allemandes cherchent également si un deuxième drone était impliqué, après qu'un aéronef en approche a percuté quelque chose en vol. La piste d'un acte de sabotage délibéré est à l'étude.
+  </chapitre>
+
+  <chapitre titre="Politique canadienne">
+En politique canadienne ce matin, deux nouvelles à noter.
+
+D'abord, une démission dans le caucus conservateur. Global News rapporte que le député Larry Brock a annoncé qu'il quittera son siège le mois prochain. Brock devient ainsi le septième député à quitter le caucus de Pierre Poilievre depuis l'élection de 2025. Selon Global News, quatre de ces départs se sont soldés par des traversées du plancher vers les libéraux. Il n'est pas précisé dans l'article si Brock compte faire de même ou simplement quitter la politique.
+
+Deuxième dossier : une Canadienne sera déportée des États-Unis. La Presse rapporte que le département de la Sécurité intérieure américain a confirmé mercredi sur les réseaux sociaux qu'une ressortissante canadienne, accusée d'avoir agressé une adolescente portant ce qui est décrit comme une tenue « pro-Trump », allait être expulsée vers le Canada. La Presse ne précise pas le nom de la personne ni les circonstances exactes de l'agression.
+
+Du côté de la Nouvelle-Écosse, La Presse rapporte que la province prévoit d'interdire dès cet automne aux enfants de moins de 14 ans d'utiliser des trottinettes et vélos électriques sur la voie publique. C'est le ministre des Travaux publics qui a fait l'annonce.
+
+Aussi sur le plan des relations immigration-Canada : Radio-Canada rapporte qu'un avocat constate une augmentation des refus de renouvellement de permis de travail en raison d'erreurs à Immigration, Réfugiés et Citoyenneté Canada, l'IRCC. Des immigrants déplorent ce qu'ils décrivent comme un manque d'humanité de la part du ministère. L'article ne donne pas de chiffres précis sur l'ampleur de la hausse des refus.
+  </chapitre>
+
+  <chapitre titre="Économie et marchés">
+On passe à l'économie et aux marchés.
+
+Sur les marchés, Bloomberg rapporte que les bourses asiatiques étaient orientées à la baisse ce matin, les investisseurs attendant la publication des chiffres de l'emploi aux États-Unis plus tard aujourd'hui, tout en surveillant la situation au Moyen-Orient. Le pétrole, lui, progressait : Reuters indique que les cours du brut ont augmenté ce matin en raison des incertitudes liées à la réouverture du détroit d'Ormuz.
+
+L'or, de son côté, a clôturé en légère baisse jeudi. Le Wall Street Journal indique que l'or Comex s'est établi à 4 242 dollars US l'once, en recul de 0,09 % par rapport à la séance précédente.
+
+Côté immobilier canadien, deux marchés majeurs ont publié leurs données de juillet. BNN Bloomberg rapporte que les ventes résidentielles dans la région de Montréal ont reculé de 10 % en juillet. L'Association professionnelle des courtiers immobiliers du Québec parle d'une « phase d'ajustement ». Dans la région du Grand Toronto, BNN Bloomberg rapporte également une baisse des ventes en juillet, accompagnée d'un recul des prix. Les deux marchés évoluent donc dans la même direction cet été.
+
+Du côté des entreprises, Reuters Business rapporte qu'Apollo a conclu une entente de rachat de la compagnie aérienne britannique EasyJet pour 7,7 milliards de dollars US, après que le concurrent Castlelake s'est retiré des négociations. C'est une transaction majeure dans le secteur du transport aérien européen.
+
+Toujours selon Reuters Business, la part des travailleurs dans le produit intérieur brut des États-Unis a atteint un creux record. L'article ne fournit pas de chiffre précis, mais indique que cette mesure, qui représente la portion de la richesse économique allant aux salariés plutôt qu'aux actionnaires et propriétaires de capital, est à son niveau le plus bas jamais enregistré.
+
+Dans le secteur des semiconducteurs, Reuters Business rapporte qu'AMD a approfondi sa position dans l'inférence en intelligence artificielle en acquérant la société Taalas, dans un contexte de concurrence accrue dans la course aux puces spécialisées pour l'IA.
+
+Sur la question de la Réserve fédérale américaine, le Financial Times rapporte que le nouveau président de la Fed, Kevin Warsh, a l'intention de maintenir une communication sobre sur les perspectives de politique monétaire, malgré les réactions négatives de certains marchés à son approche. Le FT note également que Warsh a été lu à tort par certains observateurs, un débat qui porte sur la direction que prendra la politique de taux d'intérêt américaine dans les prochains mois.
+
+Enfin, Bloomberg rapporte que la société de trading Jane Street est en discussion pour transférer 11 milliards de dollars US de dette à des investisseurs institutionnels, dont Pimco. C'est un mouvement notable dans le monde de la finance de marché, Jane Street étant l'une des firmes de trading quantitatif les plus actives au monde.
+  </chapitre>
+
+  <chapitre titre="Tech">
+Un mot sur la tech. Plusieurs développements à couvrir ce matin.
+
+D'abord, le mystérieux appareil d'OpenAI prend forme. The Verge et TechCrunch rapportent tous deux des détails sur le premier gadget développé par OpenAI en collaboration avec l'ex-designer d'Apple Jony Ive. Selon Bloomberg, cité par The Verge, il s'agirait d'un appareil sans écran, alimenté par batterie, de la taille d'une rondelle de hockey, avec une forme de beigne. L'appareil comporterait des éléments mobiles qui s'animent quand il interagit avec l'utilisateur, une caméra, des capteurs et des lumières. Il serait conçu pour être déplacé facilement dans la maison. TechCrunch précise que le prix se situerait entre 300 et 400 dollars US, et que le lancement est prévu pour 2027.
+
+Côté Google, The Verge rapporte que l'événement de lancement des produits Pixel 11 est prévu pour le 12 août. L'animateur de la soirée sera le comédien Trevor Noah. Plusieurs célébrités seront également présentes, dont la star du basketball Stephen Curry, désigné « Google Performance Advisor ».
+
+Du côté de Meta, une décision judiciaire importante. Le National Post et la BBC World rapportent tous deux qu'un juge du Nouveau-Mexique a ordonné à Meta de payer 567 millions de dollars US supplémentaires dans le cadre d'un dossier portant sur la protection des enfants en ligne. Cette somme s'ajoute à 375 millions de dollars US que Meta avait déjà été condamnée à payer dans la même affaire, pour un total de 942 millions de dollars US. Le juge a conclu que Meta avait créé une « nuisance publique » et causé du tort aux mineurs. La BBC qualifie cette décision de plus importante condamnation liée à la sécurité des enfants jamais imposée à une entreprise de médias sociaux.
+
+Sur la plateforme X d'Elon Musk, Ars Technica rapporte que l'entreprise tente de relancer sa poursuite judiciaire contre des annonceurs qu'elle accuse d'avoir mené un boycott illégal. Un juge de district avait rejeté la poursuite en mars, concluant qu'il n'y avait pas eu de violation des lois antitrust. X demande maintenant au cinquième circuit d'appel de renverser cette décision. Ars Technica note par ailleurs que Musk avait conclu une entente la semaine dernière avec la Fédération mondiale des annonceurs, le premier défendeur nommé dans la poursuite originale.
+
+Dans l'univers de la musique générée par intelligence artificielle, Ars Technica rapporte que Suno, l'une des plateformes de création musicale par IA les plus utilisées, annonce qu'elle ajoutera des filigranes numériques à toutes ses productions audio. Le président-directeur général de Suno dit que ce changement vise à répondre aux « normes émergentes » de l'industrie pour l'étiquetage des contenus générés par IA. Les plateformes pourront ainsi choisir d'identifier ce contenu ou de le bloquer.
+
+Enfin, selon Reuters, Alibaba envisage de facturer les grands utilisateurs commerciaux de son prochain modèle d'IA à code ouvert. Ce serait un changement de modèle d'affaires pour Alibaba, dont les modèles précédents étaient entièrement gratuits pour tous les usages.
+  </chapitre>
+
+  <chapitre titre="Sport">
+Rapidement en sport.
+
+À Montréal, l'Omnium Banque Nationale continue d'attirer du monde. Radio-Canada rapporte que le jeune Espagnol Rafael Jodar, 19 ans, classé au 15e rang mondial de l'ATP, a battu l'Italien Lorenzo Musetti, 11e tête de série, jeudi soir devant une salle comble au Stade IGA. Jodar accède ainsi aux huitièmes de finale. Radio-Canada rappelle son parcours : il était au 540e rang mondial il y a un an, a remporté son premier titre ATP 250 à Marrakech, et s'est rendu jusqu'en quarts de finale à Roland-Garros cette année. TVA Sports rapporte par ailleurs qu'un autre favori a été éliminé à Montréal jeudi, sans préciser lequel dans le titre disponible.
+
+Au football canadien, Sportsnet rapporte que les Argonauts de Toronto ont battu les Stampeders de Calgary lors de leur retour à domicile, grâce notamment au jeu collectif de l'équipe. C'est leur première victoire à domicile après 306 jours loin de leurs partisans, selon Sportsnet.
+
+Au basketball, Global News rapporte que les Sea Bears de Winnipeg ont remporté leur premier match éliminatoire de l'histoire de la franchise, défaisant le Mamba de Saskatoon 99 à 88 en demi-finale de conférence Ouest de la Ligue élite canadienne de basketball, la CEBL.
+  </chapitre>
+
+  <outro>Voilà pour ce Presto du vendredi 7 août 2026. Si ce briefing vous est utile, le meilleur coup de main que vous pouvez nous donner, c'est de le partager à une personne qui aime rester informée. Et selon votre plateforme : un abonnement sur Spotify ou Apple Podcasts, un pouce bleu et un abonnement sur YouTube, ça prend deux secondes et ça aide vraiment Presto à grandir. Sur ce, bonne journée, et à demain.</outro>
+</script>
+```
