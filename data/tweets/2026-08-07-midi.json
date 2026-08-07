@@ -1,13 +1,13 @@
 {
   "date": "2026-08-07",
   "kind": "poll",
-  "text": "Ce matin → fusillade dans une école secondaire en Thaïlande, au moins 8 morts.\n\nMise à jour : le tireur, un adolescent, a d'abord tué ses grands-parents à domicile avant de se rendre à l'école où il a\n\nSelon toi, quelle action devrait être prioritaire après de tels incidents?",
+  "text": "Ce matin → Au moins 8 morts dans une fusillade en Thaïlande. Nouveau → L'auteur, un adolescent de 14-15 ans, a d'abord tué ses grands-parents avant d'ouvrir le feu à son école. Il a été retrouvé décédé.\n\nComment devraient réagir les écoles face aux risques de violence armée?",
   "poll": {
     "options": [
-      "Renforcer l'accès aux",
-      "Restreindre l'accès aux",
-      "Améliorer la sécurité",
-      "Enquêter sur les signaux"
+      "Renforcer la sécurité",
+      "Améliorer le suivi",
+      "Réformer l'accès aux",
+      "Combiner plusieurs"
     ],
     "duration_minutes": 1440
   }
