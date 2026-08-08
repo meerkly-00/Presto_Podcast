@@ -1,13 +1,13 @@
 {
   "date": "2026-08-08",
   "kind": "poll",
-  "text": "Ce matin → L'Arabie saoudite, la Turquie et le Pakistan ont signé un pacte de défense conjoint.\n\nDéveloppement : L'Iran et Oman viennent de conclure un accord sur les routes de navigation dans le détroit d'Ormuz,\n\nComment vois-tu ces nouveaux accords régionaux au Moyen-Orient?",
+  "text": "Ce matin → L'Arabie saoudite, la Turquie et le Pakistan ont signé un pacte de défense conjoint vendredi.\n\nMise à jour : Al Jazeera rapporte que ce pacte suscite des réactions\n\nSelon toi, les alliances régionales comme celle-ci contribuent-elles à la stabilité au Moyen-Orient?",
   "poll": {
     "options": [
-      "Stabilisent la région",
-      "Augmentent les tensions",
-      "Reflètent des enjeux",
-      "Sans opinion"
+      "Oui, elles équilibrent",
+      "Non, elles",
+      "C'est plus complexe que",
+      "Pas assez d'info pour"
     ],
     "duration_minutes": 1440
   }
