@@ -78,7 +78,8 @@ def build_cta(date_str: str = "") -> str:
         label = f"Édition du {d} {_MOIS_FR[m - 1]} — "
     except Exception:
         pass
-    return f"{label}le briefing complet sur toutes les plateformes 🎙️\n→ prestopodcast.online"
+    return (f"{label}écoute le briefing complet 🎙️\n"
+            f"→ https://open.spotify.com/show/033pvJapq7VhGPvCyn5Bhy")
 
 
 def extract_thread(script_xml: str) -> list[str]:
