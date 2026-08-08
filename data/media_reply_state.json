@@ -1,11 +1,15 @@
 {
   "user_ids": {
     "JdeMontreal": "31016249",
-    "LP_LaPresse": "10681662"
+    "LP_LaPresse": "10681662",
+    "LeDevoir": "16442020",
+    "RadioCanadaInfo": "15836703"
   },
   "last_seen": {
-    "JdeMontreal": "2086082232033112078",
-    "LP_LaPresse": "2086081584273469613"
+    "JdeMontreal": "2086099171266765128",
+    "LP_LaPresse": "2086081584273469613",
+    "LeDevoir": "2086087086822572426",
+    "RadioCanadaInfo": "2086095049016971482"
   },
   "replied": [],
   "daily": {}
