@@ -152,7 +152,19 @@ letter-spacing:.08em;padding:12px 22px;border-radius:6px;cursor:pointer;text-dec
 background:var(--gold);color:var(--bg);border:1px solid var(--gold)}
 .btn.alt{background:transparent;color:var(--gold)}
 .btn:hover{opacity:.88}
+.btn.spotify{background:#1DB954;border-color:#1DB954;color:#fff;
+display:inline-flex;align-items:center;gap:8px}
+.btn.spotify svg{width:16px;height:16px;flex-shrink:0}
 """
+
+_SPOTIFY_SVG = ('<svg viewBox="0 0 24 24" fill="currentColor" aria-hidden="true">'
+                '<path d="M12 0C5.373 0 0 5.373 0 12s5.373 12 12 12 12-5.373 12-12S18.627 0 12 0zm5.507 '
+                '17.308a.748.748 0 0 1-1.029.248c-2.818-1.722-6.366-2.112-10.544-1.157a.748.748 0 1 '
+                '1-.333-1.459c4.572-1.045 8.494-.595 11.658 1.339.352.215.463.676.248 1.029zm1.47-3.267a.936.936 '
+                '0 0 1-1.287.31c-3.226-1.983-8.143-2.558-11.958-1.4a.936.936 0 1 1-.544-1.791c4.36-1.324 '
+                '9.78-.683 13.48 1.594a.936.936 0 0 1 .309 1.287zm.126-3.403C15.237 8.34 8.892 8.129 5.203 '
+                '9.249a1.123 1.123 0 1 1-.652-2.148c4.235-1.286 11.275-1.038 15.738 1.611a1.123 1.123 0 0 '
+                '1-1.146 1.926z"/></svg>')
 
 
 def render_episode_page(content, meta):
@@ -175,7 +187,8 @@ def render_episode_page(content, meta):
         direct_btn = ""
         play_js = ""
     buttons = (f'<div class="btns">{direct_btn}'
-               f'<a class="btn alt" href="{SPOTIFY_URL}" target="_blank" rel="noopener">Écouter sur Spotify</a></div>')
+               f'<a class="btn spotify" href="{SPOTIFY_URL}" target="_blank" rel="noopener">'
+               f'{_SPOTIFY_SVG}Écouter sur Spotify</a></div>')
 
     chapters_html = ""
     for ch in content["chapters"]:

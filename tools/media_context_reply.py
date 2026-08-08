@@ -190,6 +190,8 @@ def main():
 
             if dry_run:
                 log.info("[DRY_RUN] Non posté.")
+                # En dry run on continue d'évaluer les autres tweets frais pour la démo
+                continue
             else:
                 try:
                     posted = tw.create_tweet(text=reply_text, in_reply_to_tweet_id=int(tweet.id))
@@ -205,12 +207,14 @@ def main():
                 except Exception as e:
                     log.error("Erreur posting : %s", e)
 
-            # Un seul reply (ou une seule évaluation postable) par run
+            # Un seul reply posté par run
             save_state(state)
             return
 
-    save_state(state)
-    log.info("Run terminé sans reply.")
+    # En dry run, ne rien persister : le vrai run doit revoir les mêmes tweets
+    if not dry_run:
+        save_state(state)
+    log.info("Run terminé sans reply posté.")
 
 
 if __name__ == "__main__":
