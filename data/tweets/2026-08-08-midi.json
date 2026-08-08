@@ -1,0 +1,14 @@
+{
+  "date": "2026-08-08",
+  "kind": "poll",
+  "text": "Ce matin → L'Arabie saoudite, la Turquie et le Pakistan ont signé un pacte de défense conjoint.\n\nDéveloppement : L'Iran et Oman viennent de conclure un accord sur les routes de navigation dans le détroit d'Ormuz,\n\nComment vois-tu ces nouveaux accords régionaux au Moyen-Orient?",
+  "poll": {
+    "options": [
+      "Stabilisent la région",
+      "Augmentent les tensions",
+      "Reflètent des enjeux",
+      "Sans opinion"
+    ],
+    "duration_minutes": 1440
+  }
+}
