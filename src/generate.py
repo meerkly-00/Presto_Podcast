@@ -115,7 +115,7 @@ def generate_script(
     if date is None:
         date = datetime.now()
     date_fr = _format_date_fr(date)
-    model = model or os.getenv("CLAUDE_MODEL", "claude-sonnet-4-6")
+    model = model or os.getenv("CLAUDE_MODEL", "claude-sonnet-5")
 
     user_parts = [
         f"Date : {date_fr}",

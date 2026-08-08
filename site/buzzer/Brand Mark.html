@@ -1,0 +1,246 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>LE BUZZER — Marque & icône</title>
+<link rel="preconnect" href="https://fonts.googleapis.com" />
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+<link href="https://fonts.googleapis.com/css2?family=Anton&family=Oswald:wght@400;500;600;700&family=Archivo:wght@400;500;600;700&display=swap" rel="stylesheet" />
+<style>
+:root{
+  --red:#E63946;--black:#0D0D0D;--yellow:#FFD60A;--cream:#F1FAEE;--paper:#F4F1E8;
+  --display:'Anton',sans-serif;--cond:'Oswald',sans-serif;--body:'Archivo',sans-serif;
+}
+*{box-sizing:border-box;margin:0;padding:0}
+body{background:#dcdce0;color:#141414;font-family:var(--body);-webkit-font-smoothing:antialiased}
+.page{max-width:1180px;margin:0 auto;padding:44px clamp(16px,4vw,52px) 120px}
+.pk{font-family:var(--cond);font-weight:700;font-size:13px;letter-spacing:0.2em;text-transform:uppercase;color:var(--red)}
+h1.t{font-family:var(--display);font-size:clamp(2rem,4vw,3rem);line-height:0.95;margin-top:10px;letter-spacing:0.01em}
+.intro{max-width:62ch;margin-top:14px;color:#3a3a40;line-height:1.6}
+.block{margin-top:52px}
+.cap{display:flex;align-items:baseline;gap:14px;margin-bottom:18px;flex-wrap:wrap}
+.cap .ct{font-family:var(--cond);font-weight:700;font-size:18px;letter-spacing:0.06em;text-transform:uppercase}
+.cap .cd{font-size:14px;color:#56565e;max-width:60ch}
+
+/* ---------- THE MARK ---------- */
+.mark{position:relative;display:inline-block;font-family:var(--display);line-height:0.8;color:var(--zc,#F1FAEE)}
+.mark .lamp{position:absolute;left:50%;bottom:100%;transform:translateX(-50%);width:0.43em;margin-bottom:-0.04em;line-height:0;pointer-events:none}
+.mark .lamp svg{width:100%;height:auto;display:block;filter:drop-shadow(0 0 0.1em rgba(230,57,70,0.4))}
+.mark .dome,.mark .base{fill:var(--dome,#E63946)}
+.mark .rays{stroke:var(--rays,#FFD60A);animation:flash 1.9s ease-in-out infinite}
+.mark .glint{fill:#fff;opacity:0.22}
+@keyframes flash{0%,100%{opacity:0.38}50%{opacity:1}}
+@media(prefers-reduced-motion:reduce){.mark .rays{animation:none;opacity:0.85}}
+
+/* hero showcase */
+.show{display:grid;grid-template-columns:1fr 1fr;gap:18px}
+.show .panel{border-radius:10px;display:grid;place-items:center;padding:54px 20px;min-height:280px}
+.show .panel.dark{background:var(--black)}
+.show .panel.light{background:var(--paper)}
+.show .wordmark{font-family:var(--display);font-size:clamp(2.4rem,6vw,4.6rem);line-height:0.82;letter-spacing:0.02em;display:flex;align-items:flex-end}
+.show .wordmark .mark{font-size:1em}
+.dark .wordmark{color:var(--cream)}
+.light .wordmark{color:var(--black)}
+@media(max-width:680px){.show{grid-template-columns:1fr}}
+
+/* ---------- APP ICON TILES ---------- */
+.icon{border-radius:22.6%;display:grid;place-items:center;overflow:hidden;position:relative;box-shadow:0 10px 26px -10px rgba(0,0,0,0.45)}
+.icon::after{content:"";position:absolute;inset:0;border-radius:inherit;box-shadow:inset 0 1px 0 rgba(255,255,255,0.14),inset 0 0 0 1px rgba(0,0,0,0.04);pointer-events:none}
+.icon .mark{font-size:0.62em;margin-top:0.14em}
+.tiles{display:flex;gap:26px;flex-wrap:wrap;align-items:flex-start}
+.tile{display:flex;flex-direction:column;align-items:center;gap:12px}
+.tile .lab{font-family:var(--cond);font-weight:600;font-size:12px;letter-spacing:0.1em;text-transform:uppercase;color:#56565e;text-align:center}
+.tile .lab b{display:block;color:#141414;font-weight:700;letter-spacing:0.04em;font-size:13px}
+
+/* legibility row */
+.legib{display:flex;align-items:flex-end;gap:26px;flex-wrap:wrap;background:#fff;border-radius:12px;padding:34px 30px}
+.legib .tile .lab{color:#8a8a90}
+
+/* phone mock */
+.phone-wrap{display:flex;justify-content:center}
+.phone{
+  width:300px;height:620px;border-radius:46px;background:#0b0b0c;
+  padding:14px;box-shadow:0 30px 70px -20px rgba(0,0,0,0.55),inset 0 0 0 2px #2a2a2e;
+  position:relative;overflow:hidden;
+}
+.screen{
+  width:100%;height:100%;border-radius:34px;overflow:hidden;position:relative;
+  background:linear-gradient(170deg,#3a4a6b,#26314a 55%,#1c2236);
+}
+.screen .stat{display:flex;justify-content:space-between;align-items:center;padding:14px 22px 6px;font-family:var(--body);font-weight:700;font-size:13px;color:#fff}
+.notch{position:absolute;top:12px;left:50%;transform:translateX(-50%);width:96px;height:24px;background:#0b0b0c;border-radius:14px;z-index:5}
+.grid-apps{display:grid;grid-template-columns:repeat(4,1fr);gap:18px 16px;padding:26px 22px}
+.ga{display:flex;flex-direction:column;align-items:center;gap:6px}
+.ga .sq{width:54px;height:54px;border-radius:14px;background:rgba(255,255,255,0.16)}
+.ga .nm{font-family:var(--body);font-size:9.5px;color:rgba(255,255,255,0.86)}
+.ga.real .nm{font-weight:700;color:#fff}
+.dock{position:absolute;left:14px;right:14px;bottom:16px;height:78px;border-radius:26px;background:rgba(255,255,255,0.14);backdrop-filter:blur(8px);display:flex;align-items:center;justify-content:space-around;padding:0 16px}
+.dock .sq{width:52px;height:52px;border-radius:14px;background:rgba(255,255,255,0.22)}
+</style>
+</head>
+<body>
+<div class="page">
+  <div class="pk">LE BUZZER · Système de marque</div>
+  <h1 class="t">LA SIRÈNE DE BUT.</h1>
+  <p class="intro">Le Z devient le poteau, la lampe de but s'allume dessus. Un seul geste relie le nom, le hockey et l'idée du « buzzer » — et il se détache aussi bien en énorme dans le titre qu'en tout petit comme icône d'application.</p>
+
+  <!-- WORDMARK SHOWCASE -->
+  <div class="block">
+    <div class="cap"><span class="ct">Le mot-symbole</span><span class="cd">La lampe vit sur le Z de BUZZER. Discrète, elle clignote doucement (désactivée en mode mouvement réduit).</span></div>
+    <div class="show">
+      <div class="panel dark">
+        <div class="wordmark">LE&nbsp;BU<span class="mark" style="--zc:var(--cream)"><span class="lamp"><svg viewBox="0 0 120 98"><path class="rays" d="M60 5 V21 M21 23 L33 35 M99 23 L87 35" stroke-width="9" stroke-linecap="round" fill="none"/><path class="dome" d="M30 83 V57 C30 29 90 29 90 57 V83 Z"/><rect class="base" x="22" y="80" width="76" height="13" rx="4"/><ellipse class="glint" cx="50" cy="53" rx="7" ry="11"/></svg></span>Z</span>ZER</div>
+      </div>
+      <div class="panel light">
+        <div class="wordmark">LE&nbsp;BU<span class="mark" style="--zc:var(--black)"><span class="lamp"><svg viewBox="0 0 120 98"><path class="rays" d="M60 5 V21 M21 23 L33 35 M99 23 L87 35" stroke-width="9" stroke-linecap="round" fill="none"/><path class="dome" d="M30 83 V57 C30 29 90 29 90 57 V83 Z"/><rect class="base" x="22" y="80" width="76" height="13" rx="4"/><ellipse class="glint" cx="50" cy="53" rx="7" ry="11"/></svg></span>Z</span>ZER</div>
+      </div>
+    </div>
+  </div>
+
+  <!-- APP ICON TREATMENTS -->
+  <div class="block">
+    <div class="cap"><span class="ct">L'icône d'application</span><span class="cd">Le Z + lampe seul, dans le carré. Quelques pistes de couleur.</span></div>
+    <div class="tiles">
+      <div class="tile">
+        <div class="icon" style="width:172px;height:172px;font-size:172px;background:var(--black);--zc:var(--cream)">
+          <span class="mark"><span class="lamp"><svg viewBox="0 0 120 98"><path class="rays" d="M60 5 V21 M21 23 L33 35 M99 23 L87 35" stroke-width="9" stroke-linecap="round" fill="none"/><path class="dome" d="M30 83 V57 C30 29 90 29 90 57 V83 Z"/><rect class="base" x="22" y="80" width="76" height="13" rx="4"/><ellipse class="glint" cx="50" cy="53" rx="7" ry="11"/></svg></span>Z</span>
+        </div>
+        <div class="lab"><b>Noir</b>Z cream · lampe rouge</div>
+      </div>
+      <div class="tile">
+        <div class="icon" style="width:172px;height:172px;font-size:172px;background:var(--cream);--zc:var(--black)">
+          <span class="mark"><span class="lamp"><svg viewBox="0 0 120 98"><path class="rays" d="M60 5 V21 M21 23 L33 35 M99 23 L87 35" stroke-width="9" stroke-linecap="round" fill="none"/><path class="dome" d="M30 83 V57 C30 29 90 29 90 57 V83 Z"/><rect class="base" x="22" y="80" width="76" height="13" rx="4"/><ellipse class="glint" cx="50" cy="53" rx="7" ry="11"/></svg></span>Z</span>
+        </div>
+        <div class="lab"><b>Cream</b>Z noir · lampe rouge</div>
+      </div>
+      <div class="tile">
+        <div class="icon" style="width:172px;height:172px;font-size:172px;background:var(--red);--zc:var(--cream);--dome:var(--black);--rays:var(--yellow)">
+          <span class="mark"><span class="lamp"><svg viewBox="0 0 120 98"><path class="rays" d="M60 5 V21 M21 23 L33 35 M99 23 L87 35" stroke-width="9" stroke-linecap="round" fill="none"/><path class="dome" d="M30 83 V57 C30 29 90 29 90 57 V83 Z"/><rect class="base" x="22" y="80" width="76" height="13" rx="4"/><ellipse class="glint" cx="50" cy="53" rx="7" ry="11"/></svg></span>Z</span>
+        </div>
+        <div class="lab"><b>Rouge</b>Z cream · lampe noire</div>
+      </div>
+      <div class="tile">
+        <div class="icon" style="width:172px;height:172px;font-size:172px;background:var(--yellow);--zc:var(--black);--dome:var(--red);--rays:var(--black)">
+          <span class="mark"><span class="lamp"><svg viewBox="0 0 120 98"><path class="rays" d="M60 5 V21 M21 23 L33 35 M99 23 L87 35" stroke-width="9" stroke-linecap="round" fill="none"/><path class="dome" d="M30 83 V57 C30 29 90 29 90 57 V83 Z"/><rect class="base" x="22" y="80" width="76" height="13" rx="4"/><ellipse class="glint" cx="50" cy="53" rx="7" ry="11"/></svg></span>Z</span>
+        </div>
+        <div class="lab"><b>Jaune</b>Z noir · lampe rouge</div>
+      </div>
+    </div>
+  </div>
+
+  <!-- LEGIBILITY -->
+  <div class="block">
+    <div class="cap"><span class="ct">Lisible en miniature</span><span class="cd">Le même icône à 128, 64, 44, 32 et 24 px — le test du pouce sur Spotify et de l'avatar.</span></div>
+    <div class="legib">
+      <div class="tile">
+        <div class="icon" style="width:128px;height:128px;font-size:128px;background:var(--black);--zc:var(--cream)"><span class="mark"><span class="lamp"><svg viewBox="0 0 120 98"><path class="rays" d="M60 5 V21 M21 23 L33 35 M99 23 L87 35" stroke-width="9" stroke-linecap="round" fill="none"/><path class="dome" d="M30 83 V57 C30 29 90 29 90 57 V83 Z"/><rect class="base" x="22" y="80" width="76" height="13" rx="4"/><ellipse class="glint" cx="50" cy="53" rx="7" ry="11"/></svg></span>Z</span></div>
+        <div class="lab">128</div>
+      </div>
+      <div class="tile">
+        <div class="icon" style="width:64px;height:64px;font-size:64px;background:var(--black);--zc:var(--cream)"><span class="mark"><span class="lamp"><svg viewBox="0 0 120 98"><path class="rays" d="M60 5 V21 M21 23 L33 35 M99 23 L87 35" stroke-width="9" stroke-linecap="round" fill="none"/><path class="dome" d="M30 83 V57 C30 29 90 29 90 57 V83 Z"/><rect class="base" x="22" y="80" width="76" height="13" rx="4"/><ellipse class="glint" cx="50" cy="53" rx="7" ry="11"/></svg></span>Z</span></div>
+        <div class="lab">64</div>
+      </div>
+      <div class="tile">
+        <div class="icon" style="width:44px;height:44px;font-size:44px;background:var(--black);--zc:var(--cream)"><span class="mark"><span class="lamp"><svg viewBox="0 0 120 98"><path class="rays" d="M60 5 V21 M21 23 L33 35 M99 23 L87 35" stroke-width="9" stroke-linecap="round" fill="none"/><path class="dome" d="M30 83 V57 C30 29 90 29 90 57 V83 Z"/><rect class="base" x="22" y="80" width="76" height="13" rx="4"/><ellipse class="glint" cx="50" cy="53" rx="7" ry="11"/></svg></span>Z</span></div>
+        <div class="lab">44</div>
+      </div>
+      <div class="tile">
+        <div class="icon" style="width:32px;height:32px;font-size:32px;background:var(--black);--zc:var(--cream)"><span class="mark"><span class="lamp"><svg viewBox="0 0 120 98"><path class="rays" d="M60 5 V21 M21 23 L33 35 M99 23 L87 35" stroke-width="9" stroke-linecap="round" fill="none"/><path class="dome" d="M30 83 V57 C30 29 90 29 90 57 V83 Z"/><rect class="base" x="22" y="80" width="76" height="13" rx="4"/><ellipse class="glint" cx="50" cy="53" rx="7" ry="11"/></svg></span>Z</span></div>
+        <div class="lab">32</div>
+      </div>
+      <div class="tile">
+        <div class="icon" style="width:24px;height:24px;font-size:24px;background:var(--black);--zc:var(--cream)"><span class="mark"><span class="lamp"><svg viewBox="0 0 120 98"><path class="rays" d="M60 5 V21 M21 23 L33 35 M99 23 L87 35" stroke-width="9" stroke-linecap="round" fill="none"/><path class="dome" d="M30 83 V57 C30 29 90 29 90 57 V83 Z"/><rect class="base" x="22" y="80" width="76" height="13" rx="4"/><ellipse class="glint" cx="50" cy="53" rx="7" ry="11"/></svg></span>Z</span></div>
+        <div class="lab">24</div>
+      </div>
+    </div>
+  </div>
+
+  <!-- PHONE -->
+  <div class="block">
+    <div class="cap"><span class="ct">Sur l'écran d'accueil</span><span class="cd">Comment l'icône tient au milieu des autres.</span></div>
+    <div class="phone-wrap">
+      <div class="phone">
+        <div class="notch"></div>
+        <div class="screen">
+          <div class="stat"><span>9:41</span><span>5G ▪ 100%</span></div>
+          <div class="grid-apps">
+            <div class="ga"><div class="sq"></div><div class="nm">Agenda</div></div>
+            <div class="ga"><div class="sq"></div><div class="nm">Photos</div></div>
+            <div class="ga"><div class="sq"></div><div class="nm">Notes</div></div>
+            <div class="ga"><div class="sq"></div><div class="nm">Météo</div></div>
+            <div class="ga real">
+              <div class="icon sq" style="width:54px;height:54px;font-size:54px;border-radius:14px;background:var(--black);--zc:var(--cream)"><span class="mark"><span class="lamp"><svg viewBox="0 0 120 98"><path class="rays" d="M60 5 V21 M21 23 L33 35 M99 23 L87 35" stroke-width="9" stroke-linecap="round" fill="none"/><path class="dome" d="M30 83 V57 C30 29 90 29 90 57 V83 Z"/><rect class="base" x="22" y="80" width="76" height="13" rx="4"/><ellipse class="glint" cx="50" cy="53" rx="7" ry="11"/></svg></span>Z</span></div>
+              <div class="nm">Le Buzzer</div>
+            </div>
+            <div class="ga"><div class="sq"></div><div class="nm">Réglages</div></div>
+            <div class="ga"><div class="sq"></div><div class="nm">Plans</div></div>
+            <div class="ga"><div class="sq"></div><div class="nm">Horloge</div></div>
+            <div class="ga"><div class="sq"></div><div class="nm">App Store</div></div>
+            <div class="ga"><div class="sq"></div><div class="nm">Musique</div></div>
+            <div class="ga"><div class="sq"></div><div class="nm">Caméra</div></div>
+            <div class="ga"><div class="sq"></div><div class="nm">Santé</div></div>
+          </div>
+          <div class="dock"><div class="sq"></div><div class="sq"></div><div class="sq"></div><div class="sq"></div></div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- COULEURS -->
+  <div class="block">
+    <div class="cap"><span class="ct">Les couleurs</span><span class="cd">Quatre teintes, point. Le rouge structure, le jaune ponctue (la lampe), le noir et le cream portent tout le reste.</span></div>
+    <div style="display:grid;grid-template-columns:repeat(4,1fr);gap:14px">
+      <div style="border-radius:10px;overflow:hidden;box-shadow:0 8px 22px -12px rgba(0,0,0,0.45)">
+        <div style="height:148px;background:#E63946"></div>
+        <div style="padding:14px 16px;background:#fff">
+          <div style="font-family:var(--cond);font-weight:700;letter-spacing:0.04em;text-transform:uppercase;font-size:14px">Rouge écarlate</div>
+          <div style="font-family:var(--cond);color:#8a8a90;font-size:13px;letter-spacing:0.08em;margin-top:3px">#E63946</div>
+        </div>
+      </div>
+      <div style="border-radius:10px;overflow:hidden;box-shadow:0 8px 22px -12px rgba(0,0,0,0.45)">
+        <div style="height:148px;background:#0D0D0D"></div>
+        <div style="padding:14px 16px;background:#fff">
+          <div style="font-family:var(--cond);font-weight:700;letter-spacing:0.04em;text-transform:uppercase;font-size:14px">Noir profond</div>
+          <div style="font-family:var(--cond);color:#8a8a90;font-size:13px;letter-spacing:0.08em;margin-top:3px">#0D0D0D</div>
+        </div>
+      </div>
+      <div style="border-radius:10px;overflow:hidden;box-shadow:0 8px 22px -12px rgba(0,0,0,0.45)">
+        <div style="height:148px;background:#FFD60A"></div>
+        <div style="padding:14px 16px;background:#fff">
+          <div style="font-family:var(--cond);font-weight:700;letter-spacing:0.04em;text-transform:uppercase;font-size:14px">Jaune buzzer</div>
+          <div style="font-family:var(--cond);color:#8a8a90;font-size:13px;letter-spacing:0.08em;margin-top:3px">#FFD60A</div>
+        </div>
+      </div>
+      <div style="border-radius:10px;overflow:hidden;box-shadow:0 8px 22px -12px rgba(0,0,0,0.45)">
+        <div style="height:148px;background:#F1FAEE;box-shadow:inset 0 0 0 1px rgba(0,0,0,0.08)"></div>
+        <div style="padding:14px 16px;background:#fff">
+          <div style="font-family:var(--cond);font-weight:700;letter-spacing:0.04em;text-transform:uppercase;font-size:14px">Cream</div>
+          <div style="font-family:var(--cond);color:#8a8a90;font-size:13px;letter-spacing:0.08em;margin-top:3px">#F1FAEE</div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- TYPOGRAPHIE -->
+  <div class="block">
+    <div class="cap"><span class="ct">La typographie</span><span class="cd">Sans-serif compressé broadcast. Anton pour frapper, Oswald pour étiqueter, Archivo pour lire.</span></div>
+    <div style="background:#fff;border-radius:12px;padding:clamp(22px,3vw,40px);display:flex;flex-direction:column">
+      <div style="padding-bottom:26px;border-bottom:1px solid #e6e6ea">
+        <div style="font-family:var(--cond);font-weight:600;font-size:12px;letter-spacing:0.16em;text-transform:uppercase;color:#E63946">Anton — Titres &amp; manchettes</div>
+        <div style="font-family:var(--display);font-size:clamp(2.4rem,6vw,4.6rem);line-height:0.9;letter-spacing:0.01em;margin-top:12px;color:#0D0D0D">TOUT LE SPORT DE LA NUIT.</div>
+      </div>
+      <div style="padding:26px 0;border-bottom:1px solid #e6e6ea">
+        <div style="font-family:var(--cond);font-weight:600;font-size:12px;letter-spacing:0.16em;text-transform:uppercase;color:#E63946">Oswald — Étiquettes &amp; navigation</div>
+        <div style="font-family:var(--cond);font-weight:600;font-size:clamp(1rem,2vw,1.5rem);letter-spacing:0.16em;text-transform:uppercase;margin-top:12px;color:#0D0D0D">LNH · NBA · FOOT · F1 · MMA · L'ANGLE DU JOUR</div>
+      </div>
+      <div style="padding-top:26px">
+        <div style="font-family:var(--cond);font-weight:600;font-size:12px;letter-spacing:0.16em;text-transform:uppercase;color:#E63946">Archivo — Texte courant</div>
+        <p style="font-family:var(--body);font-size:clamp(15px,1.5vw,18px);line-height:1.6;margin-top:12px;color:#2a2a2e;max-width:62ch">Avant 6h, tout est déjà décortiqué : la victoire du Canadien et nos Québécois à l'étranger, la nuit NBA, les grands soirs d'Europe, le paddock F1 et la carte UFC du week-end. Une voix, un montage serré, un point de vue assumé.</p>
+      </div>
+    </div>
+  </div>
+
+</div>
+</body>
+</html>

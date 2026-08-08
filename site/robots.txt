@@ -1,0 +1,9 @@
+# Presto — robots.txt
+# Politique : indexation + citation IA OUI, entraînement IA NON.
+# Le blocage par-bot (citation autorisée / entraînement bloqué) est géré
+# par Cloudflare (AI Crawl Control + Block AI bots), qui préfixe ce fichier.
+User-agent: *
+Content-Signal: search=yes,ai-train=no
+Allow: /
+
+Sitemap: https://www.prestopodcast.online/sitemap.xml

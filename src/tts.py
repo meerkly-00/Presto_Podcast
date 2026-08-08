@@ -27,6 +27,8 @@ def _normalize_numbers_fr(text: str) -> str:
     try:
         from num2words import num2words
     except ImportError:
+        logger.warning("num2words absent : les chiffres seront envoyés bruts au TTS "
+                       "(rendu oral dégradé). pip install num2words")
         return text
 
     def _n2w(n: int | float, is_ordinal: bool = False) -> str:
@@ -34,6 +36,28 @@ def _normalize_numbers_fr(text: str) -> str:
             return num2words(n, lang="fr", to="ordinal" if is_ordinal else "cardinal")
         except Exception:
             return str(n)
+
+    # Milliers à l'anglaise : "1,200,000" ou "1,200" → retirer les virgules
+    # (sinon la règle des décimaux produit "un virgule deux zéro zéro")
+    text = re.sub(r"\b(\d{1,3}(?:,\d{3})+)\b",
+                  lambda m: m.group(1).replace(",", ""), text)
+
+    # Scores, votes et intervalles : "4-2", "120-90", "2024-2025" → "4 à 2"
+    text = re.sub(r"\b(\d+)\s*-\s*(\d+)\b", r"\1 à \2", text)
+
+    # Heures : "17 h 30", "17h30" → "dix-sept heures trente" ; "24 h" → "vingt-quatre heures"
+    text = re.sub(r"\b(\d{1,2})\s*h\s*(\d{2})\b",
+                  lambda m: f"{_n2w(int(m.group(1)))} heures {_n2w(int(m.group(2)))}", text)
+    text = re.sub(r"\b(\d{1,2})\s*h\b",
+                  lambda m: f"{_n2w(int(m.group(1)))} heures", text)
+
+    # Ordinaux : "1er" → "premier", "1re" → "première", "3e"/"3ème" → "troisième"
+    def _replace_ordinal(m: re.Match) -> str:
+        n, suffix = int(m.group(1)), m.group(2)
+        if n == 1 and suffix == "re":
+            return "première"
+        return _n2w(n, is_ordinal=True)
+    text = re.sub(r"\b(\d+)(er|re|e|ème|eme)\b", _replace_ordinal, text)
 
     # Pourcentages : "3,5 %" ou "3.5%" → "trois virgule cinq pourcent"
     def _replace_pct(m: re.Match) -> str:
@@ -97,9 +121,15 @@ def _preprocess_tts(text: str) -> str:
         r"\bPNB\b": "P-N-B",
         r"\bPQ\b": "Parti Québécois",
         r"\bCAQ\b": "Coalition Avenir Québec",
-        r"\$\s*([\d\s,\.]+)\s*[Mm]ards?\b": r"\1 milliards de dollars",
-        r"\$\s*([\d\s,\.]+)\s*[Mm](?:illions?)?\b": r"\1 millions de dollars",
-        r"\$\s*([\d\s,\.]+)\b": r"\1 dollars",
+        # Style québécois, symbole après le montant : "3,4 G$", "300 M$", "12 k$", "50 $"
+        r"(\d+(?:\s\d{3})*(?:[,\.]\d+)?)\s*G\$": r"\1 milliards de dollars",
+        r"(\d+(?:\s\d{3})*(?:[,\.]\d+)?)\s*M\$": r"\1 millions de dollars",
+        r"(\d+(?:\s\d{3})*(?:[,\.]\d+)?)\s*[kK]\$": r"\1 mille dollars",
+        r"(\d+(?:\s\d{3})*(?:[,\.]\d+)?)\s*\$": r"\1 dollars",
+        # Style anglais, symbole avant : "$3 mards", "$300 M", "$50"
+        r"\$\s*([\d\s,\.]*\d)\s*[Mm]ards?\b": r"\1 milliards de dollars",
+        r"\$\s*([\d\s,\.]*\d)\s*[Mm](?:illions?)?\b": r"\1 millions de dollars",
+        r"\$\s*([\d\s,\.]*\d)": r"\1 dollars",
     }
     for pattern, repl in replacements.items():
         text = re.sub(pattern, repl, text)

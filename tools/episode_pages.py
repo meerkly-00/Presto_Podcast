@@ -318,12 +318,21 @@ def build_all(scripts_dir, site_dir, feed_path, today=None):
 
 
 if __name__ == "__main__":
+    import argparse
+
     repo = Path(__file__).resolve().parent.parent
-    scripts_dir = repo / "output" / "scripts"
-    site_dir = Path(r"C:\Users\jchal\Downloads\presto_deploy")
-    # Prefer the deployed feed.xml; fall back to repo feed.xml
-    feed_path = site_dir / "feed.xml"
+    parser = argparse.ArgumentParser(description="Génère les pages HTML des épisodes Presto.")
+    parser.add_argument("--scripts", default=str(repo / "output" / "scripts"),
+                        help="Dossier des scripts XML (défaut: output/scripts)")
+    parser.add_argument("--site", default=r"C:\Users\jchal\Downloads\presto_deploy",
+                        help="Dossier racine du site où écrire episodes/ et sitemap.xml")
+    parser.add_argument("--feed", default=None,
+                        help="Chemin du feed.xml (défaut: <site>/feed.xml, sinon feed.xml du repo)")
+    args = parser.parse_args()
+
+    site_dir = Path(args.site)
+    feed_path = Path(args.feed) if args.feed else site_dir / "feed.xml"
     if not feed_path.exists():
         feed_path = repo / "feed.xml"
-    count = build_all(scripts_dir, site_dir, feed_path)
+    count = build_all(args.scripts, site_dir, feed_path)
     print(f"{count} page(s) d'épisode générée(s) dans {site_dir}/episodes/ + sitemap.xml + index")

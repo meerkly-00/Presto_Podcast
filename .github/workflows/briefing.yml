@@ -47,7 +47,7 @@ jobs:
           PODCAST_OWNER_EMAIL: prestopodcast@gmail.com
           EPISODE_TITLE_PREFIX: "Presto — édition du"
           SYSTEM_PROMPT_FILE: prompts/system_presto_v1.md
-          CLAUDE_MODEL: claude-sonnet-4-6
+          CLAUDE_MODEL: claude-sonnet-5
           TTS_PROVIDER: openai
           TTS_MODEL: tts-1
           TTS_VOICE: onyx
@@ -79,6 +79,18 @@ jobs:
           git diff --cached --quiet || git commit -m "presto: $DATE [skip ci]"
           git pull --rebase origin main
           git push
+
+      - name: Pages épisodes + déploiement du site
+        run: |
+          python tools/episode_pages.py --scripts output/scripts --site site --feed feed.xml
+          if [ -z "$CLOUDFLARE_API_TOKEN" ]; then
+            echo "::warning::CLOUDFLARE_API_TOKEN manquant : pages générées mais site non déployé"
+            exit 0
+          fi
+          npx --yes wrangler@latest pages deploy site --project-name=presto --branch=main
+        env:
+          CLOUDFLARE_API_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+          CLOUDFLARE_ACCOUNT_ID: "9792329eba865912f37a61f51c448412"
 
       - name: Alerte si échec
         if: failure()

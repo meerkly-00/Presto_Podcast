@@ -1,0 +1,218 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>LE BUZZER — Directions de design</title>
+<link rel="preconnect" href="https://fonts.googleapis.com" />
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+<link href="https://fonts.googleapis.com/css2?family=Anton&family=Archivo:ital,wght@0,400;0,500;0,600;0,700;0,800;1,400;1,600&family=Oswald:wght@400;500;600;700&family=Pixelify+Sans:wght@400;500;600;700&display=swap" rel="stylesheet" />
+<style>
+:root{
+  --red:#E63946; --black:#0D0D0D; --yellow:#FFD60A; --cream:#F1FAEE;
+  --display:'Anton',sans-serif; --cond:'Oswald',sans-serif; --body:'Archivo',sans-serif; --led:'Pixelify Sans',monospace;
+}
+*{box-sizing:border-box;margin:0;padding:0}
+body{background:#dcdce0;color:#0D0D0D;font-family:var(--body);-webkit-font-smoothing:antialiased}
+.page{max-width:1340px;margin:0 auto;padding:48px clamp(16px,4vw,56px) 120px}
+.pagehead{padding:8px 4px 40px}
+.pagehead .pk{font-family:var(--cond);font-weight:700;font-size:13px;letter-spacing:0.22em;color:var(--red);text-transform:uppercase}
+.pagehead h1{font-family:var(--display);font-size:clamp(2rem,4vw,3.2rem);line-height:0.95;margin-top:10px;letter-spacing:0.01em}
+.pagehead p{max-width:60ch;margin-top:14px;color:#3a3a40;font-size:16px;line-height:1.6}
+
+.option{margin-top:56px}
+.caption{display:flex;align-items:baseline;gap:16px;margin-bottom:16px;flex-wrap:wrap}
+.caption .badge{font-family:var(--display);font-size:22px;background:var(--black);color:var(--cream);width:40px;height:40px;display:grid;place-items:center;flex:none}
+.caption .ct{font-family:var(--cond);font-weight:700;font-size:22px;letter-spacing:0.04em;text-transform:uppercase}
+.caption .cd{font-size:14.5px;color:#52525a;line-height:1.5;max-width:62ch}
+.caption .cd b{color:#0D0D0D}
+
+.frame{
+  width:100%;aspect-ratio:1180/720;
+  border-radius:6px;overflow:hidden;position:relative;
+  box-shadow:0 24px 60px -24px rgba(0,0,0,0.45),0 2px 0 rgba(0,0,0,0.06);
+}
+.stage{position:absolute;inset:0;container-type:inline-size}
+.stage > div{height:100%}
+
+/* ============================================================
+   DIRECTION A — LE RUNDOWN (broadcast production sheet)
+   ============================================================ */
+.A{background:#0D0D0D;color:var(--cream);display:grid;grid-template-columns:42% 58%}
+.A .left{padding:5.2cqw 4.4cqw;display:flex;flex-direction:column;border-right:1px solid rgba(241,250,238,0.12)}
+.A .ebrow{font-family:var(--cond);font-weight:600;font-size:1.45cqw;letter-spacing:0.24em;color:var(--red)}
+.A .date{font-family:var(--cond);font-weight:500;font-size:1.7cqw;letter-spacing:0.18em;color:rgba(241,250,238,0.6);margin-top:auto}
+.A .mark{font-family:var(--display);font-size:6.4cqw;line-height:0.84;letter-spacing:0.01em;margin-top:0.4cqw}
+.A .mark .z{color:var(--yellow)}
+.A .sub{font-family:var(--cond);font-weight:500;font-size:1.7cqw;color:rgba(241,250,238,0.72);margin-top:1.6cqw;max-width:22ch;line-height:1.35}
+.A .play{margin-top:2.6cqw;display:inline-flex;align-items:center;gap:1.2cqw;align-self:flex-start;background:var(--yellow);color:var(--black);font-family:var(--display);font-size:2cqw;letter-spacing:0.03em;padding:1.3cqw 2cqw}
+.A .play .t{font-family:var(--led);font-weight:600}
+.A .right{padding:4cqw 4.4cqw;display:flex;flex-direction:column}
+.A .rhead{display:flex;justify-content:space-between;align-items:center;font-family:var(--cond);font-weight:700;font-size:1.3cqw;letter-spacing:0.2em;color:rgba(241,250,238,0.55);padding-bottom:1.4cqw;border-bottom:2px solid var(--red)}
+.A .rhead .on{color:var(--yellow);display:inline-flex;white-space:nowrap;align-items:center;gap:0.6cqw}
+.A .rhead .on::before{content:"";width:0.7cqw;height:0.7cqw;border-radius:50%;background:var(--yellow);box-shadow:0 0 1.2cqw var(--yellow)}
+.A .row{display:grid;grid-template-columns:auto 1fr auto;align-items:center;gap:1.6cqw;padding:1.45cqw 0;border-bottom:1px solid rgba(241,250,238,0.1)}
+.A .row .tc{font-family:var(--led);font-weight:600;font-size:1.7cqw;color:var(--yellow);letter-spacing:0.04em}
+.A .row .seg{font-family:var(--display);font-size:2.3cqw;letter-spacing:0.01em;line-height:0.95}
+.A .row .seg small{display:block;font-family:var(--body);font-weight:500;font-size:1.15cqw;letter-spacing:0.01em;color:rgba(241,250,238,0.55);margin-top:0.2cqw}
+.A .row .tag{font-family:var(--cond);font-weight:700;font-size:1.15cqw;letter-spacing:0.14em;color:rgba(241,250,238,0.5);border:1px solid rgba(241,250,238,0.22);padding:0.45cqw 0.8cqw}
+.A .row.live .tag{color:var(--black);background:var(--red);border-color:var(--red)}
+.A .rfoot{margin-top:auto;display:flex;justify-content:space-between;align-items:baseline;font-family:var(--cond);font-weight:600;font-size:1.3cqw;letter-spacing:0.16em;color:rgba(241,250,238,0.55);padding-top:1.6cqw}
+.A .rfoot b{font-family:var(--led);font-size:2.4cqw;color:var(--cream)}
+
+/* ============================================================
+   DIRECTION B — LA UNE (editorial front page, light)
+   ============================================================ */
+.B{background:#F1FAEE;color:#0D0D0D;padding:3.4cqw 4cqw;display:flex;flex-direction:column}
+.B .masthead{display:flex;align-items:center;justify-content:space-between;border-bottom:3px solid #0D0D0D;padding-bottom:1.4cqw}
+.B .mh-l{font-family:var(--display);font-size:2.7cqw;letter-spacing:0.02em}
+.B .mh-l .z{color:var(--red)}
+.B .mh-c{font-family:var(--cond);font-weight:600;font-size:1.25cqw;letter-spacing:0.22em;color:#0D0D0D;text-transform:uppercase}
+.B .mh-r{font-family:var(--cond);font-weight:500;font-size:1.2cqw;letter-spacing:0.1em;color:#52525a;text-align:right;text-transform:uppercase;white-space:nowrap}
+.B .strip{display:flex;gap:1.4cqw;align-items:center;padding:0.9cqw 0;border-bottom:1px solid #0D0D0D;font-family:var(--cond);font-weight:600;font-size:1.1cqw;letter-spacing:0.14em;color:#52525a;text-transform:uppercase}
+.B .strip .dot{width:0.45cqw;height:0.45cqw;border-radius:50%;background:var(--red)}
+.B .lead{display:grid;grid-template-columns:1fr 30%;gap:3cqw;margin-top:2.4cqw;flex:1}
+.B .kicker{font-family:var(--cond);font-weight:700;font-size:1.5cqw;letter-spacing:0.12em;color:var(--red);text-transform:uppercase}
+.B h2{font-family:var(--display);font-size:6.6cqw;line-height:0.88;letter-spacing:0.005em;margin-top:1cqw;text-wrap:balance}
+.B h2 mark{background:var(--yellow);color:#0D0D0D;padding:0 0.1em}
+.B .deck{font-family:var(--cond);font-weight:500;font-size:1.85cqw;line-height:1.3;color:#1c1c22;margin-top:1.6cqw;max-width:30ch}
+.B .listen{margin-top:2.2cqw;display:inline-flex;align-items:center;gap:1cqw;align-self:flex-start;background:var(--red);color:var(--cream);font-family:var(--cond);font-weight:700;font-size:1.5cqw;letter-spacing:0.08em;padding:1cqw 1.7cqw;text-transform:uppercase}
+.B .col{border-left:1px solid #0D0D0D;padding-left:2cqw}
+.B .col .by{font-family:var(--cond);font-weight:700;font-size:1.15cqw;letter-spacing:0.16em;color:var(--red);text-transform:uppercase;padding-bottom:1cqw;border-bottom:1px solid rgba(13,13,13,0.2);margin-bottom:1.1cqw}
+.B .col p{font-size:1.32cqw;line-height:1.62;color:#2a2a30}
+.B .col p + p{margin-top:0.9cqw}
+.B .col p::first-letter{}
+.B .col .drop::first-letter{font-family:var(--display);font-size:4.4cqw;float:left;line-height:0.72;margin:0.15cqw 0.4cqw 0 0;color:var(--red)}
+
+/* ============================================================
+   DIRECTION C — LE JUMBOTRON (arena LED board)
+   ============================================================ */
+.C{background:#070707;color:var(--cream);position:relative;overflow:hidden;display:flex;flex-direction:column;justify-content:center;align-items:center;text-align:center}
+.C::before{content:"";position:absolute;inset:0;background-image:radial-gradient(rgba(255,255,255,0.10) 22%,transparent 23%);background-size:0.9cqw 0.9cqw;opacity:0.5}
+.C::after{content:"";position:absolute;inset:0;background:repeating-linear-gradient(0deg,rgba(0,0,0,0) 0 0.32cqw,rgba(0,0,0,0.35) 0.32cqw 0.64cqw);pointer-events:none;mix-blend-mode:multiply}
+.C .ledbar{position:relative;z-index:2;display:inline-flex;white-space:nowrap;align-items:center;gap:1.2cqw;font-family:var(--led);font-weight:600;font-size:1.7cqw;letter-spacing:0.12em;color:var(--yellow);background:#120f00;border:1px solid rgba(255,214,10,0.4);padding:0.7cqw 1.4cqw;margin-bottom:3.2cqw;box-shadow:0 0 3cqw rgba(255,214,10,0.18) inset}
+.C .ledbar .rd{color:var(--red)}
+.C .ledbar .pin{width:0.8cqw;height:0.8cqw;border-radius:50%;background:var(--red);box-shadow:0 0 1.4cqw var(--red)}
+.C .glow{position:absolute;z-index:0;width:60cqw;height:36cqw;border-radius:50%;background:radial-gradient(ellipse,rgba(230,57,70,0.42),rgba(230,57,70,0) 62%);filter:blur(1cqw)}
+.C .wm{position:relative;z-index:2;line-height:0.8;font-family:var(--display)}
+.C .wm .le{display:block;font-size:4.2cqw;letter-spacing:0.42em;color:var(--cream);text-indent:0.42em}
+.C .wm .bz{display:block;font-size:17.5cqw;letter-spacing:0.005em;color:var(--yellow);text-shadow:0 0 4cqw rgba(255,214,10,0.55),0 0 1cqw rgba(255,214,10,0.9)}
+.C .scorerow{position:relative;z-index:2;display:flex;gap:0.7cqw;margin-top:3.2cqw}
+.C .scorerow span{font-family:var(--led);font-weight:600;font-size:1.4cqw;letter-spacing:0.1em;color:var(--cream);background:#161616;border:1px solid rgba(241,250,238,0.16);padding:0.55cqw 1cqw}
+.C .scorerow span.hot{color:var(--black);background:var(--yellow);border-color:var(--yellow)}
+.C .tagline{position:relative;z-index:2;font-family:var(--cond);font-weight:500;font-size:1.7cqw;letter-spacing:0.04em;color:rgba(241,250,238,0.7);margin-top:2.6cqw}
+
+@media(max-width:720px){
+  .A{grid-template-columns:1fr}
+  .A .left{border-right:none;border-bottom:1px solid rgba(241,250,238,0.12)}
+  .B .lead{grid-template-columns:1fr}
+  .B .col{border-left:none;padding-left:0;border-top:1px solid #0D0D0D;padding-top:1.4cqw}
+}
+</style>
+</head>
+<body>
+<div class="page">
+  <div class="pagehead">
+    <div class="pk">LE BUZZER · Exploration d'identité</div>
+    <h1>TROIS DIRECTIONS,<br />ZÉRO TEMPLATE.</h1>
+    <p>Trois langages visuels franchement différents pour le hero — pas trois variantes du même. Choisis-en un (ou pioche des éléments dans plusieurs) et je décline la landing complète dessus.</p>
+  </div>
+
+  <!-- A -->
+  <section class="option">
+    <div class="caption">
+      <span class="badge">A</span>
+      <span class="ct">Le Rundown</span>
+      <span class="cd">La page <b>n'est pas une pub, c'est la régie</b>. On affiche le déroulé de l'édition du jour comme une feuille de rundown TV : timecodes, segments, durée totale. Insider, produit, anti-potin. Le format 4-6 min devient le concept.</span>
+    </div>
+    <div class="frame"><div class="stage"><div class="A">
+      <div class="left">
+        <div class="ebrow">PODCAST SPORT QUOTIDIEN · QC</div>
+        <div class="date" style="margin-top:auto">MARDI 12 NOVEMBRE 2025</div>
+        <div class="mark">LE BU<span class="z">Z</span>ZER</div>
+        <div class="sub">Le brief de la nuit de sport. Monté serré, lu avant ton café.</div>
+        <div class="play">ÉCOUTER <span class="t">5:12</span> ▶</div>
+      </div>
+      <div class="right">
+        <div class="rhead"><span>RUNDOWN · ÉD. №412</span><span class="on">EN ONDES</span></div>
+        <div class="row live">
+          <span class="tc">00:00</span>
+          <span class="seg">L'ANGLE DU JOUR<small>Le CH gagne, mais à quel prix ?</small></span>
+          <span class="tag">OPINION</span>
+        </div>
+        <div class="row">
+          <span class="tc">00:48</span>
+          <span class="seg">HOCKEY<small>CH 4–2 · les Québécois à l'étranger</small></span>
+          <span class="tag">LNH</span>
+        </div>
+        <div class="row">
+          <span class="tc">02:05</span>
+          <span class="seg">BASKET<small>La nuit NBA en trois temps forts</small></span>
+          <span class="tag">NBA</span>
+        </div>
+        <div class="row">
+          <span class="tc">03:20</span>
+          <span class="seg">FOOT<small>Soirée Ligue des champions</small></span>
+          <span class="tag">EUROPE</span>
+        </div>
+        <div class="row">
+          <span class="tc">04:25</span>
+          <span class="seg">VITESSE + COMBAT<small>F1 paddock · carte UFC</small></span>
+          <span class="tag">F1 · MMA</span>
+        </div>
+        <div class="rfoot"><span>DURÉE TOTALE</span><b>05:12</b></div>
+      </div>
+    </div></div></div>
+  </section>
+
+  <!-- B -->
+  <section class="option">
+    <div class="caption">
+      <span class="badge">B</span>
+      <span class="ct">La Une</span>
+      <span class="cd">L'opposé du template sombre : une <b>une de quotidien sport</b>, fond cream, manchette noire énorme avec la prise de position du jour. Masthead, numéro d'édition, colonne de lede. Crie « éditorial, sourcé, pas tabloïd ». Référence assumée à The Athletic / Hugo Décrypte.</span>
+    </div>
+    <div class="frame"><div class="stage"><div class="B">
+      <div class="masthead">
+        <div class="mh-l">LE BU<span class="z">Z</span>ZER</div>
+        <div class="mh-c">Quotidien Sport · Québec</div>
+        <div class="mh-r">Mardi 12 nov. 2025<br />Édition №412 · 5 min</div>
+      </div>
+      <div class="strip">
+        <span class="dot"></span>HOCKEY<span class="dot"></span>NBA<span class="dot"></span>FOOT<span class="dot"></span>F1<span class="dot"></span>MMA<span class="dot"></span>L'ANGLE DU JOUR
+      </div>
+      <div class="lead">
+        <div>
+          <div class="kicker">L'angle du jour — Hockey</div>
+          <h2>LE CH GAGNE — ET <mark>MENT</mark> À TOUT LE MONDE.</h2>
+          <div class="deck">Quatre buts, une standing ovation, zéro question dérangeante. On pose celle que personne n'ose.</div>
+          <a class="listen" href="#">▶ Écouter l'édition · 5 min</a>
+        </div>
+        <div class="col">
+          <div class="by">Le brief · 12 nov</div>
+          <p class="drop">Avant 6h, on a déjà tout décortiqué : la victoire du Canadien, la nuit NBA, les grands soirs d'Europe, le paddock F1 et la carte UFC du week-end.</p>
+          <p>Pas de remplissage, pas de clickbait. Une voix, un montage serré, une opinion assumée et toujours documentée.</p>
+        </div>
+      </div>
+    </div></div></div>
+  </section>
+
+  <!-- C -->
+  <section class="option">
+    <div class="caption">
+      <span class="badge">C</span>
+      <span class="ct">Le Jumbotron</span>
+      <span class="cd">On prend le nom au mot : le <b>buzzer de fin de période</b>, le tableau LED de l'aréna. Texte en matrice de points, jaune sur noir, halo rouge du lampion de but, scanlines. Graphique, fort, sonore — impossible à confondre avec un autre podcast.</span>
+    </div>
+    <div class="frame"><div class="stage"><div class="C">
+      <div class="glow"></div>
+      <div class="ledbar"><span class="pin"></span> EN ONDES <span class="rd">—</span> ÉD. 412 <span class="rd">—</span> 05:12</div>
+      <div class="wm"><span class="le">LE</span><span class="bz">BUZZER</span></div>
+      <div class="scorerow"><span class="hot">HOCKEY</span><span>NBA</span><span>FOOT</span><span>F1</span><span>MMA</span></div>
+      <div class="tagline">Le podcast sport quotidien · 4-6 min chaque matin</div>
+    </div></div></div>
+  </section>
+
+</div>
+</body>
+</html>

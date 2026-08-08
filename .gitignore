@@ -6,3 +6,6 @@ __pycache__/
 .venv/
 venv/
 output/audio/*.mp3
+# Générés par tools/episode_pages.py au déploiement (CI)
+site/episodes/
+site/sitemap.xml
