@@ -112,6 +112,8 @@ def main():
         log.warning("Aucun briefing disponible, skip.")
         return
 
+    # Écriture : OAuth1 (compte @PrestoPodcast). Lecture : Bearer App-Only si
+    # disponible (requis pour les GET sur le tier pay-per-use), sinon OAuth1.
     tw = tweepy.Client(
         consumer_key=os.environ["TWITTER_API_KEY"],
         consumer_secret=os.environ["TWITTER_API_SECRET"],
@@ -119,6 +121,8 @@ def main():
         access_token_secret=os.environ["TWITTER_ACCESS_TOKEN_SECRET"],
         wait_on_rate_limit=True,
     )
+    bearer = os.getenv("TWITTER_BEARER_TOKEN")
+    reader = tweepy.Client(bearer_token=bearer, wait_on_rate_limit=True) if bearer else tw
     claude = anthropic.Anthropic(api_key=os.environ["ANTHROPIC_API_KEY"])
     replied = set(state.get("replied", []))
     cutoff = datetime.now(timezone.utc) - timedelta(minutes=FRESH_MINUTES)
@@ -128,14 +132,14 @@ def main():
         uid = state["user_ids"].get(handle)
         if not uid:
             try:
-                uid = str(tw.get_user(username=handle).data.id)
+                uid = str(reader.get_user(username=handle).data.id)
                 state["user_ids"][handle] = uid
             except Exception as e:
                 log.error("Résolution @%s impossible : %s", handle, e)
                 continue
 
         try:
-            resp = tw.get_users_tweets(
+            resp = reader.get_users_tweets(
                 id=uid,
                 max_results=5,
                 since_id=state["last_seen"].get(handle),
