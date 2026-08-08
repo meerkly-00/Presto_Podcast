@@ -1,0 +1,89 @@
+```xml
+<script>
+ <intro>Bonjour, on est le samedi 8 août 2026. Voici votre Presto en environ 17 minutes. Au menu ce matin : les tarifs américains et la course canadienne pour éviter le pire, les chiffres de l'emploi aux États-Unis et au Canada qui pointent dans des directions opposées, un feu de forêt qui a forcé l'évacuation complète de Summerland en Colombie-Britannique, la situation internationale avec l'Ukraine, le Moyen-Orient et un nouveau pacte de défense régional, un développement majeur chez OpenAI en tech, et le dossier Meta au Nouveau-Mexique. On commence.</intro>
+
+ <chapitre titre="Politique canadienne">
+Le dossier le plus urgent en politique canadienne ce matin, c'est la menace tarifaire américaine. Le National Post rapporte que des négociateurs canadiens tentent de conclure un accord intérimaire avec les États-Unis avant le 19 août, date à laquelle des tarifs de 50 pour cent sur un large éventail de marchandises, annoncés par le président Donald Trump, pourraient entrer en vigueur. Reuters Business confirme que le Canada discute de concessions commerciales avec Washington pour éviter ces nouveaux tarifs, selon une source citée par l'agence.
+
+Le National Post précise que des représentants canadiens ont averti qu'un échec des négociations marquerait le début d'une phase particulièrement difficile du différend commercial entre les deux pays. Le gouvernement Carney n'a pas détaillé publiquement la nature des concessions envisagées.
+
+On reste au Canada avec une bonne nouvelle sur l'emploi. Reuters rapporte que le Canada a affiché des gains importants sur le marché du travail en juillet, avec un taux de chômage qui a atteint son niveau le plus bas en deux ans. On y reviendra dans le chapitre économie pour le mettre en contexte avec les données américaines, qui vont dans le sens inverse.
+
+Toujours en politique canadienne, Le Devoir rapporte qu'Ottawa a vendu des avions militaires d'occasion qui seront convertis en bombardiers d'eau. La conversion aura lieu en Colombie-Britannique, et le premier appareil pourrait être opérationnel pour lutter contre des feux d'ici 12 mois. Le timing de cette annonce est frappant, alors qu'une urgence majeure de feux de forêt frappe précisément cette province ce matin.
+
+Enfin, en Saskatchewan, CBC et Global News rapportent que deux hommes ont été reconnus coupables de trafic humain et d'agression sexuelle. Les deux accusés exploitaient une femme originaire du Bangladesh qui travaillait dans leurs restaurants dans plusieurs villes de la province. La Couronne a indiqué que ce verdict établit un précédent dans la province.
+ </chapitre>
+
+ <chapitre titre="Actualité québécoise">
+Une nouvelle qui touche plusieurs régions du pays, mais avec une dimension québécoise notable ce matin : le feu de forêt en Colombie-Britannique a relancé l'attention sur les incendies criminels dans cette province. Le Devoir rapporte que des enquêtes sont en cours sur des incendies d'origine criminelle en Colombie-Britannique, et que le sud de l'intérieur de la province est la région la plus touchée par la récente recrudescence des brasiers.
+
+Du côté des urgences au Québec, La Presse rapporte que les services d'urgence de la province font face à une pression accrue cet été. La présidente de l'Association des médecins d'urgence du Québec, la Dre Marie-Maud Couture, soutient que la pratique s'est alourdie dans les dernières années et qu'on ne peut plus appliquer la même recette qu'avant. Elle indique que même pendant l'été, période traditionnellement plus calme pour les urgences, les équipes ne connaissent pas de répit.
+
+En judiciaire, le procès de Luciano Frattolin, accusé de meurtre au second degré pour la mort de sa fille dans l'État de New York, a franchi une étape importante. La Presse et Radio-Canada rapportent tous deux que l'accusation a terminé son réquisitoire en présentant une vidéo de cinq heures reconstituant le trajet que l'accusé aurait emprunté dans les heures précédant la disparition de l'enfant. La troisième semaine du procès tire à sa fin.
+
+Enfin, en tennis à Montréal, Radio-Canada rapporte que le prodige brésilien Joao Fonseca a battu le Norvégien Casper Ruud et s'est qualifié pour les huitièmes de finale de l'Omnium Banque Nationale. Il affrontera au prochain tour le champion en titre, l'Américain Ben Shelton. Et du côté des Canadiennes, Sportsnet rapporte que Leylah Fernandez a signé une victoire surprise contre la Russe Mirra Andreeva. Fernandez est désormais la dernière espoir canadienne en simple féminin dans le tournoi de Toronto.
+ </chapitre>
+
+ <chapitre titre="International">
+On commence par la Colombie-Britannique, ou plutôt par ce qui force des milliers de résidents à quitter leur domicile ce matin. CBC, Global News et Radio-Canada rapportent tous que la ville de Summerland, dans l'Okanagan, a reçu un ordre d'évacuation complet en raison d'un feu de forêt hors de contrôle. Selon Erick Thompson, du centre des opérations d'urgence du district régional d'Okanagan-Similkameen, l'incendie, baptisé Bald Range, a atteint 50 kilomètres carrés en l'espace de trois heures après avoir été détecté en fin de journée vendredi. Global News précise que le Service des incendies de forêt de la Colombie-Britannique a classé ce feu au rang cinq, soit un comportement agressif avec un front de flamme organisé, une propagation rapide et des projections à portée modérée à longue distance. L'incendie est situé à environ 15 kilomètres au nord-ouest de Summerland, selon Radio-Canada.
+
+On passe maintenant à la scène internationale au sens strict.
+
+En Ukraine, la BBC World rapporte que la Russie a poursuivi ses attaques de missiles nocturnes près de Kyiv, faisant trois morts, dont un enfant. Cette offensive survient alors que le président Volodymyr Zelensky avait averti publiquement que les réserves ukrainiennes d'intercepteurs de missiles s'amenuisent.
+
+Zelensky était par ailleurs en Serbie vendredi, selon Radio-Canada. C'est la première visite du président ukrainien dans ce pays depuis l'invasion russe de l'Ukraine. La Serbie entretient des liens historiques avec Moscou, ce qui rend cette visite diplomatiquement significative.
+
+Au Moyen-Orient, Reuters rapporte que les États-Unis s'attendent à un accord prochain sur le détroit d'Ormuz. On vous a suivi ce dossier toute la semaine. En parallèle, le National Post et Le Devoir rapportent que l'Arabie saoudite, la Turquie et le Pakistan ont signé vendredi un pacte de défense conjoint. Selon Le Devoir, certains analystes y voient un message adressé à Téhéran, mais aussi à Washington, perçu par certains comme un partenaire de moins en moins prévisible. Les Houthis au Yémen ont par ailleurs revendiqué vendredi une frappe contre des forces soutenues par l'Arabie saoudite dans la ville de Marib, selon CBC World.
+
+En Europe, la BBC World rapporte que l'Espagne a imposé des contrôles frontaliers contre l'Italie dans le cadre d'une dispute liée à un afflux migratoire. L'Italie avait auparavant introduit ses propres contrôles après qu'environ 78 000 migrants ont transité par l'enclave espagnole de Ceuta, en provenance du Maroc. La controverse entre les deux pays s'intensifie.
+
+En Allemagne, CBC World rapporte que le chancelier Friedrich Merz a tenu une réunion d'urgence vendredi pour discuter d'un incident survenu plus tôt cette semaine à l'aéroport de Leipzig et Halle, où un drone chargé d'explosifs s'est écrasé sans détonner. Des procureurs fédéraux ont ouvert une enquête antiterroriste.
+
+En Colombie, le National Post rapporte qu'Abelardo de la Espriella a prêté serment comme nouveau président vendredi. Il a promis de mener la guerre aux guérillas liées au trafic de drogue et d'établir des liens étroits avec les États-Unis. Le National Post le décrit comme un allié de Donald Trump.
+
+Aux États-Unis, l'Associated Press rapporte qu'une cour d'appel a statué que le président Trump ne peut pas faire construire une salle de bal dans la Maison-Blanche sans l'approbation du Congrès. Toujours aux États-Unis, l'Associated Press rapporte que l'agence de contrôle de l'immigration ICE a adopté une politique selon laquelle les vidéos de caméras corporelles ne seront rendues publiques que lorsque cela sera jugé dans le meilleur intérêt de l'agence. Cette politique a suscité des critiques de la part de groupes de défense des libertés civiles.
+
+Enfin, en Thaïlande, BBC World et CBC World rapportent qu'un adolescent de 14 ans a ouvert le feu à son domicile et dans une école en périphérie de Bangkok vendredi, tuant au moins huit personnes, dont ses grands-parents et cinq enseignants, avant de se donner la mort. Il s'agit du pire massacre de masse dans le pays depuis 2022. Le premier ministre thaïlandais a promis l'introduction de lois plus strictes sur les armes à feu.
+ </chapitre>
+
+ <chapitre titre="Économie et marchés">
+On passe à l'économie, et le chiffre de la semaine vient du marché du travail américain. Le Wall Street Journal, Reuters Business et le Financial Times rapportent tous que l'économie américaine a perdu 23 000 emplois en juillet, un résultat contraire aux attentes des marchés. Le taux de chômage a néanmoins légèrement baissé selon le Wall Street Journal. Reuters Business note que les marchés ont revu à la baisse leurs anticipations de hausses de taux de la Fed à la suite de cette publication.
+
+Ce résultat contraste fortement avec ce qui se passe de ce côté de la frontière. Reuters rapporte que le Canada a affiché en juillet son plus important gain d'emplois depuis un moment, avec un taux de chômage qui a atteint son niveau le plus bas en deux ans. Cette divergence entre les deux économies arrive dans un contexte où les négociations commerciales canado-américaines sont particulièrement tendues.
+
+Sur les marchés, Bloomberg rapporte que les actifs à risque sur Wall Street ont connu une poussée à la hausse, portés par un afflux de capitaux. Cela survient dans un contexte où les investisseurs digèrent les données d'emploi américaines et surveillent l'évolution des tensions commerciales et géopolitiques.
+
+Du côté réglementaire, Bloomberg rapporte que la Commodity Futures Trading Commission, la CFTC, a mis en garde les marchés de prédiction contre l'adoption de cotes de style casino américain. La CFTC signale que certaines plateformes de prédiction s'approchent des frontières légales du jeu réglementé.
+
+Également, Reuters rapporte que l'administration Trump a annoncé son intention de financer trois projets miniers pour un total de 58 millions de dollars américains.
+
+Enfin, Reuters Business indique que Volkswagen prévoit de revoir sa stratégie aux États-Unis avec le lancement planifié d'une camionnette, selon une source proche du dossier.
+
+Pour la semaine à venir, Reuters Business signale que les données d'inflation américaines attendues cette semaine constitueront un test important pour les marchés boursiers, qui évoluent près de leurs records, et pour les anticipations de politique monétaire de la Fed. À noter que Reuters rapporte également que le président Trump a renouvelé ses efforts pour congédier Lisa Cook, membre du conseil des gouverneurs de la Réserve fédérale, dans ce qui s'inscrit dans une série d'attaques de l'administration contre la banque centrale américaine.
+ </chapitre>
+
+ <chapitre titre="Tech">
+Deux nouvelles structurantes en tech ce matin.
+
+D'abord, OpenAI et un modèle d'intelligence artificielle qu'elle a décidé de ralentir. TechCrunch rapporte qu'OpenAI a annoncé avoir volontairement freiné le développement d'un modèle nommé Astra en raison de préoccupations de sécurité. Selon TechCrunch, ce modèle, encore en développement, aurait atteint ce qu'OpenAI appelle son seuil critique de cybersécurité, c'est-à-dire le niveau où il serait en mesure d'identifier et de mener de manière autonome des cyberattaques contre des systèmes réels habituellement bien protégés. C'est la première fois, à la connaissance de TechCrunch, qu'une entreprise d'IA annonce publiquement avoir ralenti un modèle pour cette raison précise. OpenAI n'a pas précisé à quel moment le développement d'Astra pourrait reprendre.
+
+Ensuite, le dossier Meta au Nouveau-Mexique. Ars Technica rapporte qu'un juge du Nouveau-Mexique a ordonné à Meta de verser 567 millions de dollars américains dans un fonds destiné à atténuer ce qu'il qualifie de nuisance publique créée par ses services de médias sociaux. Cette décision s'ajoute à 375 millions de dollars en pénalités civiles qu'un jury avait déjà ordonnés dans la même cause au début de l'année. Le contexte : le procureur général du Nouveau-Mexique, Raul Torrez, avait poursuivi Meta en 2023 devant un tribunal du comté de Santa Fe, alléguant que ses plateformes ne protègent pas efficacement les enfants contre l'exploitation. Ars Technica rappelle que Meta avait déclaré 60,8 milliards de dollars de revenus et 15,85 milliards de dollars de bénéfice net au deuxième trimestre 2026.
+
+Un mot sur la cybersécurité en Europe. TechCrunch rapporte que des chercheurs ont passé en revue l'infrastructure web polonaise et ont trouvé que des tribunaux, des hôpitaux et des aéroports présentaient des vulnérabilités pouvant permettre à des pirates de compromettre des sites gouvernementaux. Les chercheurs ont identifié des points de défaillance communs dans les logiciels de gestion de contenu web.
+
+Enfin, du côté des outils grand public, Ars Technica signale que le service de satellite européen Copernicus a ajouté le 4 août une nouvelle couche de visualisation dédiée aux feux de forêt. Cet outil gratuit et accessible à tous permet désormais de voir les feux actifs en blanc ou en jaune, la végétation en combustion en rouge, et les zones brûlées en brun foncé ou en noir, à une résolution allant jusqu'à 10 mètres. Le lancement tombe à un moment où les feux font rage en Colombie-Britannique et dans d'autres régions du monde.
+ </chapitre>
+
+ <chapitre titre="Sport">
+Rapidement en sport. En NBA, Al Jazeera rapporte que le médecin légiste a conclu que Brandon Clarke, ailier des Grizzlies de Memphis, est décédé accidentellement en mai dernier des effets combinés de l'héroïne et de la cocaïne. Clarke avait 29 ans.
+
+À Toronto, du côté du baseball, Sportsnet rapporte que Jose Soriano, récemment acquis par les Blue Jays, a réussi des débuts solides en lanceur partant lors d'une victoire serrée contre les Phillies de Philadelphie vendredi. L'équipe envisage pour lui un rôle similaire à celui qu'avait occupé Dylan Cease.
+
+En basketball, Sportsnet avance que le scénario le plus probable dans le dossier Kawhi Leonard pointerait vers un retour de la superstar avec les Raptors de Toronto. La situation reste en suspens du côté de la NBA et des Clippers de Los Angeles.
+
+En football canadien, Global News rapporte que les Roughriders de la Saskatchewan ont battu les Redblacks d'Ottawa 42 à 20 vendredi soir. Le quart-arrière Trevor Harris a été mis en lumière par l'entraîneur-chef Corey Mace après avoir atteint un jalon dans sa carrière lors de ce match.
+ </chapitre>
+
+ <outro>Voilà pour ce Presto du 8 août 2026. Si ce briefing vous est utile, le meilleur coup de main que vous pouvez nous donner, c'est de le partager à une personne qui aime rester informée. Et selon votre plateforme : un abonnement sur Spotify ou Apple Podcasts, un pouce bleu et un abonnement sur YouTube, ça prend deux secondes et ça aide vraiment Presto à grandir. Sur ce, bonne journée, et à demain.</outro>
+</script>
+```

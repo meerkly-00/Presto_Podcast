@@ -23,6 +23,17 @@
       <link>https://www.prestopodcast.online</link>
     </image>
     <item>
+      <title>Presto — édition du 8 août 2026</title>
+      <description>Au menu : Politique canadienne, Actualité québécoise, International, Économie et marchés, Tech, Sport</description>
+      <pubDate>Sat, 08 Aug 2026 08:00:58 +0000</pubDate>
+      <guid isPermaLink="false">https://github.com/meerkly-00/Presto_Podcast/releases/download/2026-08-08/2026-08-08.mp3</guid>
+      <enclosure url="https://github.com/meerkly-00/Presto_Podcast/releases/download/2026-08-08/2026-08-08.mp3" type="audio/mpeg" length="10342908"/>
+      <itunes:duration>954</itunes:duration>
+      <itunes:summary>Au menu : Politique canadienne, Actualité québécoise, International, Économie et marchés, Tech, Sport</itunes:summary>
+      <itunes:episode>77</itunes:episode>
+      <itunes:image href="https://www.prestopodcast.online/artwork-v2.jpg"/>
+    </item>
+    <item>
       <title>Presto — édition du 7 août 2026</title>
       <description>Au menu : International, Politique canadienne, Économie et marchés, Tech, Sport</description>
       <pubDate>Fri, 07 Aug 2026 08:00:51 +0000</pubDate>
@@ -86,17 +97,6 @@
       <itunes:duration>735</itunes:duration>
       <itunes:summary>Au menu : International, Politique canadienne, Actualité québécoise, Tech</itunes:summary>
       <itunes:episode>71</itunes:episode>
-      <itunes:image href="https://www.prestopodcast.online/artwork-v2.jpg"/>
-    </item>
-    <item>
-      <title>Presto — édition du 1 août 2026</title>
-      <description>Au menu : International, Politique canadienne, Actualité québécoise, Économie et marchés, Tech, Sport</description>
-      <pubDate>Sat, 01 Aug 2026 08:00:57 +0000</pubDate>
-      <guid isPermaLink="false">https://github.com/meerkly-00/Presto_Podcast/releases/download/2026-08-01/2026-08-01.mp3</guid>
-      <enclosure url="https://github.com/meerkly-00/Presto_Podcast/releases/download/2026-08-01/2026-08-01.mp3" type="audio/mpeg" length="9055847"/>
-      <itunes:duration>820</itunes:duration>
-      <itunes:summary>Au menu : International, Politique canadienne, Actualité québécoise, Économie et marchés, Tech, Sport</itunes:summary>
-      <itunes:episode>70</itunes:episode>
       <itunes:image href="https://www.prestopodcast.online/artwork-v2.jpg"/>
     </item>
   </channel>
