@@ -41,7 +41,7 @@ jobs:
           TWITTER_ACCESS_TOKEN_SECRET: ${{ secrets.TWITTER_ACCESS_TOKEN_SECRET }}
           TWITTER_BEARER_TOKEN: ${{ secrets.TWITTER_BEARER_TOKEN }}
           CLAUDE_MODEL: claude-sonnet-5
-          MEDIA_WATCH_HANDLES: "JdeMontreal"
+          MEDIA_WATCH_HANDLES: "JdeMontreal,LP_LaPresse,LeDevoir,RadioCanadaInfo"
           REPLY_MAX_PER_DAY: "3"
           FRESH_MINUTES: "120"
           DRY_RUN: ${{ github.event.inputs.dry_run || '0' }}

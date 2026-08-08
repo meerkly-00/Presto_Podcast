@@ -38,6 +38,16 @@ HANDLES = [h.strip() for h in os.getenv("MEDIA_WATCH_HANDLES", "JdeMontreal").sp
 MAX_PER_DAY = int(os.getenv("REPLY_MAX_PER_DAY", "3"))
 FRESH_MINUTES = int(os.getenv("FRESH_MINUTES", "120"))
 MODEL = os.getenv("CLAUDE_MODEL", "claude-sonnet-5")
+SCREEN_MODEL = os.getenv("SCREEN_MODEL", "claude-haiku-4-5-20251001")
+
+SCREEN_PROMPT = """\
+Sujets couverts par le briefing d'actualité de ce matin :
+{topics}
+
+Tweet d'un média : \"\"\"{tweet_text}\"\"\"
+
+Ce tweet porte-t-il directement sur un des sujets couverts ci-dessus ?
+Réponds uniquement OUI ou NON."""
 
 PROMPT = """\
 Tu écris pour @PrestoPodcast, un briefing d'actualité québécois strictement factuel.
@@ -99,6 +109,21 @@ def load_briefing() -> str:
     return re.sub(r"<[^>]+>", " ", raw)[:12000]
 
 
+def load_topics() -> str:
+    """Résumé compact du briefing (titres de chapitres + première phrase) pour le pré-filtre."""
+    scripts = sorted((PROJECT_ROOT / "output" / "scripts").glob("*.xml"))
+    scripts = [s for s in scripts if re.fullmatch(r"\d{4}-\d{2}-\d{2}", s.stem)]
+    if not scripts:
+        return ""
+    raw = scripts[-1].read_text(encoding="utf-8")
+    lines = []
+    for m in re.finditer(r'<chapitre titre="([^"]+)">(.*?)</chapitre>', raw, re.DOTALL):
+        text = re.sub(r"\s+", " ", m.group(2)).strip()
+        sentences = re.split(r"(?<=[.!?])\s+", text)[:3]
+        lines.append(f"- {m.group(1)} : {' '.join(sentences)}")
+    return "\n".join(lines)
+
+
 def main():
     dry_run = os.getenv("DRY_RUN", "").lower() in ("1", "true", "yes")
     state = load_state()
@@ -111,6 +136,7 @@ def main():
     if not briefing:
         log.warning("Aucun briefing disponible, skip.")
         return
+    topics = load_topics()
 
     # Écriture : OAuth1 (compte @PrestoPodcast). Lecture : Bearer App-Only si
     # disponible (requis pour les GET sur le tier pay-per-use), sinon OAuth1.
@@ -165,6 +191,23 @@ def main():
                 continue
 
             safe_text = tweet.text.replace('"', "'").replace("{", "").replace("}", "")
+
+            # Pré-filtre économique : le tweet recoupe-t-il un sujet du briefing ?
+            try:
+                screen = claude.messages.create(
+                    model=SCREEN_MODEL,
+                    max_tokens=5,
+                    messages=[{"role": "user", "content": SCREEN_PROMPT.format(
+                        topics=topics, tweet_text=safe_text)}],
+                )
+                if "OUI" not in screen.content[0].text.strip().upper():
+                    log.info("@%s %s : hors sujets du briefing (pré-filtre). Tweet : %s",
+                             handle, tweet.id, tweet.text[:90])
+                    continue
+            except Exception as e:
+                log.error("Erreur pré-filtre : %s", e)
+                continue
+
             try:
                 msg = claude.messages.create(
                     model=MODEL,

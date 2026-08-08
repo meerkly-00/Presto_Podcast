@@ -88,14 +88,18 @@ def _json_ld(obj):
 _ITUNES = "{http://www.itunes.com/dtds/podcast-1.0.dtd}"
 
 
+AUDIO_URL_TEMPLATE = "https://github.com/meerkly-00/Presto_Podcast/releases/download/{d}/{d}.mp3"
+
+
 def episode_metadata(iso, feed_path, today=None):
-    """Métadonnées d'un épisode. Lit feed.xml si l'item y est ; sinon mode archivé."""
+    """Métadonnées d'un épisode. Lit feed.xml pour titre/durée ; les MP3 restent
+    disponibles indéfiniment sur les releases GitHub, l'audio est donc toujours actif."""
     title = f"{SERIES_NAME} — édition du {french_date(iso)}"
     meta = {
         "title": title,
-        "audio_url": None,
+        "audio_url": AUDIO_URL_TEMPLATE.format(d=iso),
         "duration_sec": None,
-        "audio_active": is_audio_active(iso, today=today),
+        "audio_active": True,
     }
     feed_path = Path(feed_path)
     if not feed_path.exists():
@@ -181,8 +185,7 @@ def render_episode_page(content, meta):
                    'var a=document.getElementById("ep-audio");'
                    'a.scrollIntoView({behavior:"smooth",block:"center"});a.play();});</script>')
     else:
-        player = ('<div class="archived">Épisode archivé — l\'audio n\'est plus '
-                  'disponible (les épisodes restent en ligne 7 jours). '
+        player = (f'<div class="archived">Audio indisponible pour cette édition. '
                   f'<a href="{BASE_URL}/">Écouter l\'édition du jour →</a></div>')
         direct_btn = ""
         play_js = ""
