@@ -1,0 +1,55 @@
+name: Presto — contexte médias
+
+on:
+  schedule:
+    - cron: '*/20 10-23 * * *'   # toutes les 20 min, 6h à 19h heure de Montréal (UTC-4)
+  workflow_dispatch:
+    inputs:
+      dry_run:
+        description: "DRY_RUN (1 = ne poste pas, montre seulement)"
+        default: "0"
+
+concurrency:
+  group: media-watch
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+
+jobs:
+  watch:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+          cache: pip
+
+      - run: pip install -r requirements.txt
+
+      - name: Lire les médias et répondre si contexte utile
+        run: python tools/media_context_reply.py
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          TWITTER_API_KEY: ${{ secrets.TWITTER_API_KEY }}
+          TWITTER_API_SECRET: ${{ secrets.TWITTER_API_SECRET }}
+          TWITTER_ACCESS_TOKEN: ${{ secrets.TWITTER_ACCESS_TOKEN }}
+          TWITTER_ACCESS_TOKEN_SECRET: ${{ secrets.TWITTER_ACCESS_TOKEN_SECRET }}
+          CLAUDE_MODEL: claude-sonnet-5
+          MEDIA_WATCH_HANDLES: "JdeMontreal"
+          REPLY_MAX_PER_DAY: "3"
+          FRESH_MINUTES: "120"
+          DRY_RUN: ${{ github.event.inputs.dry_run || '0' }}
+
+      - name: Sauvegarder l'état
+        run: |
+          git config user.name "Presto Bot"
+          git config user.email "presto-bot@noreply"
+          git add data/media_reply_state.json
+          git diff --cached --quiet || git commit -m "media-watch: state [skip ci]"
+          git pull --rebase origin main
+          git push
