@@ -115,6 +115,12 @@ SKIP : si AUCUN fait ne qualifie comme neuf (journée calme, rien que le matin
 n'ait déjà dit), ne force rien. Réponds {{"skip": true, "texte_tweet": ""}}.
 Mieux vaut pas de tweet qu'une redite du matin.
 
+INTERDIT ABSOLU : publier l'accroche seule, sans aucune puce. Un tweet du genre
+« Pendant ta journée, ça a bougé. » sans fait qui suit ne veut rien dire et ne
+doit JAMAIS sortir. Si tu n'as pas au moins UNE puce portant un fait concret
+(nom, chiffre, décision, issue), la seule réponse valide est {{"skip": true}}.
+L'accroche n'existe que pour introduire des faits : pas de faits, pas de tweet.
+
 {regles}
 - texte_tweet complet ≤ 270 caractères, puces incluses.
 
@@ -224,6 +230,9 @@ def construire_midi(data: dict, date_slug: str) -> dict | None:
     }
 
 
+_PUCES = ("•", "-", "–", "—", "*")
+
+
 def construire_soir(data: dict, date_slug: str) -> dict | None:
     if data.get("skip"):
         print("[soir] aucun fait neuf depuis le matin → tweet sauté.")
@@ -232,6 +241,18 @@ def construire_soir(data: dict, date_slug: str) -> dict | None:
     if not text:
         print("[soir] texte vide → tweet sauté.")
         return None
+
+    # Garde-fou : l'accroche seule ne dit rien. On exige au moins une puce
+    # portant un fait concret ; sinon on ne publie pas (rien > tweet creux).
+    faits = [
+        ligne.strip().lstrip("".join(_PUCES)).strip()
+        for ligne in text.splitlines()
+        if ligne.strip().startswith(_PUCES)
+    ]
+    if not any(len(f) >= 25 for f in faits):
+        print("[soir] accroche sans fait concret → tweet sauté.")
+        return None
+
     return {"date": date_slug, "kind": "single", "text": text}
 
 
