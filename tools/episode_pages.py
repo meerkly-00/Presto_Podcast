@@ -146,6 +146,12 @@ p{margin:0 0 16px}
 font:700 13px 'Barlow Condensed',sans-serif;text-transform:uppercase;letter-spacing:.06em;
 color:var(--cream-dim)}
 .listen a{margin-right:18px;color:var(--gold)}
+.btns{display:flex;gap:12px;flex-wrap:wrap;margin:0 0 24px}
+.btn{display:inline-block;font:700 14px 'Barlow Condensed',sans-serif;text-transform:uppercase;
+letter-spacing:.08em;padding:12px 22px;border-radius:6px;cursor:pointer;text-decoration:none;
+background:var(--gold);color:var(--bg);border:1px solid var(--gold)}
+.btn.alt{background:transparent;color:var(--gold)}
+.btn:hover{opacity:.88}
 """
 
 
@@ -157,11 +163,19 @@ def render_episode_page(content, meta):
     title_tag = f"{meta['title']} — transcript & résumé"
 
     if meta["audio_active"] and meta["audio_url"]:
-        player = f'<audio controls preload="none" src="{html.escape(meta["audio_url"])}"></audio>'
+        player = f'<audio id="ep-audio" controls preload="none" src="{html.escape(meta["audio_url"])}"></audio>'
+        direct_btn = '<button class="btn" id="btn-direct" type="button">Écouter directement</button>'
+        play_js = ('<script>document.getElementById("btn-direct").addEventListener("click",function(){'
+                   'var a=document.getElementById("ep-audio");'
+                   'a.scrollIntoView({behavior:"smooth",block:"center"});a.play();});</script>')
     else:
         player = ('<div class="archived">Épisode archivé — l\'audio n\'est plus '
                   'disponible (les épisodes restent en ligne 7 jours). '
                   f'<a href="{BASE_URL}/">Écouter l\'édition du jour →</a></div>')
+        direct_btn = ""
+        play_js = ""
+    buttons = (f'<div class="btns">{direct_btn}'
+               f'<a class="btn alt" href="{SPOTIFY_URL}" target="_blank" rel="noopener">Écouter sur Spotify</a></div>')
 
     chapters_html = ""
     for ch in content["chapters"]:
@@ -215,6 +229,13 @@ def render_episode_page(content, meta):
 <meta property="og:url" content="{url}">
 <meta property="og:image" content="{ARTWORK_URL}">
 <meta property="og:locale" content="fr_CA">
+<meta property="article:published_time" content="{iso}">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="{html.escape(meta['title'])}">
+<meta name="twitter:description" content="{html.escape(desc)}">
+<meta name="twitter:image" content="{ARTWORK_URL}">
+<meta name="twitter:site" content="@PrestoPodcast">
+<link rel="alternate" type="application/rss+xml" title="Presto" href="{BASE_URL}/feed.xml">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Barlow+Condensed:wght@700;800&family=Barlow:wght@300;400;600&display=swap" rel="stylesheet">
@@ -225,23 +246,54 @@ def render_episode_page(content, meta):
 <nav class="crumb"><a href="{BASE_URL}/">Accueil</a> › <a href="{BASE_URL}/episodes/">Épisodes</a> › {fdate}</nav>
 <h1>{html.escape(meta['title'])}</h1>
 <div class="date">{fdate}</div>
+{buttons}
 <p class="lede">{html.escape(content['intro'])}</p>
 {player}
 {chapters_html}<div class="listen">Écouter : <a href="{SPOTIFY_URL}">Spotify</a><a href="{APPLE_URL}">Apple Podcasts</a><a href="{YOUTUBE_URL}">YouTube</a></div>
 </div>
+{play_js}
 </body></html>
 """
 
 
 def build_archive_index(dates, site_dir):
-    """Génère episodes/index.html listant tous les épisodes (plus récent en premier)."""
+    """Génère episodes/index.html : épisodes groupés par mois (toggle), plus récent ouvert."""
     sorted_dates = sorted(set(dates), reverse=True)
     url = f"{BASE_URL}/episodes/"
 
-    items_html = ""
+    months: dict[str, list[str]] = {}
     for d in sorted_dates:
-        fdate = french_date(d)
-        items_html += f'  <li><a href="/episodes/{d}/">{fdate}</a></li>\n'
+        months.setdefault(d[:7], []).append(d)
+
+    items_html = ""
+    for i, (month, ds) in enumerate(months.items()):
+        y, m = month.split("-")
+        label = f"{MOIS_FR[int(m)].capitalize()} {y}"
+        lis = "".join(f'      <li><a href="/episodes/{d}/">{french_date(d)}</a></li>\n' for d in ds)
+        n = len(ds)
+        open_attr = " open" if i == 0 else ""
+        items_html += (
+            f'  <details class="month"{open_attr}>\n'
+            f'    <summary>{label} <span class="count">{n} épisode{"s" if n > 1 else ""}</span></summary>\n'
+            f'    <ul class="ep-list">\n{lis}    </ul>\n'
+            f'  </details>\n')
+
+    list_ld = _json_ld({
+        "@context": "https://schema.org",
+        "@type": "CollectionPage",
+        "name": "Tous les épisodes — Presto",
+        "url": url,
+        "inLanguage": "fr-CA",
+        "mainEntity": {
+            "@type": "ItemList",
+            "itemListElement": [
+                {"@type": "ListItem", "position": i + 1,
+                 "url": f"{BASE_URL}/episodes/{d}/",
+                 "name": f"{SERIES_NAME} — édition du {french_date(d)}"}
+                for i, d in enumerate(sorted_dates)
+            ],
+        },
+    })
 
     page = f"""<!DOCTYPE html>
 <html lang="fr-CA"><head>
@@ -267,14 +319,25 @@ def build_archive_index(dates, site_dir):
 .ep-list li:last-child{{border-bottom:none}}
 .ep-list a{{font:600 1rem 'Barlow',sans-serif;color:var(--gold);text-decoration:none}}
 .ep-list a:hover{{text-decoration:underline}}
+details.month{{border:1px solid var(--hairline);border-radius:10px;margin:0 0 14px;
+padding:0 18px;background:var(--bg-elev)}}
+details.month summary{{cursor:pointer;list-style:none;display:flex;justify-content:space-between;
+align-items:center;padding:16px 0;font:700 1.15rem 'Barlow Condensed',sans-serif;
+text-transform:uppercase;letter-spacing:.05em;color:var(--cream)}}
+details.month summary::-webkit-details-marker{{display:none}}
+details.month summary::after{{content:"+";color:var(--gold);font-size:1.3rem;font-weight:400}}
+details.month[open] summary::after{{content:"–"}}
+details.month .count{{font:400 .85rem 'Barlow',sans-serif;text-transform:none;
+letter-spacing:0;color:var(--cream-dim);margin-left:auto;margin-right:14px}}
+details.month .ep-list{{padding-bottom:10px}}
 </style>
+<script type="application/ld+json">{list_ld}</script>
 </head><body>
 <div class="wrap">
 <nav class="crumb"><a href="{BASE_URL}/">Accueil</a> › Épisodes</nav>
 <h1>Tous les épisodes</h1>
-<p style="color:var(--cream-dim);margin-bottom:28px">Chaque matin, un briefing d'actualité — les faits, pas le sermon.</p>
-<ul class="ep-list">
-{items_html}</ul>
+<p style="color:var(--cream-dim);margin-bottom:28px">Chaque matin, un briefing d'actualité — les faits, pas le sermon. Transcription complète de chaque épisode.</p>
+{items_html}
 </div>
 </body></html>
 """

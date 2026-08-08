@@ -51,7 +51,7 @@ jobs:
           TTS_PROVIDER: openai
           TTS_MODEL: tts-1
           TTS_VOICE: onyx
-          BRIEFING_DUREE_CIBLE: "17"
+          BRIEFING_DUREE_CIBLE: "15"
           BRIEFING_FENETRE_HEURES: "24"
           FEED_KEEP_DAYS: "7"
 

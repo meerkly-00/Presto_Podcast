@@ -1,0 +1,21 @@
+# Presto
+
+> Presto est un podcast d'actualité quotidien en français québécois. Chaque matin à 6h00, un briefing d'environ 15 minutes présente les nouvelles importantes des dernières 24 heures de façon strictement factuelle et non partisane : politique canadienne et québécoise, international, économie et marchés, tech. Chaque affirmation est attribuée à sa source (Radio-Canada, Reuters, La Presse, Bloomberg, etc.). Aucune opinion, aucun éditorial.
+
+Presto est généré automatiquement à partir d'une vingtaine de sources de référence. La transcription complète de chaque épisode est publiée le matin même.
+
+## Contenu
+
+- [Édition du jour et lecteur audio](https://www.prestopodcast.online/)
+- [Archives et transcriptions de tous les épisodes](https://www.prestopodcast.online/episodes/)
+- [Flux RSS du podcast](https://www.prestopodcast.online/feed.xml)
+
+## Plateformes
+
+- [Spotify](https://open.spotify.com/show/033pvJapq7VhGPvCyn5Bhy)
+- [Apple Podcasts](https://podcasts.apple.com/us/podcast/presto/id1896847376)
+- [X](https://x.com/PrestoPodcast)
+
+## Citation
+
+Les transcriptions peuvent être citées avec attribution « Presto (prestopodcast.online) ». Chaque page d'épisode est datée et contient le verbatim complet du briefing.
