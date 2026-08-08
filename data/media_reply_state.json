@@ -1,9 +1,11 @@
 {
   "user_ids": {
-    "JdeMontreal": "31016249"
+    "JdeMontreal": "31016249",
+    "LP_LaPresse": "10681662"
   },
   "last_seen": {
-    "JdeMontreal": "2086082232033112078"
+    "JdeMontreal": "2086082232033112078",
+    "LP_LaPresse": "2086081584273469613"
   },
   "replied": [],
   "daily": {}
