@@ -148,14 +148,15 @@ def main():
 
     # Écriture : OAuth1 (compte @PrestoPodcast). Lecture : Bearer App-Only si
     # disponible (requis pour les GET sur le tier pay-per-use), sinon OAuth1.
+    # .strip() : un secret collé avec un retour de ligne casse la signature OAuth (401)
     tw = tweepy.Client(
-        consumer_key=os.environ["TWITTER_API_KEY"],
-        consumer_secret=os.environ["TWITTER_API_SECRET"],
-        access_token=os.environ["TWITTER_ACCESS_TOKEN"],
-        access_token_secret=os.environ["TWITTER_ACCESS_TOKEN_SECRET"],
+        consumer_key=os.environ["TWITTER_API_KEY"].strip(),
+        consumer_secret=os.environ["TWITTER_API_SECRET"].strip(),
+        access_token=os.environ["TWITTER_ACCESS_TOKEN"].strip(),
+        access_token_secret=os.environ["TWITTER_ACCESS_TOKEN_SECRET"].strip(),
         wait_on_rate_limit=True,
     )
-    bearer = os.getenv("TWITTER_BEARER_TOKEN")
+    bearer = (os.getenv("TWITTER_BEARER_TOKEN") or "").strip() or None
     reader = tweepy.Client(bearer_token=bearer, wait_on_rate_limit=True) if bearer else tw
     claude = anthropic.Anthropic(api_key=os.environ["ANTHROPIC_API_KEY"])
     replied = set(state.get("replied", []))
@@ -257,6 +258,9 @@ def main():
                     time.sleep(3)
                 except Exception as e:
                     log.error("Erreur posting : %s", e)
+                    resp = getattr(e, "response", None)
+                    if resp is not None:
+                        log.error("Détail X : %s", resp.text[:400])
 
             # Un seul reply posté par run
             save_state(state)
