@@ -80,6 +80,14 @@ Réponds avec le texte du reply UNIQUEMENT, ou exactement « SKIP ».
 """
 
 
+def _msg_text(msg) -> str:
+    """Extrait le bloc texte d'une réponse Claude (ignore les blocs de réflexion)."""
+    for block in msg.content:
+        if getattr(block, "type", "") == "text":
+            return block.text.strip()
+    return ""
+
+
 def load_state() -> dict:
     if STATE_FILE.exists():
         return json.loads(STATE_FILE.read_text(encoding="utf-8"))
@@ -200,7 +208,7 @@ def main():
                     messages=[{"role": "user", "content": SCREEN_PROMPT.format(
                         topics=topics, tweet_text=safe_text)}],
                 )
-                if "OUI" not in screen.content[0].text.strip().upper():
+                if "OUI" not in _msg_text(screen).upper():
                     log.info("@%s %s : hors sujets du briefing (pré-filtre). Tweet : %s",
                              handle, tweet.id, tweet.text[:90])
                     continue
@@ -211,11 +219,11 @@ def main():
             try:
                 msg = claude.messages.create(
                     model=MODEL,
-                    max_tokens=200,
+                    max_tokens=600,
                     messages=[{"role": "user", "content": PROMPT.format(
                         handle=handle, tweet_text=safe_text, briefing=briefing)}],
                 )
-                reply_text = msg.content[0].text.strip().strip('"')
+                reply_text = _msg_text(msg).strip('"')
             except Exception as e:
                 log.error("Erreur Claude : %s", e)
                 continue
