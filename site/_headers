@@ -1,8 +1,8 @@
-# Feed RSS — jamais caché : les apps podcast doivent toujours avoir le dernier épisode
+# Feed RSS — cache court. Les apps podcast sondent selon leur propre horaire et
+# récupèrent le nouvel épisode au plus tard 5 minutes après sa publication ;
+# no-store forçait chaque sondage à repartir de l'origine.
 /feed.xml
-  Cache-Control: no-cache, no-store, must-revalidate
-  Pragma: no-cache
-  Expires: 0
+  Cache-Control: public, max-age=300
 
 # Sitemap et robots — cache court
 /sitemap.xml
