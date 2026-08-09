@@ -1,46 +1,54 @@
 {
-  "generated_at": "2026-08-09T02:36:39.638866+00:00",
+  "generated_at": "2026-08-09T13:50:01.013580+00:00",
   "window_hours": 8,
   "faits": [
     {
-      "sujet": "Incendie de forêt en Colombie-Britannique",
-      "fait": "Le gouvernement de la Colombie-Britannique a déclaré un état d'urgence à l'échelle provinciale samedi suite à l'incendie du Bald Range près de Summerland. Selon Global News, la BC Wildfire Service qualifie cet incendie comme l'un des plus difficiles jamais affrontés par la province, impliquant des opérations de sauvetage par hélicoptère de dizaines de personnes piégées."
+      "sujet": "Israël rejette plan Gaza Trump",
+      "fait": "Benyamin Nétanyahou a rejeté le plan en 15 points proposé par Trump pour Gaza. Selon la BBC et Al Jazeera, Israël conditionne tout retrait à un désarmement « véritable » du Hamas."
     },
     {
-      "sujet": "Décès potentiel lié aux feux de forêt",
-      "fait": "La Gendarmerie royale du Canada signale un décès potentiellement lié à l'incendie de forêt en Colombie-Britannique, selon Radio-Canada."
+      "sujet": "Iran rouvrir détroit Ormuz conditions",
+      "fait": "L'Iran exige que les États-Unis acceptent « toutes » ses conditions pour rouvrir le détroit d'Ormuz. Selon Le Devoir et Reuters, un accord avec Oman serait en « phase finale »."
     },
     {
-      "sujet": "Centre de données Amazon au Texas",
-      "fait": "Amazon prévoit une centrale électrique autonome dans un centre de données au Texas qui pourrait devenir la plus grande source de pollution climatique des États-Unis, selon TechCrunch."
+      "sujet": "Typhon Dolphin Chine évacuations",
+      "fait": "Le typhon Dolphin a frappé la côte est de la Chine dimanche avec des pluies torrentielles et des vents violents. Plus d'un million de personnes ont été évacuées selon CBC World."
     },
     {
-      "sujet": "Plateforme X et revenus des créateurs",
-      "fait": "X met fin à son programme de partage des revenus controversé et le remplace par un programme 'Original Content Rewards' qui sera lancé le 8 septembre, selon The Verge. Les créateurs doivent avoir au minimum 500 abonnés vérifiés et 500 000 impressions au cours des 90 derniers jours."
+      "sujet": "Incendie Colombie-Britannique état urgence",
+      "fait": "La Colombie-Britannique a déclaré un état d'urgence provincial samedi. L'incendie de Bald Range s'est propagé sur plus de 103 km² et la GRC enquête sur un décès possible selon CBC et Radio-Canada."
     },
     {
-      "sujet": "Acquisition OpenAI NextSlide",
-      "fait": "OpenAI a acquis la startup de présentation NextSlide, dont l'équipe travaille désormais sur ChatGPT, selon TechCrunch."
+      "sujet": "Attaque Houthis installation pétrolière Aramco",
+      "fait": "Les Houthis yéménites soutenus par l'Iran ont revendiqué une attaque dimanche contre une installation pétrolière d'Aramco dans le sud-ouest de l'Arabie saoudite selon CBC World."
     },
     {
-      "sujet": "Surveillance des voitures aux États-Unis",
-      "fait": "Plus de 70 municipalités américaines ont résilié leurs contrats avec une plateforme de surveillance des véhicules, selon Le Devoir."
+      "sujet": "Inflation alimentaire familles iraniennes",
+      "fait": "Des Iraniens de tous les milieux socioéconomiques font face à la montée de l'inflation et à la pression de guerre. Al Jazeera rapporte une détérioration des conditions de vie liée aux prix alimentaires élevés."
     },
     {
-      "sujet": "Rougeole : Canada versus États-Unis",
-      "fait": "Le Canada compte deux fois moins de cas confirmés de rougeole que les États-Unis pour une population environ dix fois plus petite, selon les données de l'Organisation mondiale de la Santé citées par La Presse."
+      "sujet": "Fusillade scolaire Thaïlande neuf morts",
+      "fait": "Un adolescent de 14 ans est accusé d'une fusillade en école en Thaïlande. Neuf personnes ont été tuées ; la police indique qu'il avait accès à du contenu violent en ligne selon CBC World."
     },
     {
-      "sujet": "Hongrie : nomination présidentielle",
-      "fait": "Andras Baka, ancien chef de la Cour suprême hongroise et défenseur de l'indépendance judiciaire, a été nommé candidat à la présidence par le parti au gouvernement, selon Al Jazeera."
+      "sujet": "Épave romaine Sicile découverte archéologique",
+      "fait": "Une épave romaine antique a été découverte au large de la Sicile. Le ministre italien de la Culture la qualifie d'une des plus importantes découvertes archéologiques sous-marines de ces dernières années selon la BBC."
     },
     {
-      "sujet": "Crypto-monnaies : projet de loi américain",
-      "fait": "Le Sénat américain a avancé un projet de loi majeur sur les crypto-monnaies avant son congé d'août, selon Reuters."
+      "sujet": "King's Cross Londres hub intelligence artificielle",
+      "fait": "L'ancien quartier chaud de King's Cross à Londres est devenu l'un des principaux centres mondiaux d'IA. TechCrunch rapporte cette transformation survenue depuis plus de 20 ans."
     },
     {
-      "sujet": "Détroit d'Ormuz : négociations Iran-États-Unis",
-      "fait": "L'Iran déclare qu'un accord sur le Détroit d'Ormuz est proche mais insuffisant pour rouvrir le détroit, tandis que Oman rapporte des progrès dans les négociations, selon Reuters et BBC World."
+      "sujet": "Éruption Mont Toba refroidissement limité",
+      "fait": "L'éruption du Mont Toba il y a 74 000 ans, la plus importante des 2,6 derniers millions d'années, a provoqué un refroidissement d'environ 0,5 degré durant moins de deux ans selon Ars Technica et des recherches en géosciences."
+    },
+    {
+      "sujet": "Kurdistan irakien réaffirme priorité paix",
+      "fait": "Le président Masoud Barzani du Kurdistan irakien a déclaré que la région souhaitait la paix alors que les tensions régionales augmentent selon Al Jazeera."
+    },
+    {
+      "sujet": "Canada victoire hockey Hlinka Gretzky",
+      "fait": "Le Canada a remporté la Coupe Hlinka Gretzky en battant les États-Unis 8-1 samedi selon Global News, avec trois buteurs comptant deux buts chacun."
     }
   ]
 }
