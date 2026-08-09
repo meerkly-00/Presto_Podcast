@@ -104,6 +104,14 @@ def strip_meta_source_commentary(script_xml: str) -> tuple[str, int]:
     return cleaned, n
 
 
+def _msg_text(msg) -> str:
+    """Extrait le bloc texte (les modèles à réflexion renvoient d'abord un ThinkingBlock)."""
+    for block in msg.content:
+        if getattr(block, "type", "") == "text":
+            return block.text
+    return ""
+
+
 def generate_script(
     articles_xml: str,
     system_prompt: str,
@@ -137,7 +145,12 @@ def generate_script(
         messages=[{"role": "user", "content": user_message}],
     )
 
-    script = message.content[0].text
+    script = _msg_text(message)
+    if not script.strip():
+        raise RuntimeError(
+            f"Claude {model} n'a renvoyé aucun bloc texte "
+            f"(stop_reason={getattr(message, 'stop_reason', '?')})."
+        )
 
     script, n_meta = strip_meta_source_commentary(script)
     if n_meta:
