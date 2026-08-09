@@ -10,6 +10,7 @@ on:
 
 permissions:
   contents: write
+  issues: write
 
 jobs:
   generate-tweets:
@@ -63,6 +64,7 @@ jobs:
       - name: Alerte si échec
         if: failure()
         run: |
+          gh label create incident --color B60205 --description "Échec d'un workflow automatisé" 2>/dev/null || true
           gh issue create \
             --title "⚠️ Génération tweets Presto échouée — $DATE" \
             --body "Le workflow tweet a échoué. Voir : $GITHUB_SERVER_URL/$GITHUB_REPOSITORY/actions/runs/$GITHUB_RUN_ID" \
