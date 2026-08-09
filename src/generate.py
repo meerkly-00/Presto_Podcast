@@ -138,9 +138,15 @@ def generate_script(
     client = anthropic.Anthropic(api_key=os.getenv("ANTHROPIC_API_KEY"))
 
     logger.info("Appel Claude %s ...", model)
+    # max_tokens plafonne la réflexion ET le texte. claude-sonnet-5 active la
+    # réflexion adaptative par défaut : le 2026-08-09, elle a consommé les 8192
+    # tokens sans laisser de place au script (stop_reason=max_tokens, zéro bloc
+    # texte). On la désactive — le briefing n'en a pas besoin — et on garde de
+    # la marge sur max_tokens.
     message = client.messages.create(
         model=model,
-        max_tokens=8192,
+        max_tokens=16000,
+        thinking={"type": "disabled"},
         system=system_prompt,
         messages=[{"role": "user", "content": user_message}],
     )
