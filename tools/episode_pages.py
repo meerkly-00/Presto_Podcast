@@ -393,7 +393,23 @@ def build_all(scripts_dir, site_dir, feed_path, today=None):
         dates.append(content["date"])
     build_archive_index(dates, site_dir)
     build_sitemap(dates, site_dir)
+    copy_feed(feed_path, site_dir)
     return len(dates)
+
+
+def copy_feed(feed_path, site_dir):
+    """Publie feed.xml comme asset statique de Pages.
+
+    Servi par Pages, le feed ne consomme pas le quota quotidien Workers ; servi
+    par le worker, chaque sondage d'une app podcast comptait comme une requête.
+    """
+    feed_path, site_dir = Path(feed_path), Path(site_dir)
+    if not feed_path.exists():
+        return
+    dest = site_dir / "feed.xml"
+    if dest.resolve() == feed_path.resolve():
+        return
+    dest.write_bytes(feed_path.read_bytes())
 
 
 if __name__ == "__main__":

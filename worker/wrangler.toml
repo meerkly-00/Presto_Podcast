@@ -3,11 +3,12 @@ main = "audio-proxy.js"
 compatibility_date = "2026-05-01"
 workers_dev = false
 
+# feed.xml n'est plus routé ici : il est publié comme asset statique Pages
+# (tools/episode_pages.py le copie dans site/), donc son sondage par les apps
+# podcast ne consomme plus le quota quotidien Workers.
 routes = [
   { pattern = "prestopodcast.online/audio/*", zone_name = "prestopodcast.online" },
-  { pattern = "prestopodcast.online/feed.xml", zone_name = "prestopodcast.online" },
   { pattern = "www.prestopodcast.online/audio/*", zone_name = "prestopodcast.online" },
-  { pattern = "www.prestopodcast.online/feed.xml", zone_name = "prestopodcast.online" },
 ]
 
 [triggers]

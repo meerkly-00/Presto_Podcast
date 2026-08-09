@@ -15,21 +15,18 @@ export default {
   async fetch(request, env, ctx) {
     const url = new URL(request.url);
 
-    if (url.pathname === "/feed.xml") {
-      const ghUrl = `${RAW}/feed.xml`;
-      return proxyTo(request, ghUrl, "application/rss+xml; charset=utf-8", 300);
-    }
+    // feed.xml est servi par Pages (asset statique), plus par ce worker.
 
     const m = url.pathname.match(/^\/audio\/(\d{4}-\d{2}-\d{2})\.mp3$/);
     if (m) {
       const date = m[1];
-      return proxyTo(request, `https://github.com/${REPO}/releases/download/${date}/${date}.mp3`);
+      return redirectTo(`https://github.com/${REPO}/releases/download/${date}/${date}.mp3`);
     }
 
     const me = url.pathname.match(/^\/audio\/(eco-\d{4}-\d{2}-\d{2})\.mp3$/);
     if (me) {
       const slug = me[1];
-      return proxyTo(request, `https://github.com/${REPO}/releases/download/${slug}/${slug}.mp3`);
+      return redirectTo(`https://github.com/${REPO}/releases/download/${slug}/${slug}.mp3`);
     }
 
     return new Response("Not found", { status: 404 });
@@ -183,19 +180,18 @@ async function postTweet({ text, replyToId, poll }, env) {
 const pct = (s) => encodeURIComponent(String(s));
 const sleep = (ms) => new Promise((r) => setTimeout(r, ms));
 
-async function proxyTo(request, target, contentType = null, maxAge = 86400) {
-  const upstream = await fetch(target, {
-    method: request.method,
-    headers: { "User-Agent": "Presto-Proxy/1.0" },
-    redirect: "follow",
-  });
-  const headers = new Headers(upstream.headers);
-  headers.set("Cache-Control", `public, max-age=${maxAge}`);
-  headers.set("Access-Control-Allow-Origin", "*");
-  if (contentType) headers.set("Content-Type", contentType);
-  return new Response(upstream.body, {
-    status: upstream.status,
-    statusText: upstream.statusText,
-    headers,
+// Redirection plutôt que proxy : le lecteur podcast va chercher les octets
+// directement chez GitHub, y compris ses requêtes Range. L'ancien proxy ne
+// transmettait pas l'en-tête Range — il retirait donc les ~6 Mo au complet à
+// chaque avance ou reprise, et chaque plage demandée comptait comme une
+// invocation du worker. Ici on invoque le worker une fois par démarrage.
+function redirectTo(target, maxAge = 86400) {
+  return new Response(null, {
+    status: 302,
+    headers: {
+      Location: target,
+      "Cache-Control": `public, max-age=${maxAge}`,
+      "Access-Control-Allow-Origin": "*",
+    },
   });
 }
