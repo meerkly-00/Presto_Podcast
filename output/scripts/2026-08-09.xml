@@ -1,0 +1,75 @@
+```xml
+<script>
+  <intro>Bonjour, on est le dimanche neuf août deux mille vingt-six. Voici votre Presto en environ quinze minutes. Au menu : les feux de forêt en Colombie-Britannique, les négociations commerciales avec les États-Unis, la situation en Ukraine et au Moyen-Orient, l'économie et la tech.</intro>
+
+  <chapitre titre="International">
+    On commence par la Colombie-Britannique, où la situation continue de se détériorer. Reuters rapporte que la province a déclaré l'état d'urgence alors que plus de vingt mille personnes ont dû fuir les feux de forêt. La BBC précise que le feu de Bald Range, toujours qualifié de hors de contrôle, a doublé de superficie pour dépasser quatre-vingt-quinze kilomètres carrés. Global News décrit une situation explosive à Summerland, créant des conditions que les autorités locales disent n'avoir jamais vues auparavant, incluant des sauvetages en hélicoptère pour des dizaines de personnes piégées derrière la ligne de feu. Global News rapporte aussi qu'une vidéo montre des résidents de Faulder en train de sauver leurs chiens d'un véhicule entouré de flammes.
+
+    Du côté de l'Ukraine, l'Associated Press et CBC rapportent que des frappes russes dans la région de Kyiv ont tué quatre personnes pendant la nuit, dont un enfant de trois ans mort avec ses grands-parents. En parallèle, l'Associated Press note que le président ukrainien Volodymyr Zelensky s'est rendu en Serbie, un pays considéré comme proche de Moscou. Reuters Business rapporte que les dirigeants de la Serbie et de l'Ukraine se sont engagés à resserrer leurs liens économiques.
+
+    Au Moyen-Orient, Al Jazeera rapporte que l'Arabie saoudite affirme avoir éteint un feu à une installation d'Aramco à Jizan, sans faire de blessés selon le ministère saoudien de l'Énergie. Toujours dans la région, Reuters rapporte que la Turquie, le Pakistan et l'Arabie saoudite ont conclu un pacte de défense que le ministre turc des Affaires étrangères qualifie de techniquement équivalent à l'article cinq de l'OTAN. L'Associated Press rapporte de son côté que les dirigeants iraniens estiment avoir acculé Donald Trump, une stratégie que l'agence décrit comme comportant de grands risques.
+
+    En Asie, Al Jazeera et Reuters rapportent que le typhon Dolphin s'apprête à frapper la côte est de la Chine, avec des vents atteignant cent soixante-deux kilomètres à l'heure. Plus de mille six cents vols ont été annulés et des évacuations sont en cours.
+
+    En Allemagne, l'Associated Press rapporte que deux drones ont été aperçus survolant une base militaire, après la découverte d'un drone contenant des explosifs près d'un aéroport cargo.
+
+    Du côté des États-Unis, Reuters rapporte que le fils de l'ex-président Joe Biden affirme que le cancer de son père s'est propagé et cause une douleur importante.
+
+    En Irlande, la BBC rapporte que Daniel Kinahan, soupçonné d'être un chef du crime organisé, doit être ramené en Irlande dans le cadre d'une opération à haute sécurité, après son extradition de Dubaï. Le service carcéral irlandais a acheté un véhicule blindé et à l'épreuve des bombes pour le transport.
+  </chapitre>
+
+  <chapitre titre="Politique canadienne">
+    Le dossier commercial avec les États-Unis reste le plus pressant pour Ottawa. Le National Post rapporte que de nombreux exportateurs canadiens qui bénéficiaient jusqu'ici du libre-échange sous l'Accord Canada-États-Unis-Mexique font maintenant face à la menace de droits de douane de cinquante pour cent sur des centaines de produits, une mesure que Washington doit imposer à partir du dix-neuf août.
+
+    Radio-Canada rapporte que les négociateurs canadiens visent toujours une entente avant cette date. La ministre québécoise des Relations internationales, Christine Fréchette, et son homologue du Nouveau-Brunswick, Susan Holt, exigent des résultats concrets avant d'accepter de remettre en vente l'alcool américain dans leurs provinces respectives.
+
+    Ailleurs à Ottawa, CBC rapporte que l'administration Trump mène un effort pour remodeler la manière dont l'histoire américaine est racontée dans les institutions culturelles du pays, avec comme exemple récent de nouvelles pancartes installées au Musée national d'histoire américaine du Smithsonian.
+  </chapitre>
+
+  <chapitre titre="Actualité québécoise">
+    Quelques nouvelles du Québec ce matin. Radio-Canada rapporte que des élus québécois dénoncent une montée des propos et des gestes homophobes, alors que la semaine de la Fierté bat son plein. Un drapeau arc-en-ciel a été vandalisé à cinq reprises à Val-David.
+
+    La Presse publie un dossier sur une équipe conjointe de policiers et de psychiatres qui vient en aide depuis huit ans à des patients aux prises avec des problèmes de santé mentale graves, souvent laissés pour compte par le réseau de la santé. Ces personnes génèrent un grand nombre d'appels au neuf-un-un, d'interventions policières et de séjours aux urgences.
+
+    Le Devoir rapporte que la colère monte aux États-Unis contre un vaste réseau de surveillance des voitures, plus de soixante-dix municipalités américaines ayant mis fin à leur contrat avec la plateforme visée.
+  </chapitre>
+
+  <chapitre titre="Économie et marchés">
+    On passe à l'économie. Bloomberg rapporte que les marchés boursiers européens suscitent un engouement croissant chez les investisseurs, dans un contexte de bonne tenue des indices du continent.
+
+    Du côté américain, Reuters Business rapporte que Berkshire Hathaway accélère ses rachats d'actions et réduit sa position de liquidités, alors que ses profits dépassent les attentes des analystes.
+
+    En Chine, Bloomberg rapporte que l'inflation ralentit, dans un contexte où le choc pétrolier lié à la guerre en Iran commence à s'atténuer.
+
+    Toujours en économie, le Financial Times rapporte qu'un projet de loi encadrant les cryptomonnaies reste bloqué au Sénat américain, malgré une campagne de pression chiffrée à environ deux cent vingt-cinq millions de dollars américains déployée pour le faire avancer.
+
+    Bloomberg publie aussi une analyse sur le rôle de l'intelligence artificielle dans la hausse des importations américaines, ainsi qu'un reportage établissant un lien entre le trafic aérien et la santé de l'économie américaine.
+  </chapitre>
+
+  <chapitre titre="Tech">
+    Un mot sur la tech. TechCrunch rapporte qu'un projet de centre de données d'Amazon au Texas pourrait devenir la plus importante source de pollution climatique aux États-Unis. Selon le New York Times, cité par The Verge, Amazon investit dans la construction d'une centrale au gaz naturel comptant trente-cinq turbines pour alimenter ce centre de données, sans être reliée au réseau électrique de l'État, du moins dans un premier temps.
+
+    Du côté d'OpenAI, TechCrunch rapporte que l'entreprise a fait l'acquisition de la jeune pousse NextSlide, spécialisée dans les présentations. Les membres de cette équipe travaillent désormais sur ChatGPT.
+
+    The Verge rapporte que la plateforme X abandonne son programme de partage des revenus avec les créateurs de contenu, en place depuis plusieurs années sous la direction d'Elon Musk, pour le remplacer par un nouveau programme nommé Original Content Rewards à partir du huit septembre. Pour être admissibles, les créateurs devront avoir au moins cinq cents abonnés vérifiés et au moins cinq cent mille impressions sur leur fil principal au cours des quatre-vingt-dix derniers jours.
+
+    Reuters Business rapporte qu'Apple permet désormais aux utilisateurs de Mac en Chine de se connecter au service d'intelligence artificielle Qwen, développé par Alibaba.
+
+    Du côté de la science appliquée, Ars Technica rapporte qu'un modèle d'intelligence artificielle développé par DeepMind, nommé WeatherNext, a surpris les scientifiques en météorologie par sa capacité à prédire la trajectoire des ouragans. Selon une étude publiée dans la revue Nature, le modèle donne aux prévisionnistes environ une journée de plus de délai que les modèles existants.
+
+    Toujours du côté d'Ars Technica, le rover Perseverance de la NASA s'apprête à établir un nouveau record de distance parcourue par un véhicule sur une autre planète, en dépassant quarante-cinq kilomètres parcourus sur Mars.
+  </chapitre>
+
+  <chapitre titre="Sport">
+    Rapidement en sport. À Toronto, Sportsnet rapporte qu'Ekaterina Alexandrova a créé la surprise en battant la joueuse numéro un mondiale, Aryna Sabalenka.
+
+    Au baseball, Sportsnet rapporte que les Blue Jays de Toronto ont remonté la pente face aux Phillies de Philadelphie samedi, portés par une performance remarquée de Max Scherzer, qui a atteint le cap des trois mille cinq cent seize retraits sur des prises en carrière, un dixième rang de tous les temps. Vladimir Guerrero fils a aussi frappé un circuit à son retour dans l'alignement, et Nathan Lukes a claqué un circuit de deux points en dixième manche pour donner l'avance à son équipe.
+
+    Au football canadien, Global News rapporte que les Lions de la Colombie-Britannique ont défait les Tiger-Cats grâce à un placement tardif de Nathan Rourke.
+
+    Enfin, la BBC rapporte que la FIFA critique vivement ce qu'elle qualifie d'effort concerté pour miner l'organisation et son président Gianni Infantino.
+  </chapitre>
+
+  <outro>Voilà pour ce Presto du dimanche neuf août deux mille vingt-six. Si ce briefing vous est utile, le meilleur coup de main que vous pouvez nous donner, c'est de le partager à une personne qui aime rester informée. Et selon votre plateforme : un abonnement sur Spotify ou Apple Podcasts, un pouce bleu et un abonnement sur YouTube, ça prend deux secondes et ça aide vraiment Presto à grandir. Sur ce, bonne journée, et à demain.</outro>
+</script>
+```
