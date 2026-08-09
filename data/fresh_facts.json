@@ -1,50 +1,50 @@
 {
-  "generated_at": "2026-08-09T19:32:40.575985+00:00",
+  "generated_at": "2026-08-09T22:30:16.185149+00:00",
   "window_hours": 8,
   "faits": [
     {
-      "sujet": "Claude Code auto mode",
-      "fait": "Anthropic activera par défaut le mode automatique de Claude Code, réduisant ainsi le besoin de supervision humaine lors de la programmation. Selon TechCrunch."
+      "sujet": "Incendie Bald Range en Colombie-Britannique",
+      "fait": "L'incendie de Bald Range en Colombie-Britannique s'est propagé sur 136 km² et reste hors de contrôle. Plus de 20 000 personnes ont été évacuées et la GRC enquête sur un possible décès lié à l'incendie. Selon BBC World et Radio-Canada."
     },
     {
-      "sujet": "Feux de forêt Colombie-Britannique",
-      "fait": "Plus de 20 000 personnes ont été évacuées en Colombie-Britannique et l'état d'urgence a été déclaré. L'incendie de Bald Range s'est étendu sur 136 km² et la GRC enquête sur un possible décès lié au sinistre. Selon Radio-Canada et BBC World."
+      "sujet": "Défilé de la Fierté à Montréal",
+      "fait": "Plus de 100 000 personnes se sont massées le long du parcours de 2,9 km du défilé de la Fierté à Montréal, avec environ 12 000 participants au cortège. Selon Radio-Canada."
     },
     {
-      "sujet": "Tarifs douaniers États-Unis-Canada",
-      "fait": "Le président Trump a annoncé des tarifs de 50 % qui s'appliqueraient à la majorité des marchandises canadiennes dans 10 jours. Pierre Poilievre demande au gouvernement canadien de ne pas faire de concessions. Selon Global News et La Presse."
+      "sujet": "Premières Nations s'opposent au pipeline ouest",
+      "fait": "L'Union des chefs indiens de la Colombie-Britannique demande à Ottawa et à l'Alberta d'arrêter le projet d'oléoduc de la côte ouest, affirmant que le gouvernement fédéral n'a pas consulté les Premières Nations de bonne foi. Selon Radio-Canada et Global News."
     },
     {
-      "sujet": "Accords commerciaux Oman-Iran",
-      "fait": "L'Iran déclare que les négociations directes avec les États-Unis sont terminées, bien que l'accord avec Oman soit dans les 'derniers stades'. Trump indique que les États-Unis peuvent attendre que les souffrances économiques iraniennes cèdent. Selon Reuters et National Post."
+      "sujet": "Tornades en Ontario sud-ouest",
+      "fait": "Deux tornades se sont produites en Ontario sud-ouest samedi alors qu'Environnement Canada avait émis une alerte aux tornades avertissant de vents destructeurs, de grêle et de pluies intenses. Selon Global News."
     },
     {
-      "sujet": "Gaza et plan Trump",
-      "fait": "Le Premier ministre israélien Netanyahu rejette le plan américain en 15 points pour Gaza accepté par le Hamas, exigeant le désarmement complet du mouvement avant tout retrait militaire. Selon BBC World et Radio-Canada."
+      "sujet": "Israël rejette le plan Trump pour Gaza",
+      "fait": "Le Premier ministre israélien Netanyahou déclare que Israël rejette le plan en 15 points de Trump pour Gaza, affirmant que l'armée ne se retirera pas tant que le Hamas n'est pas 'véritablement' désarmé. Selon BBC World."
     },
     {
-      "sujet": "Tour de France Femmes 2026",
-      "fait": "La cycliste néerlandaise Demi Vollering remporte sa deuxième édition du Tour de France Femmes en s'imposant à l'étape finale à Nice avec 78 secondes d'avance sur sa rivale polonaise Katarzyna Niewiadoma-Phinney. Selon Le Devoir et Radio-Canada."
+      "sujet": "Assistance fédérale aux évacués des feux en Colombie-Britannique",
+      "fait": "Le gouvernement fédéral approuve une assistance pour aider les évacués des feux en Colombie-Britannique à trouver un abri. Des évacués à Penticton ont rapporté des temps d'attente dépassant 14 à 15 heures pour s'inscrire. Selon Global News."
     },
     {
-      "sujet": "Alertes météorologiques Canada",
-      "fait": "Environnement Canada offrira à partir de mardi des alertes plus ciblées pour orages violents et tornades, limitées au parcours prévu de la tempête au lieu de viser de vastes régions. Selon La Presse."
+      "sujet": "Allemagne met en garde contre la 'guerre hybride'",
+      "fait": "Le ministre de l'Intérieur allemand avertit que l'espionnage, le sabotage, les cyberattaques et les opérations clandestines sont une 'réalité constante' après la découverte d'un drone chargé d'explosifs. Selon Al Jazeera."
     },
     {
-      "sujet": "Découverte archéologique Sicile",
-      "fait": "Des plongeurs italiens ont découvert l'épave d'un bateau romain au large de la Sicile contenant plusieurs centaines d'amphores en bon état, probablement destinées au transport de vin. Selon La Presse."
+      "sujet": "Infirmière française refuse de permis de travail",
+      "fait": "Une infirmière française ayant complété deux ans d'études au Québec et obtenu un diplôme provincial s'est vu refuser un permis de travail postdiplôme et a perdu le droit de travailler dans un CHSLD. Selon La Presse."
     },
     {
-      "sujet": "Manifestations anti-tourisme Espagne",
-      "fait": "Des centaines de personnes ont manifesté samedi à Soller à Majorque contre le tourisme de masse. Selon Al Jazeera."
+      "sujet": "Demi Vollering remporte le Tour de France Femmes",
+      "fait": "La cycliste néerlandaise Demi Vollering a remporté le Tour de France Femmes pour la deuxième fois en gagnant la neuvième et dernière étape à Nice. Selon Le Devoir."
     },
     {
-      "sujet": "Caméras de plaques minéralogiques États-Unis",
-      "fait": "La startup de surveillance Flock a installé plus de 100 000 caméras de lecteurs de plaques minéralogiques aux États-Unis en quelques années, suscitant une opposition croissante des militants pour la vie privée. Selon National Post."
+      "sujet": "Environnement Canada améliore les alertes tornade",
+      "fait": "À partir du mardi 12 août, Environnement Canada offrira des alertes d'orages violents et de tornades mieux ciblées, limitées au parcours prévu de la tempête au lieu d'une grande région. Selon La Presse."
     },
     {
-      "sujet": "Typhon Dolphin Chine",
-      "fait": "Shanghai a annulé au moins 1 300 vols alors que le typhon Dolphin frappe la côte orientale de la Chine. Selon Associated Press."
+      "sujet": "Décès de Don Nelson, entraîneur NBA",
+      "fait": "Don Nelson, deuxième entraîneur le plus victorieux de l'histoire de la NBA et cinq fois champion avec les Celtics en tant que joueur, est décédé dimanche à l'âge de 86 ans. Selon CBC World."
     }
   ]
 }
