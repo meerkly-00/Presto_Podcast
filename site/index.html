@@ -1379,17 +1379,16 @@
 
   // Hero audio player — last episode from RSS
   (function () {
-    var RSS = 'https://www.prestopodcast.online/feed.xml';
-    fetch(RSS)
-      .then(function (r) { return r.text(); })
-      .then(function (txt) {
-        var xml = new DOMParser().parseFromString(txt, 'text/xml');
-        var item = xml.querySelector('item');
-        if (!item) return;
-        var title = (item.querySelector('title') || {}).textContent || '';
-        var pub   = (item.querySelector('pubDate') || {}).textContent || '';
-        var enc   = item.querySelector('enclosure');
-        var src   = enc ? enc.getAttribute('url') : '';
+    // latest.json plutôt que feed.xml : /feed.xml est intercepté par le worker,
+    // donc chaque visite consommait le quota Workers. Ce fichier est un asset
+    // statique Pages de quelques centaines d'octets. Le flux public de podcast
+    // reste /feed.xml — voir <link rel="alternate"> plus haut.
+    fetch('/latest.json')
+      .then(function (r) { return r.json(); })
+      .then(function (item) {
+        var title = item.title || '';
+        var pub   = item.pubDate || '';
+        var src   = item.url || '';
         if (!src) return;
 
         var d = new Date(pub);

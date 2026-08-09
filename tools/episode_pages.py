@@ -394,7 +394,35 @@ def build_all(scripts_dir, site_dir, feed_path, today=None):
     build_archive_index(dates, site_dir)
     build_sitemap(dates, site_dir)
     copy_feed(feed_path, site_dir)
+    build_latest_json(feed_path, site_dir)
     return len(dates)
+
+
+def build_latest_json(feed_path, site_dir):
+    """Écrit latest.json : le dernier épisode, pour le lecteur de la page d'accueil.
+
+    La page allait chercher feed.xml (63 Ko) à chaque visite. Comme /feed.xml est
+    intercepté par le worker, chaque visite comptait dans le quota Workers ; ce
+    fichier est servi par Pages et pèse quelques centaines d'octets.
+    """
+    feed_path, site_dir = Path(feed_path), Path(site_dir)
+    if not feed_path.exists():
+        return
+    item = parse_xml(feed_path).getroot().find("./channel/item")
+    if item is None:
+        return
+    enclosure = item.find("enclosure")
+    url = enclosure.get("url") if enclosure is not None else ""
+    if not url:
+        return
+    latest = {
+        "title": (item.findtext("title") or "").strip(),
+        "pubDate": (item.findtext("pubDate") or "").strip(),
+        "url": url,
+    }
+    (site_dir / "latest.json").write_text(
+        json.dumps(latest, ensure_ascii=False), encoding="utf-8"
+    )
 
 
 def copy_feed(feed_path, site_dir):
