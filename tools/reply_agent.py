@@ -71,13 +71,21 @@ def extract_chapters(script_xml: str) -> list[dict]:
     return result
 
 
+def _msg_text(msg) -> str:
+    """Extrait le bloc texte (les modèles à réflexion renvoient d'abord un ThinkingBlock)."""
+    for block in msg.content:
+        if getattr(block, "type", "") == "text":
+            return block.text
+    return ""
+
+
 def build_search_query(chapter: dict, claude: anthropic.Anthropic) -> str:
     msg = claude.messages.create(
         model=os.getenv("CLAUDE_MODEL", "claude-haiku-4-5-20251001"),
         max_tokens=80,
         messages=[{"role": "user", "content": SEARCH_PROMPT.format(**chapter)}],
     )
-    query = msg.content[0].text.strip().strip('"')
+    query = _msg_text(msg).strip().strip('"')
     # Ajout de filtres : langue française, exclu retweets
     return f"{query} lang:fr -is:retweet"
 
@@ -130,7 +138,7 @@ def generate_reply(tweet_text: str, faits: str, claude: anthropic.Anthropic) -> 
             tweet_text=tweet_text, faits=faits
         )}],
     )
-    return msg.content[0].text.strip()
+    return _msg_text(msg).strip()
 
 
 def main():

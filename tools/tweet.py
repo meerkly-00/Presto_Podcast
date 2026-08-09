@@ -82,6 +82,14 @@ def build_cta(date_str: str = "") -> str:
             f"→ https://open.spotify.com/show/033pvJapq7VhGPvCyn5Bhy")
 
 
+def _msg_text(msg) -> str:
+    """Extrait le bloc texte (les modèles à réflexion renvoient d'abord un ThinkingBlock)."""
+    for block in msg.content:
+        if getattr(block, "type", "") == "text":
+            return block.text
+    return ""
+
+
 def extract_thread(script_xml: str) -> list[str]:
     truncated = script_xml[:8000] if len(script_xml) > 8000 else script_xml
 
@@ -91,7 +99,7 @@ def extract_thread(script_xml: str) -> list[str]:
         max_tokens=512,
         messages=[{"role": "user", "content": THREAD_PROMPT.format(script=truncated)}],
     )
-    raw = message.content[0].text.strip()
+    raw = _msg_text(message).strip()
     tweets = [t.strip().strip('"') for t in raw.split("---") if t.strip()]
     return tweets[:3]  # max 3 tweets de contenu
 

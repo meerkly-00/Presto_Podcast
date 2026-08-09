@@ -76,6 +76,14 @@ Réponds avec le texte du reply UNIQUEMENT (ou « SKIP »).
 
 # ── State ──────────────────────────────────────────────────────────────────
 
+def _msg_text(msg) -> str:
+    """Extrait le bloc texte (les modèles à réflexion renvoient d'abord un ThinkingBlock)."""
+    for block in msg.content:
+        if getattr(block, "type", "") == "text":
+            return block.text
+    return ""
+
+
 def load_state() -> dict:
     if STATE_FILE.exists():
         return json.loads(STATE_FILE.read_text(encoding="utf-8"))
@@ -241,7 +249,7 @@ def main():
                     tweet_text=safe_tweet, context=context or "Aucun contexte disponible."
                 )}],
             )
-            reply_text = msg.content[0].text.strip().strip('"')
+            reply_text = _msg_text(msg).strip().strip('"')
         except Exception as e:
             log.error("   Erreur Claude : %s", e)
             continue
