@@ -38,6 +38,7 @@ from dotenv import load_dotenv
 
 from src.aggregate import aggregate
 from neutralite import mots_evaluatifs
+from refresh_facts import load_fresh_facts
 
 # Force UTF-8 sur la sortie console (Windows cp1252 plante sur emojis/accents)
 if hasattr(sys.stdout, "reconfigure"):
@@ -70,6 +71,9 @@ sondage neutre.
 SUJETS DÉJÀ TWEETÉS CE MATIN :
 {sujets_matin}
 
+FAITS CURÉS DU JOUR (déjà triés et sourcés, ta meilleure matière) :
+{faits_jour}
+
 NEWS FRAÎCHES (agrégées il y a quelques heures) :
 {news_fraiches}
 
@@ -97,6 +101,9 @@ commenter au bulletin du soir, Presto donne le récap des faits NEUFS de la jour
 
 DÉJÀ COUVERT CE MATIN, NE PAS REPRENDRE :
 {sujets_matin}
+
+FAITS CURÉS DU JOUR (déjà triés et sourcés, ta meilleure matière) :
+{faits_jour}
 
 NEWS FRAÎCHES (agrégées en fin d'après-midi, couvrent la journée) :
 {news_fraiches}
@@ -141,13 +148,21 @@ def _extract_json(raw: str) -> dict:
     return json.loads(txt)
 
 
+def _msg_text(msg) -> str:
+    """Extrait le bloc texte (les modèles à réflexion renvoient d'abord un ThinkingBlock)."""
+    for block in msg.content:
+        if getattr(block, "type", "") == "text":
+            return block.text
+    return ""
+
+
 def _call_model(client: anthropic.Anthropic, prompt: str) -> dict:
     msg = client.messages.create(
         model=MODEL,
-        max_tokens=600,
+        max_tokens=1500,
         messages=[{"role": "user", "content": prompt}],
     )
-    return _extract_json(msg.content[0].text)
+    return _extract_json(_msg_text(msg))
 
 
 def _trim(text: str, max_chars: int) -> str:
@@ -292,8 +307,15 @@ def main():
         print(f"Mini-refetch des feeds sur {refetch_h}h...")
         news_fraiches = aggregate(CONFIG_PATH, since_hours=refetch_h)[:9000]  # borne le contexte
         print(f"News fraîches : {len(news_fraiches)} caractères.")
+        # Le dump brut est tronqué arbitrairement ; la fiche curée par Haiku est
+        # dense et déjà sourcée, donc elle passe en premier dans le prompt.
+        faits = load_fresh_facts(log=print)
+        faits_jour = ("\n".join(f"- {f['fait']}" for f in faits)
+                      if faits else "(aucune fiche de faits disponible)")
+        print(f"Faits curés : {len(faits)}")
         prompt = gabarit.format(
             sujets_matin=sujets_matin,
+            faits_jour=faits_jour,
             news_fraiches=news_fraiches,
             regles=_REGLES_NEUTRALITE,
         )

@@ -24,6 +24,9 @@ import anthropic
 import tweepy
 from dotenv import load_dotenv
 
+sys.path.insert(0, str(Path(__file__).parent))
+from refresh_facts import load_fresh_facts  # noqa: E402  (lecteur partagé)
+
 if hasattr(sys.stdout, "reconfigure"):
     sys.stdout.reconfigure(encoding="utf-8")
 
@@ -110,31 +113,7 @@ def daily_count(state: dict) -> int:
     return state["daily"].get(today(), 0)
 
 
-FRESH_FACTS_FILE = PROJECT_ROOT / "data" / "fresh_facts.json"
 FRESH_MAX_AGE_H = int(os.getenv("FRESH_MAX_AGE_H", "12"))
-
-
-def load_fresh_facts() -> list[dict]:
-    """Faits agrégés en cours de journée par tools/refresh_facts.py.
-
-    Le briefing du matin vieillit : sans ça le bot n'a plus rien à dire
-    l'après-midi. Ignore une fiche périmée pour ne jamais citer du vieux
-    comme du frais.
-    """
-    if not FRESH_FACTS_FILE.exists():
-        return []
-    try:
-        data = json.loads(FRESH_FACTS_FILE.read_text(encoding="utf-8"))
-        generated = datetime.fromisoformat(data["generated_at"])
-    except (json.JSONDecodeError, KeyError, ValueError) as e:
-        log.warning("fresh_facts.json illisible (%s), ignoré.", e)
-        return []
-
-    age_h = (datetime.now(timezone.utc) - generated).total_seconds() / 3600
-    if age_h > FRESH_MAX_AGE_H:
-        log.info("Faits frais périmés (%.1f h), ignorés.", age_h)
-        return []
-    return data.get("faits", [])
 
 
 def load_briefing() -> str:
@@ -177,7 +156,7 @@ def main():
     topics = load_topics()
 
     # Faits de la journée : élargit la base au-delà du briefing du matin
-    fresh = load_fresh_facts()
+    fresh = load_fresh_facts(max_age_h=FRESH_MAX_AGE_H, log=log.info)
     if fresh:
         log.info("%d fait(s) frais chargé(s) en plus du briefing.", len(fresh))
         briefing += "\n\nDéveloppements plus récents de la journée :\n" + "\n".join(

@@ -54,6 +54,30 @@ Réponds UNIQUEMENT avec un objet JSON, rien d'autre :
 {{"faits": [{{"sujet": "...", "fait": "..."}}]}}"""
 
 
+def load_fresh_facts(max_age_h: int = 12, log=None) -> list[dict]:
+    """Lit la fiche de faits du jour (lecteur partagé par les autres outils).
+
+    Retourne [] si le fichier est absent, illisible, ou trop vieux : mieux vaut
+    retomber sur le briefing du matin que de citer du vieux comme du frais.
+    """
+    if not OUT_FILE.exists():
+        return []
+    try:
+        data = json.loads(OUT_FILE.read_text(encoding="utf-8"))
+        generated = datetime.fromisoformat(data["generated_at"])
+    except (json.JSONDecodeError, KeyError, ValueError) as e:
+        if log:
+            log(f"fresh_facts.json illisible ({e}), ignoré.")
+        return []
+
+    age_h = (datetime.now(timezone.utc) - generated).total_seconds() / 3600
+    if age_h > max_age_h:
+        if log:
+            log(f"Faits frais périmés ({age_h:.1f} h), ignorés.")
+        return []
+    return data.get("faits", [])
+
+
 def _extract_json(raw: str) -> dict:
     txt = raw.strip()
     if txt.startswith("```"):
