@@ -1,0 +1,56 @@
+name: Presto — faits frais
+
+# Le bot media-watch ne connaissait que le briefing du matin : en après-midi
+# il n'avait plus de munitions. On réagrège 4 fois par jour (Haiku, ~1 $/mois).
+on:
+  schedule:
+    - cron: '0 13,16,19,22 * * *'   # 9h, 12h, 15h, 18h heure de Montréal (UTC-4)
+  workflow_dispatch:
+    inputs:
+      dry_run:
+        description: "DRY_RUN (1 = affiche sans écrire)"
+        default: "0"
+
+concurrency:
+  group: refresh-facts
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+          cache: pip
+
+      - run: pip install -r requirements.txt
+
+      - name: Agréger et condenser les faits du jour
+        run: |
+          if [ "${{ github.event.inputs.dry_run }}" = "1" ]; then
+            python tools/refresh_facts.py --dry-run
+          else
+            python tools/refresh_facts.py
+          fi
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          REFRESH_MODEL: claude-haiku-4-5
+          REFRESH_HOURS: "8"
+
+      - name: Sauvegarder les faits
+        if: github.event.inputs.dry_run != '1'
+        run: |
+          git config user.name "Presto Bot"
+          git config user.email "presto-bot@noreply"
+          git add data/fresh_facts.json
+          git diff --cached --quiet || git commit -m "faits frais [skip ci]"
+          git pull --rebase origin main
+          git push
