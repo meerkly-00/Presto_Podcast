@@ -1,0 +1,14 @@
+{
+  "date": "2026-08-09",
+  "kind": "poll",
+  "text": "Ce matin → Le typhon Dolphin s'apprête à frapper la côte est de la Chine.\n\nFace aux typhons de plus en plus puissants, les gouvernements doivent-ils prioritairement investir dans l'évacuation ou dans la prévention?",
+  "poll": {
+    "options": [
+      "Priorité à l'évacuation",
+      "Priorité à la prévention",
+      "Investissements égaux",
+      "Dépend de la région"
+    ],
+    "duration_minutes": 1440
+  }
+}
