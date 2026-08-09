@@ -235,9 +235,12 @@ def main():
                 continue
 
             try:
+                # Réflexion désactivée : sonnet-5 la lance par défaut et elle
+                # épuiserait les 600 tokens avant d'écrire la réponse.
                 msg = claude.messages.create(
                     model=MODEL,
                     max_tokens=600,
+                    thinking={"type": "disabled"},
                     messages=[{"role": "user", "content": PROMPT.format(
                         handle=handle, tweet_text=safe_text, briefing=briefing)}],
                 )
