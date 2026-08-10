@@ -1,54 +1,46 @@
 {
-  "generated_at": "2026-08-10T16:53:36.732408+00:00",
+  "generated_at": "2026-08-10T19:55:15.169491+00:00",
   "window_hours": 8,
   "faits": [
     {
-      "sujet": "Financement fédéral acier canadien",
-      "fait": "Le gouvernement fédéral débloque 100 millions de dollars pour réduire les coûts de transport de l'acier canadien. Le programme restera en vigueur jusqu'à l'été 2027 ou jusqu'à épuisement des fonds. Selon Radio-Canada."
+      "sujet": "Meurtre d'une enfant à New York",
+      "fait": "Un jury new-yorkais a reconnu coupable Luciano Frattolin, 46 ans de Montréal, du meurtre au deuxième degré de sa fille de 9 ans, Melina, et de dissimulation de cadavre. Selon Radio-Canada, la délibération a duré moins d'une heure et le corps a été retrouvé dans un marécage près de Ticonderoga."
     },
     {
-      "sujet": "Démission MP libéral Shaun Chen",
-      "fait": "Le député libéral Shaun Chen (Scarborough North) annonce sa démission en raison de problèmes de santé importants liés à un accident automobile en fin 2025 qui l'empêchent de se rendre régulièrement à Ottawa. Selon Global News."
+      "sujet": "Ingérence étrangère avec l'Inde",
+      "fait": "Le gouvernement canadien a communiqué à ses homologues indiens une politique de « tolérance zéro » envers la répression transnationale et l'ingérence étrangère. Selon National Post, un haut fonctionnaire de la Sécurité publique a livré ce message."
     },
     {
-      "sujet": "Saisie drogue Dublin Irlande",
-      "fait": "Une femme arrivant d'un vol en provenance du Canada est arrêtée à Dublin avec plus de 1,5 million de dollars de cristal de méthamphétamine et de cannabis dans ses bagages. Selon National Post."
+      "sujet": "Tremblement de terre en Colombie",
+      "fait": "Un séisme de magnitude 7,4 a frappé la Colombie occidentale lundi, causant au moins 111 décès. D'après Radio-Canada et Al Jazeera, la situation est qualifiée de critique et le gouvernement a déclaré l'état d'urgence."
     },
     {
-      "sujet": "Épidémie Ebola RDC déclaration tardive",
-      "fait": "L'Organisation mondiale de la Santé déclare que l'épidémie d'Ebola en République démocratique du Congo a commencé plusieurs mois avant sa déclaration officielle, des cas antérieurs ayant été attribués au paludisme et à la typhoïde. Selon Al Jazeera."
+      "sujet": "Vaccins infantiles aux États-Unis",
+      "fait": "Trump a signé un décret recommandant de séparer le vaccin RRO (rougeole, oreillons, rubéole) en trois injections distinctes lors de visites différentes. Selon Global News, le décret vise aussi à améliorer la recherche vaccinale."
     },
     {
-      "sujet": "Tremblement de terre Colombie",
-      "fait": "Un séisme de magnitude 7,4 frappe l'ouest de la Colombie, causant au moins 47 morts et forçant plus de 12 000 personnes à évacuer leurs habitations. Selon Global News et Radio-Canada."
+      "sujet": "Investissement fédéral en Colombie-Britannique",
+      "fait": "Le gouvernement du Canada investit plus de 30 millions de dollars pour aider les entreprises de la Colombie-Britannique face aux perturbations commerciales. D'après Les Affaires, ce financement vise aussi à saisir de nouvelles occasions."
     },
     {
-      "sujet": "Fraude pilote Toronto Dallas Pokornik",
-      "fait": "Un ancien agent de bord de Toronto plaide coupable devant un tribunal fédéral américain pour avoir usurpé l'identité de pilote avec de faux documents afin d'obtenir des centaines de vols gratuits. Selon CBC."
+      "sujet": "Remboursement pour le transport d'acier",
+      "fait": "Ottawa va rembourser 100 millions de dollars en frais pour réduire les coûts de transport de l'acier. Selon Les Affaires, cette mesure a été annoncée."
     },
     {
-      "sujet": "Menaces mort Mark Carney arrêt",
-      "fait": "Un Montréalais de 51 ans, Marc Porlier, est arrêté par la GRC et accusé pour menaces de mort envers Mark Carney, ancien gouverneur de la Banque du Canada. Selon Le Devoir."
+      "sujet": "Démission du député ontarien",
+      "fait": "Le député libéral ontarien Shaun Chen a annoncé son intention de démissionner à la fin de la semaine en invoquant des séquelles de santé d'un accident automobile survenu en fin d'année dernière. D'après La Presse, l'annonce a été faite le 10 août."
     },
     {
-      "sujet": "Santé mentale adolescents Québec",
-      "fait": "Tel-jeunes rapporte que un tiers des Québécois âgés de 12 à 17 ans déclarent ressentir de l'anxiété chaque semaine, selon un sondage Léger du printemps 2026. Les jeunes filles et les adolescents LGBTQ+ vivent plus de détresse. Selon La Presse."
+      "sujet": "Exigences monétaires YouTube",
+      "fait": "À partir du 1er février 2027, les créateurs désirant monétiser leur chaîne YouTube devront avoir 1 000 abonnés et soit 8 000 heures de visionnage qualifiées en un an, soit 20 millions de vues qualifiées de Shorts en 90 jours. D'après The Verge, cela représente une augmentation substantielle par rapport aux exigences actuelles."
     },
     {
-      "sujet": "Incendies forêt Colombie-Britannique",
-      "fait": "Plus de 12 000 personnes sont évacuées dans la région de l'Okanagan en Colombie-Britannique suite à un incendie de forêt rapide. Des propriétés résidentielles sont complètement détruites par les flammes. Selon BBC World et La Presse."
+      "sujet": "Réchauffement climatique aux États-Unis",
+      "fait": "Juillet 2026 a été le mois le plus chaud jamais enregistré aux États-Unis selon la NOAA (Agence américaine d'observation océanique et atmosphérique). D'après La Presse, cette tendance est alimentée par le changement climatique."
     },
     {
-      "sujet": "Refus plan Gaza Netanyahu",
-      "fait": "Le Premier ministre israélien Benjamin Netanyahu rejette le plan en 15 points de l'administration Trump pour Gaza. L'administration Trump considère ce rejet comme de la rhétorique électorale plutôt que comme une position définitive. Selon BBC World et Al Jazeera."
-    },
-    {
-      "sujet": "Fusée Long March 7A explosion",
-      "fait": "Une fusée Long March 7A chinoise explose environ 1 minute 20 secondes après son décollage depuis le site de Wenchang. Le payload classé militaire, probablement un satellite de communications, est perdu. Les autorités chinoises ne se sont pas prononcées. Selon Ars Technica."
-    },
-    {
-      "sujet": "Archer acquisition Wisk Boeing",
-      "fait": "L'entreprise Archer acquiert Wisk Aero (division de Boeing) et deux autres unités de Boeing pour une participation en capital d'environ 20 pour cent. Selon Reuters et TechCrunch."
+      "sujet": "Feux de forêt en Colombie-Britannique",
+      "fait": "Plus de 12 000 personnes ont été évacuées en Colombie-Britannique suite à un incendie de forêt majeur dans la région de l'Okanagan. Selon BBC World, certaines habitations ont été perdues et un octogénaire a été tué, le premier décès rapporté."
     }
   ]
 }
