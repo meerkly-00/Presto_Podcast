@@ -1,50 +1,54 @@
 {
-  "generated_at": "2026-08-09T22:30:16.185149+00:00",
+  "generated_at": "2026-08-10T14:19:57.733262+00:00",
   "window_hours": 8,
   "faits": [
     {
-      "sujet": "Incendie Bald Range en Colombie-Britannique",
-      "fait": "L'incendie de Bald Range en Colombie-Britannique s'est propagé sur 136 km² et reste hors de contrôle. Plus de 20 000 personnes ont été évacuées et la GRC enquête sur un possible décès lié à l'incendie. Selon BBC World et Radio-Canada."
+      "sujet": "Alerte météo Québec orages",
+      "fait": "Une partie du sud du Québec, de la frontière ontarienne à Acton Vale, pourrait être frappée par des orages violents ou des tornades lundi après-midi, selon une alerte d'Environnement Canada. (La Presse)"
     },
     {
-      "sujet": "Défilé de la Fierté à Montréal",
-      "fait": "Plus de 100 000 personnes se sont massées le long du parcours de 2,9 km du défilé de la Fierté à Montréal, avec environ 12 000 participants au cortège. Selon Radio-Canada."
+      "sujet": "Brèche données Klaviyo mots de passe",
+      "fait": "Un bug du site de Klaviyo a partagé les informations d'inscription des utilisateurs, incluant données personnelles et mots de passe, à des entreprises tierces. (TechCrunch)"
     },
     {
-      "sujet": "Premières Nations s'opposent au pipeline ouest",
-      "fait": "L'Union des chefs indiens de la Colombie-Britannique demande à Ottawa et à l'Alberta d'arrêter le projet d'oléoduc de la côte ouest, affirmant que le gouvernement fédéral n'a pas consulté les Premières Nations de bonne foi. Selon Radio-Canada et Global News."
+      "sujet": "Ashton ouverture Montréal",
+      "fait": "La chaîne de restauration rapide Ashton ouvre sa première succursale sur l'île de Montréal lundi au Complexe Desjardins, après plus d'un demi-siècle d'existence. La chaîne compte actuellement 24 restaurants. (Le Devoir)"
     },
     {
-      "sujet": "Tornades en Ontario sud-ouest",
-      "fait": "Deux tornades se sont produites en Ontario sud-ouest samedi alors qu'Environnement Canada avait émis une alerte aux tornades avertissant de vents destructeurs, de grêle et de pluies intenses. Selon Global News."
+      "sujet": "Attaque drone Ukraine Russie morts",
+      "fait": "Une attaque de drones ukrainiens a tué 13 personnes au Tatarstan en Russie lundi, dont un enfant, et blessé 75 autres. C'est l'une des attaques les plus meurtrières sur le territoire russe depuis 2022. (BBC World, Radio-Canada)"
     },
     {
-      "sujet": "Israël rejette le plan Trump pour Gaza",
-      "fait": "Le Premier ministre israélien Netanyahou déclare que Israël rejette le plan en 15 points de Trump pour Gaza, affirmant que l'armée ne se retirera pas tant que le Hamas n'est pas 'véritablement' désarmé. Selon BBC World."
+      "sujet": "Boeing vend divisions taxis aériens",
+      "fait": "Boeing vend ses trois filiales de véhicules électriques verticaux (Wisk Aero, SkyGrid, Insitu) à Archer Aviation et prend une participation non divulguée dans la compagnie. (The Verge)"
     },
     {
-      "sujet": "Assistance fédérale aux évacués des feux en Colombie-Britannique",
-      "fait": "Le gouvernement fédéral approuve une assistance pour aider les évacués des feux en Colombie-Britannique à trouver un abri. Des évacués à Penticton ont rapporté des temps d'attente dépassant 14 à 15 heures pour s'inscrire. Selon Global News."
+      "sujet": "Tremblement terre Colombie magnitude",
+      "fait": "Un tremblement de terre de magnitude 7,4 a causé des dégâts importants et des blessures en Colombie, avec son épicentre près d'un village de la côte Pacifique. (BBC World)"
     },
     {
-      "sujet": "Allemagne met en garde contre la 'guerre hybride'",
-      "fait": "Le ministre de l'Intérieur allemand avertit que l'espionnage, le sabotage, les cyberattaques et les opérations clandestines sont une 'réalité constante' après la découverte d'un drone chargé d'explosifs. Selon Al Jazeera."
+      "sujet": "Brèche données Steam valve CEVA",
+      "fait": "Le prestataire d'expédition européen de Valve, CEVA Logistics, a subi une brèche entre le 29 juillet et le 1er août, exposant noms, adresses, téléphones et emails de clients Steam. (The Verge)"
     },
     {
-      "sujet": "Infirmière française refuse de permis de travail",
-      "fait": "Une infirmière française ayant complété deux ans d'études au Québec et obtenu un diplôme provincial s'est vu refuser un permis de travail postdiplôme et a perdu le droit de travailler dans un CHSLD. Selon La Presse."
+      "sujet": "Intel vente d'actions 15 milliards",
+      "fait": "Intel prévoit une vente de 15 milliards de dollars d'actions dans le contexte d'un redressement boursier. (Reuters)"
     },
     {
-      "sujet": "Demi Vollering remporte le Tour de France Femmes",
-      "fait": "La cycliste néerlandaise Demi Vollering a remporté le Tour de France Femmes pour la deuxième fois en gagnant la neuvième et dernière étape à Nice. Selon Le Devoir."
+      "sujet": "Débordement pétrolier Oman tanker",
+      "fait": "Une fuite de pétrole d'un tanker sous sanctions contre la Russie s'étend sur une zone considérable au large d'Oman. (Reuters Business)"
     },
     {
-      "sujet": "Environnement Canada améliore les alertes tornade",
-      "fait": "À partir du mardi 12 août, Environnement Canada offrira des alertes d'orages violents et de tornades mieux ciblées, limitées au parcours prévu de la tempête au lieu d'une grande région. Selon La Presse."
+      "sujet": "Santé mentale adolescentes Canada",
+      "fait": "Tel-jeunes avertit que la santé mentale des adolescentes se dégrade, les jeunes filles et les membres des communautés LGBTQ+ étant parmi les groupes les plus affectés. (Le Devoir)"
     },
     {
-      "sujet": "Décès de Don Nelson, entraîneur NBA",
-      "fait": "Don Nelson, deuxième entraîneur le plus victorieux de l'histoire de la NBA et cinq fois champion avec les Celtics en tant que joueur, est décédé dimanche à l'âge de 86 ans. Selon CBC World."
+      "sujet": "Migration passeurs canaux Royaume-Uni",
+      "fait": "Un record de 230 personnes ont atteint le Royaume-Uni en un seul bateau après avoir traversé la Manche. Le gouvernement accuse les passeurs d'entasser des migrants dans des embarcations non seaworthy. (Al Jazeera)"
+    },
+    {
+      "sujet": "FIFA Infantino trois confédérations",
+      "fait": "L'UEFA, la CONCACAF et l'AFC ont adressé une lettre commune accusant le président de la FIFA Gianni Infantino de tromperie et d'abus de confiance. (National Post, Le Devoir)"
     }
   ]
 }
