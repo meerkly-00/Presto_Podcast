@@ -1,69 +1,77 @@
-# Presto
-
 ```xml
 <script>
-  <intro>Bonjour, on est le lundi dix août deux mille vingt-six. Voici votre Presto en environ quinze minutes. Au menu : les feux de forêt en Colombie-Britannique qui ont fait une première victime, l'impasse persistante entre Israël et les États-Unis sur Gaza, la situation au détroit d'Ormuz, l'économie et les marchés, puis un tour de la tech.</intro>
+  <intro>Bonjour, on est le lundi dix août deux mille vingt-six. Voici votre Presto en environ quinze minutes. Au menu : la Colombie-Britannique et ses feux de forêt, le dossier Gaza toujours bloqué, un typhon majeur en Chine, les marchés portés par le pétrole et l'or, et un mot sur la tech.</micourez></intro>
 
   <chapitre titre="Actualité canadienne">
-    On commence en Colombie-Britannique, où la situation des feux de forêt a pris une tournure tragique. Radio-Canada rapporte que la Gendarmerie royale du Canada a confirmé le décès d'une femme qui tentait de fuir le feu de Bald Range, dans la vallée de l'Okanagan. Global News précise que la victime, âgée de quatre-vingts ans, résidait à Meadow Valley et tentait de quitter son domicile avec un membre de sa famille lorsqu'elle est décédée subitement. La Presse rapporte que l'incendie, toujours qualifié de hors de contrôle près du lac Okanagan, a ravagé les environs, avec des vidéos et des témoignages faisant état de dégâts importants.
+    On commence en Colombie-Britannique, où la situation des feux de forêt a pris une tournure tragique. Radio-Canada rapporte que la Gendarmerie royale du Canada a confirmé le décès d'une femme qui tentait de fuir le feu de Bald Range, dans la vallée de l'Okanagan. Selon Global News, la victime, âgée de quatre-vingts ans, résidait à Meadow Valley, près de Summerland. La police de Penticton précise qu'elle tentait de quitter sa maison avec un membre de sa famille lorsqu'elle est décédée subitement.
 
-    Reuters rapporte par ailleurs que la Colombie-Britannique recevra de l'aide fédérale pour faire face aux feux de forêt qui forcent des évacuations dans la province. Al Jazeera confirme que des milliers de résidents ont dû quitter leur domicile dans la région de l'Okanagan.
+    Toujours selon Radio-Canada, plus de vingt mille personnes demeurent visées par des ordres d'évacuation en Colombie-Britannique. Reuters rapporte que la province recevra une aide fédérale pour faire face à la crise.
 
-    Ailleurs au pays, un autre fait divers en Colombie-Britannique. La Presse rapporte qu'une fillette de trois ans a été hospitalisée après avoir été attaquée par un ours noir devant le domicile familial, à Maple Ridge, à l'est de Vancouver. La police et les agents de protection de la nature ont confirmé l'incident.
+    Ailleurs au pays, CBC rapporte qu'une résidente de quatre-vingt-treize ans de Saint Catharines, en Ontario, a vu toute une vie de souvenirs empilée sur le trottoir devant chez elle après que sa maison a été inondée à deux reprises en cinq jours, lors d'orages successifs.
 
-    Du côté de l'Alberta, CBC rapporte que la Gendarmerie royale du Canada enquête sur l'homicide d'un garçon de douze ans d'Edmonton, après la découverte de restes humains dans une région rurale du nord de la province. Les policiers d'Athabasca ont répondu à un signalement jeudi dernier.
+    En matière de sécurité publique, CBC rapporte que le poste de surveillant correctionnel du Canada est resté vacant pendant plusieurs mois sous le gouvernement du premier ministre Mark Carney, malgré des avertissements écrits de l'enquêteur correctionnel sortant selon lesquels ce vide compromettait sérieusement la capacité du bureau à protéger les détenus.
 
-    À Hamilton, en Ontario, Global News rapporte que la ville a enregistré son neuvième homicide de l'année après un poignardage mortel dans le stationnement d'une épicerie. La police n'a pas précisé ce qui s'est produit entre le moment où la victime a été poignardée et celui où elle a été retrouvée blessée à un autre endroit.
+    Toujours au pays, CBC rapporte que la police d'Edmonton enquête sur l'homicide d'un garçon de douze ans, après la découverte de restes humains dans une région rurale du nord de l'Alberta.
 
-    Une note plus légère pour terminer. Radio-Canada rapporte que Montréal a célébré les vingt ans de son défilé de la Fierté, dimanche après-midi, avec plus de dix mille personnes présentes.
+    Enfin, Radio-Canada rapporte que le Canada et les États-Unis surveillent de près l'apparition, chaque été, de navires de recherche chinois dans l'Arctique, une présence qui préoccupe de plus en plus la Défense canadienne.
   </chapitre>
 
   <chapitre titre="International">
-    Au Moyen-Orient, le dossier Gaza reste bloqué. La BBC et l'Associated Press rapportent qu'Israël a rejeté le plan en quinze points présenté par le président américain Donald Trump. Selon la BBC, le premier ministre israélien Benjamin Netanyahou affirme que l'armée israélienne ne se retirera pas de Gaza tant que le Hamas ne sera pas, en anglais, je le cite : "genuinely" disarmed. Fin de citation.
+    Au Moyen-Orient, le dossier Gaza reste bloqué. La BBC et l'Associated Press rapportent qu'Israël a rejeté le plan en quinze points présenté par le président américain Donald Trump. Selon CBC, le premier ministre israélien Benjamin Netanyahou affirme, dans des propos télévisés à son gouvernement de droite dimanche, que le Hamas doit désarmer avant tout retrait israélien de Gaza. CBC précise que l'armée israélienne a néanmoins largement cessé ses attaques dans le territoire, sous la pression du président américain.
 
-    CBC rapporte que Netanyahou a réitéré ce rejet lors d'un discours télévisé devant son gouvernement de droite dimanche, même si l'armée israélienne a effectivement cessé ses attaques dans le territoire sous la pression du président américain. Le Hamas, de son côté, réclame un retrait israélien complet de Gaza avant toute négociation sur le désarmement, une position qui s'oppose directement à celle de Netanyahou.
+    En parallèle, CBC rapporte que les rebelles houthis du Yémen, soutenus par l'Iran, affirment avoir attaqué une installation pétrolière d'Aramco dans le sud-ouest de l'Arabie saoudite dimanche.
 
-    Toujours dans la région, la situation au détroit d'Ormuz demeure tendue. Le National Post rapporte qu'un accord entre l'Iran et Oman pour rouvrir le détroit restait hors de portée, même si le président Trump a signalé de la patience, affirmant que les États-Unis pouvaient attendre que les difficultés économiques de Téhéran assouplissent sa position. Reuters confirme que l'Iran tempère les espoirs d'une réouverture rapide du détroit.
+    Sur le dossier du détroit d'Ormuz, Reuters rapporte qu'un accord sur sa réouverture rapide reste hors de portée, l'Iran ayant tempéré les espoirs d'un règlement rapide.
 
-    En parallèle, CBC rapporte que les rebelles houthis du Yémen affirment avoir attaqué une installation pétrolière d'Aramco dans le sud-ouest de l'Arabie saoudite, la plus récente d'une série d'attaques des rebelles soutenus par l'Iran contre le royaume.
+    En Ukraine, la BBC rapporte qu'au moins treize personnes sont mortes dans une frappe de drones ukrainiens sur la région russe du Tatarstan, ce que la BBC décrit comme l'une des attaques de drones les plus meurtrières menées par l'Ukraine depuis le début de la guerre. Toujours sur ce conflit, Al Jazeera rapporte que les robots terrestres déployés par l'Ukraine transforment certaines pratiques du combat: ils transportent des munitions, peuvent mener des missions suicides et ont réussi à capturer des positions ennemies.
 
-    En Asie, l'Associated Press et CBC rapportent que le typhon Dolphin, le cyclone tropical le plus puissant à toucher la Chine cette année, a touché terre sur la côte est du pays. Plus d'un million de personnes ont été évacuées. Radio-Canada précise que neuf cent quarante-trois vols ont été annulés à Shanghai lundi, selon les autorités aéroportuaires, un bilan qui s'ajoute aux mille trois cents vols déjà annulés dimanche.
+    En Asie, CBC et la BBC rapportent que le typhon Dolphin a touché terre dimanche soir sur la côte est de la Chine, forçant le déplacement préventif de plus de trois cents mille personnes et l'annulation de plus de mille trois cents vols dans les deux aéroports de Shanghai. Al Jazeera précise qu'environ un million de personnes ont été évacuées de leur domicile au total. La tempête avait auparavant apporté de fortes pluies dans le nord de Taïwan.
 
-    Ailleurs, Al Jazeera rapporte que le président Trump a nommé Will Scharf, actuel secrétaire d'état-major de la Maison-Blanche, au poste de conseiller juridique de la Maison-Blanche, à compter du premier septembre, à l'approche des élections de mi-mandat.
+    En Thaïlande, la BBC rapporte qu'un ancien député, Chalong Riewrang, a organisé une diffusion en direct sur YouTube pour annoncer qu'il avait abattu un fonctionnaire du gouvernement.
+  </chapitre>
 
-    Enfin, Al Jazeera signale qu'une éclipse solaire partielle sera visible pour près d'un milliard de personnes le douze août, avec un couloir de totalité touchant environ quinze millions de personnes.
+  <chapitre titre="Politique canadienne">
+    Au Canada, le dossier commercial avec les États-Unis continue de peser sur Ottawa. Le National Post rapporte que, frappé par de nouvelles menaces américaines de tarifs et d'annexion, le Canada se tourne vers l'Europe, certains observateurs évoquant même la possibilité que le pays se rapproche un jour de l'Union européenne.
+
+    En Colombie-Britannique, le National Post rapporte que le premier ministre provincial David Eby a annoncé l'ouverture prochaine de deux nouveaux centres de soins involontaires, un à Prince George et l'autre à Surrey, destinés aux personnes souffrant de troubles de santé mentale, de dépendances graves et de lésions cérébrales liées à ces dépendances.
+  </chapitre>
+
+  <chapitre titre="Actualité québécoise">
+    Quelques nouvelles du Québec ce matin. La Presse publie un dossier sur les centres de désintoxication, signé par Julianne Mondoloni et Charles William Pelletier. Selon ce reportage, les personnes aux prises avec une dépendance font face à des délais de plusieurs semaines et à des démarches complexes pour intégrer un centre de désintoxication, ce qui entraîne des rechutes chez plusieurs d'entre elles, en pleine crise des surdoses.
+
+    Le Devoir publie une réflexion sur le coût des services de santé au privé, remettant en question l'écart de trente-cinq pour cent souvent cité par Québec et pointant plutôt vers la manière dont les contrats sont structurés et attribués dans l'urgence par la Coalition avenir Québec.
+
+    Enfin, Radio-Canada rapporte que deux éclipses partielles sont attendues dans le ciel du mois d'août : une éclipse partielle du Soleil mercredi, suivie d'une éclipse partielle de la Lune à la fin du mois.
   </chapitre>
 
   <chapitre titre="Économie et marchés">
-    On passe à l'économie. Bloomberg rapporte que le pétrole prolonge ses gains, dans un contexte où un accord sur la réouverture du détroit d'Ormuz reste hors de portée. Reuters précise que les actions asiatiques se sont raffermies, avec le pétrole en légère hausse dans ce contexte d'incertitude dans le golfe Persique.
+    On passe à l'économie. Bloomberg rapporte que le pétrole prolonge ses gains, dans un contexte où un accord sur la réouverture du détroit d'Ormuz reste hors de portée. Reuters précise que le brut demeure stable, l'Iran ayant tempéré les espoirs d'une réouverture rapide.
 
-    Du côté des valeurs refuges, Bloomberg et Reuters rapportent tous deux que l'or se maintient après avoir atteint un sommet de sept semaines, alors que les données américaines sur l'inflation sont attendues cette semaine. Selon Bloomberg, les données décevantes sur l'emploi américain publiées la semaine dernière ont atténué les craintes d'une hausse des taux d'intérêt.
+    Du côté des valeurs refuges, le Wall Street Journal et Bloomberg rapportent que l'or se maintient au-dessus de quatre mille quatre cents dollars américains l'once, à l'approche de la publication des données américaines sur l'inflation. Selon Bloomberg, ce maintien des gains survient après la publication de données sur l'emploi américain plus faibles que prévu, ce qui atténue les craintes d'une hausse des taux d'intérêt par la Réserve fédérale. Reuters ajoute que l'or progresse légèrement dans ce contexte, les investisseurs surveillant de près les données d'inflation américaines à venir.
 
-    En Chine, Bloomberg rapporte que le pays mobilise des marchés de capitaux évalués à vingt-huit billions de dollars pour concurrencer les États-Unis dans le secteur de l'intelligence artificielle. Toujours en lien avec la Chine, l'Economist rapporte que le pays est devenu, selon ses termes, une grande puissance pétrolière mondiale, le Parti communiste chinois exerçant désormais une influence déterminante sur ce marché, davantage que l'OPEP.
+    Sur les marchés asiatiques, Reuters rapporte que les actions se sont raffermies, avec le pétrole en légère hausse dans ce climat d'incertitude entourant le Moyen-Orient.
 
-    Du côté des entreprises, Reuters Business rapporte que Taylor Farms a lancé un rappel de salsa et de guacamole en raison d'un risque de salmonelle. Toujours selon Reuters Business, l'entreprise de mode en ligne Shein a constaté que son expérience d'entrepôts au Vietnam a déçu, et que l'entreprise revient vers la Chine pour l'essentiel de sa production.
+    En Chine, Bloomberg rapporte que le pays déploie des marchés de capitaux évalués à vingt-huit mille milliards de dollars pour tenter de rivaliser avec les États-Unis dans le domaine de l'intelligence artificielle.
 
-    Au Québec, Les Affaires rapporte l'ouverture du Congrès international des sciences fondamentales à Pékin.
+    Côté entreprises, Reuters Business rapporte que Taylor Farms procède au rappel de salsa et de guacamole en raison d'un risque de salmonelle. Toujours selon Reuters Business, le détaillant en ligne Shein revient vers la Chine après que son expérience d'entrepôt au Vietnam s'est révélée décevante.
   </chapitre>
 
   <chapitre titre="Tech">
     Un mot sur la tech. TechCrunch rapporte qu'un fonds spéculatif spécialisé en intelligence artificielle, Situational Awareness, investit quatre cents millions de dollars dans Source Foundry, une jeune entreprise spécialisée dans les puces électroniques.
 
-    Toujours selon TechCrunch, Anthropic active par défaut le mode automatique de son outil Claude Code, ce qui signifie que la programmation avec cet outil nécessitera encore moins de supervision humaine qu'auparavant.
+    Toujours selon TechCrunch, Anthropic active désormais par défaut le mode automatique de son outil de programmation Claude Code, ce qui signifie que la programmation avec cet outil nécessitera encore moins de supervision humaine.
 
-    Du côté scientifique, La Presse rapporte que des scientifiques ont utilisé l'intelligence artificielle pour créer de nouveaux types de virus, une première. Cette technologie suscite des espoirs d'avancées médicales, tout en soulevant la possibilité qu'elle puisse un jour servir à créer des agents pathogènes dangereux.
+    Du côté de la conduite autonome, The Verge rapporte que l'entraîneur des quarante-neuvième de San Francisco, Kyle Shanahan, a confirmé que le mode Autopilot de sa Tesla était activé lors de l'accident qu'il a eu il y a quatre semaines près de Palo Alto. Il a néanmoins assumé l'entière responsabilité de l'incident, peu importe si le système était activé ou non.
 
-    Le Financial Times pose une question qui traverse le débat sur l'intelligence artificielle : la technologie pourrait-elle créer, selon ses termes, une sous-classe permanente de travailleurs. TechCrunch, de son côté, rapporte les propos de l'historienne Jill Lepore, qui soutient que la Silicon Valley interprète mal la science-fiction et affaiblit la démocratie.
-
-    Un fait divers technologique pour terminer. The Verge rapporte que l'entraîneur des quarante-neuvers de San Francisco, Kyle Shanahan, a confirmé que le pilote automatique de sa Tesla était activé au moment d'un accident survenu il y a quatre semaines près de Palo Alto. Shanahan a précisé qu'il assumait la responsabilité de l'accident, peu importe si le système était activé ou non.
+    Enfin, The Economist se penche sur la question de savoir si l'intelligence artificielle pourrait, à terme, représenter une menace pour le régime chinois, un enjeu que la publication explore dans son dernier numéro.
   </chapitre>
 
   <chapitre titre="Sport">
-    Rapidement en sport. À Toronto, Radio-Canada rapporte que Naomi Osaka a éliminé Leylah Annie Fernandez en deux manches identiques de six à quatre, mettant fin aux espoirs canadiens en simple à l'Omnium Banque Nationale. Fernandez tentait d'atteindre les quarts de finale du tournoi pour la première fois de sa carrière. Après sa victoire, Osaka a déclaré, je le cite : "she's a player that's incredible, we've had tough matches in the past and she's the hometown favorite." Fin de citation.
+    Rapidement en sport. À Toronto, Radio-Canada rapporte que Naomi Osaka a éliminé Leylah Annie Fernandez en deux manches identiques de six à quatre, mettant fin aux espoirs canadiens en simple à l'Omnium Banque Nationale. Fernandez tentait d'atteindre les quarts de finale du tournoi pour la première fois. Al Jazeera rapporte que Osaka et Coco Gauff progressent toutes les deux vers les quarts de finale, tandis que la deuxième joueuse mondiale, Elena Rybakina, a évité une sortie de route en battant la joueuse non classée Liudmila Samsonova.
 
-    Au baseball, Sportsnet rapporte que les Blue Jays de Toronto ont cherché à maintenir l'élan acquis à Philadelphie, après avoir remonté un déficit de cinq à deux en huitième manche dimanche, avant de s'incliner en manches supplémentaires face aux Phillies.
+    Au baseball, Sportsnet rapporte que les Blue Jays de Toronto ont montré du caractère à Philadelphie, remontant un retard de cinq à deux en huitième manche dimanche avant de s'incliner en manches supplémentaires face aux Phillies, qui ont évité le balayage grâce à des coups sûrs de Bryson Stott et Derek Hill.
 
-    En NBA, CBC rapporte le décès de Don Nelson, deuxième entraîneur le plus victorieux de l'histoire de la NBA et gagnant de cinq championnats comme joueur avec les Celtics de Boston. Il est mort dimanche à l'âge de quatre-vingt-six ans.
+    Enfin, CBC rapporte le décès de Don Nelson, deuxième entraîneur le plus victorieux de l'histoire de la NBA et gagnant de cinq championnats comme joueur avec les Celtics de Boston. Il avait quatre-vingt-six ans.
   </chapitre>
 
   <outro>Voilà pour ce Presto du lundi dix août deux mille vingt-six. Si ce briefing vous est utile, le meilleur coup de main que vous pouvez nous donner, c'est de le partager à une personne qui aime rester informée. Et selon votre plateforme : un abonnement sur Spotify ou Apple Podcasts, un pouce bleu et un abonnement sur YouTube, ça prend deux secondes et ça aide vraiment Presto à grandir. Sur ce, bonne journée, et à demain.</outro>
