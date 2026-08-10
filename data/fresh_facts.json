@@ -1,46 +1,54 @@
 {
-  "generated_at": "2026-08-10T19:55:15.169491+00:00",
+  "generated_at": "2026-08-10T22:36:44.708172+00:00",
   "window_hours": 8,
   "faits": [
     {
-      "sujet": "Meurtre d'une enfant à New York",
-      "fait": "Un jury new-yorkais a reconnu coupable Luciano Frattolin, 46 ans de Montréal, du meurtre au deuxième degré de sa fille de 9 ans, Melina, et de dissimulation de cadavre. Selon Radio-Canada, la délibération a duré moins d'une heure et le corps a été retrouvé dans un marécage près de Ticonderoga."
+      "sujet": "Litige juridique Rippling et Runlayer",
+      "fait": "Rippling intente une contre-action en justice contre la startup Runlayer, suite à une plainte initiale de cette dernière l'accusant de vol d'idées de produits. Selon TechCrunch, ce dossier illustre les risques du marché vendeur-acheteur."
     },
     {
-      "sujet": "Ingérence étrangère avec l'Inde",
-      "fait": "Le gouvernement canadien a communiqué à ses homologues indiens une politique de « tolérance zéro » envers la répression transnationale et l'ingérence étrangère. Selon National Post, un haut fonctionnaire de la Sécurité publique a livré ce message."
+      "sujet": "Rage du raton laveur au Québec",
+      "fait": "Les autorités sanitaires du Québec ont confirmé un deuxième chat infecté par la rage à Montréal et trois autres cas en Montérégie. D'après Global News et La Presse, trois personnes supplémentaires ont reçu un traitement préventif d'urgence suite à des contacts à risque."
     },
     {
-      "sujet": "Tremblement de terre en Colombie",
-      "fait": "Un séisme de magnitude 7,4 a frappé la Colombie occidentale lundi, causant au moins 111 décès. D'après Radio-Canada et Al Jazeera, la situation est qualifiée de critique et le gouvernement a déclaré l'état d'urgence."
+      "sujet": "Examen des critères d'alerte Amber en Alberta",
+      "fait": "L'Alberta annonce un examen de ses critères d'alerte Amber et de ses services de garde à domicile suite au décès d'un enfant de Calgary. Selon Global News, la province avait accordé une exception aux critères habituels en raison de l'état vulnérable de l'enfant."
     },
     {
-      "sujet": "Vaccins infantiles aux États-Unis",
-      "fait": "Trump a signé un décret recommandant de séparer le vaccin RRO (rougeole, oreillons, rubéole) en trois injections distinctes lors de visites différentes. Selon Global News, le décret vise aussi à améliorer la recherche vaccinale."
+      "sujet": "Sergey Brin oppose fiscalité milliardaires Californie",
+      "fait": "Le co-fondateur de Google Sergey Brin a dépensé 100 millions de dollars pour combattre la Proposition 40 de Californie, qui imposerait une taxe ponctuelle de 5 % sur la fortune nette des milliardaires de l'État. Selon TechCrunch."
     },
     {
-      "sujet": "Investissement fédéral en Colombie-Britannique",
-      "fait": "Le gouvernement du Canada investit plus de 30 millions de dollars pour aider les entreprises de la Colombie-Britannique face aux perturbations commerciales. D'après Les Affaires, ce financement vise aussi à saisir de nouvelles occasions."
+      "sujet": "Séisme en Colombie et opérations d'urgence",
+      "fait": "La nouvellement inaugurée présidente de la Colombie, Espriella, a annoncé diriger les efforts de secours d'urgence dans les zones affectées par un séisme à Bogota. D'après Al Jazeera."
     },
     {
-      "sujet": "Remboursement pour le transport d'acier",
-      "fait": "Ottawa va rembourser 100 millions de dollars en frais pour réduire les coûts de transport de l'acier. Selon Les Affaires, cette mesure a été annoncée."
+      "sujet": "Canicule attendue en Europe",
+      "fait": "Des avertissements de chaleur extrême ont été émis au Royaume-Uni et en France, avec des températures prévues au milieu des années 30 Celsius cette semaine. Selon Al Jazeera, cela suit des températures record et des océans proches de leurs records mensuels."
     },
     {
-      "sujet": "Démission du député ontarien",
-      "fait": "Le député libéral ontarien Shaun Chen a annoncé son intention de démissionner à la fin de la semaine en invoquant des séquelles de santé d'un accident automobile survenu en fin d'année dernière. D'après La Presse, l'annonce a été faite le 10 août."
+      "sujet": "Feux de forêt en Indonésie",
+      "fait": "Des milliers de pompiers et des dizaines d'hélicoptères combattent des incendies de forêt croissants en Indonésie. D'après Al Jazeera, les autorités citent El Niño comme cause."
     },
     {
-      "sujet": "Exigences monétaires YouTube",
-      "fait": "À partir du 1er février 2027, les créateurs désirant monétiser leur chaîne YouTube devront avoir 1 000 abonnés et soit 8 000 heures de visionnage qualifiées en un an, soit 20 millions de vues qualifiées de Shorts en 90 jours. D'après The Verge, cela représente une augmentation substantielle par rapport aux exigences actuelles."
+      "sujet": "Turquie pardonne combattants du PKK",
+      "fait": "La Turquie approuve un projet de loi de type amnistie permettant le retour à la vie civile pour certains combattants du Parti des travailleurs du Kurdistan qui ont déposé les armes. Selon Al Jazeera."
     },
     {
-      "sujet": "Réchauffement climatique aux États-Unis",
-      "fait": "Juillet 2026 a été le mois le plus chaud jamais enregistré aux États-Unis selon la NOAA (Agence américaine d'observation océanique et atmosphérique). D'après La Presse, cette tendance est alimentée par le changement climatique."
+      "sujet": "Todd Blanche nommé procureur général américain",
+      "fait": "Todd Blanche, ancien avocat personnel du président Trump, a été assermenté lundi comme procureur général américain après une confirmation sénatoriale 50-49. D'après CBC World, il servait comme procureur général par intérim depuis le renvoi de Pam Bondi en avril."
     },
     {
-      "sujet": "Feux de forêt en Colombie-Britannique",
-      "fait": "Plus de 12 000 personnes ont été évacuées en Colombie-Britannique suite à un incendie de forêt majeur dans la région de l'Okanagan. Selon BBC World, certaines habitations ont été perdues et un octogénaire a été tué, le premier décès rapporté."
+      "sujet": "Vaccinations infantiles réduites aux États-Unis",
+      "fait": "Le président Trump a signé lundi un décret réduisant le calendrier vaccinal de l'enfance à 11 vaccinations. Selon CBC, les experts en santé avertissent que ce changement expose davantage d'enfants à des risques."
+    },
+    {
+      "sujet": "Procès du meurtre de Tupac Shakur",
+      "fait": "Le procès pour meurtre de Duane (Keffe D) Davis, 63 ans, ancien membre de gang accusé du meurtre de Tupac Shakur en 1996, a débuté par la sélection du jury lundi, près de 30 ans après le crime. Selon CBC World."
+    },
+    {
+      "sujet": "Trump demande compensation à l'Iran",
+      "fait": "Le président Trump a exigé lundi que l'Iran paie une compensation pour les personnes tuées selon lui par l'Iran dans des guerres, attaques et protestations, ce qui devrait compliquer les efforts pour rouvrir le détroit d'Ormuz. D'après CBC."
     }
   ]
 }
