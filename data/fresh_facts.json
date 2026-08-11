@@ -1,54 +1,54 @@
 {
-  "generated_at": "2026-08-11T20:00:39.790668+00:00",
+  "generated_at": "2026-08-11T22:40:34.863388+00:00",
   "window_hours": 8,
   "faits": [
     {
-      "sujet": "IA générative - Utilisateurs mondiaux",
-      "fait": "ChatGPT et Gemini ont chacun dépassé le milliard d'utilisateurs actifs mensuels. Selon The Verge et TechCrunch, ChatGPT a atteint ce cap en juin 2026, tandis que Google a annoncé que Gemini est son produit le plus croissant jamais lancé."
+      "sujet": "Négociations tarifaires Canada-États-Unis",
+      "fait": "Une proposition d'accord canado-américain pourrait être soumise à Trump lundi prochain, selon Radio-Canada. Les négociations se sont intensifiées depuis la menace de Trump d'imposer des tarifs de 50%."
     },
     {
-      "sujet": "Acquisition de sociétés canadiennes",
-      "fait": "La plateforme de paiements canadienne Moneris est vendue à des investisseurs américains en capital-investissement, quelques jours après qu'AMD ait annoncé l'acquisition de Taalas, l'un des plus grands fabricants de semi-conducteurs du Canada. Source : Global News."
+      "sujet": "Appels à Kids Help Phone augmentent",
+      "fait": "Kids Help Phone a enregistré une augmentation de 24% des demandes d'aide nocturnes chez les jeunes, selon Global News. Le PDG qualifie cette tendance de 'canari dans la mine de charbon'."
     },
     {
-      "sujet": "Séisme en Colombie",
-      "fait": "Un séisme en Colombie a causé 240 morts et plus de 1000 blessés selon Radio-Canada, tandis que BBC World rapporte 180 morts avec des efforts de secours en cours pour libérer les survivants des décombres."
+      "sujet": "Incendies de forêt en Colombie-Britannique",
+      "fait": "Un incendie de forêt en Colombie-Britannique a détruit une maison et un lieu de musique, selon Global News. Le propriétaire rapporte que le feu s'est propagé si rapidement qu'il n'a pas eu le temps de sauver ses biens."
     },
     {
-      "sujet": "Cyberattaque ransomware au Canada",
-      "fait": "Une attaque ransomware a affecté certains systèmes informatiques du Health Sciences Centre au Manitoba. Selon Global News, le syndicat des infirmières exprime des préoccupations quant aux risques de sécurité pour ses membres."
+      "sujet": "Plainte pour profilage racial au Québec",
+      "fait": "Un ancien officier de la Gendarmerie royale du Canada dépose une plainte auprès des commissions provinciales d'éthique policière et des droits de la personne contre la police provinciale québécoise et la police de Longueuil, selon Global News."
     },
     {
-      "sujet": "Rappel de laitue contaminée",
-      "fait": "Sur 236 192 cas de laitue rappelée par Taylor Farms en raison d'une possible contamination à Cyclospora, seulement 5 900 (2,5%) ont été vendus à Taco Bell selon Ars Technica citant un rapport de la FDA. Plus de 23 000 personnes ont été contaminées."
+      "sujet": "Gemini atteint 1 milliard d'utilisateurs",
+      "fait": "Google a annoncé que Gemini a atteint 1 milliard d'utilisateurs actifs mensuels, selon Ars Technica. Il s'agit du produit Google ayant atteint ce seuil le plus rapidement."
     },
     {
-      "sujet": "Fréquentation des salles de cinéma",
-      "fait": "Cineplex a rapporté 12,7 millions de clients entre avril et juin 2026, en hausse par rapport à 11,6 millions à la même période l'année précédente. Source : Global News."
+      "sujet": "ChatGPT dépasse 1 milliard d'utilisateurs",
+      "fait": "OpenAI a annoncé que ChatGPT compte plus d'1 milliard d'utilisateurs, selon The Verge. ChatGPT a atteint ce cap quelques semaines avant Gemini."
     },
     {
-      "sujet": "Infrastructure de transport - Montréal",
-      "fait": "La station de métro Fabre de Montréal (ligne bleue) fermera son entrée principale jusqu'à l'hiver 2028 en raison de travaux majeurs. Source : La Presse."
+      "sujet": "Procès Meta contre les États américains",
+      "fait": "Une cour d'appel fédérale a rejeté les tentatives de Meta d'obtenir l'immunité légale pour les poursuites en matière de dépendance aux médias sociaux, selon Ars Technica. Un procès est prévu pour commencer le 19 août avec des dommages-intérêts potentiels de 1,4 trillion de dollars."
     },
     {
-      "sujet": "Accès à l'éducation en Afghanistan",
-      "fait": "L'UNESCO rapporte que 2,4 millions de filles afghanes sont privées d'accès à l'éducation supérieure, avec un risque que ce chiffre atteigne 4 millions d'ici 2030 si les talibans ne renversent pas cette politique."
+      "sujet": "Drones russes détuits en Roumanie",
+      "fait": "L'armée roumaine a détruit deux drones de conception russe trouvés à proximité d'un projet de gaz offshore en mer Noire, selon Ars Technica. Les drones ont été découverts le 11 août."
     },
     {
-      "sujet": "Relations diplomatiques Israël-Venezuela",
-      "fait": "Selon Al Jazeera, le Venezuela et Israël rétablissent leurs liens consulaires, malgré une rupture diplomatique en 2009, suite aux changements d'orientation de Caracas après l'enlèvement de Maduro."
+      "sujet": "Chrome renforce la protection contre le piratage",
+      "fait": "Google Chrome a ajouté une nouvelle fonctionnalité appelée 'device-bound session credentials' pour prévenir le vol de sessions utilisateur, selon Ars Technica. Cette technologie utilise un module de sécurité intégré au matériel de l'appareil."
     },
     {
-      "sujet": "Départ d'un cadre d'OpenAI",
-      "fait": "Brad Lightcap, ancien directeur des opérations et responsable des projets spéciaux chez OpenAI, a annoncé son départ après 8 ans à l'entreprise. Source : The Verge."
+      "sujet": "Décès de mineurs au Canada",
+      "fait": "Le corps d'une fille de 13 ans disparus d'un lac en Colombie-Britannique a été retrouvé après une recherche de trois jours, selon CBC. Un adolescent de 17 ans a également été accusé dans une enquête impliquant des images d'abus sexuels créées par IA, avec 19 victimes identifiées."
     },
     {
-      "sujet": "Accord commercial Canada-États-Unis",
-      "fait": "Plus de 29 000 Canadiens ont signé une pétition demandant l'expulsion de l'ambassadeur américain Pete Hoekstra, qui sera présentée au Parlement à l'automne. Source : CBC."
+      "sujet": "Épidémie d'Ebola en République Démocratique du Congo",
+      "fait": "L'épidémie d'Ebola en République Démocratique du Congo a dépassé les 2000 morts, selon Le Devoir. Le ministre de la Santé congolais a déclaré que le pic n'avait pas encore été atteint."
     },
     {
-      "sujet": "Signification d'un joueur de football",
-      "fait": "Le CF Montréal a signé la légende chilienne Alexis Sanchez pour la saison abrégée 2027 de la Major League Soccer. Source : Global News."
+      "sujet": "Pétition pour l'expulsion de l'ambassadeur américain",
+      "fait": "Près de 30000 Canadiens ont signé une pétition demandant l'expulsion de l'ambassadeur des États-Unis au Canada, selon La Presse."
     }
   ]
 }
