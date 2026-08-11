@@ -1,0 +1,67 @@
+```xml
+<script>
+  <intro>Bonjour, on est le mardi onze août deux mille vingt-six. Voici votre Presto en environ quinze minutes. Au menu : le séisme meurtrier en Colombie, la guerre en Ukraine et au Yémen, le dossier commercial canado-américain, les marchés secoués par le pétrole, et la tech avec OpenAI et Meta.</intro>
+
+  <chapitre titre="International">
+    On commence en Colombie, où un séisme a frappé le pays. Selon la BBC, au moins cent trente-deux personnes sont mortes et plus de quatre cent quatre-vingts ont été blessées. CBC précise que la magnitude était de sept virgule quatre, que des dizaines d'immeubles se sont effondrés dans l'ouest du pays, et que des évacuations ont eu lieu jusque dans la capitale, Bogota. Des personnes demeurent prises sous les décombres.
+
+    En Ukraine, la guerre continue de faire des victimes des deux côtés. Al Jazeera rapporte que des attaques russes ont tué six personnes dans la région de Zaporijjia, et qu'un hôpital pour enfants a aussi été frappé à Kiev. En sens inverse, l'Associated Press rapporte qu'une attaque de drones ukrainiens contre un centre pétrolier situé profondément en territoire russe a fait treize morts. La BBC précise que soixante-quinze autres personnes ont été blessées, dans ce qui compte parmi les attaques ukrainiennes les plus meurtrières depuis le début de l'invasion russe à grande échelle. Par ailleurs, Reuters rapporte que des prisonniers ukrainiens ont témoigné de torture et d'abus sexuels subis en détention russe.
+
+    Au Yémen, Al Jazeera rapporte que les rebelles houthis ont lancé de nouvelles attaques de missiles balistiques contre les villes d'al-Makha et de Marib, un jour à peine après une précédente frappe contre le port d'al-Makha qui avait fait sept morts.
+
+    Du côté du dossier iranien, Reuters rapporte que les espoirs d'un accord sur la réouverture du détroit d'Ormuz s'amenuisent. CBC rapporte que le président américain Donald Trump exige maintenant que l'Iran verse des compensations pour des personnes qu'il dit avoir été tuées dans des guerres, attaques et manifestations, une position qui complique davantage les efforts diplomatiques. Le National Post note qu'un an après le sommet de Trump et de Vladimir Poutine en Alaska, censé mener à une paix en Ukraine, cet esprit de coopération s'est essoufflé et le conflit s'est plutôt intensifié. Selon le Washington Post, cité par Reuters, Trump aurait aussi quitté la Turquie par vol secret en raison d'une menace liée à l'Iran.
+
+    Aux États-Unis, le président Trump a signé un décret modifiant le calendrier de vaccination infantile. Selon l'Associated Press, ce décret va à l'encontre des recommandations des groupes médicaux. Ars Technica précise que le nombre de vaccins recommandés pour les enfants passerait de dix-huit à onze, étalés sur davantage de visites médicales. Le décret invoque un lien non prouvé entre vaccination et autisme. Lors de la signature, Trump a affirmé, je le cite : "This is an explosion; this is an epidemic". Fin de citation. Les experts en santé cités par CBC préviennent que cet étalement du calendrier laisse davantage d'enfants vulnérables aux maladies.
+  </chapitre>
+
+  <chapitre titre="Politique canadienne">
+    Au Canada, le dossier commercial avec Washington entre dans une semaine jugée cruciale. Radio-Canada rapporte que le ministre Dominic LeBlanc doit rencontrer ce mardi le représentant américain au Commerce, Jamieson Greer, dans le cadre de la révision de l'Accord Canada-États-Unis-Mexique. Selon The Hub, Ottawa envisagerait de lever certaines interdictions sur l'alcool et de retirer des contre-tarifs dans le cadre d'une entente commerciale intérimaire avec Washington.
+
+    En Colombie-Britannique, la Gendarmerie royale du Canada enquête toujours sur les causes de l'incendie meurtrier de Summerland. La Presse rapporte que ce feu de forêt a forcé vingt mille personnes à évacuer leurs domiciles, et que la GRC dit vouloir mettre fin à ce qu'elle qualifie de fausses informations circulant sur l'origine du sinistre.
+
+    Toujours en Colombie-Britannique, Global News rapporte qu'une fillette de trois ans a été attaquée par un ours près de Maple Ridge et se remet actuellement d'une chirurgie après avoir été mordue et griffée à la tête, au cou et au dos. CBC rapporte par ailleurs qu'un randonneur a réussi à échapper à une attaque d'un grizzli près de Pemberton, la deuxième attaque du genre dans ce secteur en une semaine.
+
+    À Calgary, CBC rapporte qu'un suspect est mort après avoir tiré à deux reprises sur un policier lors d'une interception routière. Le suspect a fui dans un parc avant d'être retrouvé mort dans la rivière Bow.
+
+    Du côté judiciaire, Radio-Canada et La Presse rapportent qu'un jury de l'État de New York a reconnu Luciano Frattolin coupable du meurtre de sa fille, Melina Frattolin. Il a aussi été condamné pour avoir dissimulé le corps de la jeune fille dans un marais.
+  </chapitre>
+
+  <chapitre titre="Économie et marchés">
+    On passe à l'économie, dominée encore une fois par le pétrole. Selon le Wall Street Journal, le prix du pétrole a fortement progressé en l'absence d'accord en vue sur le détroit d'Ormuz. Reuters précise que Wall Street a terminé en baisse, les espoirs d'une entente sur ce dossier s'étant estompés. Bloomberg rapporte de son côté que l'or poursuit sa progression, portée par des achats d'investisseurs institutionnels aux poches profondes.
+
+    Le cuivre n'est pas en reste : selon le Wall Street Journal, son prix a atteint un nouveau sommet. Sur les marchés obligataires et devises, le Financial Times souligne que l'ampleur réelle de l'endettement caché des grandes entreprises technologiques liées à l'intelligence artificielle demeure difficile à évaluer, une question qui inquiète certains observateurs des marchés.
+
+    Bloomberg rapporte également que des fonds négociés en Bourse à effet de levier, largement concentrés sur le secteur de l'intelligence artificielle, contribuent à amplifier la volatilité des marchés. Toujours selon Reuters, des investisseurs particuliers ont vendu des actions de SpaceX pour la toute première fois vendredi dernier.
+
+    En fusions-acquisitions, Reuters rapporte qu'Archer va acquérir Wisk ainsi que deux autres unités de Boeing, en échange d'une participation avoisinant vingt pour cent au capital. Le Financial Times rapporte par ailleurs qu'une trêve entre Barrick et Newmont dans le secteur minier de l'or ouvre la voie à un premier appel public à l'épargne.
+
+    Au Canada, Les Affaires rapporte que le gouvernement fédéral a annoncé un investissement de plus de trente millions de dollars pour aider des entreprises de la Colombie-Britannique à faire face aux perturbations commerciales et à saisir de nouvelles occasions d'affaires.
+  </chapitre>
+
+  <chapitre titre="Tech">
+    Un mot sur la tech, où OpenAI occupe l'actualité. Selon TechCrunch, l'entreprise a complété une offre de rachat d'actions auprès de ses employés d'une valeur de sept milliards de dollars. Toujours selon TechCrunch, OpenAI lance aussi un nouveau modèle spécialisé en cybersécurité, dans le cadre de son programme Daybreak, en réponse à la multiplication des attaques menées à l'aide de l'intelligence artificielle.
+
+    Du côté de Meta, Ars Technica rapporte que l'entreprise mise de nouveau sur les modèles à poids ouverts pour relancer sa stratégie en intelligence artificielle, jugée jusqu'ici en difficulté. Meta a annoncé un nouveau modèle appelé Muse Glimmer, et promet de rendre disponibles les poids de son modèle plus puissant, Muse Spark, dans les prochaines semaines. Le fondateur et chef de la direction Mark Zuckerberg a aussi publié un long essai définissant sa vision de la gouvernance de l'intelligence artificielle, cherchant à distinguer Meta d'entreprises comme OpenAI et Anthropic, qui misent plutôt sur des modèles propriétaires.
+
+    Par ailleurs, TechCrunch rapporte que Jeff Bezos serait sur le point d'acquérir sa première participation dans une équipe sportive, en l'occurrence le club de soccer britannique Liverpool.
+  </chapitre>
+
+  <chapitre titre="Actualité québécoise">
+    Quelques nouvelles du Québec ce matin. Radio-Canada rapporte qu'un deuxième chat atteint de la rage a été détecté en Montérégie, et que Santé Québec recommande la vigilance. En juillet dernier, trois personnes avaient été exposées à un chat enragé dans la même région.
+
+    En politique provinciale, La Presse rapporte que le Parti libéral du Québec a annoncé la candidature du viticulteur Sébastien Daoust dans la circonscription de Blainville, en vue des élections québécoises à venir.
+
+    Enfin, La Presse rapporte que les conditions d'observation de la pluie de météores des Perséides s'annoncent particulièrement bonnes cette année, la lune étant peu visible et peu de nuages étant prévus.
+  </chapitre>
+
+  <chapitre titre="Sport">
+    Rapidement en sport. À Toronto, Sportsnet rapporte que les Blue Jays ont battu les Red Sox de Boston deux à un, au terme d'une septième manche marquée par une décision arbitrale inhabituelle qui a permis à Boston de marquer un point malgré trois retraits. L'équipe torontoise améliore ainsi sa fiche à cinquante-sept victoires contre soixante-trois défaites cette saison.
+
+    Du côté du soccer international, Al Jazeera et CBC rapportent que le président Donald Trump a pris la défense du président de la FIFA, Gianni Infantino, qualifiant l'idée de le remplacer d'erreur terrible. Cette déclaration survient après qu'une lettre ouverte signée par trois fédérations de soccer a accusé Infantino de tromperie dans le cadre d'un projet de vente d'une participation dans les droits commerciaux de la Coupe du monde.
+
+    Enfin, Radio-Canada rapporte que le nouveau chef de la direction de l'ATP, Eno Polo, a visité le tournoi de Montréal pour la première fois et assure que la compétition n'est pas menacée.
+  </chapitre>
+
+  <outro>Voilà pour ce Presto du mardi onze août deux mille vingt-six. Si ce briefing vous est utile, le meilleur coup de main que vous pouvez nous donner, c'est de le partager à une personne qui aime rester informée. Et selon votre plateforme : un abonnement sur Spotify ou Apple Podcasts, un pouce bleu et un abonnement sur YouTube, ça prend deux secondes et ça aide vraiment Presto à grandir. Sur ce, bonne journée, et à demain.</outro>
+</script>
+```
