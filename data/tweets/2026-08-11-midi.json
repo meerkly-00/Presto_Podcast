@@ -1,13 +1,13 @@
 {
   "date": "2026-08-11",
   "kind": "poll",
-  "text": "Ce matin → Un séisme de magnitude 7,4 a frappé la Colombie : 132 morts et plus de 480 blessés.\n\nMise à jour → Le bilan s'alourdit à au moins 169 morts et plus de 600 blessés.\n\nÀ ton avis, quel devrait être le priorité immédiate pour les autorités?",
+  "text": "Ce matin → Un séisme de magnitude 7,4 a frappé la Colombie : 132 morts et plus de 480 blessés.\n\nMise à jour → Les bilans montent à au moins 169 morts\n\nSelon toi, les gouvernements devraient-ils augmenter leur budget pour les opérations de secours en cas de catastrophe naturelle?",
   "poll": {
     "options": [
-      "Recherche et sauvetage",
-      "Aide médicale d'urgence",
-      "Relogement temporaire",
-      "Évaluation des dégâts"
+      "Oui, c'est une priorité",
+      "Non, les ressources",
+      "Seulement ciblé par",
+      "Pas sûr"
     ],
     "duration_minutes": 1440
   }
