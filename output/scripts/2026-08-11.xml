@@ -1,65 +1,73 @@
 ```xml
 <script>
-  <intro>Bonjour, on est le mardi onze août deux mille vingt-six. Voici votre Presto en environ quinze minutes. Au menu : le séisme meurtrier en Colombie, la guerre en Ukraine et au Yémen, le dossier commercial canado-américain, les marchés secoués par le pétrole, et la tech avec OpenAI et Meta.</intro>
+  <intro>Bonjour, on est le mardi onze août deux mille vingt-six. Voici votre Presto en environ quinze minutes. Au menu : le séisme meurtrier en Colombie, le procès de Bachar al-Assad, le dossier commercial canado-américain, les vaccins de Donald Trump, l'économie dominée par le pétrole, et la tech avec OpenAI et Meta.</intro>
 
   <chapitre titre="International">
-    On commence en Colombie, où un séisme a frappé le pays. Selon la BBC, au moins cent trente-deux personnes sont mortes et plus de quatre cent quatre-vingts ont été blessées. CBC précise que la magnitude était de sept virgule quatre, que des dizaines d'immeubles se sont effondrés dans l'ouest du pays, et que des évacuations ont eu lieu jusque dans la capitale, Bogota. Des personnes demeurent prises sous les décombres.
+    On commence en Colombie, où les opérations de sauvetage se poursuivent au lendemain d'un séisme dévastateur. Selon la BBC, au moins cent trente-deux personnes sont mortes et plus de quatre cent quatre-vingts ont été blessées. CBC rapporte que les équipes d'urgence continuent de fouiller les décombres d'immeubles effondrés dans l'ouest du pays, alors que le bilan pourrait encore s'alourdir. Al Jazeera précise que les secours s'intensifient dans les villes touchées de l'ouest colombien.
 
-    En Ukraine, la guerre continue de faire des victimes des deux côtés. Al Jazeera rapporte que des attaques russes ont tué six personnes dans la région de Zaporijjia, et qu'un hôpital pour enfants a aussi été frappé à Kiev. En sens inverse, l'Associated Press rapporte qu'une attaque de drones ukrainiens contre un centre pétrolier situé profondément en territoire russe a fait treize morts. La BBC précise que soixante-quinze autres personnes ont été blessées, dans ce qui compte parmi les attaques ukrainiennes les plus meurtrières depuis le début de l'invasion russe à grande échelle. Par ailleurs, Reuters rapporte que des prisonniers ukrainiens ont témoigné de torture et d'abus sexuels subis en détention russe.
+    En Syrie, la justice a rendu son verdict contre l'ancien dictateur. La BBC rapporte que Bachar al-Assad a été condamné à mort par contumace, reconnu coupable de crimes de guerre et de crimes contre l'humanité commis pendant la guerre civile syrienne.
 
-    Au Yémen, Al Jazeera rapporte que les rebelles houthis ont lancé de nouvelles attaques de missiles balistiques contre les villes d'al-Makha et de Marib, un jour à peine après une précédente frappe contre le port d'al-Makha qui avait fait sept morts.
+    En Ukraine, le président Volodymyr Zelensky affirme que la Russie utilise des missiles nord-coréens contre son pays. Selon la BBC, des frappes survenues dans la région de Zaporijjia ont fait au moins six morts et dix-neuf blessés, et impliquaient des missiles balistiques provenant de la Corée du Nord, alliée de Moscou. Par ailleurs, l'Associated Press rapporte qu'une attaque de drones ukrainiens contre une plaque tournante pétrolière en profondeur du territoire russe a fait treize morts, selon des responsables locaux. De son côté, Reuters rapporte que des prisonniers ukrainiens ont témoigné de torture et d'abus sexuels subis en détention russe.
 
-    Du côté du dossier iranien, Reuters rapporte que les espoirs d'un accord sur la réouverture du détroit d'Ormuz s'amenuisent. CBC rapporte que le président américain Donald Trump exige maintenant que l'Iran verse des compensations pour des personnes qu'il dit avoir été tuées dans des guerres, attaques et manifestations, une position qui complique davantage les efforts diplomatiques. Le National Post note qu'un an après le sommet de Trump et de Vladimir Poutine en Alaska, censé mener à une paix en Ukraine, cet esprit de coopération s'est essoufflé et le conflit s'est plutôt intensifié. Selon le Washington Post, cité par Reuters, Trump aurait aussi quitté la Turquie par vol secret en raison d'une menace liée à l'Iran.
+    Au Moyen-Orient, le dossier reste tendu. Selon Reuters, l'impasse persiste sur plusieurs fronts régionaux. Al Jazeera qualifie la violence de colons israéliens de, je le cite, "clear state terrorism". Fin de citation. La BBC rapporte par ailleurs que Donald Trump aurait été déplacé en secret dans un camion de traiteur lors d'un échange d'avions présidentiels, après une menace liée à l'Iran, survenue en marge d'un sommet de l'OTAN en Turquie le mois dernier, selon des médias américains. L'Associated Press rapporte de son côté que Trump a rejeté la demande de réparations de guerre formulée par l'Iran.
 
-    Aux États-Unis, le président Trump a signé un décret modifiant le calendrier de vaccination infantile. Selon l'Associated Press, ce décret va à l'encontre des recommandations des groupes médicaux. Ars Technica précise que le nombre de vaccins recommandés pour les enfants passerait de dix-huit à onze, étalés sur davantage de visites médicales. Le décret invoque un lien non prouvé entre vaccination et autisme. Lors de la signature, Trump a affirmé, je le cite : "This is an explosion; this is an epidemic". Fin de citation. Les experts en santé cités par CBC préviennent que cet étalement du calendrier laisse davantage d'enfants vulnérables aux maladies.
+    Aux États-Unis, Donald Trump a signé un décret modifiant le calendrier de vaccination infantile. Selon l'Associated Press et CBC, ce décret réduit le nombre de vaccins recommandés aux enfants de dix-huit à onze, tout en espaçant davantage les injections. Le National Post rapporte que cette décision repose sur des affirmations scientifiques non prouvées, notamment un lien allégué avec l'autisme. Les groupes médicaux s'opposent à cette mesure. Selon CBC, des experts en santé avertissent que ce changement laisse davantage d'enfants vulnérables aux maladies.
+
+    Toujours aux États-Unis, des élections primaires se tiennent ce mardi au Connecticut, au Vermont et en Alabama, où quatre circonscriptions redécoupées choisiront leurs candidats à la Chambre des représentants, selon Al Jazeera.
   </chapitre>
 
   <chapitre titre="Politique canadienne">
-    Au Canada, le dossier commercial avec Washington entre dans une semaine jugée cruciale. Radio-Canada rapporte que le ministre Dominic LeBlanc doit rencontrer ce mardi le représentant américain au Commerce, Jamieson Greer, dans le cadre de la révision de l'Accord Canada-États-Unis-Mexique. Selon The Hub, Ottawa envisagerait de lever certaines interdictions sur l'alcool et de retirer des contre-tarifs dans le cadre d'une entente commerciale intérimaire avec Washington.
+    Au Canada, le dossier commercial avec Washington entre dans une semaine jugée cruciale. Radio-Canada rapporte que le ministre Dominic LeBlanc doit rencontrer ce mardi le représentant américain au Commerce, Jamieson Greer, dans le cadre de la révision de l'Accord Canada-États-Unis-Mexique. Selon The Hub, Ottawa envisagerait de lever certaines interdictions sur l'alcool et d'abandonner des contre-tarifs dans le cadre d'une entente commerciale intérimaire avec Washington.
 
-    En Colombie-Britannique, la Gendarmerie royale du Canada enquête toujours sur les causes de l'incendie meurtrier de Summerland. La Presse rapporte que ce feu de forêt a forcé vingt mille personnes à évacuer leurs domiciles, et que la GRC dit vouloir mettre fin à ce qu'elle qualifie de fausses informations circulant sur l'origine du sinistre.
+    Autre dossier à suivre à Ottawa : un contrat militaire avec l'entreprise Telesat. CBC rapporte que les conservateurs réclament les détails d'un contrat de satellites militaires d'une valeur de deux virgule trois milliards de dollars, conclu avec Telesat. Est en jeu l'amitié du premier ministre Mark Carney avec le chef de la direction de l'entreprise, et la question de savoir s'il a été correctement tenu à l'écart de la décision. Ottawa et Telesat soutiennent que l'entente a été traitée rigoureusement et de façon indépendante.
 
-    Toujours en Colombie-Britannique, Global News rapporte qu'une fillette de trois ans a été attaquée par un ours près de Maple Ridge et se remet actuellement d'une chirurgie après avoir été mordue et griffée à la tête, au cou et au dos. CBC rapporte par ailleurs qu'un randonneur a réussi à échapper à une attaque d'un grizzli près de Pemberton, la deuxième attaque du genre dans ce secteur en une semaine.
-
-    À Calgary, CBC rapporte qu'un suspect est mort après avoir tiré à deux reprises sur un policier lors d'une interception routière. Le suspect a fui dans un parc avant d'être retrouvé mort dans la rivière Bow.
-
-    Du côté judiciaire, Radio-Canada et La Presse rapportent qu'un jury de l'État de New York a reconnu Luciano Frattolin coupable du meurtre de sa fille, Melina Frattolin. Il a aussi été condamné pour avoir dissimulé le corps de la jeune fille dans un marais.
-  </chapitre>
-
-  <chapitre titre="Économie et marchés">
-    On passe à l'économie, dominée encore une fois par le pétrole. Selon le Wall Street Journal, le prix du pétrole a fortement progressé en l'absence d'accord en vue sur le détroit d'Ormuz. Reuters précise que Wall Street a terminé en baisse, les espoirs d'une entente sur ce dossier s'étant estompés. Bloomberg rapporte de son côté que l'or poursuit sa progression, portée par des achats d'investisseurs institutionnels aux poches profondes.
-
-    Le cuivre n'est pas en reste : selon le Wall Street Journal, son prix a atteint un nouveau sommet. Sur les marchés obligataires et devises, le Financial Times souligne que l'ampleur réelle de l'endettement caché des grandes entreprises technologiques liées à l'intelligence artificielle demeure difficile à évaluer, une question qui inquiète certains observateurs des marchés.
-
-    Bloomberg rapporte également que des fonds négociés en Bourse à effet de levier, largement concentrés sur le secteur de l'intelligence artificielle, contribuent à amplifier la volatilité des marchés. Toujours selon Reuters, des investisseurs particuliers ont vendu des actions de SpaceX pour la toute première fois vendredi dernier.
-
-    En fusions-acquisitions, Reuters rapporte qu'Archer va acquérir Wisk ainsi que deux autres unités de Boeing, en échange d'une participation avoisinant vingt pour cent au capital. Le Financial Times rapporte par ailleurs qu'une trêve entre Barrick et Newmont dans le secteur minier de l'or ouvre la voie à un premier appel public à l'épargne.
-
-    Au Canada, Les Affaires rapporte que le gouvernement fédéral a annoncé un investissement de plus de trente millions de dollars pour aider des entreprises de la Colombie-Britannique à faire face aux perturbations commerciales et à saisir de nouvelles occasions d'affaires.
-  </chapitre>
-
-  <chapitre titre="Tech">
-    Un mot sur la tech, où OpenAI occupe l'actualité. Selon TechCrunch, l'entreprise a complété une offre de rachat d'actions auprès de ses employés d'une valeur de sept milliards de dollars. Toujours selon TechCrunch, OpenAI lance aussi un nouveau modèle spécialisé en cybersécurité, dans le cadre de son programme Daybreak, en réponse à la multiplication des attaques menées à l'aide de l'intelligence artificielle.
-
-    Du côté de Meta, Ars Technica rapporte que l'entreprise mise de nouveau sur les modèles à poids ouverts pour relancer sa stratégie en intelligence artificielle, jugée jusqu'ici en difficulté. Meta a annoncé un nouveau modèle appelé Muse Glimmer, et promet de rendre disponibles les poids de son modèle plus puissant, Muse Spark, dans les prochaines semaines. Le fondateur et chef de la direction Mark Zuckerberg a aussi publié un long essai définissant sa vision de la gouvernance de l'intelligence artificielle, cherchant à distinguer Meta d'entreprises comme OpenAI et Anthropic, qui misent plutôt sur des modèles propriétaires.
-
-    Par ailleurs, TechCrunch rapporte que Jeff Bezos serait sur le point d'acquérir sa première participation dans une équipe sportive, en l'occurrence le club de soccer britannique Liverpool.
+    Toujours selon Radio-Canada, Québec et Ottawa enquêtent sur des cyberattaques ayant visé deux usines de traitement de l'eau potable au Canada cet été. Aux États-Unis, ce type d'attaque aurait touché des dizaines d'installations similaires.
   </chapitre>
 
   <chapitre titre="Actualité québécoise">
-    Quelques nouvelles du Québec ce matin. Radio-Canada rapporte qu'un deuxième chat atteint de la rage a été détecté en Montérégie, et que Santé Québec recommande la vigilance. En juillet dernier, trois personnes avaient été exposées à un chat enragé dans la même région.
+    Quelques nouvelles du Québec ce matin. À deux mois des élections provinciales, La Presse rapporte, dans sa revue de presse, qu'un sondage Léger, réalisé pour Le Journal et TVA Nouvelles, placerait le Parti québécois en position minoritaire. Selon ce sondage, un électeur sur deux pourrait encore changer d'avis d'ici le scrutin.
 
-    En politique provinciale, La Presse rapporte que le Parti libéral du Québec a annoncé la candidature du viticulteur Sébastien Daoust dans la circonscription de Blainville, en vue des élections québécoises à venir.
+    En matière judiciaire, La Presse rapporte que l'ex-commissaire à la lutte contre le racisme et la discrimination à la Ville de Montréal, Bochra Manaï, réclame cent vingt-cinq mille dollars en poursuite pour diffamation au Centre consultatif des relations juives et israéliennes. Elle reproche à l'organisme d'avoir diffusé un montage la comparant à Adolf Hitler.
 
-    Enfin, La Presse rapporte que les conditions d'observation de la pluie de météores des Perséides s'annoncent particulièrement bonnes cette année, la lune étant peu visible et peu de nuages étant prévus.
+    Toujours à Montréal, La Presse rapporte que le directeur du Service de police de la Ville de Montréal, Fady Dagher, répond ce mardi pour la première fois aux questions du public depuis des allégations de gestes racistes commis par des agents du poste de quartier trente-neuf, à Montréal-Nord. Des intervenants y voient une occasion pour le corps policier de commencer à réparer les pots cassés.
+
+    Par ailleurs, La Presse rapporte que le cochef présumé de la mafia montréalaise, Stefano Sollecito, détenu depuis un an en attente d'un procès pour meurtre, cherche à faire déclarer illégales ses conditions de détention. Son médecin traitant affirme qu'il souffre d'un grave problème de malnutrition qui mettrait sa survie en péril.
+
+    Radio-Canada rapporte aussi la disparition du numéro deux présumé du chapitre de Montréal des Hells Angels, Stéphane Plouffe, introuvable depuis un certain temps. La Sûreté du Québec mène une enquête criminelle sur cette affaire.
+
+    Enfin, Radio-Canada rapporte que peu d'auteurs canadiens seront indemnisés par Anthropic, qui s'est servie de versions piratées de leurs œuvres pour entraîner son modèle d'intelligence artificielle Claude.
+  </chapitre>
+
+  <chapitre titre="Économie et marchés">
+    On passe à l'économie, encore dominée par le pétrole. Selon le Wall Street Journal, le prix du pétrole a fortement progressé en l'absence d'accord en vue sur le détroit d'Ormuz. Reuters précise que le brut a grimpé de deux pour cent pour atteindre son plus haut niveau en plus d'une semaine, alors que les espoirs d'une entente entre les États-Unis et l'Iran s'amenuisent. Selon BNN Bloomberg, les prix du pétrole ont bondi de cinq pour cent, ce qui a fait reculer les actions américaines par rapport à leurs records. Reuters ajoute que Wall Street a terminé la séance en baisse, les espoirs d'une entente sur le détroit s'étant estompés.
+
+    Toujours selon Bloomberg, l'or poursuit également sa remontée, portée par des acheteurs institutionnels aux poches profondes. Le Wall Street Journal rapporte, par ailleurs, que le cuivre a atteint un nouveau sommet record.
+
+    Du côté des devises et de l'inflation, le Wall Street Journal souligne que les prochains rapports sur l'inflation américaine pourraient mettre à l'épreuve le discours ferme tenu jusqu'ici par Kevin Warsh.
+
+    En entreprises, Reuters rapporte, en exclusivité, que le géant pétrolier BP prévoit vendre une participation de vingt pour cent dans le champ gazier Manakin à la société nationale trinidadienne NGC. Toujours selon Reuters, l'entreprise Archer prévoit acquérir Wisk, filiale de Boeing, ainsi que deux autres unités, en échange d'une participation représentant près de vingt pour cent du capital.
+
+    Le Financial Times rapporte que Hong Kong prévoit inclure les sociétés de courtage dans sa réforme fiscale d'envergure. Toujours selon le Financial Times, le Vietnam mise sur un modèle de conglomérats inspiré des chaebols sud-coréens pour stimuler sa croissance économique.
+
+    Enfin, selon le Financial Times, un rapport indique que l'intelligence artificielle stimulera davantage la production pétrolière et gazière que les énergies renouvelables. Bloomberg souligne aussi que les fonds négociés en bourse à effet de levier, fortement concentrés dans le secteur de l'intelligence artificielle, inquiètent certains observateurs des marchés.
+  </chapitre>
+
+  <chapitre titre="Tech">
+    Un mot sur la tech, où OpenAI occupe encore l'actualité. Selon TechCrunch, l'entreprise a complété une offre de rachat d'actions auprès de ses employés d'une valeur de sept milliards de dollars. Toujours selon TechCrunch, OpenAI lance aussi un nouveau modèle spécialisé en cybersécurité, dans le cadre de l'expansion de son programme de défense baptisé Daybreak, en réaction à la multiplication des attaques menées à l'aide de l'intelligence artificielle.
+
+    Du côté de Meta, Ars Technica rapporte que l'entreprise mise à nouveau sur des modèles à poids ouverts. Meta a annoncé la sortie d'un modèle ouvert baptisé Muse Glimmer, et promet de rendre accessibles les poids de son modèle plus puissant, Muse Spark, dans les prochaines semaines. Le chef de la direction Mark Zuckerberg a aussi publié un essai de plus de six mille mots exposant la philosophie de l'entreprise en matière de gouvernance de l'intelligence artificielle, cherchant à différencier Meta d'entreprises comme OpenAI et Anthropic, qui développent des modèles propriétaires.
+
+    Toujours en tech, TechCrunch rapporte que Jeff Bezos serait sur le point d'acquérir sa première participation dans une équipe sportive, le club de soccer britannique Liverpool. Par ailleurs, TechCrunch rapporte qu'un litige oppose désormais l'entreprise Rippling à la jeune pousse Runlayer, cette dernière ayant elle-même poursuivi Rippling le mois dernier pour vol présumé d'idées.
+
+    Enfin, du côté du jeu vidéo, Ars Technica rapporte que le studio Cold Iron Studios a fermé les serveurs de la version infonuagique de son jeu Aliens Fireteam Elite sur la console Nintendo Switch, sans offrir de remboursement aux joueurs touchés.
   </chapitre>
 
   <chapitre titre="Sport">
-    Rapidement en sport. À Toronto, Sportsnet rapporte que les Blue Jays ont battu les Red Sox de Boston deux à un, au terme d'une septième manche marquée par une décision arbitrale inhabituelle qui a permis à Boston de marquer un point malgré trois retraits. L'équipe torontoise améliore ainsi sa fiche à cinquante-sept victoires contre soixante-trois défaites cette saison.
+    Rapidement en sport. À Toronto, Sportsnet rapporte que les Blue Jays ont battu les Red Sox de Boston deux à un, au terme d'une septième manche marquée par une décision arbitrale inhabituelle, qui a permis à Boston de marquer un point malgré trois retraits déjà enregistrés. L'équipe torontoise améliore ainsi sa fiche à cinquante-sept victoires et soixante-trois défaites cette saison.
 
-    Du côté du soccer international, Al Jazeera et CBC rapportent que le président Donald Trump a pris la défense du président de la FIFA, Gianni Infantino, qualifiant l'idée de le remplacer d'erreur terrible. Cette déclaration survient après qu'une lettre ouverte signée par trois fédérations de soccer a accusé Infantino de tromperie dans le cadre d'un projet de vente d'une participation dans les droits commerciaux de la Coupe du monde.
+    Toujours à Toronto, mais du côté du tennis, Al Jazeera rapporte que l'ancienne numéro un mondiale Iga Swiatek a battu Diana Shnaider, se qualifiant ainsi pour affronter Elina Svitolina en demi-finale de l'Omnium canadien.
 
-    Enfin, Radio-Canada rapporte que le nouveau chef de la direction de l'ATP, Eno Polo, a visité le tournoi de Montréal pour la première fois et assure que la compétition n'est pas menacée.
+    Enfin, en soccer, CBC rapporte que Donald Trump a défendu le président de la FIFA Gianni Infantino, après qu'une lettre ouverte signée par trois fédérations de soccer l'ait accusé de tromperie dans le cadre de la vente proposée d'une participation dans les droits commerciaux de la Coupe du monde. Le Devoir précise que Trump soutient qu'Infantino vient de présider, je le cite, "la Coupe du monde la plus réussie". Fin de citation.
   </chapitre>
 
   <outro>Voilà pour ce Presto du mardi onze août deux mille vingt-six. Si ce briefing vous est utile, le meilleur coup de main que vous pouvez nous donner, c'est de le partager à une personne qui aime rester informée. Et selon votre plateforme : un abonnement sur Spotify ou Apple Podcasts, un pouce bleu et un abonnement sur YouTube, ça prend deux secondes et ça aide vraiment Presto à grandir. Sur ce, bonne journée, et à demain.</outro>
