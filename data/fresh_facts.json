@@ -1,54 +1,50 @@
 {
-  "generated_at": "2026-08-10T22:36:44.708172+00:00",
+  "generated_at": "2026-08-11T14:20:02.384475+00:00",
   "window_hours": 8,
   "faits": [
     {
-      "sujet": "Litige juridique Rippling et Runlayer",
-      "fait": "Rippling intente une contre-action en justice contre la startup Runlayer, suite à une plainte initiale de cette dernière l'accusant de vol d'idées de produits. Selon TechCrunch, ce dossier illustre les risques du marché vendeur-acheteur."
+      "sujet": "Séisme en Colombie",
+      "fait": "Un séisme a tué au moins 169 personnes et fait plus de 600 blessés en Colombie, affectant les villes de Cali, Pereira, Manizales et Quibdo. Selon BBC World et Radio-Canada, les secouristes recherchent des survivants sous les décombres."
     },
     {
-      "sujet": "Rage du raton laveur au Québec",
-      "fait": "Les autorités sanitaires du Québec ont confirmé un deuxième chat infecté par la rage à Montréal et trois autres cas en Montérégie. D'après Global News et La Presse, trois personnes supplémentaires ont reçu un traitement préventif d'urgence suite à des contacts à risque."
+      "sujet": "Missiles nord-coréens en Ukraine",
+      "fait": "Le président ukrainien Volodymyr Zelenskyy affirme que la Russie a utilisé des missiles balistiques nord-coréens dans une attaque contre Zaporizhzhia qui a tué six personnes. Selon CBC World et Le Devoir, Zelenskyy déclare que la Russie prépare le déploiement de davantage de soldats nord-coréens."
     },
     {
-      "sujet": "Examen des critères d'alerte Amber en Alberta",
-      "fait": "L'Alberta annonce un examen de ses critères d'alerte Amber et de ses services de garde à domicile suite au décès d'un enfant de Calgary. Selon Global News, la province avait accordé une exception aux critères habituels en raison de l'état vulnérable de l'enfant."
+      "sujet": "Parti russe anti-guerre exclu du scrutin",
+      "fait": "La plus haute cour russe a ordonné l'exclusion du scrutin électoral du seul parti s'opposant à la guerre en Ukraine avant les élections législatives du mois prochain. Selon CBC World, cette décision concerne le parti Yabloko."
     },
     {
-      "sujet": "Sergey Brin oppose fiscalité milliardaires Californie",
-      "fait": "Le co-fondateur de Google Sergey Brin a dépensé 100 millions de dollars pour combattre la Proposition 40 de Californie, qui imposerait une taxe ponctuelle de 5 % sur la fortune nette des milliardaires de l'État. Selon TechCrunch."
+      "sujet": "Attentat à la bombe à Halifax",
+      "fait": "Un homme a été inculpé après une menace d'attentat à la bombe contre le consulat américain à Halifax. Selon Global News et National Post, la police a découvert un réservoir de propane et des contenants de matières inflammables dans son véhicule, ce qui a forcé l'évacuation de plusieurs rues du centre-ville."
     },
     {
-      "sujet": "Séisme en Colombie et opérations d'urgence",
-      "fait": "La nouvellement inaugurée présidente de la Colombie, Espriella, a annoncé diriger les efforts de secours d'urgence dans les zones affectées par un séisme à Bogota. D'après Al Jazeera."
+      "sujet": "Sentence contre Bachar al-Assad",
+      "fait": "Bachar al-Assad, ancien président de la Syrie, a été condamné à mort par contumace pour crimes de guerre et crimes contre l'humanité. Selon BBC World et Le Devoir, son frère Maher et d'autres anciens responsables ont également reçu la peine de mort pour leur rôle dans la guerre civile."
     },
     {
-      "sujet": "Canicule attendue en Europe",
-      "fait": "Des avertissements de chaleur extrême ont été émis au Royaume-Uni et en France, avec des températures prévues au milieu des années 30 Celsius cette semaine. Selon Al Jazeera, cela suit des températures record et des océans proches de leurs records mensuels."
+      "sujet": "Bumble autorise les hommes à initier",
+      "fait": "L'application de rencontre Bumble a supprimé sa règle fondatrice réservant le premier message aux femmes. Selon TechCrunch et The Verge, tous les utilisateurs peuvent maintenant envoyer le premier message, et le délai de réponse avant expiration du match passe de 24 à 72 heures."
     },
     {
-      "sujet": "Feux de forêt en Indonésie",
-      "fait": "Des milliers de pompiers et des dizaines d'hélicoptères combattent des incendies de forêt croissants en Indonésie. D'après Al Jazeera, les autorités citent El Niño comme cause."
+      "sujet": "Spotify label les artistes IA",
+      "fait": "Spotify introduit un label « AI Persona » pour les profils d'artistes représentant des identités générées par IA et exclut leur musique des recommandations par défaut. Selon TechCrunch et The Verge, le déploiement commence à partir de mi-septembre."
     },
     {
-      "sujet": "Turquie pardonne combattants du PKK",
-      "fait": "La Turquie approuve un projet de loi de type amnistie permettant le retour à la vie civile pour certains combattants du Parti des travailleurs du Kurdistan qui ont déposé les armes. Selon Al Jazeera."
+      "sujet": "Agent informatique nord-coréen au gouvernement américain",
+      "fait": "Le FBI affirme qu'un employé informatique distant nord-coréen a travaillé pour une agence gouvernementale américaine. Selon TechCrunch, cette enquête montre que les Nord-Coréens peuvent s'infiltrer dans les agences gouvernementales, les organisations privées et les échanges de cryptomonnaies."
     },
     {
-      "sujet": "Todd Blanche nommé procureur général américain",
-      "fait": "Todd Blanche, ancien avocat personnel du président Trump, a été assermenté lundi comme procureur général américain après une confirmation sénatoriale 50-49. D'après CBC World, il servait comme procureur général par intérim depuis le renvoi de Pam Bondi en avril."
+      "sujet": "Attaque Houthi en mer Rouge",
+      "fait": "Des rebelles Houthis appuyés par l'Iran ont attaqué un petit cargo dans le détroit de Bab el-Mandeb, tuant quatre personnes selon les autorités yéménites. Selon CBC World, l'incident s'est produit mardi."
     },
     {
-      "sujet": "Vaccinations infantiles réduites aux États-Unis",
-      "fait": "Le président Trump a signé lundi un décret réduisant le calendrier vaccinal de l'enfance à 11 vaccinations. Selon CBC, les experts en santé avertissent que ce changement expose davantage d'enfants à des risques."
+      "sujet": "Perte trimestrielle de Trump Media",
+      "fait": "Trump Media a enregistré une perte trimestrielle de 238 millions de dollars, comparée à 20 millions de dollars un an plus tôt. Selon Reuters, cette augmentation significative de la perte marque une dégradation financière majeure."
     },
     {
-      "sujet": "Procès du meurtre de Tupac Shakur",
-      "fait": "Le procès pour meurtre de Duane (Keffe D) Davis, 63 ans, ancien membre de gang accusé du meurtre de Tupac Shakur en 1996, a débuté par la sélection du jury lundi, près de 30 ans après le crime. Selon CBC World."
-    },
-    {
-      "sujet": "Trump demande compensation à l'Iran",
-      "fait": "Le président Trump a exigé lundi que l'Iran paie une compensation pour les personnes tuées selon lui par l'Iran dans des guerres, attaques et protestations, ce qui devrait compliquer les efforts pour rouvrir le détroit d'Ormuz. D'après CBC."
+      "sujet": "Incendie de forêt en Colombie-Britannique",
+      "fait": "Des renforts mexicains arrivent pour combattre un incendie de forêt mortel sur les rives du lac Okanagan qui a forcé 20 000 personnes à évacuer. Selon Global News et La Presse, l'incendie rage en Colombie-Britannique."
     }
   ]
 }
