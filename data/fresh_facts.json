@@ -1,54 +1,54 @@
 {
-  "generated_at": "2026-08-11T16:57:18.552537+00:00",
+  "generated_at": "2026-08-11T20:00:39.790668+00:00",
   "window_hours": 8,
   "faits": [
     {
-      "sujet": "Pont Gordie Howe traversées",
-      "fait": "Entre le 27 et 31 juillet, 41 000 personnes ont traversé le pont Gordie Howe, dont 18 900 résidents canadiens et 18 100 résidents américains. Selon Statistique Canada."
+      "sujet": "IA générative - Utilisateurs mondiaux",
+      "fait": "ChatGPT et Gemini ont chacun dépassé le milliard d'utilisateurs actifs mensuels. Selon The Verge et TechCrunch, ChatGPT a atteint ce cap en juin 2026, tandis que Google a annoncé que Gemini est son produit le plus croissant jamais lancé."
     },
     {
-      "sujet": "Renouvellements hypothécaires Canada",
-      "fait": "Le Canada connaît sa plus importante vague de renouvellements hypothécaires, avec de nombreux Canadiens voyant leurs budgets consacrés au logement augmenter à 50 %. Selon Global News."
+      "sujet": "Acquisition de sociétés canadiennes",
+      "fait": "La plateforme de paiements canadienne Moneris est vendue à des investisseurs américains en capital-investissement, quelques jours après qu'AMD ait annoncé l'acquisition de Taalas, l'un des plus grands fabricants de semi-conducteurs du Canada. Source : Global News."
     },
     {
-      "sujet": "Juges Gatineau destitution risque",
-      "fait": "Deux juges de Gatineau risquent la destitution pour avoir autorisé des centaines de mandats d'emprisonnement pour contraventions impayées en violation de la loi. Selon La Presse."
+      "sujet": "Séisme en Colombie",
+      "fait": "Un séisme en Colombie a causé 240 morts et plus de 1000 blessés selon Radio-Canada, tandis que BBC World rapporte 180 morts avec des efforts de secours en cours pour libérer les survivants des décombres."
     },
     {
-      "sujet": "Troisième lien Québec appels d'intérêt",
-      "fait": "Une vingtaine d'entreprises ont répondu à l'appel d'intérêt pour le troisième lien à Québec. Selon Radio-Canada."
+      "sujet": "Cyberattaque ransomware au Canada",
+      "fait": "Une attaque ransomware a affecté certains systèmes informatiques du Health Sciences Centre au Manitoba. Selon Global News, le syndicat des infirmières exprime des préoccupations quant aux risques de sécurité pour ses membres."
     },
     {
-      "sujet": "Dépenses gouvernementales aide patronale",
-      "fait": "Les dépenses fédérales et provinciales en aide patronale ont augmenté de 142 % entre 2019 et 2024. Selon le National Post citant l'Institut Fraser."
+      "sujet": "Rappel de laitue contaminée",
+      "fait": "Sur 236 192 cas de laitue rappelée par Taylor Farms en raison d'une possible contamination à Cyclospora, seulement 5 900 (2,5%) ont été vendus à Taco Bell selon Ars Technica citant un rapport de la FDA. Plus de 23 000 personnes ont été contaminées."
     },
     {
-      "sujet": "Décès Ebola République Démocratique Congo",
-      "fait": "Les décès confirmés d'Ebola en République Démocratique du Congo ont atteint 2 011, dans ce qui est décrit comme l'épidémie se propageant le plus rapidement jamais enregistrée. Selon CBC World."
+      "sujet": "Fréquentation des salles de cinéma",
+      "fait": "Cineplex a rapporté 12,7 millions de clients entre avril et juin 2026, en hausse par rapport à 11,6 millions à la même période l'année précédente. Source : Global News."
     },
     {
-      "sujet": "Missiles nord-coréens Ukraine Zelensky",
-      "fait": "Le président ukrainien affirme que la Russie utilise des missiles balistiques nord-coréens pour frapper l'Ukraine, avec une attaque à Zaporizhzhia ayant tué sept personnes. Selon BBC World."
+      "sujet": "Infrastructure de transport - Montréal",
+      "fait": "La station de métro Fabre de Montréal (ligne bleue) fermera son entrée principale jusqu'à l'hiver 2028 en raison de travaux majeurs. Source : La Presse."
     },
     {
-      "sujet": "Ours tué erreur Maple Ridge",
-      "fait": "La Gendarmerie royale du Canada a tué le mauvais ours après l'attaque d'une fillette de trois ans à Maple Ridge en Colombie-Britannique; la recherche de l'ours agresseur continue. Selon CBC."
+      "sujet": "Accès à l'éducation en Afghanistan",
+      "fait": "L'UNESCO rapporte que 2,4 millions de filles afghanes sont privées d'accès à l'éducation supérieure, avec un risque que ce chiffre atteigne 4 millions d'ici 2030 si les talibans ne renversent pas cette politique."
     },
     {
-      "sujet": "Sélection immigrants PSTQ Québec",
-      "fait": "Le Programme de l'expérience québécoise a délivré 2 792 certificats de sélection entre juillet 2025 et juillet 2026. Selon Radio-Canada."
+      "sujet": "Relations diplomatiques Israël-Venezuela",
+      "fait": "Selon Al Jazeera, le Venezuela et Israël rétablissent leurs liens consulaires, malgré une rupture diplomatique en 2009, suite aux changements d'orientation de Caracas après l'enlèvement de Maduro."
     },
     {
-      "sujet": "Tarifs douaniers États-Unis août 19",
-      "fait": "Des tarifs de 50 % des États-Unis sur le Canada doivent entrer en vigueur le 19 août selon Donald Trump. Selon le National Post."
+      "sujet": "Départ d'un cadre d'OpenAI",
+      "fait": "Brad Lightcap, ancien directeur des opérations et responsable des projets spéciaux chez OpenAI, a annoncé son départ après 8 ans à l'entreprise. Source : The Verge."
     },
     {
-      "sujet": "Anthropic modèle conjecture Riemann",
-      "fait": "Un modèle non publié d'Anthropic a réalisé plus de progrès que prévu sur la conjecture de Riemann, un problème mathématique non résolu depuis plus de 150 ans. Selon TechCrunch."
+      "sujet": "Accord commercial Canada-États-Unis",
+      "fait": "Plus de 29 000 Canadiens ont signé une pétition demandant l'expulsion de l'ambassadeur américain Pete Hoekstra, qui sera présentée au Parlement à l'automne. Source : CBC."
     },
     {
-      "sujet": "Liban abolition peine de mort",
-      "fait": "Le Parlement libanais a voté pour abolir la peine de mort, devenant le premier pays du Moyen-Orient à le faire; les peines seront remplacées par l'emprisonnement à vie. Selon Al Jazeera."
+      "sujet": "Signification d'un joueur de football",
+      "fait": "Le CF Montréal a signé la légende chilienne Alexis Sanchez pour la saison abrégée 2027 de la Major League Soccer. Source : Global News."
     }
   ]
 }
