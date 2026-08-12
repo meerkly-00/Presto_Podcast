@@ -1,0 +1,79 @@
+```xml
+<script>
+  <intro>Bonjour, on est le mercredi douze août deux mille vingt-six. Voici votre Presto en environ quinze minutes. Au menu : le séisme en Colombie, les tensions autour de l'avion de Donald Trump et de l'Iran, le dossier commercial canado-américain, l'économie et les marchés, et un mot sur la tech.</reste>
+
+  <chapitre titre="International">
+    On commence en Colombie, où le bilan du séisme de lundi a été revu à la baisse. Selon Radio-Canada, le précédent bilan de deux cent quarante et un morts a été révisé mardi soir à deux cent seize morts. La BBC avait rapporté plus tôt cent quatre-vingts morts, alors que les équipes de secours continuaient de fouiller les décombres. Une rescapée a été sauvée des décombres, selon Radio-Canada, alors que les opérations de recherche se poursuivent dans l'ouest du pays.
+
+    Le dossier Iran continue aussi de dominer l'actualité internationale, avec en toile de fond la controverse entourant les déplacements du président américain. Selon la BBC et Reuters, Donald Trump a confirmé avoir changé d'avion en secret après le sommet de l'OTAN, en raison d'une menace potentielle. Le président américain soutient que son appareil de leurre a fait face à un risque plus élevé que prévu, alors que des journalistes et de hauts conseillers se trouvaient toujours à bord de l'avion présidentiel original. Selon le National Post, une vidéo montre comment Donald Trump aurait quitté la Turquie à l'aide d'un camion de traiteur, dans une opération destinée à le soustraire à une possible frappe iranienne. CBC rapporte que le Washington Post a révélé que le Secret Service souhaitait que le président utilise un avion différent pour ce voyage, en raison de préoccupations de sécurité.
+
+    Toujours dans ce dossier, la BBC souligne que cet épisode marque un chapitre de plus dans la relation tumultueuse entre Donald Trump et l'Iran. Selon la BBC, les forces américaines ont utilisé un hélicoptère pour tirer des missiles et désactiver un navire soupçonné de briser le blocus imposé à l'Iran, visant la salle des machines d'un navire cargo battant pavillon panaméen dans le golfe d'Oman.
+
+    Ailleurs au Moyen-Orient, Al Jazeera rapporte que des colons israéliens ont démoli des maisons dans le village de Jéricho, laissant des décombres et de la crainte chez des familles palestiniennes déplacées. Le gouvernement israélien est accusé de complicité dans ce dossier, selon Al Jazeera.
+
+    En Ukraine, Reuters rapporte que le président Volodymyr Zelensky affirme avoir transmis aux négociateurs américains des propositions pour mettre fin à la guerre avec la Russie. En Roumanie, selon Ars Technica, qui cite Reuters, l'armée roumaine a fait exploser deux drones de conception russe retrouvés près d'un important projet gazier offshore en mer Noire. Le ministre roumain de la Défense, Radu Miruță, affirme que l'Ukraine a confirmé que ces systèmes ne lui appartenaient pas.
+
+    En Syrie, l'Agence France-Presse et l'Associated Press rapportent que l'ancien président Bachar al-Assad a été condamné à mort par contumace pour crimes de guerre.
+
+    Au Zimbabwe, CBC rapporte qu'un traversier surchargé a chaviré sur le lac Kariba, causant la mort d'au moins quinze personnes. Vingt-sept personnes sont toujours portées disparues, selon l'agence nationale de gestion des catastrophes du pays.
+
+    Enfin, un ancien marine américain détenu en Russie depuis plus de quatre ans pour des accusations contestées a été libéré, selon l'Associated Press.
+  </chapitre>
+
+  <chapitre titre="Politique canadienne">
+    Au Canada, la controverse autour de l'ambassadeur américain à Ottawa continue de prendre de l'ampleur. Selon Radio-Canada, près de trente mille Canadiens réclament maintenant l'expulsion de l'ambassadeur Pete Hoekstra. CBC précise qu'une pétition, qui sera présentée à la Chambre des communes cet automne, demande au gouvernement de déclarer l'ambassadeur persona non grata. La pétition accuse Pete Hoekstra d'avoir tenu des propos qui nuisent aux relations diplomatiques entre les deux pays.
+
+    En Colombie-Britannique, La Presse rapporte que des renforts venus du Mexique sont arrivés pour combattre les feux de forêt. Selon ce reportage, des habitants évacués de Summerland se tournent vers des sources d'information alternatives pour pallier ce qu'ils décrivent comme un manque de communication officielle, malgré les mises en garde des autorités contre les risques de désinformation.
+
+    Toujours en Colombie-Britannique, selon le National Post et Global News, un document interne du gouvernement provincial révèle l'ampleur des plans de transfert de terres de la Couronne vers des Premières Nations de l'île de Vancouver. Plus de cent vingt mille hectares pourraient être transférés, incluant des sites reconnus autour de la capitale provinciale, Victoria, dont le château Hatley. Ces terres sont visées dans le cadre de traités actuellement en finalisation avec plusieurs Premières Nations.
+
+    À Regina, Global News rapporte que deux personnes ont été hospitalisées après qu'un échafaudage se soit détaché d'un bâtiment du centre-ville mardi après-midi.
+  </chapitre>
+
+  <chapitre titre="Actualité québécoise">
+    À Montréal, La Presse rapporte qu'un homme de trente-six ans a été retrouvé grièvement blessé au haut du corps mardi soir, au centre-ville. Selon le Service de police de la Ville de Montréal, ces blessures auraient possiblement été causées par un objet tranchant.
+
+    Le dossier des allégations de racisme au poste de quartier de Montréal-Nord continue de faire des vagues. Selon Radio-Canada, le chef du Service de police de la Ville de Montréal, Fady Dagher, affirme que le corps de police doit changer de culture. Le SPVM a confirmé que trois de ses agents étaient toujours suspendus. La Presse rapporte que la grogne populaire demeure, plusieurs estimant que les paroles ne suffisent plus. Fady Dagher promet de dévoiler un plan de réponse à l'automne.
+
+    Toujours à Montréal, La Presse rapporte qu'un groupe anarchiste a défoncé par erreur la porte d'entrée d'un appartement de Rosemont. Une femme qui dormait a été réveillée par le vacarme et s'est infligé une commotion cérébrale en s'évanouissant, persuadée d'être victime d'une intrusion.
+
+    Sur le plan juridique, Radio-Canada rapporte qu'un avocat a déposé un recours devant la Cour supérieure concernant la fin du serment obligatoire au roi au Québec. Cette obligation avait été abolie en deux mille vingt-deux par l'Assemblée nationale.
+  </chapitre>
+
+  <chapitre titre="Économie et marchés">
+    On passe à l'économie, encore marquée par le pétrole et les marchés américains. Selon Reuters, le prix du pétrole a progressé, des doutes persistants sur un accord entre les États-Unis et l'Iran alimentant des inquiétudes d'approvisionnement. Le Wall Street Journal rapporte que le pétrole a bondi mardi, dans un contexte où l'effet de l'intervention sur le yen s'estompe.
+
+    Selon l'Associated Press, les actions américaines se sont légèrement éloignées de leurs records, les prix du pétrole continuant d'osciller. Bloomberg précise que les marchés boursiers asiatiques pourraient reculer, l'indice des prix à la consommation américain et le dossier iranien restant au centre de l'attention.
+
+    Du côté des entreprises, Bloomberg rapporte que la démonstration de force financière de Nvidia calme les marchés du crédit, qui montraient des signes de nervosité. L'entreprise fait aussi les manchettes selon The Economist, qui rapporte que ses plus importants clients cherchent à obtenir une part de son activité, alors que Nvidia répond avec une entente évaluée à cinq cents milliards de dollars.
+
+    Toujours en économie internationale, Bloomberg rapporte que l'économie russe est en voie de renouer avec la croissance, malgré les frappes de drones. La Banque de France, selon Bloomberg, affirme que l'économie française devrait maintenir son élan. Reuters rapporte que le fonds souverain norvégien a inscrit un profit record de cent quatre-vingt-quatre milliards de dollars au premier semestre de deux mille vingt-six.
+
+    En Chine, Reuters précise que les ventes automobiles poursuivent leur repli, alors que les constructeurs se tournent davantage vers les marchés étrangers. Le Financial Times rapporte, de son côté, que la Deutsche Bank devient la première banque de compensation européenne pour le renminbi.
+
+    Aux États-Unis, Reuters rapporte que l'administration Trump a finalisé une exemption au régime de déclaration de propriété effective pour les entreprises américaines. Toujours aux États-Unis, Reuters précise que les exportations de carburant vers Cuba alimentent un marché noir chaotique sur l'île.
+  </chapitre>
+
+  <chapitre titre="Tech">
+    Un mot sur la tech. Selon The Verge, ChatGPT et Gemini ont tous deux franchi le cap du milliard d'utilisateurs. Le président-directeur général de Google, Sundar Pichai, a annoncé qu'un milliard de personnes utilisent Gemini chaque mois, ce qui en fait, selon lui, le produit à la croissance la plus rapide de l'histoire de l'entreprise. OpenAI avait franchi ce même seuil quelques semaines plus tôt, selon des données externes citées par The Verge, quoique l'entreprise n'ait confirmé la nouvelle que dans un billet de blogue publié le six août.
+
+    Toujours en intelligence artificielle, Ars Technica rapporte que l'ordre exécutif signé par Donald Trump, qui réduit le nombre de vaccins recommandés pour les enfants tout en répétant des affirmations démystifiées sur un lien entre les vaccins et l'autisme, suscite une opposition qualifiée de vive par des organisations médicales et de santé publique. Selon Ars Technica, même l'industrie pharmaceutique s'oppose à la mesure, ce qui serait moins attendu que la réaction du milieu médical. L'Académie américaine de pédiatrie, qui dirige déjà une poursuite contre des changements similaires, qualifie la mesure de dangereuse.
+
+    Dans l'industrie du jeu vidéo, The Verge rapporte qu'une ancienne scénariste en chef du jeu Rideshare Stimulator, Stella Sacco, affirme avoir été remplacée par ChatGPT en cours de développement, une affirmation que le développeur Saber Interactive dément formellement.
+
+    Côté cybersécurité, Ars Technica rapporte qu'un groupe de participants à la conférence DEF CON de Las Vegas est soupçonné d'avoir usurpé le réseau sans fil d'un vol de la compagnie Delta, forçant l'équipage à en aviser les autorités fédérales. Toujours en cybersécurité, Ars Technica rapporte que Google a ajouté à son navigateur Chrome une nouvelle protection contre le vol de témoins de session, une technique de plus en plus utilisée pour contourner l'authentification à deux facteurs.
+
+    En financement, TechCrunch rapporte que l'entreprise indienne Yulu, spécialisée dans les vélos électriques, a complété un financement de quatre-vingt-treize millions de dollars, dans un contexte de forte demande liée au commerce rapide. Toujours selon TechCrunch, la firme de capital de risque Accel a complété un fonds indien de cinq cents cinquante millions de dollars, à peine dix-neuf mois après son précédent fonds.
+
+    Enfin, TechCrunch rapporte qu'Uber a vendu l'entièreté de sa participation dans l'entreprise de robotique Serve, une décision qui aurait surpris cette dernière, les deux entreprises ayant commencé à diverger sur le plan des affaires.
+  </chapitre>
+
+  <chapitre titre="Sport">
+    Rapidement en sport. À Toronto, Sportsnet rapporte que les Blue Jays continuent de gagner malgré un effectif réduit, l'enclos des releveurs approchant du point de rupture et l'attaque cherchant toujours son erre d'aller. L'équipe a battu les Red Sox de Boston par la marque de cinq à trois. Sportsnet souligne les contributions de Brett Bateman et de Charles McAdoo, deux joueurs qui auraient gagné la confiance du gérant John Schneider.
+
+    Ailleurs dans le sport, Al Jazeera rapporte que le footballeur Cristiano Ronaldo a annoncé son mariage avec sa conjointe de longue date, Georgina Rodriguez, au Portugal, après une décennie de vie commune.
+  </chapitre>
+
+  <outro>Voilà pour ce Presto du mercredi douze août deux mille vingt-six. Si ce briefing vous est utile, le meilleur coup de main que vous pouvez nous donner, c'est de le partager à une personne qui aime rester informée. Et selon votre plateforme : un abonnement sur Spotify ou Apple Podcasts, un pouce bleu et un abonnement sur YouTube, ça prend deux secondes et ça aide vraiment Presto à grandir. Sur ce, bonne journée, et à demain.</outro>
+</script>
+```
