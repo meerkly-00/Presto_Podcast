@@ -1,13 +1,13 @@
 {
   "date": "2026-08-12",
   "kind": "poll",
-  "text": "Ce matin → 216 morts au séisme en Colombie, les secours continuent.\n\nMÀJ : Une rescapée vient d'être sauvée des décombres. Les équipes poursuivent les fouilles.\n\nSelon toi, les pays riches doivent-ils augmenter l'aide d'urgence aux régions touchées par des séismes?",
+  "text": "Ce matin → Trump a quitté la Turquie en secret pendant le sommet de l'OTAN en raison d'une menace iranienne.\n\nNouveau : Des membres de son cabinet sont restés à bord de l'avion\n\nSelon toi, les gouvernements doivent-ils rendre publics les détails de telles mesures de sécurité?",
   "poll": {
     "options": [
-      "Oui, c'est une",
-      "Oui, si les fonds sont",
-      "Non, à chacun sa gestion",
-      "Ça dépend de la situation"
+      "Oui, pour la transparence",
+      "Non, pour la sécurité",
+      "Seulement après coup",
+      "Au cas par cas"
     ],
     "duration_minutes": 1440
   }
