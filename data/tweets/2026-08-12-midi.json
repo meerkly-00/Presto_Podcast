@@ -1,0 +1,14 @@
+{
+  "date": "2026-08-12",
+  "kind": "poll",
+  "text": "Ce matin → 216 morts au séisme en Colombie, les secours continuent.\n\nMÀJ : Une rescapée vient d'être sauvée des décombres. Les équipes poursuivent les fouilles.\n\nSelon toi, les pays riches doivent-ils augmenter l'aide d'urgence aux régions touchées par des séismes?",
+  "poll": {
+    "options": [
+      "Oui, c'est une",
+      "Oui, si les fonds sont",
+      "Non, à chacun sa gestion",
+      "Ça dépend de la situation"
+    ],
+    "duration_minutes": 1440
+  }
+}
