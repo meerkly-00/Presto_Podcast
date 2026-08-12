@@ -1,42 +1,54 @@
 {
-  "generated_at": "2026-08-12T16:57:01.762411+00:00",
+  "generated_at": "2026-08-12T20:00:53.019819+00:00",
   "window_hours": 8,
   "faits": [
     {
-      "sujet": "Amendes environnementales au Québec",
-      "fait": "Le Québec augmente les amendes environnementales pour les industries à risque élevé, les portant à 10 fois leur niveau précédent. Selon La Presse."
+      "sujet": "Secrétaire de presse Trump démissionne",
+      "fait": "Karoline Leavitt, 28 ans, quitte son poste de secrétaire de presse de la Maison-Blanche pour passer du temps avec ses enfants. Selon BBC World et Global News, elle venait de revenir au travail après un congé maternité en mai 2026."
     },
     {
-      "sujet": "Fonds inutilisés pour l'aide au logement",
-      "fait": "37 millions de dollars du Programme de supplément au loyer québécois demeurent inutilisés en pleine crise du logement. Selon La Presse."
+      "sujet": "Éclipse solaire en Europe",
+      "fait": "Une éclipse solaire totale a plongé l'Islande et l'Espagne dans l'obscurité le 12 août 2026. C'est la première éclipse totale en Espagne depuis plus d'un siècle, selon Al Jazeera et La Presse."
     },
     {
-      "sujet": "Coûts carburant Air Canada",
-      "fait": "Air Canada a dépensé 49 % plus en carburant aérien qu'il y a un an, malgré une augmentation de la demande de voyages. Selon Global News."
+      "sujet": "iPhone 18 : lancement décalé",
+      "fait": "Selon The Verge, les iPhone 18 Pro seront lancés à l'automne 2026, mais les modèles de base iPhone 18, iPhone 18e et iPhone Air ne seront disponibles qu'au premier trimestre 2027."
     },
     {
-      "sujet": "Financement batterie de réseau Form Energy",
-      "fait": "Form Energy a levé 750 millions de dollars pour développer ses batteries de 100 heures destinées au réseau électrique. Selon TechCrunch."
+      "sujet": "Retrait américain d'Irak fixé",
+      "fait": "L'Irak a confirmé un délai final de retrait de la coalition dirigée par les États-Unis fixé au 30 septembre 2026. Un responsable américain a confirmé que Washington prévoit de terminer son retrait à cette date, selon Al Jazeera."
     },
     {
-      "sujet": "Usine solaire Tesla au Texas",
-      "fait": "Tesla envisage de construire une usine solaire de 10 milliards de dollars au Texas et demande une aide financière de l'État. Selon TechCrunch."
+      "sujet": "Acquisition des Lakers pour 12,5 milliards",
+      "fait": "Iger et Kushner achètent les Lakers pour 12,5 milliards de dollars, un record pour une franchise NBA. Selon Reuters."
     },
     {
-      "sujet": "Alberta services addiction jeu",
-      "fait": "L'Alberta recherche des propositions de services de traitement de la dépendance au jeu, incluant des programmes de 21 jours en établissement, dans le cadre du lancement des jeux en ligne. Selon Global News."
+      "sujet": "Amendes environnementales augmentées au Québec",
+      "fait": "Le Québec augmente les amendes pour infractions à la Loi sur la qualité de l'environnement d'un facteur 10. Selon Radio-Canada."
     },
     {
-      "sujet": "Saison touristique record Montréal",
-      "fait": "La demande hôtelière à Montréal a augmenté de 12 % de mai à juillet par rapport à la même période l'année précédente. Selon Radio-Canada."
+      "sujet": "Pixel 11 de Google présenté",
+      "fait": "Google lance les Pixel 11 à partir de 899 dollars, Pixel 11 Pro à 1 099 dollars et Pro XL à 1 299 dollars. Les précommandes sont ouvertes pour une livraison le 20 août 2026, selon The Verge."
     },
     {
-      "sujet": "Pixel 11 Google lancement",
-      "fait": "Google révèle sa gamme Pixel 2026 incluant le Pixel 11, le Pixel Watch 5 et le Pixel Tag, avec des ajouts de fonctionnalités alimentées par Gemini. Selon Ars Technica."
+      "sujet": "Suspensions Hockey Canada maintenues",
+      "fait": "Hockey Canada maintient les suspensions de quatre des cinq joueurs de l'équipe junior 2018 reconnus innocents lors du procès pour agression sexuelle. Selon Radio-Canada et CBC."
     },
     {
-      "sujet": "Vente Lakers NBA record",
-      "fait": "Les Lakers de Los Angeles seront vendus pour 12,5 milliards de dollars, un prix record pour une franchise NBA, moins d'un an après l'acquisition d'une majorité par Mark Walter. Selon BBC World."
+      "sujet": "Discord suspendu au Brésil",
+      "fait": "Le Brésil ordonne à Discord de suspendre les diffusions en direct après le décès d'un adolescent, affirmant que la plateforme n'a pas protégé les mineurs contre le contenu violent et les appels au suicide. Selon Al Jazeera."
+    },
+    {
+      "sujet": "Caméra de surveillance retirée à Montréal",
+      "fait": "Une caméra Flock de reconnaissance de plaques d'immatriculation a été découverte et retirée à Montréal. Le chef du SPVM a déclaré ne pas être au courant de son installation, selon Radio-Canada."
+    },
+    {
+      "sujet": "Gants de choc électrique pour l'immigration américaine",
+      "fait": "Les autorités américaines achètent 20 millions de dollars de gants pouvant délivrer des chocs électriques aux agents de l'immigration. Le fabricant affirme qu'ils sont sûrs s'ils sont correctement utilisés, selon BBC World."
+    },
+    {
+      "sujet": "Indictment pour meurtre parental à Los Angeles",
+      "fait": "Nick Reiner, fils du réalisateur Rob Reiner, est inculpé pour le meurtre de ses parents avec l'accusation qu'il était en embuscade. Selon CBC World."
     }
   ]
 }
