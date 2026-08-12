@@ -1,54 +1,42 @@
 {
-  "generated_at": "2026-08-12T14:20:09.868096+00:00",
+  "generated_at": "2026-08-12T16:57:01.762411+00:00",
   "window_hours": 8,
   "faits": [
     {
-      "sujet": "Google Pixel 11 lancement",
-      "fait": "Google a annoncé sa nouvelle gamme Pixel 11, Pixel 11 Pro, Pixel 11 Pro XL et Pixel 11 Pro Fold avec une augmentation de prix de 100 dollars et un stockage de base de 256 GB. Selon The Verge et TechCrunch, les commandes sont ouvertes et les téléphones seront expédiés la semaine prochaine."
+      "sujet": "Amendes environnementales au Québec",
+      "fait": "Le Québec augmente les amendes environnementales pour les industries à risque élevé, les portant à 10 fois leur niveau précédent. Selon La Presse."
     },
     {
-      "sujet": "Pixel Watch 5 caractéristiques",
-      "fait": "La Pixel Watch 5 démarre à 399 dollars avec une augmentation de prix de 50 dollars par rapport à l'année précédente. Selon TechCrunch, elle offre le suivi de la pression artérielle et de la résistance à l'insuline ainsi qu'un meilleur suivi du sommeil."
+      "sujet": "Fonds inutilisés pour l'aide au logement",
+      "fait": "37 millions de dollars du Programme de supplément au loyer québécois demeurent inutilisés en pleine crise du logement. Selon La Presse."
     },
     {
-      "sujet": "Google Pixel Tag tracker",
-      "fait": "Google a lancé le Pixel Tag au prix de 29 dollars pour concurrencer l'AirTag d'Apple. Selon TechCrunch, il utilise le réseau Find Hub de Google pour aider les utilisateurs à localiser les objets perdus."
+      "sujet": "Coûts carburant Air Canada",
+      "fait": "Air Canada a dépensé 49 % plus en carburant aérien qu'il y a un an, malgré une augmentation de la demande de voyages. Selon Global News."
     },
     {
-      "sujet": "Inflation américaine juillet 2026",
-      "fait": "L'inflation annuelle aux États-Unis a baissé à 3,4% en juillet, avec un ralentissement des coûts alimentaires et carburants. Selon BBC World, les prix du logement restent légèrement plus élevés."
+      "sujet": "Financement batterie de réseau Form Energy",
+      "fait": "Form Energy a levé 750 millions de dollars pour développer ses batteries de 100 heures destinées au réseau électrique. Selon TechCrunch."
     },
     {
-      "sujet": "Exportateurs canadiens tarifs Trump",
-      "fait": "Environ deux sur cinq exportateurs canadiens déclarent actuellement exporter un produit vers les États-Unis qui tomberait sous le coup des nouveaux tarifs entrants. Selon Global News, cette enquête a été publiée mercredi."
+      "sujet": "Usine solaire Tesla au Texas",
+      "fait": "Tesla envisage de construire une usine solaire de 10 milliards de dollars au Texas et demande une aide financière de l'État. Selon TechCrunch."
     },
     {
-      "sujet": "Vulnérabilités de sécurité Zoom",
-      "fait": "Des chercheurs ont découvert des vulnérabilités dans Zoom permettant de prendre le contrôle des appareils via le partage d'écran. Selon Ars Technica, la faille a été découverte en juin en utilisant des modèles d'IA accessibles publiquement avec moins de 20 invites."
+      "sujet": "Alberta services addiction jeu",
+      "fait": "L'Alberta recherche des propositions de services de traitement de la dépendance au jeu, incluant des programmes de 21 jours en établissement, dans le cadre du lancement des jeux en ligne. Selon Global News."
     },
     {
-      "sujet": "Décès de Zhu Rongji",
-      "fait": "Zhu Rongji, réformateur économique qui a aidé à conduire la Chine à l'adhésion à l'OMC dans les années 1990, est décédé à l'âge de 97 ans. Selon CBC, il a mené le boom économique explosif de la Chine en forçant des changements à l'industrie d'État."
+      "sujet": "Saison touristique record Montréal",
+      "fait": "La demande hôtelière à Montréal a augmenté de 12 % de mai à juillet par rapport à la même période l'année précédente. Selon Radio-Canada."
     },
     {
-      "sujet": "Financement climat Canada",
-      "fait": "Le gouvernement fédéral canadien annonce un financement de 34 millions de dollars pour 141 projets de résilience aux changements climatiques dans 128 collectivités à travers le pays. Selon La Presse, cette annonce a été faite mercredi."
+      "sujet": "Pixel 11 Google lancement",
+      "fait": "Google révèle sa gamme Pixel 2026 incluant le Pixel 11, le Pixel Watch 5 et le Pixel Tag, avec des ajouts de fonctionnalités alimentées par Gemini. Selon Ars Technica."
     },
     {
-      "sujet": "Formula E changement diffusion",
-      "fait": "Formula E a signé un accord de plusieurs années pour diffuser la saison 12 sur Disney+ et ESPN+ dans 144 pays à partir de décembre. Selon Ars Technica, le sport était auparavant diffusé en direct sur Roku aux États-Unis depuis 2023."
-    },
-    {
-      "sujet": "Conflit travail Metro Québec",
-      "fait": "Une grève au centre de distribution de fruits et légumes de Metro à Laval a pesé sur le bénéfice du troisième trimestre. Selon Radio-Canada, le conflit de travail a eu un impact négatif sur les finances de l'entreprise."
-    },
-    {
-      "sujet": "Rod Stewart annulation tournée",
-      "fait": "Rod Stewart a annulé ses dates de tournée restantes après avoir subi une chirurgie cardiaque. Selon Global News, l'artiste a déclaré être profondément déçu de manquer ces spectacles."
-    },
-    {
-      "sujet": "Décès prisonnier Steeve Racine",
-      "fait": "Steeve Racine, 62 ans, qui purgait une peine d'emprisonnement à perpétuité depuis le 30 août 1991 pour le meurtre de six personnes, est décédé le 7 août au Centre psychiatrique régional de Saskatoon. Selon Global News, il était détenu depuis plus de 30 ans."
+      "sujet": "Vente Lakers NBA record",
+      "fait": "Les Lakers de Los Angeles seront vendus pour 12,5 milliards de dollars, un prix record pour une franchise NBA, moins d'un an après l'acquisition d'une majorité par Mark Walter. Selon BBC World."
     }
   ]
 }
