@@ -1,0 +1,14 @@
+{
+  "date": "2026-08-13",
+  "kind": "poll",
+  "text": "Ce matin → L'épidémie d'Ebola en cours pourrait devenir la plus meurtrière jamais enregistrée, avec plus de 2000 morts depuis mai.\n\nNouveau : Al Jazeera rapporte que cette épidémie serait\n\nSelon toi, quelles mesures sont les plus efficaces pour contrôler une épidémie d'Ebola?",
+  "poll": {
+    "options": [
+      "Isoler les zones",
+      "Renforcer le dépistage",
+      "Éduquer les populations",
+      "Investir en recherche"
+    ],
+    "duration_minutes": 1440
+  }
+}
