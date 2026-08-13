@@ -1,54 +1,54 @@
 {
-  "generated_at": "2026-08-12T22:40:15.561706+00:00",
+  "generated_at": "2026-08-13T14:22:30.657707+00:00",
   "window_hours": 8,
   "faits": [
     {
-      "sujet": "Négociations commerciales Canada-États-Unis",
-      "fait": "Les négociateurs canadiens et américains se sont rencontrés pour la troisième fois en autant de semaines. Les négociateurs canadiens estiment que l'offre américaine n'est pas à la hauteur. Selon Radio-Canada, une entente n'est pas imminente."
+      "sujet": "Rappel de produits laitiers au Canada",
+      "fait": "Costco Canada a rappelé les produits yogourt grec et yogourt biologique nature de Greek Gods vendus en contenants de 650 grammes en raison d'une possible contamination par la moisissure. Selon Global News, le rappel a été annoncé mardi."
     },
     {
-      "sujet": "Accord Churchill Falls Québec-Terre-Neuve",
-      "fait": "Le Québec et Terre-Neuve-et-Labrador ont conclu une entente sur le projet hydroélectrique de Churchill Falls. Selon Radio-Canada et CBC, une annonce officielle devrait intervenir la semaine prochaine."
+      "sujet": "Vague de chaleur en Europe occidentale",
+      "fait": "Les prévisions météorologiques indiquent des températures de 38°C en Angleterre centrale et sud-est jeudi, et jusqu'à 40°C en France centrale et méridionale. D'après CBC World, il s'agirait potentiellement du jour le plus chaud de l'année."
     },
     {
-      "sujet": "Tourisme à Montréal en 2026",
-      "fait": "Tourisme Montréal prévoit 12,5 millions de visiteurs en 2026, dépassant le record précédent de plus de 11 millions en 2019. Selon Global News, les chiffres augmentent exponentiellement."
+      "sujet": "Restructuration de l'IA chez Google",
+      "fait": "Google a annoncé une réorganisation majeure de sa division IA, Google DeepMind. Selon The Verge, Jeff Dean, scientifique en chef de Google, quitte l'entreprise pour créer sa propre startup et Demis Hassabis, cofondateur et PDG de DeepMind, se retire pour se concentrer sur la recherche à long terme."
     },
     {
-      "sujet": "Faille de sécurité LiteLLM massive",
-      "fait": "Terabytes de données contenant des identifiants d'accès ont été exposés lors d'une attaque en chaîne d'approvisionnement sur l'outil open source LiteLLM. Selon Ars Technica, plus de 2500 organisations auraient eu leurs clés d'accès compromises, dont Microsoft, Amazon, Cisco, Samsung et Salesforce."
+      "sujet": "Politique de cyberattaques par des entreprises privées",
+      "fait": "Les États-Unis autorisent désormais certaines entreprises privées à mener des opérations de cyberattaque offensives. D'après TechCrunch, cette décision annule des décennies de politique fédérale interdisant aux sociétés privées les attaques 'hack back'."
     },
     {
-      "sujet": "Achat des Lakers pour 12,5 milliards",
-      "fait": "Robert Iger et Jared Kushner achètent les Lakers pour 12,5 milliards de dollars, selon Reuters. Ce montant établit un nouveau record pour l'acquisition d'une franchise sportive."
+      "sujet": "Fermeture de la centrale nucléaire roumaine",
+      "fait": "La baisse du débit du Danube force la Roumanie à arrêter sa seule centrale nucléaire. Selon Al Jazeera, cette installation produit généralement un cinquième de l'électricité du pays."
     },
     {
-      "sujet": "Opt-out Amazon AI sur Twitch",
-      "fait": "Twitch permet désormais aux utilisateurs de refuser que leurs streams, VODs, clips et textes de chat soient utilisés pour entraîner les modèles d'IA générative d'Amazon. Selon Ars Technica, cette modification intervient plus de deux ans après la confirmation qu'Amazon utilisait du contenu Twitch pour l'entraînement IA."
+      "sujet": "Civils tués en Ukraine en juillet",
+      "fait": "Le nombre de civils tués en Ukraine en juillet a atteint son plus haut niveau depuis mai 2022. D'après Radio-Canada, les drones et missiles de longue portée restent la cause principale de ces décès."
     },
     {
-      "sujet": "Nouveau PDG pour la firme Fermi",
-      "fait": "Lee McIntire, membre indépendant du conseil d'administration, a été nommé PDG de Fermi, plus de trois mois après le renvoi du cofondateur Toby Neugebauer. Selon TechCrunch, Fermi est une entreprise de puissance nucléaire pour l'IA."
+      "sujet": "Affaissement d'infrastructure routière au Québec",
+      "fait": "Un affaissement de ponceau dans Lanaudière a interrompu la circulation sur l'autoroute 40 mercredi matin en direction ouest. Selon La Presse, la circulation a été routrée jeudi avec l'aménagement d'une voie à contresens."
     },
     {
-      "sujet": "Découverte de glueballs en physique",
-      "fait": "Les physiciens de l'expérience Beijing Spectrometer III ont trouvé des preuves convaincantes de l'existence de glueballs, des particules composites faites entièrement de gluons. Selon Ars Technica, ces résultats ont été présentés à la Conférence internationale de physique des hautes énergies."
+      "sujet": "Watermarking de contenu par Claude",
+      "fait": "Anthropic annonce qu'elle déploiera des filigranes numériques invisibles sur le contenu traité par ses modèles. D'après Ars Technica, cette mesure vise à se conformer à la loi européenne sur l'IA, qui exige le watermarking des contenus générés après le 2 août."
     },
     {
-      "sujet": "Procès contre Trump Truth Social API",
-      "fait": "Le président Trump a été poursuivi par des groupes de presse à but non lucratif concernant la vente d'accès à l'API Truth Social à 100 000 dollars par mois. Selon Ars Technica, les premiers clients sont principalement des sociétés de trading haute fréquence."
+      "sujet": "Amélioration des ventes chez JD.com",
+      "fait": "JD.com prévoit une amélioration des ventes d'électronique au second semestre malgré une baisse des revenus trimestriels. Selon Reuters, cette projection a été annoncée suite aux résultats financiers publiés."
     },
     {
-      "sujet": "Panne Petlibro distributeurs automatiques",
-      "fait": "Une panne du service Petlibro a empêché les distributeurs de croquettes intelligentes de fonctionner correctement, causant des repas manqués pour les animaux domestiques. Selon The Verge, la panne a commencé mardi et affecte les distributeurs RFID et Granary."
+      "sujet": "Explosion au port de Rotterdam",
+      "fait": "Une explosion survenue au port de Rotterdam aux Pays-Bas a causé un mort et plusieurs blessés. D'après Associated Press, l'incident s'est produit le 13 août."
     },
     {
-      "sujet": "Saisie cannabis à Brampton Ontario",
-      "fait": "La police du Ontario a saisi 1,5 million de dollars de cannabis provenant d'une opération de culture illégale à Brampton, saisissant près de 4000 plants de cannabis. Selon Global News, deux hommes font face à des accusations."
+      "sujet": "Pact de défense Turquie-Pakistan-Arabie Saoudite",
+      "fait": "La Turquie expose les mécanismes d'un pacte de défense avec le Pakistan et l'Arabie Saoudite incluant le regroupement de ministres, des exercices conjoints et une coopération accrue dans l'industrie de défense. Selon Al Jazeera, les détails de cet accord ont été divulgués le 13 août."
     },
     {
-      "sujet": "Organisation nationale politiciens noirs Canada",
-      "fait": "Le Congrès canadien des politiciens noirs a été officiellement enregistré en tant qu'organisation nationale en août 2026. Selon La Presse, l'organisation s'efforce de soutenir les responsables politiques noirs à travers le Canada."
+      "sujet": "Eurovision 2027 en Bulgarie",
+      "fait": "Le concours Eurovision 2027 se tiendra à Burgas en Bulgarie après la victoire de la chanteuse bulgare Dara au concours de cette année. Selon BBC World, cette location côtière a été sélectionnée suite au succès de la représentante bulgare."
     }
   ]
 }
