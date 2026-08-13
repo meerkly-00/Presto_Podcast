@@ -1,13 +1,13 @@
 {
   "date": "2026-08-13",
   "kind": "poll",
-  "text": "Ce matin → L'épidémie d'Ebola en cours pourrait devenir la plus meurtrière jamais enregistrée, avec plus de 2000 morts depuis mai.\n\nNouveau : Al Jazeera rapporte que cette épidémie serait\n\nSelon toi, quelles mesures sont les plus efficaces pour contrôler une épidémie d'Ebola?",
+  "text": "Ce matin → Une cyberattaque a exposé des teraoctets de données de Microsoft, Amazon, Cisco et Samsung.\n\nNouveau développement → Les États-Unis autorisent désormais les entreprises privées à mener des opérations de\n\nComment envisages-tu les cyberattaques offensives privées?",
   "poll": {
     "options": [
-      "Isoler les zones",
-      "Renforcer le dépistage",
-      "Éduquer les populations",
-      "Investir en recherche"
+      "Nécessaire pour la",
+      "À encadrer strictement",
+      "À interdire",
+      "Indécis"
     ],
     "duration_minutes": 1440
   }
