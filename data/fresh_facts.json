@@ -1,54 +1,54 @@
 {
-  "generated_at": "2026-08-13T16:56:00.707188+00:00",
+  "generated_at": "2026-08-13T19:55:45.748134+00:00",
   "window_hours": 8,
   "faits": [
     {
-      "sujet": "Tarifs américains sur exports canadiens",
-      "fait": "Les négociateurs commerciaux canadiens tentent d'éviter des tarifs de 50% sur des centaines d'exportations canadiennes, imposés sous la Section 338 du Tariff Act de 1930 et prévus pour entrer en vigueur le 19 août. Selon le National Post."
+      "sujet": "Espionnage à l'OTAN",
+      "fait": "Les députés conservateurs et du Bloc québécois réclament une réunion d'urgence du Comité permanent de la sécurité publique et nationale pour discuter d'allégations d'espionnage impliquant une ancienne stagiaire canadienne de l'OTAN en Belgique. Selon La Presse."
     },
     {
-      "sujet": "Ford production véhicule électrique Fathom",
-      "fait": "Ford prévoit de commencer la construction de prototypes du Fathom EV au premier trimestre 2027 après un réaménagement d'usine de 2 milliards de dollars à Louisville. Selon TechCrunch et The Verge."
+      "sujet": "Tarifs américains et transshipment",
+      "fait": "Un rapport de la Maison-Blanche accuse la Chine de router ses exportations via des pays tiers pour éviter les tarifs américains, désignant le Canada parmi les plus grands facilitateurs. Selon Global News."
     },
     {
-      "sujet": "2K nouveau studio développement jeux",
-      "fait": "2K lance un nouveau studio AAA appelé Small Axe Studios dans le but de développer une nouvelle franchise de jeux de sport majeure, apparemment un jeu de soccer. Selon The Verge."
+      "sujet": "Churchill Falls négociations",
+      "fait": "Christine Fréchette s'apprête à signer une entente avec Terre-Neuve-et-Labrador concernant Churchill Falls, selon des sources de Radio-Canada. L'opposition à Québec s'oppose à une entente précipitée."
     },
     {
-      "sujet": "Meta sécurité escroqueries WhatsApp",
-      "fait": "Meta lance une fonction optionnelle Scam Alert sur WhatsApp utilisant l'apprentissage automatique embarqué pour signaler les messages suspects aux utilisateurs. Selon The Verge."
+      "sujet": "Promesses électorales du PCQ",
+      "fait": "Éric Duhaime promet des coupures de 47 milliards de dollars en cinq ans, incluant le départ de 20 000 fonctionnaires et l'abolition du Fonds vert. Selon La Presse et Le Devoir."
     },
     {
-      "sujet": "X transparence algorithme classement",
-      "fait": "X ouvre le code source de son algorithme de classement 'For You' et lance de nouveaux outils de transparence permettant aux utilisateurs de voir si leurs comptes ou publications ont été affectés. Selon TechCrunch."
+      "sujet": "Impôts versus besoins essentiels",
+      "fait": "Un rapport révèle que la famille canadienne moyenne dépense plus en taxes que pour l'alimentation, le logement et les vêtements combinés. Selon le National Post."
     },
     {
-      "sujet": "Microsoft suppression fonctionnalités IA",
-      "fait": "Microsoft supprime les podcasts générés par IA, les conversations de groupe, la recherche approfondie et le personnage Mico tout en fusionnant ses applications Copilot consommateur et entreprise. Selon TechCrunch."
+      "sujet": "Décès en milieu inuit",
+      "fait": "Le décès du petit Jusi Padlayat, 4 ans, à Ivujivik au Nunavik, après plusieurs jours de plaintes de maux de ventre sans soins adéquats, est qualifié d'« extrêmement troublant » par la ministre de la Santé du Québec. Selon La Presse et Radio-Canada."
     },
     {
-      "sujet": "Amazon utilisation contenu Twitch IA",
-      "fait": "Amazon utilise le contenu de Twitch pour entraîner des modèles d'intelligence artificielle, une décision qui a provoqué une réaction négative des streamers et utilisateurs. Selon CBC."
+      "sujet": "Départs à OpenAI",
+      "fait": "Denise Dresser, chef de la direction commerciale d'OpenAI, quitte son poste dans les prochaines semaines. Dali Rajic, président et COO de Wiz, la remplace. Selon The Verge et TechCrunch."
     },
     {
-      "sujet": "Instagram redesign de logo",
-      "fait": "Instagram présente un nouveau logo redessiné décrit comme plus net et moderne après une décennie. Selon TechCrunch."
+      "sujet": "Partenariat IBM et OpenAI",
+      "fait": "IBM s'associe à OpenAI pour former et certifier des dizaines de milliers de consultants aux technologies d'OpenAI. Selon TechCrunch."
     },
     {
-      "sujet": "Caisse de dépôt rendement H1 2026",
-      "fait": "La Caisse enregistre un rendement de 5,1% pour la première moitié de 2026, en dessous de son indice de référence, avec un actif net de 552 milliards de dollars et des gains de 26 milliards sur six mois. Selon Radio-Canada et Le Devoir."
+      "sujet": "Cyberattaques privées autorisées",
+      "fait": "L'administration Trump lance un programme permettant aux entreprises privées de mener des cyberattaques contre des criminels étrangers sous la supervision du Département de la Justice et du Département de la Sécurité intérieure. Selon The Verge."
     },
     {
-      "sujet": "Ontario aide sociale migrants illégaux",
-      "fait": "Le gouvernement de l'Ontario modifie les règlements pour empêcher les personnes qui ne sont pas des immigrants légaux de recevoir des allocations d'aide sociale. Selon le National Post."
+      "sujet": "Surveillance politique en Ontario",
+      "fait": "Doug Ford dit n'avoir été informé que jeudi que le Parti progressiste-conservateur a dépensé de l'argent pour surveiller l'ancienne chef libérale Bonnie Crombie en Jamaïque en 2023. Selon CBC."
     },
     {
-      "sujet": "S&P 500 record hausse actions tech",
-      "fait": "Le S&P 500 atteint un record historique grâce aux actions technologiques, tandis que les prix du pétrole et l'inflation à la production diminuent. Selon Reuters."
+      "sujet": "Vague de chaleur en Europe",
+      "fait": "Le Royaume-Uni enregistre sa journée la plus chaude de l'année avec 38,1 degrés Celsius dans l'ouest de Londres. Selon Al Jazeera."
     },
     {
-      "sujet": "Vague de chaleur Royaume-Uni Europe",
-      "fait": "Le Royaume-Uni enregistre sa journée la plus chaude de l'année avec une température de 38,1°C enregistrée à West Londres, tandis que l'Europe occidentale traverse une nouvelle vague de chaleur. Selon CBC."
+      "sujet": "Centrale nucléaire roumaine fermée",
+      "fait": "La Roumanie ferme sa seule centrale nucléaire de Cernavodă, qui produit 20 % de l'électricité du pays, en raison de la baisse du niveau du Danube causée par la chaleur extrême. Selon BBC World."
     }
   ]
 }
