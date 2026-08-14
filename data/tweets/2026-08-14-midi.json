@@ -1,0 +1,14 @@
+{
+  "date": "2026-08-14",
+  "kind": "poll",
+  "text": "Ce matin → Des pluies sans précédent au Japon ont tué 6 personnes et laissé 7 000 bloquées à Narita.\n\nMaj : La BBC rapporte 8 morts et plus de 20 000 foyers privés d'électricité.\n\nFace aux phénomènes météorologiques extrêmes croissants, quelles mesures te semblent prioritaires?",
+  "poll": {
+    "options": [
+      "Améliorer les alertes et",
+      "Investir dans les",
+      "Réduire les émissions de",
+      "Combinaison de ces"
+    ],
+    "duration_minutes": 1440
+  }
+}
