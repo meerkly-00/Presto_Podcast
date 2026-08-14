@@ -1,42 +1,54 @@
 {
-  "generated_at": "2026-08-14T16:51:43.714366+00:00",
+  "generated_at": "2026-08-14T19:48:06.711991+00:00",
   "window_hours": 8,
   "faits": [
     {
-      "sujet": "Google suppression des filigranes IA",
-      "fait": "Google permet aux utilisateurs de désactiver les filigranes visibles sur les contenus générés par ses outils IA (Gemini et Flow). Les filigranes invisibles SynthID et les métadonnées C2PA resteront intégrés. Selon The Verge et TechCrunch."
+      "sujet": "Projet de ballroom à la Maison-Blanche",
+      "fait": "Trump demande à la Cour suprême américaine de suspendre la décision d'une cour d'appel qui exigeait l'autorisation du Congrès pour poursuivre le projet de 400 millions de dollars. Selon Al Jazeera et Global News, le solicitor général de Trump a pétitionné la cour le 14 août 2026."
     },
     {
-      "sujet": "Luigi Mangione plainte coupable",
-      "fait": "Luigi Mangione, 28 ans, a plaidé coupable aux accusations fédérales de harcèlement liées au meurtre du PDG d'UnitedHealthcare Brian Thompson à Manhattan. Selon Global News, Radio-Canada et National Post."
+      "sujet": "Accusations de fraude contre Selena Gomez",
+      "fait": "Selena Gomez et sa mère sont accusées par des investisseurs d'avoir trompé les investisseurs de leur startup de santé mentale en donnant une fausse représentation de l'infrastructure et du leadership de l'entreprise. Selon Global News."
     },
     {
-      "sujet": "Cour Ontario pistes cyclables Toronto",
-      "fait": "La Cour d'appel de l'Ontario a autorisé le gouvernement Ford à retirer 19 kilomètres de pistes cyclables protégées à Toronto, renversant une décision de cour inférieure de juillet 2025. Selon CBC."
+      "sujet": "Cyberattaques contre les systèmes d'eau américains",
+      "fait": "Des hackers auraient ciblé et pénétré les systèmes de plusieurs installations d'eau aux États-Unis au cours des dernières semaines, selon des attaques présumément menées par le gouvernement iranien. Selon TechCrunch."
     },
     {
-      "sujet": "Google Play app stores tiers",
-      "fait": "Un juge fédéral américain (James Donato) a ordonné à Google de corriger les frictions anticompétitives dans son processus d'accès aux app stores tiers dans Google Play, accordant une semaine pour les modifications. Selon Ars Technica."
+      "sujet": "Vulnérabilité macOS exploitée activement",
+      "fait": "Une vulnérabilité de gravité élevée (CVE-2026-65400) dans la fonction de partage d'écran macOS permet aux attaquants un contrôle total. Les Pays-Bas ont rapporté des exploitations actives avec installation de mineurs Monero sur plusieurs systèmes. Selon Ars Technica."
     },
     {
-      "sujet": "Ventes de gros Canada juin",
-      "fait": "Les ventes en gros au Canada ont augmenté de 9% en juin par rapport à l'année précédente, tous les secteurs affichant une croissance. Selon Statistique Canada via Global News."
+      "sujet": "Sanctions canadiennes contre l'Iran",
+      "fait": "Le Canada annonce de nouvelles sanctions contre cinq hauts responsables iraniens accusés d'activités obstruant les droits de navigation dans le détroit d'Ormuz. Selon CBC."
     },
     {
-      "sujet": "Éruption volcan Etna Sicile",
-      "fait": "Le volcan Etna en Italie est entré en éruption, fermant l'aéroport de Catane et bloquant des milliers de touristes en Sicile. Selon Radio-Canada."
+      "sujet": "Fermeture de l'application Pocket",
+      "fait": "L'application Pocket ferme ses portes. Les utilisateurs ont jusqu'au 8 octobre 2025 pour exporter leurs articles sauvegardés, listes, archives et favoris. Selon TechCrunch."
     },
     {
-      "sujet": "Apple commission achats externes iOS",
-      "fait": "Apple propose à un juge fédéral américain de lui permettre de prélever des commissions jusqu'à 15% sur les achats effectués via des liens externes dans les apps iOS. Selon TechCrunch."
+      "sujet": "Premier vol du plus grand avion électrique",
+      "fait": "Le premier vol du Heart Aerospace X1, le plus grand avion entièrement électrique au monde, a duré près de 30 minutes et a coûté seulement 5 dollars d'électricité. L'avion pèse plus de 25 000 livres et dispose de quatre moteurs électriques. Selon Ars Technica."
     },
     {
-      "sujet": "Claude Paquin compensation innocence",
-      "fait": "La Ville de Montréal et le gouvernement du Québec acceptent de verser plus de 20 millions à Claude Paquin, condamné à tort pour un double meurtre en 1983 et exonéré l'automne dernier. Selon La Presse."
+      "sujet": "Stellantis envisage fermeture Brampton",
+      "fait": "Stellantis envisage sérieusement la fermeture et la vente de l'usine d'assemblage de Brampton, selon ce que Unifor a rapporté après discussion avec l'entreprise cette semaine. Selon CBC."
     },
     {
-      "sujet": "Cour France loi assistance mourante",
-      "fait": "La cour constitutionnelle française valide la loi sur l'assistance à mourir, marquant une victoire pour le président Macron, mais rejette l'interdiction des réseaux sociaux pour les adolescents. Selon Al Jazeera."
+      "sujet": "Headphones Samsung Galaxy H1",
+      "fait": "Samsung développe des écouteurs supra-auriculaires appelés Galaxy H1, pouvant concurrencer les AirPods Max. Un lancement est possible en 2027, ce qui serait le premier modèle supra-auriculaire de Samsung depuis 2015. Selon The Verge."
+    },
+    {
+      "sujet": "Éruption du volcan Etna en Sicile",
+      "fait": "L'éruption du plus haut volcan actif d'Europe a forcé la fermeture de l'aéroport de Catane en Italie, laissant des milliers de touristes bloqués en Sicile. Selon Radio-Canada."
+    },
+    {
+      "sujet": "Négociations commerciales Canada-États-Unis",
+      "fait": "L'ancien ministre du Commerce international Ed Fast recommande au Canada de chercher un grand accord avec Trump plutôt qu'un simple renouvellement de l'ALÉNA, alors que l'équipe de Trump signale qu'elle préfère des révisions annuelles. Selon National Post."
+    },
+    {
+      "sujet": "Tableaux volés récupérés en Italie",
+      "fait": "La police italienne a récupéré des peintures volées d'une valeur de plus de 10 millions de dollars, dont des œuvres de Cézanne, Renoir et Matisse. Neuf Moldaves font l'objet d'une enquête. Selon Al Jazeera."
     }
   ]
 }
