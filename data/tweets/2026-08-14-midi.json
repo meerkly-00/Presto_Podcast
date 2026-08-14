@@ -1,13 +1,13 @@
 {
   "date": "2026-08-14",
   "kind": "poll",
-  "text": "Ce matin → Des pluies sans précédent au Japon ont tué 6 personnes et laissé 7 000 bloquées à Narita.\n\nMaj : La BBC rapporte 8 morts et plus de 20 000 foyers privés d'électricité.\n\nFace aux phénomènes météorologiques extrêmes croissants, quelles mesures te semblent prioritaires?",
+  "text": "Ce matin → L'Etna entre en éruption en Italie.\n\nNouveauté : L'aéroport de Catane ferme, des milliers de touristes sont\n\nFace aux éruptions volcaniques récurrentes en zones touristiques, faut-il renforcer les plans d'évacuation ou développer les infrastructures d'adaptation?",
   "poll": {
     "options": [
-      "Améliorer les alertes et",
-      "Investir dans les",
-      "Réduire les émissions de",
-      "Combinaison de ces"
+      "Renforcer les plans",
+      "Développer les",
+      "Les deux en parallèle",
+      "Laisser aux autorités"
     ],
     "duration_minutes": 1440
   }
