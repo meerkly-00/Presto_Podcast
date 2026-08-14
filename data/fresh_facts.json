@@ -1,54 +1,42 @@
 {
-  "generated_at": "2026-08-14T14:15:27.245134+00:00",
+  "generated_at": "2026-08-14T16:51:43.714366+00:00",
   "window_hours": 8,
   "faits": [
     {
-      "sujet": "Prix du gaz naturel aux États-Unis",
-      "fait": "Selon TechCrunch, les prix du gaz naturel pourraient tripler dans certaines régions des États-Unis, ce qui pourrait imposer des factures massives aux hyperscalers pour alimenter leurs centres de données IA."
+      "sujet": "Google suppression des filigranes IA",
+      "fait": "Google permet aux utilisateurs de désactiver les filigranes visibles sur les contenus générés par ses outils IA (Gemini et Flow). Les filigranes invisibles SynthID et les métadonnées C2PA resteront intégrés. Selon The Verge et TechCrunch."
     },
     {
-      "sujet": "Reddit intégration S&P 500",
-      "fait": "Selon Reuters, Reddit a augmenté suite à son inclusion dans l'indice S&P 500 et remplacera AvalonBay dans l'indice."
+      "sujet": "Luigi Mangione plainte coupable",
+      "fait": "Luigi Mangione, 28 ans, a plaidé coupable aux accusations fédérales de harcèlement liées au meurtre du PDG d'UnitedHealthcare Brian Thompson à Manhattan. Selon Global News, Radio-Canada et National Post."
     },
     {
-      "sujet": "Tremblement de terre en Colombie",
-      "fait": "Selon Global News, un séisme de magnitude 7,4 a frappé la Colombie le lundi, renversant des immeubles et endomageant des habitations, écoles et hôpitaux, avec des centaines de personnes toujours portées disparues."
+      "sujet": "Cour Ontario pistes cyclables Toronto",
+      "fait": "La Cour d'appel de l'Ontario a autorisé le gouvernement Ford à retirer 19 kilomètres de pistes cyclables protégées à Toronto, renversant une décision de cour inférieure de juillet 2025. Selon CBC."
     },
     {
-      "sujet": "Tarifs américains sur les drones",
-      "fait": "Selon le Wall Street Journal et Le Devoir, Trump a annoncé des droits de douane sur les drones pour encourager la production intérieure et réduire la dépendance aux fournisseurs étrangers."
+      "sujet": "Google Play app stores tiers",
+      "fait": "Un juge fédéral américain (James Donato) a ordonné à Google de corriger les frictions anticompétitives dans son processus d'accès aux app stores tiers dans Google Play, accordant une semaine pour les modifications. Selon Ars Technica."
     },
     {
-      "sujet": "Spyware : publication des données judiciaires",
-      "fait": "Selon TechCrunch, le Bureau administratif des tribunaux américains a annoncé qu'il commencera à divulguer combien de fois les juges ont autorisé l'utilisation de logiciels espions pour espionner des criminels présumés."
+      "sujet": "Ventes de gros Canada juin",
+      "fait": "Les ventes en gros au Canada ont augmenté de 9% en juin par rapport à l'année précédente, tous les secteurs affichant une croissance. Selon Statistique Canada via Global News."
     },
     {
-      "sujet": "Grève imminente au parc Jean-Drapeau",
-      "fait": "Selon La Presse, les 230 salariés du parc Jean-Drapeau, sans augmentation salariale depuis 2023, menacent de faire grève si les négociations avec la Ville de Montréal ne progressent pas."
+      "sujet": "Éruption volcan Etna Sicile",
+      "fait": "Le volcan Etna en Italie est entré en éruption, fermant l'aéroport de Catane et bloquant des milliers de touristes en Sicile. Selon Radio-Canada."
     },
     {
-      "sujet": "Alliance de défense en mer Rouge",
-      "fait": "Selon Al Jazeera, l'Arabie saoudite a annoncé le lancement d'une alliance maritime de défense regroupant treize pays."
+      "sujet": "Apple commission achats externes iOS",
+      "fait": "Apple propose à un juge fédéral américain de lui permettre de prélever des commissions jusqu'à 15% sur les achats effectués via des liens externes dans les apps iOS. Selon TechCrunch."
     },
     {
-      "sujet": "Investissement d'Alphabet dans SpaceX",
-      "fait": "Selon Reuters, la participation d'Alphabet dans SpaceX a augmenté 100 fois en une décennie pour atteindre 94 milliards de dollars."
+      "sujet": "Claude Paquin compensation innocence",
+      "fait": "La Ville de Montréal et le gouvernement du Québec acceptent de verser plus de 20 millions à Claude Paquin, condamné à tort pour un double meurtre en 1983 et exonéré l'automne dernier. Selon La Presse."
     },
     {
-      "sujet": "Condamnation pour utilisation d'IA en cour",
-      "fait": "Selon Radio-Canada, un tribunal québécois a condamné un homme à payer 1000$ pour perte de temps après qu'il ait utilisé de fausses informations générées par IA lors d'une procédure."
-    },
-    {
-      "sujet": "Pluies record au Japon",
-      "fait": "Selon la BBC, des pluies sans précédent au Japon ont tué huit personnes, coupé l'électricité à plus de 20000 foyers et laissé 7000 personnes bloquées à l'aéroport de Narita à Tokyo."
-    },
-    {
-      "sujet": "Éruption du volcan Etna",
-      "fait": "Selon Radio-Canada, l'Etna, le plus haut volcan actif d'Europe, est entré en éruption, fermant l'aéroport de Catane en Italie et bloquant des milliers de touristes en Sicile."
-    },
-    {
-      "sujet": "Robotaxis Uber et Pony.ai en Europe",
-      "fait": "Selon TechCrunch, Uber et Pony.ai prévoient de déployer 2000 robotaxis en Europe, étendant leur partenariat au-delà du marché initial de Zagreb en Croatie à quatre villes européennes supplémentaires."
+      "sujet": "Cour France loi assistance mourante",
+      "fait": "La cour constitutionnelle française valide la loi sur l'assistance à mourir, marquant une victoire pour le président Macron, mais rejette l'interdiction des réseaux sociaux pour les adolescents. Selon Al Jazeera."
     }
   ]
 }
