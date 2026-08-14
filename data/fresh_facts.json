@@ -1,54 +1,50 @@
 {
-  "generated_at": "2026-08-14T19:48:06.711991+00:00",
+  "generated_at": "2026-08-14T22:22:02.886503+00:00",
   "window_hours": 8,
   "faits": [
     {
-      "sujet": "Projet de ballroom à la Maison-Blanche",
-      "fait": "Trump demande à la Cour suprême américaine de suspendre la décision d'une cour d'appel qui exigeait l'autorisation du Congrès pour poursuivre le projet de 400 millions de dollars. Selon Al Jazeera et Global News, le solicitor général de Trump a pétitionné la cour le 14 août 2026."
-    },
-    {
-      "sujet": "Accusations de fraude contre Selena Gomez",
-      "fait": "Selena Gomez et sa mère sont accusées par des investisseurs d'avoir trompé les investisseurs de leur startup de santé mentale en donnant une fausse représentation de l'infrastructure et du leadership de l'entreprise. Selon Global News."
-    },
-    {
-      "sujet": "Cyberattaques contre les systèmes d'eau américains",
-      "fait": "Des hackers auraient ciblé et pénétré les systèmes de plusieurs installations d'eau aux États-Unis au cours des dernières semaines, selon des attaques présumément menées par le gouvernement iranien. Selon TechCrunch."
-    },
-    {
-      "sujet": "Vulnérabilité macOS exploitée activement",
-      "fait": "Une vulnérabilité de gravité élevée (CVE-2026-65400) dans la fonction de partage d'écran macOS permet aux attaquants un contrôle total. Les Pays-Bas ont rapporté des exploitations actives avec installation de mineurs Monero sur plusieurs systèmes. Selon Ars Technica."
-    },
-    {
-      "sujet": "Sanctions canadiennes contre l'Iran",
-      "fait": "Le Canada annonce de nouvelles sanctions contre cinq hauts responsables iraniens accusés d'activités obstruant les droits de navigation dans le détroit d'Ormuz. Selon CBC."
-    },
-    {
-      "sujet": "Fermeture de l'application Pocket",
-      "fait": "L'application Pocket ferme ses portes. Les utilisateurs ont jusqu'au 8 octobre 2025 pour exporter leurs articles sauvegardés, listes, archives et favoris. Selon TechCrunch."
-    },
-    {
-      "sujet": "Premier vol du plus grand avion électrique",
-      "fait": "Le premier vol du Heart Aerospace X1, le plus grand avion entièrement électrique au monde, a duré près de 30 minutes et a coûté seulement 5 dollars d'électricité. L'avion pèse plus de 25 000 livres et dispose de quatre moteurs électriques. Selon Ars Technica."
-    },
-    {
-      "sujet": "Stellantis envisage fermeture Brampton",
-      "fait": "Stellantis envisage sérieusement la fermeture et la vente de l'usine d'assemblage de Brampton, selon ce que Unifor a rapporté après discussion avec l'entreprise cette semaine. Selon CBC."
-    },
-    {
-      "sujet": "Headphones Samsung Galaxy H1",
-      "fait": "Samsung développe des écouteurs supra-auriculaires appelés Galaxy H1, pouvant concurrencer les AirPods Max. Un lancement est possible en 2027, ce qui serait le premier modèle supra-auriculaire de Samsung depuis 2015. Selon The Verge."
-    },
-    {
-      "sujet": "Éruption du volcan Etna en Sicile",
-      "fait": "L'éruption du plus haut volcan actif d'Europe a forcé la fermeture de l'aéroport de Catane en Italie, laissant des milliers de touristes bloqués en Sicile. Selon Radio-Canada."
+      "sujet": "Incendie Quilpituk Creek Canada",
+      "fait": "Tous les ordres d'évacuation ont été révoqués pour l'incendie de forêt Quilpituk Creek au nord de West Kelowna, permettant aux résidents de retourner à domicile vendredi. Selon Global News."
     },
     {
       "sujet": "Négociations commerciales Canada-États-Unis",
-      "fait": "L'ancien ministre du Commerce international Ed Fast recommande au Canada de chercher un grand accord avec Trump plutôt qu'un simple renouvellement de l'ALÉNA, alors que l'équipe de Trump signale qu'elle préfère des révisions annuelles. Selon National Post."
+      "fait": "Ottawa demande aux provinces de se préparer à remettre l'alcool américain en vente dans l'éventualité d'un accord commercial. Des sources indiquent que les divergences restent importantes et qu'il n'y a aucun signe que Trump reporterait les tarifs de 50% prévus mardi. Selon Radio-Canada."
     },
     {
-      "sujet": "Tableaux volés récupérés en Italie",
-      "fait": "La police italienne a récupéré des peintures volées d'une valeur de plus de 10 millions de dollars, dont des œuvres de Cézanne, Renoir et Matisse. Neuf Moldaves font l'objet d'une enquête. Selon Al Jazeera."
+      "sujet": "Droits de douane États-Unis Iran",
+      "fait": "Donald Trump a déclaré qu'il déclarerait bientôt le détroit d'Hormuz un territoire américain et a exhorté les Américains à accepter des prix d'essence légèrement plus élevés. Selon CBC."
+    },
+    {
+      "sujet": "Incendies de forêt Europe",
+      "fait": "Des incendies de forêt alimentés par des températures records ravagent l'Europe, brûlant environ 500 000 hectares et forçant des milliers de personnes à fuir. Selon Al Jazeera."
+    },
+    {
+      "sujet": "Incendie Croatie Omis",
+      "fait": "Des dizaines de personnes ont été blessées et des milliers évacuées lors d'un incendie de forêt près de la ville portuaire d'Omis, décrit comme l'un des pires de l'histoire croate. Selon BBC World."
+    },
+    {
+      "sujet": "Vente usine Stellantis Brampton",
+      "fait": "Le syndicat Unifor rapporte que Stellantis envisage la vente de son usine de Brampton au Canada, bien qu'aucun avis officiel de fermeture n'ait encore été présenté. Selon Radio-Canada."
+    },
+    {
+      "sujet": "Indemnisation condamnation à tort Québec",
+      "fait": "Claude Paquin, condamné à tort pour un double meurtre et acquitté 41 ans plus tard, a conclu un accord multimillionnaire avec Montréal et le gouvernement provincial. Selon CBC."
+    },
+    {
+      "sujet": "Salle de bal Maison-Blanche Trump",
+      "fait": "Le gouvernement Trump a saisi la Cour suprême pour débloquer la construction d'une salle de bal à la Maison-Blanche, le chantier étant achevé à 65%. Une cour d'appel fédérale avait ordonné l'arrêt des travaux, estimant que l'approbation du Congrès était nécessaire. Selon Le Devoir."
+    },
+    {
+      "sujet": "Épidémie Ebola République démocratique Congo",
+      "fait": "La République démocratique du Congo connaît sa 17e épidémie de maladie à virus Ebola depuis mai, avec un décès toutes les 30 minutes selon l'alerte de l'ONU. Selon Radio-Canada."
+    },
+    {
+      "sujet": "Ventes au détail États-Unis juillet",
+      "fait": "Les ventes de détail américaines ont enregistré leur premier déclin en neuf mois en juillet, baissant de manière inattendue et marquée après la fin des remboursements fiscaux d'été. Selon Reuters Business."
+    },
+    {
+      "sujet": "Camions autonomes Californie",
+      "fait": "Aurora Innovation et Kodiak AI ont reçu des permis du Département californien des véhicules à moteur pour tester officiellement des camions autonomes sur les autoroutes de Californie. Selon TechCrunch."
     }
   ]
 }
