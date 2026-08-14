@@ -1,0 +1,73 @@
+```xml
+<script>
+  <intro>Bonjour, on est le vendredi quatorze août deux mille vingt-six. Voici votre Presto en environ quinze minutes. Au menu : l'entente Québec-Terre-Neuve-et-Labrador sur Churchill Falls, la situation au Moyen-Orient, l'élection britannique de Nigel Farage, les marchés qui frôlent des sommets, et un survol de la tech.</intro>
+
+  <chapitre titre="Actualité québécoise">
+    On commence par une nouvelle qui se précise depuis quelques jours. Selon Radio-Canada, la nouvelle entente de Churchill Falls entre le Québec et Terre-Neuve-et-Labrador prévoit une hausse de quarante pour cent de l'électricité livrée au Québec. Radio-Canada a obtenu des détails de cet accord qui décuple la capacité de production combinée des deux provinces.
+
+    Toujours au Québec, un tribunal a rendu une décision qui illustre les défis posés par l'intelligence artificielle dans le système judiciaire. Selon Radio-Canada, un homme a été condamné à payer mille dollars pour avoir utilisé en cour de fausses informations générées par l'IA, une somme qui vise à compenser la perte de temps occasionnée par cet épisode.
+
+    Du côté environnemental, la secrétaire d'État fédérale à la Nature, Nathalie Provost, a commenté la tension entre les politiques pétrolières et environnementales du gouvernement. Selon Radio-Canada, je le cite : "On a à trouver de la cohérence." Fin de citation. Elle reconnaît que son gouvernement doit réconcilier ces deux objectifs.
+
+    Enfin, La Presse note que l'environnement risque de tenir peu de place dans la prochaine campagne électorale québécoise, un enjeu que les partis semblent aborder avec prudence.
+  </chapitre>
+
+  <chapitre titre="International">
+    Au Royaume-Uni, le chef de Reform UK, Nigel Farage, a été réélu au terme d'une élection partielle largement moquée dans la circonscription de Clacton. Selon CBC, il a battu un candidat humoristique costumé en poubelle, du nom de Count Binface, reprenant ainsi le siège qu'il avait quitté un mois plus tôt pour déclencher ce scrutin. Cette élection avait été appelée après sa démission au milieu d'un examen de ses finances personnelles. Selon l'Economist, cette victoire ne règle toutefois aucune de ses difficultés politiques ou financières.
+
+    Au Moyen-Orient, les États-Unis maintiennent la pression sur l'Iran. Selon CBC, Washington a signalé qu'il pouvait maintenir indéfiniment un blocus naval contre l'Iran et qu'il compte accentuer la pression économique sur Téhéran, alors que les pourparlers de cessez-le-feu piétinent et que l'approvisionnement pétrolier mondial diminue. Selon Reuters, le prix du pétrole a progressé après que les États-Unis ont menacé d'un blocus indéfini, une hausse qui s'inscrit dans un gain hebdomadaire.
+
+    En Cisjordanie, selon la BBC, le maire de Qusra rapporte que des soldats israéliens ont demandé à des familles palestiniennes de quitter leurs maisons, certaines résidences étant utilisées comme casernes, dans un contexte où des colons israéliens assiègent le village.
+
+    En Ukraine, selon Al Jazeera, la Russie affirme avoir frappé des installations ferroviaires et portuaires ukrainiennes dans de nouvelles attaques, tandis que Kyiv a ciblé un terminal pétrolier balte et un entrepôt près de Moscou avec des drones.
+
+    Au Japon, selon la BBC, des pluies qualifiées par les autorités de sans précédent ont fait six morts. La tempête a coupé l'électricité à plus de vingt mille foyers et laissé sept mille personnes bloquées à l'aéroport de Narita, à Tokyo.
+
+    En Allemagne, selon Reuters, environ deux mille personnes ont été évacuées alors qu'un feu de forêt atteignait un village de l'ouest du pays.
+  </chapitre>
+
+  <chapitre titre="Politique canadienne">
+    Un dossier économique à surveiller touche la souveraineté numérique canadienne. Selon CBC, la Banque Royale du Canada et la Banque de Montréal vendent le processeur de paiements Moneris Solutions à la firme d'investissement américaine Francisco Partners, basée à San Francisco. Des analystes soulèvent des questions sur ce que cette transaction signifie pour la souveraineté numérique du Canada, dans le contexte de la guerre commerciale du pays avec les États-Unis.
+
+    Par ailleurs, selon CBC, une douzaine d'étudiants internationaux ayant participé à une manifestation de plusieurs semaines à Calgary ont été signalés comme potentiellement inadmissibles par l'Agence des services frontaliers du Canada. Selon un avocat en immigration, ces personnes pourraient être forcées de quitter le pays.
+
+    En Colombie-Britannique, selon le National Post, un maire de l'Intérieur sud de la province demande à Ottawa d'aider à maintenir ouvertes les urgences hospitalières, alors que pompiers et évacués composent avec des feux de forêt à proximité.
+
+    Toujours en Colombie-Britannique, selon CBC, l'abattage d'un jeune grizzly blessé à Nelson a provoqué un rassemblement de citoyens dans la communauté.
+  </chapitre>
+
+  <chapitre titre="Économie et marchés">
+    On passe à l'économie. Aux États-Unis, selon Reuters, les actions s'approchent de sommets records, la modération de l'inflation américaine éclipsant la remontée des prix du pétrole. Le Wall Street Journal rapporte que les marchés ont atteint de nouveaux sommets grâce à ce répit sur le front de l'inflation. Selon Reuters également, l'indice S&P 500 a clôturé à un niveau record, les inquiétudes entourant une hausse des taux s'atténuant.
+
+    Du côté obligataire, selon le Financial Times, les États-Unis ont vendu des obligations à trente ans aux coûts d'emprunt les plus élevés depuis deux mille un.
+
+    Sur le commerce international, le président américain Donald Trump a annoncé de nouveaux tarifs douaniers. Selon le Wall Street Journal, il a décrété des tarifs sur les drones afin de renforcer les chaînes d'approvisionnement américaines et de contrer la Chine. Selon The Verge, ce tarif atteint cent pour cent sur les importations de drones équipés de caméras thermiques, ainsi que sur les drones de plus de vingt-cinq kilogrammes et leurs pièces. Par ailleurs, selon la BBC, un rapport américain affirme que des dizaines de pays ont aidé la Chine à contourner les tarifs douaniers de Trump en acheminant des marchandises par des nations à tarifs plus faibles. Selon Reuters, la Maison-Blanche évalue entre dix-neuf et vingt-six milliards de dollars les pertes tarifaires liées à ce transbordement de marchandises.
+
+    En Suisse, selon Bloomberg, l'économie helvétique a progressé bien au-delà des prévisions, portée notamment par le secteur pharmaceutique.
+
+    Ailleurs sur les marchés, selon Bloomberg, les fabricants asiatiques de puces mémoire ont vu leurs actions grimper après que les perspectives de Sandisk ont renforcé la confiance des investisseurs. Selon le Financial Times, l'engouement pour l'intelligence artificielle propulse les valorisations technologiques chinoises à des multiples largement supérieurs à ceux de leurs homologues américains. Et selon Reuters, une hausse des rendements obligataires alimentée par l'intelligence artificielle pourrait constituer le prochain risque pour les marchés et la croissance économique.
+  </chapitre>
+
+  <chapitre titre="Tech">
+    Un mot sur la tech. Selon The Verge, qui cite Reuters, Apple aurait entraîné un modèle d'intelligence artificielle sur mesure pour le marché chinois, en partenariat avec le géant technologique local Alibaba. Ce partenariat transfrontalier survient dans un contexte de tensions croissantes entre Pékin et Washington, et marque un changement de stratégie pour Apple dans ce marché.
+
+    Toujours chez Apple, selon The Verge, l'entreprise et Epic Games s'affrontent devant les tribunaux sur la question des frais qu'Apple pourrait prélever sur les achats numériques effectués via des liens externes à l'App Store. Epic soutient que la demande d'Apple dépasse largement les balises fixées par la cour.
+
+    Sur un autre front, selon TechCrunch, Apple envoie désormais des notifications push aux utilisateurs d'iPhone lorsque l'entreprise détecte des attaques de logiciels espions gouvernementaux ciblant leurs appareils.
+
+    Du côté de la sécurité, selon Ars Technica, l'administration Trump a autorisé des entreprises de sécurité privées à mener des cyberopérations, incluant des piratages, contre des organisations criminelles étrangères qui ciblent des personnes, organisations ou entités gouvernementales américaines. Un mémorandum présidentiel confie la supervision de ce programme aux départements de la Justice et de la Sécurité intérieure.
+
+    Enfin, selon TechCrunch, l'entreprise de surveillance Flock rend obligatoire pour tous ses clients un nouvel outil nommé Audit Assistance, censé aider à détecter les abus policiers, sans toutefois avoir expliqué en détail son fonctionnement.
+  </chapitre>
+
+  <chapitre titre="Sport">
+    Rapidement en sport. À Toronto, selon Al Jazeera, la joueuse de tennis Iga Swiatek a remporté le titre du National Bank Open en battant Elena Rybakina. Selon Sportsnet, Swiatek a répondu à ses critiques après cette victoire, sa première de la saison deux mille vingt-six.
+
+    Du côté du baseball, selon Sportsnet, les Blue Jays ont subi un revers de sept à zéro face aux Red Sox de Boston jeudi, ce qui freine leur élan dans la course aux séries éliminatoires. L'équipe avait toutefois signé trois victoires contre Boston au cours de la même série, un point de départ jugé important pour la suite.
+
+    En football canadien, selon Global News, les Lions de la Colombie-Britannique ont battu les Stampeders de Calgary par la marque de trente à vingt-six, signant une troisième victoire consécutive.
+  </chapitre>
+
+  <outro>Voilà pour ce Presto du vendredi quatorze août deux mille vingt-six. Si ce briefing vous est utile, le meilleur coup de main que vous pouvez nous donner, c'est de le partager à une personne qui aime rester informée. Et selon votre plateforme : un abonnement sur Spotify ou Apple Podcasts, un pouce bleu et un abonnement sur YouTube, ça prend deux secondes et ça aide vraiment Presto à grandir. Sur ce, bonne journée, et à demain.</outro>
+</script>
+```
