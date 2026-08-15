@@ -1,50 +1,50 @@
 {
-  "generated_at": "2026-08-15T16:22:51.372935+00:00",
+  "generated_at": "2026-08-15T19:20:45.928745+00:00",
   "window_hours": 8,
   "faits": [
     {
-      "sujet": "Iran et Oman négocient détroit d'Ormuz",
-      "fait": "L'Iran et Oman se rapprochent d'un accord sur la gestion du détroit d'Ormuz, en convenant de routes à travers cette voie navigable stratégique, après six mois de guerre entre l'Iran et les États-Unis. Selon National Post."
+      "sujet": "Archidiocèse de Québec - règlement abus",
+      "fait": "Une juge de la Cour supérieure a approuvé un accord de 31,5 millions en faveur des victimes d'agressions sexuelles dans un recours collectif contre l'archidiocèse de Québec. Selon La Presse, cet accord a été annoncé samedi par un cabinet d'avocats montréalais."
     },
     {
-      "sujet": "Ukraine frappe usine de roquettes russe",
-      "fait": "L'Ukraine a frappé le centre Progress Rocket Space Center à Samara en Russie avec des missiles de croisière Flamingo, détruisant une installation clé impliquée dans la production d'électronique et l'assemblage de fusées Soyuz. Selon Ars Technica et Al Jazeera."
+      "sujet": "Expansion du port de Montréal",
+      "fait": "Des travailleurs ont commencé la construction d'une jetée en pierre dans le fleuve à Contrecoeur, en aval de Montréal, suite aux travaux préparatoires du site d'expansion. Selon Global News, ce projet constitue un effort de « nation-building »."
     },
     {
-      "sujet": "Séisme en Indonésie : au moins 47 morts",
-      "fait": "Un séisme de magnitude 7,7 a frappé les côtes de l'Indonésie, tuant au moins 47 personnes et entraînant des opérations de recherche et sauvetage à Flores. Selon BBC World et Radio-Canada."
+      "sujet": "Acquisition de Cursor par SpaceX",
+      "fait": "SpaceX a officiellement fermé l'acquisition de la startup de codage IA Cursor. Selon TechCrunch, Cursor est maintenant officiellement une partie de SpaceX."
     },
     {
-      "sujet": "Frappes israéliennes en Liban : 11 morts",
-      "fait": "Les frappes aériennes israéliennes sur le sud du Liban ont tué au moins 11 personnes, constituant parmi les attaques les plus meurtrières depuis la trêve précaire entre Israël et le Hezbollah en juin. Selon BBC World et CBC."
+      "sujet": "Séisme en Indonésie",
+      "fait": "Un séisme de magnitude 7,7 s'est produit au large des côtes de l'Indonésie, tuant au moins 47 personnes, dont plus de 40 sur l'île de Flores. Selon Associated Press et BBC World, la catastrophe a endommagé de nombreux bâtiments."
     },
     {
-      "sujet": "Corée du Sud propose négociations fin guerre",
-      "fait": "La Corée du Sud propose des pourparlers pour mettre officiellement fin au conflit avec la Corée du Nord, figé depuis l'armistice de 1953. Selon BBC World."
+      "sujet": "Tempête tropicale Lala à Hawaii",
+      "fait": "La tempête tropicale Lala frappe l'île Big Island d'Hawaii avec pluie et vent, avec des prévisions indiquant qu'elle pourrait se renforcer en ouragan ou apporter des vents de force ouragan. Selon CBC, cela se produit en début de samedi."
     },
     {
-      "sujet": "Évacués incendies Colombie-Britannique retour",
-      "fait": "Les résidents de la Colombie-Britannique retournent à leur domicile samedi suite aux incendies de forêt et sont avisés de prendre des précautions incluant la décontamination des réfrigérateurs et l'évaluation des dommages aux arbres et propriétés. Selon Global News."
+      "sujet": "Incendie de forêt en Belgique",
+      "fait": "Un feu déclaré vendredi a brûlé plus de 2000 hectares en Belgique, ce qui constitue l'un des pires incendies de l'histoire du pays. Selon Le Devoir, la situation demeure active."
+    },
+    {
+      "sujet": "Négociations Iran-Oman détroit d'Ormuz",
+      "fait": "L'Iran et Oman s'approchent d'un accord sur la gestion du détroit d'Ormuz, en convenant de routes à travers cette voie navigable clé. Selon National Post, cet accord intervient alors que les attaques contre les navires se multiplient."
+    },
+    {
+      "sujet": "Ukraine frappe usine russe de fusées",
+      "fait": "L'Ukraine a frappé le centre Progress Rocket Space Center dans la région de Samara avec des missiles de croisière lancés depuis le sol. Selon Ars Technica, le président Zelenskyy a confirmé l'attaque utilisant des missiles Flamingo."
     },
     {
       "sujet": "Rappel de médicament Teva-Pregabalin",
-      "fait": "Deux lots de capsules de Teva-Pregabalin 150 mg font l'objet d'un rappel en raison d'une contamination croisée par la sertraline. Selon Les Affaires."
+      "fait": "Deux lots de capsules de Teva-Pregabalin 150 mg font l'objet d'un rappel en raison d'une contamination croisée par la sertraline. Selon Les Affaires, il s'agit d'un avis public de sécurité."
     },
     {
-      "sujet": "Fusillade université Virginia State : 5 blessés",
-      "fait": "Une fusillade impliquant plusieurs suspects à Virginia State University a entraîné une fermeture du campus, avec 5 personnes blessées et une en état critique. Selon Associated Press et CBC."
+      "sujet": "Manifestation contre Stablex à Blainville",
+      "fait": "Une centaine de citoyens se rassemblent à Blainville pour protester contre Stablex et son projet d'une sixième cellule d'enfouissement. Selon Le Devoir et La Presse, la manifestation s'est déroulée à la Place des Spectacles samedi."
     },
     {
-      "sujet": "Jeunes libéraux congrès Québec élections",
-      "fait": "Le Parti libéral du Québec tient son 44e Congrès-Jeunes à Saint-Lambert avec environ 400 jeunes et 80 candidats pour préparer la prochaine campagne électorale. Selon Le Devoir et La Presse."
-    },
-    {
-      "sujet": "Réforme fiscale Canada petites entreprises",
-      "fait": "Le gouvernement libéral du premier ministre Mark Carney a apporté plusieurs changements au système fiscal canadien au cours de la première année de son mandat. Selon Global News."
-    },
-    {
-      "sujet": "Moneris acquise par américains données",
-      "fait": "Moneris, qui traite environ un tiers des transactions effectuées au Canada, passe aux mains d'investisseurs américains. Selon Radio-Canada."
+      "sujet": "Congrès aile jeunesse PLQ",
+      "fait": "Charles Milliard, chef du Parti libéral du Québec, a présenté son programme à l'aile jeunesse, promettant états généraux en éducation dans 100 jours et création d'un ministère de la Jeunesse. Selon La Presse et Le Devoir, ces annonces ont été acclamées samedi lors du congrès."
     }
   ]
 }
