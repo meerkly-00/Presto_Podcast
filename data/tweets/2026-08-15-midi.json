@@ -1,13 +1,13 @@
 {
   "date": "2026-08-15",
   "kind": "poll",
-  "text": "Ce matin → Séisme de magnitude 7,7 en Indonésie.\n\nMise à jour : Au moins 38 personnes ont été tuées à Flores, en Indonésie orientale. Les équipes de secours poursuivent leurs opérations.\n\nComment ton gouvernement devrait-il soutenir les zones sinistrées?",
+  "text": "Ce matin → Séisme de magnitude 7,7 en Indonésie.\n\nMaj : Au moins 38 personnes ont été tuées à Flores, en Indonésie orientale.\n\nComment devraient être utilisées les ressources internationales d'aide aux victimes de catastrophes naturelles?",
   "poll": {
     "options": [
-      "Aide humanitaire directe",
-      "Soutien aux recherches",
-      "Assistance aux",
-      "Coordination"
+      "Priorité aux besoins",
+      "Équilibre entre urgence",
+      "Focus sur prévention à",
+      "Selon capacités de"
     ],
     "duration_minutes": 1440
   }
