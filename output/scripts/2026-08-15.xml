@@ -1,0 +1,83 @@
+# Presto
+
+```xml
+<script>
+  <intro>Bonjour, on est le samedi quinze août deux mille vingt-six. Voici votre Presto en environ quinze minutes. Au menu : le séisme meurtrier en Indonésie, l'intensification des frappes israéliennes au Liban, les négociations commerciales entre le Canada et les États-Unis, les marchés secoués par des révélations financières, et un mot sur la tech et le sport.</languages>
+
+  <chapitre titre="International">
+On commence par un événement majeur survenu cette nuit. Un séisme de magnitude sept virgule sept a frappé au large de l'île de Florès, dans l'est de l'Indonésie, tôt samedi matin. Selon la BBC, l'événement a fait au moins quatorze morts. Radio-Canada, citant des bilans plus récents, avance un nombre d'au moins vingt morts. Le séisme a endommagé des bâtiments et des résidences et a déclenché une alerte au tsunami, selon CBC. Les autorités ont demandé aux populations des côtes touchées de se déplacer vers les hauteurs. Radio-Canada rappelle qu'un séisme de magnitude six virgule deux avait déjà frappé la même région est de l'archipel indonésien au début du mois de juillet.
+
+On reste à l'international, où la situation continue de se détériorer au Moyen-Orient. Selon Al Jazeera, une frappe israélienne a tué sept personnes dans le sud du Liban, dans ce que le média qualifie de l'attaque la plus meurtrière depuis les accords de juin dernier qui avaient significativement réduit les hostilités. Toujours selon Al Jazeera, des forces israéliennes ont fait irruption dans une salle de mariage à Al-Eizariya, en Cisjordanie occupée, et ont agressé des invités palestiniens présents sur les lieux. Par ailleurs, Al Jazeera publie une analyse selon laquelle une intervention syrienne contre le Hezbollah au Liban serait trop coûteuse politiquement pour Damas, malgré les pressions exercées par Washington en ce sens.
+
+Du côté des États-Unis, le président Donald Trump a affirmé qu'il allait bientôt déclarer le détroit d'Ormuz comme étant, je le cite, "a US territory". Fin de citation. Selon Radio-Canada, un haut responsable de la Maison-Blanche a par la suite précisé que le président plaisantait. Selon CBC, Trump a aussi demandé aux Américains d'accepter une légère hausse des prix de l'essence comme prix à payer pour empêcher l'Iran d'obtenir l'arme nucléaire. Toujours selon Reuters, le président a déclaré que le déploiement du porte-avions USS Abraham Lincoln n'avait pas été assez long, et l'Associated Press rapporte qu'un nouveau porte-avions se dirige vers le Moyen-Orient après des signalements de problèmes sur ce navire déjà déployé depuis longtemps.
+
+Toujours à Washington, selon National Post, la stratégie américaine envers Cuba délaisserait l'option militaire pour miser davantage sur les sanctions et la pression économique afin d'affaiblir le gouvernement communiste de l'île, selon des personnes au fait du dossier citées par le quotidien.
+
+Au Royaume-Uni, un développement judiciaire à suivre : selon la BBC, les avocats de la BBC cherchent à assigner à comparaître des membres de la famille de Donald Trump dans le cadre du procès intenté contre la chaîne concernant l'émission Panorama, plaidant que ces proches auraient une connaissance personnelle des intentions du président lors du discours qu'il a prononcé devant le Capitole le six janvier deux mille vingt et un.
+
+Un mot sur une affaire judiciaire qui a marqué les États-Unis cette semaine. Selon CBC, Luigi Mangione a plaidé coupable à deux chefs d'accusation fédéraux liés à la traque avec intention de tuer du dirigeant d'assurance-santé Brian Thompson. Selon la BBC, il a admis en cour, je le cite : "I shot Mr Thompson." Fin de citation. Il s'agit de la première fois qu'un tribunal entend Mangione décrire lui-même comment le crime a été commis.
+
+Enfin, un fait divers triste à souligner. Selon CBC, un sociologue britannique, Jason Arday, ancien professeur à l'Université Cambridge, a été retrouvé mort vendredi, quelques semaines après avoir démissionné à la suite d'accusations publiques de plagiat et d'un examen médiatique soutenu. Selon la BBC, sa famille dit être, je le cite, "in shock". Fin de citation. Elle évoque une campagne de désinformation qu'elle juge être allée trop loin.
+  </chapitre>
+
+  <chapitre titre="Politique canadienne">
+Au pays, le dossier commercial avec Washington reste au cœur de l'actualité, à quelques jours de l'entrée en vigueur de nouveaux droits de douane de cinquante pour cent sur une multitude de produits canadiens. Selon Radio-Canada, qui cite des sources de CBC, Ottawa a demandé aux provinces et territoires de se tenir prêts à remettre l'alcool américain sur les tablettes, dans l'éventualité d'un accord avec les États-Unis. Un tel accord demeure toutefois loin, selon des sources bien informées de la rencontre entre le ministre responsable du Commerce Canada-États-Unis, Dominic LeBlanc, et ses homologues provinciaux. Des divergences importantes subsistent entre les deux parties.
+
+Le ministre de l'Économie du Québec, Bernard Drainville, a lui aussi affirmé que le Canada et les États-Unis restent assez loin d'une entente. Pour le moment, dit-il, rien n'indique que Donald Trump pourrait reporter l'application des tarifs de cinquante pour cent prévue mardi prochain. Ottawa a également fait savoir aux provinces qu'en échange d'une diminution importante des droits de douane sectoriels, le Canada devrait céder sur certains irritants soulevés par l'administration Trump, notamment les droits de douane sur le secteur automobile et le retrait de l'alcool américain des tablettes.
+
+Selon Les Affaires, plusieurs entreprises parient tout de même que Trump reculera sur sa menace de nouveaux tarifs.
+
+Dans l'industrie automobile, selon Reuters, qui cite le syndicat des travailleurs de l'automobile, Stellantis envisagerait la vente de son usine canadienne.
+
+Du côté judiciaire, selon Radio-Canada, une coalition d'une trentaine d'États américains réclame près de deux cents milliards de dollars à Meta dans un procès portant sur l'addiction des enfants aux réseaux sociaux. L'affaire remonte à une plainte déposée en deux mille vingt-trois.
+
+En Alberta, selon Global News, la famille d'une adolescente poursuit le gouvernement après avoir déboursé près de deux cent mille dollars pour une chirurgie contre la scoliose aux États-Unis, plaidant que les délais du système de santé public ont violé les droits constitutionnels de la jeune fille.
+
+En Colombie-Britannique, selon Global News, un nouveau procès a été ordonné pour un homme de quarante-cinq ans condamné pour avoir tué l'animal de compagnie de son ex-conjointe, un chihuahua. Il avait été condamné à quatre mois de prison en février deux mille vingt-cinq.
+  </chapitre>
+
+  <chapitre titre="Économie et marchés">
+On passe à l'économie, où plusieurs révélations financières majeures ont marqué la fin de semaine. Selon le Financial Times, confirmé par Reuters, la firme de trading Jane Street aurait subi une perte de quinze milliards de dollars américains en juillet, liée à l'effondrement de la firme Situational Awareness dans un contexte de correction du secteur de l'intelligence artificielle.
+
+Toujours dans les marchés, selon Reuters, Alphabet, la maison mère de Google, est devenue le troisième plus important placement du conglomérat Berkshire Hathaway, dirigé par Warren Buffett.
+
+Du côté de Nvidia, selon le Financial Times, l'entreprise a dévoilé une participation de vingt et un milliards de dollars américains dans SpaceX, l'entreprise spatiale d'Elon Musk. Par ailleurs, selon Reuters, qui cite le Wall Street Journal, Nvidia réduirait la garantie de financement qu'elle avait offerte pour un centre de données d'OpenAI en Ohio.
+
+Aux États-Unis, l'économie envoie des signaux mitigés. Selon Reuters, les ventes au détail américaines ont reculé en juillet, une première en neuf mois. Le Wall Street Journal note que les rendements obligataires et les prix du pétrole sont en hausse, ce qui alimente des inquiétudes du côté des consommateurs. Malgré cela, Bloomberg rapporte que les contrats à terme sur actions américaines étaient en hausse vendredi, portés par de bons résultats d'entreprises et des données jugées favorables.
+
+Sur le plan politique économique, selon le Financial Times, les Américains se montrent de plus en plus critiques envers l'économie de Donald Trump, alors que les pressions sur le coût de la vie s'intensifient. Bloomberg va dans le même sens et rapporte que le message du président sur une, je le cite, "Golden Age" de l'économie, fin de citation, peine à convaincre les électeurs à l'approche des élections de mi-mandat. Le gouvernement, de son côté, met de l'avant sa politique commerciale : selon le Wall Street Journal, la Maison-Blanche a annoncé de nouveaux tarifs sur les drones destinés à renforcer les chaînes d'approvisionnement américaines et à contrer la Chine. Le Wall Street Journal rapporte aussi que la Maison-Blanche affirme que la Chine évite des milliards de dollars en tarifs en redirigeant ses marchandises via d'autres pays. L'opposition démocrate n'est pas mentionnée dans les sources du jour sur ce dossier spécifique.
+
+En Iran, selon Bloomberg, la population peine à se procurer de la nourriture de base alors que les sanctions américaines continuent de peser sur l'économie du pays.
+
+Ailleurs dans le monde, selon le Financial Times, l'économie suisse a connu sa plus forte croissance depuis deux mille vingt et un.
+
+Du côté des entreprises technologiques, selon TechCrunch, les discussions en vue d'une vente de PayPal à Stripe et à la firme de capital-investissement Advent s'intensifieraient, alors que la nouvelle direction de l'entreprise cherche à redresser la société.
+
+En bourse québécoise, selon Les Affaires, la Sun Life a annoncé un droit de conversion pour deux catégories d'actions privilégiées.
+  </chapitre>
+
+  <chapitre titre="Tech">
+Un mot sur la tech. Selon Ars Technica, une vulnérabilité de sécurité de haute gravité touchant macOS serait activement exploitée par des attaquants qui obtiennent ainsi un contrôle complet des appareils Mac touchés. Les autorités néerlandaises en cybersécurité ont signalé des abus observés sur plusieurs systèmes accessibles par Internet, où des accès root ont permis d'installer un logiciel de minage de la cryptomonnaie Monero. Apple a publié un correctif la semaine dernière pour les systèmes Tahoe, Sequoia et Sonoma.
+
+Toujours en cybersécurité, selon TechCrunch, des pirates informatiques auraient ciblé et infiltré les systèmes de plusieurs usines de traitement d'eau aux États-Unis au cours des dernières semaines, une vague d'attaques attribuée au gouvernement iranien.
+
+Du côté de l'intelligence artificielle, selon TechCrunch, Joshua Kushner, de la firme Thrive Capital, a averti les investisseurs en capital de risque de la Silicon Valley contre l'euphorie entourant l'intelligence artificielle. Dans sa toute première lettre aux investisseurs, il écrit que l'occasion est immense, mais que ce serait, je le cite, "a grave error" de laisser l'enthousiasme affaiblir la discipline d'investissement. Fin de citation.
+
+En transport autonome, selon TechCrunch, les entreprises Aurora Innovation et Kodiak AI ont reçu les permis nécessaires du département des véhicules motorisés de la Californie pour tester officiellement des camions autonomes sur les autoroutes de l'État.
+
+En aviation électrique, selon Ars Technica, le plus grand avion entièrement électrique jamais construit a effectué son premier vol d'essai, d'une durée de près d'une demi-heure, pour un coût électrique d'environ cinq dollars américains. L'appareil, fabriqué par Heart Aerospace, a volé à l'aéroport international de Plattsburgh, dans l'État de New York.
+
+Dans le domaine juridique, selon Ars Technica, un juge du Connecticut a identifié ce qui semble être le premier cas américain où un plaignant a tenté de dissimuler du texte invisible destiné à manipuler un système d'intelligence artificielle dans des documents de cour, afin d'influencer l'issue de son propre procès.
+
+Enfin, selon Ars Technica, un juge de l'État de Washington a ordonné à la plateforme de paris Kalshi de cesser d'offrir des paris sportifs et une variété d'autres mises dans l'État, la firme n'étant pas autorisée par la commission des jeux de l'État à y faire affaire.
+  </chapitre>
+
+  <chapitre titre="Sport">
+Rapidement en sport. À Toronto, selon CBC, le joueur des Blue Jays Vladimir Guerrero fils a quitté la partie contre les Yankees de New York vendredi soir après une collision survenue lors d'un jeu chaotique au troisième but, impliquant l'arrêt-court recrue des Yankees, George Lombard fils. Il a été évalué pour une possible commotion cérébrale. Selon Sportsnet, malgré cet incident, les Blue Jays continuent de miser sur leur contact et leur pression défensive plutôt que sur la puissance pour rester dans la course aux séries éliminatoires.
+
+En arts martiaux mixtes, selon Sportsnet, l'événement UFC trois cent trente se déroule samedi à Philadelphie, un événement numéroté qui marque le retour de la ville comme hôte pour la première fois depuis l'UFC cent trente-trois.
+  </chapitre>
+
+  <outro>Voilà pour ce Presto du samedi quinze août deux mille vingt-six. Si ce briefing vous est utile, le meilleur coup de main que vous pouvez nous donner, c'est de le partager à une personne qui aime rester informée. Et selon votre plateforme : un abonnement sur Spotify ou Apple Podcasts, un pouce bleu et un abonnement sur YouTube, ça prend deux secondes et ça aide vraiment Presto à grandir. Sur ce, bonne journée, et à demain.</outro>
+</script>
+```
