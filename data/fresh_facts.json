@@ -1,54 +1,50 @@
 {
-  "generated_at": "2026-08-15T13:29:35.385527+00:00",
+  "generated_at": "2026-08-15T16:22:51.372935+00:00",
   "window_hours": 8,
   "faits": [
     {
-      "sujet": "Financement des startups de fusion",
-      "fait": "Les startups de fusion ont levé 7,1 milliards de dollars à ce jour, la majorité allant à un petit nombre d'entreprises. Selon TechCrunch."
+      "sujet": "Iran et Oman négocient détroit d'Ormuz",
+      "fait": "L'Iran et Oman se rapprochent d'un accord sur la gestion du détroit d'Ormuz, en convenant de routes à travers cette voie navigable stratégique, après six mois de guerre entre l'Iran et les États-Unis. Selon National Post."
     },
     {
-      "sujet": "Séisme en Indonésie",
-      "fait": "Un séisme de magnitude 7,7 a tué au moins 38 personnes à Flores, en Indonésie orientale. Selon BBC World et CBC."
+      "sujet": "Ukraine frappe usine de roquettes russe",
+      "fait": "L'Ukraine a frappé le centre Progress Rocket Space Center à Samara en Russie avec des missiles de croisière Flamingo, détruisant une installation clé impliquée dans la production d'électronique et l'assemblage de fusées Soyuz. Selon Ars Technica et Al Jazeera."
     },
     {
-      "sujet": "Fusillades à Virginia State University",
-      "fait": "Une fusillade impliquant plusieurs tireurs a fait 5 blessés sur le campus de Virginia State University. Une personne est en condition critique. Selon CBC et Al Jazeera."
+      "sujet": "Séisme en Indonésie : au moins 47 morts",
+      "fait": "Un séisme de magnitude 7,7 a frappé les côtes de l'Indonésie, tuant au moins 47 personnes et entraînant des opérations de recherche et sauvetage à Flores. Selon BBC World et Radio-Canada."
     },
     {
-      "sujet": "Frappes israéliennes au Liban",
-      "fait": "Des frappes israéliennes ont tué au moins 9 personnes en Liban sud. Israël a déclaré avoir frappé de l'infrastructure terroriste du Hezbollah. Selon BBC World."
+      "sujet": "Frappes israéliennes en Liban : 11 morts",
+      "fait": "Les frappes aériennes israéliennes sur le sud du Liban ont tué au moins 11 personnes, constituant parmi les attaques les plus meurtrières depuis la trêve précaire entre Israël et le Hezbollah en juin. Selon BBC World et CBC."
     },
     {
-      "sujet": "Tarifs commerciaux États-Unis Canada",
-      "fait": "Le sénateur américain Chuck Grassley a déclaré que la menace de tarifs de Trump sur les biens canadiens devrait servir de mise en garde au Canada. Selon Global News."
+      "sujet": "Corée du Sud propose négociations fin guerre",
+      "fait": "La Corée du Sud propose des pourparlers pour mettre officiellement fin au conflit avec la Corée du Nord, figé depuis l'armistice de 1953. Selon BBC World."
     },
     {
-      "sujet": "Tempête tropicale Lala Hawaii",
-      "fait": "La tempête tropicale Lala fouette l'île Big Hawaii avec des pluies et des vents et devrait se renforcer en ouragan. Selon Global News."
+      "sujet": "Évacués incendies Colombie-Britannique retour",
+      "fait": "Les résidents de la Colombie-Britannique retournent à leur domicile samedi suite aux incendies de forêt et sont avisés de prendre des précautions incluant la décontamination des réfrigérateurs et l'évaluation des dommages aux arbres et propriétés. Selon Global News."
     },
     {
-      "sujet": "Professeur Cambridge décès",
-      "fait": "Le Dr Jason Arday, professeur noir au centre d'une controverse de plagiat à Cambridge, a été retrouvé mort quelques jours après sa démission. Selon Al Jazeera."
+      "sujet": "Rappel de médicament Teva-Pregabalin",
+      "fait": "Deux lots de capsules de Teva-Pregabalin 150 mg font l'objet d'un rappel en raison d'une contamination croisée par la sertraline. Selon Les Affaires."
     },
     {
-      "sujet": "Énergie renouvelable États-Unis",
-      "fait": "368 centrales électriques de service public ont commencé leurs opérations de janvier à juin 2026, dominées par l'énergie solaire. Les parcs éoliens SunZia Wind (3 650 mégawatts) sont les plus grands du pays. Selon Ars Technica."
+      "sujet": "Fusillade université Virginia State : 5 blessés",
+      "fait": "Une fusillade impliquant plusieurs suspects à Virginia State University a entraîné une fermeture du campus, avec 5 personnes blessées et une en état critique. Selon Associated Press et CBC."
     },
     {
-      "sujet": "Incendies de forêt Colombie-Britannique",
-      "fait": "Des centaines de structures ont été perdues dans les incendies de forêt en Colombie-Britannique cette année. Même les assurés complets feront face à un processus long et complexe pour se reconstruire. Selon CBC."
+      "sujet": "Jeunes libéraux congrès Québec élections",
+      "fait": "Le Parti libéral du Québec tient son 44e Congrès-Jeunes à Saint-Lambert avec environ 400 jeunes et 80 candidats pour préparer la prochaine campagne électorale. Selon Le Devoir et La Presse."
     },
     {
-      "sujet": "Attaques navales détroit d'Ormuz",
-      "fait": "Les attaques contre des navires augmentent dans le détroit d'Ormuz alors que les États-Unis promettent d'affaiblir l'économie iranienne. Selon Bloomberg."
+      "sujet": "Réforme fiscale Canada petites entreprises",
+      "fait": "Le gouvernement libéral du premier ministre Mark Carney a apporté plusieurs changements au système fiscal canadien au cours de la première année de son mandat. Selon Global News."
     },
     {
-      "sujet": "Corée du Sud propose fin conflit",
-      "fait": "Lee Jae Myung offre une chance de mettre fin au conflit gelé depuis l'armistice de 1953 avec la Corée du Nord. Selon BBC World."
-    },
-    {
-      "sujet": "Fête du Travail Canada 2026",
-      "fait": "La Fête du Travail au Canada et aux États-Unis sera célébrée le lundi 7 septembre 2026. Selon La Presse."
+      "sujet": "Moneris acquise par américains données",
+      "fait": "Moneris, qui traite environ un tiers des transactions effectuées au Canada, passe aux mains d'investisseurs américains. Selon Radio-Canada."
     }
   ]
 }
