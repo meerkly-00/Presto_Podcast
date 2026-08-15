@@ -1,50 +1,54 @@
 {
-  "generated_at": "2026-08-15T19:20:45.928745+00:00",
+  "generated_at": "2026-08-15T22:20:49.642993+00:00",
   "window_hours": 8,
   "faits": [
     {
-      "sujet": "Archidiocèse de Québec - règlement abus",
-      "fait": "Une juge de la Cour supérieure a approuvé un accord de 31,5 millions en faveur des victimes d'agressions sexuelles dans un recours collectif contre l'archidiocèse de Québec. Selon La Presse, cet accord a été annoncé samedi par un cabinet d'avocats montréalais."
+      "sujet": "Incendie Pear Lake Colombie-Britannique",
+      "fait": "Le feu de Pear Lake, toujours actif, couvre environ trois fois la superficie de l'île de Montréal. Selon Radio-Canada, les résidents ont pu rentrer à leur domicile trois semaines après un ordre d'évacuation."
     },
     {
-      "sujet": "Expansion du port de Montréal",
-      "fait": "Des travailleurs ont commencé la construction d'une jetée en pierre dans le fleuve à Contrecoeur, en aval de Montréal, suite aux travaux préparatoires du site d'expansion. Selon Global News, ce projet constitue un effort de « nation-building »."
+      "sujet": "Règlement archidiocèse Québec abus sexuels",
+      "fait": "Un juge de la Cour supérieure du Québec a approuvé un règlement historique de 31,5 millions de dollars en faveur des victimes d'agressions sexuelles commises par des membres de l'archidiocèse de Québec depuis 1940. Selon la CBC et La Presse."
     },
     {
-      "sujet": "Acquisition de Cursor par SpaceX",
-      "fait": "SpaceX a officiellement fermé l'acquisition de la startup de codage IA Cursor. Selon TechCrunch, Cursor est maintenant officiellement une partie de SpaceX."
+      "sujet": "Tremblement de terre Indonésie Flores",
+      "fait": "Des tremblements de terre ont frappé l'archipel indonésien, tuant au moins 40 à 47 personnes sur l'île de Flores et détruisant des centaines de bâtiments. Selon la BBC World et National Post."
     },
     {
-      "sujet": "Séisme en Indonésie",
-      "fait": "Un séisme de magnitude 7,7 s'est produit au large des côtes de l'Indonésie, tuant au moins 47 personnes, dont plus de 40 sur l'île de Flores. Selon Associated Press et BBC World, la catastrophe a endommagé de nombreux bâtiments."
+      "sujet": "Pétition Canada expulsion ambassadeur américain",
+      "fait": "Une pétition canadienne demandant l'expulsion de l'ambassadeur américain a recueilli plus de 170 000 signatures et sera débattue à la Chambre des communes. Selon Al Jazeera."
     },
     {
-      "sujet": "Tempête tropicale Lala à Hawaii",
-      "fait": "La tempête tropicale Lala frappe l'île Big Island d'Hawaii avec pluie et vent, avec des prévisions indiquant qu'elle pourrait se renforcer en ouragan ou apporter des vents de force ouragan. Selon CBC, cela se produit en début de samedi."
+      "sujet": "Naufrage ferry Zimbabwe",
+      "fait": "Un ferry a coulé au Zimbabwe, tuant au minimum 68 personnes. Selon les autorités, 114 adultes, cinq membres d'équipage et quelques enfants étaient à bord au moment du drame. Selon Le Devoir."
     },
     {
-      "sujet": "Incendie de forêt en Belgique",
-      "fait": "Un feu déclaré vendredi a brûlé plus de 2000 hectares en Belgique, ce qui constitue l'un des pires incendies de l'histoire du pays. Selon Le Devoir, la situation demeure active."
+      "sujet": "Hurricane Lala Hawaii",
+      "fait": "L'ouragan Lala se dirige vers l'île d'Hawaï avec un risque possible d'arrivée directe, ce qui serait le premier impact direct d'un ouragan en 155 ans pour la grande île. Selon la CBC."
     },
     {
-      "sujet": "Négociations Iran-Oman détroit d'Ormuz",
-      "fait": "L'Iran et Oman s'approchent d'un accord sur la gestion du détroit d'Ormuz, en convenant de routes à travers cette voie navigable clé. Selon National Post, cet accord intervient alors que les attaques contre les navires se multiplient."
+      "sujet": "Arrestations migrants Maroc Ceuta",
+      "fait": "Les autorités marocaines ont arrêté au moins 111 migrants tentant d'entrer dans l'enclave espagnole de Ceuta lors d'une opération de sécurité renforcée. Selon CBC World et Al Jazeera."
     },
     {
-      "sujet": "Ukraine frappe usine russe de fusées",
-      "fait": "L'Ukraine a frappé le centre Progress Rocket Space Center dans la région de Samara avec des missiles de croisière lancés depuis le sol. Selon Ars Technica, le président Zelenskyy a confirmé l'attaque utilisant des missiles Flamingo."
+      "sujet": "Acquisition Cursor par SpaceX",
+      "fait": "SpaceX a officiellement finalisé l'acquisition de la startup de codage IA Cursor. Selon TechCrunch."
     },
     {
-      "sujet": "Rappel de médicament Teva-Pregabalin",
-      "fait": "Deux lots de capsules de Teva-Pregabalin 150 mg font l'objet d'un rappel en raison d'une contamination croisée par la sertraline. Selon Les Affaires, il s'agit d'un avis public de sécurité."
+      "sujet": "Ukraine frappe usine roquettes russe Samara",
+      "fait": "L'Ukraine a frappé le centre Progress de Roscosmos en Samara avec des missiles de croisière, détruisant une installation clé produisant des fusées Soyuz et satellites militaires. Selon Ars Technica, confirmé par le président Zelenskyy."
     },
     {
-      "sujet": "Manifestation contre Stablex à Blainville",
-      "fait": "Une centaine de citoyens se rassemblent à Blainville pour protester contre Stablex et son projet d'une sixième cellule d'enfouissement. Selon Le Devoir et La Presse, la manifestation s'est déroulée à la Place des Spectacles samedi."
+      "sujet": "Liechtenstein droit succession femmes",
+      "fait": "La Principauté de Liechtenstein a modifié ses règles de succession pour permettre aux femmes d'hériter du trône. La déclaration a été faite le jour national du pays. Selon la BBC World."
     },
     {
-      "sujet": "Congrès aile jeunesse PLQ",
-      "fait": "Charles Milliard, chef du Parti libéral du Québec, a présenté son programme à l'aile jeunesse, promettant états généraux en éducation dans 100 jours et création d'un ministère de la Jeunesse. Selon La Presse et Le Devoir, ces annonces ont été acclamées samedi lors du congrès."
+      "sujet": "CF Montréal interdictions antisémitisme",
+      "fait": "Le CF Montréal a interdit deux supporters et suspendu les avantages d'une section de supporters suite à une enquête de la MLS sur du langage antisémite dirigé contre un joueur. Selon Global News."
+    },
+    {
+      "sujet": "Moneris paiements Canada acquisition américaine",
+      "fait": "La plateforme Moneris, qui traite environ un tiers des transactions effectuées au Canada, est passée aux mains d'intérêts américains. Selon Radio-Canada."
     }
   ]
 }
