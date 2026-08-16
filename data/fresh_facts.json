@@ -1,50 +1,54 @@
 {
-  "generated_at": "2026-08-16T19:20:45.512445+00:00",
+  "generated_at": "2026-08-16T22:19:44.497748+00:00",
   "window_hours": 8,
   "faits": [
     {
-      "sujet": "Négociations commerciales Canada-États-Unis",
-      "fait": "Des négociations entre officiels canadiens et américains se poursuivent avant l'échéance du 19 août pour un accord commercial, tandis que des tarifs de 50% doivent entrer en vigueur. Selon Global News, le chef conservateur Pierre Poilievre exige que tout nouvel accord élimine les tarifs sur le bois d'œuvre."
+      "sujet": "Churchill Falls - Entente Québec-Terre-Neuve",
+      "fait": "La première ministre du Québec Christine Fréchette signera l'entente sur Churchill Falls avec Terre-Neuve-et-Labrador lundi, en présence de Mark Carney. Selon Radio-Canada."
     },
     {
-      "sujet": "Incendies de forêt en Europe",
-      "fait": "En Grèce et en Belgique, des incendies massifs ont tué au moins 2 personnes. Selon BBC World, en Grèce, deux personnes ont été tuées dimanche sur une île près d'Athènes, tandis qu'en Belgique, un incendie a endommagé une réserve naturelle en région orientale."
+      "sujet": "Trump réduit exercices militaires Corée du Sud",
+      "fait": "Le président Trump annonce réduire les exercices militaires conjoints avec la Corée du Sud après que ce pays a décliné aider à l'effort de guerre en Iran. Selon BBC World."
     },
     {
-      "sujet": "Tremblement de terre en Indonésie",
-      "fait": "Selon Associated Press, le bilan des morts s'élève à 53 personnes, avec 6 corps supplémentaires récupérés par les secouristes. Des centaines de maisons et bâtiments publics ont été gravement endommagés."
+      "sujet": "Réglementation fédérale poteaux téléphone",
+      "fait": "Ottawa rend obligatoire l'incinération ou l'enfouissement des poteaux traités au PCP en fin de vie, ce qui menace la fermeture de la seule entreprise canadienne les recyclant en Estrie. Selon La Presse."
     },
     {
-      "sujet": "Ouragan Lala à Hawaï",
-      "fait": "D'après BBC World, l'ouragan Lala s'affaiblit en tempête tropicale après que l'œil de la tempête soit passé près de la Pointe sud de la Grande Île d'Hawaï sans faire landfall. Plus de 130 000 maisons sont sans électricité."
+      "sujet": "OpenAI dissout équipe de préparation aux risques",
+      "fait": "OpenAI a dissous son équipe de préparation (preparedness team) à la fin du mois précédent; les responsabilités ont été réparties dans des domaines spécifiques comme la biosécurité et la cybersécurité. Selon The Verge citant le Financial Times."
     },
     {
-      "sujet": "Attaque ukrainienne contre la Russie",
-      "fait": "Selon BBC World, la Russie affirme qu'au moins 7 personnes ont été tuées dans la plus grande attaque ukrainienne de 2026. Moscou a également lancé des frappes meurtrières contre l'Ukraine la nuit, provoquant des incendies dans la capitale Kyiv."
+      "sujet": "Stripe acquiert OpenRouter pour 7 milliards",
+      "fait": "Stripe devrait acquérir la startup OpenRouter pour plus de 7 milliards de dollars, selon des informations rapportées. Selon TechCrunch."
     },
     {
-      "sujet": "Migrants à Ceuta en Espagne",
-      "fait": "D'après CBC, des centaines de migrants qui ont récemment atteint l'enclave nord-africaine de Ceuta en Espagne ont manifesté dimanche sur une plage populaire, demandant l'asile plutôt qu'une expulsion vers le Maroc."
+      "sujet": "Féminicide au Québec - 12e présumé cette année",
+      "fait": "Le Québec enregistre un 12e féminicide présumé en 2026 selon les informations préliminaires; près de 8 cas sur 10 auraient impliqué une occasion d'intervention de l'entourage. Selon Radio-Canada et La Presse."
     },
     {
-      "sujet": "Efforts de médiation à Gaza",
-      "fait": "Selon Radio-Canada et Le Devoir, l'émissaire américain Jared Kushner a rencontré une délégation du Hamas en Égypte dans le contexte des efforts américains pour faire avancer un plan de paix à Gaza."
+      "sujet": "Rappel Teva-Pregabalin contamination sertraline",
+      "fait": "Teva Canada rappelle certaines capsules Teva-Pregabalin 150 mg suite à une possible contamination identifiée au sertraline lors de tests de contrôle. Selon CBC."
     },
     {
-      "sujet": "Décès de personnes sans-abri au Québec",
-      "fait": "D'après Radio-Canada, de 2020 à 2024, au moins 400 décès de personnes sans-abri ont été recensés au Québec, avec une augmentation particulière chez les femmes."
+      "sujet": "Bus accident Hongrie - 12 morts",
+      "fait": "Un bus transportant des touristes polonais s'est renversé en Hongrie près de Mezokeresztes, tuant 12 personnes et en blessant au moins 10. Selon CBC."
     },
     {
-      "sujet": "Conditions à bord du porte-avions USS Abraham Lincoln",
-      "fait": "Selon CBC, le président Trump a rejeté les rapports décrivant des conditions difficiles à bord du USS Abraham Lincoln, actuellement déployé au Moyen-Orient depuis plus de 260 jours."
+      "sujet": "Tremblement de terre Indonésie - 53 morts",
+      "fait": "Le bilan du tremblement de terre en Indonésie est passé à 53 morts après la découverte de 6 corps supplémentaires par les secouristes. Selon Associated Press."
     },
     {
-      "sujet": "Politique d'arbitrage d'Amazon",
-      "fait": "D'après The Verge, Amazon a mis à jour ses conditions d'utilisation vendredi pour que les litiges soient résolus par arbitrage obligatoire, avec une renonciation à l'action collective, empêchant les clients de demander l'intervention d'un juge ou d'un jury."
+      "sujet": "Iran offre prime élimination soldats américains",
+      "fait": "L'armée iranienne annonce offrir une prime équivalente à 30 000 dollars pour tuer ou capturer des soldats américains, avec une prime doublée si l'acte est commis par une femme. Selon National Post."
     },
     {
-      "sujet": "Investissement Canada-Ontario logements",
-      "fait": "D'après Les Affaires, le gouvernement du Canada et l'Ontario investissent 1 milliard de dollars pour aider les municipalités qui n'imposent pas de droits d'aménagement à construire davantage de logements."
+      "sujet": "Incendies Grèce-Belgique - 2 morts",
+      "fait": "Des incendies de forêt massifs sévissent en Grèce et Belgique, causant au moins 2 morts et forçant des centaines d'évacuations. Selon BBC World."
+    },
+    {
+      "sujet": "Jugement - fausses causes générées par IA",
+      "fait": "Un homme du Québec doit payer 1 000 dollars pour avoir cité quatre décisions judiciaires inexistantes générées par IA, dont deux prétendument de la Cour suprême du Canada. Selon Global News."
     }
   ]
 }
