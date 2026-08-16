@@ -1,0 +1,14 @@
+{
+  "date": "2026-08-16",
+  "kind": "poll",
+  "text": "Ce matin → Un séisme de magnitude 7,7 a tué au moins 53 personnes en Indonésie samedi.\n\nNouveauté → L'ouragan Lala provoque aussi des inondations à Hawaii avec des dizaines de\n\nFace aux catastrophes naturelles, comment les gouvernements doivent-ils prioriser leurs efforts?",
+  "poll": {
+    "options": [
+      "Évacuation et sauvetage",
+      "Aide humanitaire",
+      "Reconstruction des",
+      "Prévention et alertes"
+    ],
+    "duration_minutes": 1440
+  }
+}
