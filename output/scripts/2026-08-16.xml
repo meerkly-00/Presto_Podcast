@@ -1,0 +1,79 @@
+```xml
+<script>
+  <intro>Bonjour, on est le dimanche seize août deux mille vingt-six. Voici votre Presto en environ quinze minutes. Au menu : le séisme en Indonésie qui continue de faire des victimes, la Colombie qui demande l'aide de Trump, l'ouragan Lala qui menace Hawaï, le dossier Churchill Falls qui avance, l'actualité économique et la tech.</intro>
+
+  <chapitre titre="International">
+    On commence par le séisme qui a frappé au large de l'île de Florès, en Indonésie, tôt samedi matin. Selon Reuters, le bilan est passé à au moins cinquante et une personnes tuées, et des milliers de personnes ont été évacuées après que le tremblement de terre, d'une magnitude de sept virgule sept, a coupé plusieurs routes. La BBC rapporte que des opérations de recherche et de sauvetage se poursuivent alors que les autorités tentent d'évaluer l'ampleur des dégâts, qui ont détruit des centaines de bâtiments.
+
+    Toujours dans la région, en Colombie, la situation reste critique près d'une semaine après le séisme de magnitude sept virgule quatre qui a frappé les villes de Cali et Pereira. Selon Radio-Canada, le nouveau président colombien, Abelardo de la Espriella, entré en fonction trois jours à peine avant la catastrophe, a demandé samedi à Donald Trump une suspension temporaire des droits de douane élevés qui touchent les produits colombiens, pour faciliter la reconstruction. En anglais, je le cite : il a dit avoir parlé à Trump d'un défi immense, celui de reconstruire la Colombie au milieu d'une situation économique qu'il qualifie d'apocalyptique. Le bilan du séisme s'élève à près de trois cents morts, environ trois cent vingt personnes sont toujours portées disparues, et près de quatre mille personnes ont été blessées. Environ treize mille logements ont été détruits.
+
+    Aux États-Unis, la tempête Lala s'est renforcée en ouragan et se dirige vers Hawaï. Selon la BBC, si la tempête touche terre, ce serait le premier impact direct d'un ouragan sur l'archipel en trente-quatre ans. CBC précise que la trajectoire prévue vise la grande île d'Hawaï, avec des vents violents et des pluies torrentielles attendus.
+
+    Ailleurs, le conflit dans le détroit d'Ormuz continue de s'envenimer. Selon Bloomberg, les attaques contre des navires s'intensifient dans la région, alors que Washington promet de continuer à faire pression sur l'économie iranienne. En parallèle, l'Iran et Oman semblent se rapprocher d'une entente sur la gestion du détroit, selon National Post, après près de six mois de guerre entre la République islamique et les États-Unis.
+
+    En Ukraine, le président Volodymyr Zelensky a confirmé que son pays a frappé le centre spatial Progress, dans la région russe de Samara, à l'aide de missiles de croisière lancés depuis le sol. Selon Ars Technica, qui cite Zelensky sur X, l'installation assemble notamment les fusées Soyouz et produit aussi des satellites militaires russes. En anglais, je le cite : "A good achievement." Fin de citation.
+
+    Du côté du Maroc, les autorités ont arrêté au moins cent onze migrants samedi alors qu'ils tentaient d'entrer dans l'enclave espagnole de Ceuta. Selon CBC, la sécurité avait été renforcée des deux côtés de la frontière après des appels sur les réseaux sociaux à une nouvelle traversée massive.
+
+    En Afghanistan, alors que les talibans marquent cinq ans au pouvoir, un responsable des Nations unies met en garde contre une crise des droits de la personne, selon l'Associated Press.
+
+    Enfin, en Israël, à l'approche des élections d'octobre, Al Jazeera rapporte que malgré la guerre en cours, les enjeux qui détermineront le vote touchent davantage, selon des analystes cités par le média, des préoccupations internes que le conflit lui-même.
+  </chapitre>
+
+  <chapitre titre="Actualité québécoise">
+    À Québec, le dossier de l'entente sur Churchill Falls progresse. Selon Radio-Canada, la ministre des Relations canadiennes, Christine Fréchette, doit signer lundi l'entente avec Terre-Neuve-et-Labrador. Elle sera accompagnée du ministre Bernard Drainville et de la présidente-directrice générale d'Hydro-Québec, Claudine Bouchard.
+
+    Toujours en précampagne électorale, selon La Presse, malgré des sondages qui continuent de placer le Parti libéral du Québec en deuxième position derrière le Parti québécois, le chef libéral Charles Milliard croit que ses troupes peuvent renverser la vapeur. Il mise, dit-il, sur le penchant de l'électorat québécois pour les concurrents sous-estimés. En parallèle, Le Devoir rapporte un malaise chez les jeunes libéraux réunis en congrès sur la question de la disposition de dérogation, un froid s'installant chaque fois que la question leur était posée, alors que les engagements du chef ont par ailleurs été largement acclamés par l'aile jeunesse du parti.
+
+    À Montréal, le Service de police de la Ville de Montréal enquête sur un possible féminicide dans le quartier Saint-Michel. Selon La Presse, une femme a été tuée et un homme a été retrouvé grièvement blessé samedi après-midi. L'homme, considéré comme suspect, repose dans un état critique à l'hôpital. Radio-Canada précise qu'il s'agit du quinzième meurtre survenu sur le territoire du corps policier depuis le début de l'année.
+
+    Dans un autre dossier judiciaire, une juge de la Cour supérieure a approuvé un règlement de trente et un virgule cinq millions de dollars contre l'archidiocèse de Québec. Selon CBC, cette entente met fin à des années de poursuites intentées par des personnes qui disent avoir été agressées sexuellement par des membres de l'archidiocèse depuis dix-neuf cent quarante.
+
+    En Estrie, un motocycliste a perdu la vie dans un accident survenu sur la route deux cent cinquante et un, selon La Presse.
+
+    Et à Blainville, Le Devoir rapporte qu'une centaine de citoyens ont manifesté samedi à la Place des Spectacles pour exprimer leur ras-le-bol à l'égard de l'entreprise Stablex.
+  </chapitre>
+
+  <chapitre titre="Économie et marchés">
+    On passe à l'économie. Selon Bloomberg, l'inflation mesurée par l'indice des prix à la consommation américain s'est adoucie, alors que l'économie britannique a pris de l'expansion.
+
+    Du côté de l'intelligence artificielle, plusieurs mouvements financiers d'envergure retiennent l'attention. Selon Reuters, qui cite le Wall Street Journal, Nvidia réduirait la garantie de financement qu'elle avait offerte pour un centre de données destiné à OpenAI, en Ohio. En parallèle, toujours selon Reuters, qui cite le média The Information, Nvidia envisagerait d'investir trois milliards de dollars dans l'entreprise SB Energy, dans le cadre de cette même entente avec OpenAI pour des centres de données.
+
+    Toujours dans l'écosystème de l'intelligence artificielle, Reuters rapporte, en exclusivité, que la valorisation prévue pour l'entrée en bourse d'Anthropic reposerait sur une prévision de revenus de l'ordre de cent quatre-vingt-dix à deux cents milliards de dollars pour l'année deux mille vingt-huit, selon des sources proches du dossier.
+
+    Ailleurs dans l'actualité économique internationale, selon Bloomberg, l'économie du Pérou a ralenti de façon inattendue, plombée par un recul dans les secteurs de la pêche et de l'agriculture.
+
+    Du côté des marchés financiers, Peter Thiel a fait l'acquisition d'une participation de un pour cent dans une entreprise pétrolière argentine active dans le gisement de Vaca Muerta, selon des documents réglementaires cités par Reuters.
+
+    Enfin, selon un sondage du Financial Times, la majorité des électeurs américains disent se sentir plus mal financièrement depuis l'arrivée au pouvoir de Donald Trump.
+  </chapitre>
+
+  <chapitre titre="Tech">
+    Un mot sur la tech. SpaceX a officiellement complété l'acquisition de la startup Cursor, spécialisée dans les outils de programmation assistée par intelligence artificielle. Selon TechCrunch, Cursor fait maintenant officiellement partie de SpaceX.
+
+    Du côté d'Anthropic, l'entreprise a précisé comment fonctionneront les nouveaux filigranes numériques qu'elle compte intégrer aux réponses générées par son modèle Claude, selon TechCrunch, une mesure destinée à mieux identifier le contenu produit par l'intelligence artificielle.
+
+    Sur un enjeu plus préoccupant, selon TechCrunch, une femme affirme que son beau-père aurait utilisé l'outil d'intelligence artificielle Grok pour transformer une photo d'elle prise dans son enfance en image à caractère explicite. En anglais, je le cite : elle soutient que ces outils prennent la vie de tous les jours et la transforment en matériel d'abus sexuel envers des enfants. Fin de citation.
+
+    Toujours en sécurité informatique, TechCrunch a publié un guide destiné aux utilisateurs pour vérifier si leurs comptes sur les principales plateformes d'intelligence artificielle ont été compromis par des pirates.
+
+    Ailleurs, selon Ars Technica, l'Ukraine a confirmé avoir frappé un centre russe lié à un réseau satellitaire de type Starlink, dans le cadre de son offensive contre les infrastructures militaires russes.
+
+    Enfin, selon Ars Technica, qui cite des données de l'agence américaine de l'information sur l'énergie, trois cent soixante-huit centrales électriques à grande échelle sont entrées en fonction aux États-Unis entre janvier et juin, un groupe largement dominé par le solaire à grande échelle. Le projet éolien SunZia, au Nouveau-Mexique, en cours de développement depuis environ dix ans, arrive en tête de liste avec une capacité de production combinée de trois mille six cent cinquante mégawatts, ce qui en fait le plus grand parc éolien du pays.
+  </chapitre>
+
+  <chapitre titre="Sport">
+    Rapidement en sport. À Las Vegas, selon Al Jazeera, le combattant Islam Makhachev a défendu son titre des mi-moyens de l'UFC contre Ian Machado Garry par décision unanime, lors du gala UFC trois cent trente. Sportsnet précise que les juges ont tranché avec des cartes de quarante-neuf à quarante-six, quarante-neuf à quarante-six et quarante-huit à quarante-sept. Il s'agit de la dix-septième victoire consécutive de Makhachev dans l'octogone.
+
+    En cricket, selon Al Jazeera, le Bangladesh a remporté sa toute première victoire en test face à l'Australie, une domination du début à la fin dont l'ampleur devrait, selon le média, résonner dans tout le monde du cricket.
+
+    À Toronto, du côté des Blue Jays, le voltigeur Vladimir Guerrero fils a été placé sur la liste des blessés de sept jours après avoir subi une commotion cérébrale lors d'une collision survenue vendredi soir contre les Yankees, selon Global News. Sportsnet ajoute que l'équipe a aussi fait débuter le lanceur Ricky Tiedemann samedi, dans une victoire qui rapproche les Blue Jays d'une place de meilleur deuxième.
+
+    Ailleurs dans les ligues canadiennes de football, selon Global News, les Elks d'Edmonton ont dominé les Argonauts de Toronto par la marque de quarante-deux à douze, et les Tiger-Cats de Hamilton ont vaincu les Roughriders de la Saskatchewan.
+
+    Enfin, selon Radio-Canada, la nageuse québécoise Alexanne Lepage a été couronnée au deux cents mètres brasse aux Championnats panpacifiques, alors que sa compatriote Summer McIntosh a remporté l'argent au deux cents mètres quatre nages.
+  </chapitre>
+
+  <outro>Voilà pour ce Presto du dimanche seize août deux mille vingt-six. Si ce briefing vous est utile, le meilleur coup de main que vous pouvez nous donner, c'est de le partager à une personne qui aime rester informée. Et selon votre plateforme : un abonnement sur Spotify ou Apple Podcasts, un pouce bleu et un abonnement sur YouTube, ça prend deux secondes et ça aide vraiment Presto à grandir. Sur ce, bonne journée, et à demain.</outro>
+</script>
+```
