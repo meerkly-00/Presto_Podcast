@@ -1,54 +1,50 @@
 {
-  "generated_at": "2026-08-16T22:19:44.497748+00:00",
+  "generated_at": "2026-08-17T13:38:59.639448+00:00",
   "window_hours": 8,
   "faits": [
     {
-      "sujet": "Churchill Falls - Entente Québec-Terre-Neuve",
-      "fait": "La première ministre du Québec Christine Fréchette signera l'entente sur Churchill Falls avec Terre-Neuve-et-Labrador lundi, en présence de Mark Carney. Selon Radio-Canada."
+      "sujet": "Inflation Canada juillet 2026",
+      "fait": "L'inflation au Canada a augmenté à 3 % en juillet 2026, en hausse par rapport à juin, principalement due à la remontée des prix de l'essence. Selon Statistics Canada et Radio-Canada, cette accélération reflète la reprise des hostilités au Moyen-Orient en juillet qui a fait remonter les prix aux pompes."
+    },
+    {
+      "sujet": "Incendie en Belgique historique",
+      "fait": "Un des plus importants incendies de l'histoire de la Belgique a ravagé 3000 hectares dans les Fagnes, une réserve boisée. Selon Le Devoir, lundi 17 août, la pluie et des vents favorables ont limité la progression de l'incendie; près de 500 pompiers sont mobilisés depuis vendredi."
+    },
+    {
+      "sujet": "Tremblement de terre Indonésie",
+      "fait": "Un séisme en Indonésie a tué 68 personnes et laissé des milliers de sans-abri sur l'île de Flores. D'après la CBC et Global News, de nombreux résidents attendaient l'arrivée de l'aide dans les communautés isolées, plusieurs jours après le tremblement."
     },
     {
       "sujet": "Trump réduit exercices militaires Corée du Sud",
-      "fait": "Le président Trump annonce réduire les exercices militaires conjoints avec la Corée du Sud après que ce pays a décliné aider à l'effort de guerre en Iran. Selon BBC World."
+      "fait": "Le président Trump a ordonné au Pentagone de réduire les exercices militaires avec la Corée du Sud, les qualifiant d'« inappropriés et hostiles ». Selon National Post et Al Jazeera, Trump a justifié cette décision par sa bonne relation avec le leader nord-coréen Kim Jong Un et la réticence de Séoul à soutenir sa politique envers l'Iran."
     },
     {
-      "sujet": "Réglementation fédérale poteaux téléphone",
-      "fait": "Ottawa rend obligatoire l'incinération ou l'enfouissement des poteaux traités au PCP en fin de vie, ce qui menace la fermeture de la seule entreprise canadienne les recyclant en Estrie. Selon La Presse."
+      "sujet": "Financement startup Wispr 280 millions",
+      "fait": "La startup Wispr a levé 280 millions de dollars à une valuation de 2 milliards de dollars, portant son financement total à plus de 361 millions. D'après TechCrunch, Wispr élargit ses activités au-delà de la dictation."
     },
     {
-      "sujet": "OpenAI dissout équipe de préparation aux risques",
-      "fait": "OpenAI a dissous son équipe de préparation (preparedness team) à la fin du mois précédent; les responsabilités ont été réparties dans des domaines spécifiques comme la biosécurité et la cybersécurité. Selon The Verge citant le Financial Times."
+      "sujet": "Uber intègre drones Zipline livraisons",
+      "fait": "Uber a intégré les drones Zipline à son réseau de livraison Eats et effectue un investissement dans Zipline dans le cadre de ce partenariat. Selon TechCrunch, cette alliance combine la plateforme de livraison d'Uber avec la technologie de drones."
     },
     {
-      "sujet": "Stripe acquiert OpenRouter pour 7 milliards",
-      "fait": "Stripe devrait acquérir la startup OpenRouter pour plus de 7 milliards de dollars, selon des informations rapportées. Selon TechCrunch."
+      "sujet": "Parti québécois recrute journaliste",
+      "fait": "Le Parti québécois a recruté Stéphanie Martin, journaliste au Journal de Québec, en vue des élections de l'automne. D'après La Presse, il s'agit d'une autre journaliste recrutée par le PQ."
     },
     {
-      "sujet": "Féminicide au Québec - 12e présumé cette année",
-      "fait": "Le Québec enregistre un 12e féminicide présumé en 2026 selon les informations préliminaires; près de 8 cas sur 10 auraient impliqué une occasion d'intervention de l'entourage. Selon Radio-Canada et La Presse."
+      "sujet": "Cols bleus Montréal moyens pression",
+      "fait": "Les cols bleus de Montréal pourraient intensifier leurs moyens de pression à l'approche des Mondiaux de cyclisme, alors que les négociations avec la Ville stagnent. Selon Le Devoir, ils envisagent une escalade de leurs actions."
     },
     {
-      "sujet": "Rappel Teva-Pregabalin contamination sertraline",
-      "fait": "Teva Canada rappelle certaines capsules Teva-Pregabalin 150 mg suite à une possible contamination identifiée au sertraline lors de tests de contrôle. Selon CBC."
+      "sujet": "Anthropic watermarks Claude texte IA",
+      "fait": "Anthropic a clarifié que son système de marquage pour les textes générés par Claude utilise l'approche SynthID-Text, développée par Google DeepMind, pour se conformer aux règles de transparence de l'UE. D'après The Verge, cette technologie crée des motifs détectables basés sur les probabilités de mots."
     },
     {
-      "sujet": "Bus accident Hongrie - 12 morts",
-      "fait": "Un bus transportant des touristes polonais s'est renversé en Hongrie près de Mezokeresztes, tuant 12 personnes et en blessant au moins 10. Selon CBC."
+      "sujet": "Crise lancement satellites orbital",
+      "fait": "Les opérateurs de satellites connaissent une crise d'accès aux lancements malgré une moyenne de 270 fusées orbitales lancées par an au cours des trois dernières années, soit trois fois plus qu'une décennie auparavant. Selon Ars Technica, une pénurie croissante de disponibilité de lancements affecte l'industrie."
     },
     {
-      "sujet": "Tremblement de terre Indonésie - 53 morts",
-      "fait": "Le bilan du tremblement de terre en Indonésie est passé à 53 morts après la découverte de 6 corps supplémentaires par les secouristes. Selon Associated Press."
-    },
-    {
-      "sujet": "Iran offre prime élimination soldats américains",
-      "fait": "L'armée iranienne annonce offrir une prime équivalente à 30 000 dollars pour tuer ou capturer des soldats américains, avec une prime doublée si l'acte est commis par une femme. Selon National Post."
-    },
-    {
-      "sujet": "Incendies Grèce-Belgique - 2 morts",
-      "fait": "Des incendies de forêt massifs sévissent en Grèce et Belgique, causant au moins 2 morts et forçant des centaines d'évacuations. Selon BBC World."
-    },
-    {
-      "sujet": "Jugement - fausses causes générées par IA",
-      "fait": "Un homme du Québec doit payer 1 000 dollars pour avoir cité quatre décisions judiciaires inexistantes générées par IA, dont deux prétendument de la Cour suprême du Canada. Selon Global News."
+      "sujet": "Beef australien moins cher Canada",
+      "fait": "Du boeuf australien est maintenant disponible en magasins en Saskatchewan à des prix considérablement plus bas que le boeuf canadien. D'après la CBC, cet approvisionnement en importations reflète des différences de coûts commerciaux."
     }
   ]
 }
