@@ -1,0 +1,97 @@
+```xml
+<script>
+  <intro>Bonjour, on est le lundi dix-sept août deux mille vingt-six. Voici votre Presto en environ quinze minutes. Au menu : la signature de l'entente sur Churchill Falls, la mission de Jared Kushner au Moyen-Orient, le dossier commercial avec Washington, les frappes ukrainiennes en Russie, l'économie mondiale et l'intelligence artificielle, et le décès de l'actrice Hayden Panettiere.</intro>
+
+  <chapitre titre="Actualité québécoise">
+    On commence à Terre-Neuve, où le dossier de Churchill Falls franchit une étape majeure aujourd'hui. Selon Radio-Canada, le premier ministre Mark Carney doit se rendre à St. John's pour sceller l'entente sur Churchill Falls, accompagné de la première ministre du Québec, Christine Fréchette, et du premier ministre de Terre-Neuve-et-Labrador, Tony Wakeham. La Presse rapporte que la salle a été réservée et l'heure confirmée pour cette signature.
+
+    Ailleurs au pays, Radio-Canada rapporte que plusieurs milliers de propriétés demeurent en zone d'ordre d'évacuation en Colombie-Britannique, même si des évacués de Summerland ont pu rentrer chez eux après les feux de forêt.
+
+    À Gatineau, La Presse rapporte qu'un motocycliste dans la trentaine se trouvait dans un état critique dimanche soir après une embardée sur l'autoroute cinquante, en Outaouais.
+
+    Et à Calgary, Global News rapporte qu'un grizzli d'un an, nommé Fitz, a brièvement échappé à son enclos au zoo de Calgary dimanche matin avant d'y être ramené en sécurité.
+  </chapitre>
+
+  <chapitre titre="Politique canadienne">
+    Le dossier commercial avec Washington continue de dominer l'actualité fédérale. Selon le Financial Times, les entreprises canadiennes se préparent à des droits de douane américains de cinquante pour cent.
+
+    Du côté de la sécurité publique, National Post rapporte que l'Iran offre une récompense équivalant à trente mille dollars américains pour la capture ou la mort de soldats américains, une somme qui double si l'opération est menée par une femme, selon l'armée iranienne.
+
+    Toujours selon National Post, l'enquête se poursuit à Halifax après la fausse alerte à la bombe survenue la semaine dernière près du consulat américain, un événement qui a résonné jusque dans les quartiers d'immigration récente de la ville.
+
+    À Toronto, National Post rapporte que la police recherche un homme fortement tatoué au visage, soupçonné d'avoir poignardé un inconnu sans provocation vendredi matin, à l'intersection Yonge et Bloor.
+
+    Un mot de justice inusité : Global News rapporte qu'un homme du Québec a été condamné à payer mille dollars après avoir cité, devant un tribunal, quatre décisions judiciaires inexistantes générées par intelligence artificielle, dont deux qu'il attribuait faussement à la Cour suprême du Canada.
+  </chapitre>
+
+  <chapitre titre="International">
+    Au Moyen-Orient, la diplomatie s'active autour du plan de paix pour Gaza. Selon Radio-Canada et la BBC, l'émissaire américain Jared Kushner, gendre du président Trump, doit rencontrer le premier ministre israélien Benjamin Netanyahou plus tard aujourd'hui, après avoir mené de rares discussions avec le Hamas.
+
+    En parallèle, le Financial Times rapporte qu'un ministre israélien d'extrême droite préconise de tuer de trente à quarante Gazaouis chaque nuit. Le média ne précise pas de réaction officielle du gouvernement israélien à ces propos.
+
+    En Ukraine, l'Associated Press rapporte que Kyiv a lancé une de ses plus importantes attaques aériennes de la guerre, tuant au moins six personnes en Russie. La BBC précise, en citant le gouverneur par intérim de la région russe de Belgorod, qu'un enfant de quatorze ans figure parmi les quatre autres blessés.
+
+    Sur le dossier coréen, la BBC et CBC rapportent que le président américain Donald Trump a ordonné au Pentagone de réduire les exercices militaires conjoints avec la Corée du Sud, invoquant sa bonne relation avec le dirigeant nord-coréen Kim Jong-un et le refus de Séoul de participer à des efforts de dénucléarisation visant l'Iran.
+
+    En Indonésie, le bilan du séisme qui a frappé au large de l'île de Florès continue de s'alourdir. Selon l'Associated Press, les secouristes ont récupéré six corps supplémentaires, portant le bilan à cinquante-trois morts.
+
+    En République démocratique du Congo, CBC rapporte que l'épidémie d'Ebola est devenue la plus meurtrière de l'histoire du pays, avec deux mille trois cent vingt-cinq morts selon les données gouvernementales, dépassant le bilan de l'épidémie de deux mille dix-huit à deux mille vingt. Le nombre de cas confirmés a grimpé à quatre mille neuf cent quarante-cinq.
+
+    En Hongrie, CBC rapporte qu'un autobus transportant des touristes polonais a fait une embardée et versé dans un fossé, tuant une douzaine de personnes et en blessant au moins dix, à environ cent quarante kilomètres à l'est de Budapest. Le chauffeur est en détention.
+
+    En Inde, Al Jazeera rapporte qu'au moins sept personnes sont mortes dans un mouvement de foule survenu dans un temple de l'État du Bihar.
+
+    En Italie, l'Associated Press rapporte que des voleurs ont dérobé quatre œuvres de la Renaissance lors d'un vol commis dans un musée sicilien, pendant un jour férié.
+
+    À Hawaï, CBC rapporte que la tempête Lala, rétrogradée de la catégorie ouragan, a tout de même déversé près d'un mètre de pluie par endroits, provoquant des torrents sur les pentes montagneuses.
+  </chapitre>
+
+  <chapitre titre="Économie et marchés">
+    On passe à l'économie. Selon Bloomberg, le dollar américain a fléchi alors que les paris sur une hausse de taux de la Réserve fédérale se sont atténués, et les obligations du Trésor américain ont progressé. Toujours selon Bloomberg, la banque Goldman Sachs estime que les marchés sont trop pessimistes en misant sur une hausse des taux par la Réserve fédérale.
+
+    Au Japon, Al Jazeera rapporte que l'économie a ralenti au deuxième trimestre, le produit intérieur brut progressant de zéro virgule trois pour cent, un résultat inférieur aux prévisions, alors que la consommation et les dépenses en capital ont fléchi.
+
+    Sur le commerce canado-américain, le Financial Times confirme que les entreprises canadiennes se préparent à des droits de douane américains de cinquante pour cent sur une multitude de produits.
+
+    Du côté de l'intelligence artificielle, les mouvements financiers se multiplient. Selon TechCrunch, l'entreprise Stripe s'apprêterait à acquérir la jeune entreprise OpenRouter, spécialisée dans les portails d'accès à l'intelligence artificielle, pour plus de sept milliards de dollars américains. Le fondateur d'OpenRouter avait lui-même décrit sa société comme l'équivalent de Stripe pour l'intelligence artificielle.
+
+    Selon Reuters, les grands investisseurs institutionnels cherchent activement les futurs gagnants de l'intelligence artificielle, alors que l'inquiétude entourant les dépenses en capital des géants technologiques s'atténue. Bloomberg note de son côté que Wall Street garde un œil sur les taux d'intérêt en pleine effervescence liée à l'intelligence artificielle.
+
+    En Chine, Reuters rapporte que les chaînes de café et de restauration, y compris des marques spécialisées dans le hotpot, se disputent désormais des parts du marché grandissant du hamburger.
+
+    Chez les grandes banques, le Financial Times rapporte que le dirigeant de JPMorgan, Jamie Dimon, a averti le chancelier britannique contre une hausse des taxes bancaires au Royaume-Uni.
+
+    Enfin, Les Affaires rapporte qu'une annonce en matière d'infrastructure est prévue aujourd'hui à Ottawa.
+  </chapitre>
+
+  <chapitre titre="Tech">
+    Un mot sur la tech. Selon le Financial Times, rapporté par The Verge, OpenAI aurait dissous son équipe de préparation, chargée d'évaluer si ses modèles d'intelligence artificielle posaient des risques sérieux et de développer des façons de les atténuer. Cette responsabilité aurait plutôt été répartie entre des équipes existantes, selon des domaines précis comme la biologie et la cybersécurité. Ce changement survient alors que l'entreprise se dirige vers ce qui est attendu comme un premier appel public à l'épargne d'envergure.
+
+    Toujours en intelligence artificielle, TechCrunch rapporte que le patron d'Anthropic, Dario Amodei, affirme que les critiques envers l'intelligence artificielle relèvent d'abord d'une crise de confiance, en réaction aux reproches selon lesquels il présenterait un portrait trop pessimiste de la technologie.
+
+    TechCrunch aborde aussi le scepticisme entourant la vision de Mark Zuckerberg pour l'avenir de l'intelligence artificielle chez Meta, sans détailler de position officielle de l'entreprise en réponse.
+
+    Du côté du commerce en ligne, The Verge rapporte qu'Amazon a modifié ses conditions d'utilisation vendredi pour forcer désormais le recours à l'arbitrage plutôt qu'aux recours collectifs pour régler les différends avec ses clients. L'entreprise présente ce changement comme une façon rapide et efficace de résoudre les litiges.
+  </chapitre>
+
+  <chapitre titre="Sport">
+    Rapidement en sport. Selon Al Jazeera, le footballeur espagnol Rodri, capitaine champion du monde, retourne dans son pays natal après que Manchester City a accepté une offre de transfert du FC Barcelone.
+
+    Au Maroc, Al Jazeera rapporte que le Cameroun a dominé le Malawi pour remporter son premier titre de la Coupe d'Afrique des nations féminine, à leur quatrième tentative en finale.
+
+    À Vancouver, Sportsnet rapporte que les Whitecaps ont infligé aux Sounders de Seattle une septième défaite consécutive, un record pour le club, avec une victoire de deux à zéro dimanche soir, grâce à des buts de Rayan Elloumi et Thomas Müller.
+
+    En tennis, Sportsnet rapporte que la Canadienne Leylah Fernandez a été éliminée au deuxième tour de l'Omnium de Cincinnati, battue par la Chinoise Xiyu Wang en trois manches.
+
+    Et à Toronto, Sportsnet rapporte que les Blue Jays ont conclu une série de vingt matchs en dix-sept jours avec un bilan de treize victoires, incluant une fiche de cinq gains et deux défaites contre des rivaux de la division Est de la Ligue américaine, avant d'amorcer un segment de calendrier jugé plus favorable.
+  </chapitre>
+
+  <chapitre titre="Actualité culturelle">
+    Un mot en culture. Selon l'Associated Press, confirmé par Radio-Canada et Reuters, l'actrice Hayden Panettiere est décédée à l'âge de trente-six ans. Elle était connue pour ses rôles dans les séries télévisées "Heroes" et "Nashville". Son père, Skip Panettiere, a annoncé le décès dans un communiqué transmis dimanche à ABC News. En anglais, je le cite : "She was an incredible light and force of nature who brought immeasurable love and joy to everyone who knew her." Fin de citation. La cause du décès n'a pas été communiquée.
+
+    Le Devoir rappelle que Hayden Panettiere avait parlé ouvertement de ses difficultés face à l'alcoolisme et à la dépression, notamment après la naissance de sa fille en deux mille quatorze, et qu'elle avait publié cette année un livre autobiographique dans lequel elle évoquait sa décision de confier la garde exclusive de sa fille à son ancien conjoint, le boxeur Wladimir Klitschko.
+  </chapitre>
+
+  <outro>Voilà pour ce Presto du lundi dix-sept août deux mille vingt-six. Si ce briefing vous est utile, le meilleur coup de main que vous pouvez nous donner, c'est de le partager à une personne qui aime rester informée. Et selon votre plateforme : un abonnement sur Spotify ou Apple Podcasts, un pouce bleu et un abonnement sur YouTube, ça prend deux secondes et ça aide vraiment Presto à grandir. Sur ce, bonne journée, et à demain.</outro>
+</script>
+```
