@@ -1,50 +1,50 @@
 {
-  "generated_at": "2026-08-17T13:38:59.639448+00:00",
+  "generated_at": "2026-08-17T16:26:51.485640+00:00",
   "window_hours": 8,
   "faits": [
     {
-      "sujet": "Inflation Canada juillet 2026",
-      "fait": "L'inflation au Canada a augmenté à 3 % en juillet 2026, en hausse par rapport à juin, principalement due à la remontée des prix de l'essence. Selon Statistics Canada et Radio-Canada, cette accélération reflète la reprise des hostilités au Moyen-Orient en juillet qui a fait remonter les prix aux pompes."
+      "sujet": "Accord énergétique Churchill Falls",
+      "fait": "Le Québec et Terre-Neuve-et-Labrador ont convenu de lancer un projet énergétique d'environ 70 milliards de dollars impliquant les chantiers de Churchill Falls et Gull Island, avec un coup de pouce d'Ottawa, bien que l'entente reste à être finalisée. Selon Radio-Canada, le nouvel accord prévoit que le Québec recevra environ 10 000 mégawatts."
     },
     {
-      "sujet": "Incendie en Belgique historique",
-      "fait": "Un des plus importants incendies de l'histoire de la Belgique a ravagé 3000 hectares dans les Fagnes, une réserve boisée. Selon Le Devoir, lundi 17 août, la pluie et des vents favorables ont limité la progression de l'incendie; près de 500 pompiers sont mobilisés depuis vendredi."
+      "sujet": "Tarifs douaniers États-Unis Canada",
+      "fait": "Le Canada et les États-Unis négocient de façon intensive pour éviter de nouveaux tarifs douaniers américains dès mercredi. Selon Radio-Canada, les deux camps sont en pourparlers pour contrer une hausse de 50 % des tarifs sur les exportations."
     },
     {
-      "sujet": "Tremblement de terre Indonésie",
-      "fait": "Un séisme en Indonésie a tué 68 personnes et laissé des milliers de sans-abri sur l'île de Flores. D'après la CBC et Global News, de nombreux résidents attendaient l'arrivée de l'aide dans les communautés isolées, plusieurs jours après le tremblement."
+      "sujet": "Budget du Québec 2027",
+      "fait": "Le prochain gouvernement du Québec devra faire des coupes budgétaires d'au moins 2 milliards de dollars à partir de l'année prochaine pour rester sur track vers un budget équilibré. Selon Global News, c'est ce que conclut un nouveau rapport du vérificateur général."
     },
     {
-      "sujet": "Trump réduit exercices militaires Corée du Sud",
-      "fait": "Le président Trump a ordonné au Pentagone de réduire les exercices militaires avec la Corée du Sud, les qualifiant d'« inappropriés et hostiles ». Selon National Post et Al Jazeera, Trump a justifié cette décision par sa bonne relation avec le leader nord-coréen Kim Jong Un et la réticence de Séoul à soutenir sa politique envers l'Iran."
+      "sujet": "Investissement Nvidia SpaceX",
+      "fait": "Nvidia a divulgué qu'elle possède près de 123 millions d'actions de SpaceX, valorisées à environ 21 milliards de dollars fin juin. Selon Ars Technica, cette participation reflète les liens financiers entrecroisés entre le fabricant de puces et ses grands clients."
     },
     {
-      "sujet": "Financement startup Wispr 280 millions",
-      "fait": "La startup Wispr a levé 280 millions de dollars à une valuation de 2 milliards de dollars, portant son financement total à plus de 361 millions. D'après TechCrunch, Wispr élargit ses activités au-delà de la dictation."
+      "sujet": "Financement Groq neocloud",
+      "fait": "Groq a levé 350 millions de dollars à une valorisation de 3,5 milliards de dollars, alors qu'elle bascule son activité de fabricant de puces d'IA vers le secteur du neocloud. Selon TechCrunch, l'entreprise développe également son empreinte dans les centres de données alimentés par Nvidia."
     },
     {
-      "sujet": "Uber intègre drones Zipline livraisons",
-      "fait": "Uber a intégré les drones Zipline à son réseau de livraison Eats et effectue un investissement dans Zipline dans le cadre de ce partenariat. Selon TechCrunch, cette alliance combine la plateforme de livraison d'Uber avec la technologie de drones."
+      "sujet": "Investissement Nvidia SoftBank",
+      "fait": "Nvidia investit 1,5 milliard de dollars dans le développeur de centres de données de SoftBank, derrière le projet OpenAI, ce qui garantira que ses puces alimentent ce centre de données. Selon TechCrunch, cet investissement crée une intégration verticale entre le fournisseur de puces et l'infrastructure cloud."
     },
     {
-      "sujet": "Parti québécois recrute journaliste",
-      "fait": "Le Parti québécois a recruté Stéphanie Martin, journaliste au Journal de Québec, en vue des élections de l'automne. D'après La Presse, il s'agit d'une autre journaliste recrutée par le PQ."
+      "sujet": "Fermeture école primaire Québec",
+      "fait": "Une école primaire de Québec a été fermée d'urgence dix jours avant la rentrée suite à la découverte de fissures dans la structure du bâtiment. Selon La Presse, les élèves seront relocalisés pour au moins l'année scolaire 2026-2027."
     },
     {
-      "sujet": "Cols bleus Montréal moyens pression",
-      "fait": "Les cols bleus de Montréal pourraient intensifier leurs moyens de pression à l'approche des Mondiaux de cyclisme, alors que les négociations avec la Ville stagnent. Selon Le Devoir, ils envisagent une escalade de leurs actions."
+      "sujet": "Homicide involontaire Montréal",
+      "fait": "Un homme de 28 ans a plaidé coupable à l'homicide involontaire survenu lors d'une dispute dans un bar de danseuses de la Rive-Nord de Montréal. Selon La Presse, la victime Jessy Bénard-Furtado était un proche du chef de gang Jean-Philippe Célestin."
     },
     {
-      "sujet": "Anthropic watermarks Claude texte IA",
-      "fait": "Anthropic a clarifié que son système de marquage pour les textes générés par Claude utilise l'approche SynthID-Text, développée par Google DeepMind, pour se conformer aux règles de transparence de l'UE. D'après The Verge, cette technologie crée des motifs détectables basés sur les probabilités de mots."
+      "sujet": "Appel Trump E. Jean Carroll",
+      "fait": "La Cour suprême américaine a rejeté l'appel du président Trump contre le verdict de 5 millions de dollars en faveur de E. Jean Carroll. Selon CBC World, un jury avait en 2023 jugé Trump responsable d'agression sexuelle et de diffamation envers l'ancienne chroniqueuse."
     },
     {
-      "sujet": "Crise lancement satellites orbital",
-      "fait": "Les opérateurs de satellites connaissent une crise d'accès aux lancements malgré une moyenne de 270 fusées orbitales lancées par an au cours des trois dernières années, soit trois fois plus qu'une décennie auparavant. Selon Ars Technica, une pénurie croissante de disponibilité de lancements affecte l'industrie."
+      "sujet": "Arrestations homicide Brampton",
+      "fait": "Cinq personnes ont été arrêtées et font face à des accusations dans une enquête sur un double homicide survenu dans une école primaire de Brampton en avril dernier. Selon Global News, les arrestations constituent une avancée majeure dans cette affaire."
     },
     {
-      "sujet": "Beef australien moins cher Canada",
-      "fait": "Du boeuf australien est maintenant disponible en magasins en Saskatchewan à des prix considérablement plus bas que le boeuf canadien. D'après la CBC, cet approvisionnement en importations reflète des différences de coûts commerciaux."
+      "sujet": "Régulation Apple App Tracking",
+      "fait": "L'Office fédéral allemand des cartels a ordonné à Apple de modifier ses invites de consentement à la collecte de données, jugées favorables à ses propres applications. Selon The Verge, les invites App Tracking Transparency avaient coûté aux applications de réseaux sociaux près de 10 milliards de dollars lors de leur lancement avec iOS 14.5."
     }
   ]
 }
