@@ -1,54 +1,46 @@
 {
-  "generated_at": "2026-08-17T19:28:03.475798+00:00",
+  "generated_at": "2026-08-17T22:23:10.064141+00:00",
   "window_hours": 8,
   "faits": [
     {
-      "sujet": "Tarifs américains sur produits canadiens",
-      "fait": "Le Canada fait face à des tarifs de 50% sur 29 milliards de dollars de produits canadiens en moins de deux jours. Le Premier ministre Mark Carney dit prévoir de parler avec le président Trump avant la date limite. Selon National Post."
+      "sujet": "Pistes cyclables Ontario",
+      "fait": "Le plus haut tribunal de l'Ontario a autorisé le gouvernement Ford à retirer des pistes cyclables, renversant une décision antérieure d'un tribunal de première instance qui avait jugé la loi en contravention de la Charte. (Selon Le Devoir)"
     },
     {
-      "sujet": "Accord Churchill Falls hydroélectricité",
-      "fait": "Le Québec, Terre-Neuve et Ottawa ont annoncé un accord non contraignant pour redévelopper et agrandir l'installation hydroélectrique de Churchill Falls. Le Québec recevra environ 10 000 mégawatts selon le nouvel accord. D'après Radio-Canada et National Post."
+      "sujet": "Churchill Falls négociation",
+      "fait": "Le nouvel accord sur Churchill Falls prévoit que le Québec recevra environ 10 000 mégawatts d'électricité. La première ministre Christine Fréchette affirme vouloir être réélue pour signer l'entente. (D'après Radio-Canada)"
     },
     {
-      "sujet": "Financement Higgsfield IA vidéo",
-      "fait": "Higgsfield, fondée par l'ancien dirigeant de Snap Alex Mashrabov, a levé 400 millions de dollars en série B, quadruplant sa valorisation en 8 mois à 5,4 milliards de dollars. Selon TechCrunch."
+      "sujet": "Tarifs douaniers États-Unis",
+      "fait": "Le Canada se prépare à l'imposition de tarifs américains de 50%, les négociateurs restant éloignés d'un accord. Les négociations se poursuivent intensivement pour éviter de nouveaux tarifs dès mercredi. (Selon Reuters et Radio-Canada)"
     },
     {
-      "sujet": "Découverte destruction livres rares IA",
-      "fait": "Un Airtag caché dans un livre rare a révélé qu'Amazon détruit des lots importants de livres rares après les avoir numérisés dans une installation IA à Las Vegas. Amazon a refusé de commenter spécifiquement la formation à l'IA. Selon Ars Technica."
+      "sujet": "Dollar canadien inflation",
+      "fait": "Le dollar canadien s'est affermi près de son plus haut de deux mois alors que l'inflation s'accélère. (D'après Reuters)"
     },
     {
-      "sujet": "Changement comptage vues YouTube",
-      "fait": "YouTube comptera une vue dès le démarrage d'une vidéo à partir du 24 août, alignant sa méthode sur Instagram et TikTok. La plateforme maintiendra une métrique d'« engaged views » pour l'ancienne méthode. Selon The Verge."
+      "sujet": "Traité 6 Alberta",
+      "fait": "Le ministre des Relations autochtones de l'Alberta a manqué la célébration du 150e anniversaire du Traité 6, suscitant un appel du chef autochtone pour plus de respect du gouvernement provincial. (D'après Global News et CBC)"
     },
     {
-      "sujet": "Crimes haineux États-Unis 2025",
-      "fait": "Les crimes haineux aux États-Unis ont diminué d'environ 7% passant de 11 404 incidents en 2024 à 10 606 en 2025. Les Juifs américains représentaient 64% des crimes haineux basés sur la religion. Selon le FBI via National Post."
+      "sujet": "Départ FIFA Kevin Lamour",
+      "fait": "Kevin Lamour, directeur général de la FIFA, a quitté l'organisation quelques semaines après avoir critiqué publiquement le plan du président Gianni Infantino de vendre une participation dans le business des tournois, incluant la Coupe du monde. (Selon CBC)"
     },
     {
-      "sujet": "Politicien russe condamné opposition guerre",
-      "fait": "Lev Shlosberg, membre senior du parti Yabloko, a été condamné à 11 ans et un mois de prison pour s'être opposé à la guerre en Ukraine. Selon Al Jazeera."
+      "sujet": "Approbation Trump États-Unis",
+      "fait": "L'approbation du président Donald Trump a chuté à 33%, son plus bas niveau depuis le début de sa présidence, selon un sondage Reuters/Ipsos. (D'après Reuters)"
     },
     {
-      "sujet": "Interdiction réseaux sociaux moins 16 ans",
-      "fait": "Le Canada risque de faire face à des contestations constitutionnelles concernant son projet d'interdiction des réseaux sociaux pour les mineurs de moins de 16 ans, selon les experts. D'après Le Devoir et La Presse."
+      "sujet": "Amende Verizon FCC",
+      "fait": "La Cour suprême a rejeté la demande de remboursement de 47 millions de dollars de Verizon concernant une amende de la FCC. Verizon, AT&T et T-Mobile ont été condamnés à une amende totale de 196 millions en 2024 pour avoir vendu des données de localisation sans consentement. (Selon Ars Technica)"
     },
     {
-      "sujet": "Approbation médicament bouffées chaleur",
-      "fait": "Santé Canada a autorisé un médicament pour traiter les bouffées de chaleur modérées à graves et les sueurs nocturnes chez les patientes atteintes du cancer du sein. Selon Global News."
+      "sujet": "Relay startup fermeture",
+      "fait": "La startup d'automatisation IA Relay a fermé ses portes, son personnel rejoignant l'équipe Chrome de Google pour travailler sur l'intégration de l'IA dans le navigateur. (D'après TechCrunch)"
     },
     {
-      "sujet": "Négociations Oman Iran Détroit Hormuz",
-      "fait": "Trump a menacé de bombarder Oman, allié américain qui mène ses propres négociations avec l'Iran pour rouvrir le Détroit d'Hormuz. Cette menace intervient alors qu'une fenêtre de 60 jours pour les négociations de paix expire. Selon BBC World."
-    },
-    {
-      "sujet": "NexGen Energy discussions financement uranium",
-      "fait": "La société minière canadienne NexGen Energy mène des pourparlers avec BHP pour obtenir 1 milliard de dollars pour son projet d'uranium. Selon Reuters."
-    },
-    {
-      "sujet": "PDG L3Harris révoqué manquement conduite",
-      "fait": "Le PDG de L3Harris, Kubasik, a été révoqué pour manquement à la conduite, remplacé en interne par Mehta. Selon Reuters Business."
+      "sujet": "Alertes spyware Apple",
+      "fait": "Un nombre sans précédent d'utilisateurs Apple ont reçu une alerte récente de menace liée à un spyware, selon des experts en cybersécurité. (D'après TechCrunch)"
     }
   ]
 }
