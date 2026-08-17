@@ -1,50 +1,54 @@
 {
-  "generated_at": "2026-08-17T16:26:51.485640+00:00",
+  "generated_at": "2026-08-17T19:28:03.475798+00:00",
   "window_hours": 8,
   "faits": [
     {
-      "sujet": "Accord énergétique Churchill Falls",
-      "fait": "Le Québec et Terre-Neuve-et-Labrador ont convenu de lancer un projet énergétique d'environ 70 milliards de dollars impliquant les chantiers de Churchill Falls et Gull Island, avec un coup de pouce d'Ottawa, bien que l'entente reste à être finalisée. Selon Radio-Canada, le nouvel accord prévoit que le Québec recevra environ 10 000 mégawatts."
+      "sujet": "Tarifs américains sur produits canadiens",
+      "fait": "Le Canada fait face à des tarifs de 50% sur 29 milliards de dollars de produits canadiens en moins de deux jours. Le Premier ministre Mark Carney dit prévoir de parler avec le président Trump avant la date limite. Selon National Post."
     },
     {
-      "sujet": "Tarifs douaniers États-Unis Canada",
-      "fait": "Le Canada et les États-Unis négocient de façon intensive pour éviter de nouveaux tarifs douaniers américains dès mercredi. Selon Radio-Canada, les deux camps sont en pourparlers pour contrer une hausse de 50 % des tarifs sur les exportations."
+      "sujet": "Accord Churchill Falls hydroélectricité",
+      "fait": "Le Québec, Terre-Neuve et Ottawa ont annoncé un accord non contraignant pour redévelopper et agrandir l'installation hydroélectrique de Churchill Falls. Le Québec recevra environ 10 000 mégawatts selon le nouvel accord. D'après Radio-Canada et National Post."
     },
     {
-      "sujet": "Budget du Québec 2027",
-      "fait": "Le prochain gouvernement du Québec devra faire des coupes budgétaires d'au moins 2 milliards de dollars à partir de l'année prochaine pour rester sur track vers un budget équilibré. Selon Global News, c'est ce que conclut un nouveau rapport du vérificateur général."
+      "sujet": "Financement Higgsfield IA vidéo",
+      "fait": "Higgsfield, fondée par l'ancien dirigeant de Snap Alex Mashrabov, a levé 400 millions de dollars en série B, quadruplant sa valorisation en 8 mois à 5,4 milliards de dollars. Selon TechCrunch."
     },
     {
-      "sujet": "Investissement Nvidia SpaceX",
-      "fait": "Nvidia a divulgué qu'elle possède près de 123 millions d'actions de SpaceX, valorisées à environ 21 milliards de dollars fin juin. Selon Ars Technica, cette participation reflète les liens financiers entrecroisés entre le fabricant de puces et ses grands clients."
+      "sujet": "Découverte destruction livres rares IA",
+      "fait": "Un Airtag caché dans un livre rare a révélé qu'Amazon détruit des lots importants de livres rares après les avoir numérisés dans une installation IA à Las Vegas. Amazon a refusé de commenter spécifiquement la formation à l'IA. Selon Ars Technica."
     },
     {
-      "sujet": "Financement Groq neocloud",
-      "fait": "Groq a levé 350 millions de dollars à une valorisation de 3,5 milliards de dollars, alors qu'elle bascule son activité de fabricant de puces d'IA vers le secteur du neocloud. Selon TechCrunch, l'entreprise développe également son empreinte dans les centres de données alimentés par Nvidia."
+      "sujet": "Changement comptage vues YouTube",
+      "fait": "YouTube comptera une vue dès le démarrage d'une vidéo à partir du 24 août, alignant sa méthode sur Instagram et TikTok. La plateforme maintiendra une métrique d'« engaged views » pour l'ancienne méthode. Selon The Verge."
     },
     {
-      "sujet": "Investissement Nvidia SoftBank",
-      "fait": "Nvidia investit 1,5 milliard de dollars dans le développeur de centres de données de SoftBank, derrière le projet OpenAI, ce qui garantira que ses puces alimentent ce centre de données. Selon TechCrunch, cet investissement crée une intégration verticale entre le fournisseur de puces et l'infrastructure cloud."
+      "sujet": "Crimes haineux États-Unis 2025",
+      "fait": "Les crimes haineux aux États-Unis ont diminué d'environ 7% passant de 11 404 incidents en 2024 à 10 606 en 2025. Les Juifs américains représentaient 64% des crimes haineux basés sur la religion. Selon le FBI via National Post."
     },
     {
-      "sujet": "Fermeture école primaire Québec",
-      "fait": "Une école primaire de Québec a été fermée d'urgence dix jours avant la rentrée suite à la découverte de fissures dans la structure du bâtiment. Selon La Presse, les élèves seront relocalisés pour au moins l'année scolaire 2026-2027."
+      "sujet": "Politicien russe condamné opposition guerre",
+      "fait": "Lev Shlosberg, membre senior du parti Yabloko, a été condamné à 11 ans et un mois de prison pour s'être opposé à la guerre en Ukraine. Selon Al Jazeera."
     },
     {
-      "sujet": "Homicide involontaire Montréal",
-      "fait": "Un homme de 28 ans a plaidé coupable à l'homicide involontaire survenu lors d'une dispute dans un bar de danseuses de la Rive-Nord de Montréal. Selon La Presse, la victime Jessy Bénard-Furtado était un proche du chef de gang Jean-Philippe Célestin."
+      "sujet": "Interdiction réseaux sociaux moins 16 ans",
+      "fait": "Le Canada risque de faire face à des contestations constitutionnelles concernant son projet d'interdiction des réseaux sociaux pour les mineurs de moins de 16 ans, selon les experts. D'après Le Devoir et La Presse."
     },
     {
-      "sujet": "Appel Trump E. Jean Carroll",
-      "fait": "La Cour suprême américaine a rejeté l'appel du président Trump contre le verdict de 5 millions de dollars en faveur de E. Jean Carroll. Selon CBC World, un jury avait en 2023 jugé Trump responsable d'agression sexuelle et de diffamation envers l'ancienne chroniqueuse."
+      "sujet": "Approbation médicament bouffées chaleur",
+      "fait": "Santé Canada a autorisé un médicament pour traiter les bouffées de chaleur modérées à graves et les sueurs nocturnes chez les patientes atteintes du cancer du sein. Selon Global News."
     },
     {
-      "sujet": "Arrestations homicide Brampton",
-      "fait": "Cinq personnes ont été arrêtées et font face à des accusations dans une enquête sur un double homicide survenu dans une école primaire de Brampton en avril dernier. Selon Global News, les arrestations constituent une avancée majeure dans cette affaire."
+      "sujet": "Négociations Oman Iran Détroit Hormuz",
+      "fait": "Trump a menacé de bombarder Oman, allié américain qui mène ses propres négociations avec l'Iran pour rouvrir le Détroit d'Hormuz. Cette menace intervient alors qu'une fenêtre de 60 jours pour les négociations de paix expire. Selon BBC World."
     },
     {
-      "sujet": "Régulation Apple App Tracking",
-      "fait": "L'Office fédéral allemand des cartels a ordonné à Apple de modifier ses invites de consentement à la collecte de données, jugées favorables à ses propres applications. Selon The Verge, les invites App Tracking Transparency avaient coûté aux applications de réseaux sociaux près de 10 milliards de dollars lors de leur lancement avec iOS 14.5."
+      "sujet": "NexGen Energy discussions financement uranium",
+      "fait": "La société minière canadienne NexGen Energy mène des pourparlers avec BHP pour obtenir 1 milliard de dollars pour son projet d'uranium. Selon Reuters."
+    },
+    {
+      "sujet": "PDG L3Harris révoqué manquement conduite",
+      "fait": "Le PDG de L3Harris, Kubasik, a été révoqué pour manquement à la conduite, remplacé en interne par Mehta. Selon Reuters Business."
     }
   ]
 }
