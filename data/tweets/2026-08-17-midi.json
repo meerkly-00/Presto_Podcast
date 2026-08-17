@@ -1,13 +1,13 @@
 {
   "date": "2026-08-17",
   "kind": "poll",
-  "text": "Ce matin → L'épidémie d'Ebola en RDC est devenue la plus meurtrière de l'histoire du pays, avec 2 325 morts.\n\nNouveau : L'ONU avertit que le virus progresse à un rythme d'un décès toutes les 28\n\nSelon toi, les efforts de confinement d'une épidémie doivent d'abord reposer sur:",
+  "text": "Ce matin → Les négociations entre le Canada et les États-Unis se poursuivent pour éviter de nouveaux tarifs douaniers.\n\nNouveau : Selon un sondage Abacus Data, moins de 20 % des Canadiens\n\nCrois-tu que le Canada devrait faire des concessions commerciales pour éviter les tarifs ?",
   "poll": {
     "options": [
-      "Les ressources locales",
-      "L'aide et coordination",
-      "Les deux en parallèle",
-      "Les mesures de santé"
+      "Oui, pour protéger",
+      "Non, maintenir la",
+      "Seulement certains",
+      "Trop tôt pour dire"
     ],
     "duration_minutes": 1440
   }
