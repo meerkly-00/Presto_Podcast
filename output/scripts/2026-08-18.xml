@@ -1,83 +1,87 @@
 ```xml
 <script>
-  <intro>Bonjour, on est le mardi dix-huit août deux mille vingt-six. Voici votre Presto en environ quinze minutes. Au menu : le commerce entre le Canada et Washington à l'approche de la date butoir, une annonce attendue du Parti québécois sur un référendum, les tensions au Moyen-Orient et le dossier iranien, l'économie et les marchés, puis la tech avec Anthropic.</intro>
-
-  <chapitre titre="Politique canadienne et commerce avec Washington">
-Le dossier commercial avec Washington continue de dominer l'actualité fédérale à l'approche de l'échéance. Selon Reuters, les négociateurs canadiens et américains restent loin d'un accord alors qu'Ottawa se prépare à des droits de douane américains de cinquante pour cent. Al Jazeera rapporte que les autorités canadiennes multiplient les efforts de dernière minute pour éviter cette échéance tarifaire.
-
-Selon Reuters, les deux pays tentent aussi de trouver un terrain d'entente sur des réductions ciblées de tarifs dans le secteur automobile. En Colombie-Britannique, Global News rapporte qu'un fabricant de contreplaqué affirme ne pas pouvoir absorber le coût d'un tarif de cinquante pour cent, alors que la date limite approche. Toujours selon Global News, le premier ministre provincial hésite à faire des concessions, comme le retour de l'alcool américain sur les tablettes, sans obtenir en retour un allègement tarifaire pour des industries clés comme la foresterie.
-
-Par ailleurs, Radio-Canada rapporte qu'Ottawa s'apprête à abroger l'obligation de vente de véhicules électriques. Selon le média, les normes d'émissions plus strictes promises par le premier ministre Mark Carney pour remplacer cette obligation sont loin d'être finalisées.
-
-Toujours à Ottawa, Radio-Canada rapporte que le gouvernement se penchera sur ses vérifications de sécurité après l'arrestation d'une stagiaire canadienne soupçonnée d'espionnage à l'OTAN. Les conservateurs déplorent, selon le média, qu'une espionne présumée ait réussi à tromper les vérifications gouvernementales. La Presse précise qu'une commission parlementaire prévoit organiser des auditions sur le processus de contrôle de sécurité au Canada.
-
-En Nouvelle-Écosse, Global News rapporte que le ministre de l'Énergie fait face à des appels à la démission après la résurgence de paroles de chansons rap qu'il avait écrites il y a une dizaine d'années. Des défenseures des droits des femmes soutiennent qu'une excuse publique du ministre ne suffit pas.
-  </chapitre>
+  <intro>Bonjour, on est le mardi dix-huit août deux mille vingt-six. Voici votre Presto en environ quinze minutes. Au menu : l'actualité québécoise avec le Parti québécois et Churchill Falls, le dossier commercial avec Washington, l'international avec les tensions au Moyen-Orient et en Europe de l'Est, l'économie et les marchés, et un mot sur la tech.</intro>
 
   <chapitre titre="Actualité québécoise">
-À Québec, le Parti québécois s'apprête à faire une annonce qualifiée d'importante sur la tenue d'un référendum. Selon La Presse, le chef péquiste Paul St-Pierre Plamondon doit tenir cette annonce ce matin, à l'aube du déclenchement des élections, et laisse planer le suspense sur les réseaux sociaux depuis hier. Radio-Canada, de son côté, rapporte que le chef péquiste ne compte pas reculer sur sa volonté de tenir un référendum.
+    À Québec, le chef péquiste Paul St-Pierre Plamondon doit faire une déclaration qualifiée d'importante ce matin sur la tenue d'un référendum, à l'aube du déclenchement des élections. Selon Radio-Canada, il ne compte pas reculer sur sa volonté d'en tenir un.
 
-Ailleurs au Québec, La Presse rapporte que l'unique restaurant Tim Hortons des Îles-de-la-Madeleine va fermer ses portes dans moins d'un mois, faute de main-d'œuvre. Le propriétaire pointe, selon le média, le resserrement des politiques d'immigration, un enjeu qui s'ajoute à celui du vieillissement accéléré de l'archipel.
+    Toujours à Québec, La Presse rapporte que le Parti québécois répète que la ministre des Relations canadiennes, Christine Fréchette, n'avait pas la légitimité pour négocier la nouvelle entente d'au moins quarante-cinq milliards de dollars avec Terre-Neuve-et-Labrador sur Churchill Falls. Selon le Parti québécois, c'est plutôt Hydro-Québec qui menait ces négociations. Toujours selon La Presse, le potentiel énergétique du complexe de Churchill Falls a bondi de cinquante pour cent en l'espace de deux ans à peine, depuis la dernière entente entre Québec et Terre-Neuve-et-Labrador.
 
-En Ontario, Le Devoir rapporte que le plus haut tribunal de la province autorise le gouvernement de Doug Ford à retirer des pistes cyclables. Un tribunal de première instance avait auparavant donné raison à des cyclistes, jugeant la loi en contravention de la Charte.
+    À Montréal, La Presse rapporte que des syndicats unissent leurs forces pour dénoncer ce qu'ils appellent la privatisation du Vieux-Port de Montréal, qu'ils estiment responsable d'une réduction de l'accès public au fleuve depuis quelques années. Des pancartes sont apparues dans le quartier ces derniers jours pour faire pression sur les gouvernements.
 
-À Montréal, La Presse rapporte qu'une femme a été retrouvée morte et qu'un homme a été grièvement blessé après avoir été poignardés dans un appartement du quartier Saint-Michel. L'homme demeure hospitalisé dans un état critique.
+    Du côté du troisième lien, Radio-Canada rapporte que des camionneurs critiquent le projet porté par Éric Duhaime. En anglais, je le cite : "Ce n'est pas l'idée du siècle." Fin de citation, selon les mots de Carl Beaulieu, cofondateur du média spécialisé On the Road.
+
+    En faits divers, La Presse rapporte qu'une femme a été retrouvée morte et qu'un homme repose dans un état critique à l'hôpital après avoir été poignardés dans un appartement du quartier Saint-Michel, à Montréal, lundi après-midi.
+  </chapitre>
+
+  <chapitre titre="Politique canadienne et commerce avec Washington">
+    Le dossier commercial avec Washington continue de dominer l'actualité fédérale à l'approche de l'échéance. Selon Reuters, les négociateurs canadiens et américains restent loin d'un accord alors qu'Ottawa se prépare à des droits de douane américains de cinquante pour cent. Toujours selon Reuters, les deux parties tentent de trouver un terrain d'entente sur d'éventuelles réductions tarifaires dans le secteur de l'automobile.
+
+    Du côté britanno-colombien, Global News rapporte qu'un fabricant de contreplaqué affirme ne pas pouvoir absorber le coût d'un tarif de cinquante pour cent alors que l'échéance approche. Selon le média, le premier ministre de la province demeure réticent à faire des concessions, comme le retour de l'alcool américain sur les tablettes, sans allègement tarifaire pour des industries clés comme la foresterie.
+
+    Aux États-Unis, CBC rapporte que des entrepreneurs américains ne veulent pas rompre avec leurs fournisseurs canadiens, mais que des tarifs soutenus de cinquante pour cent pourraient ne leur laisser aucun autre choix. Selon des propriétaires d'entreprises cités par CBC, cela forcerait la fin de relations de bonne foi qui durent depuis plus d'un an et demi.
+
+    En Nouvelle-Écosse, Global News rapporte que le ministre de l'Énergie, Marco MacLeod, fait face à des appels à la démission après la résurgence de paroles de chanson rap datant d'une dizaine d'années. Selon des groupes de défense des droits des femmes cités par Global News, des excuses publiques du ministre ne suffisent pas.
+
+    Toujours à Ottawa, CBC rapporte que l'ambassadeur américain Pete Hoekstra, dont les faux pas ont mené des dizaines de milliers de Canadiens à signer une pétition réclamant son départ, reste relativement discret par rapport à certains scandales provoqués par d'autres ambassadeurs de l'administration Trump dans des pays alliés.
+
+    Enfin, Radio-Canada rapporte que le procès intenté contre Meta par plusieurs États américains entre dans le vif du sujet aujourd'hui. Ces États réclament à l'entreprise près de deux cents milliards de dollars en pénalités liées à l'impact des réseaux sociaux sur les mineurs.
   </chapitre>
 
   <chapitre titre="International">
-Au Moyen-Orient, la diplomatie autour du plan de paix pour Gaza montre des signes d'essoufflement. Selon Al Jazeera, le Board of Peace revient sur l'entente de désarmement de Gaza, alors que des colons israéliens assiègent des maisons palestiniennes en Cisjordanie. Toujours selon Al Jazeera, une vidéo diffusée par le Croissant-Rouge palestinien montre des enfants de colons israéliens attaquant et bloquant une ambulance en Cisjordanie occupée.
+    Au Moyen-Orient, la diplomatie autour du plan de paix pour Gaza montre des signes d'essoufflement. Selon l'Associated Press, une rencontre marathon entre les États-Unis et Israël a produit de l'optimisme, mais aucun engagement ferme envers le plan américain pour Gaza.
 
-L'Associated Press rapporte que la rencontre-marathon entre les États-Unis et Israël a produit de l'optimisme, mais aucun engagement ferme envers le plan américain pour Gaza.
+    Toujours dans la région, l'Associated Press rapporte que le président américain Donald Trump menace à nouveau de bombarder Oman si le pays, je le cite, "gets in the way." Fin de citation, alors que l'Iran affirme travailler avec ce pays du Golfe sur un plan de gestion du transport maritime dans le détroit d'Ormuz. Selon l'Associated Press, la pleine réouverture de cette voie navigable demeure une exigence clé des États-Unis.
 
-Du côté du dossier iranien, CBC rapporte que le président américain Donald Trump menace de nouveau Oman, alors que l'Iran affirme collaborer avec ce pays du Golfe sur un plan de gestion du trafic maritime dans le détroit d'Ormuz. La pleine réouverture de cette voie navigable demeure une exigence clé des États-Unis. Selon Reuters, le pétrole progresse alors que s'estompent les espoirs d'une paix entre les États-Unis et l'Iran, ce qui fait craindre des risques sur l'approvisionnement.
+    En Syrie, Al Jazeera rapporte qu'un tribunal a condamné à mort Wassim al-Assad, cousin de Bashar al-Assad et ancienne figure du régime déchu, reconnu coupable notamment de meurtre prémédité et de torture.
 
-En Europe, la BBC rapporte que la Russie affirme que le Royaume-Uni "va payer" pour avoir fourni des drones à l'Ukraine. Un porte-parole du ministère britannique de la Défense a répondu que la Grande-Bretagne se tient, je le cite, "shoulder to shoulder" avec l'Ukraine. Fin de citation. National Post précise que Moscou a averti Londres qu'il y aurait un prix à payer après des informations selon lesquelles des drones fabriqués au Royaume-Uni et fournis à l'Ukraine auraient frappé loin à l'intérieur du territoire russe.
+    En Cisjordanie et à Gaza, selon Al Jazeera, le Board of Peace revient sur l'entente de désarmement de Gaza, alors que des colons israéliens assiègent des maisons palestiniennes en Cisjordanie.
 
-En Belgique, CBC rapporte qu'un des plus grands feux de forêt de l'histoire du pays continuait de progresser hier malgré un temps plus frais et de la pluie, alors qu'en Grèce, un incendie s'est brièvement ravivé près de l'aéroport principal d'Athènes.
+    En Europe de l'Est, la Russie hausse le ton. Selon la BBC et Reuters, Moscou avertit le Royaume-Uni qu'il y aura des conséquences pour avoir fourni des drones à l'Ukraine. Un porte-parole du ministère de la Défense britannique a répondu que le pays se tient, je le cite, "shoulder to shoulder" avec l'Ukraine. Fin de citation.
 
-En Zambie, CBC rapporte que le président Hakainde Hichilema a été réélu pour un deuxième mandat de cinq ans, à la suite d'une soirée électorale marquée par de la violence. Le chef de l'opposition a néanmoins connu des résultats étonnamment forts, capitalisant sur la frustration publique face aux difficultés persistantes malgré un redressement économique.
+    Toujours dans ce dossier, CBC rapporte que la découverte d'un drone chargé d'explosifs et muni d'un détonateur à l'aéroport allemand de Leipzig soulève des questions sur une menace russe grandissante envers l'OTAN. Selon CBC, le ministre russe des Affaires étrangères, Sergueï Lavrov, a signalé l'intention de Moscou d'intensifier ses représailles contre les pays qui aident l'Ukraine.
 
-En Corée, Le Devoir rapporte que Séoul cherche à rassurer Pyongyang au sujet de ses exercices militaires avec Washington. Le président sud-coréen affirme, selon le média, que l'objectif est de préserver la vie quotidienne de la population.
+    En Corée, Le Devoir rapporte que Séoul cherche à rassurer Pyongyang au sujet de ses exercices militaires avec Washington. Selon le président sud-coréen, l'objectif est de, je le cite, "préserver les vies quotidiennes de la population." Fin de citation.
+
+    Au Pakistan, Al Jazeera et Reuters rapportent que la Cour suprême a ordonné le transfert de l'ex-premier ministre emprisonné Imran Khan vers un hôpital, pour une durée d'un mois, après des inquiétudes soulevées au sujet de sa tension artérielle.
+
+    En Cour pénale internationale, Radio-Canada se penche sur la promesse du secrétaire d'État américain Marco Rubio de démanteler l'institution, je le cite, "brique par brique." Fin de citation. Selon Radio-Canada, cette promesse semble marquer une nouvelle phase dans les tensions entre Washington et la Cour.
   </chapitre>
 
   <chapitre titre="Économie et marchés">
-On passe à l'économie. Selon Bloomberg, les actions ont reculé et le pétrole a progressé dans un contexte d'incertitude au Moyen-Orient. Le Wall Street Journal rapporte que le pétrole grimpe et que les rendements obligataires progressent en raison des tensions autour de l'Iran.
+    On passe à l'économie. Selon Bloomberg, les actions ont reculé et le pétrole a progressé dans un contexte d'incertitude au Moyen-Orient. Le Wall Street Journal rapporte que le pétrole grimpe et que les rendements obligataires progressent en raison des tensions autour de l'Iran. Toujours selon Reuters, les obligations et les actions ont été secouées alors que les tensions au Moyen-Orient viennent perturber le calme récent des marchés.
 
-Du côté chinois, Bloomberg rapporte que le numéro deux du régime de Xi Jinping presse à un soutien accru à l'économie après un ralentissement important de la croissance. Le Wall Street Journal, de son côté, rapporte que l'économie chinoise s'affaiblit sur plusieurs fronts alors que la crise immobilière s'aggrave.
+    Du côté de l'Allemagne, Bloomberg rapporte que les perspectives des investisseurs s'améliorent alors que l'économie du pays gagne du terrain.
 
-Aux États-Unis, le Financial Times rapporte que des économistes de la Banque centrale européenne préviennent qu'une correction des actions technologiques américaines est probable. Le Wall Street Journal rapporte de son côté que l'enthousiasme entourant l'intelligence artificielle ne parvient pas à faire progresser les marchés boursiers. Toujours selon le Financial Times, des inquiétudes circulent au sujet de la solvabilité des États-Unis.
+    En Chine, selon Bloomberg, le numéro deux du régime de Xi Jinping presse les autorités d'offrir davantage de soutien à l'économie après un ralentissement important de la croissance.
 
-Du côté des entreprises, Reuters rapporte, en exclusivité, que le mineur canadien NexGen Energy tient des discussions avec le géant minier BHP alors qu'il cherche à obtenir un milliard de dollars pour un projet d'uranium. Toujours selon Reuters, Google s'apprête à acheter des données d'affaires de Spirit Airlines pour dix millions de dollars.
+    Aux États-Unis, le Wall Street Journal rapporte que l'enthousiasme entourant l'intelligence artificielle ne parvient pas à faire progresser les marchés boursiers. Toujours selon Bloomberg, les actions ont chuté alors qu'une liquidation obligataire a miné l'appétit pour le risque.
 
-Du côté bancaire, le Financial Times rapporte que Barclays revoit la structure de sa banque d'investissement, moins de trois ans après sa dernière restructuration.
+    Du côté des transactions, Reuters rapporte que Google prévoit acheter des données d'affaires de Spirit Airlines pour dix millions de dollars américains.
 
-Au pays, Reuters rapporte que le Canada et les États-Unis tentent de rapprocher leurs positions sur d'éventuelles réductions de tarifs dans le secteur automobile, un dossier qui rejoint celui évoqué plus tôt sur les négociations commerciales globales.
+    Chez les mineurs canadiens, Reuters rapporte, en exclusivité, que la société NexGen Energy mène des discussions avec BHP dans le but d'obtenir un milliard de dollars américains pour un projet d'uranium.
 
-Le Financial Times rapporte également que la Russie a congédié un économiste après une mise en garde de sa part concernant la guerre en Ukraine.
+    Du côté bancaire, le Financial Times rapporte que Barclays revoit la structure de sa banque d'investissement, moins de trois ans après sa dernière restructuration.
+
+    Au Québec, Les Affaires rapporte que Fondaction et la Banque de développement du Canada investissent dans Icentia pour accélérer le déploiement d'une innovation québécoise en diagnostic cardiovasculaire.
+
+    Enfin, sur le fonds souverain proposé par le premier ministre Mark Carney, Les Affaires rappelle qu'il s'agit d'une idée que Mark Carney avait déjà vendue aux Britanniques, sans succès à l'époque.
   </chapitre>
 
   <chapitre titre="Tech">
-Un mot sur la tech. TechCrunch rapporte que le revenu annualisé de l'entreprise d'intelligence artificielle Anthropic a bondi à soixante-cinq milliards de dollars. Selon le média, l'entreprise a ajouté dix-huit milliards de dollars de revenu annualisé en seulement deux mois.
+    Un mot sur la tech. TechCrunch rapporte que le revenu annualisé de l'entreprise d'intelligence artificielle Anthropic a bondi à soixante-cinq milliards de dollars. Selon le média, l'entreprise a ajouté dix-huit milliards de dollars de revenu annualisé en seulement deux mois.
 
-Toujours selon TechCrunch, la jeune entreprise d'automatisation par intelligence artificielle Relay a fermé ses portes, son personnel se joignant à l'équipe Chrome de Google. Le fondateur et chef de la direction de Relay, Jacob Bank, a dit avoir, je le cite, "really ambitious plans to help you work with AI in Chrome". Fin de citation.
+    Chez Apple, The Verge rapporte qu'une vidéo qui aurait fuité montre des AirPods équipés d'une caméra. Selon le média, repris d'un rapport de Bloomberg, ces AirPods captureraient de l'information visuelle en basse résolution pour alimenter une fonction dite d'intelligence visuelle.
 
-Du côté de la sécurité informatique, TechCrunch rapporte qu'un nombre jugé inhabituellement élevé d'utilisateurs Apple ont reçu récemment une alerte de type logiciel espion, selon des chercheurs en cybersécurité qui enquêtent sur ces attaques.
+    Toujours chez Apple, TechCrunch rapporte qu'un nombre jugé inhabituellement élevé d'utilisateurs a récemment reçu une alerte de menace liée à un logiciel espion. Selon des experts en cybersécurité cités par le média, ce volume d'alertes sort de l'ordinaire.
 
-Ars Technica rapporte que d'anciens ingénieurs de SpaceX ont lancé une nouvelle entreprise, nommée mille huit cent soixante-douze, qui construit une usine robotisée pour fabriquer des pièces d'acier destinées notamment aux centres de données d'intelligence artificielle et aux petits réacteurs nucléaires modulaires. L'objectif immédiat de l'entreprise est d'automatiser la majeure partie du processus de fabrication d'ici deux mille vingt-sept.
+    Du côté des start-ups d'intelligence artificielle, TechCrunch rapporte que Relay, une entreprise spécialisée en automatisation par intelligence artificielle, ferme ses portes, et que son personnel se joint à l'équipe Chrome de Google.
 
-Du côté de la santé publique américaine, Ars Technica rapporte que les données des Centres pour le contrôle et la prévention des maladies montrent que les taux de vaccination des enfants de maternelle ont de nouveau reculé aux États-Unis. Le taux de vaccination contre la rougeole, les oreillons et la rubéole s'établit maintenant à quatre-vingt-douze virgule quatre pour cent, sous le seuil de quatre-vingt-quinze pour cent nécessaire pour éviter la propagation de maladies évitables par la vaccination dans les communautés.
+    Chez Reddit, The Verge rapporte que la plateforme transforme désormais certaines publications textuelles en balados et en courtes vidéos grâce à des voix générées par intelligence artificielle.
 
-Enfin, Radio-Canada rapporte que le procès de Meta entre dans le vif du sujet aujourd'hui. Plusieurs États américains réclament à l'entreprise près de deux cents milliards de dollars de pénalités, dans un dossier lié à l'impact des réseaux sociaux sur les mineurs.
+    Enfin, Ars Technica rapporte que trois anciens ingénieurs de SpaceX ont lancé une entreprise, baptisée 1872, qui construit une usine robotisée pour la fabrication de pièces d'acier à l'aide de logiciels et de robots pilotés par intelligence artificielle. Selon le chef de la direction de l'entreprise, Dan Summers, cité par Ars Technica, je le cite : "We may achieve 80 percent autonomous operations." Fin de citation.
   </chapitre>
 
-  <chapitre titre="Sport">
-Rapidement en sport. Selon Sportsnet, l'enquête de la NBA sur les Clippers de Los Angeles approche de son dénouement, un dossier suivi de près à Toronto en raison de l'échange déjà conclu des Raptors pour Kawhi Leonard.
-
-Toujours selon Sportsnet, les Blue Jays de Toronto poursuivent leur remontée récente, portée notamment par d'excellentes performances au monticule, alors que l'équipe évalue la durabilité de cette lancée en vue d'une place en série éliminatoire.
-
-Du côté du soccer international, CBC rapporte que la FIFA a confirmé le départ du chef de l'exploitation Kevin Lamour, quelques semaines après qu'il eut publiquement critiqué le plan du président Gianni Infantino de vendre une participation dans les activités tournois de l'organisation, incluant la Coupe du monde.
-  </chapitre>
-
-  <outro>Voilà pour ce Presto du dix-huit août deux mille vingt-six. Si ce briefing vous est utile, le meilleur coup de main que vous pouvez nous donner, c'est de le partager à une personne qui aime rester informée. Et selon votre plateforme : un abonnement sur Spotify ou Apple Podcasts, un pouce bleu et un abonnement sur YouTube, ça prend deux secondes et ça aide vraiment Presto à grandir. Sur ce, bonne journée, et à demain.</outro>
+  <outro>Voilà pour ce Presto du mardi dix-huit août deux mille vingt-six. Si ce briefing vous est utile, le meilleur coup de main que vous pouvez nous donner, c'est de le partager à une personne qui aime rester informée. Et selon votre plateforme : un abonnement sur Spotify ou Apple Podcasts, un pouce bleu et un abonnement sur YouTube, ça prend deux secondes et ça aide vraiment Presto à grandir. Sur ce, bonne journée, et à demain.</outro>
 </script>
 ```
