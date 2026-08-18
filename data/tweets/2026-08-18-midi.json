@@ -1,0 +1,14 @@
+{
+  "date": "2026-08-18",
+  "kind": "poll",
+  "text": "Ce matin → Les tarifs de 50 % de Trump s'appliquent au Canada dans moins de 24h sans accord.\n\nNouveau : Mark Carney a parlé au président lundi et affirme qu'Ottawa a des plans « pour n'importe quelle situation ».\n\nComment le Canada devrait-il réagir aux nouveaux tarifs?",
+  "poll": {
+    "options": [
+      "Négocier rapidement un",
+      "Imposer des tarifs",
+      "Chercher des partenaires",
+      "Attendre avant de réagir"
+    ],
+    "duration_minutes": 1440
+  }
+}
