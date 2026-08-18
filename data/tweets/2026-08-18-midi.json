@@ -1,13 +1,13 @@
 {
   "date": "2026-08-18",
   "kind": "poll",
-  "text": "Ce matin → Les tarifs de 50 % de Trump s'appliquent au Canada dans moins de 24h sans accord.\n\nNouveau : Mark Carney a parlé au président lundi et affirme qu'Ottawa a des plans « pour n'importe quelle situation ».\n\nComment le Canada devrait-il réagir aux nouveaux tarifs?",
+  "text": "Ce matin → L'accord intérimaire États-Unis–Iran expire officiellement.\n\nNouveau : Trump confirme aucune négociation prévue.\n\nComment devraient évoluer les relations diplomatiques États-Unis–Iran?",
   "poll": {
     "options": [
-      "Négocier rapidement un",
-      "Imposer des tarifs",
-      "Chercher des partenaires",
-      "Attendre avant de réagir"
+      "Reprendre les",
+      "Impliquer des médiateurs",
+      "Maintenir la position",
+      "Passer par des voies"
     ],
     "duration_minutes": 1440
   }
