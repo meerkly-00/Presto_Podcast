@@ -1,50 +1,54 @@
 {
-  "generated_at": "2026-08-18T16:30:10.766118+00:00",
+  "generated_at": "2026-08-18T19:26:41.126289+00:00",
   "window_hours": 8,
   "faits": [
     {
-      "sujet": "Tesla Cybercab lancement public",
-      "fait": "Selon The Verge, Tesla prévoit le lancement public du Cybercab à Austin, Texas, dès ce mois-ci. Le véhicule sans volant ni pédales est actuellement testé par les employés sur des routes privées."
+      "sujet": "Tarifs douaniers américains",
+      "fait": "Moins de 24 heures avant l'échéance fixée par Donald Trump pour de nouveaux tarifs. Plus de 60 produits sont soumis aux tarifs douaniers du 19 août. Selon Radio-Canada et Les Affaires, la Chambre de commerce des É.-U. cherche un accord et appelle à un entretien Trump-Carney."
     },
     {
-      "sujet": "Référendum indépendance québécoise",
-      "fait": "D'après Radio-Canada, le Parti québécois ne tiendra pas de référendum tant que Donald Trump sera président des États-Unis, soit avant le 20 janvier 2029."
+      "sujet": "Litige ABC et FCC",
+      "fait": "ABC poursuit la Federal Communications Commission sur la base du Premier Amendement, affirmant que la demande d'examen anticipé des licences de radiodiffusion constitue une menace existentielle pour ses opérations. Selon CBC World, cette action judiciaire rare survient lors d'une escalade du conflit avec l'administration Trump."
     },
     {
-      "sujet": "Tarifs douaniers États-Unis Canada",
-      "fait": "Selon National Post, de nouveaux tarifs américains de 29 milliards de dollars doivent frapper les produits canadiens à minuit le 18 août 2026, à moins qu'un accord soit conclu."
+      "sujet": "Sanctions américaines CPI",
+      "fait": "Les États-Unis imposent des sanctions contre le président de la Cour pénale internationale et un avocat senior. Selon Reuters, cette décision intervient dans un contexte de désaccord entre Washington et la CPI."
     },
     {
-      "sujet": "Augmentation tarifs Peacock",
-      "fait": "Selon The Verge, Peacock augmente ses tarifs le 18 août 2026 : l'offre Select passe de 7,99 $ à 8,99 $/mois, Premium de 10,99 $ à 12,99 $/mois, et Premium Plus de 16,99 $ à 19,99 $/mois."
+      "sujet": "Procès Meta et santé mentale des enfants",
+      "fait": "Un procès fondamental débute en Californie concernant l'impact de Meta sur la santé mentale des enfants. Selon Al Jazeera et l'Associated Press, le procès suit les révélations d'une lanceuse d'alerte en 2021 concernant le mépris de Meta pour la sécurité des utilisateurs."
     },
     {
-      "sujet": "Attaque DDoS Bluesky",
-      "fait": "D'après TechCrunch, Bluesky a confirmé que sa récente panne a été causée par une attaque DDoS, la dernière d'une série en 2026."
+      "sujet": "Protection contre expulsion Éthiopiens",
+      "fait": "Un juge américain autorise l'administration Trump à révoquer le statut de protection contre l'expulsion des Éthiopiens, malgré les préoccupations concernant les conditions dans le pays. Selon Al Jazeera, cette décision de justice permet au gouvernement de procéder à cette révocation."
     },
     {
-      "sujet": "Fraude réseau voitures luxe",
-      "fait": "Selon La Presse, un réseau criminel a dérobé des voitures de luxe valant près de trois millions de dollars, dont des Rolls-Royce à 600 000 $ destinées au port de Montréal."
+      "sujet": "REM de l'Est à Montréal",
+      "fait": "L'administration Valérie Plante cherche à relancer le Réseau express métropolitain (REM) de l'Est, gelé en mai 2022 en raison du manque d'acceptabilité sociale. Selon La Presse, la Ville propose de réviser le projet pour se connecter à la ligne verte du métro."
     },
     {
-      "sujet": "ChatGPT version adolescents",
-      "fait": "D'après Le Devoir, OpenAI lance une version de ChatGPT pour les adolescents avec des paramètres de protection qui s'activent automatiquement si l'utilisateur est mineur."
+      "sujet": "Référendum québécois et Trump",
+      "fait": "Le Parti québécois déclare qu'il ne tiendra pas de référendum tant que Donald Trump sera président des États-Unis. Selon Radio-Canada, le PQ maintient le cap sur une consultation populaire dans le premier mandat, mais pas avant le 20 janvier 2029."
     },
     {
-      "sujet": "Feu de forêt Okanagan",
-      "fait": "Selon Radio-Canada, le feu de Bald Range a détruit environ 150 bâtiments dans la région de Summerland, particulièrement dans les communautés de Faulder et Meadow Valley."
+      "sujet": "Réfugiés américains au Canada",
+      "fait": "Près de la moitié des nouveaux certificats de citoyenneté canadienne émis depuis décembre sont délivrés à des Américains. Selon le National Post, le nombre d'Américains cherchant la citoyenneté canadienne continue d'augmenter considérablement."
     },
     {
-      "sujet": "Comcast routeurs détecteurs mouvements",
-      "fait": "D'après The Verge, Comcast active le 18 août la détection de mouvement par Wi-Fi sur ses routeurs Xfinity XB7 et plus récents, sans frais supplémentaires, via l'application Xfinity Internet."
+      "sujet": "Menaces contre activistes sikhs",
+      "fait": "La GRC émet une nouvelle lettre d'avertissement à l'intention d'Inderjeet Singh Gosal, séparatiste sikh qui a remplacé Hardeep Singh Nijjar à la tête du mouvement référendaire Khalistan au Canada. Selon CBC, cette nouvelle menace soulève des questions sur l'affirmation du gouvernement Carney que les menaces du gouvernement indien au Canada ont été neutralisées."
     },
     {
-      "sujet": "Tremblements de terre 2026",
-      "fait": "Selon Global News, 2026 a enregistré 34 tremblements de magnitude 6 à 6,9 et 11 de magnitude supérieure à 7."
+      "sujet": "Changements App Store Apple UE",
+      "fait": "Apple remplace sa redevance par installation par une commission de 5 % pour les applications distribuées en dehors de l'App Store et facilite l'exploitation de boutiques d'applications alternatives. Selon TechCrunch et The Verge, les nouvelles conditions entrent en vigueur le 1er octobre."
     },
     {
-      "sujet": "AirPods caméra Apple",
-      "fait": "D'après TechCrunch, les AirPods équipés d'une caméra d'Apple pourraient éviter les problèmes de confidentialité en empêchant les utilisateurs d'enregistrer des photos et vidéos."
+      "sujet": "Valuation Etched doublée",
+      "fait": "La valuation d'Etched double à 21 milliards de dollars en un mois. Selon TechCrunch, Jane Street a installé le premier système de cluster IA d'Etched et a mené un nouveau tour de financement massif suite à cette installation."
+    },
+    {
+      "sujet": "Marché boursier technologie",
+      "fait": "La vente massive du secteur technologique entraîne Wall Street à des creux de deux semaines alors que les rendements des obligations augmentent. Selon Reuters Business, cette correction survient dans un contexte de volatilité des marchés."
     }
   ]
 }
