@@ -1,54 +1,50 @@
 {
-  "generated_at": "2026-08-18T13:41:26.238567+00:00",
+  "generated_at": "2026-08-18T16:30:10.766118+00:00",
   "window_hours": 8,
   "faits": [
     {
-      "sujet": "Comcast motion detection routers",
-      "fait": "Comcast active la détection de mouvement WiFi sur ses routeurs Xfinity XB7 et plus récents via une mise à jour de l'application Xfinity Internet, sans frais supplémentaires. Selon The Verge, cette fonction fait partie du nouveau service Xfinity Shield."
+      "sujet": "Tesla Cybercab lancement public",
+      "fait": "Selon The Verge, Tesla prévoit le lancement public du Cybercab à Austin, Texas, dès ce mois-ci. Le véhicule sans volant ni pédales est actuellement testé par les employés sur des routes privées."
     },
     {
-      "sujet": "Apple AirPods avec caméra",
-      "fait": "Une vidéo dans la version candidate de macOS Tahoe montre des AirPods équipés d'une caméra, selon TechCrunch."
+      "sujet": "Référendum indépendance québécoise",
+      "fait": "D'après Radio-Canada, le Parti québécois ne tiendra pas de référendum tant que Donald Trump sera président des États-Unis, soit avant le 20 janvier 2029."
     },
     {
-      "sujet": "Procès ABC contre FCC",
-      "fait": "ABC et Disney poursuivent la FCC en justice pour représailles, accusant l'agence de menacer les licences de diffusion en raison du contenu politique. Selon The Verge, cette action intervient après des critiques de l'administration Trump concernant la couverture politique d'ABC."
+      "sujet": "Tarifs douaniers États-Unis Canada",
+      "fait": "Selon National Post, de nouveaux tarifs américains de 29 milliards de dollars doivent frapper les produits canadiens à minuit le 18 août 2026, à moins qu'un accord soit conclu."
     },
     {
-      "sujet": "PQ et référendum d'indépendance",
-      "fait": "Le Parti québécois affirme qu'un gouvernement péquiste ne tiendrait pas de référendum avant le 20 janvier 2029. Selon Radio-Canada et Le Devoir, cette promesse répond aux préoccupations concernant le contexte géopolitique américain."
+      "sujet": "Augmentation tarifs Peacock",
+      "fait": "Selon The Verge, Peacock augmente ses tarifs le 18 août 2026 : l'offre Select passe de 7,99 $ à 8,99 $/mois, Premium de 10,99 $ à 12,99 $/mois, et Premium Plus de 16,99 $ à 19,99 $/mois."
     },
     {
-      "sujet": "Ventes immobilières canadiennes juillet",
-      "fait": "Les ventes immobilières au Canada ont baissé de 5,3 % en juillet par rapport à l'année précédente, mais ont augmenté légèrement d'un mois à l'autre, selon l'Association canadienne de l'immobilier citée par CBC."
+      "sujet": "Attaque DDoS Bluesky",
+      "fait": "D'après TechCrunch, Bluesky a confirmé que sa récente panne a été causée par une attaque DDoS, la dernière d'une série en 2026."
     },
     {
-      "sujet": "ChatGPT pour adolescents",
-      "fait": "OpenAI lance une version de ChatGPT conçue pour les adolescents, première génération à grandir avec l'intelligence artificielle. Selon Global News, cette version vise à être plus adaptée à l'âge."
+      "sujet": "Fraude réseau voitures luxe",
+      "fait": "Selon La Presse, un réseau criminel a dérobé des voitures de luxe valant près de trois millions de dollars, dont des Rolls-Royce à 600 000 $ destinées au port de Montréal."
     },
     {
-      "sujet": "Film Coyote vs. Acme",
-      "fait": "Le film Coyote vs. Acme reçoit des critiques généralement positives et pourrait devenir un cas d'étude des mauvaises décisions de Warner Bros. Discovery, qui avait tenté de l'étouffer pour des déductions fiscales. Selon The Verge, la controverse a augmenté l'intérêt pour le film."
+      "sujet": "ChatGPT version adolescents",
+      "fait": "D'après Le Devoir, OpenAI lance une version de ChatGPT pour les adolescents avec des paramètres de protection qui s'activent automatiquement si l'utilisateur est mineur."
     },
     {
-      "sujet": "Fairphone 6+ aux États-Unis",
-      "fait": "Fairphone lance son téléphone réparable Fairphone 6+ aux États-Unis au prix de 649 dollars sur Amazon. Selon TechCrunch."
+      "sujet": "Feu de forêt Okanagan",
+      "fait": "Selon Radio-Canada, le feu de Bald Range a détruit environ 150 bâtiments dans la région de Summerland, particulièrement dans les communautés de Faulder et Meadow Valley."
     },
     {
-      "sujet": "Neko Health expansion États-Unis",
-      "fait": "Neko Health, la startup de scanner corporel fondée par le fondateur de Spotify Daniel Ek, ouvre son premier bureau américain à New York dans environ un mois. Selon TechCrunch."
+      "sujet": "Comcast routeurs détecteurs mouvements",
+      "fait": "D'après The Verge, Comcast active le 18 août la détection de mouvement par Wi-Fi sur ses routeurs Xfinity XB7 et plus récents, sans frais supplémentaires, via l'application Xfinity Internet."
     },
     {
-      "sujet": "Attaque russe Kharkiv",
-      "fait": "Une attaque de missile russe a tué au moins 10 personnes mardi dans un village de la région de Kharkiv en Ukraine. Selon CBC World."
+      "sujet": "Tremblements de terre 2026",
+      "fait": "Selon Global News, 2026 a enregistré 34 tremblements de magnitude 6 à 6,9 et 11 de magnitude supérieure à 7."
     },
     {
-      "sujet": "Imran Khan Pakistan hospitalisation",
-      "fait": "La cour suprême du Pakistan ordonne le transfert de l'ex-premier ministre Imran Khan de la prison à l'hôpital. Selon Reuters."
-    },
-    {
-      "sujet": "Pesticides chaleur agriculteurs",
-      "fait": "La hausse des températures augmente la dangerosité des pesticides pour les 2,4 millions de travailleurs agricoles américains par une meilleure absorption cutanée et une transformation chimique. Selon Ars Technica."
+      "sujet": "AirPods caméra Apple",
+      "fait": "D'après TechCrunch, les AirPods équipés d'une caméra d'Apple pourraient éviter les problèmes de confidentialité en empêchant les utilisateurs d'enregistrer des photos et vidéos."
     }
   ]
 }
