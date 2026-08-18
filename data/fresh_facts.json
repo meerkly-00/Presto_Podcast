@@ -1,46 +1,54 @@
 {
-  "generated_at": "2026-08-17T22:23:10.064141+00:00",
+  "generated_at": "2026-08-18T13:41:26.238567+00:00",
   "window_hours": 8,
   "faits": [
     {
-      "sujet": "Pistes cyclables Ontario",
-      "fait": "Le plus haut tribunal de l'Ontario a autorisé le gouvernement Ford à retirer des pistes cyclables, renversant une décision antérieure d'un tribunal de première instance qui avait jugé la loi en contravention de la Charte. (Selon Le Devoir)"
+      "sujet": "Comcast motion detection routers",
+      "fait": "Comcast active la détection de mouvement WiFi sur ses routeurs Xfinity XB7 et plus récents via une mise à jour de l'application Xfinity Internet, sans frais supplémentaires. Selon The Verge, cette fonction fait partie du nouveau service Xfinity Shield."
     },
     {
-      "sujet": "Churchill Falls négociation",
-      "fait": "Le nouvel accord sur Churchill Falls prévoit que le Québec recevra environ 10 000 mégawatts d'électricité. La première ministre Christine Fréchette affirme vouloir être réélue pour signer l'entente. (D'après Radio-Canada)"
+      "sujet": "Apple AirPods avec caméra",
+      "fait": "Une vidéo dans la version candidate de macOS Tahoe montre des AirPods équipés d'une caméra, selon TechCrunch."
     },
     {
-      "sujet": "Tarifs douaniers États-Unis",
-      "fait": "Le Canada se prépare à l'imposition de tarifs américains de 50%, les négociateurs restant éloignés d'un accord. Les négociations se poursuivent intensivement pour éviter de nouveaux tarifs dès mercredi. (Selon Reuters et Radio-Canada)"
+      "sujet": "Procès ABC contre FCC",
+      "fait": "ABC et Disney poursuivent la FCC en justice pour représailles, accusant l'agence de menacer les licences de diffusion en raison du contenu politique. Selon The Verge, cette action intervient après des critiques de l'administration Trump concernant la couverture politique d'ABC."
     },
     {
-      "sujet": "Dollar canadien inflation",
-      "fait": "Le dollar canadien s'est affermi près de son plus haut de deux mois alors que l'inflation s'accélère. (D'après Reuters)"
+      "sujet": "PQ et référendum d'indépendance",
+      "fait": "Le Parti québécois affirme qu'un gouvernement péquiste ne tiendrait pas de référendum avant le 20 janvier 2029. Selon Radio-Canada et Le Devoir, cette promesse répond aux préoccupations concernant le contexte géopolitique américain."
     },
     {
-      "sujet": "Traité 6 Alberta",
-      "fait": "Le ministre des Relations autochtones de l'Alberta a manqué la célébration du 150e anniversaire du Traité 6, suscitant un appel du chef autochtone pour plus de respect du gouvernement provincial. (D'après Global News et CBC)"
+      "sujet": "Ventes immobilières canadiennes juillet",
+      "fait": "Les ventes immobilières au Canada ont baissé de 5,3 % en juillet par rapport à l'année précédente, mais ont augmenté légèrement d'un mois à l'autre, selon l'Association canadienne de l'immobilier citée par CBC."
     },
     {
-      "sujet": "Départ FIFA Kevin Lamour",
-      "fait": "Kevin Lamour, directeur général de la FIFA, a quitté l'organisation quelques semaines après avoir critiqué publiquement le plan du président Gianni Infantino de vendre une participation dans le business des tournois, incluant la Coupe du monde. (Selon CBC)"
+      "sujet": "ChatGPT pour adolescents",
+      "fait": "OpenAI lance une version de ChatGPT conçue pour les adolescents, première génération à grandir avec l'intelligence artificielle. Selon Global News, cette version vise à être plus adaptée à l'âge."
     },
     {
-      "sujet": "Approbation Trump États-Unis",
-      "fait": "L'approbation du président Donald Trump a chuté à 33%, son plus bas niveau depuis le début de sa présidence, selon un sondage Reuters/Ipsos. (D'après Reuters)"
+      "sujet": "Film Coyote vs. Acme",
+      "fait": "Le film Coyote vs. Acme reçoit des critiques généralement positives et pourrait devenir un cas d'étude des mauvaises décisions de Warner Bros. Discovery, qui avait tenté de l'étouffer pour des déductions fiscales. Selon The Verge, la controverse a augmenté l'intérêt pour le film."
     },
     {
-      "sujet": "Amende Verizon FCC",
-      "fait": "La Cour suprême a rejeté la demande de remboursement de 47 millions de dollars de Verizon concernant une amende de la FCC. Verizon, AT&T et T-Mobile ont été condamnés à une amende totale de 196 millions en 2024 pour avoir vendu des données de localisation sans consentement. (Selon Ars Technica)"
+      "sujet": "Fairphone 6+ aux États-Unis",
+      "fait": "Fairphone lance son téléphone réparable Fairphone 6+ aux États-Unis au prix de 649 dollars sur Amazon. Selon TechCrunch."
     },
     {
-      "sujet": "Relay startup fermeture",
-      "fait": "La startup d'automatisation IA Relay a fermé ses portes, son personnel rejoignant l'équipe Chrome de Google pour travailler sur l'intégration de l'IA dans le navigateur. (D'après TechCrunch)"
+      "sujet": "Neko Health expansion États-Unis",
+      "fait": "Neko Health, la startup de scanner corporel fondée par le fondateur de Spotify Daniel Ek, ouvre son premier bureau américain à New York dans environ un mois. Selon TechCrunch."
     },
     {
-      "sujet": "Alertes spyware Apple",
-      "fait": "Un nombre sans précédent d'utilisateurs Apple ont reçu une alerte récente de menace liée à un spyware, selon des experts en cybersécurité. (D'après TechCrunch)"
+      "sujet": "Attaque russe Kharkiv",
+      "fait": "Une attaque de missile russe a tué au moins 10 personnes mardi dans un village de la région de Kharkiv en Ukraine. Selon CBC World."
+    },
+    {
+      "sujet": "Imran Khan Pakistan hospitalisation",
+      "fait": "La cour suprême du Pakistan ordonne le transfert de l'ex-premier ministre Imran Khan de la prison à l'hôpital. Selon Reuters."
+    },
+    {
+      "sujet": "Pesticides chaleur agriculteurs",
+      "fait": "La hausse des températures augmente la dangerosité des pesticides pour les 2,4 millions de travailleurs agricoles américains par une meilleure absorption cutanée et une transformation chimique. Selon Ars Technica."
     }
   ]
 }
