@@ -1,50 +1,54 @@
 {
-  "generated_at": "2026-08-18T22:22:44.480191+00:00",
+  "generated_at": "2026-08-19T13:43:29.917996+00:00",
   "window_hours": 8,
   "faits": [
     {
-      "sujet": "Plateforme d'hébergement de code rival GitHub",
-      "fait": "Cursor, connu pour son éditeur de code IA, lance une nouvelle plateforme d'hébergement de code en concurrence avec GitHub. Selon TechCrunch, cette initiative capitalise sur la frustration des développeurs."
+      "sujet": "Batterie domestique marché en expansion",
+      "fait": "Tesla et Base Power se disputent une part croissante du marché des batteries pour maison. Selon TechCrunch, une technologie particulière a rendu ces batteries soudainement bon marché et omniprésentes."
     },
     {
-      "sujet": "Embauches de travailleurs de santé au Manitoba",
-      "fait": "Le Manitoba a embauché plus de 4 700 travailleurs de la santé depuis octobre 2023, dont environ 1 500 infirmières. Selon Global News, cette expansion représente un effort majeur du gouvernement provincial."
+      "sujet": "Tarifs douaniers États-Unis suspension",
+      "fait": "Le président Trump a suspendu pour trois jours l'imposition de droits de 50 % contre le Canada. Selon La Presse, la première ministre québécoise Christine Fréchette demeure préoccupée et s'interroge sur les concessions négociées."
     },
     {
-      "sujet": "Tarifs douaniers américains imminents",
-      "fait": "De nouveaux tarifs américains menacés par Donald Trump doivent entrer en vigueur mercredi peu après minuit. Selon Radio-Canada, la Chambre de commerce des États-Unis appelle à un accord entre Washington et Ottawa."
+      "sujet": "Centres de données intelligence artificielle Alberta",
+      "fait": "L'Alberta tiendra ses premières assemblées publiques cette semaine sur les centres de données d'IA. D'après Global News, le développement de ces centres suscite une résistance de résidents inquiets de la consommation d'eau et de la pollution."
     },
     {
-      "sujet": "Fermeture de Columbia House confirmée",
-      "fait": "Columbia House, la société de vente par correspondance historique, a annoncé son fermeture après 71 ans d'activité, mais a ensuite supprimé cet avis de son site web. Selon CBC, l'entreprise n'a pas confirmé ses intentions."
+      "sujet": "Vaccin mélanome Moderna-Merck essais",
+      "fait": "Moderna et Merck ont annoncé des résultats encourageants pour un vaccin contre le cancer de la peau en phase d'essais. Selon Le Devoir, le traitement a amélioré la survie sans récidive des patients atteints d'un mélanome en stade avancé."
     },
     {
-      "sujet": "Arrestation en Bolivie pour attaque politique",
-      "fait": "La Bolivie a arrêté un conseiller politique aligné aux mouvements de droite latino-américains suite à une attaque contre l'activiste Nadia Beller. Selon Al Jazeera, cette dernière déclare avoir été ciblée pour son opposition à la corruption."
+      "sujet": "Violation données CareCloud patients",
+      "fait": "CareCloud a confirmé que les dossiers médicaux de 3,7 millions de patients ont été volés dans une cyberattaque. Selon TechCrunch, cela constitue l'une des plus importantes violations de données du secteur de la santé américain cette année."
     },
     {
-      "sujet": "Interférence électorale lors du référendum albertain",
-      "fait": "Selon Radio-Canada, des chercheurs rapportent que 80 % des tentatives d'influence et de désinformation en ligne lors du référendum albertain proviendraient d'acteurs russes, avec également des efforts américains détectés."
+      "sujet": "Livraisons par drone Amazon expansion",
+      "fait": "Amazon annonce que Prime Air atteindra « près de 500 villes et villages » aux États-Unis d'ici fin 2026. D'après The Verge, le service sera lancé à Chicago, Syracuse, Cleveland, Atlanta et Boise, multipliant par six la couverture actuelle."
     },
     {
-      "sujet": "Déploiement de missiles de croisière Tomahawk",
-      "fait": "Le Pentagone a contracté un fabricant de défense pour augmenter la production de missiles de croisière Tomahawk. Selon Al Jazeera, cette décision répond à une demande accrue."
+      "sujet": "Logements jeunes à risque d'itinérance Canada",
+      "fait": "Le Canada annonce la création de 14 logements pour les jeunes à risque d'itinérance à Saint John. Selon Les Affaires, cette initiative vise à réduire l'itinérance juvénile."
     },
     {
-      "sujet": "Inspection du programme nucléaire syrien",
-      "fait": "La Syrie ouvre son programme nucléaire de l'époque d'Assad à l'inspection de l'Agence internationale de l'énergie atomique. Selon Al Jazeera, l'AIEA a découvert de grandes quantités de matériel sur des sites non divulgués."
+      "sujet": "Sabotage Nord Stream pipeline arrestation",
+      "fait": "Un homme d'origine ukrainienne a été arrêté mercredi en Croatie en lien avec les explosions qui ont endommagé les gazoducs Nord Stream en 2022. D'après le procureur fédéral allemand cité par CBC World, il s'agit du deuxième suspect arrêté."
     },
     {
-      "sujet": "Révocation de protection forestière aux États-Unis",
-      "fait": "L'administration Trump annonce l'abrogation d'une règle de 2001 protégeant de vastes zones forestières. Selon Al Jazeera, le Département américain de l'agriculture justifie cette mesure par la réduction du risque d'incendie de forêt."
+      "sujet": "Iran tensions Émirats arabes unis",
+      "fait": "Les Émirats arabes unis ont suspendu leurs échanges commerciaux avec l'Iran après des rapports d'attaques de missiles balistiques iraniens. Selon Al Jazeera, les tensions entre l'Iran et les pays du Golfe s'intensifient."
     },
     {
-      "sujet": "Sanctions contre la présidente de la CPI",
-      "fait": "Washington sanctionne Tomoko Akane, présidente de la Cour pénale internationale. Selon Radio-Canada, les États-Unis qualifient la CPI de juridiction « corrompue » et « gravement politisée »."
+      "sujet": "Film Mutiny fuite accidentelle Amazon",
+      "fait": "Le film Mutiny avec Jason Statham, prévu en salles le 21 août, a été accidentellement disponible en intégralité sur Prime Video américain pendant au moins une heure. Selon The Verge, les 1 heure 35 minutes du film ont pu être regardées avant suppression."
     },
     {
-      "sujet": "Expulsion d'un membre du régime iranien",
-      "fait": "Le Canada a expulsé un haut responsable du régime iranien après le rejet de son appel en justice. Selon National Post, cette expulsion intervient dans une série de mesures canadiennes contre des membres de l'administration iranienne."
+      "sujet": "Enquête criminelle Israël enfant palestinienne",
+      "fait": "L'armée israélienne annonce l'ouverture d'enquêtes criminelles internes sur le meurtre de la fillette palestinienne Hind Rajab en janvier 2024 et de 15 travailleurs humanitaires en mars 2025. D'après CBC, des organisations de défense des droits avertissent que ces enquêtes aboutissent rarement à des condamnations."
+    },
+    {
+      "sujet": "Métro express REM pannes équipement",
+      "fait": "Une panne d'équipement a causé des interruptions et ralentissements importants sur plusieurs segments du REM une grande partie de la matinée du 19 août. Selon La Presse, la situation a perturbé le service de transport montréalais."
     }
   ]
 }
