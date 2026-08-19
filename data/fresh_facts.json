@@ -1,50 +1,54 @@
 {
-  "generated_at": "2026-08-19T16:30:25.852862+00:00",
+  "generated_at": "2026-08-19T19:24:16.052784+00:00",
   "window_hours": 8,
   "faits": [
     {
-      "sujet": "Tarifs États-Unis Canada suspension",
-      "fait": "Le président Trump annonce une suspension de trois jours des tarifs de 50% sur les biens canadiens, affirmant qu'une entente commerciale est proche. Selon BBC World et Radio-Canada, Trump déclare que « le Canada nous facturait d'énormes tarifs, nous n'aurons plus aucun tarif »."
+      "sujet": "Négociations commerciales Canada-États-Unis",
+      "fait": "Donald Trump a annoncé mardi une entente commerciale provisoire entre le Canada et les États-Unis, suspendant les tarifs de 50 % prévus pendant trois jours supplémentaires. Selon National Post et Radio-Canada, les négociateurs continueront les discussions jusqu'à vendredi."
     },
     {
-      "sujet": "Sondage électoral Canada accord commercial",
-      "fait": "Près de la moitié des Canadiens souhaitent une élection fédérale si un nouvel accord commercial avec les États-Unis est conclu, selon un sondage rapporté par le National Post."
+      "sujet": "Adoption de l'IA par les consommateurs",
+      "fait": "Selon TechCrunch, à mesure que l'IA devient plus omniprésente, les consommateurs se montrent plus méfiants envers la technologie, et l'adoption généralisée ne mène pas nécessairement à l'acceptation."
     },
     {
-      "sujet": "Israël enquête mort Hind Rajab",
-      "fait": "L'armée israélienne annonce l'ouverture d'une enquête criminelle suite à la mort de la fillette palestinienne Hind Rajab en janvier 2024, reconnaissant que ses soldats ont tiré sur le véhicule qui la transportait. Selon Al Jazeera et BBC World."
+      "sujet": "Nomination à la FDA américaine",
+      "fait": "Selon Al Jazeera, Donald Trump a nommé Heidi Overton, ancienne responsable politique d'un centre de réflexion, à la tête de la FDA dans une initiative controversée de restructuration des réglementations sanitaires américaines."
     },
     {
-      "sujet": "Vaccine ARNm mélanome essai clinique",
-      "fait": "Merck et Moderna annoncent que leur vaccin ARNm personnalisé contre le mélanome a atteint ses objectifs en essai de phase tardive, aidant à prévenir la récurrence du cancer chez les patients à haut risque. Selon CBC."
+      "sujet": "Pipeline Keystone XL et négociations",
+      "fait": "Selon CBC, Trump a affirmé que le projet d'expansion du pipeline Keystone XL 'pourrait être réveillé du tombeau' dans le contexte des négociations commerciales en cours. Le Canada n'a pas commenté cette déclaration."
     },
     {
-      "sujet": "Pixel 11 Google levée embargo",
-      "fait": "Google lève l'embargo sur ses nouveaux produits Pixel 11, Pixel 11 Pro et Pixel Watch 5. Selon The Verge, les mises à jour principales sont logicielles plutôt que matérielles."
+      "sujet": "Plateforme électorale du PCQ au Québec",
+      "fait": "Selon Radio-Canada, Éric Duhaime et le Parti conservateur du Québec promettent une aide financière aux Québécois pour avoir des enfants, en s'inspirant de l'Allocation à la naissance du gouvernement Bourassa."
     },
     {
-      "sujet": "Fintech Navi levée de fonds",
-      "fait": "La fintech Navi de Sachin Bansal lève son premier capital externe avec un investissement de 100 millions de dollars de Prosus, en vue d'une introduction en bourse. Selon TechCrunch."
+      "sujet": "Suspension procédures affaire Nooran Rezayi",
+      "fait": "Selon Radio-Canada et La Presse, le DPCP a suspendu temporairement les procédures contre 11 adolescents accusés dans l'affaire du décès de Nooran Rezayi à Longueuil, pour examiner une 'question juridique complexe'."
     },
     {
-      "sujet": "Hausse température mers européennes",
-      "fait": "Une étude scientifique conclut que le changement climatique est responsable de la majeure partie du réchauffement des mers européennes cet été, ajoutant jusqu'à 2°C en Méditerranée. Selon Le Devoir."
+      "sujet": "Recrutement du Parti québécois",
+      "fait": "Selon La Presse, le Parti québécois recrute le journaliste François Gariepy de Radio X comme candidat dans Charlevoix–Côte-de-Beaupré."
     },
     {
-      "sujet": "Cricket Hockey World Cup Inde Pakistan",
-      "fait": "L'Inde défait le Pakistan 5-3au Hockey World Cup 2026 pour se qualifier pour la deuxième ronde, finissant deuxième avec six points. Selon Al Jazeera."
+      "sujet": "OpenAI ralentit développement IA",
+      "fait": "Selon The Verge, OpenAI a annoncé mardi avoir ralenti le rythme de certains développements d'IA, incluant une pause de deux semaines à l'entraînement par apprentissage par renforcement sur ses modèles les plus récents prévus au déploiement."
     },
     {
-      "sujet": "Israël appels d'offres Cisjordanie",
-      "fait": "Israël lance des appels d'offres pour un projet controversé de construction en Cisjordanie qui diviserait le territoire occupé en deux. Selon BBC World."
+      "sujet": "Outils d'étude Google Gemini",
+      "fait": "Selon TechCrunch, Google a lancé de nouveaux outils d'étude intégrés à Search et Gemini pour que les étudiants utilisent l'assistant IA dans leurs apprentissages, dans une stratégie concurrentielle face à OpenAI."
     },
     {
-      "sujet": "Also financement mobilité électrique",
-      "fait": "Also, issu de Rivian, lève 150 millions de dollars supplémentaires menés par Prysm Capital pour financer son expansion vers les véhicules de livraison autonomes. Selon TechCrunch."
+      "sujet": "Accès révoqué programme cybersécurité OpenAI",
+      "fait": "Selon TechCrunch, plusieurs chercheurs en cybersécurité ont soudainement perdu accès au programme Trusted Access for Cyber (TAC) d'OpenAI, qui offrait des modèles avec moins de garde-fous aux utilisateurs vérifiés."
     },
     {
-      "sujet": "Emirates suspension commerce Iran",
-      "fait": "Les Émirats arabes unis suspendent leurs échanges commerciaux avec l'Iran suite à de nouveaux tirs de missiles. Selon Associated Press."
+      "sujet": "Élection présidentielle Ukraine",
+      "fait": "Selon BBC World et Al Jazeera, le ministre de la Défense ukrainien limogé Mykailo Fedorov réclame une élection présidentielle, et des manifestations à Kyiv le soutiennent, bien que la loi martiale en Ukraine depuis février 2022 suspend les élections."
+    },
+    {
+      "sujet": "Exercices militaires Corée du Sud-États-Unis",
+      "fait": "Selon BBC World, la Corée du Sud a raccourci ses exercices militaires conjoints avec les États-Unis à la demande de Washington, suite aux plans de Trump de réduire ces exercices en raison d'une 'très bonne' relation avec Kim Jong Un."
     }
   ]
 }
