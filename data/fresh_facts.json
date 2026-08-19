@@ -1,54 +1,50 @@
 {
-  "generated_at": "2026-08-19T13:43:29.917996+00:00",
+  "generated_at": "2026-08-19T16:30:25.852862+00:00",
   "window_hours": 8,
   "faits": [
     {
-      "sujet": "Batterie domestique marché en expansion",
-      "fait": "Tesla et Base Power se disputent une part croissante du marché des batteries pour maison. Selon TechCrunch, une technologie particulière a rendu ces batteries soudainement bon marché et omniprésentes."
+      "sujet": "Tarifs États-Unis Canada suspension",
+      "fait": "Le président Trump annonce une suspension de trois jours des tarifs de 50% sur les biens canadiens, affirmant qu'une entente commerciale est proche. Selon BBC World et Radio-Canada, Trump déclare que « le Canada nous facturait d'énormes tarifs, nous n'aurons plus aucun tarif »."
     },
     {
-      "sujet": "Tarifs douaniers États-Unis suspension",
-      "fait": "Le président Trump a suspendu pour trois jours l'imposition de droits de 50 % contre le Canada. Selon La Presse, la première ministre québécoise Christine Fréchette demeure préoccupée et s'interroge sur les concessions négociées."
+      "sujet": "Sondage électoral Canada accord commercial",
+      "fait": "Près de la moitié des Canadiens souhaitent une élection fédérale si un nouvel accord commercial avec les États-Unis est conclu, selon un sondage rapporté par le National Post."
     },
     {
-      "sujet": "Centres de données intelligence artificielle Alberta",
-      "fait": "L'Alberta tiendra ses premières assemblées publiques cette semaine sur les centres de données d'IA. D'après Global News, le développement de ces centres suscite une résistance de résidents inquiets de la consommation d'eau et de la pollution."
+      "sujet": "Israël enquête mort Hind Rajab",
+      "fait": "L'armée israélienne annonce l'ouverture d'une enquête criminelle suite à la mort de la fillette palestinienne Hind Rajab en janvier 2024, reconnaissant que ses soldats ont tiré sur le véhicule qui la transportait. Selon Al Jazeera et BBC World."
     },
     {
-      "sujet": "Vaccin mélanome Moderna-Merck essais",
-      "fait": "Moderna et Merck ont annoncé des résultats encourageants pour un vaccin contre le cancer de la peau en phase d'essais. Selon Le Devoir, le traitement a amélioré la survie sans récidive des patients atteints d'un mélanome en stade avancé."
+      "sujet": "Vaccine ARNm mélanome essai clinique",
+      "fait": "Merck et Moderna annoncent que leur vaccin ARNm personnalisé contre le mélanome a atteint ses objectifs en essai de phase tardive, aidant à prévenir la récurrence du cancer chez les patients à haut risque. Selon CBC."
     },
     {
-      "sujet": "Violation données CareCloud patients",
-      "fait": "CareCloud a confirmé que les dossiers médicaux de 3,7 millions de patients ont été volés dans une cyberattaque. Selon TechCrunch, cela constitue l'une des plus importantes violations de données du secteur de la santé américain cette année."
+      "sujet": "Pixel 11 Google levée embargo",
+      "fait": "Google lève l'embargo sur ses nouveaux produits Pixel 11, Pixel 11 Pro et Pixel Watch 5. Selon The Verge, les mises à jour principales sont logicielles plutôt que matérielles."
     },
     {
-      "sujet": "Livraisons par drone Amazon expansion",
-      "fait": "Amazon annonce que Prime Air atteindra « près de 500 villes et villages » aux États-Unis d'ici fin 2026. D'après The Verge, le service sera lancé à Chicago, Syracuse, Cleveland, Atlanta et Boise, multipliant par six la couverture actuelle."
+      "sujet": "Fintech Navi levée de fonds",
+      "fait": "La fintech Navi de Sachin Bansal lève son premier capital externe avec un investissement de 100 millions de dollars de Prosus, en vue d'une introduction en bourse. Selon TechCrunch."
     },
     {
-      "sujet": "Logements jeunes à risque d'itinérance Canada",
-      "fait": "Le Canada annonce la création de 14 logements pour les jeunes à risque d'itinérance à Saint John. Selon Les Affaires, cette initiative vise à réduire l'itinérance juvénile."
+      "sujet": "Hausse température mers européennes",
+      "fait": "Une étude scientifique conclut que le changement climatique est responsable de la majeure partie du réchauffement des mers européennes cet été, ajoutant jusqu'à 2°C en Méditerranée. Selon Le Devoir."
     },
     {
-      "sujet": "Sabotage Nord Stream pipeline arrestation",
-      "fait": "Un homme d'origine ukrainienne a été arrêté mercredi en Croatie en lien avec les explosions qui ont endommagé les gazoducs Nord Stream en 2022. D'après le procureur fédéral allemand cité par CBC World, il s'agit du deuxième suspect arrêté."
+      "sujet": "Cricket Hockey World Cup Inde Pakistan",
+      "fait": "L'Inde défait le Pakistan 5-3au Hockey World Cup 2026 pour se qualifier pour la deuxième ronde, finissant deuxième avec six points. Selon Al Jazeera."
     },
     {
-      "sujet": "Iran tensions Émirats arabes unis",
-      "fait": "Les Émirats arabes unis ont suspendu leurs échanges commerciaux avec l'Iran après des rapports d'attaques de missiles balistiques iraniens. Selon Al Jazeera, les tensions entre l'Iran et les pays du Golfe s'intensifient."
+      "sujet": "Israël appels d'offres Cisjordanie",
+      "fait": "Israël lance des appels d'offres pour un projet controversé de construction en Cisjordanie qui diviserait le territoire occupé en deux. Selon BBC World."
     },
     {
-      "sujet": "Film Mutiny fuite accidentelle Amazon",
-      "fait": "Le film Mutiny avec Jason Statham, prévu en salles le 21 août, a été accidentellement disponible en intégralité sur Prime Video américain pendant au moins une heure. Selon The Verge, les 1 heure 35 minutes du film ont pu être regardées avant suppression."
+      "sujet": "Also financement mobilité électrique",
+      "fait": "Also, issu de Rivian, lève 150 millions de dollars supplémentaires menés par Prysm Capital pour financer son expansion vers les véhicules de livraison autonomes. Selon TechCrunch."
     },
     {
-      "sujet": "Enquête criminelle Israël enfant palestinienne",
-      "fait": "L'armée israélienne annonce l'ouverture d'enquêtes criminelles internes sur le meurtre de la fillette palestinienne Hind Rajab en janvier 2024 et de 15 travailleurs humanitaires en mars 2025. D'après CBC, des organisations de défense des droits avertissent que ces enquêtes aboutissent rarement à des condamnations."
-    },
-    {
-      "sujet": "Métro express REM pannes équipement",
-      "fait": "Une panne d'équipement a causé des interruptions et ralentissements importants sur plusieurs segments du REM une grande partie de la matinée du 19 août. Selon La Presse, la situation a perturbé le service de transport montréalais."
+      "sujet": "Emirates suspension commerce Iran",
+      "fait": "Les Émirats arabes unis suspendent leurs échanges commerciaux avec l'Iran suite à de nouveaux tirs de missiles. Selon Associated Press."
     }
   ]
 }
