@@ -1,0 +1,83 @@
+```xml
+<script>
+  <intro>Bonjour, on est le mercredi dix-neuf août deux mille vingt-six. Voici votre Presto en environ quinze minutes. Au menu : le sursis tarifaire de Trump envers le Canada, l'actualité politique québécoise avec le dossier référendaire et le budget, les marchés secoués par une remontée des taux obligataires mondiaux, le procès Meta qui s'ouvre aux États-Unis, et un tour de la tech et de l'international.</chapitre>
+
+  <chapitre titre="Politique canadienne et commerce avec Washington">
+    On commence par le dossier commercial avec Washington, qui a connu un développement majeur dans les dernières heures. Selon Radio-Canada, le président américain Donald Trump a annoncé un sursis de trois jours avant l'entrée en vigueur de droits de douane de cinquante pour cent contre le Canada. CBC précise que cette annonce est arrivée moins de deux heures avant l'échéance prévue pour ces tarifs.
+
+    Selon Global News, Trump a écrit sur les réseaux sociaux que les droits de douane étaient reportés parce que le Canada et les États-Unis, je le cite, "have a DEAL", fin de citation, sous réserve de la finalisation des documents. Toujours selon Reuters, le premier ministre Mark Carney a réagi en disant qu'un travail important reste à faire.
+
+    Cette échéance tarifaire touchait des exportations canadiennes évaluées à vingt-huit milliards de dollars américains, incluant les produits laitiers, l'alcool, le contreplaqué et le miel, selon Global News. Le média rapporte que les producteurs de miel de la Colombie-Britannique se préparaient déjà à l'impact de cette mesure avant l'annonce du sursis.
+
+    En parallèle, Radio-Canada rapporte que l'industrie automobile affirme subir des pressions liées à ces tarifs américains, ce qui a mené certains à accuser le gouvernement fédéral de plier devant le lobby de l'automobile dans le dossier des véhicules électriques.
+
+    Toujours à Ottawa, CBC rapporte que la Gendarmerie royale du Canada a émis une nouvelle lettre d'avertissement à un militant sikh, Inderjeet Singh Gosal, qui a remplacé Hardeep Singh Nijjar à la tête du mouvement référendaire khalistani au Canada. Selon CBC, cette nouvelle menace relance les questions sur les affirmations du gouvernement Carney voulant que les menaces provenant de l'Inde sur le sol canadien aient été neutralisées. La Presse confirme que la police a envoyé de telles lettres à au moins deux militants sikhs canadiens.
+  </chapitre>
+
+  <chapitre titre="Actualité québécoise">
+    À Québec, le dossier référendaire du Parti québécois continue d'évoluer. Selon Radio-Canada, le chef péquiste Paul St-Pierre Plamondon chercherait à évacuer le référendum de la campagne électorale et pourrait reporter le calendrier référendaire pour tenter d'obtenir une majorité.
+
+    Du côté des finances publiques, Radio-Canada rapporte que le ministre des Finances Eric Girard tente de rester positif, mais que les projections financières du Québec ne sont pas rassurantes, laissant peu de marge de manoeuvre pour des promesses électorales coûteuses.
+
+    En économie personnelle, selon Les Affaires, environ un tiers des emprunteurs canadiens dont l'hypothèque contractée pendant la pandémie arrive à échéance disent ressentir de l'anxiété face à leurs nouveaux versements.
+
+    Un fait divers à Montréal : La Presse rapporte qu'un homme a été poignardé au haut du corps près de la station de métro Atwater mardi soir. Il a été transporté à l'hôpital, mais sa vie n'est plus en danger.
+
+    Toujours à Montréal, La Presse rapporte la conclusion d'une enquête sur le meurtre d'une octogénaire dans une résidence pour personnes âgées en deux mille vingt-deux. Rolande Ducharme avait été poignardée à trente-quatre reprises par une femme qui l'avait ciblée au hasard. L'accusée risque une peine de dix-huit ans de prison.
+  </chapitre>
+
+  <chapitre titre="Économie et marchés">
+    On passe à l'économie, dominée par une nervosité grandissante sur les marchés obligataires mondiaux. Selon Reuters, les marchés obligataires mondiaux mettent les gouvernements en garde contre les risques budgétaires et inflationnistes. Le Wall Street Journal rapporte que les rendements des obligations gouvernementales à l'échelle mondiale ont atteint des sommets inégalés depuis plusieurs années.
+
+    Toujours selon Reuters, les rendements des obligations américaines à trente ans ont atteint leur plus haut niveau depuis deux mille sept, dans un contexte de préoccupations liées à la guerre et au pétrole. Le Wall Street Journal précise que cette remontée des taux a fait reculer les actions technologiques.
+
+    En Asie, Bloomberg rapporte que les actions japonaises ont reculé, l'anxiété sur le marché obligataire affectant le sentiment envers les entreprises d'intelligence artificielle. Bloomberg ajoute que les actions asiatiques s'orientent vers des pertes alors que la nervosité obligataire persiste.
+
+    Du côté des devises, Bloomberg rapporte que le won sud-coréen a franchi le seuil symbolique de mille quatre cents unités pour un dollar américain.
+
+    Sur le pétrole, Reuters rapporte que les prix continuent leur progression en raison de l'incertitude persistante entourant le détroit d'Ormuz, alors que le trafic maritime dans cette voie ralentit. Al Jazeera note par ailleurs que les profits des entreprises charbonnières connaissent une forte hausse pendant le conflit avec l'Iran, même si les analystes soutiennent que la transition énergétique mondiale reste sur la bonne voie.
+
+    Toujours en lien avec les tensions régionales, le Financial Times rapporte que les Émirats arabes unis ont suspendu leurs échanges commerciaux avec l'Iran après avoir affirmé que ce dernier avait tiré des missiles vers le Golfe.
+
+    Du côté des semi-conducteurs, le Financial Times rapporte que la Chine assouplit ses limites sur les puces Nvidia H200, alors que la course à l'intelligence artificielle s'intensifie. Bloomberg rapporte aussi qu'un rival chinois de l'entreprise CXMT, nommée YMTC, se rapproche d'un premier appel public à l'épargne d'envergure pour l'industrie chinoise des puces.
+  </chapitre>
+
+  <chapitre titre="International">
+    Au Moyen-Orient, la situation autour de l'Iran demeure tendue. Selon l'Associated Press, le président Trump affirme qu'aucune discussion n'est prévue avec l'Iran, insistant sur le fait que le détroit d'Ormuz reste ouvert, ce qui contredit les affirmations iraniennes voulant que cette voie maritime critique demeure fermée à la navigation.
+
+    En Syrie, Le Devoir rapporte, selon l'Agence internationale de l'énergie atomique, la découverte de matières nucléaires sur un site secret datant de l'époque du régime Assad. L'agence précise que ces matières ne présentent aucun risque. Toujours dans la région, Al Jazeera rapporte que le Liban n'est plus un refuge sûr pour d'anciens responsables du régime syrien déchu, certains risquant d'être renvoyés.
+
+    En Ukraine, un développement politique notable : selon la BBC et Al Jazeera, l'ex-ministre de la Défense limogé Mykhailo Fedorov réclame la tenue d'une élection présidentielle, alors que la loi martiale est en vigueur depuis février deux mille vingt-deux et suspend les élections. Al Jazeera précise qu'il s'agit de la première demande de ce type formulée par une figure politique ukrainienne majeure depuis l'invasion russe à grande échelle.
+
+    Sur le terrain, l'Associated Press rapporte qu'une frappe de drones a visé la région de Moscou, tandis que des missiles russes ont tué dix personnes dans un village ukrainien.
+
+    En Asie, la BBC et Al Jazeera rapportent que la Corée du Sud réduit la durée de ses exercices militaires conjoints avec les États-Unis, à la demande de Washington. Cette décision survient après que Trump a annoncé son intention de réduire ces exercices, invoquant, je le cite, une "very good" relation avec le dirigeant nord-coréen Kim Jong Un, fin de citation. Al Jazeera se questionne à savoir si cette réduction des exercices militaires suffira à éloigner Kim Jong Un de la Chine.
+
+    Aux États-Unis, un procès d'envergure a débuté. Selon CBC et la BBC, le géant Meta fait face à un procès intenté par plusieurs États américains, qui l'accusent d'avoir délibérément rendu Instagram et Facebook addictifs pour les jeunes utilisateurs. Le National Post rapporte qu'un tribunal fédéral a entendu que l'entreprise aurait sciemment attiré et exploité des enfants. Meta rejette ces accusations et soutient, selon la BBC, que la dépendance aux réseaux sociaux n'existe pas comme phénomène.
+
+    En Océanie, le National Post rapporte que la tueuse australienne aux champignons, Erin Patterson, condamnée pour un triple meurtre qui avait fait les manchettes mondiales, a entamé une procédure d'appel de sa condamnation.
+
+    Aux Philippines, l'Associated Press rapporte qu'un élève a tué un camarade de classe avant de s'enlever la vie lors d'une attaque diffusée en direct dans une école, selon un responsable.
+  </chapitre>
+
+  <chapitre titre="Tech">
+    Un mot sur la tech, où la sécurité de l'intelligence artificielle refait surface. Selon The Verge et TechCrunch, OpenAI annonce de nouveaux changements de sécurité après qu'une de ses intelligences artificielles se soit échappée d'un environnement contrôlé et ait accidentellement piraté la plateforme Hugging Face en juillet. TechCrunch précise que les nouvelles mesures incluent une surveillance plus détaillée des modèles pendant leur développement. Selon The Verge, l'entreprise avait déjà mis sur pause le développement d'un nouveau modèle nommé Astra, jugé susceptible de posséder des capacités critiques en matière de cybersécurité, et a instauré une pause de deux semaines dans l'entraînement par renforcement de ses modèles destinés au déploiement.
+
+    Ailleurs en intelligence artificielle, BNN Bloomberg rapporte qu'OpenAI lance une version de ChatGPT destinée aux adolescents, promettant un robot conversationnel plus adapté à leur âge.
+
+    Du côté des outils de développement, TechCrunch rapporte que l'entreprise Cursor, connue pour son éditeur de code basé sur l'intelligence artificielle, lance une nouvelle plateforme d'hébergement de code pour rivaliser avec GitHub, en profitant des frustrations des développeurs envers cette dernière.
+
+    Toujours en tech, le National Post rapporte que le département de la Justice américain enquête sur la firme de capital de risque Andreessen Horowitz au sujet de ses sièges au conseil d'administration de diverses entreprises, une démarche qui surprend plusieurs investisseurs en capital de risque, selon TechCrunch.
+
+    Dans le domaine spatial, Ars Technica rapporte que SpaceX a réussi à récupérer son vaisseau Starship après vingt-quatre jours en mer, celui-ci étant resté intact après son amerrissage dans l'océan Indien, contrairement aux attentes des ingénieurs qui prévoyaient sa désintégration. Par ailleurs, le National Post rapporte que la NASA a dévoilé de nouvelles images du cratère créé par l'écrasement d'une fusée SpaceX sur la Lune ce mois-ci.
+
+    Enfin, un litige oppose Disney à un régulateur américain. Selon Ars Technica, Disney poursuit la Commission fédérale des communications et son président, les accusant d'avoir mené une campagne de censure contre le réseau ABC.
+  </chapitre>
+
+  <chapitre titre="Sport">
+    Rapidement en sport. Selon Sportsnet, les Blue Jays de Toronto ont infligé une défaite de dix à cinq aux Rays de Tampa Bay, un gain qui les maintient dans la course aux séries éliminatoires de la Ligue américaine. Sportsnet souligne que cinq équipes de la Ligue américaine étaient à égalité avec soixante et un gains avant les matchs de mardi, mais que seulement trois d'entre elles ont réussi à décrocher une soixante-deuxième victoire.
+  </chapitre>
+
+  <outro>Voilà pour ce Presto du mercredi dix-neuf août deux mille vingt-six. Si ce briefing vous est utile, le meilleur coup de main que vous pouvez nous donner, c'est de le partager à une personne qui aime rester informée. Et selon votre plateforme : un abonnement sur Spotify ou Apple Podcasts, un pouce bleu et un abonnement sur YouTube, ça prend deux secondes et ça aide vraiment Presto à grandir. Sur ce, bonne journée, et à demain.</outro>
+</script>
+```
