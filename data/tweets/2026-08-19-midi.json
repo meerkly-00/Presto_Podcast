@@ -1,0 +1,14 @@
+{
+  "date": "2026-08-19",
+  "kind": "poll",
+  "text": "Ce matin → Trump reporte de 3 jours les droits de 50 % contre le Canada.\n\nLes délais de 3 jours donnés par Trump pour négocier sont-ils suffisants?",
+  "poll": {
+    "options": [
+      "Oui, c'est un bon signal",
+      "Non, trop court pour des",
+      "Impossible à dire sans",
+      "Pas d'opinion"
+    ],
+    "duration_minutes": 1440
+  }
+}
