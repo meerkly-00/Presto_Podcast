@@ -1,54 +1,54 @@
 {
-  "generated_at": "2026-08-19T19:24:16.052784+00:00",
+  "generated_at": "2026-08-19T22:23:22.417828+00:00",
   "window_hours": 8,
   "faits": [
     {
-      "sujet": "Négociations commerciales Canada-États-Unis",
-      "fait": "Donald Trump a annoncé mardi une entente commerciale provisoire entre le Canada et les États-Unis, suspendant les tarifs de 50 % prévus pendant trois jours supplémentaires. Selon National Post et Radio-Canada, les négociateurs continueront les discussions jusqu'à vendredi."
+      "sujet": "Décès Abisay Cruz - méthode de contention",
+      "fait": "La coroner Géhane Kamel a formulé des recommandations après la mort d'Abisay Cruz, estimant que la méthode de contention du SPVM aurait contribué au décès. Selon Radio-Canada."
     },
     {
-      "sujet": "Adoption de l'IA par les consommateurs",
-      "fait": "Selon TechCrunch, à mesure que l'IA devient plus omniprésente, les consommateurs se montrent plus méfiants envers la technologie, et l'adoption généralisée ne mène pas nécessairement à l'acceptation."
+      "sujet": "Accord commercial Canada-États-Unis",
+      "fait": "Mark Carney confirme qu'un accord avec Washington concernant la suspension des tarifs est sur la table. Le président Trump évoque une entente « très équitable » avec le Canada. Selon Radio-Canada."
     },
     {
-      "sujet": "Nomination à la FDA américaine",
-      "fait": "Selon Al Jazeera, Donald Trump a nommé Heidi Overton, ancienne responsable politique d'un centre de réflexion, à la tête de la FDA dans une initiative controversée de restructuration des réglementations sanitaires américaines."
+      "sujet": "Prince Harry et Meghan - retour au Royaume-Uni",
+      "fait": "Prince Harry et Meghan reviennent au Royaume-Uni avec leurs enfants, a confirmé le Palais de Buckingham. Selon CBC News et National Post."
     },
     {
-      "sujet": "Pipeline Keystone XL et négociations",
-      "fait": "Selon CBC, Trump a affirmé que le projet d'expansion du pipeline Keystone XL 'pourrait être réveillé du tombeau' dans le contexte des négociations commerciales en cours. Le Canada n'a pas commenté cette déclaration."
+      "sujet": "Ministre Benoit Charette - départ politique",
+      "fait": "Le ministre québécois des Transports Benoit Charette annonce son départ de la vie politique, environ une semaine avant le déclenchement des élections. Selon La Presse."
     },
     {
-      "sujet": "Plateforme électorale du PCQ au Québec",
-      "fait": "Selon Radio-Canada, Éric Duhaime et le Parti conservateur du Québec promettent une aide financière aux Québécois pour avoir des enfants, en s'inspirant de l'Allocation à la naissance du gouvernement Bourassa."
+      "sujet": "PQ - slogan de campagne électorale",
+      "fait": "Le Parti québécois lance son slogan de campagne « Le choix de la confiance ». Paul St-Pierre Plamondon estime qu'une majorité d'électeurs veut rompre avec les années au pouvoir de la CAQ. Selon Radio-Canada."
     },
     {
-      "sujet": "Suspension procédures affaire Nooran Rezayi",
-      "fait": "Selon Radio-Canada et La Presse, le DPCP a suspendu temporairement les procédures contre 11 adolescents accusés dans l'affaire du décès de Nooran Rezayi à Longueuil, pour examiner une 'question juridique complexe'."
+      "sujet": "Intoxication alimentaire - Staphylococcus aureus",
+      "fait": "Présence de Staphylococcus aureus détectée dans des pâtisseries trompe-l'œil vendues chez Crémerie boulevard Bouffe inc. et Les bonbons Sugar Daddy's de Sherbrooke. Selon Les Affaires."
     },
     {
-      "sujet": "Recrutement du Parti québécois",
-      "fait": "Selon La Presse, le Parti québécois recrute le journaliste François Gariepy de Radio X comme candidat dans Charlevoix–Côte-de-Beaupré."
+      "sujet": "Protections de confidentialité - OpenAI vs Anthropic",
+      "fait": "Une compétition se développe entre OpenAI et Anthropic concernant les protections de confidentialité des données clients en entreprise. Selon TechCrunch."
     },
     {
-      "sujet": "OpenAI ralentit développement IA",
-      "fait": "Selon The Verge, OpenAI a annoncé mardi avoir ralenti le rythme de certains développements d'IA, incluant une pause de deux semaines à l'entraînement par apprentissage par renforcement sur ses modèles les plus récents prévus au déploiement."
+      "sujet": "Kennedy Center - nom de Trump",
+      "fait": "Le Kennedy Center attendra jusqu'au 8 septembre avant de réintégrer le nom de Trump à sa façade, couverte par une bâche depuis juin. Selon Le Devoir."
     },
     {
-      "sujet": "Outils d'étude Google Gemini",
-      "fait": "Selon TechCrunch, Google a lancé de nouveaux outils d'étude intégrés à Search et Gemini pour que les étudiants utilisent l'assistant IA dans leurs apprentissages, dans une stratégie concurrentielle face à OpenAI."
+      "sujet": "Australie - décision israélienne sur poursuites",
+      "fait": "Le ministre australien de l'Affaires étrangères exprime de l'indignation après qu'Israël a décidé de ne pas poursuivre dans l'affaire de la mort d'une travailleuse humanitaire Zomi Frankcom à Gaza. Selon BBC World."
     },
     {
-      "sujet": "Accès révoqué programme cybersécurité OpenAI",
-      "fait": "Selon TechCrunch, plusieurs chercheurs en cybersécurité ont soudainement perdu accès au programme Trusted Access for Cyber (TAC) d'OpenAI, qui offrait des modèles avec moins de garde-fous aux utilisateurs vérifiés."
+      "sujet": "NASA - mission de sauvetage échouée",
+      "fait": "La NASA annonce l'échec de sa mission pour secourir le télescope Swift en orbite. Le robot spatial devait attraper et propulser plus haut le télescope, qui attend désormais sa désintégration dans l'atmosphère. Selon La Presse."
     },
     {
-      "sujet": "Élection présidentielle Ukraine",
-      "fait": "Selon BBC World et Al Jazeera, le ministre de la Défense ukrainien limogé Mykailo Fedorov réclame une élection présidentielle, et des manifestations à Kyiv le soutiennent, bien que la loi martiale en Ukraine depuis février 2022 suspend les élections."
+      "sujet": "Poursuites Meta - dépendance aux réseaux sociaux",
+      "fait": "Un procès historique contre Meta pourrait entraîner des amendes et des changements fondamentaux dans les opérations de Facebook et Instagram. Selon Al Jazeera."
     },
     {
-      "sujet": "Exercices militaires Corée du Sud-États-Unis",
-      "fait": "Selon BBC World, la Corée du Sud a raccourci ses exercices militaires conjoints avec les États-Unis à la demande de Washington, suite aux plans de Trump de réduire ces exercices en raison d'une 'très bonne' relation avec Kim Jong Un."
+      "sujet": "Rillet - financement Series C licorne",
+      "fait": "La startup d'IA Rillet lève 100 millions de dollars en Series C à une valorisation d'un milliard de dollars, deux ans après son émergence de la furtivité, ayant doublé son ARR en trois mois. Selon TechCrunch."
     }
   ]
 }
