@@ -1,0 +1,75 @@
+```xml
+<script>
+  <intro>Bonjour, on est le jeudi vingt août deux mille vingt-six. Voici votre Presto en environ quinze minutes. Au menu : l'escalade entre les États-Unis et l'Iran, une attaque russe meurtrière sur Kiev, l'actualité électorale à Québec, les marchés obligataires américains et un mot sur la tech.</memoire>
+
+  <chapitre titre="International">
+    On commence par le Moyen-Orient, où la confrontation entre Washington et Téhéran a franchi une nouvelle étape. Selon Reuters et la BBC, le président américain Donald Trump a averti qu'il lancerait, je le cite : "the most crushing economic operation ever". Fin de citation. Cette annonce vise l'Iran et tout pays qui lui offrirait un soutien économique. Selon Radio-Canada, les Émirats arabes unis ont déjà suspendu tous leurs échanges commerciaux et transactions avec l'Iran en réaction.
+
+    Le Wall Street Journal rapporte que le succès de ce plan américain pour étouffer l'économie iranienne se jouera en bonne partie à Dubaï, plaque tournante régionale des échanges avec Téhéran. Toujours selon la BBC, ces menaces surviennent après l'expiration lundi d'un cessez-le-feu de soixante jours, sans qu'aucune sortie diplomatique ou militaire ne se soit dessinée depuis.
+
+    Al Jazeera rapporte un développement économique lié à cette même échéance : une analyse des données de la firme Kpler montre que les flux de pétrole sortant du Golfe ont presque triplé pendant la fenêtre de soixante jours couverte par l'entente entre Washington et Téhéran, avec environ trois cent soixante-quatorze millions de barils ayant quitté la région. De son côté, CBC rapporte que la Corée du Nord a balayé du revers de la main les exercices militaires réduits entre les États-Unis et la Corée du Sud, affirmant que cela ne change rien à la situation.
+
+    Toujours dans ce contexte tendu, CBC a consacré un segment à l'offre d'une prime de trente mille dollars américains lancée par l'Iran pour quiconque capturerait ou tuerait un soldat américain, une annonce qualifiée de largement symbolique et propagandiste par le média.
+
+    On passe à l'Ukraine, frappée cette nuit par une attaque russe d'ampleur. Selon Radio-Canada, au moins huit personnes ont été tuées à Kiev et une autre dans la région, à Brovary, lors de bombardements russes survenus dans la nuit de mercredi à jeudi. Le maire de Kiev, Vitali Klitchko, a annoncé sur Telegram que trente-trois habitants de la ville ont été blessés. Dans le district de Solomianskyi, les étages supérieurs d'un immeuble résidentiel de neuf étages se sont effondrés et un incendie s'est déclaré.
+
+    CBC rapporte pour sa part un bilan de trois morts et une vingtaine de blessés dans ses informations les plus récentes, précisant que des frappes de missiles balistiques russes ont endommagé des appartements, des entrepôts et un hôpital pour enfants, privant une partie de la capitale ukrainienne d'électricité. La BBC qualifie cette frappe de "massive attack" et souligne que l'Ukraine fait face à des pénuries de systèmes de défense antiaérienne.
+
+    Ailleurs dans le monde, l'Associated Press rapporte que l'armée israélienne a lancé des enquêtes criminelles sur la mort de la jeune Hind Rajab et de paramédics palestiniens. Toujours selon Al Jazeera, plus de deux cent mille personnes ont été nouvellement déplacées dans la région du Kordofan au Soudan, où les Nations unies signalent une hausse des déplacements alors que des combats visent les infrastructures électriques et hydrauliques à El Obeid.
+
+    En Asie, Reuters et la BBC rapportent que le fondateur du géant immobilier chinois Evergrande, aujourd'hui effondré, a été condamné à la prison à vie, un jugement qui marque un moment clé dans les suites de la faillite de l'entreprise, laquelle avait ébranlé le secteur immobilier chinois.
+
+    Enfin, l'Associated Press et CBC rapportent que le prince Harry et son épouse Meghan Markle retournent vivre au Royaume-Uni avec leurs enfants, six ans après avoir cessé leurs fonctions de membres actifs de la famille royale. Buckingham Palace a confirmé l'information à CBC News.
+  </chapitre>
+
+  <chapitre titre="Politique canadienne et commerce avec Washington">
+    Du côté du dossier commercial avec Washington, Radio-Canada rapporte que le premier ministre Mark Carney demande aux provinces canadiennes de mettre fin à leurs interdictions de vente d'alcool américain, dans le cadre d'une entente conclue avec les négociateurs commerciaux américains. Selon le National Post, cette demande a été confirmée par le premier ministre de la Nouvelle-Écosse, Tim Houston, mercredi soir.
+
+    À Québec, la première ministre Christine Fréchette s'est dite incapable de déterminer si l'entente en gestation entre Ottawa et Washington est bonne ou mauvaise pour le Québec, selon La Presse, à l'issue d'une rencontre d'une heure et demie avec Mark Carney. Son homologue fédéral ne l'aurait pas rassurée sur ce point. Toujours selon Radio-Canada, le président américain Donald Trump a par ailleurs évoqué une entente qu'il juge, je le cite : "très équitable" avec le Canada. Fin de citation.
+  </chapitre>
+
+  <chapitre titre="Actualité québécoise">
+    La campagne électorale provinciale continue de se dessiner à Québec. Selon La Presse, le Parti québécois a dévoilé mercredi son nouveau slogan électoral, invitant les électeurs à faire, je le cite : "le choix de la confiance". Fin de citation. Cette annonce survient à l'aube d'une campagne qui pourrait être déclenchée dès la semaine prochaine.
+
+    Du côté de la Coalition avenir Québec, La Presse rapporte le départ de la vie politique du ministre des Transports, Benoit Charette, à environ une semaine du déclenchement des élections. Toujours à Québec, Radio-Canada rapporte que l'autrice et chroniqueuse Geneviève Pettersen sera candidate pour la Coalition avenir Québec, où elle tentera de succéder à François Legault dans sa circonscription, qu'il représente depuis deux mille douze.
+
+    Par ailleurs, à Montréal, La Presse rapporte que le Bureau des enquêtes indépendantes a déclenché une enquête après qu'un policier et un suspect ont été blessés mercredi après-midi lors d'une intervention dans le quartier Saint-Michel.
+  </chapitre>
+
+  <chapitre titre="Économie et marchés">
+    On passe à l'économie, dominée cette semaine par les soubresauts du marché obligataire américain. Selon Reuters, les obligations ont repris de la vigueur après que le département du Trésor américain a annoncé une hausse de ses rachats de titres, une mesure décrite par Bloomberg comme ayant soutenu la remontée des marchés. Le Wall Street Journal rapporte que les rendements obligataires ont plongé à la suite de cette annonce, et Bloomberg précise que les marchés boursiers asiatiques devraient profiter de ce soutien du Trésor américain aux obligations.
+
+    Le Wall Street Journal souligne aussi que la dette américaine a franchi le cap des quarante mille milliards de dollars, un jalon que le média associe à des années d'accumulation de déficits. Une enquête relayée par Bloomberg indique que les rendements des obligations du Trésor américain à dix ans devraient dépasser cinq pour cent d'ici la fin de l'année, selon les prévisions des économistes sondés. Le Financial Times observe de son côté que l'économie américaine, je le cite : "is running hot". Fin de citation.
+
+    Reuters rapporte également que les contrats à terme sur les actions américaines sont demeurés stables après un recul du secteur technologique, les investisseurs concentrant leur attention sur les tensions au Moyen-Orient plutôt que sur les données économiques.
+
+    Du côté des entreprises, l'Associated Press et Reuters rapportent que les actions de Moderna ont doublé après que l'entreprise a annoncé que son traitement expérimental à ARN messager contre le cancer a franchi une étape clé dans ses essais cliniques. Toujours en économie, Bloomberg rapporte que le géant minier australien Fortescue, dirigé par le milliardaire Andrew Forrest, a vu ses profits reculer, l'entreprise continuant de faire face à des défis liés au marché chinois.
+
+    Le Financial Times rapporte par ailleurs que la société de paiements Stripe a conclu une entente de huit milliards de dollars pour acquérir la jeune entreprise OpenRouter, spécialisée dans l'acheminement de requêtes entre différents modèles d'intelligence artificielle.
+
+    Enfin, Reuters rapporte que la Chine a ordonné à ses entités de ne pas collaborer avec l'enquête de l'Union européenne visant l'entreprise chinoise JD.com.
+  </chapitre>
+
+  <chapitre titre="Tech">
+    Un mot sur la tech, où la concurrence sur la protection de la vie privée s'intensifie entre les grands noms de l'intelligence artificielle. Selon TechCrunch, OpenAI cherche à surpasser Anthropic en matière de protections de confidentialité pour les données de ses clients d'entreprise, alors qu'une rivalité s'installe entre les deux entreprises sur cet enjeu.
+
+    Toujours selon TechCrunch, le fondateur et chef de la direction de la jeune entreprise Cognition a démenti des informations selon lesquelles SpaceX aurait tenté d'acquérir la firme spécialisée en programmation par intelligence artificielle. SpaceX avait déjà fait l'acquisition de l'entreprise Cursor dans sa course pour rattraper des rivaux comme OpenAI et Anthropic dans le secteur de l'intelligence artificielle en entreprise.
+
+    Du côté de la robotique, TechCrunch rapporte que le service de robotaxis Waymo a ouvert sa nouvelle génération de véhicules, baptisée Waymo Ojai, à tous les usagers dans trois villes américaines, une étape jugée centrale par l'entreprise dans sa poursuite d'une expansion à grande échelle et, éventuellement, de la rentabilité.
+
+    Ars Technica rapporte qu'Amazon veut multiplier par six la portée de son service de livraison par drones, Prime Air, pour atteindre près de cinq cents villes et municipalités américaines d'ici la fin de l'année. L'entreprise a notamment annoncé son lancement dans les régions de Chicago, Cleveland, Atlanta, Syracuse et Boise.
+
+    Enfin, dans le domaine spatial, Ars Technica et le National Post rapportent que la NASA et l'entreprise Katalyst Space Technologies ont abandonné leur mission de sauvetage de l'observatoire de rayons gamma Swift, faute de pouvoir résoudre des problèmes de contrôle d'attitude du satellite de secours nommé Link, qui devait capturer l'observatoire avant sa rentrée dans l'atmosphère.
+  </chapitre>
+
+  <chapitre titre="Sport">
+    Rapidement en sport. Selon Sportsnet, les Blue Jays de Toronto se sont inclinés face aux Rays de Tampa Bay dans une rencontre marquée par plusieurs erreurs défensives, malgré cinq points marqués contre le lanceur partant Drew Rasmussen. Toujours selon Sportsnet, les Twins du Minnesota ont profité des défaites de leurs rivaux pour prendre seuls possession de la dernière place qualificative pour les séries dans la Ligue américaine.
+
+    En tennis, Al Jazeera rapporte que la joueuse numéro un mondiale Aryna Sabalenka a été éliminée du tournoi de Cincinnati par Sara Bejlek, tandis que le champion de Roland-Garros Alexander Zverev a également été éliminé après le quatrième tour.
+
+    Enfin, Al Jazeera rapporte que Lionel Messi a inscrit son premier but avec l'Inter Miami depuis le décès de son père, survenu le huit août, marquant à la vingt-sixième minute d'un match de la MLS, onze jours après cette perte.
+  </chapitre>
+
+  <outro>Voilà pour ce Presto du jeudi vingt août deux mille vingt-six. Si ce briefing vous est utile, le meilleur coup de main que vous pouvez nous donner, c'est de le partager à une personne qui aime rester informée. Et selon votre plateforme : un abonnement sur Spotify ou Apple Podcasts, un pouce bleu et un abonnement sur YouTube, ça prend deux secondes et ça aide vraiment Presto à grandir. Sur ce, bonne journée, et à demain.</outro>
+</script>
+```
