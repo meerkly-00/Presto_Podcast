@@ -1,0 +1,14 @@
+{
+  "date": "2026-08-20",
+  "kind": "poll",
+  "text": "Ce matin → Trump menace l'Iran d'une « opération économique écrasante ».\n\nÀ ton avis, les sanctions économiques peuvent-elles changer le comportement d'un État?",
+  "poll": {
+    "options": [
+      "Oui, c'est un outil",
+      "Non, cela renforce la",
+      "Ça dépend du contexte",
+      "Incertain"
+    ],
+    "duration_minutes": 1440
+  }
+}
