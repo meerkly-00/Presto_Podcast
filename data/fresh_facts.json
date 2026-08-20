@@ -1,50 +1,50 @@
 {
-  "generated_at": "2026-08-20T13:45:44.123280+00:00",
+  "generated_at": "2026-08-20T16:34:20.411488+00:00",
   "window_hours": 8,
   "faits": [
     {
       "sujet": "Négociations commerciales Canada-États-Unis",
-      "fait": "Le ministre Dominic LeBlanc se rend à Washington jeudi matin pour rencontrer son homologue américain Jamieson Greer dans le contexte des négociations commerciales. Selon La Presse, une entente semble être à portée de main."
+      "fait": "La première ministre québécoise Christine Fréchette a reçu un appel du premier ministre fédéral Mark Carney au sujet de l'accord commercial et reste prudente quant à l'entente imminente entre Ottawa et Washington sur les droits de douane. Selon La Presse et Radio-Canada."
     },
     {
-      "sujet": "Sanctions économiques contre l'Iran",
-      "fait": "Le ministre iranien des Affaires étrangères Abbas Araghchi a rejeté les menaces du président Trump de lancer une campagne d'« economic warfare » contre l'Iran, affirmant que cela « ne produira que de nouvelles défaites ». Selon CBC World."
+      "sujet": "Accord commercial Canada-États-Unis finalisé",
+      "fait": "Le ministre Dominic LeBlanc retourne à Washington pour rencontrer Jamieson Greer afin de finaliser l'accord de principe commercial conclu plus tôt cette semaine. Selon Radio-Canada."
     },
     {
-      "sujet": "Fondateur d'Evergrande condamné",
-      "fait": "Hui Ka Yan, fondateur du promoteur immobilier Evergrande, a été condamné à la prison à vie par un tribunal chinois. Selon Reuters et Associated Press."
+      "sujet": "Négociations commerciales Québec-États-Unis",
+      "fait": "Paul St-Pierre Plamondon, chef du Parti québécois, accuse la première ministre Christine Fréchette de ne pas avoir suffisamment défendu les intérêts du Québec dans les négociations commerciales entre le Canada et les États-Unis. Selon La Presse."
     },
     {
-      "sujet": "Cyberattaque contre Alation",
-      "fait": "Alation, géant du data et de l'IA, a confirmé un accès non autorisé à ses systèmes lors d'un incident mardi et a déclaré enquêter sur la violation. Selon TechCrunch."
+      "sujet": "Pressions commerciales sur le Mexique",
+      "fait": "Les officiels mexicains et les chefs d'entreprise ont été pris au dépourvu par l'accord commercial préliminaire entre le Canada et les États-Unis, et le Mexique cherche maintenant à obtenir son propre accord. Selon National Post."
     },
     {
-      "sujet": "Grok exfiltre données utilisateurs",
-      "fait": "Une équipe de chercheurs a démontré une attaque contre le chatbot Grok qui le force à voler les conversations des utilisateurs et autres informations personnelles en utilisant des instructions malveillantes encryptées. Selon Ars Technica, malgré notification à xAI en juin, l'assistant continuait de fournir les données."
+      "sujet": "Safeguards TikTok désactivées expérimentalement",
+      "fait": "Des sénateurs exigent des réponses de TikTok concernant une expérience au cours de laquelle la plateforme a désactivé des protections conçues pour prévenir que les utilisateurs ne soient submergés par du contenu nuisible. Selon TechCrunch."
     },
     {
-      "sujet": "Piratage de systèmes d'eau américains",
-      "fait": "Les autorités américaines indiquent que des pirates ciblent les contrôleurs Siemens connectés à Internet utilisés dans les installations d'eau aux États-Unis, avec l'aide de l'IA. Selon TechCrunch."
+      "sujet": "Greg Brockman accumule le pouvoir à OpenAI",
+      "fait": "Greg Brockman, président et co-fondateur d'OpenAI, a discrètement accumulé du pouvoir dans l'entreprise alors que celle-ci connaît des départs d'exécutifs majeurs en préparation de son introduction en bourse. Selon The Verge."
     },
     {
-      "sujet": "Caméras DJI interdites commercialisées",
-      "fait": "Les caméras DJI Osmo Pocket 4 et 4 Pro, interdites à l'entrée aux États-Unis, sont disponibles sur Temu, AliExpress, eBay, Mercari, Amazon et Newegg avec livraison gratuite rapide depuis des centres de distribution américains. Selon The Verge."
+      "sujet": "Patreon lancee 30 nouvelles fonctionnalités",
+      "fait": "Patreon a déployé 30 nouvelles fonctionnalités de création incluant des clips court-format et un système de recommandation révisé visant à accorder plus de visibilité aux petits créateurs. Selon TechCrunch."
     },
     {
-      "sujet": "Pétition FIFA contre Infantino",
-      "fait": "Des groupes de supporters de football du monde entier ont lancé une pétition jeudi demandant la démission du président Gianni Infantino après sa tentative de vendre les futurs profits de la Coupe du monde à des investisseurs privés. Selon CBC."
+      "sujet": "Meta lance Pocket aux utilisateurs américains",
+      "fait": "Meta déploie Pocket, son application expérimentale alimentée par l'IA pour créer et partager des jeux interactifs, auprès des utilisateurs aux États-Unis après tests en Brésil. Selon TechCrunch."
     },
     {
-      "sujet": "Découverte astronomique étoile",
-      "fait": "Des astronomes ont découvert l'étoile la plus rapide de la Voie lactée, qui orbite à 25 000 kilomètres par seconde autour du trou noir supermassif au centre de la galaxie. Selon La Presse."
+      "sujet": "Paramédicaux CSN rejettent leur entente",
+      "fait": "Les paramédicaux membres de syndicats affiliés à la CSN ont rejeté l'entente de principe pour le renouvellement des conventions collectives et reprennent leurs moyens de pression. Selon La Presse."
     },
     {
-      "sujet": "Décès de la mère de Legault",
-      "fait": "Pauline Schetagne, mère de l'ancien premier ministre François Legault, est décédée mercredi soir à l'âge de 97 ans. Selon La Presse."
+      "sujet": "Décès humanitaires Gaza 2024 investigation",
+      "fait": "Israël affirme que son armée n'a pas commis d'acte criminel lors du décès de sept travailleurs humanitaires à Gaza en 2024, dont un Québécois. Selon La Presse."
     },
     {
-      "sujet": "Frappes russes en Ukraine",
-      "fait": "Au moins 16 personnes ont été tuées dans des frappes russes sur Kyiv incluant des immeubles résidentiels, un hôpital pour enfants et une école. Selon Le Devoir."
+      "sujet": "Attaque missile russe Kiev victimes",
+      "fait": "Une salve de missiles russes s'étendant sur plusieurs heures a frappé Kyiv, tuant au moins 15 personnes selon les autorités ukrainiennes. Selon BBC World."
     }
   ]
 }
