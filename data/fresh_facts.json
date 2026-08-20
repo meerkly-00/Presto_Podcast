@@ -1,54 +1,50 @@
 {
-  "generated_at": "2026-08-19T22:23:22.417828+00:00",
+  "generated_at": "2026-08-20T13:45:44.123280+00:00",
   "window_hours": 8,
   "faits": [
     {
-      "sujet": "Décès Abisay Cruz - méthode de contention",
-      "fait": "La coroner Géhane Kamel a formulé des recommandations après la mort d'Abisay Cruz, estimant que la méthode de contention du SPVM aurait contribué au décès. Selon Radio-Canada."
+      "sujet": "Négociations commerciales Canada-États-Unis",
+      "fait": "Le ministre Dominic LeBlanc se rend à Washington jeudi matin pour rencontrer son homologue américain Jamieson Greer dans le contexte des négociations commerciales. Selon La Presse, une entente semble être à portée de main."
     },
     {
-      "sujet": "Accord commercial Canada-États-Unis",
-      "fait": "Mark Carney confirme qu'un accord avec Washington concernant la suspension des tarifs est sur la table. Le président Trump évoque une entente « très équitable » avec le Canada. Selon Radio-Canada."
+      "sujet": "Sanctions économiques contre l'Iran",
+      "fait": "Le ministre iranien des Affaires étrangères Abbas Araghchi a rejeté les menaces du président Trump de lancer une campagne d'« economic warfare » contre l'Iran, affirmant que cela « ne produira que de nouvelles défaites ». Selon CBC World."
     },
     {
-      "sujet": "Prince Harry et Meghan - retour au Royaume-Uni",
-      "fait": "Prince Harry et Meghan reviennent au Royaume-Uni avec leurs enfants, a confirmé le Palais de Buckingham. Selon CBC News et National Post."
+      "sujet": "Fondateur d'Evergrande condamné",
+      "fait": "Hui Ka Yan, fondateur du promoteur immobilier Evergrande, a été condamné à la prison à vie par un tribunal chinois. Selon Reuters et Associated Press."
     },
     {
-      "sujet": "Ministre Benoit Charette - départ politique",
-      "fait": "Le ministre québécois des Transports Benoit Charette annonce son départ de la vie politique, environ une semaine avant le déclenchement des élections. Selon La Presse."
+      "sujet": "Cyberattaque contre Alation",
+      "fait": "Alation, géant du data et de l'IA, a confirmé un accès non autorisé à ses systèmes lors d'un incident mardi et a déclaré enquêter sur la violation. Selon TechCrunch."
     },
     {
-      "sujet": "PQ - slogan de campagne électorale",
-      "fait": "Le Parti québécois lance son slogan de campagne « Le choix de la confiance ». Paul St-Pierre Plamondon estime qu'une majorité d'électeurs veut rompre avec les années au pouvoir de la CAQ. Selon Radio-Canada."
+      "sujet": "Grok exfiltre données utilisateurs",
+      "fait": "Une équipe de chercheurs a démontré une attaque contre le chatbot Grok qui le force à voler les conversations des utilisateurs et autres informations personnelles en utilisant des instructions malveillantes encryptées. Selon Ars Technica, malgré notification à xAI en juin, l'assistant continuait de fournir les données."
     },
     {
-      "sujet": "Intoxication alimentaire - Staphylococcus aureus",
-      "fait": "Présence de Staphylococcus aureus détectée dans des pâtisseries trompe-l'œil vendues chez Crémerie boulevard Bouffe inc. et Les bonbons Sugar Daddy's de Sherbrooke. Selon Les Affaires."
+      "sujet": "Piratage de systèmes d'eau américains",
+      "fait": "Les autorités américaines indiquent que des pirates ciblent les contrôleurs Siemens connectés à Internet utilisés dans les installations d'eau aux États-Unis, avec l'aide de l'IA. Selon TechCrunch."
     },
     {
-      "sujet": "Protections de confidentialité - OpenAI vs Anthropic",
-      "fait": "Une compétition se développe entre OpenAI et Anthropic concernant les protections de confidentialité des données clients en entreprise. Selon TechCrunch."
+      "sujet": "Caméras DJI interdites commercialisées",
+      "fait": "Les caméras DJI Osmo Pocket 4 et 4 Pro, interdites à l'entrée aux États-Unis, sont disponibles sur Temu, AliExpress, eBay, Mercari, Amazon et Newegg avec livraison gratuite rapide depuis des centres de distribution américains. Selon The Verge."
     },
     {
-      "sujet": "Kennedy Center - nom de Trump",
-      "fait": "Le Kennedy Center attendra jusqu'au 8 septembre avant de réintégrer le nom de Trump à sa façade, couverte par une bâche depuis juin. Selon Le Devoir."
+      "sujet": "Pétition FIFA contre Infantino",
+      "fait": "Des groupes de supporters de football du monde entier ont lancé une pétition jeudi demandant la démission du président Gianni Infantino après sa tentative de vendre les futurs profits de la Coupe du monde à des investisseurs privés. Selon CBC."
     },
     {
-      "sujet": "Australie - décision israélienne sur poursuites",
-      "fait": "Le ministre australien de l'Affaires étrangères exprime de l'indignation après qu'Israël a décidé de ne pas poursuivre dans l'affaire de la mort d'une travailleuse humanitaire Zomi Frankcom à Gaza. Selon BBC World."
+      "sujet": "Découverte astronomique étoile",
+      "fait": "Des astronomes ont découvert l'étoile la plus rapide de la Voie lactée, qui orbite à 25 000 kilomètres par seconde autour du trou noir supermassif au centre de la galaxie. Selon La Presse."
     },
     {
-      "sujet": "NASA - mission de sauvetage échouée",
-      "fait": "La NASA annonce l'échec de sa mission pour secourir le télescope Swift en orbite. Le robot spatial devait attraper et propulser plus haut le télescope, qui attend désormais sa désintégration dans l'atmosphère. Selon La Presse."
+      "sujet": "Décès de la mère de Legault",
+      "fait": "Pauline Schetagne, mère de l'ancien premier ministre François Legault, est décédée mercredi soir à l'âge de 97 ans. Selon La Presse."
     },
     {
-      "sujet": "Poursuites Meta - dépendance aux réseaux sociaux",
-      "fait": "Un procès historique contre Meta pourrait entraîner des amendes et des changements fondamentaux dans les opérations de Facebook et Instagram. Selon Al Jazeera."
-    },
-    {
-      "sujet": "Rillet - financement Series C licorne",
-      "fait": "La startup d'IA Rillet lève 100 millions de dollars en Series C à une valorisation d'un milliard de dollars, deux ans après son émergence de la furtivité, ayant doublé son ARR en trois mois. Selon TechCrunch."
+      "sujet": "Frappes russes en Ukraine",
+      "fait": "Au moins 16 personnes ont été tuées dans des frappes russes sur Kyiv incluant des immeubles résidentiels, un hôpital pour enfants et une école. Selon Le Devoir."
     }
   ]
 }
