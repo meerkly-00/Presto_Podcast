@@ -1,50 +1,54 @@
 {
-  "generated_at": "2026-08-20T16:34:20.411488+00:00",
+  "generated_at": "2026-08-20T19:30:34.319267+00:00",
   "window_hours": 8,
   "faits": [
     {
+      "sujet": "Sanctions américaines contre l'Iran",
+      "fait": "Le secrétaire au Trésor américain déclare que les sanctions viseront à 'écraser' l'économie iranienne et à 'effondrer' le régime, exigeant des alliés de choisir s'ils sont 'avec nous ou contre nous'. Selon BBC World et Al Jazeera."
+    },
+    {
       "sujet": "Négociations commerciales Canada-États-Unis",
-      "fait": "La première ministre québécoise Christine Fréchette a reçu un appel du premier ministre fédéral Mark Carney au sujet de l'accord commercial et reste prudente quant à l'entente imminente entre Ottawa et Washington sur les droits de douane. Selon La Presse et Radio-Canada."
+      "fait": "Le premier ministre Mark Carney demande aux provinces de réapprovisionner leurs rayons en alcool américain, mettant fin à un embargo en réponse à la guerre commerciale du président Trump. Selon CBC et Global News."
     },
     {
-      "sujet": "Accord commercial Canada-États-Unis finalisé",
-      "fait": "Le ministre Dominic LeBlanc retourne à Washington pour rencontrer Jamieson Greer afin de finaliser l'accord de principe commercial conclu plus tôt cette semaine. Selon Radio-Canada."
+      "sujet": "Économie argentine",
+      "fait": "L'économie argentine s'est contractée plus rapidement que prévu en juin 2026. Selon Bloomberg."
     },
     {
-      "sujet": "Négociations commerciales Québec-États-Unis",
-      "fait": "Paul St-Pierre Plamondon, chef du Parti québécois, accuse la première ministre Christine Fréchette de ne pas avoir suffisamment défendu les intérêts du Québec dans les négociations commerciales entre le Canada et les États-Unis. Selon La Presse."
+      "sujet": "Décès d'humanitaires à Gaza",
+      "fait": "Israël conclut que son armée n'a pas commis d'acte criminel lors du décès d'un Canadien et de six autres travailleurs humanitaires de l'organisme World Central Kitchen il y a deux ans. Le Canada n'a pas encore réagi au rapport. Selon CBC et Radio-Canada."
     },
     {
-      "sujet": "Pressions commerciales sur le Mexique",
-      "fait": "Les officiels mexicains et les chefs d'entreprise ont été pris au dépourvu par l'accord commercial préliminaire entre le Canada et les États-Unis, et le Mexique cherche maintenant à obtenir son propre accord. Selon National Post."
+      "sujet": "Vaccin Ebola en République Démocratique du Congo",
+      "fait": "La RDC doit recevoir 70 000 doses du vaccin Ervebo contre Ebola, bien que le vaccin soit uniquement autorisé contre le virus Ebola et non contre le virus Bundibugyo. Selon Global News."
     },
     {
-      "sujet": "Safeguards TikTok désactivées expérimentalement",
-      "fait": "Des sénateurs exigent des réponses de TikTok concernant une expérience au cours de laquelle la plateforme a désactivé des protections conçues pour prévenir que les utilisateurs ne soient submergés par du contenu nuisible. Selon TechCrunch."
+      "sujet": "Voyage des Canadiens aux États-Unis",
+      "fait": "Les retours de voyages entre les États-Unis et le Canada via automobile ont augmenté de 7,6 % en juin 2026 par rapport à juin 2025, atteignant 1,7 million, avec 66 % de trajets d'une journée. Selon Global News."
     },
     {
-      "sujet": "Greg Brockman accumule le pouvoir à OpenAI",
-      "fait": "Greg Brockman, président et co-fondateur d'OpenAI, a discrètement accumulé du pouvoir dans l'entreprise alors que celle-ci connaît des départs d'exécutifs majeurs en préparation de son introduction en bourse. Selon The Verge."
+      "sujet": "Classe action sur le sirop d'érable",
+      "fait": "Metro, Sobeys et Loblaw sont nommés défendeurs dans une action collective proposée concernant du sirop d'érable contenant 50 % de sucre de canne. Selon National Post."
     },
     {
-      "sujet": "Patreon lancee 30 nouvelles fonctionnalités",
-      "fait": "Patreon a déployé 30 nouvelles fonctionnalités de création incluant des clips court-format et un système de recommandation révisé visant à accorder plus de visibilité aux petits créateurs. Selon TechCrunch."
+      "sujet": "Colonies israéliennes en Cisjordanie",
+      "fait": "Le Royaume-Uni, la France, l'Allemagne, l'Italie et le Canada condamnent le projet d'expansion des colonies israéliennes en Cisjordanie occupée. Selon BBC World."
     },
     {
-      "sujet": "Meta lance Pocket aux utilisateurs américains",
-      "fait": "Meta déploie Pocket, son application expérimentale alimentée par l'IA pour créer et partager des jeux interactifs, auprès des utilisateurs aux États-Unis après tests en Brésil. Selon TechCrunch."
+      "sujet": "Sécurité des enfants sur Roblox",
+      "fait": "L'organisme australien de régulation eSafety conclut que Roblox n'a pas résolu ses problèmes de prédateurs d'enfants : des adultes peuvent toujours envoyer des demandes de connexion à des enfants de moins de 16 ans sans déclencher d'alertes parentales. Selon The Verge et Ars Technica."
     },
     {
-      "sujet": "Paramédicaux CSN rejettent leur entente",
-      "fait": "Les paramédicaux membres de syndicats affiliés à la CSN ont rejeté l'entente de principe pour le renouvellement des conventions collectives et reprennent leurs moyens de pression. Selon La Presse."
+      "sujet": "Achats immobiliers de Mark Zuckerberg",
+      "fait": "Mark Zuckerberg et Priscilla Chan ont acheté le château de Strancally et ses 440 acres en Irlande il y a plusieurs semaines, pour un prix estimé entre 20 et 30 millions d'euros. Selon The Verge."
     },
     {
-      "sujet": "Décès humanitaires Gaza 2024 investigation",
-      "fait": "Israël affirme que son armée n'a pas commis d'acte criminel lors du décès de sept travailleurs humanitaires à Gaza en 2024, dont un Québécois. Selon La Presse."
+      "sujet": "Objectifs haut débit de la FCC",
+      "fait": "Le président de la FCC, Brendan Carr, abandonne les objectifs de vitesse large bande établis sous l'administration Biden visant des débits d'un gigabit en téléchargement et de 500 Mbps en téléversement. Selon The Verge."
     },
     {
-      "sujet": "Attaque missile russe Kiev victimes",
-      "fait": "Une salve de missiles russes s'étendant sur plusieurs heures a frappé Kyiv, tuant au moins 15 personnes selon les autorités ukrainiennes. Selon BBC World."
+      "sujet": "Télescope spatial Swift de la NASA",
+      "fait": "La NASA abandonne sa mission de sauvetage du télescope Swift après avoir dépensé 30 millions de dollars américains pour tenter de le relever. L'observatoire fonctionne depuis 20 ans. Selon CBC World."
     }
   ]
 }
