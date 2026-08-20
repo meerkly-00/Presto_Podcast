@@ -1,13 +1,13 @@
 {
   "date": "2026-08-20",
   "kind": "poll",
-  "text": "Ce matin → Trump menace l'Iran d'une « opération économique écrasante ».\n\nÀ ton avis, les sanctions économiques peuvent-elles changer le comportement d'un État?",
+  "text": "Ce matin → Trump menace l'Iran d'une « opération économique la plus écrasante jamais vue ».\n\nNouveau : Le ministre iranien Abbas Araghchi rejette ces menaces, affirmant qu'elles « ne\n\nSelon toi, les sanctions économiques peuvent-elles modifier le comportement d'un régime?",
   "poll": {
     "options": [
-      "Oui, c'est un outil",
-      "Non, cela renforce la",
-      "Ça dépend du contexte",
-      "Incertain"
+      "Oui, elles créent une",
+      "Non, elles renforcent la",
+      "Ça dépend du régime et",
+      "Pas sûr"
     ],
     "duration_minutes": 1440
   }
