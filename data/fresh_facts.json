@@ -1,54 +1,54 @@
 {
-  "generated_at": "2026-08-20T19:30:34.319267+00:00",
+  "generated_at": "2026-08-20T22:26:57.428322+00:00",
   "window_hours": 8,
   "faits": [
     {
-      "sujet": "Sanctions américaines contre l'Iran",
-      "fait": "Le secrétaire au Trésor américain déclare que les sanctions viseront à 'écraser' l'économie iranienne et à 'effondrer' le régime, exigeant des alliés de choisir s'ils sont 'avec nous ou contre nous'. Selon BBC World et Al Jazeera."
+      "sujet": "Négociation commerciale Canada-États-Unis",
+      "fait": "Le Canada affirme qu'une entente commerciale avec les États-Unis est « très proche » et que des travaux supplémentaires sont nécessaires, selon Reuters. Le ministre Dominic LeBlanc rapporte une « longue et importante discussion » avec le négociateur américain Jamieson Greer, d'après Radio-Canada."
     },
     {
-      "sujet": "Négociations commerciales Canada-États-Unis",
-      "fait": "Le premier ministre Mark Carney demande aux provinces de réapprovisionner leurs rayons en alcool américain, mettant fin à un embargo en réponse à la guerre commerciale du président Trump. Selon CBC et Global News."
+      "sujet": "Entente commerciale numériques et IA",
+      "fait": "L'inclusion d'« alignement du commerce numérique » dans les négociations commerciales suscite des préoccupations au Canada concernant sa capacité à établir sa propre politique pour les entreprises technologiques, selon le National Post."
     },
     {
-      "sujet": "Économie argentine",
-      "fait": "L'économie argentine s'est contractée plus rapidement que prévu en juin 2026. Selon Bloomberg."
+      "sujet": "Fermeture usine pâtes et papiers Colombie-Britannique",
+      "fait": "Domtar annonce l'arrêt « indéfini » des opérations à l'usine de pâtes et papiers Howe Sound en Colombie-Britannique, alors que la province approche « les prix les plus bas de la pâte en 100 ans », selon Global News et CBC."
     },
     {
-      "sujet": "Décès d'humanitaires à Gaza",
-      "fait": "Israël conclut que son armée n'a pas commis d'acte criminel lors du décès d'un Canadien et de six autres travailleurs humanitaires de l'organisme World Central Kitchen il y a deux ans. Le Canada n'a pas encore réagi au rapport. Selon CBC et Radio-Canada."
+      "sujet": "Ouverture voie rapide autobus Scarborough Toronto",
+      "fait": "La Commission de transport de Toronto annonce l'ouverture de la voie rapide pour autobus le 30 septembre, soit six mois plus tôt que prévu, selon Global News."
     },
     {
-      "sujet": "Vaccin Ebola en République Démocratique du Congo",
-      "fait": "La RDC doit recevoir 70 000 doses du vaccin Ervebo contre Ebola, bien que le vaccin soit uniquement autorisé contre le virus Ebola et non contre le virus Bundibugyo. Selon Global News."
+      "sujet": "Sanctions américaines contre Cuba et Iran",
+      "fait": "Les États-Unis imposent de nouvelles sanctions contre Cuba incluant le secteur minier et de la construction, selon Al Jazeera. Le Trésorier américain Scott Bessent annonce que les États-Unis dévoileront un plan d'isolation économique de l'Iran lundi, selon le National Post."
     },
     {
-      "sujet": "Voyage des Canadiens aux États-Unis",
-      "fait": "Les retours de voyages entre les États-Unis et le Canada via automobile ont augmenté de 7,6 % en juin 2026 par rapport à juin 2025, atteignant 1,7 million, avec 66 % de trajets d'une journée. Selon Global News."
+      "sujet": "Élargissement champ pratique pharmaciens Québec",
+      "fait": "Le champ de pratique des pharmaciens sera élargi à partir du 9 décembre au Québec, annonce le ministère de la Santé, selon La Presse."
     },
     {
-      "sujet": "Classe action sur le sirop d'érable",
-      "fait": "Metro, Sobeys et Loblaw sont nommés défendeurs dans une action collective proposée concernant du sirop d'érable contenant 50 % de sucre de canne. Selon National Post."
+      "sujet": "Intégration ChatGPT messages Apple",
+      "fait": "ChatGPT est proposé comme intégration dans Messages d'Apple pour rédiger automatiquement des textes, selon TechCrunch."
     },
     {
-      "sujet": "Colonies israéliennes en Cisjordanie",
-      "fait": "Le Royaume-Uni, la France, l'Allemagne, l'Italie et le Canada condamnent le projet d'expansion des colonies israéliennes en Cisjordanie occupée. Selon BBC World."
+      "sujet": "Nouvelle interface Google Discover IA",
+      "fait": "Google introduit une interface de type chatbot pour personnaliser le fil Discover en décrivant ses préférences, avec déploiement dans les « prochains jours », selon The Verge."
     },
     {
-      "sujet": "Sécurité des enfants sur Roblox",
-      "fait": "L'organisme australien de régulation eSafety conclut que Roblox n'a pas résolu ses problèmes de prédateurs d'enfants : des adultes peuvent toujours envoyer des demandes de connexion à des enfants de moins de 16 ans sans déclencher d'alertes parentales. Selon The Verge et Ars Technica."
+      "sujet": "Excès de vitesse route Colombie-Britannique",
+      "fait": "Un conducteur albertain âgé de 21 ans a été verbalisé pour avoir roulé à 142 km/h dans une zone de 70 km/h sur la route 97 en Colombie-Britannique le 13 août, selon Global News."
     },
     {
-      "sujet": "Achats immobiliers de Mark Zuckerberg",
-      "fait": "Mark Zuckerberg et Priscilla Chan ont acheté le château de Strancally et ses 440 acres en Irlande il y a plusieurs semaines, pour un prix estimé entre 20 et 30 millions d'euros. Selon The Verge."
+      "sujet": "Fin développement jeu League of Legends",
+      "fait": "Riot Games met fin au développement actif du jeu de combat 2XKO en décembre 2026 après avoir constaté que « pas assez de joueurs ont continué à jouer pour atteindre une voie vers la durabilité », selon The Verge."
     },
     {
-      "sujet": "Objectifs haut débit de la FCC",
-      "fait": "Le président de la FCC, Brendan Carr, abandonne les objectifs de vitesse large bande établis sous l'administration Biden visant des débits d'un gigabit en téléchargement et de 500 Mbps en téléversement. Selon The Verge."
+      "sujet": "Perte financière Enhanced Games compétition",
+      "fait": "The Enhanced Games, initiative de compétition sportive technologique, enregistre une perte de 60 millions de dollars, selon TechCrunch."
     },
     {
-      "sujet": "Télescope spatial Swift de la NASA",
-      "fait": "La NASA abandonne sa mission de sauvetage du télescope Swift après avoir dépensé 30 millions de dollars américains pour tenter de le relever. L'observatoire fonctionne depuis 20 ans. Selon CBC World."
+      "sujet": "Doctorat honorifique caricaturiste québécois",
+      "fait": "Serge Chapleau, caricaturiste à La Presse, reçoit un doctorat honoris causa de l'Université de Montréal, première fois que l'institution accorde cet honneur à un caricaturiste, selon La Presse."
     }
   ]
 }
