@@ -1,54 +1,50 @@
 {
-  "generated_at": "2026-08-20T22:26:57.428322+00:00",
+  "generated_at": "2026-08-21T13:44:18.013390+00:00",
   "window_hours": 8,
   "faits": [
     {
-      "sujet": "Négociation commerciale Canada-États-Unis",
-      "fait": "Le Canada affirme qu'une entente commerciale avec les États-Unis est « très proche » et que des travaux supplémentaires sont nécessaires, selon Reuters. Le ministre Dominic LeBlanc rapporte une « longue et importante discussion » avec le négociateur américain Jamieson Greer, d'après Radio-Canada."
+      "sujet": "Créateurs YouTube et partenariats IA",
+      "fait": "Plusieurs créateurs de contenu vidéo incluant Matti Haapoja et Sam Kolder ont publié des vidéos promotionnelles sur la plateforme Higgsfield et sa technologie Seedance 2.5, ce qui a provoqué un retour critique de la communauté après la découverte de screenshots d'offres de partenariat. Selon The Verge."
     },
     {
-      "sujet": "Entente commerciale numériques et IA",
-      "fait": "L'inclusion d'« alignement du commerce numérique » dans les négociations commerciales suscite des préoccupations au Canada concernant sa capacité à établir sa propre politique pour les entreprises technologiques, selon le National Post."
+      "sujet": "Saison 2 de Blue Eye Samurai",
+      "fait": "Netflix a annoncé que la deuxième saison de la série animée Blue Eye Samurai sera disponible en janvier 2027 et a confirmé le renouvellement pour une troisième saison finale. Selon The Verge."
     },
     {
-      "sujet": "Fermeture usine pâtes et papiers Colombie-Britannique",
-      "fait": "Domtar annonce l'arrêt « indéfini » des opérations à l'usine de pâtes et papiers Howe Sound en Colombie-Britannique, alors que la province approche « les prix les plus bas de la pâte en 100 ans », selon Global News et CBC."
+      "sujet": "Arrêt de Tesla Solar Roof",
+      "fait": "Tesla a cessé la production et la commercialisation de ses tuiles Solar Roof, ses panneaux solaires conçus pour ressembler à des tuiles de toiture classiques. La page web dédiée au produit redirige désormais vers la page des panneaux solaires conventionnels. Selon The Verge."
     },
     {
-      "sujet": "Ouverture voie rapide autobus Scarborough Toronto",
-      "fait": "La Commission de transport de Toronto annonce l'ouverture de la voie rapide pour autobus le 30 septembre, soit six mois plus tôt que prévu, selon Global News."
+      "sujet": "Simon Jolin-Barrette candidat CAQ",
+      "fait": "Le ministre québécois Simon Jolin-Barrette a confirmé qu'il se présentera comme candidat de la Coalition avenir Québec aux prochaines élections dans l'équipe de Christine Fréchette. Selon Radio-Canada et La Presse."
     },
     {
-      "sujet": "Sanctions américaines contre Cuba et Iran",
-      "fait": "Les États-Unis imposent de nouvelles sanctions contre Cuba incluant le secteur minier et de la construction, selon Al Jazeera. Le Trésorier américain Scott Bessent annonce que les États-Unis dévoileront un plan d'isolation économique de l'Iran lundi, selon le National Post."
+      "sujet": "Déportations de Mexicains par les États-Unis",
+      "fait": "Les États-Unis ont déporté près de 2300 Mexicains au Guatemala cette année et au moins plusieurs dizaines vers le Honduras, marquant une augmentation par rapport au début du second mandat du président Trump. Selon CBC World."
     },
     {
-      "sujet": "Élargissement champ pratique pharmaciens Québec",
-      "fait": "Le champ de pratique des pharmaciens sera élargi à partir du 9 décembre au Québec, annonce le ministère de la Santé, selon La Presse."
+      "sujet": "Accord commercial produits laitiers",
+      "fait": "Une entente avec Washington prévoit une modification du mode d'attribution des permis d'importation de produits laitiers américains au Canada. Selon Radio-Canada."
     },
     {
-      "sujet": "Intégration ChatGPT messages Apple",
-      "fait": "ChatGPT est proposé comme intégration dans Messages d'Apple pour rédiger automatiquement des textes, selon TechCrunch."
+      "sujet": "Révision fédérale des outils de piratage",
+      "fait": "Le sénateur Ron Wyden a adressé une lettre au bureau de surveillance fédéral américain demandant un examen complet de l'utilisation de logiciels de piratage et d'espionnage par le FBI, la DEA, ICE HSI et le Secret Service contre les Américains. Selon TechCrunch."
     },
     {
-      "sujet": "Nouvelle interface Google Discover IA",
-      "fait": "Google introduit une interface de type chatbot pour personnaliser le fil Discover en décrivant ses préférences, avec déploiement dans les « prochains jours », selon The Verge."
+      "sujet": "Rappel automobile en Chine",
+      "fait": "La Chine a lancé sa plus importante campagne de rappel automobile jamais enregistrée concernant des problèmes de sécurité de poignées de porte. Selon Reuters."
     },
     {
-      "sujet": "Excès de vitesse route Colombie-Britannique",
-      "fait": "Un conducteur albertain âgé de 21 ans a été verbalisé pour avoir roulé à 142 km/h dans une zone de 70 km/h sur la route 97 en Colombie-Britannique le 13 août, selon Global News."
+      "sujet": "Montures intelligentes Meta et renseignements",
+      "fait": "Avec l'augmentation de la demande pour les lunettes IA de Meta, des établissements publics incluant des écoles, tribunaux, restaurants et salles de spectacle commencent à les interdire en raison des préoccupations concernant les enregistrements non consentis. Selon Ars Technica."
     },
     {
-      "sujet": "Fin développement jeu League of Legends",
-      "fait": "Riot Games met fin au développement actif du jeu de combat 2XKO en décembre 2026 après avoir constaté que « pas assez de joueurs ont continué à jouer pour atteindre une voie vers la durabilité », selon The Verge."
+      "sujet": "El Niño intensité record",
+      "fait": "Le bureau météorologique britannique Met Office prévoit une augmentation sans précédent de la température de la surface de la mer de 3°C, estimant que ce sera le El Niño le plus intense en plus d'un siècle. Selon Al Jazeera."
     },
     {
-      "sujet": "Perte financière Enhanced Games compétition",
-      "fait": "The Enhanced Games, initiative de compétition sportive technologique, enregistre une perte de 60 millions de dollars, selon TechCrunch."
-    },
-    {
-      "sujet": "Doctorat honorifique caricaturiste québécois",
-      "fait": "Serge Chapleau, caricaturiste à La Presse, reçoit un doctorat honoris causa de l'Université de Montréal, première fois que l'institution accorde cet honneur à un caricaturiste, selon La Presse."
+      "sujet": "Pénurie de carburant en Russie",
+      "fait": "Les conducteurs russes attendent plusieurs heures dans les files d'attente pour se ravitailler en carburant, alors que Moscou se prépare à célébrer le Jour du drapeau russe. Selon BBC World."
     }
   ]
 }
