@@ -1,50 +1,54 @@
 {
-  "generated_at": "2026-08-21T16:33:17.663866+00:00",
+  "generated_at": "2026-08-21T19:25:37.204720+00:00",
   "window_hours": 8,
   "faits": [
     {
-      "sujet": "Crise sanitaire Ebola en RDC",
-      "fait": "Le bilan des morts dépasse 2 500 décès en République démocratique du Congo, dont environ la moitié enregistrée au cours des 20 derniers jours, selon la BBC World et le CBC. Un essai de vaccin doit débuter."
+      "sujet": "Négociations tarifaires États-Unis",
+      "fait": "La date limite imposée par Donald Trump pour les négociations tarifaires à Washington est samedi à 0h01. Selon Radio-Canada."
     },
     {
-      "sujet": "Négociations commerciales États-Unis-Canada",
-      "fait": "Donald Trump a fixé une limite de samedi à 0 h 01 pour les négociations sur les tarifs douaniers, selon Radio-Canada. Le premier ministre Mark Carney négocie avec Washington."
+      "sujet": "Tarifs américains mondiaux",
+      "fait": "Le tarif effectif mondial des États-Unis s'élève à 10,0%. Selon The Economist."
     },
     {
-      "sujet": "Système de santé canadien en crise",
-      "fait": "Un sondage national montre que 63 % des Canadiens décrivent les soins de santé dans leur province en état de crise, et 55 % croient que le système s'est détérioré au cours des cinq dernières années, selon le National Post."
+      "sujet": "Rappel Tesla en Chine",
+      "fait": "Les régulateurs chinois ordonnent à Tesla d'ajouter des étiquettes d'avertissement à 2,98 millions de véhicules Model 3 et Model Y et de déployer une mise à jour logicielle baissant automatiquement les vitres en cas de collision. Selon Ars Technica."
     },
     {
-      "sujet": "Séisme majeur au Pérou",
-      "fait": "Un tremblement de terre de magnitude 6,7 a frappé les Andes du sud du Pérou, centré 38 kilomètres au nord-ouest de Upahuacho, faisant 2 blessés selon Global News."
+      "sujet": "Construction Maison-Blanche Trump",
+      "fait": "La Cour suprême des États-Unis autorise la poursuite des travaux de construction du projet de salle de bal de 400 millions de dollars à la Maison-Blanche. Selon Global News."
     },
     {
-      "sujet": "Attaque à l'arme blanche en Suède",
-      "fait": "Deux adolescents ont été grièvement blessés lors d'une attaque à l'épée dans un lycée suédois ; un homme a été arrêté et plusieurs écoles ont été mises en confinement, selon BBC World."
+      "sujet": "Attaque à l'arme blanche Edmonton",
+      "fait": "Deux personnes sont blessées lors d'une attaque au temple sikh Nanaksar à Edmonton vendredi matin. Selon Global News et BBC World."
     },
     {
-      "sujet": "Caméras corporelles police Montréal",
-      "fait": "Le chef du SPVM Fady Dagher a annoncé que les policiers dotés de caméras corporelles ne pourront les fermer à leur discrétion et que le service promet une transparence totale, selon La Presse."
+      "sujet": "Frappes de drones en Ukraine",
+      "fait": "Une frappe de drone russe sur un centre commercial à Kryvyi Rih en Ukraine tue 14 à 15 personnes et blesse plus de 100 personnes, dont 23 enfants. Selon BBC World et Al Jazeera."
     },
     {
-      "sujet": "Loi anti-patch Hells Angels Québec",
-      "fait": "Un décret a été signé interdisant d'arborer les couleurs des Hells Angels à partir du 2 septembre, selon Radio-Canada."
+      "sujet": "Abolition de Santé Québec",
+      "fait": "Le Parti québécois promet des économies de 40 à 100 millions de dollars par année en abolissant Santé Québec pour réinvestir dans les soins directs. Selon Radio-Canada et La Presse."
+    },
+    {
+      "sujet": "Arrestation d'un adolescent extrémiste",
+      "fait": "Un adolescent qui planifiait un attentat contre une école avec l'aide de l'intelligence artificielle est arrêté vendredi matin à Montréal. Selon La Presse."
+    },
+    {
+      "sujet": "Avis de recherche mafia montréalaise",
+      "fait": "La Sûreté du Québec lance un nouvel avis de recherche pour Gianpietro Tiberio, soupçonné d'avoir commandé des meurtres commis il y a 14 ans dans le cadre de luttes intestines au sein de la mafia montréalaise. Selon La Presse."
     },
     {
       "sujet": "Walmart accepte Apple Pay et Google Pay",
-      "fait": "Walmart a finalement cédé à son refus historique et acceptera Apple Pay et Google Pay, selon TechCrunch."
+      "fait": "Walmart annonce qu'il supportera Apple Pay et Google Pay à partir du 24 août 2026 dans certains magasins, avec un déploiement complet dans tous les magasins américains d'ici fin 2026 et aux stations-service d'ici mi-2027. Selon The Verge."
     },
     {
-      "sujet": "Lobbying Waymo pour robots-taxis",
-      "fait": "Waymo a plus que doublé ses dépenses de lobbying entre avril et juin, dépassant 1 million de dollars auprès du gouvernement fédéral américain, selon Ars Technica."
+      "sujet": "Recherche Best Buy 60 anniversaire",
+      "fait": "Best Buy offre des cartes-cadeaux de 100 dollars pour 60 dollars le 22 août 2026 uniquement en magasin, dans le cadre de sa célébration du 60e anniversaire. Selon The Verge."
     },
     {
-      "sujet": "Procès Prince Harry contre Daily Mail",
-      "fait": "Prince Harry et autres demandeurs doivent payer 9,54 millions de livres (17,89 millions de dollars canadiens) en dépens judiciaires après avoir perdu leurs poursuites en violation de la vie privée, selon la décision de la Haute Cour de Londres rapportée par CBC."
-    },
-    {
-      "sujet": "Rappels de produits alimentaires aux États-Unis",
-      "fait": "Plus d'un million d'œufs de Midwest Poultry Services ont été rappelés en raison d'une possible contamination à la salmonelle, distribuée chez Kroger et autres chaînes du Sud et Sud-Ouest américain, selon The Verge."
+      "sujet": "Incendie Bald Range Colombie-Britannique",
+      "fait": "L'incendie Bald Range en Colombie-Britannique atteint 24 000 hectares, et l'ordre d'évacuation de Summerland est réduit à un avertissement pour la plupart de la communauté. Selon Global News."
     }
   ]
 }
