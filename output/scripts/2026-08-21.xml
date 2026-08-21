@@ -1,71 +1,87 @@
 ```xml
 <script>
-  <intro>Bonjour, on est le vendredi vingt et un août deux mille vingt-six. Voici votre Presto en environ quinze minutes. Au menu : le dossier commercial entre le Canada et Washington, la confrontation entre les États-Unis et l'Iran, les marchés secoués par les obligations américaines, l'actualité québécoise et un mot sur la tech.</intro>
+  <intro>Bonjour, on est le vendredi vingt et un août deux mille vingt-six. Voici votre Presto en environ quinze minutes. Au menu : le dossier commercial entre le Canada et les États-Unis, la confrontation entre Washington et Téhéran, les marchés secoués par les obligations américaines, l'actualité électorale québécoise, et un mot sur la tech.</vintro>
 
   <chapitre titre="Politique canadienne et commerce avec Washington">
-Le dossier commercial entre le Canada et les États-Unis reste au centre de l'actualité. Selon Reuters, le Canada affirme qu'une entente commerciale avec Washington est très proche, mais qu'il reste encore du travail à faire. Selon Radio-Canada, le ministre responsable du Commerce Canada-États-Unis, Dominic LeBlanc, fait état d'une discussion qu'il qualifie de longue et importante avec le représentant américain au Commerce, Jamieson Greer, et assure travailler à une entente satisfaisante.
+    Le dossier commercial entre le Canada et les États-Unis continue de dominer l'actualité. Selon Reuters, le Canada affirme qu'une entente commerciale avec Washington est très proche, mais qu'il reste encore du travail à faire.
 
-Sur le terrain, La Presse rapporte que les provinces canadiennes demeurent divisées alors que les négociations se poursuivent à Washington, et que l'entente présentée comme imminente n'est toujours pas conclue.
+    Selon Radio-Canada, une entente avec Washington prévoit une modification du mode d'attribution des permis d'importation, ce qui ouvrirait une percée pour les produits laitiers américains chez les détaillants canadiens. Ce changement touche directement le système de gestion de l'offre, un dossier sensible au Québec.
 
-The Hub souligne un enjeu de taille dans ce dossier : selon ce média, les tarifs douaniers appréhendés pourraient coûter environ quatre-vingt-dix mille emplois au Canada.
+    Toujours dans ce commerce, CBC rapporte que les interdictions provinciales sur la vente d'alcool américain sont devenues un enjeu central des négociations commerciales, alors que les premiers ministres provinciaux évaluent s'ils doivent remettre les bouteilles sur les tablettes pour apaiser la Maison-Blanche. Selon CBC, des vignerons et des associations de l'industrie américaine disent trouver déroutant de voir leur gagne-pain utilisé comme monnaie d'échange dans un différend international.
 
-Du côté des commentateurs, Le Devoir publie un éditorial qui juge que les compromis consentis par le premier ministre Mark Carney semblent douloureux pour une première entente intérimaire, survenue avant même celle de l'Accord Canada-États-Unis-Mexique.
+    En parallèle, CBC rapporte que le vice-président américain JD Vance a affirmé, lors d'un événement de financement privé, que le premier ministre Mark Carney avait tenté de se montrer plus dur que le président Donald Trump dans les négociations commerciales. Selon CBC, Vance a aussi souligné le rôle de son ami de longue date, le député conservateur Jamil Jivani, qu'il présente comme un allié utile pour le Canada.
+
+    Le Devoir note, dans un texte d'opinion, que les compromis de Mark Carney semblent coûteux pour une première entente intérimaire, avant même la conclusion de l'accord canado-américano-mexicain.
   </chapitre>
 
   <chapitre titre="International : la confrontation Washington-Téhéran">
-Au Moyen-Orient, la confrontation entre Washington et Téhéran continue de dominer l'actualité internationale. Selon l'Associated Press, l'Iran rejette les menaces économiques américaines. Le pays affirme avoir démontré, par le passé, sa capacité à contourner des sanctions déjà punissantes, comme le souligne la BBC.
+    Au Moyen-Orient, la confrontation entre Washington et Téhéran continue de dominer l'actualité internationale. Selon l'Associated Press, l'Iran rejette les menaces économiques américaines. Le pays affirme avoir démontré, par le passé, sa capacité à contourner des sanctions déjà punissantes.
 
-Selon Bloomberg, le secrétaire au Trésor américain Scott Bessent doit détailler lundi les plans de Washington pour isoler l'économie iranienne. Toujours selon Bloomberg, cette stratégie américaine comporte un risque de réaction de la part de la Chine, qui demeure un acheteur important de pétrole iranien.
+    Selon Bloomberg, le plan du président Trump pour étouffer l'économie iranienne comporte un risque de répercussions du côté de la Chine, qui demeure un acheteur important de pétrole iranien. Toujours selon Bloomberg, le secrétaire au Trésor américain Scott Bessent doit détailler lundi les plans américains pour isoler l'économie iranienne.
 
-Le Financial Times rapporte que le président Trump a annoncé une nouvelle offensive qu'il qualifie de guerre économique contre l'Iran. Sur le terrain pétrolier, Reuters rapporte que le pétrole se dirige vers une deuxième semaine consécutive de hausse, alors que le conflit non résolu entre les États-Unis et l'Iran continue de limiter l'offre.
+    La BBC rapporte que l'Iran a, par le passé, trouvé des façons de contourner des années de sanctions déjà sévères, ce qui soulève des questions sur l'efficacité réelle de cette nouvelle offensive économique américaine.
 
-Ailleurs au Moyen-Orient, la BBC rapporte qu'Israël a rétabli une colonie fermée en Cisjordanie, malgré des protestations internationales grandissantes. Selon la BBC, trente familles qualifiées de pionnières s'y sont installées, dans un contexte de nationalisme porté par le gouvernement israélien, ce qui inquiète les résidents palestiniens du secteur. La BBC rapporte aussi que le Royaume-Uni, la France, l'Allemagne, l'Italie et le Canada ont condamné ce projet de colonisation.
+    Sur le marché pétrolier, Reuters rapporte que le prix du pétrole se dirige vers une deuxième semaine consécutive de hausse, alors que les États-Unis intensifient la pression sur l'Iran.
 
-Toujours selon CBC, Israël a par ailleurs conclu que son armée n'a pas commis d'acte criminel lors de la frappe qui a tué un Canadien et six autres travailleurs humanitaires du convoi de World Central Kitchen, il y a deux ans, à Gaza.
+    Ailleurs au Moyen-Orient, la BBC rapporte qu'Israël a rétabli une colonie fermée en Cisjordanie, malgré des protestations internationales croissantes. Selon la BBC, une trentaine de familles dites pionnières s'y sont installées, portées par une vague de nationalisme encouragée par le gouvernement israélien, ce qui inquiète les résidents palestiniens des environs.
+
+    Toujours au Moyen-Orient, CBC rapporte qu'Israël a innocenté son armée dans la mort d'un Canadien lors d'une frappe aérienne visant un convoi de l'organisation World Central Kitchen. Selon CBC, l'armée israélienne conclut qu'aucun acte criminel n'a été commis lors de cette frappe qui a tué le Canadien et six autres travailleurs humanitaires à Gaza il y a deux ans.
+
+    Ailleurs dans le monde, la BBC rapporte que deux organisateurs des veillées commémoratives de Tiananmen à Hong Kong ont été reconnus coupables d'incitation à la subversion, dans un procès mené en vertu d'une loi sur la sécurité nationale imposée par la Chine. CBC confirme cette condamnation, précisant qu'il s'agit d'un dossier qui a affaibli le mouvement prodémocratie de la ville.
+
+    Enfin, Al Jazeera rapporte que l'Australie a porté des accusations contre un homme soupçonné d'avoir transmis des renseignements militaires ukrainiens à la Russie. Selon la police australienne, cet homme, un citoyen australo-russe, aurait rejoint l'armée ukrainienne dans le but de transmettre de l'information aux services de renseignement russes.
   </chapitre>
 
   <chapitre titre="Économie et marchés">
-On passe à l'économie, dominée cette semaine encore par la nervosité sur le marché obligataire américain. Selon Reuters, Wall Street a reculé alors que les rendements obligataires progressaient et que les résultats de Walmart ont déçu. Le Wall Street Journal confirme que les actions ont chuté à mesure que les rendements obligataires et les prix du pétrole augmentaient.
+    On passe à l'économie, dominée cette semaine encore par la nervosité sur le marché obligataire américain. Selon Reuters, Wall Street a reculé alors que les rendements obligataires progressaient et que les résultats de l'entreprise Walmart ont déçu. Le Wall Street Journal confirme que les actions ont chuté à mesure que les rendements obligataires et les prix du pétrole brut augmentaient.
 
-Selon le Financial Times, l'intervention du secrétaire au Trésor Scott Bessent n'est pas parvenue à rassurer les investisseurs, et les obligations américaines à long terme ont continué de reculer. Toujours selon le Financial Times, le marché du Trésor américain, évalué à trente-deux billions de dollars, fait l'objet de questionnements sur l'efficacité des interventions de Bessent. Le Wall Street Journal ajoute que le statut privilégié du marché obligataire américain comme valeur refuge s'effrite.
+    Selon le Financial Times, les fonds de couverture quantitatifs ont connu leur pire journée en deux ans, alors que le Trésor américain augmentait ses rachats d'obligations et que les actions de l'entreprise Moderna bondissaient.
 
-Selon Reuters, les actions asiatiques affichaient un ton morose cette semaine, les rendements obligataires et les prix du pétrole demeurant élevés. Bloomberg rapporte que les actions asiatiques devraient également reculer aujourd'hui, alors que les obligations reprennent leur déclin.
+    Toujours sur ce dossier, le Financial Times rapporte que l'intervention du secrétaire au Trésor Scott Bessent n'est pas parvenue à rassurer les investisseurs, alors que les obligations américaines à long terme reculaient. Reuters précise que Bessent a affirmé que les rachats d'obligations majorés pourraient encore augmenter. Le Financial Times pose la question à un billion de dollars canadiens: que fait Bessent avec le marché du Trésor américain, et cette stratégie fonctionnera-t-elle?
 
-Dans ce contexte d'incertitude, Reuters rapporte que l'or se dirige vers un troisième gain hebdomadaire consécutif, une progression survenue après l'annonce du Trésor américain sur ses rachats de titres.
+    Du côté asiatique, Reuters rapporte que les actions asiatiques terminent la semaine en baisse, alors que les rendements obligataires et les prix du pétrole demeurent élevés. Toujours selon Reuters, la Corée du Sud fait face aux conséquences émotionnelles d'un engouement boursier, après une période d'euphorie suivie de désillusion chez les investisseurs individuels.
 
-Ailleurs en économie, Reuters souligne que la Corée du Sud compose avec les contrecoups émotionnels d'un engouement boursier, passé de l'euphorie au désarroi chez plusieurs investisseurs particuliers. Bloomberg rapporte de son côté que l'économie argentine a progressé plus rapidement que prévu en juin. Le Wall Street Journal rapporte que la Bundesbank prévoit un ralentissement de l'économie allemande en raison de faibles niveaux d'eau sur le Rhin, qui nuisent au transport fluvial.
+    Ce matin, Bloomberg rapporte que les actions et les obligations progressent alors que la remontée du prix du pétrole marque une pause.
 
-Enfin, l'Associated Press rapporte qu'un tribunal chinois a condamné le fondateur du promoteur immobilier en difficulté Evergrande à la prison à vie.
+    Du côté des affaires canadiennes, Reuters rapporte que l'Inde accorderait à l'entreprise canadienne Fairfax un délai de deux ans pour consolider ses participations dans le cadre de l'entente concernant la Banque IDBI.
+
+    Ailleurs dans l'actualité économique internationale, un tribunal chinois a condamné à la prison à vie le fondateur du promoteur immobilier en difficulté Evergrande, selon l'Associated Press.
+
+    Enfin, le Wall Street Journal rapporte que la Bundesbank prévoit un ralentissement de l'économie allemande en raison de la baisse du niveau d'eau du Rhin, qui complique le transport fluvial de marchandises.
   </chapitre>
 
   <chapitre titre="Actualité québécoise">
-À Québec, la campagne électorale provinciale continue de se dessiner à l'approche du scrutin du cinq octobre. Selon Radio-Canada, Québec solidaire a dévoilé son slogan de campagne, "C'est possible", et a énuméré ses priorités en vue des élections. La Presse précise que la formation veut mener une campagne invitant à l'espoir et à l'action.
+    À Québec, la campagne électorale provinciale continue de se dessiner à l'approche du scrutin du cinq octobre. Selon Radio-Canada, Québec solidaire a dévoilé son slogan de campagne, je le cite : "C'est possible". Fin de citation. La Presse précise que la formation a énuméré ses priorités en vue des élections.
 
-Du côté du Parti québécois, Le Devoir publie une analyse selon laquelle le chef péquiste Paul St-Pierre Plamondon chercherait, par une approche de realpolitik, à retirer à ses adversaires fédéralistes l'argument américain qu'ils comptaient utiliser contre lui.
+    La Presse note aussi, dans un texte d'analyse, que la droite économique revient au cœur des priorités du Parti conservateur du Québec, une tendance qui se ressent aussi, dans une moindre mesure, chez le Parti québécois, son principal rival dans la région de la Capitale-Nationale.
 
-Toujours à Québec, Le Devoir publie une chronique qui presse les partis de dévoiler leurs chiffres avant les débats électoraux à venir.
+    Toujours sur la campagne, Le Devoir souligne, dans un texte d'opinion, que le chef du Parti québécois retire à ses adversaires fédéralistes l'argument américain dont ils comptaient se servir contre lui.
 
-En matière de sécurité publique, La Presse rapporte que des dizaines de motards des Hells Angels ont été aperçus jeudi sur la Côte-Nord, dans une région qui vit, selon les mots utilisés, une hausse récente de la violence armée. Les policiers ont augmenté leur présence sur le terrain en réaction à cette opération de visibilité des motards.
+    Par ailleurs, La Presse publie un sondage Synopsis mené pour le compte du journal sur l'état du réseau scolaire québécois. Selon ce sondage, près de la moitié des Québécois attribuent la note C au réseau scolaire, et trois personnes sur cinq estiment que la qualité de l'enseignement primaire et secondaire se détériore.
 
-À Montréal, le Journal de Montréal rapporte qu'un homme de vingt-deux ans a été abattu en pleine rue sur le Plateau-Mont-Royal. Par ailleurs, Global News rapporte qu'un rapport de la coroner Géhane Kamel conclut que l'usage par le service de police de Montréal d'une technique d'immobilisation interdite a probablement contribué à la mort d'Abisay Cruz, un homme de vingt-neuf ans.
+    Du côté du logement, Radio-Canada rapporte qu'un stratagème permet à certains propriétaires de contourner le moratoire sur les évictions, en ne récupérant pas les avis transmis par leurs locataires.
+
+    Enfin, Radio-Canada rapporte que la proportion de postes désignés "français essentiel" a chuté d'environ soixante-quinze pour cent en cinquante ans au sein de la fonction publique fédérale, alors que la proportion de postes bilingues a fortement augmenté durant la même période.
   </chapitre>
 
   <chapitre titre="Tech">
-Un mot sur la tech. Selon TechCrunch, le Nevada a donné son feu vert à Tesla, Uber et Waymo pour exploiter des milliers de robotaxis dans l'État. Ensemble, ces permis permettraient le déploiement de jusqu'à huit mille véhicules autonomes au cours des douze prochains mois.
+    Un mot sur la tech. Selon TechCrunch, le Nevada a donné son feu vert à Tesla, à Uber et à Waymo pour exploiter des milliers de robotaxis dans l'État. Ensemble, ces permis permettraient le déploiement de jusqu'à huit mille véhicules autonomes au cours des douze prochains mois.
 
-Toujours selon TechCrunch, la startup de données pour l'intelligence artificielle Micro1 a atteint un taux de revenu annualisé brut de cinq cents millions de dollars, porté par la demande croissante pour l'entraînement de modèles d'intelligence artificielle. TechCrunch rapporte aussi qu'OpenAI continue de gagner du terrain auprès des entreprises face à Anthropic, selon de nouvelles données, dans un contexte où les entreprises n'hésitent pas à changer de fournisseur au gré des nouveaux modèles lancés par chaque laboratoire.
+    Toujours selon TechCrunch, la démarrage en intelligence artificielle Micro1 a atteint un taux de revenu annualisé de cinq cents millions de dollars, porté par la demande croissante pour des données d'entraînement destinées aux modèles d'intelligence artificielle.
 
-Ars Technica rapporte qu'un important distributeur américain de robots humanoïdes chinois, RoboStore, revoit son modèle d'affaires après l'interdiction américaine visant les robots fabriqués à l'étranger. L'entreprise prévoit désormais produire ses propres robots dans une usine de Long Island, à New York.
+    En parallèle, TechCrunch rapporte qu'OpenAI gagne du terrain sur Anthropic auprès des utilisateurs d'entreprise, selon de nouvelles données. Le média souligne que les entreprises n'hésitent pas à changer de fournisseur chaque fois qu'un laboratoire lance un nouveau modèle, une volatilité qui devrait inquiéter les investisseurs des deux entreprises quant à la fidélité réelle des dépenses en intelligence artificielle du côté des entreprises.
 
-Enfin, The Verge rapporte que Google s'apprête à intégrer un clavardage propulsé par l'intelligence artificielle à son fil Discover, permettant aux utilisateurs de décrire directement leurs préférences pour personnaliser le contenu proposé.
+    Du côté de la robotique, Ars Technica rapporte que le principal distributeur américain de robots humanoïdes chinois change de stratégie après l'imposition d'une interdiction américaine. Selon Ars Technica, l'entreprise RoboStore, qui distribuait des robots de l'entreprise chinoise Unitree Robotics à des clients comme Cisco, OpenAI, Nvidia et plus de cent cinquante universités, prévoit désormais produire ses propres robots dans une usine de Long Island, dans l'État de New York.
+
+    Enfin, Ars Technica rapporte que la commissaire australienne à la sécurité en ligne exige des changements de la part de Roblox, après que des tests ont révélé que la plateforme ne parvient toujours pas à empêcher des adultes d'entrer en contact avec des enfants. Selon l'organisme, des inconnus adultes peuvent encore envoyer des demandes de connexion à des enfants dont les profils, incluant le nombre et le nom de leurs contacts, restent visibles publiquement.
   </chapitre>
 
   <chapitre titre="Sport">
-Rapidement en sport. Selon Sportsnet, les Blue Jays de Toronto ont défait les Rays de Tampa Bay par la marque de cinq à un, une victoire qui leur permet de remporter une septième série consécutive. Daz Cameron a connu un match marquant, avec un premier circuit dans l'uniforme des Blue Jays. Sportsnet souligne également une remarquable attrapée de Nathan Lukes, qui a privé Cedric Mullins d'un possible circuit et préservé l'avance de quatre points de Toronto en septième manche.
+    Rapidement en sport. Selon Sportsnet, les Blue Jays de Toronto ont défait les Rays de Tampa Bay par la marque de cinq à un, une victoire qui leur permet de remporter une septième série consécutive. Daz Cameron a connu un match marquant, avec un premier circuit dans l'uniforme des Blue Jays. Toujours selon Sportsnet, Nathan Lukes a réalisé un retrait spectaculaire au mur pour préserver l'avance de quatre points de son équipe.
 
-Toujours selon Sportsnet, Vladimir Guerrero fils a claqné un double avec un point produit lors de son premier passage au bâton avec le club-école de Dunedin, dans le cadre de son retour graduel au jeu.
+    Toujours selon Sportsnet, Vladimir Guerrero fils a réussi un double avec point produit à son premier passage au bâton avec le club-école de Dunedin, dans le cadre de son assignation de réadaptation.
 
-Du côté du football canadien, Global News rapporte que les Redblacks d'Ottawa se sont inclinés face aux Alouettes, plombant leur fiche à zéro victoire et dix défaites.
+    Du côté du football canadien, Global News rapporte que les Redblacks d'Ottawa ont subi une dixième défaite en autant de matchs face aux Alouettes de Montréal.
   </chapitre>
 
   <outro>Voilà pour ce Presto du vendredi vingt et un août deux mille vingt-six. Si ce briefing vous est utile, le meilleur coup de main que vous pouvez nous donner, c'est de le partager à une personne qui aime rester informée. Et selon votre plateforme : un abonnement sur Spotify ou Apple Podcasts, un pouce bleu et un abonnement sur YouTube, ça prend deux secondes et ça aide vraiment Presto à grandir. Sur ce, bonne journée, et à demain.</outro>
