@@ -1,0 +1,14 @@
+{
+  "date": "2026-08-21",
+  "kind": "poll",
+  "text": "Ce matin → La date limite pour les négociations tarifaires est samedi à 0h01.\n\nRadio-Canada rapporte que les deux pays sont dans le dernier sprint des discussions à Washington.\n\nSelon toi, comment devraient se résoudre les différends tarifaires?",
+  "poll": {
+    "options": [
+      "Par un accord avant la",
+      "Par des tarifs graduels",
+      "Par le recours à l'OMC",
+      "Sans céder sur les"
+    ],
+    "duration_minutes": 1440
+  }
+}
