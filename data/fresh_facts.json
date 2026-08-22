@@ -1,54 +1,54 @@
 {
-  "generated_at": "2026-08-22T19:22:08.471260+00:00",
+  "generated_at": "2026-08-22T22:20:39.444548+00:00",
   "window_hours": 8,
   "faits": [
     {
-      "sujet": "Tarifs américains Canada effondrement",
-      "fait": "Les négociations commerciales entre les États-Unis et le Canada se sont effondrées vendredi soir, entraînant l'imposition de tarifs de 50 % sur environ 20 milliards de dollars de produits canadiens. Selon Al Jazeera et Global News."
+      "sujet": "Effondrement négociations commerciales Canada-États-Unis",
+      "fait": "Le Premier ministre canadien Mark Carney a annoncé l'abandon des négociations commerciales avec les États-Unis, refusant de conclure « un mauvais accord ». Selon Radio-Canada et BBC World, les tarifs américains de 50 % sur les produits canadiens sont maintenant en vigueur."
     },
     {
-      "sujet": "Représailles tarifaires Canada États-Unis",
-      "fait": "Le premier ministre Mark Carney a annoncé des contre-tarifs « dollar pour dollar » contre les États-Unis, entrant en vigueur à partir du 8 septembre 2026. Selon Al Jazeera et Radio-Canada."
+      "sujet": "Représailles tarifaires canadiennes",
+      "fait": "Le Canada impose des tarifs de rétorsion « dollar pour dollar » sur l'acier, l'électronique et d'autres produits américains, selon Reuters et BBC World. Mark Carney a qualifié les nouveaux tarifs américains de « miscalculation »."
     },
     {
-      "sujet": "Aide aux entreprises Québec tarifs",
-      "fait": "Le Québec a mis en place deux nouveaux programmes destinés aux entreprises affectées par les tarifs américains, tandis que la première ministre Christine Fréchette s'est engagée à exclure l'alcool américain des rayons de la SAQ. Selon Radio-Canada et La Presse."
+      "sujet": "Trois enjeux ayant torpillé les pourparlers",
+      "fait": "Selon Global News, Prime Minister Carney a identifié trois problèmes principaux qui ont causé l'effondrement des négociations commerciales avec les États-Unis."
     },
     {
-      "sujet": "Carney caractérisation conflit commercial",
-      "fait": "Le premier ministre Carney a déclaré que le Canada est « à la guerre » après avoir été « attaqué » par les tarifs américains de 50 % sur 29 milliards de dollars de biens canadiens. Selon National Post."
+      "sujet": "Soutien des premiers ministres provinciaux",
+      "fait": "Les premiers ministres canadiens soutiennent la décision de Carney d'abandonner les négociations, selon Global News. Doug Ford, premier ministre de l'Ontario, a publiquement dénoncé Donald Trump dans une lettre, selon Radio-Canada."
     },
     {
-      "sujet": "Accord Unifor General Motors Ontario",
-      "fait": "Unifor a annoncé un accord provisoire en faveur de ses membres aux usines de GM en Ontario, améliorant les salaires et les avantages sociaux. Selon Global News."
+      "sujet": "Programmes d'aide québécois aux entreprises",
+      "fait": "Le Québec met en place deux nouveaux programmes destinés aux entreprises de la province en réaction aux tarifs américains, selon Radio-Canada."
     },
     {
-      "sujet": "Incendie Colombie-Britannique évacuations",
-      "fait": "De nouvelles consignes d'évacuation ont été émises pour la région du sud du Cariboo en Colombie-Britannique, où l'incendie près du lac Pear continue de s'étendre. Selon La Presse."
+      "sujet": "Appel d'offres pour le séparatisme québécois",
+      "fait": "Selon Reuters, les tarifs de Trump font perdre au Québec son appétit pour une séparation rapide du Canada."
     },
     {
-      "sujet": "Augmentation prix Amazon appareils",
-      "fait": "Amazon a augmenté les prix des produits Echo, Kindle et Fire TV de jusqu'à 60 %, l'Echo Dot passant de 49,99 $ à 79,99 $, citant des augmentations significatives des coûts des composants mémoire et stockage. Selon The Verge."
+      "sujet": "Tensions militaires Canada-OTAN en Lettonie",
+      "fait": "La mission de l'OTAN dirigée par le Canada renforce sa présence stratégique près des frontières russes et bélarussiennes face à l'intensification des menaces russes en Lettonie, selon La Presse."
     },
     {
-      "sujet": "Élections provinciales Québec candidature QS",
-      "fait": "L'ancien député péquiste René Gauvreau se présente comme candidat de Québec solidaire dans la circonscription de Camille-Laurin. Selon La Presse."
+      "sujet": "Accord tentative Unifor et General Motors",
+      "fait": "Unifor a annoncé un accord de principe samedi pour ses membres aux usines ontariennes de General Motors, qui améliorera les salaires et les avantages sociaux s'il est ratifié, selon Global News."
     },
     {
-      "sujet": "Critique opposition tarifs Carney",
-      "fait": "Le député conservateur ontarien Jamil Jivani a qualifié la réponse tarifaire « dollar pour dollar » de Carney d'« surréaction » qui « accélérera le conflit ». Selon National Post."
+      "sujet": "Évacuations incendie Pear Lake en Colombie-Britannique",
+      "fait": "Les autorités ont élargi les ordres d'évacuation liés au plus grand incendie de la Colombie-Britannique, selon la CBC. De nouvelles directives ont été émises pour des propriétés du sud du Cariboo."
     },
     {
-      "sujet": "Fusillade Fort Smith trois blessés",
-      "fait": "Un ordre de confinement a été émis pour Fort Smith, Bell Rock et Sawmill Island après une attaque armée ayant blessé trois personnes. Selon Radio-Canada."
+      "sujet": "Attaque armée à Fort Smith",
+      "fait": "Trois personnes ont été blessées lors d'une attaque armée à Fort Smith. Un ordre de confinement était en vigueur à Fort Smith, Bell Rock et Sawmill Island, selon Radio-Canada."
     },
     {
-      "sujet": "IA recherche scientifique Inherent Faraday",
-      "fait": "Inherent, fondée par d'anciens chercheurs de DeepMind, a présenté Faraday, un agent IA capable de reproduire des articles scientifiques et surpassant les performances d'Anthropic et OpenAI dans cette tâche. Selon TechCrunch."
+      "sujet": "Iran autorise le passage de pétroliers irakiens",
+      "fait": "L'Iran a accordé la permission à certains pétroliers irakiens de passer par le détroit d'Ormuz. Le président irakien Nizar Amidi a déclaré que le territoire de son pays ne serait pas utilisé pour lancer des attaques contre d'autres États, selon Al Jazeera."
     },
     {
-      "sujet": "Financement startups batteries défense États-Unis",
-      "fait": "Des startups américaines de batteries ont reçu 500 millions de dollars en subventions du Département de l'énergie. Selon TechCrunch."
+      "sujet": "Censure craintes journaliste militaire américain",
+      "fait": "Erik Slavin, rédacteur en chef d'un journal militaire américain, affirme avoir été congédié pour avoir déclaré dans une interview que « dans une situation hypothétique, la censure serait une ligne rouge », selon BBC World."
     }
   ]
 }
