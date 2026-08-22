@@ -1,13 +1,13 @@
 {
   "date": "2026-08-22",
   "kind": "poll",
-  "text": "Ce matin → Les droits de 50 % sur 28 G$ de marchandises canadiennes sont entrés en vigueur à minuit.\n\nFace aux nouveaux tarifs américains, le Canada devrait-il répondre « dollar pour dollar » ou explorer d'autres approches?",
+  "text": "Ce matin → Les droits de douane de 50 % sur 28 milliards $ de marchandises canadiennes sont entrés en vigueur.\n\nComment le Canada devrait-il réagir aux tarifs de 50 % des États-Unis?",
   "poll": {
     "options": [
-      "Répondre dollar pour",
-      "Négocier plutôt que",
-      "Répondre de façon ciblée",
-      "Attendre et observer"
+      "Appliquer des droits",
+      "Négocier avant de",
+      "Chercher des alliés pour",
+      "Réduire dépendance avec"
     ],
     "duration_minutes": 1440
   }
