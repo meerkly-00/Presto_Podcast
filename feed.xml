@@ -23,6 +23,17 @@
       <link>https://www.prestopodcast.online</link>
     </image>
     <item>
+      <title>Presto — édition du 22 août 2026</title>
+      <description>Au menu : Politique canadienne et commerce avec Washington, International, Actualité québécoise et canadienne, Tech, Sport</description>
+      <pubDate>Sat, 22 Aug 2026 08:00:46 +0000</pubDate>
+      <guid isPermaLink="false">https://github.com/meerkly-00/Presto_Podcast/releases/download/2026-08-22/2026-08-22.mp3</guid>
+      <enclosure url="https://github.com/meerkly-00/Presto_Podcast/releases/download/2026-08-22/2026-08-22.mp3" type="audio/mpeg" length="6029875"/>
+      <itunes:duration>556</itunes:duration>
+      <itunes:summary>Au menu : Politique canadienne et commerce avec Washington, International, Actualité québécoise et canadienne, Tech, Sport</itunes:summary>
+      <itunes:episode>91</itunes:episode>
+      <itunes:image href="https://www.prestopodcast.online/artwork-v2.jpg"/>
+    </item>
+    <item>
       <title>Presto — édition du 21 août 2026</title>
       <description>Au menu : Politique canadienne et commerce avec Washington, International : la confrontation Washington-Téhéran, Économie et marchés, Actualité québécoise, Tech, Sport</description>
       <pubDate>Fri, 21 Aug 2026 08:00:44 +0000</pubDate>

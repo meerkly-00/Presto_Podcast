@@ -1,0 +1,69 @@
+```xml
+<script>
+  <intro>Bonjour, on est le samedi vingt-deux août deux mille vingt-six. Voici votre Presto en environ quinze minutes. Au menu : l'échec des négociations commerciales entre Ottawa et Washington et les représailles tarifaires canadiennes, la guerre en Ukraine, un attentat déjoué à Montréal et une attaque au couteau dans un temple sikh à Edmonton, puis un tour d'horizon de la tech.</intro>
+
+  <chapitre titre="Politique canadienne et commerce avec Washington">
+    On commence par le dossier commercial entre le Canada et les États-Unis, qui a basculé cette nuit. Selon Radio-Canada, le premier ministre Mark Carney a annoncé la suspension des négociations avec Washington, affirmant que les progrès des derniers jours n'ont pas suffi à conclure une entente. De nouveaux tarifs américains de cinquante pour cent sont entrés en vigueur, touchant, selon la BBC, environ vingt milliards de dollars d'importations canadiennes.
+
+    En réplique, Mark Carney promet des droits de douane équivalents. Je le cite : "Le Canada appliquera des droits de douane équivalents, au dollar près." Fin de citation. Selon Global News, cette annonce marque la fin d'une phase de rapprochement qui semblait pourtant avancée : jeudi encore, le Canada affirmait qu'une entente était très proche.
+
+    Le contexte de cette rupture s'inscrit dans un dossier plus large. Selon The Economist, le taux tarifaire effectif global appliqué par les États-Unis se situe actuellement à dix pour cent. Cette nouvelle escalade avec le Canada s'ajoute donc à une politique commerciale américaine déjà en expansion depuis plusieurs mois.
+
+    Ailleurs au pays, la Gendarmerie royale du Canada confirme, selon CBC, qu'elle examine la demande de Premières Nations albertaines réclamant une enquête pour trahison visant la première ministre de l'Alberta et son parti. Certains chefs autochtones se disent optimistes face à cette révision.
+  </chapitre>
+
+  <chapitre titre="International">
+    En Ukraine, la situation reste grave après une frappe russe survenue vendredi. Selon la BBC, seize personnes sont mortes et plus de cent trente ont été blessées lorsque des drones russes ont frappé un centre commercial dans le centre du pays. Neuf personnes demeurent portées disparues. CBC confirme le bilan et rapporte que le président Volodymyr Zelensky a qualifié l'attaque, en anglais, je le cite : "act of barbarism." Fin de citation. Il a promis une réponse.
+
+    En République démocratique du Congo, la situation sanitaire se détériore. Selon CBC, le bilan de l'épidémie d'Ebola dépasse maintenant deux mille cinq cents morts, avec une propagation que l'ONU qualifie d'exponentielle. Les intervenants de première ligne font face à des violences et à des théories du complot, alors que les fonds d'urgence pourraient s'épuiser dans les prochaines semaines.
+
+    En Somalie, UNICEF rapporte, selon Al Jazeera, une hausse de trente-deux pour cent du nombre d'enfants traités pour malnutrition sévère, dans un contexte de sécheresse et de coupures dans l'aide humanitaire.
+
+    En Inde, l'État d'Assam fait face à des inondations dévastatrices. Selon Al Jazeera, des résidents décrivent des scènes de dévastation, certains cherchant encore le corps de proches disparus.
+
+    Aux Philippines, des communautés inondées dans le nord du pays réclament des réponses sur la gestion des fonds destinés au contrôle des inondations, rapporte Al Jazeera.
+
+    Enfin, en Alaska, un avion s'est écrasé sur un site militaire isolé, faisant huit morts. Selon CBC, l'appareil effectuait une deuxième approche dans un épais brouillard lorsqu'il a perdu le contact avec la tour de contrôle.
+  </chapitre>
+
+  <chapitre titre="Actualité québécoise et canadienne">
+    À Montréal, un adolescent qualifié d'"extrémiste" par les policiers a été arrêté vendredi matin dans l'arrondissement de Rosemont-La Petite-Patrie. Selon La Presse, il planifiait un attentat dans une école avec l'aide de l'intelligence artificielle.
+
+    À Edmonton, une attaque au couteau survenue vendredi matin au temple sikh Nanaksar Gurdwara a fait deux blessés. Selon CBC, l'Organisation mondiale sikhe du Canada confirme l'incident violent et un suspect est en détention. Deux clients seraient intervenus et auraient été poignardés lors de la confrontation, mais leurs blessures ne mettent pas leur vie en danger, précise Global News. En Colombie-Britannique, la communauté sikhe dit rester sur ses gardes tout en demandant à la population d'éviter la panique.
+
+    À Ottawa, le nouveau monument national dédié aux personnes LGBTQ+ a été inauguré. Selon La Presse, les personnes ayant vécu de la discrimination espèrent que ce lieu deviendra un espace d'apprentissage, de recueillement et de célébration.
+
+    En Colombie-Britannique, à Summerland, des résidents évacués en raison du feu de Bald Range commencent à peine à retourner chez eux, deux semaines après la découverte de l'incendie. Selon Radio-Canada, certains ont découvert des cambriolages et des souvenirs réduits en cendres.
+
+    À Montréal, dans Hochelaga-Maisonneuve, des résidents dénoncent, selon La Presse, l'inaction de l'organisme L'Anonyme face à des méfaits observés près de deux de ses établissements, notamment liés à la consommation de drogue et à la prostitution.
+
+    À Prince George, en Colombie-Britannique, le Bureau de la sécurité des transports enquête après qu'un avion a effectué un atterrissage d'urgence sur une route jeudi, faisant un mort. CBC rapporte le témoignage d'un survivant dont le véhicule a été percuté par l'appareil.
+  </chapitre>
+
+  <chapitre titre="Tech">
+    Du côté de la tech, Apple procède à des licenciements dans ses équipes Vision Pro et Siri. Selon The Verge, qui cite Bloomberg, plus de deux cents postes sont supprimés, incluant la fermeture presque complète de l'équipe responsable des jeux pour le Vision Pro. Apple affirme vouloir, en anglais, je le cite : "evolve our business to deliver the best experiences for our users." Fin de citation.
+
+    TikTok accepte de verser quatre cents millions de dollars américains pour régler une poursuite du département de la Justice américain. Selon The Verge, l'entreprise et sa société mère ByteDance étaient accusées d'avoir recueilli des données sur des millions d'utilisateurs de moins de treize ans sans le consentement de leurs parents. Il s'agit d'un des règlements les plus importants en matière de protection de la vie privée des enfants, selon le département de la Justice.
+
+    Nvidia continue d'investir dans les infrastructures d'intelligence artificielle. Selon TechCrunch, l'entreprise s'associe au développeur de centres de données Cloverleaf, poursuivant ainsi l'expansion de ses capacités en parallèle des revenus que les centres de données d'IA génèrent pour l'entreprise.
+
+    Sur le plan spatial, le président américain Donald Trump a signé une nouvelle politique de transport spatial. Selon Ars Technica, cette politique remplace celle adoptée en deux mille treize sous l'administration Obama et vise à soutenir plus de mille lancements et rentrées atmosphériques par année d'ici deux mille trente. L'an dernier, cent soixante-seize tentatives de lancement orbital ont eu lieu depuis le sol américain, dont cent soixante-cinq par SpaceX avec ses fusées Falcon 9.
+
+    LinkedIn rapporte, selon The Verge, que plus d'un million de personnes ont utilisé son nouveau bouton permettant de signaler du contenu généré par intelligence artificielle. Cette fonction avait été lancée après qu'un détecteur ait déterminé qu'environ quarante et un pour cent des publications longues sur la plateforme semblaient entièrement générées par IA.
+
+    Enfin, Motorola et l'équipe derrière le système d'exploitation GrapheneOS confirment, selon Ars Technica, le lancement de nouveaux téléphones axés sur la confidentialité prévu pour deux mille vingt-sept, à un prix supérieur à celui des téléphones Pixel de Google.
+  </chapitre>
+
+  <chapitre titre="Sport">
+    Rapidement en sport. Selon Sportsnet, les Blue Jays de Toronto se sont inclinés face aux Yankees de New York lors du match d'ouverture d'une série au Bronx, malgré des débuts prometteurs du lanceur Spencer Arrighetti.
+
+    Toujours selon Sportsnet, Rafael Devers, des Giants de San Francisco, a réussi son vingt-sixième circuit de la saison lors de son retour au Fenway Park, dans un match contre les Red Sox de Boston.
+
+    En football canadien, les Elks d'Edmonton ont défait les Blue Bombers de Winnipeg par la marque de vingt-deux à dix-neuf, grâce à un placement de quarante verges de Vincent Blanchard réussi à l'expiration du temps réglementaire, rapporte Global News.
+
+    Enfin, la Ligue professionnelle de hockey féminin confirme, selon Radio-Canada, que la coupe Walter a disparu lors de son transport vers l'Alberta. La ligue précise que le trophée n'est pas arrivé comme prévu à sa dernière destination.
+  </chapitre>
+
+  <outro>Voilà pour ce Presto du samedi vingt-deux août deux mille vingt-six. Si ce briefing vous est utile, le meilleur coup de main que vous pouvez nous donner, c'est de le partager à une personne qui aime rester informée. Et selon votre plateforme : un abonnement sur Spotify ou Apple Podcasts, un pouce bleu et un abonnement sur YouTube, ça prend deux secondes et ça aide vraiment Presto à grandir. Sur ce, bonne journée, et à demain.</outro>
+</script>
+```
