@@ -1,46 +1,42 @@
 {
-  "generated_at": "2026-08-22T13:31:09.057292+00:00",
+  "generated_at": "2026-08-22T16:22:16.854591+00:00",
   "window_hours": 8,
   "faits": [
     {
-      "sujet": "Tarifs américains de 50 % sur le Canada",
-      "fait": "De nouveaux droits de douane de 50 % sur 28 milliards de dollars de marchandises canadiennes sont entrés en vigueur après l'échec des négociations commerciales. Selon Radio-Canada et BBC World, cette mesure s'applique depuis minuit le 22 août 2026."
+      "sujet": "Négociations commerciales Canada-États-Unis",
+      "fait": "Le Premier ministre canadien Mark Carney a annoncé l'effondrement des négociations commerciales avec les États-Unis et qualifié les nouveaux tarifs de « mauvais accord ». Selon BBC World et National Post, Carney a déclaré que le Canada « s'éloignait d'une mauvaise affaire » pour protéger sa souveraineté."
     },
     {
-      "sujet": "Réplique canadienne aux tarifs américains",
-      "fait": "Le Canada promet de répliquer aux tarifs de 50 % imposés par les États-Unis. Selon BBC World, le Canada dit qu'il répondra « dollar pour dollar » aux nouveaux droits de douane."
+      "sujet": "Tarifs américains de 50 % en vigueur",
+      "fait": "Des tarifs de 50 % sur les produits canadiens sont entrés en vigueur samedi à minuit, selon Radio-Canada et Global News. Ces tarifs touchent l'acier, les produits laitiers et l'électronique."
     },
     {
-      "sujet": "Déclaration de Mark Carney sur l'effondrement des négociations",
-      "fait": "Mark Carney a publié une déclaration complète sur l'effondrement des négociations commerciales avec les États-Unis. Selon National Post, il a énoncé les objectifs du Canada dans ces négociations."
+      "sujet": "Contre-tarifs canadiens annoncés",
+      "fait": "Le Canada annoncera des contre-tarifs à compter du 8 septembre, selon Radio-Canada. Ces mesures de rétorsion viseront les États-Unis et concerneront notamment l'acier, les produits laitiers et l'électronique."
     },
     {
-      "sujet": "Réunion ministérielle québécoise sur l'aide économique",
-      "fait": "La première ministre Christine Fréchette convoque ses ministres à une réunion spéciale samedi pour annoncer un plan d'aide aux entreprises et travailleurs touchés par les nouveaux droits de douane américains. Selon La Presse et Radio-Canada, cette réunion vise à discuter de mesures d'aide."
+      "sujet": "Réunion d'urgence des premiers ministres",
+      "fait": "Le Premier ministre canadien Mark Carney a convoqué une réunion avec les premiers ministres des provinces et territoires prévue à 13h30, selon Global News."
     },
     {
-      "sujet": "Attaque russe sur un centre commercial en Ukraine",
-      "fait": "Une frappe russe sur un centre commercial en Ukraine a tué 16 personnes et en a blessé 130, y compris des enfants. Selon BBC World, quatre personnes sont toujours portées disparues après l'attaque du vendredi."
+      "sujet": "Plan d'aide québécois aux entreprises",
+      "fait": "La première ministre québécoise Christine Fréchette convoque ses ministres à une réunion spéciale samedi pour annoncer un plan d'aide aux entreprises et travailleurs affectés par les nouveaux droits de douane américains, selon La Presse."
     },
     {
-      "sujet": "Vague de droite en Amérique latine",
-      "fait": "Une vague de droite balaie la région d'Amérique latine. Selon Al Jazeera, cette tendance n'est pas une bonne nouvelle pour la région."
+      "sujet": "Augmentation des prix Amazon",
+      "fait": "Amazon a augmenté les prix sur les produits Echo, Kindle et Fire TV de jusqu'à 60 %, citant des « augmentations importantes des coûts des composants de mémoire et de stockage ». L'Echo Dot passe de 49,99 $ à 79,99 $, selon The Verge."
     },
     {
-      "sujet": "Crise de gouvernance à la FIFA",
-      "fait": "La CONCACAF demande au président de la FIFA Gianni Infantino de sauter un tournoi de jeunesse en raison d'une crise de gouvernance à la FIFA. Selon Al Jazeera, cette pression intervient en réaction à des problèmes de gouvernance."
+      "sujet": "Incident de fusillade à Fort Smith",
+      "fait": "Trois personnes ont été blessées lors d'une fusillade à la Fireweed Festival à Fort Smith, Territoires du Nord-Ouest, le suspect restant en fuite, selon CBC et Radio-Canada. Un ordre de confinement a été établi."
     },
     {
-      "sujet": "Hibernation artificielle et mémoire chez les souris",
-      "fait": "Des chercheurs ont induit un état d'hibernation chez des souris qui a effacé l'état de plus de la moitié de leurs synapses. Selon Ars Technica, les souris ont néanmoins conservé leurs mémoires, ce qui remet en question les théories actuelles sur le stockage de la mémoire."
+      "sujet": "Gel IA des laboratoires de frontier",
+      "fait": "Une nouvelle étude révèle que les principaux laboratoires d'IA n'ont que peu de plans documentés publiquement pour contenir des modèles incontrôlables, selon TechCrunch."
     },
     {
-      "sujet": "Démantèlement de la règle des terres sans routes",
-      "fait": "L'administration Trump propose d'annuler la Roadless Rule de 2001, menaçant environ 5 % des terres sans routes aux États-Unis, y compris la Tongass National Forest en Alaska du sud-est. Selon Ars Technica, cette mesure pourrait perturber la faune et l'eau."
-    },
-    {
-      "sujet": "Tirs actifs à Fort Smith, Territoires du Nord-Ouest",
-      "fait": "Un tireur actif a déclenché un ordre de confinement à Fort Smith, N.W.T. Selon CBC, les organisateurs du festival ont signalé des blessés, mais d'autres détails doivent encore être confirmés par la Gendarmerie royale du Canada."
+      "sujet": "Aide américaine aux startups batterie",
+      "fait": "Les startups américaines de batterie ont reçu 500 millions de dollars en subventions du département de l'Énergie, selon TechCrunch, offrant une bouée de sauvetage à une industrie touchée par la réduction des incitations aux véhicules électriques."
     }
   ]
 }
