@@ -1,67 +1,71 @@
 ```xml
 <script>
-  <intro>Bonjour, on est le samedi vingt-deux août deux mille vingt-six. Voici votre Presto en environ quinze minutes. Au menu : l'échec des négociations commerciales entre Ottawa et Washington et les représailles tarifaires canadiennes, la guerre en Ukraine, un attentat déjoué à Montréal et une attaque au couteau dans un temple sikh à Edmonton, puis un tour d'horizon de la tech.</intro>
+  <intro>Bonjour, on est le samedi vingt-deux août deux mille vingt-six. Voici votre Presto en environ quinze minutes. Au menu : la rupture commerciale entre Ottawa et Washington, la frappe meurtrière en Ukraine, l'actualité québécoise et canadienne, l'économie, et la tech.</intro>
 
-  <chapitre titre="Politique canadienne et commerce avec Washington">
-    On commence par le dossier commercial entre le Canada et les États-Unis, qui a basculé cette nuit. Selon Radio-Canada, le premier ministre Mark Carney a annoncé la suspension des négociations avec Washington, affirmant que les progrès des derniers jours n'ont pas suffi à conclure une entente. De nouveaux tarifs américains de cinquante pour cent sont entrés en vigueur, touchant, selon la BBC, environ vingt milliards de dollars d'importations canadiennes.
+  <chapitre titre="Canada-États-Unis : rupture commerciale">
+    On commence par le dossier commercial canado-américain, qui a basculé cette nuit après des mois de négociations. Selon Radio-Canada, le premier ministre Mark Carney a annoncé la suspension des négociations avec Washington, affirmant que les progrès des derniers jours n'ont pas suffi à conclure une entente.
 
-    En réplique, Mark Carney promet des droits de douane équivalents. Je le cite : "Le Canada appliquera des droits de douane équivalents, au dollar près." Fin de citation. Selon Global News, cette annonce marque la fin d'une phase de rapprochement qui semblait pourtant avancée : jeudi encore, le Canada affirmait qu'une entente était très proche.
+    Selon la BBC, un nouveau tarif de cinquante pour cent sur environ vingt milliards de dollars d'importations canadiennes est entré en vigueur après l'échec de dernière minute des pourparlers. Toujours selon Radio-Canada, Mark Carney promet de répliquer, je le cite : "Le Canada appliquera des droits de douane équivalents, au dollar près." Fin de citation.
 
-    Le contexte de cette rupture s'inscrit dans un dossier plus large. Selon The Economist, le taux tarifaire effectif global appliqué par les États-Unis se situe actuellement à dix pour cent. Cette nouvelle escalade avec le Canada s'ajoute donc à une politique commerciale américaine déjà en expansion depuis plusieurs mois.
+    Global News confirme que le Canada a suspendu les discussions commerciales et promis une réplique dollar pour dollar après l'entrée en vigueur des nouveaux tarifs américains samedi. Du côté des observateurs, The Hub rapporte une lecture plus critique du dossier : selon cette publication, le président américain aurait, en quelque sorte, appelé le bluff de Mark Carney après une semaine jugée difficile pour les conservateurs canadiens.
 
-    Ailleurs au pays, la Gendarmerie royale du Canada confirme, selon CBC, qu'elle examine la demande de Premières Nations albertaines réclamant une enquête pour trahison visant la première ministre de l'Alberta et son parti. Certains chefs autochtones se disent optimistes face à cette révision.
+    Al Jazeera se penche sur les conséquences pour l'économie canadienne. Le média rappelle que Washington a imposé des tarifs de cinquante pour cent sur des secteurs clés canadiens après l'échec des discussions, mais soutient que cette mesure ne devrait pas paralyser l'économie du pays. Le chroniqueur Chris Selley, dans le National Post, note pour sa part un effet inattendu : les ventes d'alcools américains auraient considérablement diminué en Alberta et surtout en Saskatchewan, deux provinces qui n'imposent pas d'interdiction totale sur les produits américains.
   </chapitre>
 
-  <chapitre titre="International">
-    En Ukraine, la situation reste grave après une frappe russe survenue vendredi. Selon la BBC, seize personnes sont mortes et plus de cent trente ont été blessées lorsque des drones russes ont frappé un centre commercial dans le centre du pays. Neuf personnes demeurent portées disparues. CBC confirme le bilan et rapporte que le président Volodymyr Zelensky a qualifié l'attaque, en anglais, je le cite : "act of barbarism." Fin de citation. Il a promis une réponse.
+  <chapitre titre="International : frappe meurtrière en Ukraine">
+    En Ukraine, la situation reste grave après une frappe russe survenue vendredi. Selon la BBC, seize personnes sont mortes et plus de cent trente ont été blessées lorsque des drones russes ont frappé un centre commercial dans le centre du pays. Neuf personnes demeurent portées disparues.
 
-    En République démocratique du Congo, la situation sanitaire se détériore. Selon CBC, le bilan de l'épidémie d'Ebola dépasse maintenant deux mille cinq cents morts, avec une propagation que l'ONU qualifie d'exponentielle. Les intervenants de première ligne font face à des violences et à des théories du complot, alors que les fonds d'urgence pourraient s'épuiser dans les prochaines semaines.
+    Le National Post rapporte que le président Volodymyr Zelensky a condamné une attaque qu'il juge, je le cite : "cynical and despicable." Fin de citation. Selon la chaîne CBC, le président ukrainien a promis une réponse à ce qu'il a qualifié d'acte de barbarie.
 
-    En Somalie, UNICEF rapporte, selon Al Jazeera, une hausse de trente-deux pour cent du nombre d'enfants traités pour malnutrition sévère, dans un contexte de sécheresse et de coupures dans l'aide humanitaire.
+    Ailleurs au chapitre international, la confrontation entre Washington et Téhéran se poursuit sur un ton hostile à l'approche de nouvelles sanctions américaines. Selon Reuters, les deux capitales maintiennent une rhétorique tendue. L'Associated Press rapporte que le président américain a évoqué un "économique D-Day" contre l'Iran, tandis que Téhéran, selon la même agence, se dit déjà bien familier avec les sanctions internationales.
 
-    En Inde, l'État d'Assam fait face à des inondations dévastatrices. Selon Al Jazeera, des résidents décrivent des scènes de dévastation, certains cherchant encore le corps de proches disparus.
+    En République démocratique du Congo, selon CBC, l'épidémie d'Ebola progresse de façon exponentielle, avec un bilan qui dépasse maintenant les deux mille cinq cents morts selon les Nations unies. Les fonds d'urgence pourraient s'épuiser d'ici quelques semaines, alors que les intervenants de première ligne font face à une violence croissante et à la propagation de théories du complot.
 
-    Aux Philippines, des communautés inondées dans le nord du pays réclament des réponses sur la gestion des fonds destinés au contrôle des inondations, rapporte Al Jazeera.
-
-    Enfin, en Alaska, un avion s'est écrasé sur un site militaire isolé, faisant huit morts. Selon CBC, l'appareil effectuait une deuxième approche dans un épais brouillard lorsqu'il a perdu le contact avec la tour de contrôle.
+    En Suède, Reuters rapporte qu'un homme a attaqué une école avec une épée, faisant un mort et trois blessés. En Cisjordanie occupée, CBC documente une escalade de violence contre des Palestiniens, dans un contexte de blocus mené par des colons israéliens et d'expansion des colonies.
   </chapitre>
 
   <chapitre titre="Actualité québécoise et canadienne">
-    À Montréal, un adolescent qualifié d'"extrémiste" par les policiers a été arrêté vendredi matin dans l'arrondissement de Rosemont-La Petite-Patrie. Selon La Presse, il planifiait un attentat dans une école avec l'aide de l'intelligence artificielle.
+    À Edmonton, la communauté sikhe de la Colombie-Britannique reste sur ses gardes après une attaque au couteau survenue dans la province voisine. Selon Global News, deux clients sont intervenus et ont été poignardés lors de la confrontation, mais leurs blessures ne mettent pas leur vie en danger. Les représentants de la communauté appellent toutefois au calme plutôt qu'à la panique.
 
-    À Edmonton, une attaque au couteau survenue vendredi matin au temple sikh Nanaksar Gurdwara a fait deux blessés. Selon CBC, l'Organisation mondiale sikhe du Canada confirme l'incident violent et un suspect est en détention. Deux clients seraient intervenus et auraient été poignardés lors de la confrontation, mais leurs blessures ne mettent pas leur vie en danger, précise Global News. En Colombie-Britannique, la communauté sikhe dit rester sur ses gardes tout en demandant à la population d'éviter la panique.
+    En Alaska, CBC rapporte qu'un écrasement d'avion a fait huit morts près d'un site militaire isolé dans l'ouest de l'État. L'appareil effectuait une deuxième tentative d'approche dans un épais brouillard lorsque le contact a été perdu.
 
-    À Ottawa, le nouveau monument national dédié aux personnes LGBTQ+ a été inauguré. Selon La Presse, les personnes ayant vécu de la discrimination espèrent que ce lieu deviendra un espace d'apprentissage, de recueillement et de célébration.
+    Du côté de la campagne électorale québécoise, à l'approche du scrutin du cinq octobre, Le Devoir consacre une chronique aux slogans des partis. Le texte qualifie le slogan libéral, "Rassembler, réparer, bâtir", d'aveu plutôt que d'une distinction claire, notant que des partis rivaux pourraient tout aussi bien le reprendre à leur compte.
 
-    En Colombie-Britannique, à Summerland, des résidents évacués en raison du feu de Bald Range commencent à peine à retourner chez eux, deux semaines après la découverte de l'incendie. Selon Radio-Canada, certains ont découvert des cambriolages et des souvenirs réduits en cendres.
+    À Montréal, La Presse documente les tensions dans le quartier Hochelaga-Maisonneuve, où des résidents dénoncent la présence de consommation de drogues et de prostitution près de deux établissements gérés par l'organisme L'Anonyme, qu'ils accusent d'inaction face aux méfaits observés dans le secteur.
+  </chapitre>
 
-    À Montréal, dans Hochelaga-Maisonneuve, des résidents dénoncent, selon La Presse, l'inaction de l'organisme L'Anonyme face à des méfaits observés près de deux de ses établissements, notamment liés à la consommation de drogue et à la prostitution.
+  <chapitre titre="Économie et marchés">
+    On passe à l'économie, dominée cette semaine par la nervosité persistante sur le marché obligataire américain et par les retombées de la rupture commerciale avec le Canada. Selon Reuters, Wall Street a progressé vendredi mais a terminé la semaine en baisse, dans un contexte marqué par les rendements obligataires et le dossier iranien.
 
-    À Prince George, en Colombie-Britannique, le Bureau de la sécurité des transports enquête après qu'un avion a effectué un atterrissage d'urgence sur une route jeudi, faisant un mort. CBC rapporte le témoignage d'un survivant dont le véhicule a été percuté par l'appareil.
+    Le Wall Street Journal rapporte que les rendements obligataires continuent de grimper malgré les efforts du Trésor américain pour freiner les coûts d'emprunt. Le Financial Times, dans une analyse plus large, évoque un dossier économique lourd pour l'administration américaine : une dette fédérale d'environ quarante mille milliards de dollars, des taux hypothécaires autour de six virgule sept pour cent, et un prix du diesel avoisinant les cinq dollars.
+
+    Bloomberg observe que l'expression "Sell America", employée par certains négociateurs de marché, pourrait cette fois se confirmer dans les faits plutôt que rester une simple formule. Toujours selon Bloomberg, les paris sur l'intelligence artificielle continuent de faire grimper le secteur industriel, bien qu'un ralentissement pourrait poindre à l'horizon.
+
+    Du côté commercial, Reuters rapporte que le Mexique s'attend à obtenir des conditions similaires à celles de l'entente en cours d'élaboration entre les États-Unis et le Canada. En Allemagne, toujours selon Reuters, un politicien régional réclame, dans une lettre, l'imposition de tarifs européens sur les véhicules hybrides chinois.
+
+    Ailleurs dans le monde du commerce international, Al Jazeera rapporte que le canal de Panama va réduire son trafic maritime quotidien, le faisant passer de quarante à trente-deux navires d'ici la mi-septembre, en raison d'un phénomène El Niño qualifié d'extrême, ce qui risque de ralentir le transport maritime et d'en augmenter les coûts.
   </chapitre>
 
   <chapitre titre="Tech">
-    Du côté de la tech, Apple procède à des licenciements dans ses équipes Vision Pro et Siri. Selon The Verge, qui cite Bloomberg, plus de deux cents postes sont supprimés, incluant la fermeture presque complète de l'équipe responsable des jeux pour le Vision Pro. Apple affirme vouloir, en anglais, je le cite : "evolve our business to deliver the best experiences for our users." Fin de citation.
+    Du côté de la tech, Nvidia continue d'investir massivement dans les infrastructures d'intelligence artificielle. Selon TechCrunch, l'entreprise a annoncé un partenariat avec le développeur de centres de données Cloverleaf.
 
-    TikTok accepte de verser quatre cents millions de dollars américains pour régler une poursuite du département de la Justice américain. Selon The Verge, l'entreprise et sa société mère ByteDance étaient accusées d'avoir recueilli des données sur des millions d'utilisateurs de moins de treize ans sans le consentement de leurs parents. Il s'agit d'un des règlements les plus importants en matière de protection de la vie privée des enfants, selon le département de la Justice.
+    Toujours selon TechCrunch, Anthropic fait face à une controverse : des tests menés par le média démontrent qu'il est possible de contourner assez facilement les restrictions du modèle Opus quatre point six pour lui faire générer du contenu à caractère sexuel explicite, une pratique pourtant interdite par l'entreprise.
 
-    Nvidia continue d'investir dans les infrastructures d'intelligence artificielle. Selon TechCrunch, l'entreprise s'associe au développeur de centres de données Cloverleaf, poursuivant ainsi l'expansion de ses capacités en parallèle des revenus que les centres de données d'IA génèrent pour l'entreprise.
+    The Verge rapporte que TikTok versera quatre cents millions de dollars au département de la Justice américain pour régler une poursuite liée à la protection de la vie privée des enfants, l'une des plus importantes ententes du genre. La poursuite, déposée en deux mille vingt-quatre, alléguait que TikTok avait recueilli des données sur des millions d'utilisateurs de moins de treize ans sans le consentement de leurs parents.
 
-    Sur le plan spatial, le président américain Donald Trump a signé une nouvelle politique de transport spatial. Selon Ars Technica, cette politique remplace celle adoptée en deux mille treize sous l'administration Obama et vise à soutenir plus de mille lancements et rentrées atmosphériques par année d'ici deux mille trente. L'an dernier, cent soixante-seize tentatives de lancement orbital ont eu lieu depuis le sol américain, dont cent soixante-cinq par SpaceX avec ses fusées Falcon 9.
+    Ars Technica rapporte que le gouvernement américain a signé une nouvelle politique de transport spatial, qui prévoit le développement de nouveaux ports spatiaux pour soutenir plus de mille lancements et rentrées par année d'ici deux mille trente. Cette politique remplace celle de deux mille treize.
 
-    LinkedIn rapporte, selon The Verge, que plus d'un million de personnes ont utilisé son nouveau bouton permettant de signaler du contenu généré par intelligence artificielle. Cette fonction avait été lancée après qu'un détecteur ait déterminé qu'environ quarante et un pour cent des publications longues sur la plateforme semblaient entièrement générées par IA.
-
-    Enfin, Motorola et l'équipe derrière le système d'exploitation GrapheneOS confirment, selon Ars Technica, le lancement de nouveaux téléphones axés sur la confidentialité prévu pour deux mille vingt-sept, à un prix supérieur à celui des téléphones Pixel de Google.
+    Enfin, TechCrunch souligne le développement d'une startup fondée par Michael Polansky, mieux connu comme le partenaire de Lady Gaga et ancien proche collaborateur de Sean Parker. L'entreprise entraîne un modèle d'intelligence artificielle sur des tissus de peau humaine maintenus vivants pendant plusieurs semaines à l'extérieur du corps, dans le but de découvrir de nouveaux composés pour les soins de la peau.
   </chapitre>
 
   <chapitre titre="Sport">
-    Rapidement en sport. Selon Sportsnet, les Blue Jays de Toronto se sont inclinés face aux Yankees de New York lors du match d'ouverture d'une série au Bronx, malgré des débuts prometteurs du lanceur Spencer Arrighetti.
+    Rapidement en sport. Selon Sportsnet, les Blue Jays de Toronto se sont inclinés face aux Yankees de New York lors du match d'ouverture d'une série au Bronx, malgré des débuts prometteurs du lanceur Spencer Arrighetti, qui en était à son premier match dans l'uniforme torontois.
 
-    Toujours selon Sportsnet, Rafael Devers, des Giants de San Francisco, a réussi son vingt-sixième circuit de la saison lors de son retour au Fenway Park, dans un match contre les Red Sox de Boston.
+    Toujours selon Sportsnet, Rafael Devers, des Giants de San Francisco, a réussi son vingt-sixième circuit de la saison lors de son retour au Fenway Park, face aux Red Sox de Boston.
 
-    En football canadien, les Elks d'Edmonton ont défait les Blue Bombers de Winnipeg par la marque de vingt-deux à dix-neuf, grâce à un placement de quarante verges de Vincent Blanchard réussi à l'expiration du temps réglementaire, rapporte Global News.
+    Dans la Ligue canadienne de football, selon Global News, Vincent Blanchard a réussi un placement de quarante verges à l'expiration du temps réglementaire pour donner aux Elks d'Edmonton une victoire de vingt-deux à dix-neuf contre les Blue Bombers de Winnipeg.
 
-    Enfin, la Ligue professionnelle de hockey féminin confirme, selon Radio-Canada, que la coupe Walter a disparu lors de son transport vers l'Alberta. La ligue précise que le trophée n'est pas arrivé comme prévu à sa dernière destination.
+    Enfin, l'Associated Press rapporte que le trophée de la Coupe Walter, remis à l'équipe championne de la Ligue de hockey féminin professionnel, Victoire, demeure introuvable après ne pas être arrivé en Alberta comme prévu.
   </chapitre>
 
   <outro>Voilà pour ce Presto du samedi vingt-deux août deux mille vingt-six. Si ce briefing vous est utile, le meilleur coup de main que vous pouvez nous donner, c'est de le partager à une personne qui aime rester informée. Et selon votre plateforme : un abonnement sur Spotify ou Apple Podcasts, un pouce bleu et un abonnement sur YouTube, ça prend deux secondes et ça aide vraiment Presto à grandir. Sur ce, bonne journée, et à demain.</outro>
