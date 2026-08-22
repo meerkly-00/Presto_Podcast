@@ -1,54 +1,46 @@
 {
-  "generated_at": "2026-08-21T22:23:36.695959+00:00",
+  "generated_at": "2026-08-22T13:31:09.057292+00:00",
   "window_hours": 8,
   "faits": [
     {
-      "sujet": "TikTok règlement confidentialité enfants",
-      "fait": "TikTok paiera 400 millions de dollars pour régler un procès du ministère de la Justice américaine portant sur des violations de la Loi sur la protection de la vie privée des enfants en ligne (COPPA). Selon The Verge et TechCrunch, 300 millions seront versés immédiatement et 100 millions additionnels à la levée d'un décret précédent."
+      "sujet": "Tarifs américains de 50 % sur le Canada",
+      "fait": "De nouveaux droits de douane de 50 % sur 28 milliards de dollars de marchandises canadiennes sont entrés en vigueur après l'échec des négociations commerciales. Selon Radio-Canada et BBC World, cette mesure s'applique depuis minuit le 22 août 2026."
     },
     {
-      "sujet": "Frappe russe centre commercial Ukraine",
-      "fait": "Des drones russes ont frappé un centre commercial en Ukraine centrale le 21 août, tuant entre 14 et 15 personnes et blessant plus de 130, dont 23 enfants. Selon CBC World et BBC World, le président Zelenskyy a qualifié l'attaque d'acte de barbarisme."
+      "sujet": "Réplique canadienne aux tarifs américains",
+      "fait": "Le Canada promet de répliquer aux tarifs de 50 % imposés par les États-Unis. Selon BBC World, le Canada dit qu'il répondra « dollar pour dollar » aux nouveaux droits de douane."
     },
     {
-      "sujet": "Apple réductions effectifs Siri Vision Pro",
-      "fait": "Apple procède à des réductions d'effectifs incluant la fermeture largement de son équipe jeux Vision Pro et la réduction de l'équipe contenu immersif. Selon Bloomberg et The Verge, plus de 200 emplois sont supprimés dans ces divisions."
+      "sujet": "Déclaration de Mark Carney sur l'effondrement des négociations",
+      "fait": "Mark Carney a publié une déclaration complète sur l'effondrement des négociations commerciales avec les États-Unis. Selon National Post, il a énoncé les objectifs du Canada dans ces négociations."
     },
     {
-      "sujet": "Rillet financement série startup IA",
-      "fait": "La startup d'IA comptable Rillet a levé 100 millions de dollars et atteint le statut de licorne en 48 heures après présentation de chiffres de croissance. Selon TechCrunch, les investisseurs Iconiq et Sequoia sont parmi les bailleurs de fonds."
+      "sujet": "Réunion ministérielle québécoise sur l'aide économique",
+      "fait": "La première ministre Christine Fréchette convoque ses ministres à une réunion spéciale samedi pour annoncer un plan d'aide aux entreprises et travailleurs touchés par les nouveaux droits de douane américains. Selon La Presse et Radio-Canada, cette réunion vise à discuter de mesures d'aide."
     },
     {
-      "sujet": "Attaque sabre école suédoise",
-      "fait": "Une personne a été tuée et trois autres blessées lors d'une attaque à l'arme blanche dans une école secondaire suédoise le 21 août. Selon BBC World et Reuters, un suspect âgé de 18 ans a été appréhendé."
+      "sujet": "Attaque russe sur un centre commercial en Ukraine",
+      "fait": "Une frappe russe sur un centre commercial en Ukraine a tué 16 personnes et en a blessé 130, y compris des enfants. Selon BBC World, quatre personnes sont toujours portées disparues après l'attaque du vendredi."
     },
     {
-      "sujet": "Mandat international Turquie Netanyahu",
-      "fait": "La Turquie a émis un mandat international contre Benjamin Netanyahu. Selon Le Devoir, le bureau de Netanyahu a qualifié le président turc de dictateur antisémite en réaction."
+      "sujet": "Vague de droite en Amérique latine",
+      "fait": "Une vague de droite balaie la région d'Amérique latine. Selon Al Jazeera, cette tendance n'est pas une bonne nouvelle pour la région."
     },
     {
-      "sujet": "Drone HoverAir vente États-Unis suspendue",
-      "fait": "Le drone transformable HoverAir Versa a cessé les commandes américaines trois jours après son lancement Indiegogo et ne livrera que la caméra aux États-Unis. Selon The Verge, la FCC semble avoir imposé une interdiction sur le kit de vol."
+      "sujet": "Crise de gouvernance à la FIFA",
+      "fait": "La CONCACAF demande au président de la FIFA Gianni Infantino de sauter un tournoi de jeunesse en raison d'une crise de gouvernance à la FIFA. Selon Al Jazeera, cette pression intervient en réaction à des problèmes de gouvernance."
     },
     {
-      "sujet": "Tarifs commerciaux accord Washington insatisfaction",
-      "fait": "Le secrétaire au Commerce américain Lutnick estime que Washington peut obtenir de meilleures conditions dans les négociations tarifaires. Selon Radio-Canada, le sursis de Trump prend fin à minuit le 21 août."
+      "sujet": "Hibernation artificielle et mémoire chez les souris",
+      "fait": "Des chercheurs ont induit un état d'hibernation chez des souris qui a effacé l'état de plus de la moitié de leurs synapses. Selon Ars Technica, les souris ont néanmoins conservé leurs mémoires, ce qui remet en question les théories actuelles sur le stockage de la mémoire."
     },
     {
-      "sujet": "LinkedIn bouton signalement contenu IA",
-      "fait": "Plus d'un million d'utilisateurs ont cliqué sur le bouton 'Seems like AI slop' de LinkedIn depuis son lancement le 30 juillet. Selon The Verge, ce bouton permet de signaler les publications générées par IA."
+      "sujet": "Démantèlement de la règle des terres sans routes",
+      "fait": "L'administration Trump propose d'annuler la Roadless Rule de 2001, menaçant environ 5 % des terres sans routes aux États-Unis, y compris la Tongass National Forest en Alaska du sud-est. Selon Ars Technica, cette mesure pourrait perturber la faune et l'eau."
     },
     {
-      "sujet": "Incendie immeuble Duncan Colombie-Britannique",
-      "fait": "Un incendie suspect dans des appartements à Duncan, Colombie-Britannique, a tué deux personnes et déplacé environ 50 résidents. Selon Global News, l'appel a été reçu vers 2h30 du matin le 21 août."
-    },
-    {
-      "sujet": "Procès Compass monopole locations New York",
-      "fait": "Deux locataires new-yorkais ont déposé une action collective alléguant que le courtier Compass contrôle plus de 80% des annonces de location à Manhattan et crée une pénurie artificielle. Selon Ars Technica, Compass aurait boycotté les plateformes numériques gratuites comme Zillow."
-    },
-    {
-      "sujet": "Verdict Alex Jones réduit appel Texas",
-      "fait": "Un tribunal a réduit le jugement de 50 millions de dollars contre Alex Jones en appel concernant ses déclarations mensongères sur le massacre de Sandy Hook. Selon Reuters et Associated Press, cette réduction fait suite à une décision d'appel."
+      "sujet": "Tirs actifs à Fort Smith, Territoires du Nord-Ouest",
+      "fait": "Un tireur actif a déclenché un ordre de confinement à Fort Smith, N.W.T. Selon CBC, les organisateurs du festival ont signalé des blessés, mais d'autres détails doivent encore être confirmés par la Gendarmerie royale du Canada."
     }
   ]
 }
