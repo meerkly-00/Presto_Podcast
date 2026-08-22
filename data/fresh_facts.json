@@ -1,42 +1,54 @@
 {
-  "generated_at": "2026-08-22T16:22:16.854591+00:00",
+  "generated_at": "2026-08-22T19:22:08.471260+00:00",
   "window_hours": 8,
   "faits": [
     {
-      "sujet": "Négociations commerciales Canada-États-Unis",
-      "fait": "Le Premier ministre canadien Mark Carney a annoncé l'effondrement des négociations commerciales avec les États-Unis et qualifié les nouveaux tarifs de « mauvais accord ». Selon BBC World et National Post, Carney a déclaré que le Canada « s'éloignait d'une mauvaise affaire » pour protéger sa souveraineté."
+      "sujet": "Tarifs américains Canada effondrement",
+      "fait": "Les négociations commerciales entre les États-Unis et le Canada se sont effondrées vendredi soir, entraînant l'imposition de tarifs de 50 % sur environ 20 milliards de dollars de produits canadiens. Selon Al Jazeera et Global News."
     },
     {
-      "sujet": "Tarifs américains de 50 % en vigueur",
-      "fait": "Des tarifs de 50 % sur les produits canadiens sont entrés en vigueur samedi à minuit, selon Radio-Canada et Global News. Ces tarifs touchent l'acier, les produits laitiers et l'électronique."
+      "sujet": "Représailles tarifaires Canada États-Unis",
+      "fait": "Le premier ministre Mark Carney a annoncé des contre-tarifs « dollar pour dollar » contre les États-Unis, entrant en vigueur à partir du 8 septembre 2026. Selon Al Jazeera et Radio-Canada."
     },
     {
-      "sujet": "Contre-tarifs canadiens annoncés",
-      "fait": "Le Canada annoncera des contre-tarifs à compter du 8 septembre, selon Radio-Canada. Ces mesures de rétorsion viseront les États-Unis et concerneront notamment l'acier, les produits laitiers et l'électronique."
+      "sujet": "Aide aux entreprises Québec tarifs",
+      "fait": "Le Québec a mis en place deux nouveaux programmes destinés aux entreprises affectées par les tarifs américains, tandis que la première ministre Christine Fréchette s'est engagée à exclure l'alcool américain des rayons de la SAQ. Selon Radio-Canada et La Presse."
     },
     {
-      "sujet": "Réunion d'urgence des premiers ministres",
-      "fait": "Le Premier ministre canadien Mark Carney a convoqué une réunion avec les premiers ministres des provinces et territoires prévue à 13h30, selon Global News."
+      "sujet": "Carney caractérisation conflit commercial",
+      "fait": "Le premier ministre Carney a déclaré que le Canada est « à la guerre » après avoir été « attaqué » par les tarifs américains de 50 % sur 29 milliards de dollars de biens canadiens. Selon National Post."
     },
     {
-      "sujet": "Plan d'aide québécois aux entreprises",
-      "fait": "La première ministre québécoise Christine Fréchette convoque ses ministres à une réunion spéciale samedi pour annoncer un plan d'aide aux entreprises et travailleurs affectés par les nouveaux droits de douane américains, selon La Presse."
+      "sujet": "Accord Unifor General Motors Ontario",
+      "fait": "Unifor a annoncé un accord provisoire en faveur de ses membres aux usines de GM en Ontario, améliorant les salaires et les avantages sociaux. Selon Global News."
     },
     {
-      "sujet": "Augmentation des prix Amazon",
-      "fait": "Amazon a augmenté les prix sur les produits Echo, Kindle et Fire TV de jusqu'à 60 %, citant des « augmentations importantes des coûts des composants de mémoire et de stockage ». L'Echo Dot passe de 49,99 $ à 79,99 $, selon The Verge."
+      "sujet": "Incendie Colombie-Britannique évacuations",
+      "fait": "De nouvelles consignes d'évacuation ont été émises pour la région du sud du Cariboo en Colombie-Britannique, où l'incendie près du lac Pear continue de s'étendre. Selon La Presse."
     },
     {
-      "sujet": "Incident de fusillade à Fort Smith",
-      "fait": "Trois personnes ont été blessées lors d'une fusillade à la Fireweed Festival à Fort Smith, Territoires du Nord-Ouest, le suspect restant en fuite, selon CBC et Radio-Canada. Un ordre de confinement a été établi."
+      "sujet": "Augmentation prix Amazon appareils",
+      "fait": "Amazon a augmenté les prix des produits Echo, Kindle et Fire TV de jusqu'à 60 %, l'Echo Dot passant de 49,99 $ à 79,99 $, citant des augmentations significatives des coûts des composants mémoire et stockage. Selon The Verge."
     },
     {
-      "sujet": "Gel IA des laboratoires de frontier",
-      "fait": "Une nouvelle étude révèle que les principaux laboratoires d'IA n'ont que peu de plans documentés publiquement pour contenir des modèles incontrôlables, selon TechCrunch."
+      "sujet": "Élections provinciales Québec candidature QS",
+      "fait": "L'ancien député péquiste René Gauvreau se présente comme candidat de Québec solidaire dans la circonscription de Camille-Laurin. Selon La Presse."
     },
     {
-      "sujet": "Aide américaine aux startups batterie",
-      "fait": "Les startups américaines de batterie ont reçu 500 millions de dollars en subventions du département de l'Énergie, selon TechCrunch, offrant une bouée de sauvetage à une industrie touchée par la réduction des incitations aux véhicules électriques."
+      "sujet": "Critique opposition tarifs Carney",
+      "fait": "Le député conservateur ontarien Jamil Jivani a qualifié la réponse tarifaire « dollar pour dollar » de Carney d'« surréaction » qui « accélérera le conflit ». Selon National Post."
+    },
+    {
+      "sujet": "Fusillade Fort Smith trois blessés",
+      "fait": "Un ordre de confinement a été émis pour Fort Smith, Bell Rock et Sawmill Island après une attaque armée ayant blessé trois personnes. Selon Radio-Canada."
+    },
+    {
+      "sujet": "IA recherche scientifique Inherent Faraday",
+      "fait": "Inherent, fondée par d'anciens chercheurs de DeepMind, a présenté Faraday, un agent IA capable de reproduire des articles scientifiques et surpassant les performances d'Anthropic et OpenAI dans cette tâche. Selon TechCrunch."
+    },
+    {
+      "sujet": "Financement startups batteries défense États-Unis",
+      "fait": "Des startups américaines de batteries ont reçu 500 millions de dollars en subventions du Département de l'énergie. Selon TechCrunch."
     }
   ]
 }
