@@ -1,54 +1,46 @@
 {
-  "generated_at": "2026-08-22T22:20:39.444548+00:00",
+  "generated_at": "2026-08-23T13:33:10.443495+00:00",
   "window_hours": 8,
   "faits": [
     {
-      "sujet": "Effondrement négociations commerciales Canada-États-Unis",
-      "fait": "Le Premier ministre canadien Mark Carney a annoncé l'abandon des négociations commerciales avec les États-Unis, refusant de conclure « un mauvais accord ». Selon Radio-Canada et BBC World, les tarifs américains de 50 % sur les produits canadiens sont maintenant en vigueur."
+      "sujet": "Mission lunaire chinoise Chang'e 7",
+      "fait": "La mission Chang'e 7 a été reportée à la dernière minute dimanche en raison d'un typhon. Selon La Presse, cette mission teste pour la première fois la présence d'eau glacée sur le sol lunaire."
     },
     {
-      "sujet": "Représailles tarifaires canadiennes",
-      "fait": "Le Canada impose des tarifs de rétorsion « dollar pour dollar » sur l'acier, l'électronique et d'autres produits américains, selon Reuters et BBC World. Mark Carney a qualifié les nouveaux tarifs américains de « miscalculation »."
+      "sujet": "Recrutement politique Parti québécois",
+      "fait": "Le Parti québécois a recruté Stéphane Paquet, PDG de Montréal International, comme candidat dans Pointe-aux-Trembles. D'après La Presse, cette nomination renforce l'équipe économique du parti."
     },
     {
-      "sujet": "Trois enjeux ayant torpillé les pourparlers",
-      "fait": "Selon Global News, Prime Minister Carney a identifié trois problèmes principaux qui ont causé l'effondrement des négociations commerciales avec les États-Unis."
+      "sujet": "Tarifs commerciaux États-Unis Canada",
+      "fait": "Des tarifs américains de 50 % sur divers produits canadiens ont pris effet. Selon CBC, Donald Trump a déclaré que le Canada voulait les avantages d'être un État américain sans l'être."
     },
     {
-      "sujet": "Soutien des premiers ministres provinciaux",
-      "fait": "Les premiers ministres canadiens soutiennent la décision de Carney d'abandonner les négociations, selon Global News. Doug Ford, premier ministre de l'Ontario, a publiquement dénoncé Donald Trump dans une lettre, selon Radio-Canada."
+      "sujet": "Contre-tarifs canadiens acier produits laitiers",
+      "fait": "Le Canada a annoncé des contre-tarifs ciblant l'acier et les produits laitiers américains. Selon Radio-Canada, Trump a réagi en déclarant « Ça suffit ! »."
     },
     {
-      "sujet": "Programmes d'aide québécois aux entreprises",
-      "fait": "Le Québec met en place deux nouveaux programmes destinés aux entreprises de la province en réaction aux tarifs américains, selon Radio-Canada."
+      "sujet": "Élection partielle Chicoutimi Le Fjord",
+      "fait": "Le vote par anticipation se poursuit jusqu'à lundi pour l'élection partielle fédérale de Chicoutimi – Le Fjord. D'après La Presse, les bureaux de vote sont ouverts de 9 h à 21 h."
     },
     {
-      "sujet": "Appel d'offres pour le séparatisme québécois",
-      "fait": "Selon Reuters, les tarifs de Trump font perdre au Québec son appétit pour une séparation rapide du Canada."
+      "sujet": "Risques crédit privé Banque du Canada",
+      "fait": "La Banque du Canada surveille un modèle de crédit alternatif qui expose les investisseurs et les banques canadiens à 500 milliards de dollars de prêts. Selon Global News, cette surveillance porte sur les risques potentiels."
     },
     {
-      "sujet": "Tensions militaires Canada-OTAN en Lettonie",
-      "fait": "La mission de l'OTAN dirigée par le Canada renforce sa présence stratégique près des frontières russes et bélarussiennes face à l'intensification des menaces russes en Lettonie, selon La Presse."
+      "sujet": "Attaques coordonnées Thaïlande du Sud",
+      "fait": "51 attaques incendiaires ont visé le sud de la Thaïlande tard samedi, causant des dommages à de nombreux bureaux gouvernementaux et véhicules. Selon BBC World, aucun groupe n'a revendiqué les attaques."
     },
     {
-      "sujet": "Accord tentative Unifor et General Motors",
-      "fait": "Unifor a annoncé un accord de principe samedi pour ses membres aux usines ontariennes de General Motors, qui améliorera les salaires et les avantages sociaux s'il est ratifié, selon Global News."
+      "sujet": "Fraude par IA et deepfakes",
+      "fait": "Les escroqueries par deepfake deviennent plus difficiles à détecter, les criminels utilisant l'IA pour se faire passer pour des responsables publics. D'après Al Jazeera, ces fraudes coûtent des millions aux victimes."
     },
     {
-      "sujet": "Évacuations incendie Pear Lake en Colombie-Britannique",
-      "fait": "Les autorités ont élargi les ordres d'évacuation liés au plus grand incendie de la Colombie-Britannique, selon la CBC. De nouvelles directives ont été émises pour des propriétés du sud du Cariboo."
+      "sujet": "Accords de paix RDC M23",
+      "fait": "La RDC et les rebelles M23 ont convenu d'une feuille de route pour les pourparlers de paix. Selon BBC, des représentants se sont rencontrés en Suisse pour définir les prochaines étapes."
     },
     {
-      "sujet": "Attaque armée à Fort Smith",
-      "fait": "Trois personnes ont été blessées lors d'une attaque armée à Fort Smith. Un ordre de confinement était en vigueur à Fort Smith, Bell Rock et Sawmill Island, selon Radio-Canada."
-    },
-    {
-      "sujet": "Iran autorise le passage de pétroliers irakiens",
-      "fait": "L'Iran a accordé la permission à certains pétroliers irakiens de passer par le détroit d'Ormuz. Le président irakien Nizar Amidi a déclaré que le territoire de son pays ne serait pas utilisé pour lancer des attaques contre d'autres États, selon Al Jazeera."
-    },
-    {
-      "sujet": "Censure craintes journaliste militaire américain",
-      "fait": "Erik Slavin, rédacteur en chef d'un journal militaire américain, affirme avoir été congédié pour avoir déclaré dans une interview que « dans une situation hypothétique, la censure serait une ligne rouge », selon BBC World."
+      "sujet": "Élections en temps de guerre Ukraine",
+      "fait": "Le président Zelensky a déclaré que les élections en temps de guerre pourraient détruire l'Ukraine, les qualifiant de « tsunami » qui fracturerait le pays. D'après Al Jazeera, ceci répond à l'appel de l'ex-ministre Mykhailo Fedorov."
     }
   ]
 }
