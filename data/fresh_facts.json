@@ -1,46 +1,54 @@
 {
-  "generated_at": "2026-08-23T13:33:10.443495+00:00",
+  "generated_at": "2026-08-23T16:23:48.926915+00:00",
   "window_hours": 8,
   "faits": [
     {
-      "sujet": "Mission lunaire chinoise Chang'e 7",
-      "fait": "La mission Chang'e 7 a été reportée à la dernière minute dimanche en raison d'un typhon. Selon La Presse, cette mission teste pour la première fois la présence d'eau glacée sur le sol lunaire."
+      "sujet": "Conflit commercial Canada-États-Unis",
+      "fait": "Les États-Unis ont imposé des tarifs de 50 % sur une gamme de produits canadiens. Le Canada a annoncé des contre-tarifs visant l'acier et les produits laitiers américains. (Selon Radio-Canada et Global News)"
     },
     {
-      "sujet": "Recrutement politique Parti québécois",
-      "fait": "Le Parti québécois a recruté Stéphane Paquet, PDG de Montréal International, comme candidat dans Pointe-aux-Trembles. D'après La Presse, cette nomination renforce l'équipe économique du parti."
+      "sujet": "Accord commercial rejeté",
+      "fait": "Le Canada a rejeté vendredi un accord commercial avec les États-Unis. Les conservateurs fédéraux demandent au gouvernement de divulguer les détails de cet accord rejeté. (Selon La Presse)"
     },
     {
-      "sujet": "Tarifs commerciaux États-Unis Canada",
-      "fait": "Des tarifs américains de 50 % sur divers produits canadiens ont pris effet. Selon CBC, Donald Trump a déclaré que le Canada voulait les avantages d'être un État américain sans l'être."
+      "sujet": "Déclarations de Trump sur le Canada",
+      "fait": "Donald Trump a déclaré que le Canada 'veut les avantages' d'être un État américain 'sans en être un' et a tweeté 'Ça suffit!' en réaction aux contre-tarifs de Carney. (Selon Global News et Radio-Canada)"
     },
     {
-      "sujet": "Contre-tarifs canadiens acier produits laitiers",
-      "fait": "Le Canada a annoncé des contre-tarifs ciblant l'acier et les produits laitiers américains. Selon Radio-Canada, Trump a réagi en déclarant « Ça suffit ! »."
+      "sujet": "Élections en Ukraine pendant la guerre",
+      "fait": "Le président Zelenskyy rejette l'idée de tenir des élections pendant le conflit, affirmant que cela 'fracturerait' et 'détruirait' l'Ukraine. Aucun scrutin ne peut être organisé sous la loi martiale. (Selon Radio-Canada et CBC)"
     },
     {
-      "sujet": "Élection partielle Chicoutimi Le Fjord",
-      "fait": "Le vote par anticipation se poursuit jusqu'à lundi pour l'élection partielle fédérale de Chicoutimi – Le Fjord. D'après La Presse, les bureaux de vote sont ouverts de 9 h à 21 h."
+      "sujet": "Sanctions américaines contre l'Iran",
+      "fait": "L'Iran signale une possible augmentation des prix des carburants à la veille de nouvelles sanctions américaines. Téhéran affirme que les nouvelles sanctions menacées par les États-Unis 'désespérés' échoueront. (Selon Al Jazeera et Reuters)"
     },
     {
-      "sujet": "Risques crédit privé Banque du Canada",
-      "fait": "La Banque du Canada surveille un modèle de crédit alternatif qui expose les investisseurs et les banques canadiens à 500 milliards de dollars de prêts. Selon Global News, cette surveillance porte sur les risques potentiels."
+      "sujet": "Mission lunaire chinoise reportée",
+      "fait": "La Chine reporte sa mission Chang'e 7 à 2027, déclarant qu'elle 'ne répond pas aux conditions de lancement' cette année. La mission était prévue pour tester la présence d'eau glacée au pôle Sud lunaire. (Selon Ars Technica et La Presse)"
     },
     {
-      "sujet": "Attaques coordonnées Thaïlande du Sud",
-      "fait": "51 attaques incendiaires ont visé le sud de la Thaïlande tard samedi, causant des dommages à de nombreux bureaux gouvernementaux et véhicules. Selon BBC World, aucun groupe n'a revendiqué les attaques."
+      "sujet": "Inquiétudes de la Banque du Canada",
+      "fait": "La Banque du Canada s'inquiète de la montée du crédit privé, impliquant des entreprises empruntant auprès de prêteurs non bancaires. (Selon Global News)"
     },
     {
-      "sujet": "Fraude par IA et deepfakes",
-      "fait": "Les escroqueries par deepfake deviennent plus difficiles à détecter, les criminels utilisant l'IA pour se faire passer pour des responsables publics. D'après Al Jazeera, ces fraudes coûtent des millions aux victimes."
+      "sujet": "Préoccupations britanniques sur surveillance",
+      "fait": "Le PDG de Flock Safety appelle à un 'compromis' alors que la société de surveillance fait face à une vague croissante de critiques concernant l'utilisation abusive potentielle de sa technologie. (Selon TechCrunch)"
     },
     {
-      "sujet": "Accords de paix RDC M23",
-      "fait": "La RDC et les rebelles M23 ont convenu d'une feuille de route pour les pourparlers de paix. Selon BBC, des représentants se sont rencontrés en Suisse pour définir les prochaines étapes."
+      "sujet": "Formation de robots humanoides en Chine",
+      "fait": "La Chine entraîne des milliers de robots humanoides, bien que cette approche entraînerait des coûts énormes. (Selon The Economist)"
     },
     {
-      "sujet": "Élections en temps de guerre Ukraine",
-      "fait": "Le président Zelensky a déclaré que les élections en temps de guerre pourraient détruire l'Ukraine, les qualifiant de « tsunami » qui fracturerait le pays. D'après Al Jazeera, ceci répond à l'appel de l'ex-ministre Mykhailo Fedorov."
+      "sujet": "Accord de paix en République Démocratique du Congo",
+      "fait": "La RDC et les rebelles M23 se sont mis d'accord sur une feuille de route pour les pourparlers de paix lors d'une rencontre en Suisse. (Selon BBC)"
+    },
+    {
+      "sujet": "Recrutement politique au Québec",
+      "fait": "Le Parti québécois recrute Stéphane Paquet, PDG de Montréal International, comme candidat dans Pointe-aux-Trembles. (Selon La Presse)"
+    },
+    {
+      "sujet": "Noyades en France et canicules",
+      "fait": "La France enregistre 301 décès par noyade depuis le 19 juin, un ministre gouvernemental liant la hausse aux vagues de chaleur et aux comportements à risque. (Selon BBC)"
     }
   ]
 }
