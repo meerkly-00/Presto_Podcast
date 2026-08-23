@@ -1,59 +1,85 @@
 ```xml
 <script>
-  <intro>Bonjour, on est le dimanche vingt-trois août deux mille vingt-six. Voici votre Presto en environ quinze minutes. Au menu : la rupture commerciale entre le Canada et les États-Unis et ses suites, l'international avec l'Ukraine et le Kazakhstan, l'économie et les marchés, la tech, et un mot de sport.</intro>
+  <intro>Bonjour, on est le dimanche vingt-trois août deux mille vingt-six. Voici votre Presto en environ quinze minutes. Au menu : la guerre commerciale entre le Canada et les États-Unis qui s'intensifie, les questions de corruption qui rattrapent Zelensky en Ukraine, les répercussions sur la précampagne électorale québécoise, et un mot sur l'intelligence artificielle et les marchés.</intro>
 
-  <chapitre titre="Canada-États-Unis : la riposte s'organise">
-    On commence par le dossier qui domine l'actualité depuis vendredi soir : la rupture des négociations commerciales entre le Canada et les États-Unis. Selon Radio-Canada, le premier ministre Mark Carney a affirmé samedi qu'il existe désormais, je le cite : "un fossé trop large" entre les deux pays. Fin de citation. Ottawa prépare maintenant sa riposte.
+  <chapitre titre="Canada-États-Unis : la guerre commerciale s'installe">
+  On commence par le dossier qui domine l'actualité depuis vendredi soir. Selon Radio-Canada, le premier ministre Mark Carney a affirmé samedi qu'il existe désormais, je le cite : "un fossé trop large" entre le Canada et les États-Unis. Fin de citation. Ottawa a annoncé qu'il ripostera dollar pour dollar aux nouveaux tarifs américains.
 
-    Selon la BBC, le président Trump soutient que le Canada veut obtenir les avantages d'être un État américain sans en assumer les obligations. Toujours selon la BBC, le premier ministre canadien a annoncé, à contrecœur selon ses propres mots, des tarifs de représailles, et accuse les États-Unis d'avoir déclenché une guerre commerciale.
+  Selon l'Associated Press, des tarifs américains de cinquante pour cent sur les produits canadiens sont maintenant en vigueur. Toujours selon l'Associated Press, cette guerre commerciale vient rompre davantage une alliance autrefois étroite et durable entre les deux pays.
 
-    Selon l'Associated Press, des tarifs de cinquante pour cent sur les produits canadiens sont maintenant en vigueur. L'agence rapporte que cette rupture fragilise davantage une alliance autrefois étroite et durable entre les deux pays.
+  Du côté américain, selon la BBC, le président Donald Trump a affirmé que le Canada souhaite obtenir les avantages d'être un État américain, après l'échec des pourparlers commerciaux. La BBC rapporte aussi que Mark Carney a annoncé, à contrecœur selon ses propres mots, des tarifs de représailles, tout en accusant Washington d'avoir déclenché une guerre commerciale.
 
-    La réaction politique canadienne est large. Selon Global News, les premiers ministres provinciaux semblent appuyer la décision de Mark Carney de rejeter ce qu'il qualifie de mauvaise entente. En Alberta, la première ministre Danielle Smith presse toutefois les négociateurs fédéraux de retourner à la table. Selon CBC, elle qualifie les conditions américaines d'intenables et de trop coûteuses pour le Canada, tout en souhaitant une reprise des discussions.
+  Selon Global News, les premiers ministres provinciaux canadiens semblent appuyer la décision de Mark Carney d'abandonner ce qu'il qualifie de mauvaise entente avec les États-Unis. Le Journal de Montréal rapporte également que les partis d'opposition à Ottawa appuient cette décision.
 
-    En Ontario, le ton est plus dur. Selon Radio-Canada, le premier ministre Doug Ford dénonce vivement Donald Trump dans une lettre rendue publique, allant jusqu'à dire qu'il, je le cite : "vous volerait votre tuque". Fin de citation.
+  Mais le dossier ne fait pas l'unanimité. Selon le National Post, le député conservateur ontarien Jamil Jivani qualifie la réponse tarifaire dollar pour dollar de Mark Carney de réaction excessive, qui risque, je le cite : "accelerate conflict". Fin de citation. Toujours selon le National Post, d'autres chroniqueurs jugent au contraire que la décision de quitter la table de négociation était la bonne, étant donné les circonstances.
 
-    Du côté du Québec, la première ministre affirme que la guerre commerciale vient de franchir une nouvelle étape, selon Le Devoir, et que la province se prépare à se défendre. Toujours selon Radio-Canada, la ministre Fréchette a rencontré les chefs des autres partis pour préparer un programme d'aide aux entreprises, affirmant que les États-Unis s'attaquent à la sécurité économique du Canada.
+  Selon le Wall Street Journal, les deux pays s'enfoncent maintenant dans une véritable guerre commerciale. Reuters confirme que le Canada a promis de répliquer aux tarifs américains, ce qui détériore davantage des relations déjà tendues.
 
-    L'opposition politique existe aussi à l'intérieur du Canada. Selon le National Post, le député conservateur ontarien Jamil Jivani qualifie la réponse tarifaire dollar pour dollar de Mark Carney de surréaction qui risque d'accélérer le conflit plutôt que de le résoudre.
+  Un effet inattendu de cette rupture commerciale se fait sentir au Québec. Selon Reuters, l'appétit pour une séparation rapide du Canada diminue chez les Québécois depuis que les tarifs de Donald Trump frappent la province. Toujours selon Reuters, cette dynamique s'observe alors que le Québec se prépare à une campagne électorale provinciale.
 
-    Un effet inattendu de cette crise commerciale : selon Reuters, l'appétit pour une séparation rapide du Québec par rapport au Canada aurait diminué depuis l'imposition des tarifs américains.
+  Ailleurs au pays, selon Radio-Canada, les producteurs d'alcool de l'Ontario ne craignent pas la concurrence américaine, jugeant qu'ils ont gagné un acquis maintenant que les consommateurs ont goûté à leurs produits dans le contexte du boycott des produits américains.
+  </chapitre>
+
+  <chapitre titre="Précampagne électorale québécoise">
+  À la veille du déclenchement de la campagne électorale québécoise, la guerre commerciale rebat les cartes. Selon Le Devoir, la première ministre du Québec a affirmé que le conflit commercial vient de franchir une nouvelle étape, et que la province se prépare à se défendre.
+
+  Toujours selon Le Devoir, plusieurs partis ont annoncé de nouvelles candidatures samedi, à quelques jours du déclenchement officiel de la campagne. L'ancien député péquiste René Gauvreau se présente désormais pour Québec solidaire.
+
+  Selon Radio-Canada, la pression monte aussi du côté communautaire. À l'approche des élections, deux mille organismes réclament des actions contre la précarité d'emploi et de salaire, un mouvement parti de Shawinigan qui vise l'Assemblée nationale.
   </chapitre>
 
   <chapitre titre="International">
-    En Ukraine, la situation reste grave après la frappe russe de vendredi. Selon la BBC, les secours continuent de fouiller les décombres d'un centre commercial frappé par des drones russes. Le bilan s'élève à seize morts et cent trente blessés, dont plusieurs enfants. Quatre personnes demeurent portées disparues. Le président Zelensky a condamné cette frappe, la qualifiant, selon la BBC, de méprisable.
+  En Ukraine, un nouveau front s'ouvre, cette fois sur le plan politique intérieur. Selon la BBC, l'ancien ministre de la Défense, récemment congédié, affirme que le président Volodymyr Zelensky a, je le cite : "questions to answer" au sujet de la corruption au sein de son gouvernement. Fin de citation. Ce même ministre réclame la tenue d'élections en Ukraine.
 
-    Au Kazakhstan, des élections législatives se sont tenues aujourd'hui. Selon Al Jazeera, seuls des partis approuvés par l'État et loyaux au président Tokayev ont pu y participer, dans le cadre d'une vaste réforme constitutionnelle. Le scrutin devrait consolider davantage l'emprise du président sur le pouvoir.
+  Au Moyen-Orient, selon Al Jazeera, les forces israéliennes ont lancé de vastes recherches dans la vallée du Jourdain après qu'un Israélien eut été blessé lors d'une attaque au couteau dans le village d'al-Auja, en Cisjordanie occupée.
 
-    En Suède, la police enquête sur des réseaux en ligne après qu'une adolescente a été tuée dans une attaque à l'épée survenue dans une école. Selon Reuters, les autorités cherchent à savoir si l'attaque a été planifiée ou influencée par des échanges sur internet.
+  Au Venezuela, Al Jazeera rapporte des inondations importantes à Caracas après de fortes pluies.
+
+  En Russie, toujours selon Al Jazeera, le pays a célébré samedi la Journée du drapeau national à Saint-Pétersbourg, dans un contexte de guerre et de tensions persistantes avec l'Occident.
+
+  Au Mexique, selon Reuters, un gouverneur mexicain visé par un acte d'accusation américain pour des liens avec un cartel a de nouveau demandé un congé, dans un contexte de contestation grandissante.
+
+  En Suède, la BBC rapporte qu'une adolescente de dix-sept ans a été tuée lors d'une attaque à l'épée. Deux garçons de douze et dix-sept ans ont aussi été blessés. Un suspect de dix-huit ans a été détenu.
+
+  Sur l'enjeu plus large des ressources naturelles, Al Jazeera souligne qu'à l'occasion de la Semaine mondiale de l'eau deux mille vingt-six, les conflits liés à l'eau ont presque quadruplé depuis deux mille vingt.
   </chapitre>
 
   <chapitre titre="Économie et marchés">
-    On passe à l'économie, où la rupture commerciale entre le Canada et les États-Unis continue de dominer les manchettes. Selon le Wall Street Journal, les deux pays s'enfoncent maintenant dans une véritable guerre commerciale. Selon Reuters, cette confrontation vient s'ajouter à la nervosité déjà présente sur le marché obligataire américain.
+  On passe à l'économie, toujours dominée par les retombées commerciales entre le Canada et les États-Unis, mais aussi par d'autres enjeux qui traversent les marchés mondiaux.
 
-    Du côté des semi-conducteurs, selon Reuters, qui cite Bloomberg, Nvidia aurait informé ses clients d'une hausse de prix liée à l'intelligence artificielle dépassant quinze pour cent.
+  Selon Reuters, les prix facturés aux clients de Nvidia pour des produits liés à l'intelligence artificielle augmentent de plus de quinze pour cent, une information rapportée d'abord par Bloomberg.
 
-    En Europe, Bloomberg rapporte que face au ralentissement économique de l'Allemagne, les pays d'Europe centrale se tournent de plus en plus vers la Chine pour soutenir leur croissance.
+  Du côté de l'énergie, selon The Economist, la stratégie énergétique du président américain se serait retournée contre lui, un pari perdant sur le pétrole selon la publication.
+
+  En matière d'approvisionnement pétrolier, Reuters rapporte que l'Iran a accordé la permission à un certain nombre de pétroliers irakiens de transiter par le détroit d'Ormuz.
+
+  Sur les marchés obligataires, le Financial Times souligne cette semaine, dans son graphique hebdomadaire, la question de la répartition de la propriété des obligations gouvernementales à travers le monde, un enjeu suivi de près dans le contexte de nervosité persistante sur les taux.
   </chapitre>
 
   <chapitre titre="Tech">
-    Un mot sur la tech. Selon TechCrunch, l'entreprise britannique Inherent, fondée par d'anciens employés de DeepMind, affirme que son agent d'intelligence artificielle nommé Faraday aurait surpassé les systèmes d'Anthropic et d'OpenAI dans la reproduction de travaux de recherche scientifique.
+  Un mot sur la tech, où l'intelligence artificielle continue de faire les manchettes, avec son lot d'avancées et de controverses.
 
-    Toujours selon TechCrunch, le département de la Justice américain enquête sur la firme de capital de risque a16z, une enquête qui porte sur la pratique des sièges au conseil d'administration détenus par des investisseurs dans des entreprises technologiques.
+  Selon TechCrunch, le laboratoire britannique Inherent, fondé par d'anciens employés de DeepMind, affirme que son agent d'intelligence artificielle nommé Faraday aurait surpassé les systèmes d'Anthropic et d'OpenAI dans la reproduction de travaux de recherche scientifique.
 
-    Du côté du commerce en ligne, TechCrunch rapporte que Flipkart, la filiale indienne de Walmart, livre désormais entre un million cent mille et un million deux cent mille commandes par jour dans son service de commerce rapide, près du triple de son volume de novembre dernier.
+  Mais tous ne partagent pas le même optimisme, ni la même inquiétude, face aux risques de l'intelligence artificielle. Selon The Economist, les craintes d'un scénario catastrophique lié à l'intelligence artificielle seraient exagérées. La publication soutient que l'application de principes de sécurité de base réglerait une bonne partie des problèmes identifiés par Anthropic et OpenAI.
 
-    Enfin, selon The Verge, Amazon a augmenté les prix de ses appareils Echo, Fire TV et Kindle jusqu'à soixante pour cent. L'entreprise invoque une hausse importante des coûts de mémoire et de stockage. Le prix de l'enceinte Echo Dot est passé de quarante-neuf dollars quatre-vingt-dix-neuf à soixante-dix-neuf dollars quatre-vingt-dix-neuf du jour au lendemain.
+  Ailleurs en Asie, selon l'Associated Press, des robots humanoïdes chinois ont battu des records humains au sprint du cent mètres et au saut en hauteur lors des jeux de robots de Beijing.
+
+  Du côté du commerce en ligne, TechCrunch rapporte que la division de commerce rapide de Flipkart, propriété de Walmart en Inde, livre désormais entre un million cent mille et un million deux cent mille commandes par jour, près du triple de son volume de novembre.
+
+  Enfin, du côté de la surveillance réglementaire, TechCrunch souligne que le département de la Justice américain enquête sur des sièges au conseil d'administration détenus par la firme de capital de risque a16z, une enquête qui pourrait inquiéter d'autres investisseurs du secteur.
   </chapitre>
 
   <chapitre titre="Sport">
-    Rapidement en sport. Selon Sportsnet, Vladimir Guerrero fils a effectué son retour au jeu avec les Blue Jays de Toronto samedi contre les Yankees, après avoir complété tous les tests requis par le protocole des commotions cérébrales de la Ligue majeure de baseball. Les Blue Jays l'ont emporté.
+  Rapidement en sport. Selon Sportsnet, Vladimir Guerrero fils a effectué son retour au jeu avec les Blue Jays de Toronto samedi contre les Yankees, après avoir complété tous les tests requis par le protocole des commotions cérébrales de la Ligue majeure de baseball. Les Blue Jays l'ont emporté.
 
-    En cricket, selon Al Jazeera, l'Australie a infligé une défaite par innings au Bangladesh lors du deuxième test, le lanceur Starc récoltant dix retraits dans la victoire.
+  Toujours selon Sportsnet, au tournoi de golf CPKC Women's Open, Miyu Yamashita continue de dominer, tandis que la jeune Canadienne Aphrodite Deng a progressé de plus de vingt positions au classement, à Edmonton.
 
-    En tennis, selon TVA Sports, Serena Williams fera équipe avec Carlos Alcaraz en double mixte aux Internationaux des États-Unis. La joueuse de vingt-trois titres du grand chelem ne disputera toutefois pas le tableau simple.
+  Du côté du tennis, selon RDS et TVA Sports, Serena Williams fera équipe avec Carlos Alcaraz en double mixte aux Internationaux des États-Unis, à New York.
+
+  En arts martiaux mixtes, TVA Sports rapporte que Jamall Emmers a créé la surprise en battant Lerryan Douglas par knock-out technique.
   </chapitre>
 
-  <outro>Voilà pour ce Presto du dimanche vingt-trois août deux mille vingt-six. Si ce briefing vous est utile, le meilleur coup de main que vous pouvez nous donner, c'est de le partager à une personne qui aime rester informée. Et selon votre plateforme : un abonnement sur Spotify ou Apple Podcasts, un pouce bleu et un abonnement sur YouTube, ça prend deux secondes et ça aide vraiment Presto à grandir. Sur ce, bonne journée, et à demain.</outro>
+  <outro>Voilà pour ce Presto du vingt-trois août deux mille vingt-six. Si ce briefing vous est utile, le meilleur coup de main que vous pouvez nous donner, c'est de le partager à une personne qui aime rester informée. Et selon votre plateforme : un abonnement sur Spotify ou Apple Podcasts, un pouce bleu et un abonnement sur YouTube, ça prend deux secondes et ça aide vraiment Presto à grandir. Sur ce, bonne journée, et à demain.</outro>
 </script>
 ```
