@@ -1,54 +1,50 @@
 {
-  "generated_at": "2026-08-23T16:23:48.926915+00:00",
+  "generated_at": "2026-08-23T19:21:16.920978+00:00",
   "window_hours": 8,
   "faits": [
     {
-      "sujet": "Conflit commercial Canada-États-Unis",
-      "fait": "Les États-Unis ont imposé des tarifs de 50 % sur une gamme de produits canadiens. Le Canada a annoncé des contre-tarifs visant l'acier et les produits laitiers américains. (Selon Radio-Canada et Global News)"
+      "sujet": "GTA VI lancement et précommandes",
+      "fait": "Les précommandes de Grand Theft Auto VI ont ouvert avec une édition standard à 79,99 $ et une édition Ultimate à 99,99 $ sur PS5 et Xbox Series X/S. Selon The Verge, le jeu est désormais prévu pour le 19 novembre 2026, après deux reports successifs."
     },
     {
-      "sujet": "Accord commercial rejeté",
-      "fait": "Le Canada a rejeté vendredi un accord commercial avec les États-Unis. Les conservateurs fédéraux demandent au gouvernement de divulguer les détails de cet accord rejeté. (Selon La Presse)"
+      "sujet": "Tarifs douaniers Canada-États-Unis",
+      "fait": "Des tarifs américains de 50 % ont pris effet sur plusieurs produits canadiens suite à l'effondrement des négociations commerciales. Selon Radio-Canada, le ministre canadien Mark Carney a annoncé des contre-tarifs visant l'acier et les produits laitiers américains."
     },
     {
-      "sujet": "Déclarations de Trump sur le Canada",
-      "fait": "Donald Trump a déclaré que le Canada 'veut les avantages' d'être un État américain 'sans en être un' et a tweeté 'Ça suffit!' en réaction aux contre-tarifs de Carney. (Selon Global News et Radio-Canada)"
+      "sujet": "Réaction Trump aux contre-tarifs",
+      "fait": "Le président Trump a réagi aux annonces de contre-tarifs canadiens en déclarant « Ça suffit ! » et affirmant que le Canada « veut les bénéfices » d'être un État américain « sans l'être ». Selon Radio-Canada et CBC, Trump a également mis en garde Ottawa contre les effets « dévastateurs » d'un conflit commercial."
     },
     {
-      "sujet": "Élections en Ukraine pendant la guerre",
-      "fait": "Le président Zelenskyy rejette l'idée de tenir des élections pendant le conflit, affirmant que cela 'fracturerait' et 'détruirait' l'Ukraine. Aucun scrutin ne peut être organisé sous la loi martiale. (Selon Radio-Canada et CBC)"
+      "sujet": "Mission lunaire chinoise Chang'e 7 reportée",
+      "fait": "La Chine a reporté sa mission lunaire Chang'e 7 de 2026 à 2027, déclarant qu'elle ne répondait pas aux conditions de lancement. Selon Ars Technica et La Presse, cette décision répond au principe de « prudence et fiabilité » pour assurer le « succès absolu »."
     },
     {
-      "sujet": "Sanctions américaines contre l'Iran",
-      "fait": "L'Iran signale une possible augmentation des prix des carburants à la veille de nouvelles sanctions américaines. Téhéran affirme que les nouvelles sanctions menacées par les États-Unis 'désespérés' échoueront. (Selon Al Jazeera et Reuters)"
+      "sujet": "Fusillade à Fort Smith, Territoires du Nord-Ouest",
+      "fait": "Un suspect a été arrêté après une fusillade samedi matin qui a blessé trois personnes et déclenché un confinement communautaire de plus de 13 heures. Selon CBC et Global News, l'incident s'est déroulé à Fort Smith."
     },
     {
-      "sujet": "Mission lunaire chinoise reportée",
-      "fait": "La Chine reporte sa mission Chang'e 7 à 2027, déclarant qu'elle 'ne répond pas aux conditions de lancement' cette année. La mission était prévue pour tester la présence d'eau glacée au pôle Sud lunaire. (Selon Ars Technica et La Presse)"
+      "sujet": "Effondrement de décharge en Guinée",
+      "fait": "Un effondrement de monticule de déchets dans un site d'élimination des déchets majeur a tué 30 personnes et enterré plusieurs habitations dans la capitale. Selon BBC World, le gouvernement guinéen a confirmé l'incident."
     },
     {
-      "sujet": "Inquiétudes de la Banque du Canada",
-      "fait": "La Banque du Canada s'inquiète de la montée du crédit privé, impliquant des entreprises empruntant auprès de prêteurs non bancaires. (Selon Global News)"
+      "sujet": "Accord de paix RDC-M23",
+      "fait": "La République démocratique du Congo et les combattants du M23 se sont accordés sur une feuille de route pour les négociations de paix. Selon Radio-Canada, les pourparlers incluaient la représentation des États-Unis, du Qatar, de la Suisse, du Togo et de l'Union africaine."
     },
     {
-      "sujet": "Préoccupations britanniques sur surveillance",
-      "fait": "Le PDG de Flock Safety appelle à un 'compromis' alors que la société de surveillance fait face à une vague croissante de critiques concernant l'utilisation abusive potentielle de sa technologie. (Selon TechCrunch)"
+      "sujet": "Conservateurs demandent détails accord commercial",
+      "fait": "Les conservateurs canadiens demandent au gouvernement de divulguer tous les détails de l'accord commercial avec les États-Unis rejeté vendredi. Selon CBC et National Post, le député Shuvaloy Majumdar a écrit au ministre du Commerce Dominic LeBlanc."
     },
     {
-      "sujet": "Formation de robots humanoides en Chine",
-      "fait": "La Chine entraîne des milliers de robots humanoides, bien que cette approche entraînerait des coûts énormes. (Selon The Economist)"
+      "sujet": "Critiques américaines sur guerre commerciale",
+      "fait": "Des politiciens américains, dont au moins un républicain, avertissent que la querelle commerciale croissante de Trump avec le Canada augmentera les coûts pour les familles et les entreprises américaines. Selon National Post, ces critiques mettent l'accent sur les dégâts à la relation avec l'allié le plus proche des États-Unis."
     },
     {
-      "sujet": "Accord de paix en République Démocratique du Congo",
-      "fait": "La RDC et les rebelles M23 se sont mis d'accord sur une feuille de route pour les pourparlers de paix lors d'une rencontre en Suisse. (Selon BBC)"
+      "sujet": "Zelenskyy rejette élections pendant la guerre",
+      "fait": "Le président ukrainien Volodymyr Zelenskyy déclare que tenir des élections pendant les combats actifs « détruirait » ou « diviserait » l'Ukraine. Selon CBC World et Reuters, cette déclaration intervient après l'appel du ministre sortant Mykhailo Fedorov pour un vote en temps de guerre."
     },
     {
-      "sujet": "Recrutement politique au Québec",
-      "fait": "Le Parti québécois recrute Stéphane Paquet, PDG de Montréal International, comme candidat dans Pointe-aux-Trembles. (Selon La Presse)"
-    },
-    {
-      "sujet": "Noyades en France et canicules",
-      "fait": "La France enregistre 301 décès par noyade depuis le 19 juin, un ministre gouvernemental liant la hausse aux vagues de chaleur et aux comportements à risque. (Selon BBC)"
+      "sujet": "Robots humanoides chinois en développement",
+      "fait": "La Chine entraîne des milliers de robots humanoides, mais cette approche comportera des coûts énormes. Selon The Economist, ce programme représente un investissement majeur en robotique."
     }
   ]
 }
