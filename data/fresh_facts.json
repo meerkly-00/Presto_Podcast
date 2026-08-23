@@ -1,50 +1,46 @@
 {
-  "generated_at": "2026-08-23T19:21:16.920978+00:00",
+  "generated_at": "2026-08-23T22:20:23.528296+00:00",
   "window_hours": 8,
   "faits": [
     {
-      "sujet": "GTA VI lancement et précommandes",
-      "fait": "Les précommandes de Grand Theft Auto VI ont ouvert avec une édition standard à 79,99 $ et une édition Ultimate à 99,99 $ sur PS5 et Xbox Series X/S. Selon The Verge, le jeu est désormais prévu pour le 19 novembre 2026, après deux reports successifs."
+      "sujet": "Guerre commerciale Canada-États-Unis",
+      "fait": "Les négociations commerciales Canada-États-Unis se sont effondrées vendredi sur des divergences concernant les termes écrits d'un accord potentiel, selon l'envoyé américain du Premier ministre Carney cité par le National Post. Le Canada a annoncé des contre-tarifs en réponse, incluant l'acier et les produits laitiers américains."
     },
     {
-      "sujet": "Tarifs douaniers Canada-États-Unis",
-      "fait": "Des tarifs américains de 50 % ont pris effet sur plusieurs produits canadiens suite à l'effondrement des négociations commerciales. Selon Radio-Canada, le ministre canadien Mark Carney a annoncé des contre-tarifs visant l'acier et les produits laitiers américains."
+      "sujet": "Réaction Trump aux contre-tarifs canadiens",
+      "fait": "Le président Trump a déclaré « Ça suffit ! » après l'annonce des contre-tarifs canadiens, selon Radio-Canada. Trump affirme que le Canada veut les « bénéfices » d'être un État américain."
     },
     {
-      "sujet": "Réaction Trump aux contre-tarifs",
-      "fait": "Le président Trump a réagi aux annonces de contre-tarifs canadiens en déclarant « Ça suffit ! » et affirmant que le Canada « veut les bénéfices » d'être un État américain « sans l'être ». Selon Radio-Canada et CBC, Trump a également mis en garde Ottawa contre les effets « dévastateurs » d'un conflit commercial."
+      "sujet": "Incendies de forêt en Colombie-Britannique",
+      "fait": "Une tempête en Colombie-Britannique a provoqué plus de 7 000 coups de foudre samedi et dimanche, selon la CBC. Les conditions chaudes, sèches et venteuses prévues pourraient augmenter le potentiel d'activité des feux de forêt."
     },
     {
-      "sujet": "Mission lunaire chinoise Chang'e 7 reportée",
-      "fait": "La Chine a reporté sa mission lunaire Chang'e 7 de 2026 à 2027, déclarant qu'elle ne répondait pas aux conditions de lancement. Selon Ars Technica et La Presse, cette décision répond au principe de « prudence et fiabilité » pour assurer le « succès absolu »."
+      "sujet": "Incendies en Serbie et aide internationale",
+      "fait": "La Serbie a demandé l'assistance de l'Union européenne et de la Russie pour maîtriser des incendies de forêt intenses, selon Al Jazeera."
     },
     {
-      "sujet": "Fusillade à Fort Smith, Territoires du Nord-Ouest",
-      "fait": "Un suspect a été arrêté après une fusillade samedi matin qui a blessé trois personnes et déclenché un confinement communautaire de plus de 13 heures. Selon CBC et Global News, l'incident s'est déroulé à Fort Smith."
+      "sujet": "Box-office cinéma : L'Odyssée de Nolan",
+      "fait": "Le film « L'Odyssée » de Christopher Nolan est devenu ce week-end le film du réalisateur ayant généré le plus de recettes de tous les temps, dépassant « Le Chevalier noir » avec 539,1 millions de dollars en Amérique du Nord, selon Le Devoir. Il est aussi devenu le film classé R ayant obtenu les plus grosses recettes de tous les temps."
+    },
+    {
+      "sujet": "Lancement lunaire chinois reporté",
+      "fait": "La Chine repousse le lancement de sa mission Chang'e 7 à 2027 au lieu de 2026, déclarant que la mission « ne remplit pas les conditions » pour un lancement cette année, selon Ars Technica. La mission devait atterrir au pôle Sud de la Lune."
+    },
+    {
+      "sujet": "Précommandes GTA VI exceptionnelles",
+      "fait": "Les précommandes de Grand Theft Auto VI ont connu un « démarrage exceptionnel » selon The Verge, avec une édition standard à 79,99 dollars et une édition Ultimate à 99,99 dollars disponibles en version numérique pour PS5 et Xbox Series X/S."
     },
     {
       "sujet": "Effondrement de décharge en Guinée",
-      "fait": "Un effondrement de monticule de déchets dans un site d'élimination des déchets majeur a tué 30 personnes et enterré plusieurs habitations dans la capitale. Selon BBC World, le gouvernement guinéen a confirmé l'incident."
+      "fait": "L'effondrement d'une mound de déchets dans une décharge majeure en Guinée tue 30 personnes et ensevelit plusieurs maisons dans la capitale, selon la BBC."
     },
     {
-      "sujet": "Accord de paix RDC-M23",
-      "fait": "La République démocratique du Congo et les combattants du M23 se sont accordés sur une feuille de route pour les négociations de paix. Selon Radio-Canada, les pourparlers incluaient la représentation des États-Unis, du Qatar, de la Suisse, du Togo et de l'Union africaine."
+      "sujet": "Débat public sur l'accord commercial rejeté",
+      "fait": "Les conservateurs canadiens demandent au gouvernement Carney de divulguer tous les détails de l'accord commercial avec les États-Unis rejeté vendredi, arguant que les Canadiens méritent de connaître les termes, selon le National Post et CBC."
     },
     {
-      "sujet": "Conservateurs demandent détails accord commercial",
-      "fait": "Les conservateurs canadiens demandent au gouvernement de divulguer tous les détails de l'accord commercial avec les États-Unis rejeté vendredi. Selon CBC et National Post, le député Shuvaloy Majumdar a écrit au ministre du Commerce Dominic LeBlanc."
-    },
-    {
-      "sujet": "Critiques américaines sur guerre commerciale",
-      "fait": "Des politiciens américains, dont au moins un républicain, avertissent que la querelle commerciale croissante de Trump avec le Canada augmentera les coûts pour les familles et les entreprises américaines. Selon National Post, ces critiques mettent l'accent sur les dégâts à la relation avec l'allié le plus proche des États-Unis."
-    },
-    {
-      "sujet": "Zelenskyy rejette élections pendant la guerre",
-      "fait": "Le président ukrainien Volodymyr Zelenskyy déclare que tenir des élections pendant les combats actifs « détruirait » ou « diviserait » l'Ukraine. Selon CBC World et Reuters, cette déclaration intervient après l'appel du ministre sortant Mykhailo Fedorov pour un vote en temps de guerre."
-    },
-    {
-      "sujet": "Robots humanoides chinois en développement",
-      "fait": "La Chine entraîne des milliers de robots humanoides, mais cette approche comportera des coûts énormes. Selon The Economist, ce programme représente un investissement majeur en robotique."
+      "sujet": "Détérioration de la santé du roi de Norvège",
+      "fait": "La santé du roi de Norvège s'est détériorée alors qu'il était hospitalisé, selon un communiqué du palais rapporté par Reuters."
     }
   ]
 }
