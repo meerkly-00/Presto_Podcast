@@ -1,54 +1,54 @@
 {
-  "generated_at": "2026-08-24T16:36:19.455492+00:00",
+  "generated_at": "2026-08-24T19:28:47.412003+00:00",
   "window_hours": 8,
   "faits": [
     {
-      "sujet": "Guerre commerciale Canada-États-Unis",
-      "fait": "Donald Trump menace d'imposer des tarifs de 50 % sur les automobiles, camions et pièces automobiles canadiens à partir du 1er janvier 2027, selon Reuters et le National Post."
+      "sujet": "Recrutement politique au Québec",
+      "fait": "Le Parti québécois recrute Vincent Marissal, ex-candidat de Solidarité, comme candidat dans Taschereau à Québec, après le désistement de la candidate péquiste. Selon La Presse."
     },
     {
-      "sujet": "Réaction politique canadienne aux tarifs",
-      "fait": "Le premier ministre ontarien Doug Ford propose des mesures de rétorsion incluant la restriction de l'électricité et des minéraux critiques aux États-Unis, selon La Presse et le National Post."
+      "sujet": "Tensions commerciales Canada-États-Unis",
+      "fait": "Donald Trump menace de porter à 50 % les tarifs sur les automobiles et camions canadiens à partir du 1er janvier 2027. Selon Reuters et Radio-Canada."
     },
     {
-      "sujet": "Appel à la reconvocation du Parlement",
-      "fait": "Le chef conservateur Pierre Poilievre demande au premier ministre Mark Carney de reconvoquer le Parlement pour examiner l'échec des négociations commerciales avec les États-Unis, selon le National Post."
+      "sujet": "Tensions commerciales Canada-États-Unis",
+      "fait": "Le Premier ministre canadien Mark Carney annonce que les États-Unis cherchent à détruire les grandes industries canadiennes et retire le Canada des négociations. Selon Radio-Canada et Global News."
     },
     {
-      "sujet": "Contrat fédéral pour brise-glaces",
-      "fait": "Le gouvernement fédéral commande six brise-glaces pour 11 milliards de dollars au Chantier Davie à Lévis, destinés à la Garde côtière, selon Le Devoir."
+      "sujet": "Impact économique des tarifs",
+      "fait": "Les tarifs américains menacent 87 200 emplois canadiens, l'Ontario et le Québec étant les provinces les plus touchées. Selon le National Post."
     },
     {
       "sujet": "Sanctions américaines contre l'Iran",
-      "fait": "Le Trésor américain prépare l'élargissement des sanctions secondaires contre l'Iran, tandis que la monnaie iranienne atteint un nouveau plancher historique, selon Reuters et l'Associated Press."
+      "fait": "Le Trésorier américain Scott Bessent annonce une expansion des sanctions secondaires visant à séparer l'Iran de l'économie mondiale et menace d'isoler les pays maintenant des liens commerciaux avec Téhéran. Selon la BBC World, Reuters et CBC."
     },
     {
-      "sujet": "Avertissement iranien aux États-Unis",
-      "fait": "L'Iran avertit d'une réponse dure face aux anticipées sanctions américaines, et le secrétaire du Trésor américain Scott Bessent déclare que les États-Unis vont sevrer tous les liens économiques avec l'Iran, selon la BBC World."
+      "sujet": "Visa H-1B aux États-Unis",
+      "fait": "L'administration Trump propose une formalisation d'une redevance de 103 265 dollars pour les visas H-1B et vise à rendre permanente une règle temporaire. Selon Al Jazeera."
     },
     {
-      "sujet": "Action collective au Québec",
-      "fait": "La Cour supérieure du Québec autorise une action collective contre le distributeur Cencora suite au vol de renseignements personnels et médicaux de patients québécois, selon La Presse."
+      "sujet": "Incendie en Colombie-Britannique",
+      "fait": "L'alerte d'évacuation pour Lions Bay est levée après que l'incendie de Lone Tree Creek, détecté dimanche, soit maîtrisé. Selon Global News."
     },
     {
-      "sujet": "Augmentation des prix ESPN",
-      "fait": "ESPN augmente les prix de ses abonnements à partir du 17 septembre : Select passe à 13,99 $/mois et Unlimited à 31,99 $/mois, selon The Verge."
+      "sujet": "Affaire de meurtre à Montréal",
+      "fait": "Une femme dans la trentaine et un adolescent sont accusés du meurtre prémédité d'un jeune homme lié aux gangs survenu en plein jour à Montréal. Selon La Presse."
     },
     {
-      "sujet": "Sortie de The Witcher 4",
-      "fait": "CD Projekt Red vise une sortie de The Witcher 4 en 2028, tandis que l'expansion The Witcher 3 'Songs of the Past' est prévue pour 2027, selon The Verge."
+      "sujet": "Records de température océanique",
+      "fait": "Samedi, la température moyenne des eaux de surface des océans a dépassé le précédent record de 2024. Selon Radio-Canada."
     },
     {
-      "sujet": "Évaluation de General Intuition",
-      "fait": "La startup d'IA General Intuition est en discussions de levée de fonds à une valorisation de 6 milliards de dollars auprès d'investisseurs incluant Valor Ventures et Point72 Ventures, selon TechCrunch."
+      "sujet": "Menaces russes contre l'Ukraine",
+      "fait": "Le Premier ministre britannique Burnham affirme soutenir l'Ukraine malgré les menaces russes de représailles concernant l'utilisation alléguée de drones britanniques. Selon BBC World."
     },
     {
-      "sujet": "Acquisition potentielle de Hugging Face",
-      "fait": "Hugging Face reçoit des offres d'acquisition valorisant l'entreprise autour de 13 milliards de dollars, selon TechCrunch."
+      "sujet": "Développement pétrolier en Arctique",
+      "fait": "La Norvège prévoit un développement supplémentaire du forage en Arctique tandis que l'UE révise son soutien à une interdiction de nouvelles forages en raison de préoccupations énergétiques. Selon Al Jazeera."
     },
     {
-      "sujet": "Situation au Moyen-Orient",
-      "fait": "Plus de 1 200 Palestiniens ont été tués depuis l'accord de cessez-le-feu d'octobre 2025, selon Al Jazeera."
+      "sujet": "Réglementation des robotaxis",
+      "fait": "À New York, le gouverneur Hochul retire une proposition légalisant les robotaxis autonomes en dehors de New York City suite à l'opposition des syndicats et des chauffeurs de taxi. Selon The Verge."
     }
   ]
 }
