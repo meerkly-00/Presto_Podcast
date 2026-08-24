@@ -1,54 +1,54 @@
 {
-  "generated_at": "2026-08-24T13:51:37.446113+00:00",
+  "generated_at": "2026-08-24T16:36:19.455492+00:00",
   "window_hours": 8,
   "faits": [
     {
-      "sujet": "Hugging Face acquisition",
-      "fait": "Hugging Face négocie des offres d'acquisition valorisant l'entreprise à environ 13 milliards de dollars, bien que les fondateurs expriment des doutes quant à la concrétisation de la vente en raison de leur responsabilité envers la communauté. Selon TechCrunch."
+      "sujet": "Guerre commerciale Canada-États-Unis",
+      "fait": "Donald Trump menace d'imposer des tarifs de 50 % sur les automobiles, camions et pièces automobiles canadiens à partir du 1er janvier 2027, selon Reuters et le National Post."
     },
     {
-      "sujet": "Netflix plateforme multi-services",
-      "fait": "Les dirigeants de Netflix envisagent d'intégrer des services de streaming tiers, notamment Peacock et Fox One, dans son application, selon le New York Times. Le modèle exact reste indéterminé."
+      "sujet": "Réaction politique canadienne aux tarifs",
+      "fait": "Le premier ministre ontarien Doug Ford propose des mesures de rétorsion incluant la restriction de l'électricité et des minéraux critiques aux États-Unis, selon La Presse et le National Post."
     },
     {
-      "sujet": "Fusion nutrition US-Inde",
-      "fait": "Berry Street et Healthify fusionnent, avec Noah Kotlove et Tushar Vashisht comme co-PDG de la nouvelle entité, dans le contexte de la tendance à la hausse des médicaments GLP-1. Selon TechCrunch."
+      "sujet": "Appel à la reconvocation du Parlement",
+      "fait": "Le chef conservateur Pierre Poilievre demande au premier ministre Mark Carney de reconvoquer le Parlement pour examiner l'échec des négociations commerciales avec les États-Unis, selon le National Post."
+    },
+    {
+      "sujet": "Contrat fédéral pour brise-glaces",
+      "fait": "Le gouvernement fédéral commande six brise-glaces pour 11 milliards de dollars au Chantier Davie à Lévis, destinés à la Garde côtière, selon Le Devoir."
     },
     {
       "sujet": "Sanctions américaines contre l'Iran",
-      "fait": "Le secrétaire au Trésor américain Scott Bessent déclare que les États-Unis vont sevrer tous les liens économiques avec l'Iran et qu'toute nation partenaire de l'Iran sera isolée économiquement. Selon BBC World."
+      "fait": "Le Trésor américain prépare l'élargissement des sanctions secondaires contre l'Iran, tandis que la monnaie iranienne atteint un nouveau plancher historique, selon Reuters et l'Associated Press."
     },
     {
-      "sujet": "Guerre commerciale Canada-États-Unis",
-      "fait": "Le premier ministre canadien Mark Carney répond aux tarifs américains du président Trump en promettant une riposte tarifaire \"dollar pour dollar\", déclarant que le Canada s'éloigne d'un mauvais accord. Selon Global News."
+      "sujet": "Avertissement iranien aux États-Unis",
+      "fait": "L'Iran avertit d'une réponse dure face aux anticipées sanctions américaines, et le secrétaire du Trésor américain Scott Bessent déclare que les États-Unis vont sevrer tous les liens économiques avec l'Iran, selon la BBC World."
     },
     {
-      "sujet": "Collège LaSalle menace de fermeture",
-      "fait": "Le Collège LaSalle menace à nouveau de fermer en raison d'une dette de 48 millions de dollars envers le gouvernement du Québec, jugeant les pénalités injustes pour dépassement des quotas d'étudiants anglophones. Selon La Presse."
+      "sujet": "Action collective au Québec",
+      "fait": "La Cour supérieure du Québec autorise une action collective contre le distributeur Cencora suite au vol de renseignements personnels et médicaux de patients québécois, selon La Presse."
     },
     {
-      "sujet": "CAQ campagne électorale",
-      "fait": "La Coalition avenir Québec dévoile le slogan \"Avançons\" pour sa campagne électorale. Selon La Presse et Journal de Montréal."
+      "sujet": "Augmentation des prix ESPN",
+      "fait": "ESPN augmente les prix de ses abonnements à partir du 17 septembre : Select passe à 13,99 $/mois et Unlimited à 31,99 $/mois, selon The Verge."
     },
     {
-      "sujet": "GrapheneOS Motorola partenariat",
-      "fait": "La Fondation GrapheneOS annonce un support officiel pour les smartphones Motorola débutant l'année prochaine, d'abord sur les phares traditionnels puis sur les modèles pliables Razr Fold et Razr Ultra. Selon The Verge."
+      "sujet": "Sortie de The Witcher 4",
+      "fait": "CD Projekt Red vise une sortie de The Witcher 4 en 2028, tandis que l'expansion The Witcher 3 'Songs of the Past' est prévue pour 2027, selon The Verge."
     },
     {
-      "sujet": "Robots humanoïdes records sportifs",
-      "fait": "Des robots humanoïdes aux World Robot Games de Pékin battent le record de 100 mètres d'Usain Bolt, avec Tiangong Ultra le parcourant en 9,39 secondes. Selon The Verge et La Presse."
+      "sujet": "Évaluation de General Intuition",
+      "fait": "La startup d'IA General Intuition est en discussions de levée de fonds à une valorisation de 6 milliards de dollars auprès d'investisseurs incluant Valor Ventures et Point72 Ventures, selon TechCrunch."
     },
     {
-      "sujet": "Évaluation robotique Xpeng",
-      "fait": "L'unité de robotique de Xpeng est valorisée à plus de 6,3 milliards de dollars après une ronde de financement record. Selon Reuters."
+      "sujet": "Acquisition potentielle de Hugging Face",
+      "fait": "Hugging Face reçoit des offres d'acquisition valorisant l'entreprise autour de 13 milliards de dollars, selon TechCrunch."
     },
     {
-      "sujet": "Appel convocation parlementaire Canada",
-      "fait": "Pierre Poilievre, chef conservateur, demande au premier ministre Mark Carney de convoquer la Chambre des communes pour débattre de la guerre commerciale avec les États-Unis et demande la publication de l'accord commercial refusé. Selon La Presse et Radio-Canada."
-    },
-    {
-      "sujet": "UK Ukraine missiles longue portée",
-      "fait": "Le Royaume-Uni fournira à l'Ukraine les plans de missiles longue portée durant les célébrations de la Fête de l'indépendance avec des dirigeants européens et le président Zelenskyy à Kyiv. Selon CBC World."
+      "sujet": "Situation au Moyen-Orient",
+      "fait": "Plus de 1 200 Palestiniens ont été tués depuis l'accord de cessez-le-feu d'octobre 2025, selon Al Jazeera."
     }
   ]
 }
