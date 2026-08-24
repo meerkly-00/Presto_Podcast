@@ -1,0 +1,67 @@
+```xml
+<script>
+  <intro>Bonjour, on est le lundi vingt-quatre août deux mille vingt-six. Voici votre Presto en environ quinze minutes. Au menu : la guerre commerciale entre le Canada et les États-Unis qui s'intensifie, les tensions autour de l'Iran et du détroit d'Ormuz, l'entrée en bourse de Shein à Hong Kong, et un mot sur la tech et le sport.</intro>
+
+  <chapitre titre="Canada-États-Unis : la guerre commerciale s'intensifie">
+  On commence par le dossier qui domine l'actualité depuis vendredi. Selon Radio-Canada, le président américain Donald Trump a réagi à l'annonce de contre-tarifs par le premier ministre Mark Carney en affirmant, je le cite : "Ça suffit !" Fin de citation. Selon la BBC, Trump a aussi affirmé que le Canada veut, je le cite : "the benefits" d'être un État américain sans en assumer le statut. Fin de citation.
+
+  Selon la BBC toujours, le premier ministre Carney a dit annoncer des tarifs de représailles à contrecœur, et a accusé les États-Unis d'avoir déclenché une guerre commerciale. Ces nouveaux tarifs américains, de cinquante pour cent sur une gamme de produits canadiens, sont entrés en vigueur au cours de la fin de semaine.
+
+  Selon le National Post, l'envoyé commercial de Mark Carney à Washington affirme que les négociations ont échoué en raison d'un désaccord sur les termes écrits de l'entente : le texte proposé par la partie américaine ne correspondait pas, selon la partie canadienne, à ce qui avait été convenu verbalement.
+
+  Toujours selon le National Post, des élus américains, dont au moins un républicain, dénoncent ce que l'un d'eux qualifie de conflit commercial chaotique, avertissant que l'escalade fera augmenter les coûts pour les familles et les entreprises américaines et nuira à une relation de longue date avec l'allié le plus proche des États-Unis.
+
+  Au pays, l'opposition demande des comptes. Selon CBC, un député conservateur réclame la publication intégrale des termes de l'entente commerciale rejetée par le Canada vendredi, plaidant que les Canadiens et le Parlement ont le droit de savoir ce qui était sur la table. La Presse rapporte la même demande de la part des conservateurs fédéraux.
+
+  Du côté québécois, selon Radio-Canada, la ministre de l'Économie Christine Fréchette réclame une riposte tarifaire qualifiée de stratégique. Québec ne serait pas nécessairement d'accord avec l'approche dollar pour dollar annoncée par Ottawa.
+
+  On continue de suivre l'évolution de ce dossier.
+  </chapitre>
+
+  <chapitre titre="International : tensions autour de l'Iran et guerres">
+  Sur le plan international, plusieurs dossiers chauds. D'abord l'Iran : selon Al Jazeera, au moins cent quarante-cinq pays ont rapporté des hausses du prix de l'essence depuis le début des attaques américaines et israéliennes contre l'Iran. Selon Reuters, les marchés boursiers et le pétrole ont reculé alors que les investisseurs attendent les détails de possibles nouvelles sanctions américaines contre l'Iran. Le Wall Street Journal rapporte que le pétrole a chuté en raison d'ajustements de position avant ces sanctions potentielles. Toujours selon Reuters, moins de vingt navires ont transité par le détroit d'Ormuz au cours de la fin de semaine, selon des données de circulation maritime.
+
+  En Ukraine, selon CBC, le président Volodymyr Zelensky affirme que la tenue d'élections pendant la guerre risquerait, je le cite : "destroy" l'Ukraine. Fin de citation. Cette mise en garde survient après que l'ex-ministre de la Défense congédié, Mykhaïlo Fedorov, a réclamé la semaine dernière un vote en temps de guerre. Par ailleurs, selon Reuters, Zelensky affirme que l'Ukraine n'est pas responsable des explosions visant le gazoduc Nord Stream, et dit collaborer avec l'enquête en cours.
+
+  Ailleurs, selon Al Jazeera, des équipes de l'Union européenne et un avion russe participent à la lutte contre d'importants feux de forêt en Serbie, alors qu'une chaleur extrême alimente des incendies dans les Balkans. Aux États-Unis, selon l'Associated Press, un feu de forêt se déplaçant rapidement, poussé par des vents changeants, menace la ville de Reno au Nevada, forçant l'évacuation de milliers de personnes.
+
+  En Chine, selon la BBC, les autorités enquêtent sur l'utilisation de formaldéhyde, un cancérigène, pour conserver la fraîcheur de choux destinés à la vente, une pratique interdite dans le pays qui est le plus grand producteur mondial de ce légume.
+  </chapitre>
+
+  <chapitre titre="Économie et marchés">
+  On passe à l'économie. L'entrée en bourse la plus attendue de la semaine : selon la BBC, le géant de la mode éphémère Shein vise une valorisation boursière pouvant atteindre environ vingt-sept milliards de dollars américains lors de son entrée en bourse à Hong Kong. Selon Radio-Canada, cette valeur pourrait atteindre trente-sept milliards de dollars canadiens, et les actions doivent commencer à se négocier le premier septembre.
+
+  En Asie, selon Reuters, le titre de Samsung Electronics a reculé après que l'entreprise a annoncé un programme record de retour de capital aux actionnaires, jugé décevant par les marchés. Selon Bloomberg, la Chine croît à un rythme de quatre pour cent, ce qui ravive, selon Goldman Sachs, les espoirs d'un assouplissement monétaire dans le pays. Toujours selon Reuters Business, la crise du secteur immobilier chinois se poursuit, après la condamnation de dirigeants du promoteur Evergrande.
+
+  Selon Bloomberg, les contrats à terme américains reculaient légèrement lundi, les investisseurs surveillant de près les dépenses liées à l'intelligence artificielle. Selon Reuters Business, la part de marché des véhicules électriques en Europe a dépassé vingt-cinq pour cent en juillet, portée notamment par la France et l'Allemagne.
+
+  Du côté des matières premières, comme mentionné plus tôt, le pétrole a reculé dans l'attente de précisions sur d'éventuelles sanctions américaines contre l'Iran.
+
+  Enfin, au Québec, selon La Presse, Ottawa et Québec ont adressé un avertissement musclé à Glencore, la société responsable de la Fonderie Horne. Les deux gouvernements soutiennent que l'entreprise ne peut invoquer l'importance des minéraux critiques dans la stratégie nationale canadienne pour se soustraire à ses obligations environnementales envers les citoyens de Rouyn-Noranda.
+
+  Toujours au Québec, selon Radio-Canada, le Collège LaSalle affirme traverser des difficultés financières importantes et réclame des solutions, disant avoir près de quarante-huit millions de dollars de dettes envers le gouvernement du Québec.
+  </chapitre>
+
+  <chapitre titre="Tech">
+  Un mot sur la tech. Selon TechCrunch, un nouveau modèle d'intelligence artificielle mystérieux baptisé Ox Alpha suscite une vague de spéculation sur son origine dans certains cercles technologiques.
+
+  Toujours selon TechCrunch, l'autorité néerlandaise de protection des données impose à Uber une amende de près d'un milliard de dollars, soit huit cent vingt-cinq millions d'euros, la deuxième plus importante pénalité jamais imposée en vertu du règlement européen sur la protection des données. L'amende concerne des suspensions automatisées de chauffeurs.
+
+  Du côté spatial, selon Ars Technica, la Chine reporte à deux mille vingt-sept sa mission lunaire Chang'e sept, initialement prévue cette année. Le programme spatial chinois invoque un principe de prudence et la nécessité d'assurer, je le cite : "absolute success". Fin de citation. Aucune explication détaillée n'a été fournie pour ce report depuis le site de lancement de Wenchang.
+
+  Enfin, selon The Economist, la Chine est en avance sur ses rivaux dans le développement de robots humanoïdes et en forme des milliers, mais les profits restent encore loin selon la publication.
+  </chapitre>
+
+  <chapitre titre="Sport">
+  Rapidement en sport. Selon Sportsnet, la golfeuse japonaise Miyu Yamashita a remporté l'Omnium féminin canadien CPKC avec une performance record, s'imposant largement. La Canadienne Anna Huang a obtenu les honneurs de meilleure joueuse canadienne pour la première fois de sa carrière, poursuivant son excellent été.
+
+  Toujours selon Sportsnet, les Blue Jays de Toronto ont vu leur série de victoires prendre fin dimanche face aux Yankees de New York, mais l'équipe continue de se positionner en vue des séries face à une bonne partie de la Ligue américaine.
+
+  En football canadien, selon Global News, les Lions de la Colombie-Britannique ont dominé les Roughriders de la Saskatchewan trente à seize.
+
+  En soccer, selon TVA Sports, l'international suisse Breel Embolo quitte le club de Rennes pour rejoindre Atlanta en MLS.
+  </chapitre>
+
+  <outro>Voilà pour ce Presto du lundi vingt-quatre août deux mille vingt-six. Si ce briefing vous est utile, le meilleur coup de main que vous pouvez nous donner, c'est de le partager à une personne qui aime rester informée. Et selon votre plateforme : un abonnement sur Spotify ou Apple Podcasts, un pouce bleu et un abonnement sur YouTube, ça prend deux secondes et ça aide vraiment Presto à grandir. Sur ce, bonne journée, et à demain.</outro>
+</script>
+```
