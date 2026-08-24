@@ -1,46 +1,54 @@
 {
-  "generated_at": "2026-08-23T22:20:23.528296+00:00",
+  "generated_at": "2026-08-24T13:51:37.446113+00:00",
   "window_hours": 8,
   "faits": [
     {
+      "sujet": "Hugging Face acquisition",
+      "fait": "Hugging Face négocie des offres d'acquisition valorisant l'entreprise à environ 13 milliards de dollars, bien que les fondateurs expriment des doutes quant à la concrétisation de la vente en raison de leur responsabilité envers la communauté. Selon TechCrunch."
+    },
+    {
+      "sujet": "Netflix plateforme multi-services",
+      "fait": "Les dirigeants de Netflix envisagent d'intégrer des services de streaming tiers, notamment Peacock et Fox One, dans son application, selon le New York Times. Le modèle exact reste indéterminé."
+    },
+    {
+      "sujet": "Fusion nutrition US-Inde",
+      "fait": "Berry Street et Healthify fusionnent, avec Noah Kotlove et Tushar Vashisht comme co-PDG de la nouvelle entité, dans le contexte de la tendance à la hausse des médicaments GLP-1. Selon TechCrunch."
+    },
+    {
+      "sujet": "Sanctions américaines contre l'Iran",
+      "fait": "Le secrétaire au Trésor américain Scott Bessent déclare que les États-Unis vont sevrer tous les liens économiques avec l'Iran et qu'toute nation partenaire de l'Iran sera isolée économiquement. Selon BBC World."
+    },
+    {
       "sujet": "Guerre commerciale Canada-États-Unis",
-      "fait": "Les négociations commerciales Canada-États-Unis se sont effondrées vendredi sur des divergences concernant les termes écrits d'un accord potentiel, selon l'envoyé américain du Premier ministre Carney cité par le National Post. Le Canada a annoncé des contre-tarifs en réponse, incluant l'acier et les produits laitiers américains."
+      "fait": "Le premier ministre canadien Mark Carney répond aux tarifs américains du président Trump en promettant une riposte tarifaire \"dollar pour dollar\", déclarant que le Canada s'éloigne d'un mauvais accord. Selon Global News."
     },
     {
-      "sujet": "Réaction Trump aux contre-tarifs canadiens",
-      "fait": "Le président Trump a déclaré « Ça suffit ! » après l'annonce des contre-tarifs canadiens, selon Radio-Canada. Trump affirme que le Canada veut les « bénéfices » d'être un État américain."
+      "sujet": "Collège LaSalle menace de fermeture",
+      "fait": "Le Collège LaSalle menace à nouveau de fermer en raison d'une dette de 48 millions de dollars envers le gouvernement du Québec, jugeant les pénalités injustes pour dépassement des quotas d'étudiants anglophones. Selon La Presse."
     },
     {
-      "sujet": "Incendies de forêt en Colombie-Britannique",
-      "fait": "Une tempête en Colombie-Britannique a provoqué plus de 7 000 coups de foudre samedi et dimanche, selon la CBC. Les conditions chaudes, sèches et venteuses prévues pourraient augmenter le potentiel d'activité des feux de forêt."
+      "sujet": "CAQ campagne électorale",
+      "fait": "La Coalition avenir Québec dévoile le slogan \"Avançons\" pour sa campagne électorale. Selon La Presse et Journal de Montréal."
     },
     {
-      "sujet": "Incendies en Serbie et aide internationale",
-      "fait": "La Serbie a demandé l'assistance de l'Union européenne et de la Russie pour maîtriser des incendies de forêt intenses, selon Al Jazeera."
+      "sujet": "GrapheneOS Motorola partenariat",
+      "fait": "La Fondation GrapheneOS annonce un support officiel pour les smartphones Motorola débutant l'année prochaine, d'abord sur les phares traditionnels puis sur les modèles pliables Razr Fold et Razr Ultra. Selon The Verge."
     },
     {
-      "sujet": "Box-office cinéma : L'Odyssée de Nolan",
-      "fait": "Le film « L'Odyssée » de Christopher Nolan est devenu ce week-end le film du réalisateur ayant généré le plus de recettes de tous les temps, dépassant « Le Chevalier noir » avec 539,1 millions de dollars en Amérique du Nord, selon Le Devoir. Il est aussi devenu le film classé R ayant obtenu les plus grosses recettes de tous les temps."
+      "sujet": "Robots humanoïdes records sportifs",
+      "fait": "Des robots humanoïdes aux World Robot Games de Pékin battent le record de 100 mètres d'Usain Bolt, avec Tiangong Ultra le parcourant en 9,39 secondes. Selon The Verge et La Presse."
     },
     {
-      "sujet": "Lancement lunaire chinois reporté",
-      "fait": "La Chine repousse le lancement de sa mission Chang'e 7 à 2027 au lieu de 2026, déclarant que la mission « ne remplit pas les conditions » pour un lancement cette année, selon Ars Technica. La mission devait atterrir au pôle Sud de la Lune."
+      "sujet": "Évaluation robotique Xpeng",
+      "fait": "L'unité de robotique de Xpeng est valorisée à plus de 6,3 milliards de dollars après une ronde de financement record. Selon Reuters."
     },
     {
-      "sujet": "Précommandes GTA VI exceptionnelles",
-      "fait": "Les précommandes de Grand Theft Auto VI ont connu un « démarrage exceptionnel » selon The Verge, avec une édition standard à 79,99 dollars et une édition Ultimate à 99,99 dollars disponibles en version numérique pour PS5 et Xbox Series X/S."
+      "sujet": "Appel convocation parlementaire Canada",
+      "fait": "Pierre Poilievre, chef conservateur, demande au premier ministre Mark Carney de convoquer la Chambre des communes pour débattre de la guerre commerciale avec les États-Unis et demande la publication de l'accord commercial refusé. Selon La Presse et Radio-Canada."
     },
     {
-      "sujet": "Effondrement de décharge en Guinée",
-      "fait": "L'effondrement d'une mound de déchets dans une décharge majeure en Guinée tue 30 personnes et ensevelit plusieurs maisons dans la capitale, selon la BBC."
-    },
-    {
-      "sujet": "Débat public sur l'accord commercial rejeté",
-      "fait": "Les conservateurs canadiens demandent au gouvernement Carney de divulguer tous les détails de l'accord commercial avec les États-Unis rejeté vendredi, arguant que les Canadiens méritent de connaître les termes, selon le National Post et CBC."
-    },
-    {
-      "sujet": "Détérioration de la santé du roi de Norvège",
-      "fait": "La santé du roi de Norvège s'est détériorée alors qu'il était hospitalisé, selon un communiqué du palais rapporté par Reuters."
+      "sujet": "UK Ukraine missiles longue portée",
+      "fait": "Le Royaume-Uni fournira à l'Ukraine les plans de missiles longue portée durant les célébrations de la Fête de l'indépendance avec des dirigeants européens et le président Zelenskyy à Kyiv. Selon CBC World."
     }
   ]
 }
