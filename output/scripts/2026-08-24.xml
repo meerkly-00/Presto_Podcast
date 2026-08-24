@@ -1,65 +1,71 @@
 ```xml
 <script>
-  <intro>Bonjour, on est le lundi vingt-quatre août deux mille vingt-six. Voici votre Presto en environ quinze minutes. Au menu : la guerre commerciale entre le Canada et les États-Unis qui s'intensifie, les tensions autour de l'Iran et du détroit d'Ormuz, l'entrée en bourse de Shein à Hong Kong, et un mot sur la tech et le sport.</intro>
+  <intro>Bonjour, on est le lundi vingt-quatre août deux mille vingt-six. Voici votre Presto en environ quinze minutes. Au menu : la guerre commerciale entre le Canada et les États-Unis, la précampagne électorale québécoise, l'Iran et l'Ukraine, les marchés et la tech.</intro>
 
-  <chapitre titre="Canada-États-Unis : la guerre commerciale s'intensifie">
-  On commence par le dossier qui domine l'actualité depuis vendredi. Selon Radio-Canada, le président américain Donald Trump a réagi à l'annonce de contre-tarifs par le premier ministre Mark Carney en affirmant, je le cite : "Ça suffit !" Fin de citation. Selon la BBC, Trump a aussi affirmé que le Canada veut, je le cite : "the benefits" d'être un État américain sans en assumer le statut. Fin de citation.
+  <chapitre titre="Canada et États-Unis : la guerre commerciale s'installe">
+    On commence avec le dossier qui continue de dominer l'actualité depuis vendredi. Selon la BBC, le président américain Donald Trump a affirmé que le Canada veut, je le cite : "the benefits of being a US state without being one." Fin de citation. Cette déclaration survient après l'entrée en vigueur de nouveaux tarifs américains de cinquante pour cent sur une gamme de produits canadiens.
 
-  Selon la BBC toujours, le premier ministre Carney a dit annoncer des tarifs de représailles à contrecœur, et a accusé les États-Unis d'avoir déclenché une guerre commerciale. Ces nouveaux tarifs américains, de cinquante pour cent sur une gamme de produits canadiens, sont entrés en vigueur au cours de la fin de semaine.
+    Selon CBC, l'envoyé commercial du premier ministre Mark Carney a affirmé que les négociations ont échoué en raison d'un désaccord sur le texte écrit d'une entente potentielle, la partie canadienne estimant que ce texte ne correspondait pas à ce qui avait été convenu verbalement.
 
-  Selon le National Post, l'envoyé commercial de Mark Carney à Washington affirme que les négociations ont échoué en raison d'un désaccord sur les termes écrits de l'entente : le texte proposé par la partie américaine ne correspondait pas, selon la partie canadienne, à ce qui avait été convenu verbalement.
+    Du côté politique américain, la grogne dépasse les lignes partisanes. Selon le National Post, des élus américains, dont au moins un républicain, ont averti que l'escalade tarifaire de Trump contre le Canada fera augmenter les coûts pour les familles et les entreprises américaines, tout en nuisant à une alliance de longue date. Toujours selon le National Post, des élus conservateurs canadiens réclament pour leur part que le gouvernement Carney dévoile les détails complets de l'entente proposée qui a échoué, un député conservateur affirmant que les Canadiens et le Parlement méritent de connaître ce qui était sur la table.
 
-  Toujours selon le National Post, des élus américains, dont au moins un républicain, dénoncent ce que l'un d'eux qualifie de conflit commercial chaotique, avertissant que l'escalade fera augmenter les coûts pour les familles et les entreprises américaines et nuira à une relation de longue date avec l'allié le plus proche des États-Unis.
+    L'impact se fait sentir jusque dans les gradins. Selon CBC, des amateurs de soccer ont hué l'hymne national américain en fin de semaine, en réaction à l'échec renouvelé des pourparlers commerciaux entre les deux pays.
 
-  Au pays, l'opposition demande des comptes. Selon CBC, un député conservateur réclame la publication intégrale des termes de l'entente commerciale rejetée par le Canada vendredi, plaidant que les Canadiens et le Parlement ont le droit de savoir ce qui était sur la table. La Presse rapporte la même demande de la part des conservateurs fédéraux.
-
-  Du côté québécois, selon Radio-Canada, la ministre de l'Économie Christine Fréchette réclame une riposte tarifaire qualifiée de stratégique. Québec ne serait pas nécessairement d'accord avec l'approche dollar pour dollar annoncée par Ottawa.
-
-  On continue de suivre l'évolution de ce dossier.
+    Selon Radio-Canada, la décision de Mark Carney pourrait avoir des conséquences importantes pour l'économie canadienne, et il faudra, tôt ou tard, revenir à la table de négociations.
   </chapitre>
 
-  <chapitre titre="International : tensions autour de l'Iran et guerres">
-  Sur le plan international, plusieurs dossiers chauds. D'abord l'Iran : selon Al Jazeera, au moins cent quarante-cinq pays ont rapporté des hausses du prix de l'essence depuis le début des attaques américaines et israéliennes contre l'Iran. Selon Reuters, les marchés boursiers et le pétrole ont reculé alors que les investisseurs attendent les détails de possibles nouvelles sanctions américaines contre l'Iran. Le Wall Street Journal rapporte que le pétrole a chuté en raison d'ajustements de position avant ces sanctions potentielles. Toujours selon Reuters, moins de vingt navires ont transité par le détroit d'Ormuz au cours de la fin de semaine, selon des données de circulation maritime.
+  <chapitre titre="Précampagne électorale québécoise">
+    À quelques semaines du déclenchement de la campagne électorale québécoise, plusieurs partis ont bougé ce week-end. Selon Radio-Canada, la Coalition avenir Québec a dévoilé son slogan de campagne, "Avançons", devenant la dernière des principales formations politiques à le faire. Toujours selon Radio-Canada, le Parti libéral du Québec accueille dans ses rangs l'avocate criminaliste Nada Boumeftah, qui sera candidate dans la circonscription de Maurice-Richard, à Montréal.
 
-  En Ukraine, selon CBC, le président Volodymyr Zelensky affirme que la tenue d'élections pendant la guerre risquerait, je le cite : "destroy" l'Ukraine. Fin de citation. Cette mise en garde survient après que l'ex-ministre de la Défense congédié, Mykhaïlo Fedorov, a réclamé la semaine dernière un vote en temps de guerre. Par ailleurs, selon Reuters, Zelensky affirme que l'Ukraine n'est pas responsable des explosions visant le gazoduc Nord Stream, et dit collaborer avec l'enquête en cours.
+    Par ailleurs, selon La Presse, un sondage Léger commandé par l'Ordre des ingénieurs du Québec révèle que la crise des infrastructures est devenue une priorité pour les Québécois, une importante proportion de Montréalais affirmant avoir déjà abîmé leur véhicule à cause des nids-de-poule.
 
-  Ailleurs, selon Al Jazeera, des équipes de l'Union européenne et un avion russe participent à la lutte contre d'importants feux de forêt en Serbie, alors qu'une chaleur extrême alimente des incendies dans les Balkans. Aux États-Unis, selon l'Associated Press, un feu de forêt se déplaçant rapidement, poussé par des vents changeants, menace la ville de Reno au Nevada, forçant l'évacuation de milliers de personnes.
+    Toujours selon La Presse, un dossier consacré à la Beauce met en lumière les enjeux de francisation des travailleurs étrangers, un secteur dont l'économie régionale ne peut plus se passer, où l'on réclame des candidats de la stabilité en francisation et du respect envers les personnes immigrantes.
 
-  En Chine, selon la BBC, les autorités enquêtent sur l'utilisation de formaldéhyde, un cancérigène, pour conserver la fraîcheur de choux destinés à la vente, une pratique interdite dans le pays qui est le plus grand producteur mondial de ce légume.
+    Enfin, La Presse rapporte que les libéraux de Mark Carney espèrent réussir un triplé lors des trois élections partielles fédérales du trente et un août, mais que la partie est loin d'être gagnée dans Chicoutimi, Le Fjord.
+  </chapitre>
+
+  <chapitre titre="International : Iran, Ukraine et le Moyen-Orient">
+    Sur le plan international, la pression sur l'Iran continue de s'intensifier. Selon le Financial Times, le secrétaire au Trésor américain Scott Bessent a affirmé qu'un, je le cite : "economic D-Day is coming for Iran." Fin de citation. Selon Al Jazeera, cette menace de pression économique maximale sur Téhéran comporte un risque de contrecoup de la part de Pékin, ce qui pourrait mettre à l'épreuve le rapprochement récent entre Washington et la Chine.
+
+    Selon le Wall Street Journal, les principaux dirigeants politiques iraniens réclament maintenant la fin du conflit. En parallèle, Reuters rapporte que moins de vingt navires ont transité par le détroit d'Ormuz en fin de semaine, une baisse marquée du trafic maritime dans ce corridor stratégique.
+
+    En Ukraine, à l'occasion du jour de l'indépendance, Reuters rapporte que le président Volodymyr Zelensky a affirmé que l'Ukraine veut la paix, mais ne cédera pas. Selon CBC, Zelensky a aussi affirmé que la tenue d'élections pendant la guerre reviendrait à, je le cite : "destroy Ukraine." Fin de citation, ajoutant qu'un tel vote diviserait le pays. Cette déclaration survient après que l'ancien ministre de la Défense congédié eut réclamé la tenue d'un scrutin en temps de guerre. Toujours selon Reuters, Zelensky affirme que l'Ukraine n'est pas derrière les explosions du gazoduc Nord Stream et coopère avec l'enquête en cours.
+
+    Ailleurs, selon Al Jazeera, l'implantation de la colonie de E1 menace la viabilité d'un futur État palestinien, mais pourrait néanmoins servir les intérêts électoraux du premier ministre israélien Benyamin Netanyahou et d'autres dirigeants d'extrême droite à l'approche d'élections.
+
+    Aux États-Unis, un important feu de forêt menace la région de Reno, au Nevada. Selon la BBC, l'incendie a déjà brûlé environ quatre mille deux cent cinquante hectares et demeure entièrement hors de contrôle. Selon l'Associated Press, les autorités ont demandé l'évacuation d'environ quatre-vingt-dix mille personnes, alors que des vents changeants compliquent le travail des pompiers.
   </chapitre>
 
   <chapitre titre="Économie et marchés">
-  On passe à l'économie. L'entrée en bourse la plus attendue de la semaine : selon la BBC, le géant de la mode éphémère Shein vise une valorisation boursière pouvant atteindre environ vingt-sept milliards de dollars américains lors de son entrée en bourse à Hong Kong. Selon Radio-Canada, cette valeur pourrait atteindre trente-sept milliards de dollars canadiens, et les actions doivent commencer à se négocier le premier septembre.
+    On passe à l'économie, où plusieurs dossiers se croisent. Selon Reuters, les actions et le pétrole ont reculé en attendant les détails des sanctions américaines contre l'Iran. Toujours selon Reuters, les actions de Samsung Electronics ont reculé après que l'entreprise eut annoncé des retours aux actionnaires jugés décevants malgré des sommets records.
 
-  En Asie, selon Reuters, le titre de Samsung Electronics a reculé après que l'entreprise a annoncé un programme record de retour de capital aux actionnaires, jugé décevant par les marchés. Selon Bloomberg, la Chine croît à un rythme de quatre pour cent, ce qui ravive, selon Goldman Sachs, les espoirs d'un assouplissement monétaire dans le pays. Toujours selon Reuters Business, la crise du secteur immobilier chinois se poursuit, après la condamnation de dirigeants du promoteur Evergrande.
+    Du côté chinois, Bloomberg rapporte que Goldman Sachs entrevoit un regain d'espoir pour un assouplissement monétaire, l'économie chinoise affichant une croissance de quatre pour cent. En parallèle, Reuters rapporte que la crise immobilière chinoise se poursuit, après la condamnation des dirigeants d'Evergrande.
 
-  Selon Bloomberg, les contrats à terme américains reculaient légèrement lundi, les investisseurs surveillant de près les dépenses liées à l'intelligence artificielle. Selon Reuters Business, la part de marché des véhicules électriques en Europe a dépassé vingt-cinq pour cent en juillet, portée notamment par la France et l'Allemagne.
+    Aux États-Unis, le Financial Times rapporte que le gouverneur de la Réserve fédérale Kevin Warsh tente d'apaiser les inquiétudes des investisseurs, alors que des signes de tension économique s'accumulent. Le Wall Street Journal rapporte de son côté que les rendements obligataires de la zone euro ont ouvert en baisse, les marchés attendant le symposium de Jackson Hole. Toujours selon Bloomberg, les contrats à terme américains ont légèrement reculé, les dépenses liées à l'intelligence artificielle demeurant au centre de l'attention des investisseurs.
 
-  Du côté des matières premières, comme mentionné plus tôt, le pétrole a reculé dans l'attente de précisions sur d'éventuelles sanctions américaines contre l'Iran.
-
-  Enfin, au Québec, selon La Presse, Ottawa et Québec ont adressé un avertissement musclé à Glencore, la société responsable de la Fonderie Horne. Les deux gouvernements soutiennent que l'entreprise ne peut invoquer l'importance des minéraux critiques dans la stratégie nationale canadienne pour se soustraire à ses obligations environnementales envers les citoyens de Rouyn-Noranda.
-
-  Toujours au Québec, selon Radio-Canada, le Collège LaSalle affirme traverser des difficultés financières importantes et réclame des solutions, disant avoir près de quarante-huit millions de dollars de dettes envers le gouvernement du Québec.
+    En Europe, Reuters rapporte que la part de marché des véhicules électriques a dépassé vingt-cinq pour cent des ventes en juillet, portée notamment par la France et l'Allemagne.
   </chapitre>
 
   <chapitre titre="Tech">
-  Un mot sur la tech. Selon TechCrunch, un nouveau modèle d'intelligence artificielle mystérieux baptisé Ox Alpha suscite une vague de spéculation sur son origine dans certains cercles technologiques.
+    Un mot sur la tech. Selon Reuters, Alibaba a lancé son nouveau modèle de génération vidéo par intelligence artificielle, baptisé Wan trois point zéro, à la suite d'une levée de fonds en bourse de dix milliards de dollars américains.
 
-  Toujours selon TechCrunch, l'autorité néerlandaise de protection des données impose à Uber une amende de près d'un milliard de dollars, soit huit cent vingt-cinq millions d'euros, la deuxième plus importante pénalité jamais imposée en vertu du règlement européen sur la protection des données. L'amende concerne des suspensions automatisées de chauffeurs.
+    Toujours en intelligence artificielle, TechCrunch rapporte qu'un modèle mystérieux baptisé Ox Alpha suscite une vague de spéculation dans certains cercles technologiques quant à son origine.
 
-  Du côté spatial, selon Ars Technica, la Chine reporte à deux mille vingt-sept sa mission lunaire Chang'e sept, initialement prévue cette année. Le programme spatial chinois invoque un principe de prudence et la nécessité d'assurer, je le cite : "absolute success". Fin de citation. Aucune explication détaillée n'a été fournie pour ce report depuis le site de lancement de Wenchang.
+    Du côté réglementaire, toujours selon TechCrunch, l'autorité néerlandaise de protection des données impose à Uber une amende de près d'un milliard de dollars américains, soit huit cent vingt-cinq millions d'euros, pour des suspensions automatisées de chauffeurs, la deuxième amende en importance jamais infligée sous le règlement européen sur la protection des données.
 
-  Enfin, selon The Economist, la Chine est en avance sur ses rivaux dans le développement de robots humanoïdes et en forme des milliers, mais les profits restent encore loin selon la publication.
+    Selon la BBC, près de trois millions de véhicules Tesla sont rappelés en Chine en raison de poignées de portes dissimulées jugées problématiques, un rappel qui touche aussi d'autres constructeurs chinois comme XPeng, Xiaomi et Geely.
+
+    Dans le domaine spatial, Ars Technica rapporte que la Chine reporte à deux mille vingt-sept sa mission lunaire Chang'e sept, invoquant le besoin d'assurer un succès absolu, sans fournir davantage de précisions sur les raisons de ce report.
+
+    Enfin, selon The Verge, des robots humanoïdes chinois ont battu le record du cent mètres établi par Usain Bolt en deux mille neuf, lors des Jeux mondiaux des robots humanoïdes à Pékin. Le robot Tiangong Ultra, développé par le centre d'innovation en robotique humanoïde de Pékin, a complété la distance en neuf virgule trente-neuf secondes, suivi du robot Lightning, développé par Honor, en neuf virgule quarante-sept secondes.
   </chapitre>
 
   <chapitre titre="Sport">
-  Rapidement en sport. Selon Sportsnet, la golfeuse japonaise Miyu Yamashita a remporté l'Omnium féminin canadien CPKC avec une performance record, s'imposant largement. La Canadienne Anna Huang a obtenu les honneurs de meilleure joueuse canadienne pour la première fois de sa carrière, poursuivant son excellent été.
+    Rapidement en sport. Selon Sportsnet, la golfeuse japonaise Miyu Yamashita a remporté l'Omnium féminin canadien CPKC avec une performance record, s'imposant largement. La Canadienne Anna Huang a obtenu les honneurs de meilleure joueuse canadienne pour la première fois de sa carrière.
 
-  Toujours selon Sportsnet, les Blue Jays de Toronto ont vu leur série de victoires prendre fin dimanche face aux Yankees de New York, mais l'équipe continue de se positionner en vue des séries face à une bonne partie de la Ligue américaine.
+    Toujours selon Sportsnet, les Blue Jays de Toronto ont vu leur série de victoires prendre fin dimanche face aux Yankees, mais l'équipe continue de se battre pour son positionnement dans la Ligue américaine.
 
-  En football canadien, selon Global News, les Lions de la Colombie-Britannique ont dominé les Roughriders de la Saskatchewan trente à seize.
-
-  En soccer, selon TVA Sports, l'international suisse Breel Embolo quitte le club de Rennes pour rejoindre Atlanta en MLS.
+    En football canadien, selon Global News, les Lions de la Colombie-Britannique ont dominé les Roughriders de la Saskatchewan par la marque de trente à seize.
   </chapitre>
 
   <outro>Voilà pour ce Presto du lundi vingt-quatre août deux mille vingt-six. Si ce briefing vous est utile, le meilleur coup de main que vous pouvez nous donner, c'est de le partager à une personne qui aime rester informée. Et selon votre plateforme : un abonnement sur Spotify ou Apple Podcasts, un pouce bleu et un abonnement sur YouTube, ça prend deux secondes et ça aide vraiment Presto à grandir. Sur ce, bonne journée, et à demain.</outro>
