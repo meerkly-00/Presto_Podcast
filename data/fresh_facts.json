@@ -1,54 +1,50 @@
 {
-  "generated_at": "2026-08-24T22:25:35.831076+00:00",
+  "generated_at": "2026-08-25T13:49:55.855311+00:00",
   "window_hours": 8,
   "faits": [
     {
-      "sujet": "Négociations commerciales Canada-États-Unis",
-      "fait": "Les pourparlers commerciaux entre le Canada et les États-Unis se sont effondrés vendredi soir, les deux parties s'accusant mutuellement de changements de dernière minute. Selon le National Post, le Premier ministre Mark Carney a déclaré que l'écart entre les pays était trop large pour conclure un accord."
+      "sujet": "Guerre commerciale Canada-États-Unis",
+      "fait": "Le Premier ministre Mark Carney a indiqué que le Canada répondrait « dollar pour dollar » aux tarifs américains, selon Global News et Radio-Canada."
     },
     {
-      "sujet": "Tarifs américains automobiles menacés",
-      "fait": "Donald Trump menace de porter à 50 % les tarifs dans le secteur automobile dès le 1er janvier 2027. Selon Radio-Canada, Trump a également menacé des tarifs de 50 % sur tous les véhicules automobiles et camions en provenance du Canada."
+      "sujet": "Renommage du lac Ontario",
+      "fait": "Le président Donald Trump déclare envisager « sérieusement » de rebaptiser le lac Ontario en « Lake America », selon La Presse et Le Devoir."
     },
     {
-      "sujet": "Contre-tarifs canadiens en réponse",
-      "fait": "En réponse aux tarifs américains de 50 %, le gouvernement canadien a annoncé que des contre-tarifs entreront en vigueur mardi 8 septembre. Selon Global News, cette mesure affectera les entreprises et consommateurs du Manitoba."
+      "sujet": "Restrictions électorales aux États-Unis",
+      "fait": "La Cour suprême américaine approuve préliminairement les restrictions du président Trump sur le vote par correspondance, affectant potentiellement un tiers des électeurs, selon CBC World."
     },
     {
-      "sujet": "Aluminium canadien réorienté vers l'Europe",
-      "fait": "Les producteurs d'aluminium canadiens auraient remplacé le marché des États-Unis par celui de l'Europe suite aux tarifs américains. Selon Radio-Canada, cette réorientation représente une adaptation face aux tarifs de 50 %."
+      "sujet": "Révocation de visas américains",
+      "fait": "L'administration Trump prépare la révocation des visas touristiques et commerciaux de jusqu'à 200 000 étrangers qui ont demandé l'asile ou le cherchent, selon Global News."
     },
     {
-      "sujet": "Sanctions américaines contre l'Iran annoncées",
-      "fait": "Le Secrétaire du Trésor américain Scott Bessent a menacé une 'asphyxie économique' de l'Iran et annoncé des sanctions contre les pays faisant affaires avec Téhéran. Selon le National Post, Bessent a décrit cette campagne comme un 'D-Day économique'."
+      "sujet": "Sanctions américaines contre l'Iran",
+      "fait": "Les États-Unis imposent des sanctions élargies contre l'Iran et menacent d'isoler les nations continuant à faire affaires avec Téhéran, selon BBC World et CBC World."
     },
     {
-      "sujet": "Approbation Trump au plus bas historique",
-      "fait": "Selon un sondage Reuters-Ipsos, l'approbation du président Trump se maintient à un niveau record bas tandis que le soutien public à la guerre contre l'Iran diminue. Selon Al Jazeera, cette baisse de soutien est attribuable à la chute du soutien républicain, à la hausse des prix du pétrole et aux craintes d'un conflit prolongé."
+      "sujet": "Attaque de drone en Russie",
+      "fait": "L'Ukraine frappe la raffinerie pétrolière Afipsky en Krasnodar, tuant deux personnes et provoquant un incendie, selon Al Jazeera."
     },
     {
-      "sujet": "Vice-président Vance critique le Canada",
-      "fait": "Le vice-président américain JD Vance a accusé le Canada de pratiques commerciales 'déloyales' et a promis que les États-Unis 'ripostera' face aux tarifs. Selon le National Post, Vance a involontairement appelé le Canada un État américain."
+      "sujet": "Accident aéroportuaire à Montréal",
+      "fait": "Un signaleur de piste âgé d'une quarantaine d'années meurt des suites de blessures reçues lors d'un accident à l'aéroport Montréal-Trudeau, selon Radio-Canada et La Presse."
     },
     {
-      "sujet": "Accord collectif WestJet ratifié",
-      "fait": "Les agents de bord de WestJet ont ratifié une nouvelle convention collective avec un taux d'approbation de 90,2 %. Selon CBC, cet accord représente un résultat significatif pour le syndicat des agents de bord."
+      "sujet": "Nouveaux processeurs Apple",
+      "fait": "Apple annonce les puces M6 et M5 Ultra, avec le Mac Mini disponible dès 899 $ et le Mac Studio dès 2 499 $ à partir du 22 septembre 2026, selon The Verge."
     },
     {
-      "sujet": "Enquête fédérale défaillances freins GM",
-      "fait": "Le gouvernement fédéral américain a approfondi son enquête de sécurité sur les défaillances de freins chez General Motors après avoir reçu des centaines de signalements. Selon Ars Technica, le problème affecte plus de 1,1 million de véhicules et implique des fractures de fuseau du système 'eBoost'."
+      "sujet": "Candidature CAQ au Québec",
+      "fait": "L'animatrice Claudine Desrochers devient candidate pour la CAQ, selon La Presse et Le Journal de Montréal."
     },
     {
-      "sujet": "Projet de logement social à Toronto",
-      "fait": "La maire de Toronto Olivia Chow a marqué le début des travaux d'un projet de logement public créant 74 nouveaux logements près du parc Trinity Bellwoods. Selon Global News, cet événement s'est déroulé lundi avec des représentants fédéraux."
+      "sujet": "Recul juridique Lockerbie",
+      "fait": "Le procès d'un Libyen accusé de l'attentat de Lockerbie (1988) est reporté pour la troisième fois suite à l'apparition de nouvelles preuves trois jours avant son début, selon BBC World."
     },
     {
-      "sujet": "IPO SpaceX Trump acquiert des actions",
-      "fait": "Le président Trump a acheté des actions SpaceX deux semaines après l'introduction en bourse, à un prix dans la fourchette de 150 dollars. Selon TechCrunch, l'action a clôturé lundi à son prix d'introduction de 135 dollars."
-    },
-    {
-      "sujet": "Règlement antitrust Zillow-Redfin",
-      "fait": "Zillow et Redfin ont conclu un règlement avec la FTC obligeant Redfin à réintégrer le secteur de la publicité immobilière. Selon TechCrunch, ce règlement clôt une affaire antitrust majeure entre les deux plateformes."
+      "sujet": "Catastrophe météorologique en France",
+      "fait": "Une tornade ravage le village de Pomaz dans le sud-ouest de la France, blessant des dizaines de personnes et endomageant des centaines de maisons, selon BBC World."
     }
   ]
 }
