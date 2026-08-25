@@ -1,50 +1,54 @@
 {
-  "generated_at": "2026-08-25T13:49:55.855311+00:00",
+  "generated_at": "2026-08-25T16:36:32.598920+00:00",
   "window_hours": 8,
   "faits": [
     {
       "sujet": "Guerre commerciale Canada-États-Unis",
-      "fait": "Le Premier ministre Mark Carney a indiqué que le Canada répondrait « dollar pour dollar » aux tarifs américains, selon Global News et Radio-Canada."
+      "fait": "Le Canada annonce des droits de douane de rétorsion de 20 milliards de dollars sur les produits américains, appliqués dollar pour dollar aux nouveaux tarifs américains. Selon Reuters et National Post, Mark Carney a indiqué vouloir répondre « dollar pour dollar » aux récents tarifs américains."
     },
     {
-      "sujet": "Renommage du lac Ontario",
-      "fait": "Le président Donald Trump déclare envisager « sérieusement » de rebaptiser le lac Ontario en « Lake America », selon La Presse et Le Devoir."
+      "sujet": "Tensions Doug Ford et Donald Trump",
+      "fait": "Le premier ministre de l'Ontario Doug Ford déclare à CNN que « les choses ont un peu chauffé » lors d'échanges avec le président Trump. Selon Global News, Ford a reconnu que « c'est devenu un peu personnel hier »."
     },
     {
-      "sujet": "Restrictions électorales aux États-Unis",
-      "fait": "La Cour suprême américaine approuve préliminairement les restrictions du président Trump sur le vote par correspondance, affectant potentiellement un tiers des électeurs, selon CBC World."
+      "sujet": "Trump renommer lac Ontario",
+      "fait": "Le président Donald Trump propose de renommer le lac Ontario en « lac de l'Amérique ». Selon Reuters, cette proposition intervient dans le contexte de la guerre commerciale avec le Canada."
     },
     {
-      "sujet": "Révocation de visas américains",
-      "fait": "L'administration Trump prépare la révocation des visas touristiques et commerciaux de jusqu'à 200 000 étrangers qui ont demandé l'asile ou le cherchent, selon Global News."
+      "sujet": "Polestar interdite de vente aux États-Unis",
+      "fait": "Le constructeur automobile Polestar est interdit de vendre de nouveaux véhicules aux États-Unis à partir du modèle 2027 pour des raisons de sécurité nationale liées à des logiciels connectés. Selon The Verge, le département du Commerce a rejeté sa demande d'exception, contrairement à sa société sœur Volvo approuvée en mai 2026."
     },
     {
-      "sujet": "Sanctions américaines contre l'Iran",
-      "fait": "Les États-Unis imposent des sanctions élargies contre l'Iran et menacent d'isoler les nations continuant à faire affaires avec Téhéran, selon BBC World et CBC World."
+      "sujet": "Visite du chef de la CIA à Moscou",
+      "fait": "Le chef de la CIA effectue une visite non annoncée à Moscou selon les données de suivi de vol. Selon BBC World, un avion militaire américain a voyagé vers la Russie en provenance des États-Unis via la Lettonie mardi."
     },
     {
-      "sujet": "Attaque de drone en Russie",
-      "fait": "L'Ukraine frappe la raffinerie pétrolière Afipsky en Krasnodar, tuant deux personnes et provoquant un incendie, selon Al Jazeera."
+      "sujet": "AI pour la radiologie médicale",
+      "fait": "Environ trois-quarts des 1 400 dispositifs médicaux activés par l'IA approuvés par la FDA au début 2026 sont destinés à la radiologie. Selon Ars Technica, le nombre de radiologues devrait augmenter de 26 % ou plus au cours des trois prochaines décennies malgré l'adoption de l'IA."
     },
     {
-      "sujet": "Accident aéroportuaire à Montréal",
-      "fait": "Un signaleur de piste âgé d'une quarantaine d'années meurt des suites de blessures reçues lors d'un accident à l'aéroport Montréal-Trudeau, selon Radio-Canada et La Presse."
+      "sujet": "Perte de francophonie fonction publique fédérale",
+      "fait": "La fonction publique fédérale a perdu 70 % de ses postes en français en 50 ans selon une étude d'un chercheur montréalais. Selon Le Devoir, cela représente un « effondrement total » du français dans cette institution."
     },
     {
-      "sujet": "Nouveaux processeurs Apple",
-      "fait": "Apple annonce les puces M6 et M5 Ultra, avec le Mac Mini disponible dès 899 $ et le Mac Studio dès 2 499 $ à partir du 22 septembre 2026, selon The Verge."
+      "sujet": "Chip OpenAI Jalapeño pour l'IA",
+      "fait": "OpenAI affirme que son nouveau chip Jalapeño offre de meilleures performances en termes de latence et débit comparé à la concurrence. Selon The Verge, le vice-président matériel d'OpenAI Richard Ho déclare que le chip présente « le meilleur des deux mondes »."
     },
     {
-      "sujet": "Candidature CAQ au Québec",
-      "fait": "L'animatrice Claudine Desrochers devient candidate pour la CAQ, selon La Presse et Le Journal de Montréal."
+      "sujet": "Incendie de forêt Nevada Reno",
+      "fait": "Un troisième incendie de forêt en deux semaines dans le Nevada laisse des milliers de personnes déplacées et est contenu à 27 %. Selon Al Jazeera, cet incendie dévaste les quartiers de Reno, ville accueillant des complexes de divertissement et casinos importants."
     },
     {
-      "sujet": "Recul juridique Lockerbie",
-      "fait": "Le procès d'un Libyen accusé de l'attentat de Lockerbie (1988) est reporté pour la troisième fois suite à l'apparition de nouvelles preuves trois jours avant son début, selon BBC World."
+      "sujet": "Robot chinois Tiangong 100 mètres",
+      "fait": "Un robot chinois nommé Tiangong parcourt 100 mètres en moins de 9 secondes à Pékin, soit 0,7 seconde plus rapide que le record mondial de 9,58 secondes établi par Usain Bolt. Selon Al Jazeera, cet exploit a été réalisé à Pékin."
     },
     {
-      "sujet": "Catastrophe météorologique en France",
-      "fait": "Une tornade ravage le village de Pomaz dans le sud-ouest de la France, blessant des dizaines de personnes et endomageant des centaines de maisons, selon BBC World."
+      "sujet": "Proteste étudiants fuites examens Inde",
+      "fait": "Des centaines d'étudiants s'affrontent avec la police mardi dans l'État du Bihar en Inde suite à des fuites d'examen alléguées. Selon Al Jazeera, cette manifestation est la plus récente d'une série de protestations contre ce problème."
+    },
+    {
+      "sujet": "Malware faux démo Grand Theft Auto VI",
+      "fait": "Un faux démo Grand Theft Auto VI en circulation est en réalité un logiciel malveillant. Selon TechCrunch, les fans du jeu attendu sont particulièrement vulnérables à cette cyberattaque."
     }
   ]
 }
