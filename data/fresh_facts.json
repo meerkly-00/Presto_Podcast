@@ -1,54 +1,50 @@
 {
-  "generated_at": "2026-08-25T16:36:32.598920+00:00",
+  "generated_at": "2026-08-25T19:31:09.331167+00:00",
   "window_hours": 8,
   "faits": [
     {
       "sujet": "Guerre commerciale Canada-États-Unis",
-      "fait": "Le Canada annonce des droits de douane de rétorsion de 20 milliards de dollars sur les produits américains, appliqués dollar pour dollar aux nouveaux tarifs américains. Selon Reuters et National Post, Mark Carney a indiqué vouloir répondre « dollar pour dollar » aux récents tarifs américains."
+      "fait": "Le Canada impose des contre-tarifs de 27,6 milliards de dollars et des mesures d'aide de 7,5 milliards de dollars en réponse aux tarifs américains, selon Radio-Canada. Mark Carney a indiqué vouloir répondre « dollar pour dollar » aux récents tarifs américains."
     },
     {
-      "sujet": "Tensions Doug Ford et Donald Trump",
-      "fait": "Le premier ministre de l'Ontario Doug Ford déclare à CNN que « les choses ont un peu chauffé » lors d'échanges avec le président Trump. Selon Global News, Ford a reconnu que « c'est devenu un peu personnel hier »."
+      "sujet": "Tarifs de rétorsion canadiens détaillés",
+      "fait": "Selon la BBC, le Canada annonce des tarifs de rétorsion pouvant atteindre 50 % sur des biens allant de l'acier aux meubles, du thon frais et du maquillage."
     },
     {
-      "sujet": "Trump renommer lac Ontario",
-      "fait": "Le président Donald Trump propose de renommer le lac Ontario en « lac de l'Amérique ». Selon Reuters, cette proposition intervient dans le contexte de la guerre commerciale avec le Canada."
+      "sujet": "Stability AI lève des fonds supplémentaires",
+      "fait": "Selon TechCrunch, Stability AI, fabricant du générateur d'images Stable Diffusion, lève 76 millions de dollars, portant son financement total à 232 millions de dollars."
     },
     {
-      "sujet": "Polestar interdite de vente aux États-Unis",
-      "fait": "Le constructeur automobile Polestar est interdit de vendre de nouveaux véhicules aux États-Unis à partir du modèle 2027 pour des raisons de sécurité nationale liées à des logiciels connectés. Selon The Verge, le département du Commerce a rejeté sa demande d'exception, contrairement à sa société sœur Volvo approuvée en mai 2026."
+      "sujet": "SpaceX construit un deuxième port spatial",
+      "fait": "Selon TechCrunch, SpaceX annonce la construction d'un deuxième Starbase estimé à 100 milliards de dollars en Louisiane, avec un début de construction prévu en 2027 et un vol Starship possible dès 2029."
     },
     {
-      "sujet": "Visite du chef de la CIA à Moscou",
-      "fait": "Le chef de la CIA effectue une visite non annoncée à Moscou selon les données de suivi de vol. Selon BBC World, un avion militaire américain a voyagé vers la Russie en provenance des États-Unis via la Lettonie mardi."
+      "sujet": "Google déploie Motion Assist sur Android",
+      "fait": "Selon Ars Technica, Google commence le déploiement de Motion Assist, une fonctionnalité anti-nausée, sur les téléphones Pixel exécutant Android 17."
     },
     {
-      "sujet": "AI pour la radiologie médicale",
-      "fait": "Environ trois-quarts des 1 400 dispositifs médicaux activés par l'IA approuvés par la FDA au début 2026 sont destinés à la radiologie. Selon Ars Technica, le nombre de radiologues devrait augmenter de 26 % ou plus au cours des trois prochaines décennies malgré l'adoption de l'IA."
+      "sujet": "Dreame abandonne son projet automobile",
+      "fait": "Selon The Verge, Dreame, fabricant chinois d'aspirateurs, ferme son projet automobile appelé « Project Starry Sky » après le tarissement du financement gouvernemental. La division ne compte plus que quelques employés en ressources humaines et affaires juridiques."
     },
     {
-      "sujet": "Perte de francophonie fonction publique fédérale",
-      "fait": "La fonction publique fédérale a perdu 70 % de ses postes en français en 50 ans selon une étude d'un chercheur montréalais. Selon Le Devoir, cela représente un « effondrement total » du français dans cette institution."
+      "sujet": "Levée de sanctions américaines envers la Syrie",
+      "fait": "Selon Al Jazeera, le retrait de la Syrie de la liste des pays terroristes américains offre un allègement majeur des sanctions et vise à stimuler la reconstruction post-conflit."
     },
     {
-      "sujet": "Chip OpenAI Jalapeño pour l'IA",
-      "fait": "OpenAI affirme que son nouveau chip Jalapeño offre de meilleures performances en termes de latence et débit comparé à la concurrence. Selon The Verge, le vice-président matériel d'OpenAI Richard Ho déclare que le chip présente « le meilleur des deux mondes »."
+      "sujet": "Australie interdit les chansons créées entièrement par IA",
+      "fait": "Selon CBC, l'Australie instaure de nouvelles règles interdisant les chansons créées entièrement par l'IA des classements musicaux officiels, suite à la viralité d'une reprise d'IA de « Like a Prayer » de Madonna."
     },
     {
-      "sujet": "Incendie de forêt Nevada Reno",
-      "fait": "Un troisième incendie de forêt en deux semaines dans le Nevada laisse des milliers de personnes déplacées et est contenu à 27 %. Selon Al Jazeera, cet incendie dévaste les quartiers de Reno, ville accueillant des complexes de divertissement et casinos importants."
+      "sujet": "Décès de Dolly Parton",
+      "fait": "Selon le National Post et Radio-Canada, la légende de la musique country Dolly Parton est décédée à l'âge de 80 ans, selon sa famille."
     },
     {
-      "sujet": "Robot chinois Tiangong 100 mètres",
-      "fait": "Un robot chinois nommé Tiangong parcourt 100 mètres en moins de 9 secondes à Pékin, soit 0,7 seconde plus rapide que le record mondial de 9,58 secondes établi par Usain Bolt. Selon Al Jazeera, cet exploit a été réalisé à Pékin."
+      "sujet": "Évacuation d'un centre de formation de l'ONU à Jérusalem-Est",
+      "fait": "Selon Radio-Canada, Israël évacue un centre de l'ONU créé en 1952 qui proposait une formation professionnelle annuelle à 340 Palestiniens de Cisjordanie occupée."
     },
     {
-      "sujet": "Proteste étudiants fuites examens Inde",
-      "fait": "Des centaines d'étudiants s'affrontent avec la police mardi dans l'État du Bihar en Inde suite à des fuites d'examen alléguées. Selon Al Jazeera, cette manifestation est la plus récente d'une série de protestations contre ce problème."
-    },
-    {
-      "sujet": "Malware faux démo Grand Theft Auto VI",
-      "fait": "Un faux démo Grand Theft Auto VI en circulation est en réalité un logiciel malveillant. Selon TechCrunch, les fans du jeu attendu sont particulièrement vulnérables à cette cyberattaque."
+      "sujet": "Décès liés à la rougeole en Pennsylvanie",
+      "fait": "Selon Ars Technica, deux personnes non vaccinées sont décédées de la rougeole en Pennsylvanie, les premiers décès de cette maladie dans l'État depuis 35 ans et les premiers aux États-Unis en 2026."
     }
   ]
 }
