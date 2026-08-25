@@ -1,50 +1,54 @@
 {
-  "generated_at": "2026-08-25T19:31:09.331167+00:00",
+  "generated_at": "2026-08-25T22:26:13.972271+00:00",
   "window_hours": 8,
   "faits": [
     {
-      "sujet": "Guerre commerciale Canada-États-Unis",
-      "fait": "Le Canada impose des contre-tarifs de 27,6 milliards de dollars et des mesures d'aide de 7,5 milliards de dollars en réponse aux tarifs américains, selon Radio-Canada. Mark Carney a indiqué vouloir répondre « dollar pour dollar » aux récents tarifs américains."
+      "sujet": "Tarifs de rétorsion canadiens",
+      "fait": "Le Canada a annoncé des tarifs de rétorsion « dollar pour dollar » contre les produits américains, atteignant jusqu'à 50%, portant sur des centaines de produits incluant l'acier, les meubles, le thon frais et le maquillage. Selon Reuters et BBC World, ces tarifs visent des biens d'une valeur de 20 milliards de dollars."
     },
     {
-      "sujet": "Tarifs de rétorsion canadiens détaillés",
-      "fait": "Selon la BBC, le Canada annonce des tarifs de rétorsion pouvant atteindre 50 % sur des biens allant de l'acier aux meubles, du thon frais et du maquillage."
-    },
-    {
-      "sujet": "Stability AI lève des fonds supplémentaires",
-      "fait": "Selon TechCrunch, Stability AI, fabricant du générateur d'images Stable Diffusion, lève 76 millions de dollars, portant son financement total à 232 millions de dollars."
-    },
-    {
-      "sujet": "SpaceX construit un deuxième port spatial",
-      "fait": "Selon TechCrunch, SpaceX annonce la construction d'un deuxième Starbase estimé à 100 milliards de dollars en Louisiane, avec un début de construction prévu en 2027 et un vol Starship possible dès 2029."
-    },
-    {
-      "sujet": "Google déploie Motion Assist sur Android",
-      "fait": "Selon Ars Technica, Google commence le déploiement de Motion Assist, une fonctionnalité anti-nausée, sur les téléphones Pixel exécutant Android 17."
-    },
-    {
-      "sujet": "Dreame abandonne son projet automobile",
-      "fait": "Selon The Verge, Dreame, fabricant chinois d'aspirateurs, ferme son projet automobile appelé « Project Starry Sky » après le tarissement du financement gouvernemental. La division ne compte plus que quelques employés en ressources humaines et affaires juridiques."
-    },
-    {
-      "sujet": "Levée de sanctions américaines envers la Syrie",
-      "fait": "Selon Al Jazeera, le retrait de la Syrie de la liste des pays terroristes américains offre un allègement majeur des sanctions et vise à stimuler la reconstruction post-conflit."
-    },
-    {
-      "sujet": "Australie interdit les chansons créées entièrement par IA",
-      "fait": "Selon CBC, l'Australie instaure de nouvelles règles interdisant les chansons créées entièrement par l'IA des classements musicaux officiels, suite à la viralité d'une reprise d'IA de « Like a Prayer » de Madonna."
+      "sujet": "Frais de visa H-1B américains",
+      "fait": "Le Département de la Sécurité intérieure américain a annoncé l'imposition de frais dépassant 103 000 dollars sur les visas H-1B. D'après The Verge, le Département d'État prévoit également la révocation des visas de jusqu'à 200 000 demandeurs d'asile."
     },
     {
       "sujet": "Décès de Dolly Parton",
-      "fait": "Selon le National Post et Radio-Canada, la légende de la musique country Dolly Parton est décédée à l'âge de 80 ans, selon sa famille."
+      "fait": "La légende de la musique country Dolly Parton est décédée à l'âge de 80 ans, selon l'annonce faite par sa famille le 25 août. Selon National Post et Radio-Canada, elle était connue pour des succès comme « Jolene » et « Coat of Many Colors »."
     },
     {
-      "sujet": "Évacuation d'un centre de formation de l'ONU à Jérusalem-Est",
-      "fait": "Selon Radio-Canada, Israël évacue un centre de l'ONU créé en 1952 qui proposait une formation professionnelle annuelle à 340 Palestiniens de Cisjordanie occupée."
+      "sujet": "Effondrement négociations commerciales Manitoba",
+      "fait": "Les négociations commerciales entre le Manitoba et les États-Unis se sont effondrées vendredi, selon le premier ministre Wab Kinew. D'après Global News, le Manitoba reprend l'envoi de soumissions favorisant les entreprises non-américaines après avoir retenu les appels d'offres pendant les négociations."
     },
     {
-      "sujet": "Décès liés à la rougeole en Pennsylvanie",
-      "fait": "Selon Ars Technica, deux personnes non vaccinées sont décédées de la rougeole en Pennsylvanie, les premiers décès de cette maladie dans l'État depuis 35 ans et les premiers aux États-Unis en 2026."
+      "sujet": "Montre intelligente Garmin Fenix 9",
+      "fait": "Garmin a lancé la nouvelle montre Fenix 9 avec un écran OLED d'une luminosité de 3 000 nits, soit deux fois plus brillant que son prédécesseur. Selon The Verge, le modèle base de 43 mm coûte 999,99 dollars et offre 50 % plus de RAM et 64 GB de stockage."
+    },
+    {
+      "sujet": "Rencontre CIA-Russie à Moscou",
+      "fait": "Le directeur de la CIA John Ratcliffe s'est rendu à Moscou mardi pour des réunions avec des officiels russes, selon des sources citées par les médias américains et confirmées par des données de suivi de vol. D'après CBC World et BBC World, un avion militaire américain a voyagé vers la Russie via la Lettonie."
+    },
+    {
+      "sujet": "Décès de rougeole en Pennsylvanie",
+      "fait": "Deux personnes non vaccinées sont décédées de la rougeole en Pennsylvanie, marquant les premiers décès américains de l'année. Selon National Post, ces décès interviennent lors de la plus grande épidémie de rougeole aux États-Unis en trois décennies."
+    },
+    {
+      "sujet": "Jeux mondiaux robots humanoïdes",
+      "fait": "Lors des Jeux mondiaux de robots humanoïdes à Pékin (22-26 août), des robots ont battu le record du 100 mètres d'Usain Bolt, mais plusieurs ont aussi subi des défaillances en s'arrêtant mal, se crashant ou prenant feu. D'après Ars Technica, l'événement teste les robots dans des scénarios comme la course, les arts martiaux, le football et les tâches domestiques."
+    },
+    {
+      "sujet": "Loi de preuve de citoyenneté Ohio",
+      "fait": "Un juge américain a bloqué une loi de l'Ohio exigeant une preuve de citoyenneté pour s'inscrire sur les listes électorales. Selon Al Jazeera, cette loi modifiée visait à réduire les allégations non prouvées de vote par des non-citoyens."
+    },
+    {
+      "sujet": "Remaster Witcher 3 annoncé",
+      "fait": "CD Projekt Red a annoncé un remaster de The Witcher 3: Wild Hunt avec améliorations visuelles, système de compétences réimaginé et inclusions des deux premières extensions. D'après The Verge, le jeu sera disponible à partir du 29 septembre et constituera une mise à niveau gratuite pour les propriétaires actuels; il sera également lancé sur Nintendo Switch 2."
+    },
+    {
+      "sujet": "X envoie mise en demeure à Nitter",
+      "fait": "X (anciennement Twitter) a adressé des mises en demeure au projet open source Nitter, exigeant la suppression de ses instances et de son code en raison de supposé scraping. Selon TechCrunch, Nitter propose des interfaces conviviales pour la confidentialité pour accéder à X."
+    },
+    {
+      "sujet": "Stability AI lève 76 millions dollars",
+      "fait": "Stability AI, créateur du générateur d'images Stable Diffusion, a levé 76 millions de dollars en financement frais. D'après TechCrunch, le total des levées de fonds de l'entreprise s'élève maintenant à 232 millions de dollars."
     }
   ]
 }
