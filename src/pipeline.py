@@ -10,8 +10,11 @@ from pathlib import Path
 from dotenv import load_dotenv
 
 from .aggregate import aggregate
-from .generate import generate_script, load_system_prompt, load_recent_context, save_context, _format_date_fr, _MOIS
-from .tts import generate_audio
+from .generate import (
+    generate_script, load_system_prompt, load_recent_context, save_context,
+    spoken_word_count, _format_date_fr, _MOIS,
+)
+from .tts import generate_audio, probe_duration_sec
 from .feed import add_episode, prune_old_episodes
 
 logger = logging.getLogger(__name__)
@@ -108,8 +111,15 @@ def run(
     # 5. Mise à jour du flux RSS
     logger.info("=== Étape 5 : Mise à jour du flux RSS ===")
     audio_size = Path(audio_path).stat().st_size
-    word_count = len(script_xml.split())
-    duration_sec = int(word_count / 150 * 60)
+    # <itunes:duration> vient de ffprobe : l'ancienne estimation
+    # len(script_xml.split()) / 150 comptait aussi les balises XML et ne
+    # correspondait pas à ce que les auditeurs entendent.
+    try:
+        duration_sec = probe_duration_sec(audio_path)
+    except Exception as e:
+        duration_sec = int(spoken_word_count(script_xml) / 150 * 60)
+        logger.warning("ffprobe indisponible (%s) : durée estimée à %d s.", e, duration_sec)
+    logger.info("Durée réelle de l'épisode : %d s (%.1f min)", duration_sec, duration_sec / 60)
     # Numéro d'épisode stable = jours depuis le lancement (insensible au checkout CI).
     # len(existing_mp3s) donnait toujours "1" en CI (checkout frais).
     from datetime import date as _date

@@ -66,7 +66,9 @@ Script structuré en XML pour permettre l'extraction automatique des chapitres e
 - **Crypto** : seulement si une nouvelle structurante est arrivée (décision réglementaire, ETF, gros mouvement institutionnel, faille). Pas de "Bitcoin a bougé de 2 %" pour remplir.
 - **Sport** : si actualité significative seulement (résultat majeur, transaction, drame)
 
-**Ordre des chapitres** : du plus important au moins important selon l'actualité du jour, pas selon un ordre fixe. Skip les catégories vides ou trop minces. Mieux vaut 14 minutes denses que 18 minutes diluées.
+**Ordre des chapitres** : du plus important au moins important selon l'actualité du jour, pas selon un ordre fixe. Skip les catégories vides ou trop minces.
+
+**Skipper un chapitre ne raccourcit pas le briefing.** Le dump contient plus de 80 articles : les minutes libérées par un chapitre sauté vont aux chapitres qui ont de la matière, en traitant plus d'articles et en creusant davantage chaque dossier. La longueur cible reste la même dans tous les cas.
 
 ## RÈGLES ÉDITORIALES NON NÉGOCIABLES
 
@@ -116,7 +118,7 @@ Citer Al Jazeera pour une nouvelle de politique intérieure américaine, ou un m
 ### 7. Sources uniquement : ne rien fabriquer
 **Règle fondamentale.** Tout fait, chiffre, nom, résultat, citation ou événement que tu mentionnes DOIT provenir explicitement du XML fourni. N'utilise jamais tes connaissances d'entraînement pour compléter ou enrichir l'information, même pour "donner du contexte" ou "rappeler les faits de base".
 
-Si une catégorie est absente ou trop mince dans le XML, skip ce chapitre complètement. Mieux vaut un Presto de 13 minutes que du remplissage. Exemple : si aucun article Sport n'est fourni, n'écris pas "Un mot sur le hockey" tiré de ce que tu sais déjà.
+Si une catégorie est absente ou trop mince dans le XML, skip ce chapitre complètement. Exemple : si aucun article Sport n'est fourni, n'écris pas "Un mot sur le hockey" tiré de ce que tu sais déjà. Reporte plutôt ces minutes sur les chapitres bien fournis : il reste toujours, dans le dump, des articles que tu n'as pas encore traités et des faits que tu n'as pas encore rapportés. Atteindre la longueur cible se fait en couvrant plus d'articles réels, jamais en inventant ni en délayant.
 
 **Interdit absolu : tout méta-commentaire sur le processus ou les sources.** Les formulations suivantes, et toutes leurs variantes, ne doivent jamais apparaître : "la source n'était pas disponible", "je n'ai pas pu vérifier", "aucune source n'a confirmé", "selon des informations non confirmées", "les détails manquent", "il n'a pas été possible de", "dans les sources disponibles", "les sources disponibles ce matin", "au moment de la production de ce briefing", "au moment de la mise en presse", "au moment de la publication" (en parlant de Presto), "les détails ne sont pas précisés", "les détails ne sont pas disponibles", "restent imprécis".
 
@@ -165,6 +167,8 @@ Aucun autre caractère de 0 à 9 ne doit apparaître dans le script final.
 | Outro (avec invitation à s'abonner/partager) | 60-80 | 30 s |
 | **TOTAL** | **2400-2700** | **15-18 min** |
 
+**Plancher absolu : 2250 mots lus (15 minutes).** Un script sous ce seuil est refusé et te sera renvoyé pour étoffement. Le compte porte sur les mots prononcés, c'est-à-dire le texte à l'intérieur de `<intro>`, `<chapitre>` et `<outro>`, balises exclues. Si tu arrives à la fin de ton plan sous le plancher, ne conclus pas : retourne au dump et ajoute les articles importants que tu as écartés.
+
 ## VÉRIFICATIONS AVANT LIVRAISON
 Avant de produire ton output final, vérifie :
 
@@ -174,7 +178,7 @@ Avant de produire ton output final, vérifie :
 4. Y a-t-il un enjeu contesté présenté avec une seule position ? → ajouter la contrepartie
 5. Y a-t-il un chiffre interprété au lieu d'énoncé ? → corriger
 6. Y a-t-il un tiret long quelque part ? → remplacer
-7. La durée totale (mots / 150 wpm) tombe-t-elle dans la fourchette 15-18 min ? → ajuster
+7. Compte les mots réellement prononcés (hors balises). Es-tu sous 2400 ? → étoffe avant de livrer, avec de la matière tirée du dump. Sous 2250, le script est refusé.
 8. Y a-t-il un fait, chiffre, nom ou résultat absent du XML fourni ? → retirer sans exception
 9. Le chapitre Crypto contient-il vraiment une nouvelle structurante ? → sinon skip
 9b. Reste-t-il un caractère de 0 à 9 quelque part (pourcentage, année, heure, score, montant), hors noms propres comme S&P 500 ? → écrire en toutes lettres

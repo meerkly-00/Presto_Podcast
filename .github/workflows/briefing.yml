@@ -52,7 +52,9 @@ jobs:
           TTS_PROVIDER: openai
           TTS_MODEL: tts-1
           TTS_VOICE: onyx
-          BRIEFING_DUREE_CIBLE: "15"
+          # 17 = milieu de la fourchette 15-18 du prompt système. À 15, le modèle
+          # visait le bas de la fourchette et livrait des épisodes de 9 à 12 min.
+          BRIEFING_DUREE_CIBLE: "17"
           BRIEFING_FENETRE_HEURES: "24"
           FEED_KEEP_DAYS: "3650"
 
@@ -88,7 +90,11 @@ jobs:
             echo "::warning::CLOUDFLARE_API_TOKEN manquant : pages générées mais site non déployé"
             exit 0
           fi
-          npx --yes wrangler@latest pages deploy site --project-name=presto --branch=main
+          if npx --yes wrangler@latest pages deploy site --project-name=presto --branch=main; then
+            exit 0
+          fi
+          echo "::error title=Déploiement Cloudflare échoué::L'épisode du $DATE est publié (release GitHub + feed.xml) et les abonnés l'ont reçu. Seul le site prestopodcast.online n'a pas été redéployé. Cause la plus probable : le secret CLOUDFLARE_API_TOKEN est expiré ou révoqué (Cloudflare renvoie « Invalid access token », code 9109). Correctif : régénérer un token Cloudflare avec la permission « Cloudflare Pages : Edit » sur le compte 9792329eba865912f37a61f51c448412, puis le remplacer dans Settings > Secrets and variables > Actions > CLOUDFLARE_API_TOKEN."
+          exit 1
         env:
           CLOUDFLARE_API_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
           CLOUDFLARE_ACCOUNT_ID: "9792329eba865912f37a61f51c448412"
@@ -97,9 +103,14 @@ jobs:
         if: failure()
         run: |
           gh label create incident --color B60205 --description "Échec d'un workflow automatisé" 2>/dev/null || true
+          if [ -f "output/audio/$DATE.mp3" ]; then
+            ETAT="✅ L'épisode audio du $DATE a été généré et publié : les abonnés l'ont reçu normalement. L'échec vient d'une étape postérieure, en général le déploiement du site (token Cloudflare expiré)."
+          else
+            ETAT="❌ L'épisode audio du $DATE n'a PAS été généré : aucun épisode n'est sorti aujourd'hui."
+          fi
           gh issue create \
             --title "⚠️ Briefing Presto échoué — $DATE" \
-            --body "Le workflow briefing a échoué. Voir le run : $GITHUB_SERVER_URL/$GITHUB_REPOSITORY/actions/runs/$GITHUB_RUN_ID" \
+            --body "$ETAT"$'\n\n'"Voir le run : $GITHUB_SERVER_URL/$GITHUB_REPOSITORY/actions/runs/$GITHUB_RUN_ID" \
             --label "incident" 2>/dev/null || echo "::error::Briefing échoué pour $DATE (création d'issue impossible)"
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}

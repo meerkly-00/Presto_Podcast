@@ -104,12 +104,69 @@ def strip_meta_source_commentary(script_xml: str) -> tuple[str, int]:
     return cleaned, n
 
 
+# Cadence de planification. La cadence réelle du TTS mesurée sur les épisodes
+# publiés est un peu plus lente (2026-08-25 : 1861 mots lus pour 13 min, soit
+# ~143 mots/minute) ; garder 150 ici fait viser un peu long plutôt qu'un peu
+# court, ce qui est le bon sens de l'erreur pour un briefing de 15 à 18 min.
+_WPM = 150
+
+# Plancher accepté avant relance : sous ce ratio de la cible, on redemande au
+# modèle d'étoffer. 0.88 de 17 min = 15 min, la durée annoncée aux auditeurs.
+_LENGTH_FLOOR_RATIO = 0.88
+
+
+def spoken_word_count(script_xml: str) -> int:
+    """Nombre de mots réellement prononcés, balises XML exclues.
+
+    len(script_xml.split()) comptait aussi les balises et les attributs : il
+    surestimait la durée. Seul le texte de <intro>, <chapitre> et <outro> est
+    envoyé au TTS, c'est donc lui seul qui fait la durée de l'épisode.
+    """
+    bodies = re.findall(
+        r"<(?:intro|chapitre[^>]*|outro)>(.*?)</(?:intro|chapitre|outro)>",
+        script_xml,
+        re.DOTALL,
+    )
+    text = re.sub(r"<[^>]+>", " ", " ".join(bodies))
+    return len(text.split())
+
+
 def _msg_text(msg) -> str:
     """Extrait le bloc texte (les modèles à réflexion renvoient d'abord un ThinkingBlock)."""
     for block in msg.content:
         if getattr(block, "type", "") == "text":
             return block.text
     return ""
+
+
+def _call_claude(client, model: str, system_prompt: str, messages: list[dict]) -> str:
+    """Un appel Claude qui renvoie le script nettoyé de ses méta-commentaires.
+
+    max_tokens plafonne la réflexion ET le texte. claude-sonnet-5 active la
+    réflexion adaptative par défaut : le 2026-08-09, elle a consommé les 8192
+    tokens sans laisser de place au script (stop_reason=max_tokens, zéro bloc
+    texte). On la désactive, le briefing n'en a pas besoin, et on garde de la
+    marge sur max_tokens.
+    """
+    message = client.messages.create(
+        model=model,
+        max_tokens=16000,
+        thinking={"type": "disabled"},
+        system=system_prompt,
+        messages=messages,
+    )
+
+    script = _msg_text(message)
+    if not script.strip():
+        raise RuntimeError(
+            f"Claude {model} n'a renvoyé aucun bloc texte "
+            f"(stop_reason={getattr(message, 'stop_reason', '?')})."
+        )
+
+    script, n_meta = strip_meta_source_commentary(script)
+    if n_meta:
+        logger.warning("Filtre méta-sources : %d phrase(s) supprimée(s) du script.", n_meta)
+    return script
 
 
 def generate_script(
@@ -138,33 +195,66 @@ def generate_script(
     client = anthropic.Anthropic(api_key=os.getenv("ANTHROPIC_API_KEY"))
 
     logger.info("Appel Claude %s ...", model)
-    # max_tokens plafonne la réflexion ET le texte. claude-sonnet-5 active la
-    # réflexion adaptative par défaut : le 2026-08-09, elle a consommé les 8192
-    # tokens sans laisser de place au script (stop_reason=max_tokens, zéro bloc
-    # texte). On la désactive — le briefing n'en a pas besoin — et on garde de
-    # la marge sur max_tokens.
-    message = client.messages.create(
-        model=model,
-        max_tokens=16000,
-        thinking={"type": "disabled"},
-        system=system_prompt,
-        messages=[{"role": "user", "content": user_message}],
-    )
+    script = _call_claude(client, model, system_prompt, [
+        {"role": "user", "content": user_message},
+    ])
 
-    script = _msg_text(message)
-    if not script.strip():
-        raise RuntimeError(
-            f"Claude {model} n'a renvoyé aucun bloc texte "
-            f"(stop_reason={getattr(message, 'stop_reason', '?')})."
+    # Le modèle livre régulièrement bien en deçà de la cible du prompt système
+    # (2026-08-23 : 1367 mots lus, soit 9 min au lieu de 15). On mesure et on
+    # relance une fois pour étoffer à partir du même dump d'articles.
+    target_words = duree_cible * _WPM
+    floor_words = int(target_words * _LENGTH_FLOOR_RATIO)
+    spoken = spoken_word_count(script)
+
+    if spoken < floor_words:
+        logger.warning(
+            "Script court : %d mots lus (~%.1f min) pour une cible de %d mots "
+            "(%d min, plancher %d mots). Relance pour étoffer.",
+            spoken, spoken / _WPM, target_words, duree_cible, floor_words,
+        )
+        rallonge = (
+            f"Ce script fait {spoken} mots réellement lus, soit environ "
+            f"{spoken / _WPM:.0f} minutes. La cible est de {duree_cible} minutes, "
+            f"soit environ {target_words} mots lus, et le plancher absolu est de "
+            f"{floor_words} mots.\n\n"
+            "Réécris le script AU COMPLET pour atteindre la cible, en puisant "
+            "uniquement dans le XML d'articles déjà fourni ci-dessus :\n"
+            "- traite les articles importants que tu as laissés de côté ;\n"
+            "- ajoute les chapitres pertinents qui manquent ;\n"
+            "- approfondis les dossiers majeurs avec le contexte, les chiffres "
+            "et les positions des acteurs qui sont dans les articles.\n\n"
+            "La règle 7 reste absolue : aucun fait, chiffre, nom ou citation qui "
+            "ne vient pas du XML. Pas de remplissage, pas de redites, pas de "
+            "formules creuses : de la matière factuelle en plus. Toutes les "
+            "autres règles du prompt système s'appliquent telles quelles.\n\n"
+            "Renvoie uniquement le script XML complet, rien d'autre."
+        )
+        try:
+            rallonge_script = _call_claude(client, model, system_prompt, [
+                {"role": "user", "content": user_message},
+                {"role": "assistant", "content": script},
+                {"role": "user", "content": rallonge},
+            ])
+        except Exception as e:
+            logger.error("Relance d'étoffement échouée (%s) : on garde le script court.", e)
+        else:
+            rallonge_spoken = spoken_word_count(rallonge_script)
+            if rallonge_spoken > spoken:
+                script, spoken = rallonge_script, rallonge_spoken
+            else:
+                logger.warning(
+                    "La relance n'a pas allongé le script (%d mots lus) : "
+                    "on garde la version initiale.", rallonge_spoken,
+                )
+
+    if spoken < floor_words:
+        logger.warning(
+            "Script toujours sous le plancher : %d mots lus (~%.1f min).",
+            spoken, spoken / _WPM,
         )
 
-    script, n_meta = strip_meta_source_commentary(script)
-    if n_meta:
-        logger.warning("Filtre méta-sources : %d phrase(s) supprimée(s) du script.", n_meta)
-
     logger.info(
-        "Script généré : ~%d mots, ~%.0f min de lecture",
-        len(script.split()),
-        len(script.split()) / 150,
+        "Script généré : %d mots lus, ~%.1f min de lecture (cible %d min)",
+        spoken, spoken / _WPM, duree_cible,
     )
     return script

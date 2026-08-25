@@ -244,6 +244,11 @@ def _get_duration_ms(audio_path: str) -> int:
     return int(float(json.loads(result.stdout)["format"]["duration"]) * 1000)
 
 
+def probe_duration_sec(audio_path: str) -> int:
+    """Durée réelle du MP3 en secondes, mesurée par ffprobe."""
+    return round(_get_duration_ms(audio_path) / 1000)
+
+
 def _concat_audio(segment_paths: list[str], output_path: str) -> None:
     """Concatène les segments et normalise le volume à -16 LUFS (standard podcast EBU R128)."""
     with tempfile.NamedTemporaryFile("w", suffix=".txt", delete=False, encoding="utf-8") as f:
