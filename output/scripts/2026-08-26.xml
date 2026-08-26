@@ -1,0 +1,83 @@
+```xml
+<script>
+  <intro>Bonjour, on est le mercredi vingt-six août deux mille vingt-six. Voici votre Presto en environ quinze minutes. Au menu : la guerre commerciale entre le Canada et les États-Unis qui s'envenime, les tensions internationales autour de l'Iran, la précampagne électorale québécoise, l'économie et les marchés à la veille des résultats de Nvidia, et un mot sur la tech.</intro>
+
+  <chapitre titre="Canada et États-Unis : la guerre commerciale s'envenime">
+    On commence avec le dossier qui domine l'actualité depuis vendredi dernier. Selon Reuters, le Canada a imposé des tarifs de rétorsion sur des produits américains d'une valeur de vingt milliards de dollars, en réponse aux nouveaux tarifs américains. Selon la BBC, ces tarifs dollar pour dollar peuvent atteindre cinquante pour cent sur des biens allant de l'acier au mobilier, en passant par le thon frais et les cosmétiques.
+
+    Selon le National Post, un représentant de la Maison-Blanche affirme que l'administration Trump envisage maintenant des pénalités commerciales additionnelles contre le Canada, en réaction à cette riposte.
+
+    La tension a aussi pris une tournure personnelle. Selon La Presse, le premier ministre de l'Ontario Doug Ford avait invité Donald Trump à lui embrasser le derrière dans une déclaration largement diffusée aux États-Unis, en le traitant de perdant. Selon le National Post, Ford affirme maintenant s'être laissé emporter dans cet échange d'insultes et promet une approche différente, tout en maintenant son appui au plan de rétorsion du Canada.
+
+    Du côté américain, le ton reste dur. Selon CBC, la Maison-Blanche a publié mardi une liste de ce qu'elle présente comme des faits sur le Canada, dépeignant le pays comme fautif dans le dossier commercial. CBC précise que certaines de ces affirmations sont exactes, tandis que d'autres relèvent de l'opinion de l'administration Trump plutôt que de faits vérifiables.
+
+    Toutes les voix ne sont pas à la confrontation. Selon CBC, le gouverneur de la Californie Gavin Newsom affirme croire fermement que Trump renouera avec les négociations commerciales avec le Canada d'ici quelques jours, sous la pression de son propre parti républicain.
+
+    Du côté des entreprises, les effets se font sentir des deux côtés de la frontière. Selon le National Post, le constructeur automobile Honda affirme qu'il pourrait ne pas construire de nouvelle usine en Amérique du Nord sans une prolongation de l'entente commerciale actuelle. À l'inverse, selon le National Post, le vignoble britanno-colombien Lightning Rock souligne que même avec des tarifs américains de cinquante pour cent, il reste moins cher pour les Américains d'acheter du vin de la Colombie-Britannique que d'en acheter au Canada même, en raison des majorations de prix imposées à l'intérieur du pays.
+
+    Selon La Presse, plusieurs Américains vivant près de la frontière disent ressentir de la honte face aux nouvelles attaques économiques de Trump contre le Canada, et plusieurs espèrent que les élections de mi-mandat viendront freiner cette escalade.
+  </chapitre>
+
+  <chapitre titre="International : Iran, Moscou et tensions multiples">
+    Sur le plan international, le dossier iranien continue d'occuper l'espace diplomatique. Selon CBC, l'Iran se dit prêt à répondre fermement à l'élargissement des sanctions américaines, tout en exprimant sa confiance que ses principaux partenaires commerciaux résisteront à la pression de Washington. Selon la BBC, la Chine qualifie ces nouvelles sanctions américaines contre l'Iran et ses partenaires commerciaux d'illégales, Pékin étant lui-même un acheteur important de pétrole iranien.
+
+    Selon l'Associated Press, l'Iran et Oman ont tenu des discussions sur la gestion du détroit d'Ormuz. Selon Reuters, les marchés boursiers mondiaux ont progressé et le pétrole a reculé, les investisseurs anticipant un apaisement des tensions autour de ce détroit stratégique.
+
+    Autre développement à surveiller : selon la BBC, le directeur de la CIA s'est rendu à Moscou pour des discussions non annoncées, une information confirmée par des données de suivi de vol montrant qu'un avion militaire américain a rejoint la Russie via la Lettonie mardi.
+
+    Ailleurs, selon Al Jazeera, un village bulgare situé près d'une base où étaient stationnés des avions ravitailleurs de l'armée de l'air américaine a vécu dans l'inquiétude de devenir une cible iranienne. Le départ de ces appareils a apporté un certain soulagement, mais les tensions persistent dans la région, selon Al Jazeera.
+
+    Du côté d'Haïti, selon Al Jazeera, le bilan d'un raid de gang s'élève maintenant à quarante-sept morts, avec plus de cinquante personnes enlevées, selon les Nations unies. Le secrétaire général de l'ONU Antonio Guterres a affirmé, je le cite : "the alarming security situation in Haiti." Fin de citation, en référence à la situation sécuritaire créée par les gangs.
+
+    Au Pakistan, selon CBC, un incendie survenu tôt mercredi dans la pouponnière d'un grand hôpital gouvernemental de la capitale a fait quatorze morts parmi des nouveau-nés. Les autorités ont ordonné une enquête immédiate.
+
+    En France, selon l'Associated Press, une tornade a traversé un village du sud du pays, endommageant environ trois cents habitations.
+  </chapitre>
+
+  <chapitre titre="Précampagne électorale québécoise">
+    À l'approche du déclenchement attendu de la campagne électorale provinciale, plusieurs partis continuent de peaufiner leur message. Selon Radio-Canada, deux spécialistes de la communication politique ont analysé les slogans dévoilés par les principales formations, cherchant à décoder ce qu'ils tentent de communiquer aux électeurs.
+
+    Toujours selon Radio-Canada, le programme des bourses Perspective de la Coalition avenir Québec, doté d'un milliard trois cents millions de dollars, est qualifié par plusieurs acteurs du milieu de l'enseignement d'échec dès son lancement, ce programme visant à répondre à la pénurie de main-d'œuvre.
+
+    Du côté du Devoir, un éditorial souligne que la guerre tarifaire avec les États-Unis ne peut pas tout éclipser dans cette campagne, au risque que le Québec se retrouve avec un gouvernement de surprises au lendemain du scrutin prévu le cinq octobre. Toujours au Devoir, un texte d'opinion rappelle que les enfants demeurent les grands oubliés des campagnes électorales, ceux-ci ayant besoin de stabilité et d'adultes capables de les accompagner.
+
+    La Presse note aussi qu'à la veille du déclenchement attendu de la campagne, la récolte de candidats est jugée hâtive et plutôt bonne cette année.
+  </chapitre>
+
+  <chapitre titre="Économie et marchés">
+    On passe à l'économie, dominée par la nervosité entourant les résultats attendus de Nvidia et les indicateurs d'inflation américains. Selon Bloomberg, les actions et les obligations américaines ont reculé, les investisseurs attendant à la fois les résultats de Nvidia et les données sur les dépenses de consommation personnelle, un indicateur d'inflation suivi de près par la Réserve fédérale.
+
+    Selon Reuters, les actions mondiales ont néanmoins progressé et le pétrole a reculé, dans un contexte d'espoirs d'apaisement autour du détroit d'Ormuz. Selon l'Associated Press, cette baisse des prix du pétrole a contribué à calmer les marchés boursiers et obligataires.
+
+    Du côté des taux d'intérêt, plusieurs banques centrales envoient des signaux distincts. Selon Bloomberg, une dirigeante de la Banque centrale européenne, Isabel Schnabel, affirme que les taux doivent encore augmenter étant donné la résilience de l'économie. Selon Reuters, une dirigeante de la Réserve fédérale, Susan Collins, soutient de son côté que les taux américains doivent aussi grimper bientôt, en l'absence de preuves d'une baisse continue de l'inflation.
+
+    Le dossier commercial canado-américain continue par ailleurs de peser sur l'analyse économique. Selon le Financial Times, le secrétaire au Trésor américain Scott Bessent est entré en collision avec la Réserve fédérale en intervenant directement sur le marché obligataire. Selon le Wall Street Journal, les nouveaux tarifs canadiens font l'objet d'une analyse quant à leur effet potentiel sur l'économie américaine, alors que l'action du détaillant Dick's a particulièrement souffert dans la séance de mardi, selon le résumé quotidien du journal.
+
+    En entreprise, selon le Financial Times, SpaceX s'est engagée à investir cent milliards de dollars américains dans une base spatiale en Louisiane. Selon Reuters, l'entreprise allemande Siemens Energy prévoit se départir de son unité industrielle pour se concentrer sur les turbines à gaz et les réseaux électriques.
+
+    Selon le Financial Times, le Fonds monétaire international affirme que l'intelligence artificielle alimentera la croissance mondiale, cet investissement se répandant désormais au-delà des États-Unis.
+  </chapitre>
+
+  <chapitre titre="Tech">
+    Un mot sur la tech. Selon TechCrunch, OpenAI a perdu un haut dirigeant responsable de ses centres de données, dans la foulée d'une série de départs de figures importantes de l'entreprise. Dans une déclaration à TechCrunch, OpenAI affirme avoir récemment réorganisé son organisation d'infrastructure pour soutenir l'échelle et le rythme de ses activités.
+
+    Selon Reuters, le fondateur de Microsoft Bill Gates, préoccupé par l'intelligence artificielle, souhaite discuter d'idées de politiques publiques avec le président chinois Xi Jinping.
+
+    Toujours en intelligence artificielle appliquée à la robotique, selon TechCrunch, la jeune pousse Generalist a atteint une valorisation de trois milliards de dollars américains, à peine quelques mois après avoir atteint les deux milliards, à la faveur d'un financement additionnel de deux cents millions de dollars.
+
+    Selon Ars Technica, les deuxièmes Jeux mondiaux des robots humanoïdes, tenus à Pékin, ont montré des robots capables de battre le record humain du cent mètres détenu par Usain Bolt, mais aussi des robots s'effondrant, prenant feu ou se brisant à la taille dans une gerbe d'étincelles. L'événement, organisé notamment par les médias d'État chinois et la ville de Pékin, visait à démontrer le potentiel commercial de la robotique humanoïde.
+
+    Du côté de l'immigration technologique, selon The Verge, le département de la Sécurité intérieure américain a annoncé la mise en place de frais dépassant cent trois mille dollars sur les visas H-un-B, très utilisés par les grandes entreprises technologiques. Toujours selon The Verge, le département d'État prévoit aussi révoquer les visas de jusqu'à deux cent mille demandeurs d'asile, ce qui constituerait selon l'Associated Press la plus importante révocation massive de visas de l'histoire américaine.
+
+    Enfin, selon Ars Technica, SpaceX réduit significativement le nombre de lancements depuis la Floride, qui demeurait jusqu'ici le site le plus achalandé au monde, en attendant l'arrivée de son véhicule Starship, privilégiant désormais davantage son site de lancement de la côte ouest en Californie.
+  </chapitre>
+
+  <chapitre titre="Sport">
+    Rapidement en sport. Selon Sportsnet, les Blue Jays de Toronto ont subi une défaite frustrante contre les Royals de Kansas City mardi, des erreurs coûteuses ayant fait basculer la rencontre, le match se terminant sur un retrait alors que le joueur de champ droit Nathan Lukes tentait de transformer un coup sûr en double.
+
+    Toujours selon Sportsnet, les discussions contractuelles entourant les joueurs de la Ligue nationale de hockey Quinn Hughes et Cale Makar font l'objet d'un suivi, respectivement avec le Wild du Minnesota et l'Avalanche du Colorado.
+  </chapitre>
+
+  <outro>Voilà pour ce Presto du mercredi vingt-six août deux mille vingt-six. Si ce briefing vous est utile, le meilleur coup de main que vous pouvez nous donner, c'est de le partager à une personne qui aime rester informée. Et selon votre plateforme : un abonnement sur Spotify ou Apple Podcasts, un pouce bleu et un abonnement sur YouTube, ça prend deux secondes et ça aide vraiment Presto à grandir. Sur ce, bonne journée, et à demain.</outro>
+</script>
+```
