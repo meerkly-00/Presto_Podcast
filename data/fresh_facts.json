@@ -1,54 +1,26 @@
 {
-  "generated_at": "2026-08-26T13:54:29.318912+00:00",
+  "generated_at": "2026-08-26T16:48:06.316690+00:00",
   "window_hours": 8,
   "faits": [
     {
-      "sujet": "Meta settlement enfants réseaux sociaux",
-      "fait": "Meta a conclu un règlement de 16,68 à 18 milliards de dollars avec 29 États américains concernant les préjudices causés aux mineurs par ses plateformes. Selon Reuters, TechCrunch et CBC World, ce règlement a été atteint pendant un procès fédéral en Californie et évite un des procès les plus médiatisés sur les allégations de préjudices des réseaux sociaux aux jeunes utilisateurs."
+      "sujet": "Élections québécoises déclenchées",
+      "fait": "La première ministre Christine Fréchette déclenchera les élections jeudi. Elle prévoit de défier Éric Duhaime dans Bellechasse et de protéger des circonscriptions de l'Est menacées par le Parti québécois. Sa première promesse sera un coup de pouce financier aux familles. (Selon La Presse et Radio-Canada)"
     },
     {
-      "sujet": "Meta restrictions utilisateurs adolescents",
-      "fait": "Dans le cadre du règlement, Meta s'est engagée à mettre en place un système de vérification d'âge soumis à des tests indépendants avec un taux de faux positifs maximal de 10% pour les 16-17 ans et 3% pour les 13-15 ans. D'après The Verge, Meta permettra également aux adolescents de désactiver les fils d'actualité personnalisés et suspendra les notifications push."
+      "sujet": "Crues éclair Népal-Tibet",
+      "fait": "Au moins 98 personnes ont été tuées et des centaines sont portées disparues après des crues éclair au Népal et en Chine, dont 24 Canadiens selon les autorités locales. Les forces armées et policières du Népal participent aux opérations de recherche. (Selon Al Jazeera, Associated Press et Radio-Canada)"
     },
     {
-      "sujet": "Inondations flash Népal avalanche",
-      "fait": "Au moins 22 personnes ont été tuées et des centaines sont portées disparues après des inondations éclair en Népal déclenchées par une avalanche. Selon CBC et Associated Press, les inondations ont causé des dégâts étendus aux villages et infrastructures, affectant touristes et travailleurs."
+      "sujet": "Accord Meta restrictions accès enfants",
+      "fait": "Meta a accepté des changements importants pour restreindre l'accès des enfants à ses applications dans le cadre d'un règlement avec les États. Une limite quotidienne de deux heures pour les adolescents, désactivable uniquement avec permission parentale, est prévue. (Selon TechCrunch)"
     },
     {
-      "sujet": "Économie États-Unis expansion 1,5%",
-      "fait": "L'économie américaine s'est développée de 1,5% avec les dépenses et investissements révisés à la hausse. D'après Bloomberg, cette expansion a été annoncée le 26 août 2026."
+      "sujet": "Contre-tarifs canadiens annoncés",
+      "fait": "Le gouvernement fédéral a publié une liste de produits américains qui seront soumis à des contre-tarifs entre 15 et 50 % à partir du 8 septembre, suite à l'effondrement des pourparlers commerciaux entre le Canada et les États-Unis. (Selon National Post)"
     },
     {
-      "sujet": "Ring chiffrement données vidéo",
-      "fait": "Ring a développé une méthode de chiffrement appelée TAKE (Throw Away the Key Encryption) qui limite l'accès des données vidéo par Amazon tout en préservant les fonctionnalités comme les alertes intelligentes. Selon The Verge, cette protection deviendra le chiffrement par défaut pour tous les clients Ring à partir de septembre 2026."
-    },
-    {
-      "sujet": "IBM Granite 4.2 modèles LLM",
-      "fait": "IBM a lancé ses nouveaux modèles Granite 4.2 conçus pour être téléchargés et auto-hébergés, disponibles en variants de 3B, 8B et 30B paramètres avec une fenêtre de contexte de 128 000 tokens. D'après Ars Technica, les variantes 8B et 30B incluent un bloc d'apprentissage par renforcement agentic pour des capacités étendues."
-    },
-    {
-      "sujet": "Bluesky vidéos 10 minutes support",
-      "fait": "Bluesky permet désormais aux utilisateurs de télécharger des vidéos d'une durée pouvant atteindre 10 minutes avec des vitesses de téléchargement plus rapides. D'après TechCrunch, cette nouvelle fonctionnalité a été mise en place le 26 août 2026."
-    },
-    {
-      "sujet": "Deux employés Air Canada trafic drogue",
-      "fait": "Deux employés d'Air Canada à l'aéroport Montréal-Trudeau ont été arrêtés pour suspicion de facilitation d'importation de cocaïne et d'exportation de cannabis. Selon La Presse, l'arrestation a eu lieu mercredi matin par la Gendarmerie royale du Canada."
-    },
-    {
-      "sujet": "Commission construction Québec incident informatique",
-      "fait": "Un incident informatique a paralysé les services en ligne et téléphoniques de la Commission de la construction du Québec depuis lundi 25 août. D'après La Presse, les services demeurent actuellement inaccessibles."
-    },
-    {
-      "sujet": "Incendie hôpital Pakistan 14 nouveaunés",
-      "fait": "Un incendie dans un hôpital à Islamabad, capitale du Pakistan, a tué 14 nouveaunés. Selon BBC World et Global News, le gouvernement a ouvert une enquête et le ministre de la Santé a été ordonné d'être retiré de ses fonctions par le premier ministre Shehbaz Sharif."
-    },
-    {
-      "sujet": "Aéroport Dubai trafic baisse Iran",
-      "fait": "L'aéroport international de Dubai, l'un des plus achalandés au monde, a enregistré une baisse marquée du nombre de passagers au deuxième trimestre en raison des effets de la guerre avec l'Iran. D'après Global News, cette perturbation a affecté le transport aérien régional."
-    },
-    {
-      "sujet": "ClarityCheck fuite 9 millions photos",
-      "fait": "Une entreprise commercialisant l'identification de personnes à partir de photographies a laissé 9 millions fichiers non sécurisés en ligne. Selon National Post, le nombre de photos canadiennes exposées reste inconnu."
+      "sujet": "Prince Harry retour au Royaume-Uni",
+      "fait": "Le Prince Harry, Meghan Markle et leurs deux enfants ont atterri au Royaume-Uni en provenance de Californie après l'annonce de leur relocalisation depuis les États-Unis. (Selon Global News et National Post)"
     }
   ]
 }
