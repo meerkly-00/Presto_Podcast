@@ -1,69 +1,77 @@
 ```xml
 <script>
-  <intro>Bonjour, on est le vendredi vingt-huit août deux mille vingt-six. Voici votre Presto en environ quinze minutes. Au menu : les inondations catastrophiques au Népal et au Tibet qui s'aggravent, la campagne électorale québécoise, la guerre commerciale entre le Canada et les États-Unis, l'international avec l'Ukraine et Gaza, l'économie dominée par l'intelligence artificielle, et la tech avec une victoire judiciaire pour Anthropic.</intro>
-
-  <chapitre titre="International : inondations au Népal et au Tibet">
-    On commence avec la catastrophe qui continue de s'aggraver à la frontière du Népal et du Tibet. Selon l'Associated Press, le bilan des inondations soudaines a dépassé les trois cent quatre-vingt-dix morts, avec plus de mille quatre cents personnes toujours portées disparues. Selon Al Jazeera, ce bilan a depuis grimpé à plus de quatre cent soixante-dix morts.
-
-    Selon CBC, les équipes de sauvetage ont travaillé dans la boue et les débris vendredi dans les zones dévastées par la crue soudaine le long de la frontière himalayenne, alors que les autorités chinoises préviennent qu'un lac nouvellement formé en amont pourrait déborder et provoquer de nouvelles inondations. Selon la BBC, les autorités chinoises évaluent à risque élevé la possibilité que ce lac, formé après un glissement de terrain, cède dans les prochains jours. Selon Al Jazeera, le Népal et la Chine ont d'ailleurs suspendu les efforts de sauvetage en raison de la menace posée par ce lac en surverse.
-
-    On reste en Asie du Sud, où selon Al Jazeera, les fils de l'ancien premier ministre pakistanais emprisonné Imran Khan, Sulaiman et Kasim Khan, expriment des craintes grandissantes pour leur père, qu'ils décrivent comme agité et souffrant d'anxiété en détention.
-
-    Du côté de l'Ukraine, selon l'Associated Press, la Russie a bombardé Kyiv et d'autres villes dans une offensive qui met à l'épreuve les défenses ukrainiennes.
-
-    À Gaza, selon Al Jazeera, une vidéo montre des enfants s'abritant derrière un chariot d'épicerie lors d'une attaque de drone israélien rapportée. Du côté diplomatique, un chroniqueur du National Post rapporte que l'envoyé spécial américain Jared Kushner a affirmé que Gaza ne sera pas reconstruite tant que le territoire ne sera pas démilitarisé.
-
-    Autre nouvelle internationale : selon CBC, le roi Harald the Fifth de Norvège, réformateur qui a régné plus de trois décennies, est mort à l'âge de quatre-vingt-neuf ans, ont annoncé le palais royal vendredi.
-  </chapitre>
+  <intro>Bonjour, on est le vendredi vingt-huit août deux mille vingt-six. Voici votre Presto en environ quinze minutes. Au menu : la campagne électorale québécoise, le dossier commercial Canada-États-Unis, l'international avec le décès du roi de Norvège et la guerre en Ukraine, l'économie avec la croissance canadienne et les propos de la Fed, et un mot sur la tech avec l'intelligence artificielle.</intro>
 
   <chapitre titre="Précampagne électorale québécoise">
-    Au Québec, la campagne électorale provinciale bat son plein à l'approche du scrutin du cinq octobre. Selon Radio-Canada, avec des finances publiques sous pression, les partis doivent trouver une façon de répondre aux attentes des électeurs sur le coût de la vie, qui s'impose comme enjeu central de cette campagne.
+    Au Québec, la campagne électorale provinciale se poursuit à l'approche du scrutin du cinq octobre. Selon Radio-Canada, le chef du Parti québécois, Paul Saint-Pierre Plamondon, s'est défendu d'avoir muselé ses candidats après être intervenu pour répondre lui-même à une question adressée à l'un d'entre eux.
 
-    Selon La Presse, l'aide aux entreprises figure aussi au programme des annonces attendues aujourd'hui dans le cadre de la campagne.
+    Toujours selon Radio-Canada, le Parti québécois souhaite abolir le fonds utilisé par la Coalition avenir Québec pour investir dans Northvolt, dans le cadre de ce que le parti appelle sa volonté de changer l'approche économique du gouvernement sortant.
 
-    En société, selon La Presse, Jean Allaire, premier chef et cofondateur de l'Action démocratique du Québec, est mort à l'âge de quatre-vingt-seize ans, ont annoncé ses filles sur les réseaux sociaux.
+    Sur le plan économique, plusieurs formations rivalisent maintenant d'annonces fiscales. Selon Le Devoir, le Parti conservateur du Québec a promis une baisse d'impôt qu'il qualifie lui-même d'historique, capable selon ses mots de rallier même la gauche, en doublant le montant de base personnel exempté d'impôt pour le porter à trente-cinq mille dollars d'ici quatre ans. Quelques heures plus tard, toujours selon Le Devoir, le Parti québécois a proposé à son tour des baisses d'impôts destinées aux petites et moyennes entreprises, une annonce jugée similaire à celle des conservateurs.
+
+    Du côté des sondages, Radio-Canada rapporte que le chef de Québec solidaire, Guillaume Milliard, se trouve en difficulté selon un sondage récent et appelle à, je le cite : "prendre une grande respiration". Fin de citation. La première ministre sortante, Christine Fréchette, dit pour sa part sentir une effervescence pour la Coalition avenir Québec sur le terrain.
+
+    Ailleurs au Québec, La Presse rapporte que le maire de Lévis a relancé l'idée d'un téléphérique au-dessus du Saint-Laurent vers Québec, une proposition qui n'est pas nouvelle et qui avait déjà été évoquée dans un rapport de CDPQ Infra.
   </chapitre>
 
-  <chapitre titre="Canada et États-Unis : la guerre commerciale se poursuit">
-    Le dossier commercial entre le Canada et les États-Unis continue d'évoluer. Selon Reuters, le premier ministre Mark Carney a affirmé que le lac Ontario continuera de porter ce nom, en réaction au décret signé par le président américain Donald Trump renommant le plan d'eau "lac d'Amérique" sur le territoire américain. Selon CBC, on ignore si Trump peut unilatéralement renommer ce lac, dont l'appellation précède la colonisation européenne des Amériques et est reconnue internationalement depuis des siècles. Toujours selon CBC, ce geste s'inscrit dans une poussée plus large de l'administration Trump pour freiner la collaboration scientifique entre le Canada et les États-Unis sur la restauration des Grands Lacs.
+  <chapitre titre="Canada et États-Unis : le dossier commercial">
+    Le dossier commercial entre le Canada et les États-Unis continue de dominer l'actualité. Selon le National Post, des responsables politiques américains ont dénoncé la décision du président Donald Trump de renommer le lac Ontario "lac d'Amérique", qualifiant le geste de, je le cite : "sad and pathetic". Fin de citation. Ces mêmes responsables accusent le président de vouloir détourner l'attention de négociations commerciales jugées désastreuses avec le Canada.
 
-    Sur le front tarifaire, un chroniqueur du National Post rapporte que le gouvernement fédéral a retiré les fruits de mer et les produits de la pêche de sa liste de tarifs de rétorsion en fin de semaine dernière. Le ministère des Finances a justifié ce geste en expliquant, je le cite : "Based on feedback, we have made select adjustments to protect against broader economic harms." Fin de citation. Ce même chroniqueur soutient que les contre-tarifs canadiens nuiront davantage aux Canadiens qu'aux Américains. Du côté gouvernemental, selon le Journal de Montréal, le ministre fédéral Dominic LeBlanc affirme se réjouir que les États-Unis reviennent sur certaines de leurs positions concernant la question du français dans le cadre de ce différend commercial.
+    Toujours selon le National Post, la base de données officielle des lieux au Canada compte pour sa part huit endroits nommés en l'honneur de Donald Trump, dont un ruisseau, alors qu'une seule voie porte son nom aux États-Unis, une rue à Ottawa.
 
-    Selon Les Affaires, la liste des produits visés par les tarifs de rétorsion canadiens a été précisée et touche un éventail de biens américains.
+    Sur le fond du dossier, CBC rapporte les propos d'un ancien négociateur commercial mexicain, selon qui l'effondrement des pourparlers entre Ottawa et Washington pourrait inciter les négociateurs américains à chercher plus agressivement une entente avantageuse avec le Mexique dans leurs discussions bilatérales en cours.
+
+    Un texte d'opinion publié dans le National Post soutient par ailleurs que les démocrates américains, malgré leurs critiques envers Donald Trump sur ce dossier, ne renonceraient pas eux-mêmes à imposer des tarifs au Canada. L'auteur cite l'exemple du gouverneur démocrate de la Californie, Gavin Newsom, qui a refusé de garantir qu'il retirerait tous les tarifs mis en place par Trump, tout en dénonçant le manque de respect envers le Canada et les propos évoquant un cinquante et unième État.
+
+    En parallèle, Global News rapporte que le nombre de voyages transfrontaliers vers les États-Unis a chuté de huit virgule sept pour cent en juillet selon Statistique Canada, un recul plus prononcé que celui observé à la même période l'an dernier, qui était de douze virgule cinq pour cent.
+  </chapitre>
+
+  <chapitre titre="International">
+    Sur le plan international, la Norvège pleure son roi. Selon l'Associated Press, le roi Harald cinq est mort à l'âge de quatre-vingt-neuf ans, et son fils lui succède sous le nom de roi Haakon huit. Selon la BBC, des personnes en deuil se sont rassemblées devant le palais royal pour honorer un roi très apprécié, dont le fils a adopté la devise familiale, je le cite : "all for Norway". Fin de citation. Toujours selon la BBC, la mairesse d'Oslo a annulé son propre mariage prévu vendredi en signe de deuil.
+
+    En Ukraine, la guerre se poursuit. Selon l'Associated Press, la Russie a bombardé Kyiv et d'autres villes dans une offensive qui met à l'épreuve les défenses ukrainiennes. Selon Al Jazeera, le président Volodymyr Zelensky prévoit de frapper la Russie avec mille drones par jour. Un responsable ukrainien cité par Reuters s'attend à la tenue prochaine de discussions dites techniques concernant la guerre.
+
+    Du côté de Moscou, CBC rapporte qu'un vol discret mais très visible du directeur de la CIA, John Ratcliffe, vers Moscou cette semaine a relancé le débat sur les intentions militaires de Vladimir Poutine. Selon des évaluations du renseignement citées par CBC, la Russie préparerait une mobilisation massive et impopulaire de six cent mille nouveaux soldats, alors que le recrutement de volontaires ralentit et que l'économie russe plie sous le poids de un virgule quatre million de pertes humaines. La BBC rapporte de son côté que des responsables occidentaux estiment que Moscou souhaite éviter une guerre directe avec l'OTAN, tout en poursuivant ce qu'ils appellent ses activités hybrides contre les pays membres.
+
+    Ailleurs, CBC souligne que la guerre entre les États-Unis et l'Iran atteint son sixième mois, alors que plusieurs élus américains demandent à Donald Trump d'y mettre fin, le président envoyant des signaux contradictoires sur l'état du conflit.
+
+    Un mot sur une autre région du monde : Al Jazeera rapporte que le nouveau président de la Colombie, Abelardo de la Espriella, fait face à une contestation après avoir annoncé un effort pour expulser les immigrants sans papiers, une politique que des critiques qualifient d'inhumaine.
+
+    Enfin, l'Associated Press rapporte la mort en prison de Ratko Mladic, ancien chef militaire des Serbes de Bosnie condamné pour des atrocités, à l'âge de quatre-vingt-quatre ans.
   </chapitre>
 
   <chapitre titre="Économie et marchés">
-    On passe à l'économie, où l'intelligence artificielle continue de dicter le pouls des marchés. Selon le Wall Street Journal, les investissements massifs dans l'intelligence artificielle contribuent à maintenir l'économie mondiale à flot. Toujours selon le Wall Street Journal, Nvidia a connu une séance victorieuse jeudi, les titres technologiques ayant progressé alors que le chef de la direction Jensen Huang répliquait aux critiques de Bill Gates.
+    On passe à l'économie. Bonne nouvelle du côté canadien : selon Bloomberg, l'économie du pays a progressé de trois virgule trois pour cent au deuxième trimestre, son rythme le plus rapide depuis deux mille vingt-trois. Selon Reuters, cette reprise s'explique par une relance de la demande intérieure et une croissance des exportations. Le Devoir précise que les craintes de récession s'éloignent, mais que ces résultats ne tiennent pas compte de l'effet des nouveaux tarifs imposés par Donald Trump. Toujours à ce sujet, BNN Bloomberg note que l'économie canadienne, en pleine accélération au deuxième trimestre, se prépare maintenant à affronter de nouveaux vents contraires liés aux tarifs.
 
-    Cela dit, selon Reuters, citant le Wall Street Journal, Nvidia a mis en pause ses ententes de partage de revenus avec des entreprises infonuagiques spécialisées en intelligence artificielle. Autre développement majeur du secteur : selon Ars Technica, Nvidia serait en voie d'acquérir Hugging Face, un répertoire de modèles d'intelligence artificielle, pour environ treize milliards de dollars américains.
+    Du côté des finances publiques, Les Affaires rapporte que le gouvernement fédéral affiche un déficit de trois cent soixante-dix millions de dollars pour la période d'avril à juin.
 
-    Selon Bloomberg, les contrats à terme sur les actions américaines reculent légèrement à l'approche d'une allocution du gouverneur de la Réserve fédérale Kevin Warsh, alors que le marché obligataire demeure stable. Selon Bloomberg toujours, un dirigeant de la Fed, Jeffrey Schmid, affirme que la politique monétaire actuelle ne se situe pas en territoire restrictif. Selon le Wall Street Journal, les décisions récentes du secrétaire au Trésor Scott Bessent testent les limites entre le Trésor et la Réserve fédérale.
+    Aux États-Unis, les marchés ont réagi aux propos du président de la Réserve fédérale. Selon Reuters, Wall Street a terminé la séance en baisse après que le président de la Fed, Kevin Warsh, eut réaffirmé sa détermination à combattre l'inflation. Selon CBC, Kevin Warsh a affirmé vendredi que l'inflation demeure trop élevée et a laissé entendre que la banque centrale pourrait devoir relever ses taux d'intérêt dans les prochains mois. Le Financial Times rapporte que ces propos ont néanmoins apaisé certaines inquiétudes des marchés lors du symposium de Jackson Hole.
 
-    Selon Reuters, les risques s'accumulent rapidement pour les marchés mondiaux à l'approche du mois de septembre. Selon le Financial Times, plusieurs observateurs se demandent s'il ne serait pas temps pour les investisseurs de délaisser les actions américaines.
+    Du côté des entreprises canadiennes, Global News rapporte que Postes Canada a enregistré une perte avant impôt de deux cent soixante-dix-sept millions de dollars pour le trimestre d'avril à juin, après la signature d'une nouvelle convention collective pluriannuelle avec le syndicat des travailleurs postaux.
 
-    Ailleurs en économie, selon Reuters, le trafic maritime dans le détroit d'Ormuz est passé sous sa moyenne des dix derniers jours, alors que la diplomatie autour de la guerre en Iran s'oriente vers une réouverture de ce passage stratégique. Selon Reuters également, le président Trump doit rencontrer des raffineurs et des détaillants d'essence, alors que la guerre en Iran fait grimper les prix du carburant à l'approche des élections de mi-mandat américaines.
+    Toujours en économie, Les Affaires rapporte que le Canada et le Chili resserrent leur collaboration dans le secteur des minéraux critiques, dans le but de diversifier les échanges commerciaux.
 
-    Du côté du Québec, selon le Journal de Montréal, l'organisme de réglementation OCRI a sanctionné Neilay Modi.
-
-    Un mot sur la controverse Meta : selon La Presse, l'entreprise a accepté de verser dix-sept milliards de dollars américains pour mettre fin à un procès civil intenté par quarante-sept États américains, qui l'accusaient d'avoir créé des produits nocifs pour les enfants. Selon CBC, ce règlement historique entraîne des changements pour les comptes adolescents sur Instagram et Facebook.
+    Enfin, le Wall Street Journal souligne que les investissements massifs dans l'intelligence artificielle contribuent à maintenir l'économie mondiale à flot, un thème qui rejoint directement l'actualité technologique de la journée.
   </chapitre>
 
   <chapitre titre="Tech">
-    Un mot sur la tech, où l'intelligence artificielle continue d'alimenter les batailles judiciaires. Selon la BBC, un juge a statué que l'administration Trump avait illégalement exercé des représailles contre la firme Anthropic. Selon The Verge, le Pentagone avait mis Anthropic sur une liste noire plus tôt cette année après que l'entreprise eut établi des limites sur l'usage militaire de sa technologie. La juge du district nord de la Californie, Rita F. Lin, a écrit dans sa décision, je le cite : "The empty invocation of national security is not a blank check to punish and retaliate against government critics." Fin de citation.
+    Un mot sur la tech, où l'intelligence artificielle continue d'alimenter les batailles judiciaires et financières. Selon Ars Technica, une juge fédérale du district nord de la Californie, Rita Lin, a statué que l'administration Trump avait illégalement exercé des représailles contre la firme Anthropic. Le gouvernement avait désigné l'entreprise, conceptrice du système Claude, comme un risque pour la chaîne d'approvisionnement en matière de sécurité nationale, après qu'Anthropic eut refusé de lever certaines restrictions sur l'utilisation de ses produits à des fins d'armement autonome létal et de surveillance de masse des Américains. La juge a écrit, je le cite : "the challenged actions constituted unlawful retaliation in violation of the First Amendment". Fin de citation.
 
-    Toujours du côté d'Anthropic, selon Ars Technica, l'entreprise a dévoilé un nouveau standard matériel, baptisé Model Hardware Standard, permettant à des agents d'intelligence artificielle de contrôler directement des appareils physiques, notamment pour accélérer les expériences scientifiques.
+    Toujours du côté d'Anthropic, TechCrunch rapporte qu'un chercheur de l'entreprise a donné un aperçu de systèmes d'intelligence artificielle capables de s'améliorer eux-mêmes, ayant réussi à progresser sur dix critères de comportements jugés problématiques sans dégrader leur performance globale.
 
-    Une nouvelle plus sombre : selon Ars Technica, la firme xAI d'Elon Musk fait face à une poursuite alléguant que son modèle Grok aurait été entraîné à partir de matériel d'exploitation sexuelle d'enfants. Une plaignante identifiée sous le nom de Jane Doe allègue que des images d'elle, victime d'abus dans son enfance, ont été retrouvées générées par intelligence artificielle sur la plateforme.
+    Le financement de l'infrastructure d'intelligence artificielle continue par ailleurs de s'accélérer. Selon TechCrunch, l'entreprise de infonuagique Lambda a obtenu un milliard de dollars en dette privée pour acheter des puces d'intelligence artificielle de Nvidia et les louer à Microsoft, la dernière d'une série de telles ententes de financement. Selon Bloomberg, la firme Blue Owl a de son côté dirigé une entente de dette de deux virgule quatre milliards de dollars pour permettre à l'entreprise Iren d'acheter des puces Nvidia.
 
-    Du côté des soucis de réputation, selon The Verge, Meta corrige une faille dans ses lunettes intelligentes qui permettait de continuer à enregistrer même après avoir couvert la diode lumineuse signalant l'enregistrement.
+    Du côté des tarifs technologiques pour les consommateurs, Ars Technica rapporte qu'Apple a augmenté le prix de ses abonnements Apple TV et Apple One jusqu'à concurrence de vingt pour cent, le prix mensuel d'Apple TV passant de treize à quinze dollars américains, et le prix annuel bondissant de quatre-vingt-dix-neuf à cent dix-neuf dollars.
 
-    Enfin, selon Reuters, un employé de KPMG et un militaire américain font partie des cibles visées par une répression réglementaire américaine sur les marchés de prédiction, selon le Wall Street Journal.
+    Enfin, The Verge rapporte que l'agence de protection de l'environnement des États-Unis souhaite alléger les règles obligeant les centres de données à rendre publique leur pollution atmosphérique, une mesure dénoncée par des groupes qui défendent le droit des résidents à être informés avant la construction de tels centres.
   </chapitre>
 
   <chapitre titre="Sport">
-    Rapidement en sport. Selon Sportsnet, les Blue Jays de Toronto se sont effondrés face aux Royals de Kansas City, encaissant une défaite de treize à deux qui les éloigne à trois virgule cinq matchs du troisième rang des équipes repêchées dans l'Américaine. Toujours selon Sportsnet, les partisans commencent à se retourner contre Vladimir Guerrero Junior, qui traverse une saison difficile marquée par des huées à domicile.
+    Rapidement en sport. Selon Sportsnet, le gardien des Jets de Winnipeg, Connor Hellebuyck, qui a formellement demandé à être échangé, pourrait selon certains observateurs trouver preneur du côté des Sabres de Buffalo, où il existerait un intérêt réel pour conclure une transaction.
 
-    Du côté de la Ligue nationale de hockey, selon Sportsnet, le directeur général des Oilers d'Edmonton, Stan Bowman, ne panique pas malgré une série impressionnante de blessures à un mois du début de la saison. Toujours selon Sportsnet, cinq destinations potentielles sont évoquées pour le gardien Connor Hellebuyck, qui a demandé publiquement à être échangé par les Jets de Winnipeg.
+    Du côté du baseball, TVA Sports souligne que l'ancien descripteur des Expos de Montréal, Jacques Doucet, n'aura jamais pu accéder de son vivant au Temple de la renommée de Cooperstown, malgré une carrière saluée pour son professionnalisme et sa verve taquine au micro.
+
+    Enfin, TVA Sports rapporte que la plateforme en ligne Good Good Golf a perdu son partenariat avec l'équipementier Callaway à la suite d'une publicité jugée sexiste.
   </chapitre>
 
   <outro>Voilà pour ce Presto du vendredi vingt-huit août deux mille vingt-six. Si ce briefing vous est utile, le meilleur coup de main que vous pouvez nous donner, c'est de le partager à une personne qui aime rester informée. Et selon votre plateforme : un abonnement sur Spotify ou Apple Podcasts, un pouce bleu et un abonnement sur YouTube, ça prend deux secondes et ça aide vraiment Presto à grandir. Sur ce, bonne journée, et à demain.</outro>
