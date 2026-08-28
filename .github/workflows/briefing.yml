@@ -1,18 +1,72 @@
 name: Presto — briefing matinal
 
+# Objectif : l'épisode est en ligne AVANT 6h00 heure de l'Est (10h00 UTC).
+#
+# GitHub ne garantit pas l'heure de ses crons : il les met en file d'attente et
+# les livre avec 20 min à plusieurs heures de retard (constaté ici : 09h31,
+# 09h36, puis 19h24 le 27 août). Un seul cron ne tient donc aucune promesse.
+# Deux parades, cumulées :
+#   1. le Worker Cloudflare déclenche ce workflow à 8h00 UTC pile (voir
+#      worker/audio-proxy.js + SETUP_CRON_EXTERNE.md) — ponctuel à la seconde ;
+#   2. quatre crons GitHub de secours, à des minutes hors des pics (jamais :00),
+#      assez tôt pour qu'un retard d'une heure passe encore avant 6h EDT.
+# Le premier démarrage de la journée produit l'épisode ; le job `garde` fait
+# no-op sur tous les suivants, donc aucune génération (ni facture TTS) en double.
 on:
   schedule:
-    - cron: '0 9 * * *'   # 4h00 EDT (UTC-4) — filet de sécurité si cron-job.org échoue
-  workflow_dispatch:       # bouton Run manuel dans GitHub
+    - cron: '28 7 * * *'   # 3h28 EDT
+    - cron: '58 7 * * *'   # 3h58 EDT
+    - cron: '38 8 * * *'   # 4h38 EDT
+    - cron: '8 9 * * *'    # 5h08 EDT — dernier filet avant 6h
+  workflow_dispatch:
+    inputs:
+      force:
+        description: "Régénérer même si l'épisode du jour existe déjà (1 = oui)"
+        default: "0"
 
 permissions:
   contents: write
   issues: write
 
 jobs:
+  # Un seul épisode par jour, quel que soit le nombre de déclenchements.
+  garde:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    outputs:
+      skip: ${{ steps.check.outputs.skip }}
+      date: ${{ steps.check.outputs.date }}
+    steps:
+      - uses: actions/checkout@v4
+
+      - id: check
+        run: |
+          DATE=$(date +%Y-%m-%d)
+          echo "date=$DATE" >> $GITHUB_OUTPUT
+
+          if [ "${{ github.event.inputs.force }}" = "1" ]; then
+            echo "Forçage demandé : régénération de $DATE."
+            echo "skip=0" >> $GITHUB_OUTPUT
+            exit 0
+          fi
+
+          # Épisode complet = script committé ET MP3 publié en release.
+          if [ -f "output/scripts/$DATE.xml" ] && gh release view "$DATE" > /dev/null 2>&1; then
+            echo "::notice::Épisode $DATE déjà publié — run ignoré."
+            echo "skip=1" >> $GITHUB_OUTPUT
+          else
+            echo "skip=0" >> $GITHUB_OUTPUT
+          fi
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
   presto:
+    needs: garde
+    if: needs.garde.outputs.skip != '1'
     runs-on: ubuntu-latest
     timeout-minutes: 30
+    env:
+      DATE: ${{ needs.garde.outputs.date }}
 
     steps:
       - uses: actions/checkout@v4
@@ -33,9 +87,7 @@ jobs:
 
       - name: Générer le Presto du jour
         run: |
-          DATE=$(date +%Y-%m-%d)
           export AUDIO_BASE_URL="https://github.com/$GITHUB_REPOSITORY/releases/download/$DATE"
-          echo "DATE=$DATE" >> $GITHUB_ENV
           python run.py
         env:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
@@ -69,9 +121,8 @@ jobs:
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-      # NB: le tweet quotidien est désormais publié par tweet.yml à 8h EDT,
-      # à partir du script committé ci-dessous (output/scripts/$DATE.xml).
-
+      # NB: le tweet quotidien est publié par le Worker à 12h UTC (8h EDT), à
+      # partir du thread généré par tweet.yml juste après ce workflow.
       - name: Sauvegarder feed.xml, contexte et script
         run: |
           git config user.name "Presto Bot"
@@ -81,14 +132,21 @@ jobs:
           git pull --rebase origin main
           git push
 
+      # Le site est un « nice to have » : le podcast (flux RSS + MP3) est déjà
+      # publié à l'étape précédente. Un déploiement raté ne doit donc PAS faire
+      # échouer le run — sinon tweet.yml, qui exige `conclusion == success`,
+      # cesse de générer les threads (c'est ce qui s'est passé du 23 au 27 août).
       - name: Pages épisodes + déploiement du site
         run: |
           python tools/episode_pages.py --scripts output/scripts --site site --feed feed.xml
           if [ -z "$CLOUDFLARE_API_TOKEN" ]; then
-            echo "::warning::CLOUDFLARE_API_TOKEN manquant : pages générées mais site non déployé"
+            echo "::warning::CLOUDFLARE_API_TOKEN manquant : pages générées mais site non déployé."
             exit 0
           fi
-          npx --yes wrangler@latest pages deploy site --project-name=presto --branch=main
+          if ! npx --yes wrangler@latest pages deploy site --project-name=presto --branch=main; then
+            echo "::warning::Déploiement Cloudflare Pages échoué (token expiré ou révoqué ?). Le flux RSS et le MP3 du jour sont bien publiés ; seules les pages du site restent figées. Régénérer CLOUDFLARE_API_TOKEN (permission « Cloudflare Pages: Edit »)."
+            exit 0
+          fi
         env:
           CLOUDFLARE_API_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
           CLOUDFLARE_ACCOUNT_ID: "9792329eba865912f37a61f51c448412"

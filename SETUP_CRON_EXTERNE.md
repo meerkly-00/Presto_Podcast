@@ -1,25 +1,77 @@
-# Déclenchement fiable à 6h EDT via cron-job.org
+# Publication ponctuelle : comment l'épisode arrive avant 6h EDT
 
-GitHub retarde ses crons de 0 à 4+ heures. Ce setup utilise cron-job.org (gratuit, fiable à la minute) pour déclencher le workflow exactement à 5h50 EDT, avec le cron GitHub comme filet de sécurité.
+Le `pubDate` d'un épisode est l'heure réelle d'exécution du workflow
+(`src/pipeline.py`). « Publier à la bonne heure » revient donc à « démarrer
+`briefing.yml` à la bonne heure ».
 
-## Étape 1 — Créer un PAT GitHub
+**GitHub ne garantit pas l'heure de ses crons planifiés** : il les met en file
+d'attente et les livre avec 20 min à plusieurs heures de retard. Exemples réels
+sur ce dépôt : 09h31, 09h36, puis **19h24** le 27 août 2026 (au lieu de 09h00).
 
-1. Aller sur https://github.com/settings/tokens → **Generate new token (classic)**
-2. Cocher le scope **`workflow`**
-3. Copier le token généré (visible une seule fois)
+Trois niveaux, du plus ponctuel au plus tolérant :
 
-## Étape 2 — Créer le job sur cron-job.org
+| Niveau | Déclencheur | Heure | Fiabilité |
+|---|---|---|---|
+| 1 | Cron du Worker Cloudflare | 08:00 UTC (4h EDT) | à la minute |
+| 2 | 4 crons GitHub de secours | 07:28 → 09:08 UTC | 20 min à plusieurs heures de retard |
+| 3 | cron-job.org (optionnel) | au choix | à la minute |
 
-1. Créer un compte gratuit sur https://cron-job.org
-2. **Create cronjob** avec ces paramètres :
+Le job `garde` de `briefing.yml` garantit **un seul épisode par jour** : le
+premier déclencheur qui démarre produit l'épisode, les suivants font no-op (pas
+de double facture Anthropic/OpenAI).
+
+---
+
+## Niveau 1 — Cron du Worker Cloudflare (recommandé)
+
+Déjà codé dans `worker/audio-proxy.js` (`dispatchBriefing`) et
+`worker/wrangler.toml` (cron `0 8 * * *`). Il ne manque que le jeton.
+
+### Étape 1 — Créer un token GitHub
+
+1. https://github.com/settings/personal-access-tokens → **Generate new token**
+   (fine-grained)
+2. Repository access : **Only select repositories** → `meerkly-00/Presto_Podcast`
+3. Repository permissions : **Actions = Read and write**
+4. Copier le token (visible une seule fois)
+
+### Étape 2 — L'enregistrer comme secret du Worker
+
+```bash
+cd worker
+npx wrangler secret put GH_DISPATCH_TOKEN   # coller le token
+npx wrangler deploy
+```
+
+Sans ce secret, le cron se contente d'un log `GH_DISPATCH_TOKEN absent` : rien
+ne casse, les crons GitHub prennent le relais.
+
+### Étape 3 — Vérifier
+
+Le lendemain, un run `workflow_dispatch` doit apparaître vers 08:00 UTC dans
+https://github.com/meerkly-00/Presto_Podcast/actions
+
+---
+
+## Niveau 2 — Crons GitHub (actif, aucune config)
+
+`briefing.yml` programme quatre tentatives à des minutes hors des pics
+(07:28, 07:58, 08:38, 09:08 UTC). La première qui démarre produit l'épisode.
+Même avec une heure de retard, la dernière passe encore avant 6h EDT (10:00 UTC).
+
+---
+
+## Niveau 3 — cron-job.org (optionnel, si le Worker ne suffit pas)
+
+1. Compte gratuit sur https://cron-job.org → **Create cronjob**
 
 | Champ | Valeur |
 |-------|--------|
-| URL | `https://api.github.com/repos/meerkly-00/briefing-matinal/actions/workflows/briefing.yml/dispatches` |
+| URL | `https://api.github.com/repos/meerkly-00/Presto_Podcast/actions/workflows/briefing.yml/dispatches` |
 | Méthode | `POST` |
-| Schedule | tous les jours à **09:50 UTC** (= 5h50 EDT) |
+| Schedule | tous les jours à **08:00 UTC** |
 
-**Headers à ajouter :**
+**Headers :**
 ```
 Authorization: Bearer TON_PAT_ICI
 Accept: application/vnd.github+json
@@ -27,15 +79,18 @@ X-GitHub-Api-Version: 2022-11-28
 Content-Type: application/json
 ```
 
-**Body (Request body) :**
-```json
-{"ref":"main"}
+**Body :** `{"ref":"main"}`
+
+> ⚠️ C'est ce job qui a cessé de tirer le 25 août 2026 (PAT expiré, job
+> désactivé après échecs, ou URL pointant encore vers l'ancien nom du dépôt
+> `briefing-matinal`). Un PAT classique expire : surveiller sa date.
+
+---
+
+## Forcer une régénération
+
+```
+Actions → Presto — briefing matinal → Run workflow → force = 1
 ```
 
-3. Sauvegarder → le job se déclenche chaque matin à 9h50 UTC pile.
-
-## Étape 3 — Vérifier
-
-Le lendemain matin, vérifier dans https://github.com/meerkly-00/briefing-matinal/actions que le workflow a démarré vers 9h50 UTC. Si oui, tout fonctionne.
-
-> Le cron GitHub (`0 8 * * *`) reste actif comme backup en cas de panne de cron-job.org.
+Sans `force=1`, un run manuel lancé après l'épisode du jour ne fait rien.
