@@ -1,54 +1,54 @@
 {
-  "generated_at": "2026-08-27T22:49:42.969881+00:00",
+  "generated_at": "2026-08-28T22:54:00.495309+00:00",
   "window_hours": 8,
   "faits": [
     {
-      "sujet": "Élections québécoises 2026",
-      "fait": "La campagne électorale est lancée au Québec, les électeurs sont conviés aux urnes le 5 octobre. Selon Radio-Canada, l'ombre de Donald Trump plane sur les chefs au jour un de la campagne."
+      "sujet": "Google search AI Overviews",
+      "fait": "Google élargit automatiquement ses résumés AI en haut des résultats de recherche pour certaines requêtes, repoussant les liens organiques plus loin vers le bas de la page. Selon The Verge."
     },
     {
-      "sujet": "Renommage du lac Ontario",
-      "fait": "Donald Trump a signé un décret renommant le lac Ontario en 'lac d'Amérique' aux États-Unis. Selon Radio-Canada et Reuters, Trump justifie cette décision en déclarant que le Canada les a 'narguées depuis plusieurs années'."
+      "sujet": "Xbox Project Helix console",
+      "fait": "La PDG d'Xbox, Asha Sharma, a déclaré que Project Helix sera une « famille d'appareils » plutôt qu'une console unique. Selon The Verge."
     },
     {
-      "sujet": "Conflit commercial Canada-États-Unis",
-      "fait": "Chapman's Ice Cream, une entreprise ontarienne, remplace 70% de ses ingrédients américains par des sources non-américaines en réaction aux 'droits de douane injustifiés'. Selon le National Post, cette mesure s'inscrit dans le contexte d'une guerre commerciale avec les États-Unis."
+      "sujet": "Tarifs commerciaux États-Unis Canada",
+      "fait": "Les analystes estiment que le Canada pourrait perdre 100 000 emplois sous les tarifs actuels et risque une récession si l'accord ALÉNA prend fin. Selon Al Jazeera."
     },
     {
-      "sujet": "Accident Air Canada à LaGuardia",
-      "fait": "La FAA cherche à licencier deux contrôleurs aériens de LaGuardia qui auraient quitté leur poste avant la collision d'un avion Air Canada Express avec un camion de pompiers en mars 2026, tuant deux pilotes. Selon le National Post et CBC, des mesures de renvoi sont en cours."
+      "sujet": "Épidémie Ebola République Démocratique Congo",
+      "fait": "L'Ébola s'est propagé à deux nouvelles zones en RDC, touchant désormais 60 zones avec 5 794 cas confirmés et 2 786 décès. Il s'agit de l'épidémie d'Ébola qui se propage le plus rapidement jamais enregistrée. Selon Al Jazeera."
     },
     {
-      "sujet": "Anthropic et contrôle de dispositifs physiques",
-      "fait": "Anthropic a présenté le Model Hardware Standard (MHS), un ensemble de pilotes standardisés permettant aux agents IA de contrôler des dispositifs arbitraires. Selon Ars Technica, ce système pourrait réduire le temps de configuration expérimentale de semaines ou mois à quelques heures."
+      "sujet": "Inondations flash Népal Tibet",
+      "fait": "Le Népal a connu des inondations flash catastrophiques. Les images satellites avant-après révèlent l'ampleur de la destruction. Le contenu de footage des inondations au Tibet est limité en diffusion publique en Chine. Selon Al Jazeera et BBC World."
     },
     {
-      "sujet": "Meta et collecte de données d'enfants",
-      "fait": "Le règlement de Meta avec 29 États pour 18 milliards de dollars inclut une disposition permettant à l'entreprise de conserver certaines données d'enfants de moins de 13 ans pour entraîner des modèles de détection d'âge. Selon TechCrunch, cela révèle un compromis sur la confidentialité intégré à l'accord."
+      "sujet": "Bourses d'études Canada chercheurs",
+      "fait": "Le Canada a accordé 504 millions de dollars canadiens en financement à 64 chercheurs mondiaux pour qu'ils relocalisent leurs travaux aux universités canadiennes. Selon National Post."
     },
     {
-      "sujet": "Nvidia acquisition de Hugging Face",
-      "fait": "Nvidia avancerait dans l'acquisition de Hugging Face pour 12,9 milliards de dollars. Selon Ars Technica, cette acquisition pourrait aider le fabricant de matériel à renforcer sa position dans les modèles IA."
+      "sujet": "Fonds de secours tarifs Manitoba",
+      "fait": "Le gouvernement du Manitoba a dépensé 103 millions de dollars pour aider les industries touchées par ce qu'il qualifie de tarifs américains « injustifiés ». Selon Global News."
     },
     {
-      "sujet": "Inondations Népal-Tibet",
-      "fait": "Des inondations et glissements de terrain sans précédent ont frappé la frontière Népal-Tibet le 26 août 2026, avec des centaines de morts ou disparus. Selon BBC World et La Presse, cette catastrophe porte vraisemblablement la signature du changement climatique, la région se réchauffant trois fois plus vite que le reste de la planète."
+      "sujet": "Politique linguistique CBC 11-Septembre",
+      "fait": "CBC/Radio-Canada modifie sa politique pour préciser qu'il n'est plus nécessaire d'attribuer explicitement la source lorsque les attentats du 11-Septembre sont qualifiés d'actes « terroristes ». Selon La Presse et CBC."
     },
     {
-      "sujet": "Politique scolaire Manitoba",
-      "fait": "Manitoba lancera un projet pilote de deux ans intitulé 'Every Body Every Day' imposant des cours d'éducation physique quotidiens et en personne dans les écoles publiques. Selon Global News, le premier ministre Wab Kinew a annoncé cette initiative."
+      "sujet": "Renommage lac Ontario Trump",
+      "fait": "Le président Donald Trump a signé un décret visant à rebaptiser le lac Ontario en « lac d'Amérique ». Des dirigeants autochtones ont condamné cette décision. Selon La Presse."
     },
     {
-      "sujet": "Meta et failles de confidentialité",
-      "fait": "Meta corrige une faille de sécurité sur ses lunettes intelligentes permettant de continuer l'enregistrement après avoir couvert le voyant LED. Selon The Verge, la caméra arrêtera désormais de fonctionner si le voyant est couvert pendant un enregistrement."
+      "sujet": "Déficit budgétaire fédéral Canada",
+      "fait": "Le gouvernement fédéral affiche un déficit de 370 millions de dollars pour la période d'avril à juin. Selon Les Affaires."
     },
     {
-      "sujet": "Winnipeg Sea Bears basket-ball",
-      "fait": "Les Winnipeg Sea Bears ont généré une augmentation de 30% des inscriptions au basketball chez les adultes pendant leur première saison. Selon Global News, l'équipe a encouragé plus que les jeunes à s'impliquer dans le sport."
+      "sujet": "Astronaute canadien Jeremy Hansen",
+      "fait": "L'astronaute canadien Jeremy Hansen est devenu le premier astronaute n'appartenant pas à la NASA à recevoir la Médaille d'honneur spatiale du Congrès américain. Selon La Presse."
     },
     {
-      "sujet": "Procès xAI et contenu d'abus sexuel",
-      "fait": "Une plainte a été déposée contre xAI le 27 août 2026, alléguant que le modèle Grok a été entraîné sur du matériel d'abus sexuel d'enfants. Selon Ars Technica, le Centre canadien pour la protection de l'enfance a identifié du contenu IA-généré représentant une victime."
+      "sujet": "Décès du roi Harald Norvège",
+      "fait": "Le roi Harald de Norvège est décédé et son fils Haakon VIII lui a succédé, adoptant la devise familiale « tout pour la Norvège ». Selon BBC World."
     }
   ]
 }
