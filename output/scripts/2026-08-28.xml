@@ -1,0 +1,71 @@
+```xml
+<script>
+  <intro>Bonjour, on est le vendredi vingt-huit août deux mille vingt-six. Voici votre Presto en environ quinze minutes. Au menu : les inondations catastrophiques au Népal et au Tibet qui s'aggravent, la campagne électorale québécoise, la guerre commerciale entre le Canada et les États-Unis, l'international avec l'Ukraine et Gaza, l'économie dominée par l'intelligence artificielle, et la tech avec une victoire judiciaire pour Anthropic.</intro>
+
+  <chapitre titre="International : inondations au Népal et au Tibet">
+    On commence avec la catastrophe qui continue de s'aggraver à la frontière du Népal et du Tibet. Selon l'Associated Press, le bilan des inondations soudaines a dépassé les trois cent quatre-vingt-dix morts, avec plus de mille quatre cents personnes toujours portées disparues. Selon Al Jazeera, ce bilan a depuis grimpé à plus de quatre cent soixante-dix morts.
+
+    Selon CBC, les équipes de sauvetage ont travaillé dans la boue et les débris vendredi dans les zones dévastées par la crue soudaine le long de la frontière himalayenne, alors que les autorités chinoises préviennent qu'un lac nouvellement formé en amont pourrait déborder et provoquer de nouvelles inondations. Selon la BBC, les autorités chinoises évaluent à risque élevé la possibilité que ce lac, formé après un glissement de terrain, cède dans les prochains jours. Selon Al Jazeera, le Népal et la Chine ont d'ailleurs suspendu les efforts de sauvetage en raison de la menace posée par ce lac en surverse.
+
+    On reste en Asie du Sud, où selon Al Jazeera, les fils de l'ancien premier ministre pakistanais emprisonné Imran Khan, Sulaiman et Kasim Khan, expriment des craintes grandissantes pour leur père, qu'ils décrivent comme agité et souffrant d'anxiété en détention.
+
+    Du côté de l'Ukraine, selon l'Associated Press, la Russie a bombardé Kyiv et d'autres villes dans une offensive qui met à l'épreuve les défenses ukrainiennes.
+
+    À Gaza, selon Al Jazeera, une vidéo montre des enfants s'abritant derrière un chariot d'épicerie lors d'une attaque de drone israélien rapportée. Du côté diplomatique, un chroniqueur du National Post rapporte que l'envoyé spécial américain Jared Kushner a affirmé que Gaza ne sera pas reconstruite tant que le territoire ne sera pas démilitarisé.
+
+    Autre nouvelle internationale : selon CBC, le roi Harald the Fifth de Norvège, réformateur qui a régné plus de trois décennies, est mort à l'âge de quatre-vingt-neuf ans, ont annoncé le palais royal vendredi.
+  </chapitre>
+
+  <chapitre titre="Précampagne électorale québécoise">
+    Au Québec, la campagne électorale provinciale bat son plein à l'approche du scrutin du cinq octobre. Selon Radio-Canada, avec des finances publiques sous pression, les partis doivent trouver une façon de répondre aux attentes des électeurs sur le coût de la vie, qui s'impose comme enjeu central de cette campagne.
+
+    Selon La Presse, l'aide aux entreprises figure aussi au programme des annonces attendues aujourd'hui dans le cadre de la campagne.
+
+    En société, selon La Presse, Jean Allaire, premier chef et cofondateur de l'Action démocratique du Québec, est mort à l'âge de quatre-vingt-seize ans, ont annoncé ses filles sur les réseaux sociaux.
+  </chapitre>
+
+  <chapitre titre="Canada et États-Unis : la guerre commerciale se poursuit">
+    Le dossier commercial entre le Canada et les États-Unis continue d'évoluer. Selon Reuters, le premier ministre Mark Carney a affirmé que le lac Ontario continuera de porter ce nom, en réaction au décret signé par le président américain Donald Trump renommant le plan d'eau "lac d'Amérique" sur le territoire américain. Selon CBC, on ignore si Trump peut unilatéralement renommer ce lac, dont l'appellation précède la colonisation européenne des Amériques et est reconnue internationalement depuis des siècles. Toujours selon CBC, ce geste s'inscrit dans une poussée plus large de l'administration Trump pour freiner la collaboration scientifique entre le Canada et les États-Unis sur la restauration des Grands Lacs.
+
+    Sur le front tarifaire, un chroniqueur du National Post rapporte que le gouvernement fédéral a retiré les fruits de mer et les produits de la pêche de sa liste de tarifs de rétorsion en fin de semaine dernière. Le ministère des Finances a justifié ce geste en expliquant, je le cite : "Based on feedback, we have made select adjustments to protect against broader economic harms." Fin de citation. Ce même chroniqueur soutient que les contre-tarifs canadiens nuiront davantage aux Canadiens qu'aux Américains. Du côté gouvernemental, selon le Journal de Montréal, le ministre fédéral Dominic LeBlanc affirme se réjouir que les États-Unis reviennent sur certaines de leurs positions concernant la question du français dans le cadre de ce différend commercial.
+
+    Selon Les Affaires, la liste des produits visés par les tarifs de rétorsion canadiens a été précisée et touche un éventail de biens américains.
+  </chapitre>
+
+  <chapitre titre="Économie et marchés">
+    On passe à l'économie, où l'intelligence artificielle continue de dicter le pouls des marchés. Selon le Wall Street Journal, les investissements massifs dans l'intelligence artificielle contribuent à maintenir l'économie mondiale à flot. Toujours selon le Wall Street Journal, Nvidia a connu une séance victorieuse jeudi, les titres technologiques ayant progressé alors que le chef de la direction Jensen Huang répliquait aux critiques de Bill Gates.
+
+    Cela dit, selon Reuters, citant le Wall Street Journal, Nvidia a mis en pause ses ententes de partage de revenus avec des entreprises infonuagiques spécialisées en intelligence artificielle. Autre développement majeur du secteur : selon Ars Technica, Nvidia serait en voie d'acquérir Hugging Face, un répertoire de modèles d'intelligence artificielle, pour environ treize milliards de dollars américains.
+
+    Selon Bloomberg, les contrats à terme sur les actions américaines reculent légèrement à l'approche d'une allocution du gouverneur de la Réserve fédérale Kevin Warsh, alors que le marché obligataire demeure stable. Selon Bloomberg toujours, un dirigeant de la Fed, Jeffrey Schmid, affirme que la politique monétaire actuelle ne se situe pas en territoire restrictif. Selon le Wall Street Journal, les décisions récentes du secrétaire au Trésor Scott Bessent testent les limites entre le Trésor et la Réserve fédérale.
+
+    Selon Reuters, les risques s'accumulent rapidement pour les marchés mondiaux à l'approche du mois de septembre. Selon le Financial Times, plusieurs observateurs se demandent s'il ne serait pas temps pour les investisseurs de délaisser les actions américaines.
+
+    Ailleurs en économie, selon Reuters, le trafic maritime dans le détroit d'Ormuz est passé sous sa moyenne des dix derniers jours, alors que la diplomatie autour de la guerre en Iran s'oriente vers une réouverture de ce passage stratégique. Selon Reuters également, le président Trump doit rencontrer des raffineurs et des détaillants d'essence, alors que la guerre en Iran fait grimper les prix du carburant à l'approche des élections de mi-mandat américaines.
+
+    Du côté du Québec, selon le Journal de Montréal, l'organisme de réglementation OCRI a sanctionné Neilay Modi.
+
+    Un mot sur la controverse Meta : selon La Presse, l'entreprise a accepté de verser dix-sept milliards de dollars américains pour mettre fin à un procès civil intenté par quarante-sept États américains, qui l'accusaient d'avoir créé des produits nocifs pour les enfants. Selon CBC, ce règlement historique entraîne des changements pour les comptes adolescents sur Instagram et Facebook.
+  </chapitre>
+
+  <chapitre titre="Tech">
+    Un mot sur la tech, où l'intelligence artificielle continue d'alimenter les batailles judiciaires. Selon la BBC, un juge a statué que l'administration Trump avait illégalement exercé des représailles contre la firme Anthropic. Selon The Verge, le Pentagone avait mis Anthropic sur une liste noire plus tôt cette année après que l'entreprise eut établi des limites sur l'usage militaire de sa technologie. La juge du district nord de la Californie, Rita F. Lin, a écrit dans sa décision, je le cite : "The empty invocation of national security is not a blank check to punish and retaliate against government critics." Fin de citation.
+
+    Toujours du côté d'Anthropic, selon Ars Technica, l'entreprise a dévoilé un nouveau standard matériel, baptisé Model Hardware Standard, permettant à des agents d'intelligence artificielle de contrôler directement des appareils physiques, notamment pour accélérer les expériences scientifiques.
+
+    Une nouvelle plus sombre : selon Ars Technica, la firme xAI d'Elon Musk fait face à une poursuite alléguant que son modèle Grok aurait été entraîné à partir de matériel d'exploitation sexuelle d'enfants. Une plaignante identifiée sous le nom de Jane Doe allègue que des images d'elle, victime d'abus dans son enfance, ont été retrouvées générées par intelligence artificielle sur la plateforme.
+
+    Du côté des soucis de réputation, selon The Verge, Meta corrige une faille dans ses lunettes intelligentes qui permettait de continuer à enregistrer même après avoir couvert la diode lumineuse signalant l'enregistrement.
+
+    Enfin, selon Reuters, un employé de KPMG et un militaire américain font partie des cibles visées par une répression réglementaire américaine sur les marchés de prédiction, selon le Wall Street Journal.
+  </chapitre>
+
+  <chapitre titre="Sport">
+    Rapidement en sport. Selon Sportsnet, les Blue Jays de Toronto se sont effondrés face aux Royals de Kansas City, encaissant une défaite de treize à deux qui les éloigne à trois virgule cinq matchs du troisième rang des équipes repêchées dans l'Américaine. Toujours selon Sportsnet, les partisans commencent à se retourner contre Vladimir Guerrero Junior, qui traverse une saison difficile marquée par des huées à domicile.
+
+    Du côté de la Ligue nationale de hockey, selon Sportsnet, le directeur général des Oilers d'Edmonton, Stan Bowman, ne panique pas malgré une série impressionnante de blessures à un mois du début de la saison. Toujours selon Sportsnet, cinq destinations potentielles sont évoquées pour le gardien Connor Hellebuyck, qui a demandé publiquement à être échangé par les Jets de Winnipeg.
+  </chapitre>
+
+  <outro>Voilà pour ce Presto du vendredi vingt-huit août deux mille vingt-six. Si ce briefing vous est utile, le meilleur coup de main que vous pouvez nous donner, c'est de le partager à une personne qui aime rester informée. Et selon votre plateforme : un abonnement sur Spotify ou Apple Podcasts, un pouce bleu et un abonnement sur YouTube, ça prend deux secondes et ça aide vraiment Presto à grandir. Sur ce, bonne journée, et à demain.</outro>
+</script>
+```
