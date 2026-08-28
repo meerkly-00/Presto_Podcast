@@ -5,9 +5,13 @@ name: Presto — tweet du soir (récap du jour)
 # capter l'actu de la journée (11h-17h), ~1h avant le post de 17h30 EDT fait par
 # le worker Cloudflare. Skip proprement si rien de neuf depuis le matin (aucun
 # fichier écrit → le worker fait un 404 et saute le post).
+# ⏸ VOLET X EN PAUSE (28 août 2026) : plus de crédits sur la console X et
+# trop peu de traction pour justifier la dépense. Le cron est commenté, le
+# workflow reste lançable à la main. Pour réactiver : décommenter le bloc
+# `schedule` ci-dessous.
 on:
-  schedule:
-    - cron: '30 20 * * *'    # 16h30 EDT (UTC-4)
+  # schedule:
+  #   - cron: '30 20 * * *'    # 16h30 EDT (UTC-4)
   workflow_dispatch:          # bouton Run manuel (fallback)
 
 permissions:

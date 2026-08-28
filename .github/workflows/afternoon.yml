@@ -4,9 +4,13 @@ name: Presto — tweet de midi (poll de suivi)
 # Tourne à 15h UTC (11h EDT) : assez tard pour que le thread du matin existe,
 # assez tôt pour précéder le post de midi (16h UTC) fait par le worker Cloudflare.
 # Le tweet du soir est généré séparément par evening.yml (16h30 EDT).
+# ⏸ VOLET X EN PAUSE (28 août 2026) : plus de crédits sur la console X et
+# trop peu de traction pour justifier la dépense. Le cron est commenté, le
+# workflow reste lançable à la main. Pour réactiver : décommenter le bloc
+# `schedule` ci-dessous.
 on:
-  schedule:
-    - cron: '0 15 * * *'    # 11h EDT (UTC-4)
+  # schedule:
+  #   - cron: '0 15 * * *'    # 11h EDT (UTC-4)
   workflow_dispatch:         # bouton Run manuel (fallback)
 
 permissions:

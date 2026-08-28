@@ -2,7 +2,8 @@
  * Cloudflare Worker — Presto
  *
  * fetch handler  : proxy audio MP3 + feed RSS depuis GitHub
- * scheduled      : cron 12h UTC → poste le thread X du jour via OAuth 1.0a
+ * scheduled      : 8h UTC  → déclenche le briefing GitHub Actions (ponctuel)
+ *                  12h/16h/21h30 UTC → poste sur X via OAuth 1.0a
  */
 
 const REPO = "meerkly-00/Presto_Podcast";
@@ -15,7 +16,12 @@ export default {
   async fetch(request, env, ctx) {
     const url = new URL(request.url);
 
-    // feed.xml est servi par Pages (asset statique), plus par ce worker.
+    // feed.xml servi depuis GitHub (raw), pas depuis Pages : le flux doit
+    // rester frais même quand `wrangler pages deploy` échoue (token expiré,
+    // panne). Le cache Cloudflare de 5 min limite les invocations du worker.
+    if (url.pathname === "/feed.xml") {
+      return proxyRaw("feed.xml", "application/rss+xml; charset=utf-8");
+    }
 
     const m = url.pathname.match(/^\/audio\/(\d{4}-\d{2}-\d{2})\.mp3$/);
     if (m) {
@@ -32,7 +38,10 @@ export default {
     return new Response("Not found", { status: 404 });
   },
 
-  // ─── scheduled handler : poster sur X selon l'heure (cron) ─────────────────
+  // ─── scheduled handler : action selon l'heure (cron) ──────────────────────
+  //   0 8  * * *  (4h EDT)    → déclenche briefing.yml sur GitHub Actions
+  // ⏸ Volet X en pause (28 août 2026) : les crons ci-dessous sont retirés de
+  // wrangler.toml. Le code reste ici pour une réactivation sans réécriture.
   //   0 12 * * *  (8h EDT)    → thread du matin     data/tweets/DATE.json
   //   0 16 * * *  (12h EDT)   → poll de midi        data/tweets/DATE-midi.json
   //   30 21 * * * (17h30 EDT) → contre-programme    data/tweets/DATE-soir.json
@@ -44,18 +53,54 @@ export default {
     console.log(`[cron] ${cron} for ${date}`);
 
     try {
-      if (cron === "0 16 * * *") {
+      if (cron === "0 8 * * *") {
+        await dispatchBriefing(env);
+      } else if (cron === "0 12 * * *") {
+        await postThreadFile(`data/tweets/${date}.json`, env);
+      } else if (cron === "0 16 * * *") {
         await postSingleFile(`data/tweets/${date}-midi.json`, env);
       } else if (cron === "30 21 * * *") {
         await postSingleFile(`data/tweets/${date}-soir.json`, env);
       } else {
-        await postThreadFile(`data/tweets/${date}.json`, env); // défaut = matin
+        // Pas de branche par défaut : un cron ajouté par erreur ne doit jamais
+        // publier sur X à notre insu.
+        console.log(`[cron] ${cron} non reconnu, rien à faire`);
       }
     } catch (e) {
       console.log(`[cron] error: ${e && e.message ? e.message : e}`);
     }
   },
 };
+
+// ─── déclencheur du briefing ─────────────────────────────────────────────────
+
+// Les crons GitHub Actions sont livrés avec 20 min à plusieurs heures de retard.
+// Les crons Cloudflare, eux, partent à l'heure : on déclenche donc le workflow
+// d'ici, pour que l'épisode soit en ligne bien avant 6h heure de l'Est.
+// Secret requis : GH_DISPATCH_TOKEN (PAT fine-grained, permission Actions: R/W).
+async function dispatchBriefing(env) {
+  if (!env.GH_DISPATCH_TOKEN) {
+    console.log("[cron] GH_DISPATCH_TOKEN absent — briefing non déclenché");
+    return;
+  }
+  const resp = await fetch(
+    `https://api.github.com/repos/${REPO}/actions/workflows/briefing.yml/dispatches`,
+    {
+      method: "POST",
+      headers: {
+        Authorization: `Bearer ${env.GH_DISPATCH_TOKEN}`,
+        Accept: "application/vnd.github+json",
+        "X-GitHub-Api-Version": "2022-11-28",
+        "Content-Type": "application/json",
+        "User-Agent": "presto-worker",
+      },
+      body: JSON.stringify({ ref: "main" }),
+    }
+  );
+  // 204 = accepté. Tout le reste laisse les crons GitHub prendre le relais.
+  console.log(`[cron] dispatch briefing → ${resp.status}`);
+  if (!resp.ok) console.log(`[cron] ${(await resp.text()).slice(0, 300)}`);
+}
 
 // ─── posteurs ────────────────────────────────────────────────────────────────
 
@@ -176,6 +221,18 @@ async function postTweet({ text, replyToId, poll }, env) {
 }
 
 // ─── helpers ─────────────────────────────────────────────────────────────────
+
+async function proxyRaw(path, contentType, maxAge = 300) {
+  const resp = await fetch(`${RAW}/${path}`, { cf: { cacheTtl: maxAge, cacheEverything: true } });
+  if (!resp.ok) return new Response("Not found", { status: 404 });
+  return new Response(resp.body, {
+    headers: {
+      "Content-Type": contentType,
+      "Cache-Control": `public, max-age=${maxAge}`,
+      "Access-Control-Allow-Origin": "*",
+    },
+  });
+}
 
 const pct = (s) => encodeURIComponent(String(s));
 const sleep = (ms) => new Promise((r) => setTimeout(r, ms));
