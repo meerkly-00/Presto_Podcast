@@ -13,10 +13,13 @@ routes = [
   { pattern = "www.prestopodcast.online/audio/*", zone_name = "prestopodcast.online" },
 ]
 
+# ⏸ VOLET X EN PAUSE (28 août 2026) : les trois crons de publication sur X sont
+# retirés. Le code des posteurs reste en place ; pour réactiver, remettre les
+# lignes commentées ci-dessous.
 [triggers]
 crons = [
   "0 8 * * *",     # 4h EDT    — déclenche briefing.yml (ponctuel)
-  "0 12 * * *",    # 8h EDT    — thread du matin       (data/tweets/DATE.json)
-  "0 16 * * *",    # 12h EDT   — poll de midi          (data/tweets/DATE-midi.json)
-  "30 21 * * *",   # 17h30 EDT — contre-programme      (data/tweets/DATE-soir.json)
+  # "0 12 * * *",    # 8h EDT    — thread du matin       (data/tweets/DATE.json)
+  # "0 16 * * *",    # 12h EDT   — poll de midi          (data/tweets/DATE-midi.json)
+  # "30 21 * * *",   # 17h30 EDT — contre-programme      (data/tweets/DATE-soir.json)
 ]

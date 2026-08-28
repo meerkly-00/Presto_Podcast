@@ -2,10 +2,14 @@ name: Presto — tweets du jour (génération)
 
 # Déclenché AUTOMATIQUEMENT à la fin de briefing.yml, plus de cron timing fragile.
 # Comme ça, dès que le script du jour est committé, la génération de tweets enchaîne.
+# ⏸ VOLET X EN PAUSE (28 août 2026) : plus de crédits sur la console X et
+# trop peu de traction pour justifier la dépense. Le déclenchement auto est commenté, le
+# workflow reste lançable à la main. Pour réactiver : décommenter le bloc
+# `workflow_run` ci-dessous.
 on:
-  workflow_run:
-    workflows: ["Presto — briefing matinal"]
-    types: [completed]
+  # workflow_run:
+  #   workflows: ["Presto — briefing matinal"]
+  #   types: [completed]
   workflow_dispatch:        # bouton Run manuel (fallback)
 
 permissions:

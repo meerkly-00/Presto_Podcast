@@ -40,6 +40,8 @@ export default {
 
   // ─── scheduled handler : action selon l'heure (cron) ──────────────────────
   //   0 8  * * *  (4h EDT)    → déclenche briefing.yml sur GitHub Actions
+  // ⏸ Volet X en pause (28 août 2026) : les crons ci-dessous sont retirés de
+  // wrangler.toml. Le code reste ici pour une réactivation sans réécriture.
   //   0 12 * * *  (8h EDT)    → thread du matin     data/tweets/DATE.json
   //   0 16 * * *  (12h EDT)   → poll de midi        data/tweets/DATE-midi.json
   //   30 21 * * * (17h30 EDT) → contre-programme    data/tweets/DATE-soir.json
@@ -53,12 +55,16 @@ export default {
     try {
       if (cron === "0 8 * * *") {
         await dispatchBriefing(env);
+      } else if (cron === "0 12 * * *") {
+        await postThreadFile(`data/tweets/${date}.json`, env);
       } else if (cron === "0 16 * * *") {
         await postSingleFile(`data/tweets/${date}-midi.json`, env);
       } else if (cron === "30 21 * * *") {
         await postSingleFile(`data/tweets/${date}-soir.json`, env);
       } else {
-        await postThreadFile(`data/tweets/${date}.json`, env); // défaut = matin
+        // Pas de branche par défaut : un cron ajouté par erreur ne doit jamais
+        // publier sur X à notre insu.
+        console.log(`[cron] ${cron} non reconnu, rien à faire`);
       }
     } catch (e) {
       console.log(`[cron] error: ${e && e.message ? e.message : e}`);

@@ -121,8 +121,8 @@ jobs:
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-      # NB: le tweet quotidien est publié par le Worker à 12h UTC (8h EDT), à
-      # partir du thread généré par tweet.yml juste après ce workflow.
+      # NB: la génération et la publication des tweets sont en pause depuis le
+      # 28 août 2026 (voir tweet.yml). Ce workflow ne produit que le podcast.
       - name: Sauvegarder feed.xml, contexte et script
         run: |
           git config user.name "Presto Bot"

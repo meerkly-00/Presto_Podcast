@@ -1,8 +1,12 @@
 name: Presto — contexte médias
 
+# ⏸ VOLET X EN PAUSE (28 août 2026) : plus de crédits sur la console X et
+# trop peu de traction pour justifier la dépense. Le cron est commenté, le
+# workflow reste lançable à la main. Pour réactiver : décommenter le bloc
+# `schedule` ci-dessous.
 on:
-  schedule:
-    - cron: '*/20 10-23 * * *'   # toutes les 20 min, 6h à 19h heure de Montréal (UTC-4)
+  # schedule:
+  #   - cron: '*/20 10-23 * * *'   # toutes les 20 min, 6h à 19h heure de Montréal (UTC-4)
   workflow_dispatch:
     inputs:
       dry_run:
