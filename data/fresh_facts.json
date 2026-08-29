@@ -1,54 +1,50 @@
 {
-  "generated_at": "2026-08-28T22:54:00.495309+00:00",
+  "generated_at": "2026-08-29T16:58:57.017712+00:00",
   "window_hours": 8,
   "faits": [
     {
-      "sujet": "Google search AI Overviews",
-      "fait": "Google élargit automatiquement ses résumés AI en haut des résultats de recherche pour certaines requêtes, repoussant les liens organiques plus loin vers le bas de la page. Selon The Verge."
+      "sujet": "Droits de douane américains au Canada",
+      "fait": "Le président Trump a imposé une taxe de 50 % sur 28 milliards de dollars d'importations canadiennes en invoquant l'article 338 de la loi douanière de 1930. Selon Radio-Canada, des juristes américains questionnent la validité juridique de cette mesure, cette loi n'ayant jamais été contestée devant les tribunaux."
     },
     {
-      "sujet": "Xbox Project Helix console",
-      "fait": "La PDG d'Xbox, Asha Sharma, a déclaré que Project Helix sera une « famille d'appareils » plutôt qu'une console unique. Selon The Verge."
+      "sujet": "Immigration et surpopulation scolaire au Québec",
+      "fait": "Le Parti québécois déclare vouloir réduire les seuils d'immigration, établissant un lien entre l'immigration et la surpopulation dans les écoles, selon Radio-Canada."
     },
     {
-      "sujet": "Tarifs commerciaux États-Unis Canada",
-      "fait": "Les analystes estiment que le Canada pourrait perdre 100 000 emplois sous les tarifs actuels et risque une récession si l'accord ALÉNA prend fin. Selon Al Jazeera."
+      "sujet": "Accord États-Unis-Venezuela sur le pétrole",
+      "fait": "Trump annonce que les États-Unis prendront le contrôle de 65 milliards de barils de réserves pétrolières du Venezuela. D'après Global News et Le Devoir, cet accord impliquerait le développement de 17 champs pétrolifères et pourrait attirer 100 milliards de dollars d'investissements."
     },
     {
-      "sujet": "Épidémie Ebola République Démocratique Congo",
-      "fait": "L'Ébola s'est propagé à deux nouvelles zones en RDC, touchant désormais 60 zones avec 5 794 cas confirmés et 2 786 décès. Il s'agit de l'épidémie d'Ébola qui se propage le plus rapidement jamais enregistrée. Selon Al Jazeera."
+      "sujet": "Investissement fédéral en informatique quantique",
+      "fait": "Le gouvernement fédéral accorde 195 millions de dollars à la firme de calcul quantique Xanadu, selon CBC, marquant le plus grand investissement du gouvernement en technologie quantique canadienne."
     },
     {
-      "sujet": "Inondations flash Népal Tibet",
-      "fait": "Le Népal a connu des inondations flash catastrophiques. Les images satellites avant-après révèlent l'ampleur de la destruction. Le contenu de footage des inondations au Tibet est limité en diffusion publique en Chine. Selon Al Jazeera et BBC World."
+      "sujet": "Catastrophe climatique Népal-Chine",
+      "fait": "Des inondations catastrophiques à la frontière Népal-Chine ont tué 676 personnes et laissé près de 3 000 personnes disparues, selon Global News et CBC World."
     },
     {
-      "sujet": "Bourses d'études Canada chercheurs",
-      "fait": "Le Canada a accordé 504 millions de dollars canadiens en financement à 64 chercheurs mondiaux pour qu'ils relocalisent leurs travaux aux universités canadiennes. Selon National Post."
+      "sujet": "Grève d'soldats au Niger",
+      "fait": "Les forces de sécurité nigérianes affrontent des soldats mutins dans la capitale, selon Associated Press."
     },
     {
-      "sujet": "Fonds de secours tarifs Manitoba",
-      "fait": "Le gouvernement du Manitoba a dépensé 103 millions de dollars pour aider les industries touchées par ce qu'il qualifie de tarifs américains « injustifiés ». Selon Global News."
+      "sujet": "Frappe russe près de Kyiv",
+      "fait": "Une frappe de drone russe sur un dépôt de munitions à Myla, près de Kyiv, a tué au moins 37 personnes, selon Reuters, BBC World et National Post."
     },
     {
-      "sujet": "Politique linguistique CBC 11-Septembre",
-      "fait": "CBC/Radio-Canada modifie sa politique pour préciser qu'il n'est plus nécessaire d'attribuer explicitement la source lorsque les attentats du 11-Septembre sont qualifiés d'actes « terroristes ». Selon La Presse et CBC."
+      "sujet": "Déportations de migrants haïtiens",
+      "fait": "Une vidéo du département américain de la Sécurité intérieure montre des hommes enchaînés embarquant dans un vol de déportation vers Haïti, selon CBC World."
     },
     {
-      "sujet": "Renommage lac Ontario Trump",
-      "fait": "Le président Donald Trump a signé un décret visant à rebaptiser le lac Ontario en « lac d'Amérique ». Des dirigeants autochtones ont condamné cette décision. Selon La Presse."
+      "sujet": "Référendum islandais sur l'adhésion à l'UE",
+      "fait": "L'Islande vote sur l'amorce de négociations d'adhésion à l'Union européenne. Selon CBC World, les partisans citent la protection contre les menaces potentielles du président Trump, tandis que les opposants invoquent les risques pour les stocks de poisson."
     },
     {
-      "sujet": "Déficit budgétaire fédéral Canada",
-      "fait": "Le gouvernement fédéral affiche un déficit de 370 millions de dollars pour la période d'avril à juin. Selon Les Affaires."
+      "sujet": "Brèche de données Eastlink",
+      "fait": "Le fournisseur de télécommunications Eastlink signale une brèche de données survenue récemment, sans exposition de données bancaires ou de cartes de crédit, selon CBC."
     },
     {
-      "sujet": "Astronaute canadien Jeremy Hansen",
-      "fait": "L'astronaute canadien Jeremy Hansen est devenu le premier astronaute n'appartenant pas à la NASA à recevoir la Médaille d'honneur spatiale du Congrès américain. Selon La Presse."
-    },
-    {
-      "sujet": "Décès du roi Harald Norvège",
-      "fait": "Le roi Harald de Norvège est décédé et son fils Haakon VIII lui a succédé, adoptant la devise familiale « tout pour la Norvège ». Selon BBC World."
+      "sujet": "Abandon de Tadej Pogacar au Tour d'Espagne",
+      "fait": "Le cycliste slovène Tadej Pogacar abandonne le Tour d'Espagne après une chute, alors qu'il menait la course avec 3 minutes 50 secondes d'avance au classement général, selon Radio-Canada."
     }
   ]
 }
