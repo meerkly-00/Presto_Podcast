@@ -1,0 +1,81 @@
+```xml
+<script>
+  <intro>Bonjour, on est le samedi vingt-neuf août deux mille vingt-six. Voici votre Presto en environ quinze minutes. Au menu : les inondations au Népal et au Tibet, la guerre en Ukraine, l'entente américaine sur le pétrole vénézuélien, la précampagne électorale québécoise, l'économie et les marchés, et un mot sur la tech.</intro>
+
+  <chapitre titre="International : catastrophe au Népal et au Tibet">
+    On commence avec la catastrophe qui continue de s'aggraver à la frontière du Népal et du Tibet. Selon Global News, les autorités népalaises ont mis à jour leur bilan samedi : les inondations soudaines ont maintenant fait six cent soixante-seize morts, et près de trois mille personnes demeurent portées disparues dans les deux pays.
+
+    Selon CBC, les efforts de sauvetage entamaient samedi leur quatrième jour dans les communautés ensevelies par les crues éclair. Les autorités continuent de retrouver des survivants et de les transporter vers des zones sécurisées, tout en poursuivant le décompte des victimes et des disparus.
+
+    Selon la BBC, les images les plus spectaculaires de ces inondations ne sont pas diffusées publiquement en Chine, et on en sait très peu sur les victimes du côté tibétain de la frontière.
+
+    Le Journal de Montréal rapporte que la reconstruction pourrait coûter, selon les estimations, des milliards de dollars.
+
+    Toujours sur ce dossier, CBC souligne que des climatologues restent prudents avant d'attribuer entièrement cette catastrophe aux changements climatiques. D'autres experts affirment qu'il s'agit précisément du genre de désastre qu'ils redoutaient depuis des années pour la région himalayenne.
+  </chapitre>
+
+  <chapitre titre="International : frappe russe près de Kyiv">
+    En Ukraine, Reuters rapporte qu'une frappe russe sur un entrepôt militaire près de Kyiv a provoqué une détonation ayant fait au moins trente-sept morts. Selon CBC, l'attaque a visé le district de Boutcha, tout près de la capitale ukrainienne, et une enquête a été ouverte sur l'entreposage d'armes destinées à l'armée ukrainienne à proximité d'un secteur résidentiel. La BBC précise que des centaines de personnes ont dû être évacuées.
+  </chapitre>
+
+  <chapitre titre="International : entente américaine sur le pétrole vénézuélien">
+    Dossier majeur du jour : selon l'Associated Press, le président américain Donald Trump affirme que les États-Unis ont conclu une entente avec le Venezuela leur donnant le contrôle de soixante-cinq milliards de barils de réserves pétrolières. La BBC qualifie cette entente d'inhabituelle et rapporte que la présidente intérimaire du Venezuela soutient que cet accord aidera à relancer l'économie de son pays.
+
+    Selon The Economist, cette entente pourrait en fait donner aux deux pays une raison de retarder une transition démocratique au Venezuela plutôt que de la favoriser.
+  </chapitre>
+
+  <chapitre titre="Précampagne électorale québécoise">
+    Au Québec, la campagne électorale provinciale se poursuit à l'approche du scrutin du cinq octobre. Selon Radio-Canada, le chef conservateur Éric Duhaime promet d'abolir le marché du carbone s'il est élu. Il propose également de suspendre la taxe provinciale sur l'essence pendant au moins cinq mois.
+  </chapitre>
+
+  <chapitre titre="Canada et États-Unis : la guerre commerciale et ses répercussions">
+    Le dossier commercial entre le Canada et les États-Unis continue d'occuper l'actualité. Selon Radio-Canada, le Canada prend encore plus ses distances envers les États-Unis en matière d'achats militaires, Ottawa étant plus convaincu que jamais de la nécessité de se tourner vers d'autres alliés pour ses acquisitions de défense.
+
+    CBC confirme que la flambée du conflit tarifaire a renforcé la volonté d'Ottawa d'accroître la coopération militaire avec l'Europe et l'Asie, ce qui nuit du même coup aux perspectives d'achats militaires majeurs en provenance des États-Unis.
+
+    Toujours selon CBC, malgré les insultes personnelles échangées cette semaine entre politiciens des deux pays, les négociateurs commerciaux du Canada et des États-Unis ont pour leur part évité de s'attaquer personnellement, du moins publiquement.
+
+    Du côté américain, CBC rapporte que dans la circonscription de l'Ohio, qui exporte pour plus de huit cent vingt millions de dollars américains de biens vers le Canada chaque année, la guerre commerciale suscite colère et incertitude parmi les entreprises locales.
+  </chapitre>
+
+  <chapitre titre="Économie et marchés">
+    On passe à l'économie, où le grand sujet des derniers jours demeure la sortie du président de la Réserve fédérale américaine, Kevin Warsh, lors du symposium de Jackson Hole. Selon l'Associated Press, monsieur Warsh a signalé que des hausses de taux pourraient être nécessaires, l'inflation américaine demeurant élevée de façon persistante.
+
+    Selon Reuters, cette sortie a fait grimper les attentes de hausse de taux sur les marchés. Le Wall Street Journal rapporte que l'or a reculé en réaction aux inquiétudes de monsieur Warsh sur l'inflation. Le Financial Times note toutefois que ce discours a aussi apaisé certaines nervosités sur les marchés.
+
+    Toujours dans les décisions de banques centrales, Bloomberg rapporte que le secrétaire au Trésor américain Scott Bessent a averti qu'un yen désordonné risquerait de faire grimper les taux américains.
+
+    Du côté de l'emploi américain, le Wall Street Journal rapporte que de nouvelles révisions suggèrent que l'économie américaine a créé soixante-dix-neuf mille emplois de moins que ce qui avait été rapporté initialement.
+
+    Selon Bloomberg, l'économiste Austan Goolsbee s'inquiète d'une possible surchauffe de l'économie américaine.
+
+    En matière de sanctions, Reuters rapporte que les États-Unis ont visé des succursales de banques égyptiennes dans le cadre de leurs sanctions contre l'Iran, alors que le conflit avec ce pays atteint la marque de six mois.
+
+    Du côté des entreprises, Bloomberg rapporte que la firme Blue Owl mène une transaction de dette de deux virgule quatre milliards de dollars pour permettre à l'entreprise Iren d'acheter des puces de Nvidia.
+
+    Reuters rapporte aussi que la guerre pèse sur l'économie iranienne, alors que les États-Unis intensifient leurs sanctions.
+
+    En santé, Reuters rapporte que la pharmaceutique BioNTech a interrompu un essai de vaccin à ARN messager contre le cancer colorectal après un examen de sécurité.
+  </chapitre>
+
+  <chapitre titre="Tech">
+    Un mot sur la tech. Selon Reuters, OpenAI prévoit couper l'accès à ses modèles d'intelligence artificielle pour Cursor, un produit appartenant à SpaceX, l'entreprise d'Elon Musk, ce qui fait monter d'un cran la rivalité entre les deux entrepreneurs.
+
+    Toujours en intelligence artificielle, TechCrunch rapporte que l'avantage de Nvidia dans le domaine ne repose plus seulement sur ses processeurs graphiques : la nouvelle génération de systèmes pour centres de données mise davantage sur une gestion plus intelligente du trafic de données.
+
+    Selon The Verge, Google étend maintenant automatiquement ses résumés générés par intelligence artificielle en haut de plusieurs pages de résultats de recherche, ce qui repousse la liste habituelle de liens beaucoup plus bas dans la page.
+
+    En matière judiciaire, Ars Technica rapporte qu'une cour d'appel fédérale américaine a statué que les paris sportifs offerts par la plateforme Kalshi ne constituent pas des contrats à terme, mais bien des paris soumis aux lois étatiques sur le jeu. Le gouverneur du Nevada, Joe Lombardo, a salué cette décision qui permet à son État d'appliquer ses propres lois à Kalshi, à Crypto.com et à Robinhood.
+
+    Enfin, Ars Technica rapporte qu'un groupe de défense basé à Oakland a recensé un nombre record de municipalités américaines mettant fin à leurs contrats avec l'entreprise de surveillance Flock Safety, avec quatre-vingt-dix résiliations rien qu'en août, soit quatre fois plus que le mois précédent, en raison de préoccupations liées à la surveillance et au partage de données.
+  </chapitre>
+
+  <chapitre titre="Sport">
+    Rapidement en sport. Selon Sportsnet, les Blue Jays de Toronto ont remporté une victoire confortable de huit à un contre les Mariners de Seattle vendredi, portés par un solide travail de leurs lanceurs partants et par leur offensive.
+
+    En formule un, TVA Sports rapporte que le pilote Lando Norris demeure sous contrat avec l'écurie McLaren au moins jusqu'en deux mille trente.
+  </chapitre>
+
+  <outro>Voilà pour ce Presto du samedi vingt-neuf août deux mille vingt-six. Si ce briefing vous est utile, le meilleur coup de main que vous pouvez nous donner, c'est de le partager à une personne qui aime rester informée. Et selon votre plateforme : un abonnement sur Spotify ou Apple Podcasts, un pouce bleu et un abonnement sur YouTube, ça prend deux secondes et ça aide vraiment Presto à grandir. Sur ce, bonne journée, et à demain.</outro>
+</script>
+```
