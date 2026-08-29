@@ -1,54 +1,54 @@
 {
-  "generated_at": "2026-08-29T21:31:20.907870+00:00",
+  "generated_at": "2026-08-29T23:54:08.921456+00:00",
   "window_hours": 8,
   "faits": [
     {
-      "sujet": "Élection québécoise - Transport",
-      "fait": "Québec solidaire s'oppose au troisième lien et promet des investissements en transport collectif. La co-porte-parole Ruba Ghazal déclare : « Il n'y en aura pas de troisième lien, peu importe sa forme ». (Selon Radio-Canada)"
+      "sujet": "Référendum adhésion Islande UE",
+      "fait": "Le vote du référendum islandais sur l'adhésion à l'UE s'est terminé samedi. Selon Al Jazeera, le gouvernement islandais s'est engagé à respecter le résultat."
     },
     {
-      "sujet": "Investissements GM au Canada",
-      "fait": "General Motors investira 1,1 milliard de dollars canadiens dans les usines automobiles canadiennes, selon un accord syndical, en réaction aux pressions tarifaires américaines. (Selon Reuters)"
+      "sujet": "Centrale nucléaire Zaporizhzhia sans électricité",
+      "fait": "La centrale nucléaire ukrainienne de Zaporizhzhia fonctionne sans alimentation électrique externe depuis plus d'une semaine. D'après Al Jazeera, c'est la 27e fois depuis l'invasion russe qu'elle recourt à des générateurs diesel de secours."
     },
     {
-      "sujet": "Référendum Islande - Adhésion UE",
-      "fait": "L'Islande tient un référendum serré sur la reprise des négociations d'adhésion à l'Union européenne, avec la Première ministre Kristrún Frostadóttir qui vote samedi. (Selon Al Jazeera)"
+      "sujet": "Accord General Motors syndicats Canada",
+      "fait": "General Motors investira 1,1 milliard de dollars canadiens dans les usines automobiles canadiennes, selon Reuters, dans le contexte des pressions tarifaires américaines."
     },
     {
-      "sujet": "Succession royale Norvège",
-      "fait": "Le roi Haakon VIII monte sur le trône et rend hommage à son père décédé, le roi Harald V, en promettant d'écouter les Norvégiens. (Selon Al Jazeera)"
+      "sujet": "Attaque drone dépôt munitions Kyiv",
+      "fait": "Une frappe russe sur un dépôt de munitions près de Kyiv a tué au moins 37 personnes et provoqué des centaines d'évacuations. D'après la BBC, une enquête a été ouverte sur le stockage d'armes militaires près de zones résidentielles."
     },
     {
-      "sujet": "Lac Ontario - Différend Trump",
-      "fait": "Le premier ministre de l'Ontario Doug Ford dévoile un panneau réaffirmant le nom du lac Ontario face aux intentions de renommage de Donald Trump. (Selon Radio-Canada et National Post)"
+      "sujet": "Élection provinciale Québec jour 3",
+      "fait": "Le troisième jour de la campagne électorale québécoise a été dominé par les débats sur l'immigration, le transport et les soins à domicile. Selon Global News, les chefs de partis se sont dispersés dans la province."
     },
     {
-      "sujet": "Déportation Milo Yiannopoulos",
-      "fait": "Le commentateur d'extrême droite Milo Yiannopoulos est déporté vers le Royaume-Uni par le Department of Homeland Security après avoir dépassé son visa en 2019 et manqué son audience d'immigration. (Selon Reuters et The Verge)"
+      "sujet": "Accession trône Norvège Haakon VIII",
+      "fait": "Le nouveau roi de Norvège Haakon VIII a prononcé son premier discours en rendant hommage à son père décédé Harald V. D'après la BBC, il a exposé sa vision du règne."
     },
     {
-      "sujet": "Procès Anthropic - Droits d'auteur",
-      "fait": "Sony Music et Warner Chappell poursuivent Anthropic pour vol de propriété intellectuelle portant sur des dizaines de milliers d'œuvres protégeables, réclamant jusqu'à 150 000 dollars par œuvre, pour des dommages potentiels de plusieurs milliards de dollars. (Selon TechCrunch et The Verge)"
+      "sujet": "Procès Sony Warner contre Anthropic",
+      "fait": "Sony Music et Warner Chappell ont poursuivi Anthropic en justice devant le tribunal fédéral du district nord de Californie pour violation de droits d'auteur sur des dizaines de milliers d'œuvres. Selon TechCrunch, les dommages réclamés pourraient atteindre plusieurs milliards de dollars."
     },
     {
-      "sujet": "Catastrophe naturelle Népal",
-      "fait": "La colère monte au Népal après une inondation soudaine, avec près de 3 000 personnes portées disparues et des survivants critiquant les retards du gouvernement dans la distribution de l'aide. (Selon Al Jazeera et AP News)"
+      "sujet": "Déportation Milo Yiannopoulos États-Unis",
+      "fait": "Le commentateur d'extrême droite Milo Yiannopoulos a été déporté vers le Royaume-Uni après avoir été arrêté par ICE. D'après la BBC, il avait dépassé la durée autorisée de son visa depuis 2019 et avait manqué une audience d'immigration."
     },
     {
-      "sujet": "Élection complémentaire Colombie-Britannique",
-      "fait": "Une élection complémentaire est convoquée en Colombie-Britannique pour le 26 septembre après que la chef conservatrice Kerry-Lynne Findlay ait fait face à des questions suite à la divulgation d'enregistrements audio. (Selon Global News)"
+      "sujet": "Panneau lac Ontario Doug Ford Trump",
+      "fait": "Le premier ministre ontarien Doug Ford a dévoilé un panneau réaffirmant le nom du lac Ontario. Selon Radio-Canada, cette action intervient deux jours après un décret du président Trump visant à le rebaptiser « lac de l'Amérique »."
     },
     {
-      "sujet": "Financement quantique Canada",
-      "fait": "Le gouvernement fédéral annonce un financement de 195 millions de dollars pour l'entreprise de calcul quantique Xanadu dans une ancienne usine Campbell's à Toronto. (Selon CBC)"
+      "sujet": "Cyclisme Tadej Pogacar Vuelta abandon",
+      "fait": "Tadej Pogacar, largement en tête du Tour d'Espagne, a été contraint à l'abandon après une chute lors de la huitième étape. D'après Le Devoir, il a subi une commotion cérébrale, une fracture déplacée de la clavicule gauche et d'autres blessures."
     },
     {
-      "sujet": "Accident cyclisme Tadej Pogacar",
-      "fait": "Le cycliste slovène Tadej Pogacar abandonne le Tour d'Espagne après une chute lors de la huitième étape, avec un diagnostic de commotion cérébrale et fracture de la clavicule. (Selon Le Devoir et Radio-Canada)"
+      "sujet": "Attaques colons israéliens Cisjordanie",
+      "fait": "Des colons israéliens masqués ont attaqué des maisons dans le village de Qusra en Cisjordanie occupée. Selon CBC, des dizaines de militants ont entouré une maison palestinienne où sept Palestiniens étaient piégés à l'intérieur."
     },
     {
-      "sujet": "Accord commercial GM Syndicat",
-      "fait": "Un accord syndical GM investira 1,1 milliard de dollars canadiens dans les usines automobiles canadiennes face aux pressions tarifaires américaines. (Selon Reuters)"
+      "sujet": "Ancien président Équateur emprisonné",
+      "fait": "L'ancien président équatorien Lenín Moreno a été emprisonné pour corruption. D'après la BBC, il nie avoir reçu des pots-de-vin d'une entreprise chinoise en échange d'un contrat de construction d'une centrale hydroélectrique."
     }
   ]
 }
