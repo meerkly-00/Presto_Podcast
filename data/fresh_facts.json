@@ -1,54 +1,50 @@
 {
-  "generated_at": "2026-08-29T23:54:08.921456+00:00",
+  "generated_at": "2026-08-30T17:13:07.700036+00:00",
   "window_hours": 8,
   "faits": [
     {
-      "sujet": "Référendum adhésion Islande UE",
-      "fait": "Le vote du référendum islandais sur l'adhésion à l'UE s'est terminé samedi. Selon Al Jazeera, le gouvernement islandais s'est engagé à respecter le résultat."
+      "sujet": "Google Maps renomme lac Ontario",
+      "fait": "Google Maps affiche désormais « Lake America » pour les utilisateurs aux États-Unis, tandis que les utilisateurs canadiens voient toujours « Lake Ontario ». Selon CBC, National Post et Reuters."
     },
     {
-      "sujet": "Centrale nucléaire Zaporizhzhia sans électricité",
-      "fait": "La centrale nucléaire ukrainienne de Zaporizhzhia fonctionne sans alimentation électrique externe depuis plus d'une semaine. D'après Al Jazeera, c'est la 27e fois depuis l'invasion russe qu'elle recourt à des générateurs diesel de secours."
+      "sujet": "Ontario riposte avec panneau",
+      "fait": "Le premier ministre ontarien Doug Ford a dévoilé un panneau routier sur la rive canadienne du lac avec le message « Lake Ontario. Now and Always. » Selon BBC World."
     },
     {
-      "sujet": "Accord General Motors syndicats Canada",
-      "fait": "General Motors investira 1,1 milliard de dollars canadiens dans les usines automobiles canadiennes, selon Reuters, dans le contexte des pressions tarifaires américaines."
+      "sujet": "Élections fédérales partielles Canada",
+      "fait": "Des scrutins partiels se tiendront lundi dans trois circonscriptions : Chicoutimi-Le Fjord (Québec), Beaches-Est York (Ontario) et North Vancouver-Capilano (Colombie-Britannique). Selon La Presse et Global News."
     },
     {
-      "sujet": "Attaque drone dépôt munitions Kyiv",
-      "fait": "Une frappe russe sur un dépôt de munitions près de Kyiv a tué au moins 37 personnes et provoqué des centaines d'évacuations. D'après la BBC, une enquête a été ouverte sur le stockage d'armes militaires près de zones résidentielles."
+      "sujet": "Sondage Chicoutimi-Le Fjord serrée",
+      "fait": "Selon l'agrégateur 338Canada, le candidat libéral Daniel Gobeil obtient 35 % des intentions de vote, suivi de près par la candidate bloquiste Caroline Dubé à 34 %. Selon Le Devoir."
     },
     {
-      "sujet": "Élection provinciale Québec jour 3",
-      "fait": "Le troisième jour de la campagne électorale québécoise a été dominé par les débats sur l'immigration, le transport et les soins à domicile. Selon Global News, les chefs de partis se sont dispersés dans la province."
+      "sujet": "CAQ annonce cadre financier",
+      "fait": "La CAQ a présenté un cadre financier de 9,7 milliards de dollars en promesses électorales dans le contexte de la campagne électorale québécoise. Selon Radio-Canada."
     },
     {
-      "sujet": "Accession trône Norvège Haakon VIII",
-      "fait": "Le nouveau roi de Norvège Haakon VIII a prononcé son premier discours en rendant hommage à son père décédé Harald V. D'après la BBC, il a exposé sa vision du règne."
+      "sujet": "Islandais rejettent adhésion UE",
+      "fait": "Les électeurs islandais ont rejeté à 52,8 % la proposition du gouvernement de reprendre les discussions pour adhérer à l'Union européenne. Selon BBC World et Radio-Canada."
     },
     {
-      "sujet": "Procès Sony Warner contre Anthropic",
-      "fait": "Sony Music et Warner Chappell ont poursuivi Anthropic en justice devant le tribunal fédéral du district nord de Californie pour violation de droits d'auteur sur des dizaines de milliers d'œuvres. Selon TechCrunch, les dommages réclamés pourraient atteindre plusieurs milliards de dollars."
+      "sujet": "Télescope spatial Nancy Grace Roman lancé",
+      "fait": "Le télescope spatial Nancy Grace Roman de la NASA a été lancé avec succès et entreprendra un voyage de trois mois vers le point de Lagrange L2. Son champ de vision est 100 fois plus grand que celui de Hubble. Selon The Verge."
     },
     {
-      "sujet": "Déportation Milo Yiannopoulos États-Unis",
-      "fait": "Le commentateur d'extrême droite Milo Yiannopoulos a été déporté vers le Royaume-Uni après avoir été arrêté par ICE. D'après la BBC, il avait dépassé la durée autorisée de son visa depuis 2019 et avait manqué une audience d'immigration."
+      "sujet": "Factions rivales libyennes signent accord",
+      "fait": "Les factions rivales de la Libye ont signé un accord à Tripoli pour tenir des élections nationales dans les deux ans. Selon Al Jazeera."
     },
     {
-      "sujet": "Panneau lac Ontario Doug Ford Trump",
-      "fait": "Le premier ministre ontarien Doug Ford a dévoilé un panneau réaffirmant le nom du lac Ontario. Selon Radio-Canada, cette action intervient deux jours après un décret du président Trump visant à le rebaptiser « lac de l'Amérique »."
+      "sujet": "Tentative de coup d'État au Niger",
+      "fait": "Des soldats ont tenté d'attaquer une base militaire clé au Niger samedi matin, mais ont été repoussés selon les autorités. La Russie affirme avoir contribué à repousser la tentative. Selon BBC World."
     },
     {
-      "sujet": "Cyclisme Tadej Pogacar Vuelta abandon",
-      "fait": "Tadej Pogacar, largement en tête du Tour d'Espagne, a été contraint à l'abandon après une chute lors de la huitième étape. D'après Le Devoir, il a subi une commotion cérébrale, une fracture déplacée de la clavicule gauche et d'autres blessures."
+      "sujet": "Système de paiement indien doit s'autofinancer",
+      "fait": "Le système de paiement indien, qui traite 24 milliards de transactions par mois, doit commencer à s'autofinancer après dix ans d'opérations. Selon The Economist."
     },
     {
-      "sujet": "Attaques colons israéliens Cisjordanie",
-      "fait": "Des colons israéliens masqués ont attaqué des maisons dans le village de Qusra en Cisjordanie occupée. Selon CBC, des dizaines de militants ont entouré une maison palestinienne où sept Palestiniens étaient piégés à l'intérieur."
-    },
-    {
-      "sujet": "Ancien président Équateur emprisonné",
-      "fait": "L'ancien président équatorien Lenín Moreno a été emprisonné pour corruption. D'après la BBC, il nie avoir reçu des pots-de-vin d'une entreprise chinoise en échange d'un contrat de construction d'une centrale hydroélectrique."
+      "sujet": "Trump envisage pétrole vénézuélien",
+      "fait": "Trump déclare que les États-Unis rempliront la Réserve stratégique de pétrole en utilisant du pétrole vénézuélien. Selon Reuters."
     }
   ]
 }
