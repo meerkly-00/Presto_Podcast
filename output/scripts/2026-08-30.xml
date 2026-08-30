@@ -1,0 +1,61 @@
+```xml
+<script>
+  <intro>Bonjour, on est le dimanche trente août deux mille vingt-six. Voici votre Presto en environ quinze minutes. Au menu : la campagne électorale québécoise, le naufrage au large de Chypre du Nord, le référendum islandais sur l'Union européenne, les inondations qui menacent encore le Népal, l'attaque russe en Ukraine, et un peu de tech avec les robots de Meta.</intro>
+
+  <chapitre titre="Précampagne électorale québécoise">
+    Au Québec, la campagne électorale provinciale se poursuit à l'approche du scrutin du cinq octobre. Selon Radio-Canada, la Coalition avenir Québec doit dévoiler son cadre financier ce matin. Les autres partis concentrent plutôt leurs annonces sur le français, le logement et le soutien aux aînés.
+
+    Toujours selon Radio-Canada, un débat s'est ouvert sur le dossier Northvolt. L'ancien ministre Pierre Fitzgibbon conteste la version du candidat péquiste Stéphane Paquet, qui affirme l'avoir mis en garde, en privé, à l'époque où il dirigeait Montréal International.
+
+    Du côté du Parti québécois, Le Devoir rapporte que le chef Paul Saint-Pierre Plamondon a de nouveau associé l'immigration au débordement des écoles et à la crise du logement, tout en critiquant le bilan de la ministre Christine Fréchette. Les Affaires rapporte par ailleurs que Paul Saint-Pierre Plamondon persiste dans une proposition référendaire jugée impopulaire par une partie de l'électorat.
+
+    Le Devoir rapporte aussi que la première ministre sortante Christine Fréchette a visité une résidence pour personnes âgées samedi, une sortie perçue par certains observateurs comme une opération de communication.
+
+    Sur le plan économique, Les Affaires rapporte que la Fédération canadienne de l'entreprise indépendante réclame ce qu'elle appelle un véritable virage vers les petites et moyennes entreprises de la part des partis en lice.
+  </chapitre>
+
+  <chapitre titre="Naufrage au large de Chypre du Nord">
+    Un événement majeur est survenu au large de Chypre du Nord. Selon CBC, un traversier transportant près de deux cent soixante-dix passagers et membres d'équipage a chaviré, faisant au moins sept morts. Le premier ministre de Chypre du Nord, Ünal Üstel, a indiqué à la chaîne d'État turque TRT que deux cent trente-sept personnes ont été secourues et qu'une recherche se poursuit pour retrouver environ vingt-quatre personnes encore portées disparues.
+  </chapitre>
+
+  <chapitre titre="International">
+    En Islande, un référendum a mis fin, du moins pour l'instant, aux ambitions d'adhésion à l'Union européenne. Selon la BBC, cinquante-deux virgule huit pour cent des électeurs ont rejeté la proposition du gouvernement de rouvrir les négociations d'adhésion. Le diffuseur RUV a confirmé ce résultat. Selon Al Jazeera, le vote s'est joué à un écart serré. Selon Le Devoir, ce résultat représente un coup dur pour Bruxelles, qui aurait vu d'un bon œil la candidature de cette île de l'Atlantique Nord. Selon The Economist, ce non l'emporte moins pour des raisons géopolitiques que pour la protection des eaux de pêche islandaises, un enjeu jugé prioritaire par une partie importante de la population.
+
+    Au Népal, la situation reste préoccupante. Selon CBC, les autorités ont averti dimanche d'un risque de nouvelles inondations et ont demandé aux résidents des districts touchés de rester en alerte maximale, après une hausse du niveau d'eau dans la rivière Bhotekoshi. Selon le Journal de Montréal, les autorités népalaises ont commencé à enterrer les victimes de la coulée de boue qui a frappé la région.
+
+    En Ukraine, le bilan de l'attaque russe s'alourdit. Selon l'Associated Press, le nombre de morts est passé à trente-huit à la suite de ce que l'agence qualifie de frappe la plus meurtrière de l'année russe contre l'Ukraine.
+
+    En Suisse, une fusillade a fait un mort et cinq blessés lors d'un événement techno près de Zurich. Selon la BBC, une femme de vingt-deux ans a été tuée. Le Journal de Montréal rapporte qu'une chasse à l'homme est en cours. Selon Global News, la police n'a pas divulgué les noms des victimes, conformément aux règles suisses de protection de la vie privée.
+
+    Au Niger, selon l'Associated Press, plusieurs dizaines de soldats ont été tués ou arrêtés à la suite d'une tentative de mutinerie dans la capitale, selon des informations rapportées par la télévision d'État. Al Jazeera confirme l'arrestation de plusieurs dizaines de militaires.
+
+    Au Moyen-Orient, selon Reuters, le guide suprême iranien Ali Khamenei a exhorté, dans un message écrit, les dirigeants du Golfe à confronter ce qu'il désigne comme le véritable ennemi. Toujours selon Al Jazeera, les États-Unis ont imposé des sanctions à la Banque Misr, la deuxième en importance en Égypte, dans le cadre d'une pression économique accrue de Washington contre l'Iran, alors que les pourparlers de trêve demeurent dans une impasse.
+
+    Dans le dossier commercial entre le Canada et les États-Unis, la tension autour du lac Ontario continue d'alimenter les échanges. Selon la BBC, le premier ministre ontarien Doug Ford a dévoilé un panneau d'affichage sur la rive canadienne portant le message, je le cite : "Lake Ontario. Now and Always." Fin de citation. Du côté des chroniqueurs, le National Post note que cet épisode donne au premier ministre Ford un adversaire politique commode après un printemps et un été difficiles.
+
+    Sur le plan économique canado-américain, Reuters rapporte qu'une entente syndicale chez General Motors prévoit un investissement d'environ un milliard cent millions de dollars canadiens dans les usines automobiles au pays, dans un contexte de pression tarifaire américaine.
+  </chapitre>
+
+  <chapitre titre="Économie et marchés">
+    On passe à l'économie. Selon le Financial Times, la hausse des rendements obligataires ajoute des dizaines de milliards de dollars aux coûts de la dette des pays du G7.
+
+    Selon Reuters, le secrétaire au Trésor américain Scott Bessent fait face à un test diplomatique lors du sommet du G20, dans un contexte marqué par les tarifs douaniers, la guerre en Iran et la turbulence sur le marché obligataire. Toujours selon Reuters, Scott Bessent a affirmé que des mouvements désordonnés du yen japonais pourraient déstabiliser les marchés mondiaux.
+
+    Selon Bloomberg, les investisseurs particuliers désertent en grand nombre les fonds négociés en bourse à effet de levier liés aux semi-conducteurs sud-coréens.
+
+    Selon le Wall Street Journal, l'effondrement du marché du bois de pâte frappe durement l'économie forestière du sud des États-Unis.
+  </chapitre>
+
+  <chapitre titre="Tech">
+    Un mot sur la tech. Selon Ars Technica, Meta teste des robots capables de brancher des câbles et de redémarrer des serveurs à l'intérieur de ses centres de données. Ces appareils proviennent de plusieurs fournisseurs, dont Watney Robotics, Kinova et ABB. Selon un travailleur cité par Ars Technica, si l'expérience réussit, les robots pourraient remplacer jusqu'à quatre-vingts pour cent de certaines tâches physiques actuellement effectuées par des employés. Ce même travailleur a affirmé, je le cite : "We thought those of us performing the physical tasks were safe for a while, but not anymore." Fin de citation.
+
+    Toujours en robotique, The Verge rapporte que les Jeux mondiaux de robots humanoïdes se sont conclus cette semaine à Pékin, un événement marqué par plusieurs chutes spectaculaires, dont celle d'un robot du fabricant Honor, qui a perdu une jambe en pleine course.
+
+    Du côté judiciaire, TechCrunch rapporte que Sony Music et Warner poursuivent l'entreprise d'intelligence artificielle Anthropic, l'accusant de ce que les deux maisons de disques qualifient de campagne éhontée de vol de propriété intellectuelle, avec des accusations centrées sur le piratage.
+
+    Enfin, la NASA a procédé à un lancement d'envergure scientifique. Selon La Presse, le télescope spatial Roman a été lancé dimanche, avec pour mission de réaliser une cartographie du cosmos échelonnée sur plusieurs années, dans le but de mieux comprendre certains grands mystères de la physique. Nature confirme que l'observatoire spatial offrira un champ de vision étendu combiné à une résolution précise, pour étudier notamment les mystères de l'énergie sombre.
+  </chapitre>
+
+  <outro>Voilà pour ce Presto du dimanche trente août deux mille vingt-six. Si ce briefing vous est utile, le meilleur coup de main que vous pouvez nous donner, c'est de le partager à une personne qui aime rester informée. Et selon votre plateforme : un abonnement sur Spotify ou Apple Podcasts, un pouce bleu et un abonnement sur YouTube, ça prend deux secondes et ça aide vraiment Presto à grandir. Sur ce, bonne journée, et à demain.</outro>
+</script>
+```
