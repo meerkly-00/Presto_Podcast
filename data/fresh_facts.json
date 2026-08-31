@@ -1,50 +1,50 @@
 {
-  "generated_at": "2026-08-31T00:13:13.172640+00:00",
+  "generated_at": "2026-08-31T19:24:18.313668+00:00",
   "window_hours": 8,
   "faits": [
     {
-      "sujet": "Frappes américaines en Iran",
-      "fait": "Les États-Unis ont mené des frappes sur des lanceurs de roquettes iraniens sur l'île de Larak dans le détroit d'Ormuz dimanche, première action militaire en un mois. Selon BBC World et Reuters, l'Iran affirme que l'attaque a tué des civils et les Gardiens de la Révolution promettent une riposte."
+      "sujet": "Élections Québec - Programme du PQ",
+      "fait": "Le Parti québécois propose un « secrétariat de l'efficacité de l'État » et une réduction de 2,5 % de la taille du secteur public sans licenciements. Selon Radio-Canada."
     },
     {
-      "sujet": "Prix du pétrole et tensions",
-      "fait": "Le pétrole a augmenté de plus de 2% suite à l'attaque américaine en Iran selon Reuters. Bloomberg rapporte que les contrats à terme sur actions américaines ont baissé dans ce contexte de tensions."
+      "sujet": "Santé Québec - Mixité public-privé",
+      "fait": "Christine Fréchette, cheffe de la CAQ, ouvre la porte à la mixité public-privé en santé, ce qui contraste avec le legs de l'ex-ministre Christian Dubé. Selon Radio-Canada."
     },
     {
-      "sujet": "Réserves pétrolières américaines",
-      "fait": "Trump déclare que les États-Unis rempliront leur Réserve stratégique de pétrole en utilisant du pétrole vénézuélien, selon Reuters Business."
+      "sujet": "Conflits moyen-orient - Frappes à Gaza",
+      "fait": "Cinq morts ont été enregistrés dans des frappes israéliennes à Gaza selon les secours. Au total, 1 318 morts depuis l'entrée en vigueur du cessez-le-feu. Selon Radio-Canada."
     },
     {
-      "sujet": "Impact pétrole vénézuélien Canada",
-      "fait": "Radio-Canada rapporte qu'un retour en force du pétrole vénézuélien sur le marché aura des conséquences sur l'industrie canadienne suite à un accord américain."
+      "sujet": "Technologie - Direction Apple",
+      "fait": "Tim Cook quitte son poste de PDG d'Apple après 15 ans. Phil Schiller quitte ses fonctions de responsable de l'App Store et des événements Apple. Selon The Verge et TechCrunch."
     },
     {
-      "sujet": "Fuite de données Steam",
-      "fait": "Plus de 12 téraoctets de données contenant des versions de jeux téléchargés sur Steam entre 2003 et 2013 ont été divulgués selon Ars Technica. La fuite inclut des prototypes inédits et des versions pré-sortie de titres populaires de Valve et d'éditeurs tiers."
+      "sujet": "Technologie - Pannes informatiques",
+      "fait": "Microsoft teste un correctif pour des pannes d'Outlook qui ont causé des retards et des défaillances d'e-mail. Selon TechCrunch."
     },
     {
-      "sujet": "Renaming Google Maps Lac Ontario",
-      "fait": "Reuters et Global News rapportent que Google Maps affichera 'Lake America' aux États-Unis et 'Lake Ontario' au Canada pour le même lac, selon les paramètres régionaux de l'utilisateur."
+      "sujet": "Propriété intellectuelle - Anthropic",
+      "fait": "Sony et Warner Music poursuivent Anthropic pour piratage de centaines de paroles de chansons de The Beatles, Taylor Swift et Michael Jackson pour entraîner son IA. Selon Al Jazeera."
     },
     {
-      "sujet": "Lancement télescope spatial NASA",
-      "fait": "NASA a lancé dimanche son nouvel observatoire astronomique Nancy Grace Roman, financé à 4 milliards de dollars, utilisant un satellite-espion reconverti pour explorer les mystères de l'astrophysique selon CBC."
+      "sujet": "Économie - Indices américains",
+      "fait": "Les principaux indices boursiers américains ont baissé après une escalade au Moyen-Orient et une augmentation des prix du pétrole. Selon Wall Street Journal."
     },
     {
-      "sujet": "Vote accord Unifor-General Motors",
-      "fait": "Les travailleurs syndiqués de General Motors terminent dimanche un vote sur un accord de travail provisoire couvrant plus de 4600 travailleurs automobiles en Ontario, signé le 22 août selon Global News."
+      "sujet": "Justice Québec - Défamation",
+      "fait": "Un juge a ordonné à Paméla Groleau de verser 100 000 $ en dommages au cardinal Marc Ouellet pour diffamation dans une action liée à des allégations d'agression sexuelle. Selon CBC et La Presse."
     },
     {
-      "sujet": "Capsizement ferry Chypre",
-      "fait": "Un traversier transportant près de 270 personnes a chaviré au large de la Chypre du Nord. Huit personnes ont été tuées et d'autres sont portées disparues selon BBC World."
+      "sujet": "Investissement - YouTuber et GoPro",
+      "fait": "Le YouTuber Markiplier est devenu le plus grand actionnaire de GoPro avec une participation de 8,5 %. Selon The Verge."
     },
     {
-      "sujet": "Promesses électorales CAQ Québec",
-      "fait": "Christine Fréchette de la CAQ présente un cadre financier évaluant ses promesses électorales à 9,7 milliards de dollars, soit 3 fois moins coûteux que celui de Legault en 2022 selon Radio-Canada."
+      "sujet": "Environnement - Épidémie Ebola RDC",
+      "fait": "L'épidémie d'Ebola en République démocratique du Congo dépasse les 6 000 cas confirmés, la pire flambée de l'histoire du pays. Selon Le Devoir."
     },
     {
-      "sujet": "Personnages élevés à la mairie US",
-      "fait": "Trump menace un journaliste de NBC de punition par la FCC pour sa couverture des appuis électoraux avant les élections de mi-mandat de novembre selon National Post."
+      "sujet": "Catastrophe - Inondations Népal",
+      "fait": "Le bilan des inondations au Népal s'élève à 939 morts. Les secouristes utilisent des explosifs pour atteindre les travailleurs piégés d'une centrale hydroélectrique. Selon BBC World."
     }
   ]
 }
