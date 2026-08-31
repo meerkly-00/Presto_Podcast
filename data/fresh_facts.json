@@ -1,54 +1,50 @@
 {
-  "generated_at": "2026-08-30T21:51:08.464421+00:00",
+  "generated_at": "2026-08-31T00:13:13.172640+00:00",
   "window_hours": 8,
   "faits": [
     {
-      "sujet": "Élection québécoise - mesures sur le français",
-      "fait": "Le Parti québécois annonce quatre mesures pour freiner le déclin du français, notamment l'étude de l'usage du français dans les corridors des écoles de Montréal et Laval. Selon Radio-Canada et Le Devoir, le PQ se donne quatre ans pour renverser ce déclin."
+      "sujet": "Frappes américaines en Iran",
+      "fait": "Les États-Unis ont mené des frappes sur des lanceurs de roquettes iraniens sur l'île de Larak dans le détroit d'Ormuz dimanche, première action militaire en un mois. Selon BBC World et Reuters, l'Iran affirme que l'attaque a tué des civils et les Gardiens de la Révolution promettent une riposte."
     },
     {
-      "sujet": "Élection québécoise - cadre financier CAQ",
-      "fait": "Christine Fréchette (CAQ) présente un cadre financier estimé à 9,7 milliards de dollars, trois fois moins coûteux que celui de François Legault en 2022. Selon Radio-Canada, elle ventile le coût de ses promesses et explique leur financement."
+      "sujet": "Prix du pétrole et tensions",
+      "fait": "Le pétrole a augmenté de plus de 2% suite à l'attaque américaine en Iran selon Reuters. Bloomberg rapporte que les contrats à terme sur actions américaines ont baissé dans ce contexte de tensions."
     },
     {
-      "sujet": "Élection québécoise - logement et abordabilité",
-      "fait": "Les chefs de partis québécois concentrent leurs promesses sur l'abordabilité : Ruba Ghazal (QS) présente un plan pour régler la crise du logement à Montréal, tandis que d'autres abordent les réductions d'impôt et les mesures pour les aînés. Selon Global News, l'abordabilité est le foyer de la journée 4 de la campagne."
+      "sujet": "Réserves pétrolières américaines",
+      "fait": "Trump déclare que les États-Unis rempliront leur Réserve stratégique de pétrole en utilisant du pétrole vénézuélien, selon Reuters Business."
     },
     {
-      "sujet": "Frappes aériennes États-Unis en Iran",
-      "fait": "Les États-Unis ont mené des frappes contre deux lanceurs iraniens sur l'île de Larak, les premières en un mois. Selon BBC World et Radio-Canada, l'Iran affirme que l'attaque a tué des civils. Les Gardiens de la Révolution iraniens promettent des représailles."
+      "sujet": "Impact pétrole vénézuélien Canada",
+      "fait": "Radio-Canada rapporte qu'un retour en force du pétrole vénézuélien sur le marché aura des conséquences sur l'industrie canadienne suite à un accord américain."
     },
     {
-      "sujet": "Conflits commerciaux Trump-Canada",
-      "fait": "Donald Trump invite les entreprises canadiennes à déménager aux États-Unis pour éviter les tarifs douaniers de 50 % sur 28 milliards de produits canadiens entrés en vigueur récemment. Selon Radio-Canada, le Canada a annoncé de nouveaux contre-tarifs pour le 8 septembre."
+      "sujet": "Fuite de données Steam",
+      "fait": "Plus de 12 téraoctets de données contenant des versions de jeux téléchargés sur Steam entre 2003 et 2013 ont été divulgués selon Ars Technica. La fuite inclut des prototypes inédits et des versions pré-sortie de titres populaires de Valve et d'éditeurs tiers."
     },
     {
-      "sujet": "Négociation travail GM-Unifor",
-      "fait": "Les travailleurs syndiqués de General Motors votent sur une entente provisoire couvrant plus de 4 600 travailleurs automobiles en Ontario. Selon Global News, le scrutin doit se conclure dimanche."
-    },
-    {
-      "sujet": "Loi québécoise boissons énergisantes",
-      "fait": "Une nouvelle loi au Québec interdit aux enfants de moins de 16 ans d'acheter des boissons énergisantes. Selon CBC, la question est débattue dans un sondage d'opinion."
+      "sujet": "Renaming Google Maps Lac Ontario",
+      "fait": "Reuters et Global News rapportent que Google Maps affichera 'Lake America' aux États-Unis et 'Lake Ontario' au Canada pour le même lac, selon les paramètres régionaux de l'utilisateur."
     },
     {
       "sujet": "Lancement télescope spatial NASA",
-      "fait": "La NASA lance l'observatoire astronomique Nancy Grace Roman d'une valeur de 4 milliards de dollars, un télescope reconverti à partir d'un satellite-espion. Selon CBC, la mission vise à explorer les grands mystères de l'astrophysique et de la cosmologie."
+      "fait": "NASA a lancé dimanche son nouvel observatoire astronomique Nancy Grace Roman, financé à 4 milliards de dollars, utilisant un satellite-espion reconverti pour explorer les mystères de l'astrophysique selon CBC."
     },
     {
-      "sujet": "Démissions au sein équipe Trump",
-      "fait": "Le président Trump voit son cercle restreint se réduire avec plusieurs démissions de hauts responsables de la Maison-Blanche avant les élections de mi-mandat de novembre. Selon National Post, cela force Trump à s'appuyer sur un cercle d'aides encore plus réduit."
+      "sujet": "Vote accord Unifor-General Motors",
+      "fait": "Les travailleurs syndiqués de General Motors terminent dimanche un vote sur un accord de travail provisoire couvrant plus de 4600 travailleurs automobiles en Ontario, signé le 22 août selon Global News."
     },
     {
-      "sujet": "Menaces Trump contre les médias",
-      "fait": "Donald Trump menace de signaler à la FCC la journaliste Kristen Welker de NBC pour sa couverture de ses antécédents d'approbations politiques. Selon Reuters et National Post, Trump exprime son mécontentement face à la couverture des élections de mi-mandat."
+      "sujet": "Capsizement ferry Chypre",
+      "fait": "Un traversier transportant près de 270 personnes a chaviré au large de la Chypre du Nord. Huit personnes ont été tuées et d'autres sont portées disparues selon BBC World."
     },
     {
-      "sujet": "Fuite données jeux Steam",
-      "fait": "Quelque 12 téraoctets de données contenant les versions de tous les jeux mis en ligne sur Steam entre 2003 et 2013 ont été divulgués. Selon The Verge, les fuites incluent des contenus du Half-Life 2 : Episode 3 annulé et d'autres titres."
+      "sujet": "Promesses électorales CAQ Québec",
+      "fait": "Christine Fréchette de la CAQ présente un cadre financier évaluant ses promesses électorales à 9,7 milliards de dollars, soit 3 fois moins coûteux que celui de Legault en 2022 selon Radio-Canada."
     },
     {
-      "sujet": "Naufrage traversier Chypre",
-      "fait": "Un traversier transportant près de 270 personnes chavire au large du nord de Chypre. Selon BBC World, huit personnes sont tuées et d'autres disparaissent lors des opérations de recherche et sauvetage."
+      "sujet": "Personnages élevés à la mairie US",
+      "fait": "Trump menace un journaliste de NBC de punition par la FCC pour sa couverture des appuis électoraux avant les élections de mi-mandat de novembre selon National Post."
     }
   ]
 }
