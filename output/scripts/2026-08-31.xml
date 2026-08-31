@@ -1,0 +1,85 @@
+<script>
+  <intro>Bonjour, on est le lundi trente et un août deux mille vingt-six. Voici votre Presto en environ quinze minutes. Au menu : la reprise des frappes entre les États-Unis et l'Iran, les élections québécoises, l'économie et les marchés, la tech, et la retraite internationale de Lionel Messi.</intro>
+
+  <chapitre titre="International : reprise des hostilités entre les États-Unis et l'Iran">
+    On commence avec la situation qui s'est détériorée rapidement au Moyen-Orient. Selon Al Jazeera, les États-Unis et l'Iran ont échangé des frappes pour la première fois depuis environ un mois. Les forces américaines ont visé l'île de Kharg dans le détroit d'Ormuz, et la République islamique a répondu en lançant des attaques contre les Émirats arabes unis et la Jordanie.
+
+    Selon la BBC, l'attaque américaine visait l'île de Larak, toujours dans le détroit d'Ormuz, faisant deux morts et deux blessés. Il s'agirait de la première frappe américaine connue depuis la fin juillet.
+
+    Selon Al Jazeera, le président américain Donald Trump a affirmé que l'Iran est, je le cite : "dead", fin de citation, et a promis de répondre après cette reprise des affrontements. Il a aussi demandé que les dirigeants du pays soient poursuivis pour avoir tué des manifestants. Selon le vice-président JD Vance, cité par Reuters, monsieur Trump voulait envoyer un message à l'Iran par sa publication au sujet de l'île de Kharg.
+
+    Toujours selon Al Jazeera, des frappes israéliennes ont par ailleurs fait au moins cinq morts parmi des Palestiniens à Gaza.
+
+    Cette flambée de tension a des répercussions économiques immédiates. Selon l'Associated Press, les prix du pétrole ont augmenté et les actions ont reculé après les frappes américaines dans le détroit d'Ormuz. Selon le Wall Street Journal, les actions américaines étaient en baisse lundi en raison de cette escalade au Moyen-Orient. Selon Reuters, les marchés obligataires font face à de nouvelles ventes alors que les prix du pétrole grimpent et que les actions demeurent prudentes.
+
+    Sur le plan diplomatique, selon l'Associated Press, le secrétaire au Trésor américain Scott Bessent tente de rallier ses alliés du G20 sur le dossier iranien, dans un contexte où les tarifs douaniers américains tendent par ailleurs les relations avec plusieurs partenaires.
+  </chapitre>
+
+  <chapitre titre="Précampagne électorale québécoise">
+    Au Québec, la campagne électorale provinciale se poursuit à l'approche du scrutin du cinq octobre. Selon Radio-Canada, le chef péquiste Paul Saint-Pierre Plamondon propose la création d'un "secrétariat de l'efficacité de l'État". Il souhaite aussi une réduction de deux virgule cinq pour cent de la taille du secteur public, sans licenciements.
+
+    Toujours selon Radio-Canada, le chef du Parti conservateur du Québec, Éric Duhaime, veut relancer l'exploitation du gaz de schiste dans la province. Il estime que cela est nécessaire pour l'autonomie énergétique du Québec face à Donald Trump.
+
+    Radio-Canada a aussi passé au crible le cadre financier de la Coalition avenir Québec. Le parti utiliserait surtout les transferts fédéraux et son coussin de prévoyance pour financer ses promesses.
+  </chapitre>
+
+  <chapitre titre="Canada et États-Unis : le dossier commercial">
+    Le dossier commercial entre le Canada et les États-Unis continue d'occuper l'actualité. Selon Global News, de fortes majorités de Canadiens appuient l'idée que le gouvernement fédéral se retire des discussions commerciales avec les États-Unis et réplique avec des tarifs de rétorsion, selon un nouveau sondage. Le secrétaire au Trésor américain a néanmoins déclaré, toujours selon Global News, que les États-Unis ne sont pas en guerre avec le Canada.
+
+    Du côté des renommages géographiques qui alimentent le dossier depuis quelques jours, Reuters rapporte que le secrétaire américain à l'Intérieur affirme qu'Apple pourrait bientôt changer l'appellation "Lake Ontario" pour "Lake America" sur ses cartes, à la suite d'une discussion avec le président Trump.
+
+    Sur le plan industriel, Reuters rapporte que les travailleurs canadiens de GM ont approuvé une entente qui ajoute la production d'un camion à leur usine ontarienne, en plein contexte de guerre commerciale avec les États-Unis.
+
+    Un texte d'opinion du Financial Times soutient que les menaces de monsieur Trump contre le Canada sont contre-productives pour les intérêts américains eux-mêmes.
+  </chapitre>
+
+  <chapitre titre="Économie et marchés">
+    On passe à l'économie. Sur le plan international, selon le Financial Times, le gouverneur de la Banque d'Angleterre, Andrew Bailey, a averti le G20 des dangers que pose l'intelligence artificielle pour le système financier. Selon Reuters, les grands banquiers centraux réunis à Jackson Hole entrevoient un avenir qualifié de dystopique concernant l'intelligence artificielle.
+
+    Du côté de l'Inde, selon Bloomberg, l'économie a progressé plus rapidement que prévu au deuxième trimestre. Le Wall Street Journal confirme cette robustesse de croissance malgré le choc énergétique lié au Moyen-Orient.
+
+    En Chine, selon le Wall Street Journal, les indicateurs officiels d'activité économique laissent présager un possible redressement.
+
+    Ailleurs, le Financial Times rapporte que la ruée vers les actifs gaziers a fait grimper les activités de fusions-acquisitions à leur plus haut niveau en dix ans. Toujours selon le Financial Times, les banques et les assureurs allemands se préparent au plus important bouleversement de leur régime de retraite depuis vingt ans.
+
+    Au Québec, Les Affaires rapporte que les principales autorités de réglementation ont approuvé la vente de la Banque Laurentienne.
+
+    En bref d'affaires insolites : Les Affaires rapporte que quarante-neuf personnes sont devenues millionnaires grâce au Lotto Max.
+  </chapitre>
+
+  <chapitre titre="Tech">
+    Un mot sur la tech, où l'intelligence artificielle continue de dominer l'actualité, autant sur le plan réglementaire que financier. Selon Ars Technica, ChatGPT et Reddit font maintenant face aux règles les plus strictes de l'Union européenne en matière de sécurité en ligne. La Commission européenne a annoncé lundi que ChatGPT, Reddit et Roblox seraient classés comme de très grandes plateformes en ligne au sens du Digital Services Act. Cette désignation entraîne des obligations supplémentaires, comme le retrait de contenu illégal et la protection des mineurs, avec des amendes pouvant atteindre six pour cent du chiffre d'affaires mondial en cas de non-conformité.
+
+    Du côté des semi-conducteurs, TechCrunch rapporte que Nvidia investit trois virgule cinq milliards de dollars dans le fabricant taïwanais de puces MediaTek. Cette entente illustre la stratégie de Nvidia pour rester incontournable dans l'infrastructure de l'intelligence artificielle, alors que les géants technologiques commencent à développer leurs propres puces.
+
+    TechCrunch rapporte aussi qu'une jeune entreprise nommée Clipto, qui utilise l'intelligence artificielle pour fouiller des quantités massives de vidéos, est maintenant évaluée à deux cent cinquante millions de dollars. La firme, âgée de trois ans, affirme avoir atteint quinze millions de dollars de revenus annuels récurrents et la profitabilité avant de conclure sa plus récente ronde de financement de quinze millions de dollars.
+
+    Toujours en intelligence artificielle, The Verge rapporte qu'Instagram s'attaque aux comptes qui utilisent l'intelligence artificielle en se faisant passer pour des humains. La plateforme renomme son étiquette "créateur IA" en "profil généré par IA" pour que les utilisateurs sachent clairement quand un profil met en scène une personne fictive.
+
+    Ars Technica rapporte par ailleurs qu'une fuite massive de douze téraoctets de données liées à Steam, la plateforme de jeux vidéo de Valve, a mis en ligne plus d'une décennie d'historique du jeu sur ordinateur, incluant des versions préliminaires et des prototypes jamais vus publiquement de nombreux titres.
+
+    En sciences appliquées, Ars Technica rapporte que le télescope spatial Nancy Grace Roman de la NASA, d'une valeur de quatre virgule trois milliards de dollars, a entamé sa mission dimanche après son lancement du Centre spatial Kennedy en Floride. L'appareil offrira un champ de vision cent fois plus large que celui du télescope Hubble.
+
+    Enfin, une note plus légère : TechCrunch rapporte que le lecteur multimédia gratuit VLC a franchi le cap des sept milliards de téléchargements.
+  </chapitre>
+
+  <chapitre titre="Actualité québécoise">
+    Au Québec, plusieurs dossiers judiciaires et municipaux retiennent l'attention. Selon Radio-Canada, une cour a condamné Paméla Groleau à verser cent mille dollars au cardinal Marc Ouellet, qu'il poursuivait en diffamation.
+
+    Selon La Presse, une femme devenue paralysée après son arrestation par le Service de police de la Ville de Montréal à l'automne deux mille vingt-trois réclame maintenant plus de cent dix millions de dollars à la Ville.
+
+    Toujours selon La Presse, le nombre de cadres municipaux mis en disponibilité est en hausse à Montréal. Les suppressions de postes annoncées cet hiver par l'administration de la mairesse ont fait augmenter le nombre de cadres qui touchent un salaire sans occuper de fonctions correspondantes.
+
+    Sur le plan de la sécurité publique, La Presse rapporte un deuxième incendie criminel en vingt-quatre heures contre un restaurant du quartier Saint-Michel, à Montréal, dans un immeuble comprenant neuf logements.
+
+    Enfin, selon le Journal de Montréal, des voleurs ont dérobé pour huit cent mille dollars de bijoux en pleine rue à Montréal.
+  </chapitre>
+
+  <chapitre titre="Sport">
+    Rapidement en sport, où la nouvelle du jour vient d'Argentine. Selon Al Jazeera et CBC, Lionel Messi a annoncé sa retraite du soccer international. Le joueur de trente-neuf ans a porté le chandail blanc et bleu ciel deux cent sept fois, inscrivant cent vingt-cinq buts et remportant la Coupe du monde de deux mille vingt-deux. Selon Global News, il avait mené l'Argentine à la finale de cette année, perdue contre l'Espagne en prolongation à New Jersey.
+
+    Du côté du tennis, TVA Sports rapporte que Novak Djokovic a été éliminé d'entrée à l'US Open, visiblement en grande difficulté. Denis Shapovalov, de son côté, panse ses plaies après ce que TVA Sports qualifie d'année frustrante.
+  </chapitre>
+
+  <outro>Voilà pour ce Presto du lundi trente et un août deux mille vingt-six. Si ce briefing vous est utile, le meilleur coup de main que vous pouvez nous donner, c'est de le partager à une personne qui aime rester informée. Et selon votre plateforme : un abonnement sur Spotify ou Apple Podcasts, un pouce bleu et un abonnement sur YouTube, ça prend deux secondes et ça aide vraiment Presto à grandir. Sur ce, bonne journée, et à demain.</outro>
+</script>

@@ -23,6 +23,17 @@
       <link>https://www.prestopodcast.online</link>
     </image>
     <item>
+      <title>Presto — édition du 31 août 2026</title>
+      <description>Au menu : International : reprise des hostilités entre les États-Unis et l'Iran, Précampagne électorale québécoise, Canada et États-Unis : le dossier commercial, Économie et marchés, Tech, Actualité québécoise, Sport</description>
+      <pubDate>Mon, 31 Aug 2026 16:41:05 +0000</pubDate>
+      <guid isPermaLink="false">https://github.com/meerkly-00/Presto_Podcast/releases/download/2026-08-31/2026-08-31.mp3</guid>
+      <enclosure url="https://github.com/meerkly-00/Presto_Podcast/releases/download/2026-08-31/2026-08-31.mp3" type="audio/mpeg" length="6916234"/>
+      <itunes:duration>643</itunes:duration>
+      <itunes:summary>Au menu : International : reprise des hostilités entre les États-Unis et l'Iran, Précampagne électorale québécoise, Canada et États-Unis : le dossier commercial, Économie et marchés, Tech, Actualité québécoise, Sport</itunes:summary>
+      <itunes:episode>100</itunes:episode>
+      <itunes:image href="https://www.prestopodcast.online/artwork-v2.jpg"/>
+    </item>
+    <item>
       <title>Presto — édition du 30 août 2026</title>
       <description>Au menu : Précampagne électorale québécoise, Naufrage au large de Chypre du Nord, International, Économie et marchés, Tech</description>
       <pubDate>Sun, 30 Aug 2026 14:15:24 +0000</pubDate>
