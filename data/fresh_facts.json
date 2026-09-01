@@ -1,50 +1,54 @@
 {
-  "generated_at": "2026-08-31T19:24:18.313668+00:00",
+  "generated_at": "2026-09-01T01:00:11.797142+00:00",
   "window_hours": 8,
   "faits": [
     {
-      "sujet": "Élections Québec - Programme du PQ",
-      "fait": "Le Parti québécois propose un « secrétariat de l'efficacité de l'État » et une réduction de 2,5 % de la taille du secteur public sans licenciements. Selon Radio-Canada."
+      "sujet": "Guerre commerciale Canada-États-Unis",
+      "fait": "Un officiel senior de Trump critique le premier ministre canadien et blâme le Canada pour la guerre commerciale. Selon CBC, des électeurs se rendent aux urnes pour la première élection partielle fédérale depuis le début de ce conflit."
     },
     {
-      "sujet": "Santé Québec - Mixité public-privé",
-      "fait": "Christine Fréchette, cheffe de la CAQ, ouvre la porte à la mixité public-privé en santé, ce qui contraste avec le legs de l'ex-ministre Christian Dubé. Selon Radio-Canada."
+      "sujet": "Accréditation médias convention républicaine",
+      "fait": "Le Parti républicain révoque les accréditations de presse de CBC et Radio-Canada pour sa convention à Dallas en septembre. Selon CBC World, Chuck Thompson, chef des affaires publiques à CBC, qualifie cette décision de « décevante »."
     },
     {
-      "sujet": "Conflits moyen-orient - Frappes à Gaza",
-      "fait": "Cinq morts ont été enregistrés dans des frappes israéliennes à Gaza selon les secours. Au total, 1 318 morts depuis l'entrée en vigueur du cessez-le-feu. Selon Radio-Canada."
+      "sujet": "Élections partielles fédérales canadiennes",
+      "fait": "Des scrutins ont lieu dans trois circonscriptions fédérales au Québec, en Ontario et en Colombie-Britannique. Selon Radio-Canada, ces élections partielles se tiennent le 31 août 2026."
     },
     {
-      "sujet": "Technologie - Direction Apple",
-      "fait": "Tim Cook quitte son poste de PDG d'Apple après 15 ans. Phil Schiller quitte ses fonctions de responsable de l'App Store et des événements Apple. Selon The Verge et TechCrunch."
+      "sujet": "Canadiens disparus au Népal",
+      "fait": "Ottawa envoie 10 représentants au Népal pour aider à localiser des Canadiens disparus. Selon La Presse, le gouvernement fédéral a déployé ces fonctionnaires suite à des inondations en Himalaya, avec la ministre Anita Anand confirmant cette action."
     },
     {
-      "sujet": "Technologie - Pannes informatiques",
-      "fait": "Microsoft teste un correctif pour des pannes d'Outlook qui ont causé des retards et des défaillances d'e-mail. Selon TechCrunch."
+      "sujet": "Démission secrétaire armée États-Unis",
+      "fait": "Dan Driscoll, secrétaire américain à l'Armée de terre, démissionne après 18 mois au poste. Selon Radio-Canada et Al Jazeera, sa démission suit des mois de tensions avec le ministre de la Défense Pete Hegseth."
     },
     {
-      "sujet": "Propriété intellectuelle - Anthropic",
-      "fait": "Sony et Warner Music poursuivent Anthropic pour piratage de centaines de paroles de chansons de The Beatles, Taylor Swift et Michael Jackson pour entraîner son IA. Selon Al Jazeera."
+      "sujet": "Tensions Iran-États-Unis",
+      "fait": "Le président Trump déclare que les États-Unis répondront aux frappes iraniennes contre son personnel en Jordanie. Selon Al Jazeera, le commandement central américain affirme avoir mené des frappes en représailles aux préparatifs iraniens de lancer des mines marines par fusées."
     },
     {
-      "sujet": "Économie - Indices américains",
-      "fait": "Les principaux indices boursiers américains ont baissé après une escalade au Moyen-Orient et une augmentation des prix du pétrole. Selon Wall Street Journal."
+      "sujet": "Construction ballroom Maison-Blanche Trump",
+      "fait": "La Cour suprême américaine autorise Trump à poursuivre la construction de sa salle de bal à la Maison-Blanche malgré les défis juridiques. Selon National Post et BBC, le juge en chef John Roberts se dissocie et écrit que « la construction est probablement illégale »."
     },
     {
-      "sujet": "Justice Québec - Défamation",
-      "fait": "Un juge a ordonné à Paméla Groleau de verser 100 000 $ en dommages au cardinal Marc Ouellet pour diffamation dans une action liée à des allégations d'agression sexuelle. Selon CBC et La Presse."
+      "sujet": "Vol données Apple par ancien employé",
+      "fait": "Apple présente des preuves qu'un ancien employé aurait détruit des preuves de vol de données à destination d'OpenAI après avoir appris qu'il était sous enquête. Selon TechCrunch, cette affaire concerne le vol de données propriétaires."
     },
     {
-      "sujet": "Investissement - YouTuber et GoPro",
-      "fait": "Le YouTuber Markiplier est devenu le plus grand actionnaire de GoPro avec une participation de 8,5 %. Selon The Verge."
+      "sujet": "Financement Polymarket par Trump Jr",
+      "fait": "Polymarket lève 300 millions de dollars auprès du fonds d'investissement 1789 Capital dirigé par Donald Trump Jr. Selon TechCrunch, cette levée de fonds devrait totaliser environ 1 milliard de dollars."
     },
     {
-      "sujet": "Environnement - Épidémie Ebola RDC",
-      "fait": "L'épidémie d'Ebola en République démocratique du Congo dépasse les 6 000 cas confirmés, la pire flambée de l'histoire du pays. Selon Le Devoir."
+      "sujet": "Système pratique double Alberta",
+      "fait": "Près de 400 médecins expriment de l'intérêt pour le système de pratique double en Alberta. Selon Global News, ce modèle permettra aux médecins d'offrir des services privés tout en travaillant dans le système public, en commençant par les chirurgies électives comme les remplacements de hanches et de genoux."
     },
     {
-      "sujet": "Catastrophe - Inondations Népal",
-      "fait": "Le bilan des inondations au Népal s'élève à 939 morts. Les secouristes utilisent des explosifs pour atteindre les travailleurs piégés d'une centrale hydroélectrique. Selon BBC World."
+      "sujet": "Rénovation 24 Sussex Drive",
+      "fait": "Le gouvernement canadien lance un appel d'offres pour trouver une équipe canadienne afin de rénover 24 Sussex Drive. Selon CBC, le domaine présidentiel est actuellement inhabitable et les rénovations doivent permettre aux futurs premiers ministres d'y résider."
+    },
+    {
+      "sujet": "Démission Steven Guilbeault député",
+      "fait": "Steven Guilbeault démissionne officiellement de son siège de député. Selon La Presse, le premier ministre Mark Carney devrait organiser six nouvelles élections partielles au cours des prochains mois."
     }
   ]
 }
