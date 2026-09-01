@@ -1,54 +1,50 @@
 {
-  "generated_at": "2026-09-01T01:00:11.797142+00:00",
+  "generated_at": "2026-09-01T17:10:17.926166+00:00",
   "window_hours": 8,
   "faits": [
     {
-      "sujet": "Guerre commerciale Canada-États-Unis",
-      "fait": "Un officiel senior de Trump critique le premier ministre canadien et blâme le Canada pour la guerre commerciale. Selon CBC, des électeurs se rendent aux urnes pour la première élection partielle fédérale depuis le début de ce conflit."
+      "sujet": "Élections québécoises 2026",
+      "fait": "Selon Radio-Canada, Élections Québec enverra l'information électorale uniquement en français, conformément à la législation de 2022 qui fait du français la seule langue de communication pour les institutions publiques."
     },
     {
-      "sujet": "Accréditation médias convention républicaine",
-      "fait": "Le Parti républicain révoque les accréditations de presse de CBC et Radio-Canada pour sa convention à Dallas en septembre. Selon CBC World, Chuck Thompson, chef des affaires publiques à CBC, qualifie cette décision de « décevante »."
+      "sujet": "Acquisition de GoPro",
+      "fait": "D'après The Verge, Starman Holding a acquis GoPro pour 285 millions de dollars en espèces, caractérisant l'opération comme une fusion et repositionnant l'entreprise dans la défense, le gouvernement, la robotique et l'aérospatiale."
     },
     {
-      "sujet": "Élections partielles fédérales canadiennes",
-      "fait": "Des scrutins ont lieu dans trois circonscriptions fédérales au Québec, en Ontario et en Colombie-Britannique. Selon Radio-Canada, ces élections partielles se tiennent le 31 août 2026."
+      "sujet": "Intégration ChatGPT Health",
+      "fait": "Selon TechCrunch, OpenAI a ajouté une intégration Epic à ChatGPT Health permettant aux cliniciens un accès en lecture seule aux dossiers de santé des patients."
     },
     {
-      "sujet": "Canadiens disparus au Népal",
-      "fait": "Ottawa envoie 10 représentants au Népal pour aider à localiser des Canadiens disparus. Selon La Presse, le gouvernement fédéral a déployé ces fonctionnaires suite à des inondations en Himalaya, avec la ministre Anita Anand confirmant cette action."
+      "sujet": "Lancer du Homey Portal",
+      "fait": "D'après The Verge, Homey a lancé le Portal, un contrôleur tactile pour maison intelligente avec écran rond de 2,8 pouces et cadran rotatif, aux prix de 249 dollars/euros en précommande avec livraison en décembre."
     },
     {
-      "sujet": "Démission secrétaire armée États-Unis",
-      "fait": "Dan Driscoll, secrétaire américain à l'Armée de terre, démissionne après 18 mois au poste. Selon Radio-Canada et Al Jazeera, sa démission suit des mois de tensions avec le ministre de la Défense Pete Hegseth."
+      "sujet": "Débat autonomie des véhicules",
+      "fait": "Selon TechCrunch, Waymo a argumenté que les véhicules entièrement autonomes nécessitent un mélange de capteurs et a averti que les systèmes IA pure bout-à-bout ne sont pas suffisamment sûrs, avant le lancement du Cybercab de Tesla."
     },
     {
-      "sujet": "Tensions Iran-États-Unis",
-      "fait": "Le président Trump déclare que les États-Unis répondront aux frappes iraniennes contre son personnel en Jordanie. Selon Al Jazeera, le commandement central américain affirme avoir mené des frappes en représailles aux préparatifs iraniens de lancer des mines marines par fusées."
+      "sujet": "Sanctions russes en Allemagne",
+      "fait": "D'après BBC World et Al Jazeera, l'Allemagne accuse la Russie d'avoir mené une attaque au drone sur l'aéroport de Leipzig le 4 août, avec un engin explosif découvert près d'avions de cargo ukrainiens."
     },
     {
-      "sujet": "Construction ballroom Maison-Blanche Trump",
-      "fait": "La Cour suprême américaine autorise Trump à poursuivre la construction de sa salle de bal à la Maison-Blanche malgré les défis juridiques. Selon National Post et BBC, le juge en chef John Roberts se dissocie et écrit que « la construction est probablement illégale »."
+      "sujet": "Réduction de prix Samsung Z Fold",
+      "fait": "Selon The Verge, le Samsung Galaxy Z Fold 8 Ultra bénéficie d'une réduction de 300 dollars chez Best Buy, ramenant le prix à 1 799,99 dollars pour le modèle 256 Go, soit la meilleure offre depuis son lancement."
     },
     {
-      "sujet": "Vol données Apple par ancien employé",
-      "fait": "Apple présente des preuves qu'un ancien employé aurait détruit des preuves de vol de données à destination d'OpenAI après avoir appris qu'il était sous enquête. Selon TechCrunch, cette affaire concerne le vol de données propriétaires."
+      "sujet": "Démission de Keir Starmer",
+      "fait": "D'après Al Jazeera, l'ancien premier ministre britannique déchu Keir Starmer prévoit de quitter la politique intérieure pour se concentrer sur les affaires internationales."
     },
     {
-      "sujet": "Financement Polymarket par Trump Jr",
-      "fait": "Polymarket lève 300 millions de dollars auprès du fonds d'investissement 1789 Capital dirigé par Donald Trump Jr. Selon TechCrunch, cette levée de fonds devrait totaliser environ 1 milliard de dollars."
+      "sujet": "Partenariat John Deere IA",
+      "fait": "D'après The Verge, John Deere teste un nouvel assistant IA appelé 'JD' pour aider les agriculteurs en fournissant des réponses sur les meilleures pratiques basées sur leurs données de champs et d'équipements."
     },
     {
-      "sujet": "Système pratique double Alberta",
-      "fait": "Près de 400 médecins expriment de l'intérêt pour le système de pratique double en Alberta. Selon Global News, ce modèle permettra aux médecins d'offrir des services privés tout en travaillant dans le système public, en commençant par les chirurgies électives comme les remplacements de hanches et de genoux."
+      "sujet": "Négociations commerciales Canada-États-Unis",
+      "fait": "Selon Reuters et National Post, Mark Carney, premier ministre du Canada, affirme que les États-Unis doivent cesser de 'faire des mèmes' et 'jeter l'ombre' avant que les négociations commerciales puissent reprendre."
     },
     {
-      "sujet": "Rénovation 24 Sussex Drive",
-      "fait": "Le gouvernement canadien lance un appel d'offres pour trouver une équipe canadienne afin de rénover 24 Sussex Drive. Selon CBC, le domaine présidentiel est actuellement inhabitable et les rénovations doivent permettre aux futurs premiers ministres d'y résider."
-    },
-    {
-      "sujet": "Démission Steven Guilbeault député",
-      "fait": "Steven Guilbeault démissionne officiellement de son siège de député. Selon La Presse, le premier ministre Mark Carney devrait organiser six nouvelles élections partielles au cours des prochains mois."
+      "sujet": "Sondage américain sur tarifs canadiens",
+      "fait": "D'après Reuters, un sondage Reuters/Ipsos montre que la majorité des Américains s'opposent aux nouveaux tarifs du Canada par Trump et au renommage du Lac Ontario."
     }
   ]
 }
