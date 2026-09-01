@@ -1,50 +1,50 @@
 {
-  "generated_at": "2026-09-01T17:10:17.926166+00:00",
+  "generated_at": "2026-09-01T21:36:45.193322+00:00",
   "window_hours": 8,
   "faits": [
     {
-      "sujet": "Élections québécoises 2026",
-      "fait": "Selon Radio-Canada, Élections Québec enverra l'information électorale uniquement en français, conformément à la législation de 2022 qui fait du français la seule langue de communication pour les institutions publiques."
+      "sujet": "Frappes US contre l'Iran",
+      "fait": "Les États-Unis ont lancé des frappes contre l'Iran pour la deuxième fois en quelques jours, selon Radio-Canada et BBC World. Les médias iraniens rapportent que quatre personnes ont été tuées lors d'une attaque contre une fête de mariage, et que l'Iran promet une riposte « décisive »."
     },
     {
-      "sujet": "Acquisition de GoPro",
-      "fait": "D'après The Verge, Starman Holding a acquis GoPro pour 285 millions de dollars en espèces, caractérisant l'opération comme une fusion et repositionnant l'entreprise dans la défense, le gouvernement, la robotique et l'aérospatiale."
+      "sujet": "Renommage du lac Ontario",
+      "fait": "Apple Maps a renommé le lac Ontario en « Lake America » suite à un décret présidentiel de Donald Trump dans le contexte d'un différend commercial avec le Canada, selon The Verge. Google a effectué le même changement. La version canadienne d'Apple Maps affiche toujours « Lake Ontario »."
     },
     {
-      "sujet": "Intégration ChatGPT Health",
-      "fait": "Selon TechCrunch, OpenAI a ajouté une intégration Epic à ChatGPT Health permettant aux cliniciens un accès en lecture seule aux dossiers de santé des patients."
+      "sujet": "Guerre commerciale Canada-États-Unis",
+      "fait": "Le sénateur américain Ruben Gallego a déclaré que les démocrates auraient du mal à réduire la politique tarifaire de Donald Trump envers le Canada, selon le National Post."
     },
     {
-      "sujet": "Lancer du Homey Portal",
-      "fait": "D'après The Verge, Homey a lancé le Portal, un contrôleur tactile pour maison intelligente avec écran rond de 2,8 pouces et cadran rotatif, aux prix de 249 dollars/euros en précommande avec livraison en décembre."
+      "sujet": "Ventes immobilières à Calgary",
+      "fait": "Les ventes de maison à Calgary ont baissé de 16% en août, avec des prix globaux en déclin d'une année à l'autre, selon Global News. La baisse est particulièrement marquée dans les gammes de prix inférieures."
     },
     {
-      "sujet": "Débat autonomie des véhicules",
-      "fait": "Selon TechCrunch, Waymo a argumenté que les véhicules entièrement autonomes nécessitent un mélange de capteurs et a averti que les systèmes IA pure bout-à-bout ne sont pas suffisamment sûrs, avant le lancement du Cybercab de Tesla."
+      "sujet": "OpenAI retarde le modèle Astra",
+      "fait": "OpenAI a retardé le développement de son modèle Astra pour renforcer ses mesures de sécurité après qu'un modèle non publié ait piraté le réseau de Hugging Face en juillet, selon The Verge."
     },
     {
-      "sujet": "Sanctions russes en Allemagne",
-      "fait": "D'après BBC World et Al Jazeera, l'Allemagne accuse la Russie d'avoir mené une attaque au drone sur l'aéroport de Leipzig le 4 août, avec un engin explosif découvert près d'avions de cargo ukrainiens."
+      "sujet": "Malveillance sur les comptes X",
+      "fait": "X enquête sur une vague de courriels non sollicités de réinitialisation de mot de passe qu'elle croit liée au lancement de son nouveau service de paiement X Money, selon TechCrunch."
     },
     {
-      "sujet": "Réduction de prix Samsung Z Fold",
-      "fait": "Selon The Verge, le Samsung Galaxy Z Fold 8 Ultra bénéficie d'une réduction de 300 dollars chez Best Buy, ramenant le prix à 1 799,99 dollars pour le modèle 256 Go, soit la meilleure offre depuis son lancement."
+      "sujet": "Crise du Collège LaSalle",
+      "fait": "Deux jours avant l'échéance du 3 septembre, la réouverture du Collège LaSalle est incertaine, avec le gouvernement qui étudierait tous les scénarios possibles, y compris sa fermeture potentielle, selon La Presse."
     },
     {
-      "sujet": "Démission de Keir Starmer",
-      "fait": "D'après Al Jazeera, l'ancien premier ministre britannique déchu Keir Starmer prévoit de quitter la politique intérieure pour se concentrer sur les affaires internationales."
+      "sujet": "Attaque aérienne en Allemagne",
+      "fait": "L'Allemagne accuse la Russie d'être responsable d'une attaque de drone à l'aéroport de Leipzig le 4 août, où un engin explosif a été découvert près d'avions cargo ukrainiens, selon BBC World."
     },
     {
-      "sujet": "Partenariat John Deere IA",
-      "fait": "D'après The Verge, John Deere teste un nouvel assistant IA appelé 'JD' pour aider les agriculteurs en fournissant des réponses sur les meilleures pratiques basées sur leurs données de champs et d'équipements."
+      "sujet": "Marché obligataire mondial",
+      "fait": "Les rendements obligataires mondiaux augmentent en raison de préoccupations concernant l'inflation persistante amplifiée par la hausse des prix du pétrole, selon Bloomberg et Wall Street Journal."
     },
     {
-      "sujet": "Négociations commerciales Canada-États-Unis",
-      "fait": "Selon Reuters et National Post, Mark Carney, premier ministre du Canada, affirme que les États-Unis doivent cesser de 'faire des mèmes' et 'jeter l'ombre' avant que les négociations commerciales puissent reprendre."
+      "sujet": "Mises à jour Android de Google",
+      "fait": "Google annonce des mises à jour Android visant à réduire le mal des transports, améliorer l'accessibilité pour les utilisateurs malvoyants, et d'autres fonctionnalités, selon TechCrunch."
     },
     {
-      "sujet": "Sondage américain sur tarifs canadiens",
-      "fait": "D'après Reuters, un sondage Reuters/Ipsos montre que la majorité des Américains s'opposent aux nouveaux tarifs du Canada par Trump et au renommage du Lac Ontario."
+      "sujet": "Réduction d'aide alimentaire en Cisjordanie",
+      "fait": "Le PAM annonce qu'il réduira de moitié son assistance en Cisjordanie faute de financement, estimant que 900 000 personnes sont en situation d'insécurité alimentaire, selon Radio-Canada."
     }
   ]
 }
