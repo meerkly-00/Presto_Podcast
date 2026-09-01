@@ -1,0 +1,73 @@
+```xml
+<script>
+  <intro>Bonjour, on est le mardi premier septembre deux mille vingt-six. Voici votre Presto en environ quinze minutes. Au menu : l'escalade militaire au Moyen-Orient et ses effets sur les marchés, la catastrophe qui s'aggrave au Népal et au Tibet, la campagne électorale québécoise, le changement de direction chez Apple, et un mot sur l'espace.</intro>
+
+  <chapitre titre="International : escalade au Moyen-Orient">
+    On commence par la situation qui continue de se détériorer au Moyen-Orient. Selon Reuters, deux pétroliers transportant du pétrole saoudien ont été frappés dans le détroit d'Ormuz, tard lundi, par des projectiles non identifiés. CBC précise que les navires ont été touchés à quelques minutes d'intervalle alors qu'ils quittaient le détroit, selon les firmes de renseignement maritime Marisks et Kpler.
+
+    Cette attaque survient après la reprise des frappes entre les États-Unis et l'Iran rapportée hier. Selon Reuters, l'Iran presse maintenant les États-Unis de respecter une entente intérimaire, alors que le président américain Donald Trump menace de nouvelles frappes. Toujours selon Reuters, un sondage Ipsos indique qu'une majorité d'Américains s'opposent aux nouveaux tarifs de Trump contre le Canada, de même qu'à sa proposition de renommer le lac Ontario.
+
+    En Ukraine, la guerre continue également. Selon CBC, des frappes aériennes russes ont fait douze morts dans la région de Kyiv tôt mardi, une sixième journée consécutive d'attaques sur la capitale ukrainienne. La BBC rapporte que vingt personnes, dont deux enfants, ont été blessées dans une nouvelle frappe visant des travailleurs ferroviaires.
+
+    Sur le plan diplomatique, Al Jazeera rapporte que l'Organisation de coopération de Shanghai, réunie à Bichkek, a dénoncé les attaques et les sanctions contre l'Iran. L'organisation représente, selon Al Jazeera, quarante-trois pour cent de la population mondiale et vingt-trois pour cent de l'économie mondiale.
+
+    Ailleurs, Al Jazeera rapporte qu'Israël affirme avoir capturé un membre haut placé du Hamas, après un raid à Gaza qui a fait trois morts dans des frappes subséquentes.
+  </chapitre>
+
+  <chapitre titre="International : catastrophe au Népal et au Tibet">
+    La catastrophe survenue au Népal et au Tibet continue de s'aggraver. Selon CBC, le bilan des inondations soudaines a franchi le seuil des mille morts mardi, alors que les équipes de sauvetage tentent toujours d'atteindre des communautés coupées du monde. La BBC précise que des milliers de personnes demeurent portées disparues, et que les médias d'État chinois font état de seize morts au Tibet.
+
+    Presto continuera de suivre l'évolution de cette catastrophe.
+  </chapitre>
+
+  <chapitre titre="Précampagne électorale québécoise">
+    Au Québec, la campagne électorale provinciale se poursuit à l'approche du scrutin du cinq octobre. Selon Radio-Canada, la cheffe caquiste Christine Fréchette courtise maintenant les électeurs libéraux "déçus", les invitant à voter stratégiquement pour la Coalition avenir Québec afin d'empêcher l'élection du Parti québécois.
+
+    Toujours selon Radio-Canada, madame Fréchette doit encore faire ses preuves pour démontrer qu'elle peut succéder à François Legault à la tête du parti.
+
+    Par ailleurs, le premier débat électoral en habitation doit réunir aujourd'hui quatre partis, selon Les Affaires, avec l'ancienne première ministre Pauline Marois comme invitée d'honneur.
+
+    Du côté fédéral, Global News rapporte que Steven Guilbeault a démissionné comme député de Laurier, Sainte-Marie. Il affirme quitter le gouvernement par principe, la direction du parti en matière d'énergie et d'environnement ayant changé sous le leadership de Mark Carney.
+
+    Toujours au fédéral, Radio-Canada rapporte que le Parti libéral a remporté les élections partielles dans les circonscriptions de Chicoutimi, Le Fjord, North Vancouver, Capilano et Beaches, East York, consolidant ainsi sa majorité parlementaire.
+  </chapitre>
+
+  <chapitre titre="Économie et marchés">
+    On passe à l'économie, où les tensions au Moyen-Orient dominent le portrait des marchés. Selon Reuters, la flambée des prix du pétrole liée aux tensions au Moyen-Orient alimente les craintes inflationnistes, provoquant une chute des actions et un approfondissement du dégagement obligataire mondial. Le Financial Times confirme que ce dégagement s'intensifie sur fond de craintes inflationnistes persistantes.
+
+    Selon le Wall Street Journal, les principaux indices boursiers américains ont reculé lundi en raison de cette flambée au Moyen-Orient, malgré des gains mensuels enregistrés par ailleurs, selon Reuters. Bloomberg rapporte que les actions asiatiques devraient également reculer en réaction à la hausse du pétrole causée par la crise avec l'Iran.
+
+    Selon Reuters, plusieurs grands banquiers centraux réunis à Jackson Hole entrevoient ce que l'agence qualifie de scénario préoccupant lié à l'intelligence artificielle pour l'avenir de l'économie mondiale.
+
+    Du côté canadien, Global News rapporte que le syndicat Unifor entame des négociations contractuelles avec Stellantis, après avoir déjà ratifié de nouvelles conventions collectives avec Ford et General Motors cet été. Les ententes actuelles avec Stellantis doivent expirer le vingt septembre.
+
+    Ici au Québec, l'Organisme canadien de réglementation des investissements a autorisé la reprise de la négociation du titre de la Banque Canadian Advocate, selon Les Affaires. Toujours selon Les Affaires, la firme Raymond Chabot Grant Thornton demande aux partis politiques québécois de faire de l'intelligence artificielle une priorité économique dans le cadre de la campagne électorale.
+  </chapitre>
+
+  <chapitre titre="Tech">
+    Un mot sur la tech, où le grand titre du jour vient de Cupertino. Selon The Verge, John Ternus a officiellement pris les rênes d'Apple à titre de nouveau chef de la direction depuis mardi, remplaçant Tim Cook après plus d'une décennie à la tête de l'entreprise. Johny Srouji devient de son côté chef du matériel informatique. Selon Reuters, Apple hérite ainsi d'une entreprise plus grosse et plus riche qu'à l'arrivée de monsieur Cook, mais qui accuse un retard dans la course à l'intelligence artificielle. Le prochain événement de lancement de l'iPhone est prévu le neuf septembre.
+
+    Toujours chez Apple, TechCrunch rapporte que l'entreprise a présenté ce qu'elle qualifie de preuves accablantes contre un ancien employé accusé d'avoir volé des données de l'entreprise pour le compte d'OpenAI.
+
+    En Floride, selon The Verge, le département des Transports de l'État bannit les caméras de lecture de plaques d'immatriculation de type Flock sur les autoroutes, invoquant une hausse fulgurante de leur déploiement et des préoccupations liées à la surveillance et à la protection des renseignements personnels. Les appareils devront être retirés d'ici trente jours.
+
+    Du côté du matériel, The Verge rapporte que septembre s'annonce particulièrement chargé pour les lancements de téléphones intelligents, avec le salon IFA à Berlin cette semaine et les nouveaux iPhone dans une dizaine de jours. Nvidia, de son côté, lance sa technologie DLSS cinq le trois septembre, exigeant des cartes graphiques de la série RTX cinquante, selon The Verge.
+
+    En matière spatiale, Ars Technica rapporte que la NASA n'a, pour la première fois en plus de trente ans, aucun plan ferme d'envoi de nouveaux atterrisseurs ou robots vers Mars, misant plutôt sur une flotte d'hélicoptères dans le cadre de la mission SkyFall, prévue dès la fin de l'année deux mille vingt-huit. Toujours selon Ars Technica et TechCrunch, l'entreprise Starcloud, évaluée à deux milliards trois cents millions de dollars, explore désormais l'idée d'envoyer une sonde vers Alpha Centauri.
+  </chapitre>
+
+  <chapitre titre="Actualité québécoise">
+    Au Québec, plusieurs dossiers retiennent l'attention ce matin. Selon Le Devoir, des dispositions de la Loi sur le renforcement de la laïcité entrent en vigueur aujourd'hui, mettant fin aux salles de prière dans les collèges et universités.
+
+    Par ailleurs, La Presse rapporte que la Confédération des syndicats nationaux conteste à son tour devant la Cour supérieure la loi sur la gouvernance et la transparence syndicales.
+  </chapitre>
+
+  <chapitre titre="Sport">
+    Rapidement en sport. Selon Sportsnet, les Cubs de Chicago ont frappé neuf circuits, un record d'équipe, dans une victoire de dix-sept à trois contre les Brewers de Milwaukee lundi soir, avec trois de ces circuits venant du bâton d'Alex Bregman. Les Blue Jays de Toronto entament de leur côté une série de trois matchs à Cleveland contre les Guardians, une occasion selon Sportsnet de gagner du terrain au classement en vue des séries.
+
+    Du côté du hockey, TVA Sports rapporte qu'Arber Xhekaj, toujours sans contrat, a rejoint ses coéquipiers du Canadien à Brossard.
+  </chapitre>
+
+  <outro>Voilà pour ce Presto du premier septembre. Si ce briefing vous est utile, le meilleur coup de main que vous pouvez nous donner, c'est de le partager à une personne qui aime rester informée. Et selon votre plateforme : un abonnement sur Spotify ou Apple Podcasts, un pouce bleu et un abonnement sur YouTube, ça prend deux secondes et ça aide vraiment Presto à grandir. Sur ce, bonne journée, et à demain.</outro>
+</script>
+```
