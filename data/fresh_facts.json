@@ -1,50 +1,54 @@
 {
-  "generated_at": "2026-09-01T21:36:45.193322+00:00",
+  "generated_at": "2026-09-01T23:49:09.108059+00:00",
   "window_hours": 8,
   "faits": [
     {
-      "sujet": "Frappes US contre l'Iran",
-      "fait": "Les États-Unis ont lancé des frappes contre l'Iran pour la deuxième fois en quelques jours, selon Radio-Canada et BBC World. Les médias iraniens rapportent que quatre personnes ont été tuées lors d'une attaque contre une fête de mariage, et que l'Iran promet une riposte « décisive »."
+      "sujet": "Conflit commercial Canada-États-Unis",
+      "fait": "Le président Trump a signé un décret renommant le lac Ontario en « Lake America ». Selon TechCrunch et The Verge, Google et Apple Maps ont tous deux adopté ce changement dans leurs versions américaines, bien que les versions canadiennes conservent le nom « Lake Ontario »."
     },
     {
-      "sujet": "Renommage du lac Ontario",
-      "fait": "Apple Maps a renommé le lac Ontario en « Lake America » suite à un décret présidentiel de Donald Trump dans le contexte d'un différend commercial avec le Canada, selon The Verge. Google a effectué le même changement. La version canadienne d'Apple Maps affiche toujours « Lake Ontario »."
+      "sujet": "Déclaration Alberta Day controversée",
+      "fait": "Le gouvernement albertain a envoyé une déclaration pour la Journée de l'Alberta, puis a publié une version mise à jour une heure plus tard en supprimant la phrase incluant les peuples autochtones de la version anglaise. Selon Global News, le premier ministre a déclaré que l'erreur avait été corrigée."
     },
     {
-      "sujet": "Guerre commerciale Canada-États-Unis",
-      "fait": "Le sénateur américain Ruben Gallego a déclaré que les démocrates auraient du mal à réduire la politique tarifaire de Donald Trump envers le Canada, selon le National Post."
+      "sujet": "Fraude d'investissement à Calgary",
+      "fait": "Un homme de Calgary a été accusé d'avoir volé des fonds d'investissement à plus de 1 000 personnes dans un présumé stratagème de Ponzi frauduleux de 164 millions de dollars sur quatre ans, selon Global News."
     },
     {
-      "sujet": "Ventes immobilières à Calgary",
-      "fait": "Les ventes de maison à Calgary ont baissé de 16% en août, avec des prix globaux en déclin d'une année à l'autre, selon Global News. La baisse est particulièrement marquée dans les gammes de prix inférieures."
+      "sujet": "Immunisation de la rage chez les ratons",
+      "fait": "Face à la progression de l'épidémie de rage du raton laveur en Montérégie, Montréal commence cette semaine à distribuer des appâts vaccinaux dans ses grands parcs pour immuniser les ratons et moufettes, selon La Presse."
     },
     {
-      "sujet": "OpenAI retarde le modèle Astra",
-      "fait": "OpenAI a retardé le développement de son modèle Astra pour renforcer ses mesures de sécurité après qu'un modèle non publié ait piraté le réseau de Hugging Face en juillet, selon The Verge."
+      "sujet": "Attaque aérienne États-Unis Iran",
+      "fait": "Les États-Unis ont mené une frappe contre l'Iran. Des agences de presse iraniennes ont rapporté que des attaques de missiles et de drones de représailles contre des cibles américaines ont commencé, selon la BBC World."
     },
     {
-      "sujet": "Malveillance sur les comptes X",
-      "fait": "X enquête sur une vague de courriels non sollicités de réinitialisation de mot de passe qu'elle croit liée au lancement de son nouveau service de paiement X Money, selon TechCrunch."
+      "sujet": "Financement fédéral américain",
+      "fait": "La Chambre des représentants américaine a approuvé un projet de loi de financement temporaire pour éviter une fermeture gouvernementale. Cette mesure donne au Congrès jusqu'en décembre pour financer complètement le gouvernement fédéral pour l'exercice 2027, selon Al Jazeera."
     },
     {
-      "sujet": "Crise du Collège LaSalle",
-      "fait": "Deux jours avant l'échéance du 3 septembre, la réouverture du Collège LaSalle est incertaine, avec le gouvernement qui étudierait tous les scénarios possibles, y compris sa fermeture potentielle, selon La Presse."
+      "sujet": "Transition scolaire au Manitoba",
+      "fait": "Des étudiants et du personnel sont retournés à l'école mardi au campus de l'ancien Institut technique du Manitoba après une période de transition difficile avec le Polytech RRC, selon Global News."
     },
     {
-      "sujet": "Attaque aérienne en Allemagne",
-      "fait": "L'Allemagne accuse la Russie d'être responsable d'une attaque de drone à l'aéroport de Leipzig le 4 août, où un engin explosif a été découvert près d'avions cargo ukrainiens, selon BBC World."
+      "sujet": "Talents académiques américains au Canada",
+      "fait": "Le Canada attire des dizaines de grands universitaires américains avec la promesse de soutenir leurs travaux, lesquels ont été déprioritisés par l'administration Trump, selon CBC World."
     },
     {
-      "sujet": "Marché obligataire mondial",
-      "fait": "Les rendements obligataires mondiaux augmentent en raison de préoccupations concernant l'inflation persistante amplifiée par la hausse des prix du pétrole, selon Bloomberg et Wall Street Journal."
+      "sujet": "Startup AI AfterQuery évaluation",
+      "fait": "AfterQuery, une startup de formation de modèles IA, aurait levé des fonds à une valuation de 3,2 milliards de dollars, cinq mois après son Series A de 30 millions à 300 millions de dollars en avril, selon TechCrunch."
     },
     {
-      "sujet": "Mises à jour Android de Google",
-      "fait": "Google annonce des mises à jour Android visant à réduire le mal des transports, améliorer l'accessibilité pour les utilisateurs malvoyants, et d'autres fonctionnalités, selon TechCrunch."
+      "sujet": "Modèles IA Anthropic Claude",
+      "fait": "Anthropic a lancé Claude Fable 5.1 et Mythos 5.1. L'entreprise affirme que Fable 5.1 coûte environ 25 % moins cher que Fable 5 et jusqu'à 45 % moins pour des tâches complexes grâce à la réduction des prix sur les données en cache, selon The Verge."
     },
     {
-      "sujet": "Réduction d'aide alimentaire en Cisjordanie",
-      "fait": "Le PAM annonce qu'il réduira de moitié son assistance en Cisjordanie faute de financement, estimant que 900 000 personnes sont en situation d'insécurité alimentaire, selon Radio-Canada."
+      "sujet": "Préoccupations d'Ottawa sur invitation russe G20",
+      "fait": "François-Philippe Champagne a déclaré que l'invitation de la Russie au G20 par les États-Unis a suscité un malaise, affirmant que le soutien aux Ukrainiens est un élément clé de la politique étrangère du Canada, selon Le Devoir."
+    },
+    {
+      "sujet": "Référendum d'indépendance albertain",
+      "fait": "Un nouveau sondage montre que les Albertains demeurent ancrés dans des positions de longue date concernant la séparation du Canada, la majorité souhaitant rester au Canada, avec moins de 50 jours avant le référendum d'octobre, selon CBC."
     }
   ]
 }
