@@ -1,54 +1,54 @@
 {
-  "generated_at": "2026-09-02T21:37:00.553217+00:00",
+  "generated_at": "2026-09-02T23:52:51.239693+00:00",
   "window_hours": 8,
   "faits": [
     {
-      "sujet": "Conflits d'intérêts - Députée fédérale",
-      "fait": "La députée Lori Idlout a enfreint le code régissant les conflits d'intérêts des députés, selon une annonce du commissaire aux conflits d'intérêts et à l'éthique Konrad von Finckenstein. Selon La Presse."
+      "sujet": "Tempête à Toronto",
+      "fait": "Toronto a connu des vents violents, des pluies torrentielles et de la grêle mercredi soir. Hydro-Toronto rapporte environ 65 000 pannes causées par ces conditions météorologiques difficiles. Selon Radio-Canada, le Centre des opérations d'urgence de la Ville a été activé."
     },
     {
-      "sujet": "Grève - Cols bleus Montréal",
-      "fait": "Les cols bleus de Montréal tiendront sept journées de grève du 22 au 28 septembre, en plein cœur des Championnats du monde de cyclisme sur route (UCI). Selon La Presse."
+      "sujet": "Inondations flash au Népal",
+      "fait": "Un glacier effondré au Népal a causé des inondations catastrophiques qui ont tué plus d'un millier de personnes, selon CBC World. Des milliers d'autres sont toujours portés disparus."
     },
     {
-      "sujet": "Taxe d'accise fédérale essence",
-      "fait": "Le congé de la taxe d'accise fédérale sur l'essence sera suspendu jusqu'à la fin du mois de janvier 2027, puis sera graduellement rétabli. Selon Radio-Canada."
+      "sujet": "Prévisions puces IA Broadcom",
+      "fait": "Broadcom a relevé ses prévisions de ventes de puces IA à mesure que les grandes technologies continuent d'augmenter leurs dépenses, selon Reuters Business."
     },
     {
-      "sujet": "Réouverture autoroute 40 Québec",
-      "fait": "La circulation sur l'autoroute 40 dans le secteur de Saint-Cuthbert sera réouverte dans la nuit de mercredi à jeudi suite à un affaissement de ponceau. Selon La Presse."
+      "sujet": "Robotaxis Uber à Londres",
+      "fait": "Uber a lancé un service de robotaxi commercial à Londres avant Waymo, utilisant la technologie autonome développée par Wayve. Les véhicules comporteront initialement des conducteurs de sécurité, selon The Verge."
     },
     {
-      "sujet": "Acquisition Delivery Hero - Uber",
-      "fait": "Le conseil d'administration de Delivery Hero soutient l'offre de reprise d'Uber à hauteur de 15 milliards de dollars. Selon TechCrunch."
+      "sujet": "Acquisition Palo Alto Networks",
+      "fait": "Palo Alto Networks a acquis Console pour 500 millions de dollars, selon TechCrunch, laissant Serval comme leader de facto dans l'automatisation des services informatiques alimentée par l'IA."
     },
     {
-      "sujet": "Gemini 3.8 Flash - Google",
-      "fait": "Google a lancé Gemini 3.8 Flash, son troisième modèle Flash en six semaines, à un tarif d'introduction de 0,75 dollar par million de jetons d'entrée et 3,75 dollars par million de jetons de sortie. Selon Ars Technica."
+      "sujet": "Procès contre OpenAI Tumbler Ridge",
+      "fait": "De multiples poursuites ont été déposées contre OpenAI, alléguant que ChatGPT a joué un rôle dans la fusillade de masse de Tumbler Ridge. Selon Al Jazeera, une enseignante a partagé son histoire publiquement pour la première fois."
     },
     {
-      "sujet": "Spationautique - Combinaison lunaire NASA",
-      "fait": "La NASA a décidé d'utiliser une combinaison spatiale simplifiée (Sortie Suit) pour ses missions initiales à la surface lunaire, en collaboration avec Axiom Space, afin d'accélérer le programme d'atterrissage dès 2028. Selon Ars Technica."
+      "sujet": "Dépistage testostérone militaire États-Unis",
+      "fait": "Le Pentagone a rendu obligatoire le dépistage des carences en testostérone pour les militaires en service actif et réservistes de 30 ans et plus, selon CBC World. Cette politique a été annoncée suite à un communiqué du secrétaire de la Défense Pete Hegseth."
     },
     {
-      "sujet": "Violation politique - Élus B.C. Conservatives",
-      "fait": "Deux élus de la Colombie-Britannique, Donegal Wilson et Scott McInnis, ont quitté le caucus du B.C. Conservative pour siéger comme indépendants. Selon CBC."
+      "sujet": "Budget Calgary 2027",
+      "fait": "Un augmentation de taxe foncière de 20,2 % serait requise si Calgary finance toutes les demandes budgétaires de 2027, selon des documents budgétaires confidentiels préliminaires obtenus par Global News."
     },
     {
-      "sujet": "Conflit West Bank Palestiniens",
-      "fait": "Deux Palestiniens ont été tués lors d'un raid de colons et de forces israéliennes dans le village al-Mughayyer en Cisjordanie. Selon Al Jazeera."
+      "sujet": "Grève Air Canada Express",
+      "fait": "Les agents de bord d'Air Canada Express votent sur un mandat de grève alors que les négociations contractuelles sont au point mort, selon CBC."
     },
     {
-      "sujet": "Procès Lindsay Clancy - Verdict",
-      "fait": "Le jury dans l'affaire Lindsay Clancy a terminé un cinquième jour de délibérations sans parvenir à un verdict unanime sur la culpabilité de la mère du Massachusetts. Selon CBC World."
+      "sujet": "Lac Ontario renommé Lake America",
+      "fait": "Le lac Ontario est devenu « Lake America » pour les utilisateurs américains de Google Maps, bien que le président Trump ne puisse pas forcer le Canada à adopter le même changement, selon Le Devoir."
     },
     {
-      "sujet": "Brèche sécurité - Vérification identité",
-      "fait": "Plus de 150 millions de photos de permis de conduire auraient été volées d'un service de vérification d'identité, selon un site de recherche de fraude à l'identité qui a maintenant fermé. Selon TechCrunch."
+      "sujet": "Jugement antitrust Google",
+      "fait": "Un juge a épargné à Google une séparation de son activité publicitaire mais a ordonné à l'entreprise de modifier ses opérations pour favoriser ses concurrents, selon TechCrunch."
     },
     {
-      "sujet": "1Password - Controverse financement Linux",
-      "fait": "1Password a versé 300 000 dollars à Omacom, la fondation à l'origine d'une distribution Linux, ce qui a provoqué une réaction négative de clients. Selon The Verge."
+      "sujet": "Sanctions NBA Clippers",
+      "fait": "La NBA a suspendu le propriétaire des Clippers Steve Ballmer, a infligé une amende de 30 millions de dollars à l'équipe et 700 000 dollars à Kawhi Leonard dans une affaire de contournement du plafond salarial, selon Associated Press."
     }
   ]
 }
