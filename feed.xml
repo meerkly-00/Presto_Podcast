@@ -23,6 +23,17 @@
       <link>https://www.prestopodcast.online</link>
     </image>
     <item>
+      <title>Presto — édition du 2 septembre 2026</title>
+      <description>Au menu : International : escalade entre les États-Unis et l'Iran, Économie et marchés : la déroute obligataire mondiale, Précampagne électorale québécoise, Actualité canadienne, Tech, Environnement, Sport</description>
+      <pubDate>Wed, 02 Sep 2026 13:12:21 +0000</pubDate>
+      <guid isPermaLink="false">https://github.com/meerkly-00/Presto_Podcast/releases/download/2026-09-02/2026-09-02.mp3</guid>
+      <enclosure url="https://github.com/meerkly-00/Presto_Podcast/releases/download/2026-09-02/2026-09-02.mp3" type="audio/mpeg" length="8492811"/>
+      <itunes:duration>785</itunes:duration>
+      <itunes:summary>Au menu : International : escalade entre les États-Unis et l'Iran, Économie et marchés : la déroute obligataire mondiale, Précampagne électorale québécoise, Actualité canadienne, Tech, Environnement, Sport</itunes:summary>
+      <itunes:episode>102</itunes:episode>
+      <itunes:image href="https://www.prestopodcast.online/artwork-v2.jpg"/>
+    </item>
+    <item>
       <title>Presto — édition du 1 septembre 2026</title>
       <description>Au menu : International : escalade au Moyen-Orient, International : catastrophe au Népal et au Tibet, Précampagne électorale québécoise, Économie et marchés, Tech, Actualité québécoise, Sport</description>
       <pubDate>Tue, 01 Sep 2026 13:54:09 +0000</pubDate>
