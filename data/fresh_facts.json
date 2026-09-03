@@ -1,50 +1,54 @@
 {
-  "generated_at": "2026-09-03T21:34:57.995563+00:00",
+  "generated_at": "2026-09-03T23:48:12.429867+00:00",
   "window_hours": 8,
   "faits": [
     {
-      "sujet": "Tuerie de Tumbler Ridge et OpenAI",
-      "fait": "Le premier ministre de la Colombie-Britannique David Eby reproche à OpenAI de s'être retirée d'un processus de médiation, ce qui a conduit à de nouvelles actions en justice intentées par des témoins de la fusillade meurtrière. Selon La Presse, Eby a qualifié cette attitude d'inexcusable et de honteuse."
+      "sujet": "Guerre commerciale Canada-États-Unis",
+      "fait": "Le ministre des Finances Chrystia Freeland conteste les accusations américaines concernant l'échec des négociations commerciales, tandis que le président Trump anticipe un « effondrement » de l'économie canadienne. Selon Radio-Canada et National Post."
     },
     {
-      "sujet": "Nouveau billet canadien de 20 dollars",
-      "fait": "Le roi Charles III figure sur le nouveau billet de 20 dollars canadien, qui est aussi orné de plantes importantes pour les Autochtones et du monument de Vimy. Selon Radio-Canada, ce design a été officialisé."
+      "sujet": "Suspension NBA Steve Ballmer",
+      "fait": "Steve Ballmer, ancien PDG de Microsoft et propriétaire des Clippers, a été suspendu pour un an par la NBA. L'équipe devra céder cinq choix de repêchage et payer 30 millions $ d'amende suite à un accord de commandite de 28 millions $ impliquant Kawhi Leonard. Selon The Verge."
     },
     {
-      "sujet": "Financement du transport scolaire à Halifax",
-      "fait": "Les étudiants de Halifax en grades 7 à 12 recevront à nouveau des laissez-passer de transport gratuit après une période d'incertitude financière. Selon Global News, l'annonce a été faite la veille de la rentrée scolaire."
+      "sujet": "Nouveau billet 20 dollars canadien",
+      "fait": "La Banque du Canada a dévoilé le nouveau billet de 20 $ présentant le roi Charles III, qui sera mis en circulation au début 2027. Le processus de conception a coûté 6 millions $. Selon Le Devoir et Radio-Canada."
     },
     {
-      "sujet": "Contrôle des loyers au Manitoba",
-      "fait": "Le gouvernement NPD du Manitoba élargit le contrôle des loyers pour inclure les locataires payant jusqu'à 2 000 dollars par mois, une expansion proposée plus tôt dans l'année. Selon Global News, cette mesure s'ajoute aux protections existantes."
+      "sujet": "Accord pétrolier États-Unis-Venezuela",
+      "fait": "L'accord pétrolier multimilliardaire entre le président Trump et la présidente intérimaire du Venezuela Delcy Rodriguez est dénoncé par l'opposition vénézuélienne et des éléments du gouvernement en place, qui le qualifient d'illégitime. Selon CBC."
     },
     {
-      "sujet": "Investment fédéral dans VIA Rail",
-      "fait": "Ottawa investit 4,7 milliards de dollars dans de nouvelles voitures de passagers VIA Rail fabriquées au Canada. Selon BNN Bloomberg, cet investissement représente un engagement majeur envers l'infrastructure ferroviaire nationale."
+      "sujet": "Attaque aérienne mariage iranien",
+      "fait": "Une analyse montre qu'une frappe qui a tué quatre personnes lors d'un mariage en Iran était probablement un impact direct d'une munition américaine. Le vice-président Vance confirme que les États-Unis enquêtent. Selon Reuters et BBC World."
     },
     {
-      "sujet": "Tarifs douaniers américains sur l'aviation canadienne",
-      "fait": "Le président américain Donald Trump affirme que sa menace d'imposer des tarifs de 50 pour cent sur l'industrie aérienne canadienne provient d'une conversation avec un ami fortuné qui ne pouvait pas acheter le jet d'affaires de son choix. Selon le National Post, Trump a lié cette mesure commerciale à un incident personnel."
+      "sujet": "Réductions d'emplois Volkswagen",
+      "fait": "Volkswagen annonce 50 000 réductions d'emplois dans le groupe après l'approbation d'un plan de restructuration par le conseil d'administration. Selon Reuters Business."
     },
     {
-      "sujet": "Demandes de scrutin par correspondance en Alberta",
-      "fait": "Elections Alberta avance la date limite pour demander des bulletins de vote par correspondance au 25 septembre au lieu du 9 octobre, en réaction à une demande exceptionnellement élevée. Selon Global News, cet intérêt record explique l'accélération du calendrier."
+      "sujet": "Déclarations données santé publique",
+      "fait": "Robert F. Kennedy Jr., secrétaire à la Santé, a ordonné à la directrice des CDC Erica Schwartz de supprimer deux décès de rougeole des données publiques de l'agence. Les CDC conservent secrètement ces décès dans leurs registres internes. Selon Ars Technica et Reuters."
     },
     {
-      "sujet": "Attaque aérienne russe en Ukraine",
-      "fait": "Des drones russes ont frappé et endommagé une usine Coca-Cola à l'extérieur de Kyiv jeudi. Selon CBC World, le président Zelenskyy a confirmé cette attaque."
+      "sujet": "Visite présidentielle Ukraine au Canada",
+      "fait": "Le président ukrainien Volodymyr Zelensky prévoit de se rendre au Canada la semaine prochaine. Selon La Presse."
     },
     {
-      "sujet": "Vague de chaleur record en France",
-      "fait": "La France enregistre l'été le plus chaud jamais mesuré en 2026, se joignant à d'autres pays européens dans ce record climatique. Selon Al Jazeera, cette tendance s'inscrit dans un contexte de changement climatique."
+      "sujet": "Limites streaming Xbox Game Pass",
+      "fait": "Microsoft impose des limites mensuelles sur le streaming Game Pass à partir de novembre : 15 heures pour Ultimate, 10 heures pour Premium, 5 heures pour Essential. Selon Ars Technica."
     },
     {
-      "sujet": "Restructuration chez Volkswagen",
-      "fait": "Le conseil d'administration de Volkswagen approuve un plan de restructuration et signale la possibilité de réduire 50 000 emplois à travers le groupe. Selon Reuters, cette décision représente un tournant majeur pour le constructeur automobile."
+      "sujet": "Transplantation rein de porc",
+      "fait": "Un homme a survécu 271 jours avec un rein de porc transplanté, un record de neuf mois en attente d'une greffe humaine. Selon BBC World."
     },
     {
-      "sujet": "Décès de Gloria Steinem",
-      "fait": "Gloria Steinem, symbole central du mouvement féministe et avocate éloquente de l'égalité, décède à 92 ans. Selon l'Associated Press, Steinem a marqué plusieurs décennies de lutte pour les droits des femmes."
+      "sujet": "Financement parcs Québec",
+      "fait": "Christine Fréchette promet 200 millions $ supplémentaires à la Sépaq pour l'agrandissement d'installations et de parcs dans la province. Selon Radio-Canada."
+    },
+    {
+      "sujet": "Déclassification rapport nazis Canada",
+      "fait": "Un tribunal fédéral ordonne que certains segments d'un rapport de 1986 de 618 pages examinant l'arrivée de présumés criminels de guerre nazis au Canada après la Seconde Guerre mondiale soient rendus publics. Selon National Post."
     }
   ]
 }
