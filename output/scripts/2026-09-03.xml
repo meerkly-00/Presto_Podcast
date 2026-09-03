@@ -1,0 +1,67 @@
+```xml
+<script>
+  <intro>Bonjour, on est le jeudi trois septembre deux mille vingt-six. Voici votre Presto en environ quinze minutes. Au menu : la campagne électorale québécoise, le commerce entre le Canada et les États-Unis, l'économie avec un rachat majeur dans l'intelligence artificielle, la mort de Gloria Steinem, et un mot sur le Népal et la météo mondiale.</intro>
+
+  <chapitre titre="Précampagne électorale québécoise">
+    Au Québec, la campagne électorale provinciale se poursuit à l'approche du scrutin du cinq octobre. Selon Radio-Canada, le Parti conservateur du Québec, par la voix d'Éric Duhaime, promet d'investir un virgule quatre milliard de dollars sur cinq ans dans les différentes formes de services de garde pour les tout-petits, dans le but, selon le parti, de « ramener une culture profamille ».
+
+    Toujours selon Radio-Canada, la question des compressions dans la fonction publique s'impose dans la campagne. Quatre partis proposent de couper dans l'appareil gouvernemental sans toucher aux services, une promesse que plusieurs observateurs jugent difficile à concilier. Radio-Canada illustre d'ailleurs les effets concrets de compressions déjà en vigueur : la lutte contre la rage du raton laveur a été ralentie par des restrictions budgétaires, forçant les fonctionnaires à négocier des heures supplémentaires pour maintenir la campagne de vaccination.
+
+    Un autre thème récurrent de la campagne, celui du fardeau fiscal, est examiné par CBC, qui se penche sur l'affirmation souvent répétée selon laquelle le Québec serait la juridiction la plus taxée en Amérique du Nord.
+
+    Par ailleurs, selon La Presse, la Fédération interprofessionnelle de la santé du Québec demande aux partis de mettre la santé au cœur de leurs engagements électoraux. Toujours en santé, La Presse rapporte que sept cent vingt-six patients occupent actuellement des lits d'hôpitaux au Québec en attente d'une place en centre d'hébergement et de soins de longue durée, une situation qui accapare des ressources hospitalières alors que l'hôpital n'est pas, selon plusieurs intervenants cités, un milieu de vie adéquat pour une personne âgée.
+  </chapitre>
+
+  <chapitre titre="Canada et États-Unis : le dossier commercial">
+    Le dossier commercial entre le Canada et les États-Unis continue de faire des vagues à Ottawa. Selon le National Post, le négociateur en chef du Canada a souligné que le secrétaire américain au Commerce n'était pas à la table lorsque les pourparlers commerciaux ont échoué, il y a près de deux semaines. La question de savoir pourquoi les discussions ont réellement déraillé reste au cœur du débat politique canadien.
+
+    De son côté, selon BNN Bloomberg, le secrétaire américain au Commerce, Howard Lutnick, soutient que le Canada a lui-même fait échouer l'entente commerciale avec les États-Unis afin de se donner un levier politique. Cette version des faits est contestée à Ottawa, où l'on pointe plutôt l'absence de l'administration américaine à la table de négociation comme cause de l'échec.
+
+    Toujours selon BNN Bloomberg, le premier ministre Mark Carney doit annoncer ce qui est qualifié d'investissement majeur dans le secteur manufacturier canadien.
+  </chapitre>
+
+  <chapitre titre="Économie et marchés">
+    On passe à l'économie, où le grand titre du jour vient de l'intelligence artificielle. Selon TechCrunch et The Verge, Nvidia a confirmé l'acquisition de Hugging Face pour un montant d'environ treize milliards de dollars américains. Hugging Face héberge plus de trois millions de modèles d'intelligence artificielle et est utilisé par plus de dix-huit millions de développeurs à travers le monde. La plateforme, fondée en deux mille seize, est souvent décrite comme le « GitHub » de l'intelligence artificielle en raison de sa bibliothèque ouverte de modèles d'apprentissage automatique et de son accent sur la collaboration communautaire. Selon les deux entreprises, l'objectif de la transaction est d'étendre l'accès à l'intelligence artificielle pour les développeurs.
+
+    Toujours en économie, selon Les Affaires, la Banque du Canada s'interroge sur ce que plusieurs observateurs décrivent comme le calme avant la tempête, alors que l'institution évalue la suite de sa politique monétaire dans un contexte mondial marqué par la volatilité obligataire des derniers jours.
+
+    Du côté du logement, selon Global News, le conseil immobilier du Grand Toronto rapporte que les ventes de maisons dans la région ont reculé de deux virgule un pour cent en août par rapport à l'an dernier, et de un virgule trois pour cent par rapport à juillet. Cinq mille cinquante-sept propriétés ont changé de mains le mois dernier, et le prix moyen est redescendu sous le seuil du million de dollars.
+
+    En matière de propriété intellectuelle, selon BNN Bloomberg, la Société canadienne des auteurs, compositeurs et éditeurs de musique poursuit l'entreprise d'intelligence artificielle Suno, l'accusant de reproduire de la musique canadienne sans verser de redevances aux créateurs.
+
+    Enfin, selon BNN Bloomberg, Uber procède à des licenciements touchant environ dix pour cent de son personnel, soit ses compressions les plus importantes depuis la pandémie, dans le but de réduire les échelons de gestion et de réinvestir dans le covoiturage, la livraison et les robotaxis.
+  </chapitre>
+
+  <chapitre titre="International">
+    À l'international, le monde perd une figure marquante du féminisme. Selon la BBC, confirmé aussi par CBC et Al Jazeera, l'autrice et militante américaine Gloria Steinem est morte à l'âge de quatre-vingt-douze ans. Sa fondation a indiqué qu'elle est décédée paisiblement à son domicile de New York, entourée de nombreuses personnes qui l'aimaient. Cofondatrice du magazine Ms., elle a défendu les droits des femmes tout au long de sa vie et est devenue, selon CBC, l'une des voix les plus influentes du mouvement féministe.
+
+    Au Népal, selon Global News, un citoyen canadien porté disparu depuis les inondations soudaines a été retrouvé sain et sauf, mais vingt-neuf autres personnes demeurent toujours introuvables. Les recherches se poursuivent malgré un terrain difficile, des infrastructures endommagées et des conditions météorologiques dangereuses.
+
+    Sur le plan climatique, selon la BBC, les Nations unies mettent en garde contre un phénomène El Niño qualifié d'exceptionnel, qui pourrait perturber les économies mondiales. Toujours selon la BBC, une brume toxique causée par des feux de forêt s'étend en Asie du Sud-Est, exposant des millions de personnes à un smog dense ; plus de douze mille enfants souffriraient déjà de problèmes respiratoires liés à cette pollution.
+
+    En Italie, selon CBC, la première ministre Giorgia Meloni s'apprête à devenir vendredi la cheffe de gouvernement ayant occupé le pouvoir le plus longtemps depuis la Seconde Guerre mondiale, avec mille quatre cent treize jours consécutifs en fonction, dépassant un record établi par le deuxième gouvernement de Silvio Berlusconi.
+
+    Enfin, selon Al Jazeera, les Pays-Bas ont rapatrié dix milliards de dollars d'or entreposé aux États-Unis. Le pays détient au total environ quatre-vingt-trois virgule sept milliards de dollars en réserves d'or, réparties entre le territoire national et l'étranger.
+  </chapitre>
+
+  <chapitre titre="Tech">
+    Un mot sur la tech, où au-delà du rachat de Hugging Face par Nvidia, Microsoft a annoncé un changement majeur dans la façon dont l'entreprise présente ses finances aux investisseurs. Selon The Verge, l'entreprise va désormais dévoiler séparément les revenus trimestriels de son service infonuagique Azure, une première. Microsoft simplifie aussi sa structure de présentation financière, passant de trois secteurs d'affaires à deux, une décision qui reflète, selon l'entreprise, l'impact grandissant de l'intelligence artificielle sur ses activités.
+
+    Toujours en tech, selon TechCrunch, le service de robotaxis Zoox, propriété d'Amazon, étend son offre à l'aéroport de Las Vegas, quelques semaines après avoir commencé à facturer ses courses.
+
+    Du côté de la sécurité informatique, selon Ars Technica, une enquête du site KrebsOnSecurity révèle qu'un nouveau service appelé Nexus vend sur le dark web des scans de plus de cent cinquante-trois millions de permis de conduire américains, incluant des images en spectre infrarouge et ultraviolet qui pourraient permettre de contourner les tests d'authenticité par hologramme.
+
+    Enfin, selon Ars Technica, la Commission fédérale des communications américaine prévoit créer un système de notation pour évaluer l'efficacité des fournisseurs de téléphonie à bloquer les appels automatisés frauduleux.
+  </chapitre>
+
+  <chapitre titre="Sport">
+    Rapidement en sport. Selon Sportsnet, Vladimir Guerrero fils a frappé un circuit de trois points pour donner aux Blue Jays de Toronto une avance de six à zéro en deuxième manche contre les Guardians de Cleveland.
+
+    Toujours selon Sportsnet, l'analyste Marc Stein s'est penché sur les conséquences des résultats de l'enquête sur les Clippers de Los Angeles pour l'image des Raptors de Toronto et de Kawhi Leonard.
+
+    Enfin, en soccer, selon Al Jazeera, plusieurs joueurs vedettes se retrouvent agents libres après la fermeture du marché des transferts, dont Karim Benzema, Paul Pogba et Jadon Sancho.
+  </chapitre>
+
+  <outro>Voilà pour ce Presto du jeudi trois septembre deux mille vingt-six. Si ce briefing vous est utile, le meilleur coup de main que vous pouvez nous donner, c'est de le partager à une personne qui aime rester informée. Et selon votre plateforme : un abonnement sur Spotify ou Apple Podcasts, un pouce bleu et un abonnement sur YouTube, ça prend deux secondes et ça aide vraiment Presto à grandir. Sur ce, bonne journée, et à demain.</outro>
+</script>
+```
