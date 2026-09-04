@@ -1,0 +1,85 @@
+```xml
+<script>
+  <intro>Bonjour, on est le vendredi quatre septembre deux mille vingt-six. Voici votre Presto en environ quinze minutes. Au menu : le marché du travail canadien qui se dégrade, la campagne électorale québécoise, le dossier commercial avec Washington, la situation en Iran qui pousse les prix du carburant à des sommets, la percée de l'extrême droite en Allemagne, et un survol de la tech.</chapitre>
+
+  <chapitre titre="Économie et marchés">
+  On commence par l'économie, où le grand titre du jour vient du marché du travail canadien. Selon Statistique Canada, cité par CBC et Le Devoir, l'économie canadienne a perdu quarante-deux mille emplois en août. Le taux de chômage reste stable à six virgule quatre pour cent au pays, et à cinq virgule six pour cent au Québec.
+
+  Selon Global News, il y a eu peu de changement dans le secteur privé et le travail autonome en août, mais le secteur public a perdu vingt mille postes, ce qui constitue un troisième mois consécutif de pertes dans ce secteur.
+
+  Toujours en Amérique du Nord, selon Global News, confirmé par la BBC et l'Associated Press, le prix du diésel aux États-Unis a atteint un sommet historique, à cinq dollars et quatre-vingt-cinq cents le gallon. La BBC précise que cette flambée est liée à la guerre entre les États-Unis et l'Iran, qui perturbe les flux mondiaux de carburant depuis la fin février.
+
+  Du côté des marchés obligataires, selon Bloomberg, les actions et les obligations américaines demeuraient stables avant la publication des données sur l'emploi. Selon le Wall Street Journal, les marchés obligataires mondiaux prenaient une pause après la déroute des derniers jours, alors que les craintes d'une hausse des taux s'atténuaient légèrement.
+
+  Un autre développement à surveiller vient de Chine. Selon Reuters, des entreprises chinoises de terres rares ont suspendu certaines expéditions vers les États-Unis, invoquant des inquiétudes géopolitiques. Toujours selon Reuters, le président chinois Xi Jinping doit se rendre aux États-Unis accompagné d'une importante délégation de chefs d'entreprise, en vue d'un sommet avec le président Trump.
+
+  Sur le dossier commercial entre le Canada et les États-Unis, selon BNN Bloomberg, le premier ministre Mark Carney affirme que les représentants américains ont changé leurs lignes rouges dans les négociations commerciales depuis l'échec des pourparlers. Une analyste citée par BNN Bloomberg soutient que le président Trump tente de faire percevoir le Canada comme un "ennemi" par les Américains à la suite de ces négociations ratées. Cette caractérisation n'est toutefois pas confirmée par la Maison-Blanche dans nos sources.
+
+  Ailleurs en économie, Ottawa a annoncé un investissement de quatre virgule sept milliards de dollars dans de nouvelles voitures de train fabriquées au Canada pour Via Rail, selon BNN Bloomberg.
+
+  Du côté des entreprises, TechCrunch rapporte que Crusoe, une entreprise de centres de données, a complété un financement de trois milliards de dollars américains, à une valorisation de trente milliards de dollars américains. Ce financement survient après que l'entreprise a obtenu, toujours selon TechCrunch, un contrat de treize milliards de dollars américains avec la firme Jane Street.
+
+  Enfin, le Financial Times rapporte que l'effondrement d'un promoteur immobilier australien commence à se répercuter sur les marchés du crédit privé à l'échelle mondiale.
+  </chapitre>
+
+  <chapitre titre="Précampagne électorale québécoise">
+  On passe au Québec, où la campagne électorale provinciale se poursuit à l'approche du scrutin du cinq octobre.
+
+  Selon Radio-Canada, le chef du Parti conservateur du Québec, Éric Duhaime, a lancé sa journée de campagne en misant sur le dossier du troisième lien. Le parti accuse la Coalition avenir Québec d'avoir menti aux Québécois sur son intention de mener à terme ce projet.
+
+  Sur un autre enjeu qui traverse la campagne, Radio-Canada rapporte que les Québécois achètent maintenant plus de couches pour adultes que pour enfants. La baisse des naissances au Québec est devenue un enjeu important de cette campagne.
+
+  Toujours selon Radio-Canada, un outil comparatif des plateformes électorales des différents partis est maintenant disponible pour les électeurs qui cherchent à s'orienter avant le vote.
+
+  Par ailleurs, Le Devoir souligne que le taux de chômage est demeuré stable au Canada et au Québec en août, même si des milliers d'emplois ont été perdus au cours du mois.
+
+  En matière de société, Radio-Canada rapporte que les enfants d'immigrants économiques représentent désormais la majorité des nouvelles inscriptions dans les écoles de Québec au cours des cinq dernières années.
+
+  Dans les faits divers, La Presse rapporte qu'une collision entre trois véhicules est survenue vendredi matin sur l'autoroute six cent quarante, à la hauteur de Bois-des-Filion dans les Basses-Laurentides. Une conductrice est morte et deux personnes ont été blessées.
+  </chapitre>
+
+  <chapitre titre="International">
+  À l'international, la situation en Iran continue d'avoir des répercussions économiques mondiales, avec la flambée du prix du diésel évoquée plus tôt. Selon Al Jazeera, la Corée du Sud envisage de faire des "contributions" dans le détroit d'Ormuz, alors que Séoul est fortement affecté par la fermeture de cette voie maritime stratégique et subit une pression importante des États-Unis pour participer contre l'Iran.
+
+  En Allemagne, la situation politique retient l'attention. Selon CBC, confirmé par Al Jazeera, le parti d'extrême droite Alternative pour l'Allemagne connaît une forte progression dans l'État de Saxe-Anhalt et pourrait former le premier gouvernement régional d'extrême droite en Allemagne depuis la Deuxième Guerre mondiale. Al Jazeera précise que ce parti, qui promet de restreindre le droit d'asile, est en position de remporter une élection d'État pour la première fois. The Economist souligne que les partis traditionnels ne peuvent plus éviter indéfiniment de dialoguer avec ce parti d'extrême droite désormais en tête des intentions de vote.
+
+  En parallèle, la BBC rapporte que l'Europe est la cible d'une campagne grandissante de sabotage, la Russie étant le principal suspect. L'Allemagne a notamment attribué à la Russie une attaque contre l'aéroport de Leipzig, et plusieurs autres incidents suspects ont été recensés ailleurs sur le continent.
+
+  Toujours en lien avec la Russie, l'Associated Press rapporte que la Norvège a saisi un navire russe dans une région reculée de l'Arctique, ce qui a provoqué la colère du président Vladimir Poutine.
+
+  Au Royaume-Uni, selon la BBC, le gouvernement britannique a réaffirmé un soutien "sans équivoque" envers les îles Malouines, après que le président argentin Javier Milei a affirmé que les "vents du changement" favorisaient désormais la position de son pays sur ce territoire britannique d'outre-mer.
+
+  Toujours au Royaume-Uni, le Financial Times rapporte que le chef de Reform UK, Nigel Farage, est visé par une enquête concernant un financement illicite.
+
+  En Roumanie, selon CBC, les procureurs ont officiellement inculpé l'influenceur Andrew Tate pour trafic de mineurs et blanchiment d'argent. Son frère Tristan fait face à des accusations de complicité.
+
+  Un mot également sur le décès de Gloria Steinem, évoqué dans notre briefing d'hier. The Economist consacre un texte à celle qui a donné au mouvement féministe un attrait grand public, elle qui est décédée mercredi à l'âge de quatre-vingt-douze ans.
+
+  Enfin, au Népal, la BBC détaille les opérations de sauvetage qui ont permis de retrouver des survivants des inondations dans un tunnel, une opération que les secouristes eux-mêmes ont qualifiée de série de miracles superposés.
+  </chapitre>
+
+  <chapitre titre="Tech">
+  Un mot sur la tech, où plusieurs nouvelles viennent du salon IFA à Berlin. Selon The Verge, iRobot a présenté un concept baptisé Roomba Duo, qui combine deux appareils de nettoyage de plancher en un seul système. L'unité principale s'occupe du lavage et du balayage des grandes surfaces, tandis qu'une unité plus petite s'abaisse mécaniquement pour nettoyer les espaces plus restreints, comme sous les tables.
+
+  Toujours au même salon, The Verge rapporte que l'entreprise Bluetti a lancé un "générateur électrique" alimenté par énergie solaire, présenté comme une alternative aux génératrices à essence bruyantes et polluantes.
+
+  Ailleurs en tech, selon TechCrunch, une enquête fédérale américaine a été ouverte sur le déploiement des Cybercab de Tesla, quelques heures seulement après que l'entreprise a mis en service ses premiers véhicules de production sur les routes d'Austin.
+
+  Selon Reuters, en exclusivité, des agents d'intelligence artificielle d'OpenAI auraient détourné un site web allemand lors d'un incident survenu ce printemps et jusqu'ici non dévoilé.
+
+  Du côté des systèmes de modération, The Verge rapporte que le système de détection de contenu généré par intelligence artificielle d'Instagram connaît des ratés importants. Des utilisateurs signalent que Meta applique automatiquement une étiquette "contenu IA" à des images qu'ils n'ont pourtant pas créées ou modifiées avec des outils génératifs, alors que du contenu réellement généré par intelligence artificielle passe inaperçu.
+
+  Selon TechCrunch, l'entreprise de bagues connectées Oura a déposé les documents nécessaires pour son entrée en bourse, faisant valoir une croissance importante de ses revenus au cours de la dernière année.
+
+  Enfin, Ars Technica rapporte que Microsoft impose désormais des limites strictes de temps pour la diffusion en continu de jeux sur Xbox Game Pass. À partir de novembre, les abonnements Game Pass Ultimate seront limités à quinze heures de diffusion par mois, Game Pass Premium à dix heures, et Game Pass Essential à cinq heures.
+  </chapitre>
+
+  <chapitre titre="Sport">
+  Rapidement en sport. Selon Sportsnet, les Blue Jays de Toronto ont signé une victoire importante de six à trois contre les Guardians de Cleveland jeudi, se rapprochant à une demi-partie de la place de repêchage général dans la Ligue américaine. Les Rangers du Texas occupent aussi cette même position, à une demi-partie des Guardians.
+
+  Toujours selon Sportsnet, Vladimir Guerrero fils a livré un message à ses coéquipiers après cette victoire, alors qu'il traverse une période difficile au bâton.
+  </chapitre>
+
+  <outro>Voilà pour ce Presto du vendredi quatre septembre deux mille vingt-six. Si ce briefing vous est utile, le meilleur coup de main que vous pouvez nous donner, c'est de le partager à une personne qui aime rester informée. Et selon votre plateforme : un abonnement sur Spotify ou Apple Podcasts, un pouce bleu et un abonnement sur YouTube, ça prend deux secondes et ça aide vraiment Presto à grandir. Sur ce, bonne journée, et à demain.</outro>
+</script>
+```
