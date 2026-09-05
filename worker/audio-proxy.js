@@ -2,7 +2,8 @@
  * Cloudflare Worker — Presto
  *
  * fetch handler  : proxy audio MP3 + feed RSS depuis GitHub
- * scheduled      : cron 12h UTC → poste le thread X du jour via OAuth 1.0a
+ * scheduled      : cron 8h UTC  → déclenche briefing.yml sur GitHub (workflow_dispatch)
+ *                  crons 12h/16h/21h30 UTC → poste sur X via OAuth 1.0a
  */
 
 const REPO = "meerkly-00/Presto_Podcast";
@@ -32,7 +33,8 @@ export default {
     return new Response("Not found", { status: 404 });
   },
 
-  // ─── scheduled handler : poster sur X selon l'heure (cron) ─────────────────
+  // ─── scheduled handler : briefing + poster sur X selon l'heure (cron) ──────
+  //   0 8 * * *   (4h EDT)    → workflow_dispatch briefing.yml (génère le Presto)
   //   0 12 * * *  (8h EDT)    → thread du matin     data/tweets/DATE.json
   //   0 16 * * *  (12h EDT)   → poll de midi        data/tweets/DATE-midi.json
   //   30 21 * * * (17h30 EDT) → contre-programme    data/tweets/DATE-soir.json
@@ -44,7 +46,9 @@ export default {
     console.log(`[cron] ${cron} for ${date}`);
 
     try {
-      if (cron === "0 16 * * *") {
+      if (cron === "0 8 * * *") {
+        await dispatchBriefing(env);
+      } else if (cron === "0 16 * * *") {
         await postSingleFile(`data/tweets/${date}-midi.json`, env);
       } else if (cron === "30 21 * * *") {
         await postSingleFile(`data/tweets/${date}-soir.json`, env);
@@ -56,6 +60,35 @@ export default {
     }
   },
 };
+
+// ─── déclencheur du briefing (remplace cron-job.org) ─────────────────────────
+// Secret requis : GITHUB_DISPATCH_TOKEN (fine-grained PAT, repo Presto_Podcast,
+// permission « Actions: Read and write »). Sans secret : log + skip, sans casser
+// les autres crons.
+
+async function dispatchBriefing(env) {
+  if (!env.GITHUB_DISPATCH_TOKEN) {
+    console.log("[cron] GITHUB_DISPATCH_TOKEN absent → briefing non déclenché (wrangler secret put GITHUB_DISPATCH_TOKEN)");
+    return;
+  }
+  const resp = await fetch(`https://api.github.com/repos/${REPO}/actions/workflows/briefing.yml/dispatches`, {
+    method: "POST",
+    headers: {
+      Authorization: `Bearer ${env.GITHUB_DISPATCH_TOKEN}`,
+      Accept: "application/vnd.github+json",
+      "X-GitHub-Api-Version": "2022-11-28",
+      "User-Agent": "presto-worker",
+      "Content-Type": "application/json",
+    },
+    body: JSON.stringify({ ref: "main" }),
+  });
+  if (resp.status === 204) {
+    console.log("[cron] briefing.yml déclenché ✓");
+  } else {
+    const body = await resp.text();
+    throw new Error(`dispatch briefing.yml → HTTP ${resp.status}: ${body.slice(0, 200)}`);
+  }
+}
 
 // ─── posteurs ────────────────────────────────────────────────────────────────
 

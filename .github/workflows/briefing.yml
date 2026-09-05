@@ -1,16 +1,49 @@
 name: Presto — briefing matinal
 
+# Déclencheur principal : cron du Worker Cloudflare (worker/audio-proxy.js) à
+# 8h00 UTC = 4h00 EDT, via workflow_dispatch (secret GITHUB_DISPATCH_TOKEN). Le `schedule` ci-dessous est un filet de sécurité :
+# GitHub retarde les crons planifiés à la minute :00 (parfois de plusieurs
+# heures), donc on prend une minute hors-pointe. Le job `guard` évite de
+# régénérer (et repayer) l'épisode si le déclencheur principal a déjà tourné.
 on:
   schedule:
-    - cron: '0 9 * * *'   # 4h00 EDT (UTC-4) — filet de sécurité si cron-job.org échoue
-  workflow_dispatch:       # bouton Run manuel dans GitHub
+    - cron: '17 8 * * *'   # 4h17 EDT (UTC-4) — filet de sécurité si cron-job.org échoue
+  workflow_dispatch:       # bouton Run manuel dans GitHub / appel Worker Cloudflare
+    inputs:
+      force:
+        description: "Régénérer même si le Presto du jour est déjà publié"
+        type: boolean
+        default: false
 
 permissions:
   contents: write
   issues: write
 
 jobs:
+  guard:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    outputs:
+      skip: ${{ steps.check.outputs.skip }}
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Presto du jour déjà publié ?
+        id: check
+        run: |
+          DATE=$(date +%Y-%m-%d)
+          if [ "$FORCE" != "true" ] && [ -f "output/scripts/$DATE.xml" ]; then
+            echo "::notice::Presto $DATE déjà publié — on saute (relancer avec force=true pour régénérer)."
+            echo "skip=true" >> "$GITHUB_OUTPUT"
+          else
+            echo "skip=false" >> "$GITHUB_OUTPUT"
+          fi
+        env:
+          FORCE: ${{ inputs.force }}
+
   presto:
+    needs: guard
+    if: needs.guard.outputs.skip != 'true'
     runs-on: ubuntu-latest
     timeout-minutes: 30
 
@@ -81,7 +114,12 @@ jobs:
           git pull --rebase origin main
           git push
 
+      # Non bloquant : l'épisode (MP3 + feed) est déjà publié à ce stade. Un
+      # token Cloudflare invalide ne doit ni faire échouer le briefing, ni
+      # empêcher tweet.yml d'enchaîner, ni ouvrir une issue « incident » par jour.
       - name: Pages épisodes + déploiement du site
+        id: deploy
+        continue-on-error: true
         run: |
           python tools/episode_pages.py --scripts output/scripts --site site --feed feed.xml
           if [ -z "$CLOUDFLARE_API_TOKEN" ]; then
@@ -92,6 +130,21 @@ jobs:
         env:
           CLOUDFLARE_API_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
           CLOUDFLARE_ACCOUNT_ID: "9792329eba865912f37a61f51c448412"
+
+      - name: Alerte si le site n'est pas déployé (une seule issue)
+        if: steps.deploy.outcome == 'failure'
+        run: |
+          echo "::error::Site non déployé (voir le step précédent — token Cloudflare probablement invalide). L'épisode est publié quand même."
+          TITLE="⚠️ Site Presto non déployé — token Cloudflare à renouveler"
+          if [ -z "$(gh issue list --state open --search "\"$TITLE\" in:title" --json number -q '.[0].number')" ]; then
+            gh label create incident --color B60205 --description "Échec d'un workflow automatisé" 2>/dev/null || true
+            gh issue create \
+              --title "$TITLE" \
+              --body "Le déploiement Cloudflare Pages échoue (Authentication error 10000 / Invalid access token 9109). L'épisode est publié (MP3 + feed), mais les pages du site ne sont plus à jour. Renouveler le secret CLOUDFLARE_API_TOKEN (Pages: Edit + Workers Scripts: Edit) puis lancer deploy-site.yml. Dernier run : $GITHUB_SERVER_URL/$GITHUB_REPOSITORY/actions/runs/$GITHUB_RUN_ID" \
+              --label "incident" 2>/dev/null || true
+          fi
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Alerte si échec
         if: failure()

@@ -13,6 +13,7 @@ routes = [
 
 [triggers]
 crons = [
+  "0 8 * * *",     # 4h EDT    — déclenche briefing.yml (workflow_dispatch GitHub)
   "0 12 * * *",    # 8h EDT    — thread du matin       (data/tweets/DATE.json)
   "0 16 * * *",    # 12h EDT   — poll de midi          (data/tweets/DATE-midi.json)
   "30 21 * * *",   # 17h30 EDT — contre-programme      (data/tweets/DATE-soir.json)
