@@ -23,6 +23,17 @@
       <link>https://www.prestopodcast.online</link>
     </image>
     <item>
+      <title>Presto — édition du 5 septembre 2026</title>
+      <description>Au menu : Économie et marchés, International, Précampagne électorale québécoise, Actualité canadienne, Environnement et société, Tech, Sport</description>
+      <pubDate>Sat, 05 Sep 2026 01:38:09 +0000</pubDate>
+      <guid isPermaLink="false">https://github.com/meerkly-00/Presto_Podcast/releases/download/2026-09-05/2026-09-05.mp3</guid>
+      <enclosure url="https://github.com/meerkly-00/Presto_Podcast/releases/download/2026-09-05/2026-09-05.mp3" type="audio/mpeg" length="8963623"/>
+      <itunes:duration>819</itunes:duration>
+      <itunes:summary>Au menu : Économie et marchés, International, Précampagne électorale québécoise, Actualité canadienne, Environnement et société, Tech, Sport</itunes:summary>
+      <itunes:episode>105</itunes:episode>
+      <itunes:image href="https://www.prestopodcast.online/artwork-v2.jpg"/>
+    </item>
+    <item>
       <title>Presto — édition du 4 septembre 2026</title>
       <description>Au menu : Économie et marchés, Précampagne électorale québécoise, International, Tech, Sport</description>
       <pubDate>Fri, 04 Sep 2026 13:07:32 +0000</pubDate>
