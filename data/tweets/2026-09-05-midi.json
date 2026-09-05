@@ -1,0 +1,14 @@
+{
+  "date": "2026-09-05",
+  "kind": "poll",
+  "text": "Ce matin → Des envoyés américains arrivent à Moscou pour négocier sur l'Ukraine.\n\nNouveau : Trump affirme qu'ils apportent une proposition pour mettre fin à la guerre.\n\nCrois-tu que ces négociations peuvent mener à un accord?",
+  "poll": {
+    "options": [
+      "Oui, c'est une occasion",
+      "Peut-être, mais les",
+      "Peu probable, les",
+      "Trop tôt pour se"
+    ],
+    "duration_minutes": 1440
+  }
+}
