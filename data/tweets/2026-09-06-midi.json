@@ -1,0 +1,14 @@
+{
+  "date": "2026-09-06",
+  "kind": "poll",
+  "text": "Ce matin → L'Iran affirme avoir frappé un navire américain sans équipage dimanche au détroit d'Ormuz.\n\nNouveau : Un négociateur iranien avertit les États-Unis d'une réponse « plus douloureuse » en cas de\n\nComment devraient progresser les négociations entre Washington et Téhéran?",
+  "poll": {
+    "options": [
+      "Par des canaux",
+      "Via des médiateurs",
+      "En parallèle d'autres",
+      "À travers des"
+    ],
+    "duration_minutes": 1440
+  }
+}
