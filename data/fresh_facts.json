@@ -1,50 +1,46 @@
 {
-  "generated_at": "2026-09-06T16:00:09.280115+00:00",
+  "generated_at": "2026-09-06T18:13:40.445614+00:00",
   "window_hours": 8,
   "faits": [
     {
+      "sujet": "Élection régionale allemande - AfD",
+      "fait": "Le parti Alternative pour l'Allemagne (AfD) a remporté plus de 44% des voix aux élections régionales en Saxe-Anhalt, bien devant la CDU à 18,4%, selon la BBC World et Reuters."
+    },
+    {
       "sujet": "Négociations Ukraine-États-Unis",
-      "fait": "Les émissaires américains Steve Witkoff et Jared Kushner ont effectué leur première visite officielle à Kyiv le 6 septembre après avoir rencontré Vladimir Poutine à Moscou. Selon la BBC, Witkoff a déclaré que l'équipe américaine se sentait « encouragée » par une discussion « substantive » et importante."
+      "fait": "Les envoyés américains Steve Witkoff et Jared Kushner ont rencontré le président Zelensky à Kyiv dimanche pour discuter d'un accord de paix entre l'Ukraine et la Russie, selon le National Post et Global News."
     },
     {
-      "sujet": "Inondations en Nouvelle-Écosse",
-      "fait": "Une femme est décédée lors d'inondations sévères en Nouvelle-Écosse. Environment Canada a levé ses avertissements mais des précipitations supplémentaires sont prévues selon Global News."
+      "sujet": "Élections québécoises - contenu francophone",
+      "fait": "Le chef du PQ Paul St-Pierre Plamondon a annoncé l'objectif d'imposer 30% de contenu francophone aux grandes plateformes numériques par négociation, selon Le Devoir."
     },
     {
-      "sujet": "Marchés boursiers américains",
-      "fait": "Les bourses ont connu une baisse suite à un rapport d'emploi robuste selon le Wall Street Journal."
-    },
-    {
-      "sujet": "Élection présidentielle FIFA",
-      "fait": "Le président de la FIFA Gianni Infantino confirmera sa candidature aux élections de mars prochain malgré les critiques généralisées, selon Al Jazeera et le National Post."
+      "sujet": "Formule 1 - Grand Prix d'Italie",
+      "fait": "Kimi Antonelli a remporté le Grand Prix d'Italie en partant de la 19e position, devenant le premier Italien à gagner le titre de champion depuis 60 ans, selon Al Jazeera."
     },
     {
       "sujet": "Éruption volcanique Indonésie",
-      "fait": "Le volcan Anak Krakatau a éclaté le dimanche en Indonésie, entraînant l'annulation de tous les vols à l'aéroport de Jakarta-Soekarno-Hatta et perturbant d'autres aéroports domestiques selon CBC."
+      "fait": "Le volcan Anak Krakatau a eruption en Indonésie dimanche, entraînant l'annulation de tous les vols à l'aéroport de Jakarta et immobilisant plus de 170 000 passagers, selon BBC World et CBC World."
     },
     {
-      "sujet": "Sécheresse et décès de poissons",
-      "fait": "Des millions de poissons sont morts dans le fleuve Silugonggo en Indonésie centrale en raison d'une sécheresse prolongée selon Al Jazeera."
+      "sujet": "Inondations Nouvelle-Écosse - décès",
+      "fait": "Une femme de 46 ans provenant de Cleveland au Cap-Breton a été retrouvée morte samedi après-midi dans une zone inondée, selon Radio-Canada."
     },
     {
-      "sujet": "Tensions Iran-États-Unis",
-      "fait": "Un négociateur iranien a averti les États-Unis d'une réponse « plus douloureuse » en cas de nouvelles attaques après des frappes contre des navires américains selon le National Post."
+      "sujet": "Effondrement immeuble Inde",
+      "fait": "Un immeuble de cinq étages s'est effondré à Delhi avec environ 50 personnes craintes piégées à l'intérieur, selon BBC World."
     },
     {
-      "sujet": "Politique tarifaire Canada",
-      "fait": "Le gouvernement iranien annonce s'attaquer aux questions économiques tandis que sa capacité de levier au détroit d'Ormuz s'érode face aux pressions économiques américaines selon Reuters."
+      "sujet": "Iran - accord nucléaire États-Unis",
+      "fait": "Le secrétaire à l'Énergie américain Chris Wright a déclaré qu'il pourrait ne pas y avoir d'accord nucléaire avec l'Iran, selon Al Jazeera."
     },
     {
-      "sujet": "Production de saumon farméd",
-      "fait": "Une nouvelle recherche menée par des scientifiques de l'USDA constate que les niveaux d'acides gras oméga-3 dans le saumon d'élevage ont considérablement diminué selon Ars Technica."
+      "sujet": "Québec solidaire - réforme démocratique",
+      "fait": "QS a annoncé dimanche deux mesures: une réforme du mode de scrutin vers la proportionnelle mixte et l'instauration de référendums d'initiative populaire nécessitant 10% des électeurs, selon Le Devoir."
     },
     {
-      "sujet": "Lancement de fusée commerciale",
-      "fait": "La société allemande Isar Aerospace a lancé avec succès sa fusée Spectrum en orbite basse depuis le spaceport d'Andøya en Norvège le samedi, devenant le premier lanceur commercial entièrement européen à atteindre l'orbite selon Ars Technica."
-    },
-    {
-      "sujet": "Politique OPEP+ pétrole",
-      "fait": "L'OPEP+ a maintenu sa politique de production pétrolière inchangée pour octobre selon Reuters et Bloomberg."
+      "sujet": "FIFA - réélection Infantino",
+      "fait": "Le président de la FIFA Gianni Infantino confirmera sa candidature à la réélection en mars 2027, malgré le rejet de son plan d'investissement privé à la Coupe du Monde, selon National Post et CBC World."
     }
   ]
 }
