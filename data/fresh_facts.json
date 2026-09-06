@@ -1,46 +1,54 @@
 {
-  "generated_at": "2026-09-06T18:13:40.445614+00:00",
+  "generated_at": "2026-09-06T21:03:53.070335+00:00",
   "window_hours": 8,
   "faits": [
     {
-      "sujet": "Élection régionale allemande - AfD",
-      "fait": "Le parti Alternative pour l'Allemagne (AfD) a remporté plus de 44% des voix aux élections régionales en Saxe-Anhalt, bien devant la CDU à 18,4%, selon la BBC World et Reuters."
+      "sujet": "Crash d'avion cargo Amazon à Miami",
+      "fait": "Un avion-cargo Amazon Boeing 767-300 a dépassé la piste lors de son atterrissage à l'aéroport international de Miami le 6 septembre 2026, frappant plusieurs véhicules. Selon la FAA, l'appareil provenait de l'aéroport de San Juan à Porto Rico et plus de 60 unités de secours étaient sur place. D'après CBC et Global News, l'incident a entraîné l'immobilisation des vols à l'aéroport."
     },
     {
-      "sujet": "Négociations Ukraine-États-Unis",
-      "fait": "Les envoyés américains Steve Witkoff et Jared Kushner ont rencontré le président Zelensky à Kyiv dimanche pour discuter d'un accord de paix entre l'Ukraine et la Russie, selon le National Post et Global News."
+      "sujet": "Élection en Allemagne, victoire de l'AfD",
+      "fait": "Le parti d'extrême droite AfD a remporté plus de 44 % des votes lors d'une élection régionale en Allemagne, devançant largement le CDU conservateur à 18,4 %. Selon Reuters et BBC World, ce résultat représente un succès historique pour le parti."
     },
     {
-      "sujet": "Élections québécoises - contenu francophone",
-      "fait": "Le chef du PQ Paul St-Pierre Plamondon a annoncé l'objectif d'imposer 30% de contenu francophone aux grandes plateformes numériques par négociation, selon Le Devoir."
+      "sujet": "Pourparlers de paix Ukraine-Russie",
+      "fait": "Les envoyés américains Steve Witkoff et Jared Kushner ont tenu des discussions avec le président ukrainien Zelensky à Kyiv le 6 septembre 2026, suite à une rencontre avec Poutine à Moscou. Selon BBC World et National Post, Zelensky s'attend à la poursuite de la guerre pendant l'hiver, sans annonce de percée majeure."
     },
     {
-      "sujet": "Formule 1 - Grand Prix d'Italie",
-      "fait": "Kimi Antonelli a remporté le Grand Prix d'Italie en partant de la 19e position, devenant le premier Italien à gagner le titre de champion depuis 60 ans, selon Al Jazeera."
+      "sujet": "Retrait de réserves d'or d'Europe des États-Unis",
+      "fait": "Selon Radio-Canada, plusieurs pays européens retirent leurs réserves d'or entreposées aux États-Unis, l'or servant de valeur refuge et actif financier dont le cours peut augmenter en période de crise."
     },
     {
-      "sujet": "Éruption volcanique Indonésie",
-      "fait": "Le volcan Anak Krakatau a eruption en Indonésie dimanche, entraînant l'annulation de tous les vols à l'aéroport de Jakarta et immobilisant plus de 170 000 passagers, selon BBC World et CBC World."
+      "sujet": "Éruption volcanique en Indonésie",
+      "fait": "L'Anak Krakatau en Indonésie a connu deux nouvelles éruptions le 6 septembre 2026, perturbant des centaines de vols. Selon BBC World et Al Jazeera, plus de 170 000 passagers ont été bloqués après la détection de cendres volcaniques dans l'espace aérien près de Jakarta."
     },
     {
-      "sujet": "Inondations Nouvelle-Écosse - décès",
-      "fait": "Une femme de 46 ans provenant de Cleveland au Cap-Breton a été retrouvée morte samedi après-midi dans une zone inondée, selon Radio-Canada."
+      "sujet": "Trump critique le taux de change canadien",
+      "fait": "Le président Trump a publié des messages sur Truth Social critiquant le déséquilibre du taux de change entre le dollar américain et le dollar canadien, le qualifiant d'inacceptable. Selon National Post, ces messages ont été générés par IA."
     },
     {
-      "sujet": "Effondrement immeuble Inde",
-      "fait": "Un immeuble de cinq étages s'est effondré à Delhi avec environ 50 personnes craintes piégées à l'intérieur, selon BBC World."
+      "sujet": "Fusée commerciale orbitale européenne",
+      "fait": "La société allemande Isar Aerospace a lancé avec succès Spectrum, la première fusée orbitale commerciale entièrement européenne, depuis un spatioport norvégien. Selon The Verge, cela intervient après un échec en mars 2026 qui n'avait duré que 30 secondes."
     },
     {
-      "sujet": "Iran - accord nucléaire États-Unis",
-      "fait": "Le secrétaire à l'Énergie américain Chris Wright a déclaré qu'il pourrait ne pas y avoir d'accord nucléaire avec l'Iran, selon Al Jazeera."
+      "sujet": "Mesures électorales de Trump aux États-Unis",
+      "fait": "L'administration Trump a adressé un nouvel appel à la Cour suprême pour autoriser des restrictions sur le vote par courrier. Selon Associated Press, cet appel a été présenté le 6 septembre 2026."
     },
     {
-      "sujet": "Québec solidaire - réforme démocratique",
-      "fait": "QS a annoncé dimanche deux mesures: une réforme du mode de scrutin vers la proportionnelle mixte et l'instauration de référendums d'initiative populaire nécessitant 10% des électeurs, selon Le Devoir."
+      "sujet": "Politique québécoise, culture et jeunesse",
+      "fait": "Le Parti québécois affirme vouloir faciliter l'accès des jeunes à la culture québécoise pour contrer la place croissante des contenus américains sur le numérique. Selon Radio-Canada, c'est une annonce du chef péquiste lors de la campagne."
     },
     {
-      "sujet": "FIFA - réélection Infantino",
-      "fait": "Le président de la FIFA Gianni Infantino confirmera sa candidature à la réélection en mars 2027, malgré le rejet de son plan d'investissement privé à la Coupe du Monde, selon National Post et CBC World."
+      "sujet": "Réforme électorale proposée par Québec Solidaire",
+      "fait": "Québec Solidaire propose un système de référendums d'initiative populaire déclenchés par pétition de 10 % des électeurs, et une réforme électorale vers un système proportionnel mixte dans les 100 premiers jours d'un gouvernement QS. Selon Le Devoir, ces mesures visent à renforcer la démocratie québécoise."
+    },
+    {
+      "sujet": "Effondrement de bâtiment en Inde",
+      "fait": "Au moins cinq personnes ont été tuées et neuf autres secourues après l'effondrement d'un bâtiment abritant principalement des étudiants à New Delhi. Selon Al Jazeera, l'incident s'est produit le 6 septembre 2026."
+    },
+    {
+      "sujet": "Gianni Infantino se représente à la FIFA",
+      "fait": "Le président de la FIFA Gianni Infantino se représentera aux élections à la présidence de l'organisation, malgré l'échec de son projet de vente de la Coupe du Monde. Selon CBC World, l'annonce a été faite le 6 septembre 2026."
     }
   ]
 }
