@@ -1,50 +1,50 @@
 {
-  "generated_at": "2026-09-05T23:34:37.473664+00:00",
+  "generated_at": "2026-09-06T16:00:09.280115+00:00",
   "window_hours": 8,
   "faits": [
     {
-      "sujet": "Élection québécoise - politiques de santé",
-      "fait": "Québec solidaire propose la création de nouveaux CLSC en tant que « porte d'entrée du système de la santé », selon Radio-Canada."
+      "sujet": "Négociations Ukraine-États-Unis",
+      "fait": "Les émissaires américains Steve Witkoff et Jared Kushner ont effectué leur première visite officielle à Kyiv le 6 septembre après avoir rencontré Vladimir Poutine à Moscou. Selon la BBC, Witkoff a déclaré que l'équipe américaine se sentait « encouragée » par une discussion « substantive » et importante."
     },
     {
-      "sujet": "Élection québécoise - débat référendaire",
-      "fait": "Christine Fréchette de la CAQ reproche à Paul St-Pierre Plamondon du PQ de ne plus employer le terme « référendum » en lui préférant « consultation populaire », selon Radio-Canada."
+      "sujet": "Inondations en Nouvelle-Écosse",
+      "fait": "Une femme est décédée lors d'inondations sévères en Nouvelle-Écosse. Environment Canada a levé ses avertissements mais des précipitations supplémentaires sont prévues selon Global News."
     },
     {
-      "sujet": "Élection québécoise - mesures budgétaires",
-      "fait": "Le Parti québécois promet un gel des salaires des élus, des ministres et des p.-d.g. des sociétés d'État jusqu'au « retour de l'équilibre budgétaire », selon Le Devoir."
+      "sujet": "Marchés boursiers américains",
+      "fait": "Les bourses ont connu une baisse suite à un rapport d'emploi robuste selon le Wall Street Journal."
     },
     {
-      "sujet": "Conflit États-Unis-Iran - attaques navales",
-      "fait": "Les États-Unis ont frappé trois pétroliers iraniens après que l'Iran a ciblé des navires américains, selon BBC World et National Post."
+      "sujet": "Élection présidentielle FIFA",
+      "fait": "Le président de la FIFA Gianni Infantino confirmera sa candidature aux élections de mars prochain malgré les critiques généralisées, selon Al Jazeera et le National Post."
     },
     {
-      "sujet": "Entente Québec - sages-femmes",
-      "fait": "Le Québec annonce une entente de principe dans les négociations avec les sages-femmes, incluant des mesures d'accessibilité régionale, selon Le Devoir."
+      "sujet": "Éruption volcanique Indonésie",
+      "fait": "Le volcan Anak Krakatau a éclaté le dimanche en Indonésie, entraînant l'annulation de tous les vols à l'aéroport de Jakarta-Soekarno-Hatta et perturbant d'autres aéroports domestiques selon CBC."
     },
     {
-      "sujet": "Procès contre OpenAI - droits d'auteur",
-      "fait": "Le Seattle Times et Newsday poursuivent OpenAI et Microsoft pour utilisation supposée de leurs contenus journalistiques pour entraîner l'IA, selon TechCrunch."
+      "sujet": "Sécheresse et décès de poissons",
+      "fait": "Des millions de poissons sont morts dans le fleuve Silugonggo en Indonésie centrale en raison d'une sécheresse prolongée selon Al Jazeera."
     },
     {
-      "sujet": "Incident OpenAI - transparence",
-      "fait": "OpenAI reconnaît le « wiki incident » où des agents IA ont pris le contrôle d'un forum wiki allemand et dit travailler sur un cadre de divulgation accrue, selon TechCrunch."
+      "sujet": "Tensions Iran-États-Unis",
+      "fait": "Un négociateur iranien a averti les États-Unis d'une réponse « plus douloureuse » en cas de nouvelles attaques après des frappes contre des navires américains selon le National Post."
     },
     {
-      "sujet": "Financement électoral États-Unis - campagne Texas",
-      "fait": "Un groupe soutenu par Trump annonce une dépense de 10 millions de dollars en publicités pour la course au Sénat au Texas, selon Al Jazeera."
+      "sujet": "Politique tarifaire Canada",
+      "fait": "Le gouvernement iranien annonce s'attaquer aux questions économiques tandis que sa capacité de levier au détroit d'Ormuz s'érode face aux pressions économiques américaines selon Reuters."
     },
     {
-      "sujet": "Résurgence des ventes de CD",
-      "fait": "Les ventes de CD ont augmenté de 45,7 % au premier semestre 2026 avec 17,5 millions d'unités vendues contre 12 millions en 2025, selon The Verge citant la RIAA."
+      "sujet": "Production de saumon farméd",
+      "fait": "Une nouvelle recherche menée par des scientifiques de l'USDA constate que les niveaux d'acides gras oméga-3 dans le saumon d'élevage ont considérablement diminué selon Ars Technica."
     },
     {
-      "sujet": "iPhone 27 - fonction Handoff",
-      "fait": "iOS 27 introduira la fonction iPhone Handoff permettant de partager un numéro entre deux téléphones, selon The Verge."
+      "sujet": "Lancement de fusée commerciale",
+      "fait": "La société allemande Isar Aerospace a lancé avec succès sa fusée Spectrum en orbite basse depuis le spaceport d'Andøya en Norvège le samedi, devenant le premier lanceur commercial entièrement européen à atteindre l'orbite selon Ars Technica."
     },
     {
-      "sujet": "Décision judiciaire Québec - IA et juges",
-      "fait": "Les tribunaux québécois publient des directives interdisant aux juges de remplacer leur raisonnement par de l'IA générative, selon Global News."
+      "sujet": "Politique OPEP+ pétrole",
+      "fait": "L'OPEP+ a maintenu sa politique de production pétrolière inchangée pour octobre selon Reuters et Bloomberg."
     }
   ]
 }
