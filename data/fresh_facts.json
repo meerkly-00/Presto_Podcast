@@ -1,54 +1,54 @@
 {
-  "generated_at": "2026-09-06T21:03:53.070335+00:00",
+  "generated_at": "2026-09-06T23:30:38.148567+00:00",
   "window_hours": 8,
   "faits": [
     {
-      "sujet": "Crash d'avion cargo Amazon à Miami",
-      "fait": "Un avion-cargo Amazon Boeing 767-300 a dépassé la piste lors de son atterrissage à l'aéroport international de Miami le 6 septembre 2026, frappant plusieurs véhicules. Selon la FAA, l'appareil provenait de l'aéroport de San Juan à Porto Rico et plus de 60 unités de secours étaient sur place. D'après CBC et Global News, l'incident a entraîné l'immobilisation des vols à l'aéroport."
+      "sujet": "Élection régionale allemande AfD",
+      "fait": "Le parti d'extrême droite Alternative pour l'Allemagne (AfD) remporte 44% des voix dans un État de l'est allemand, bien en avant des conservateurs à 17%, selon la BBC et Reuters."
     },
     {
-      "sujet": "Élection en Allemagne, victoire de l'AfD",
-      "fait": "Le parti d'extrême droite AfD a remporté plus de 44 % des votes lors d'une élection régionale en Allemagne, devançant largement le CDU conservateur à 18,4 %. Selon Reuters et BBC World, ce résultat représente un succès historique pour le parti."
+      "sujet": "Accident avion-cargo Miami",
+      "fait": "Un Boeing 767-300 d'Amazon Prime Air sort de piste à l'aéroport international de Miami le 6 septembre 2026 vers 14h, percute plusieurs véhicules et prend feu, tuant au moins 5 personnes et en blessant 5 autres, selon Radio-Canada et Al Jazeera."
     },
     {
-      "sujet": "Pourparlers de paix Ukraine-Russie",
-      "fait": "Les envoyés américains Steve Witkoff et Jared Kushner ont tenu des discussions avec le président ukrainien Zelensky à Kyiv le 6 septembre 2026, suite à une rencontre avec Poutine à Moscou. Selon BBC World et National Post, Zelensky s'attend à la poursuite de la guerre pendant l'hiver, sans annonce de percée majeure."
+      "sujet": "Tensions commerciales Canada-États-Unis",
+      "fait": "Le Canada prépare l'imposition de tarifs de rétorsion sur un large éventail de biens américains le 8 septembre en réponse aux tarifs de 50% du président Trump, selon Global News."
     },
     {
-      "sujet": "Retrait de réserves d'or d'Europe des États-Unis",
-      "fait": "Selon Radio-Canada, plusieurs pays européens retirent leurs réserves d'or entreposées aux États-Unis, l'or servant de valeur refuge et actif financier dont le cours peut augmenter en période de crise."
+      "sujet": "Conflit Moyen-Orient Iran-États-Unis",
+      "fait": "L'Iran menace d'intensifier sa riposte aux attaques américaines, les affrontements s'étant intensifiés ces derniers jours en mer dans la région du Golfe, selon Le Devoir."
     },
     {
-      "sujet": "Éruption volcanique en Indonésie",
-      "fait": "L'Anak Krakatau en Indonésie a connu deux nouvelles éruptions le 6 septembre 2026, perturbant des centaines de vols. Selon BBC World et Al Jazeera, plus de 170 000 passagers ont été bloqués après la détection de cendres volcaniques dans l'espace aérien près de Jakarta."
+      "sujet": "Réserves d'or européennes États-Unis",
+      "fait": "Plusieurs pays européens retirent leurs réserves d'or des États-Unis, l'or étant considéré comme une valeur refuge, selon Radio-Canada."
     },
     {
-      "sujet": "Trump critique le taux de change canadien",
-      "fait": "Le président Trump a publié des messages sur Truth Social critiquant le déséquilibre du taux de change entre le dollar américain et le dollar canadien, le qualifiant d'inacceptable. Selon National Post, ces messages ont été générés par IA."
+      "sujet": "Pourparlers Ukraine-Russie États-Unis",
+      "fait": "Les envoyés américains Steve Witkoff et Jared Kushner rencontrent le président Zelensky à Kyiv sans annoncer de percée majeure, le président s'attendant à la poursuite de la guerre l'hiver, selon la BBC et le National Post."
     },
     {
-      "sujet": "Fusée commerciale orbitale européenne",
-      "fait": "La société allemande Isar Aerospace a lancé avec succès Spectrum, la première fusée orbitale commerciale entièrement européenne, depuis un spatioport norvégien. Selon The Verge, cela intervient après un échec en mars 2026 qui n'avait duré que 30 secondes."
+      "sujet": "Éruption volcanique Indonésie",
+      "fait": "Une éruption volcanique laisse plus de 170 000 passagers aériens bloqués après détection de cendres dans l'espace aérien près de Jakarta, selon la BBC."
     },
     {
-      "sujet": "Mesures électorales de Trump aux États-Unis",
-      "fait": "L'administration Trump a adressé un nouvel appel à la Cour suprême pour autoriser des restrictions sur le vote par courrier. Selon Associated Press, cet appel a été présenté le 6 septembre 2026."
+      "sujet": "Premiers lancements spatiaux commerciaux européens",
+      "fait": "La société allemande Isar Aerospace met avec succès en orbite basse sa fusée Spectrum depuis un port spatial norvégien, réalisant le premier lancement orbital entièrement commercial d'Europe continentale, selon The Verge."
     },
     {
-      "sujet": "Politique québécoise, culture et jeunesse",
-      "fait": "Le Parti québécois affirme vouloir faciliter l'accès des jeunes à la culture québécoise pour contrer la place croissante des contenus américains sur le numérique. Selon Radio-Canada, c'est une annonce du chef péquiste lors de la campagne."
+      "sujet": "Attaque terroriste contre communauté sikhe Canada",
+      "fait": "Des menaces de mort et des messages de haine sont peints sur plusieurs panneaux le long du parcours d'une procession sikhe à Winnipeg avant l'événement du dimanche, selon Global News."
     },
     {
-      "sujet": "Réforme électorale proposée par Québec Solidaire",
-      "fait": "Québec Solidaire propose un système de référendums d'initiative populaire déclenchés par pétition de 10 % des électeurs, et une réforme électorale vers un système proportionnel mixte dans les 100 premiers jours d'un gouvernement QS. Selon Le Devoir, ces mesures visent à renforcer la démocratie québécoise."
+      "sujet": "Explosion de feux d'artifice Mexique",
+      "fait": "Au moins 10 personnes sont tuées et au moins 60 blessées lors d'une explosion de feux d'artifice durant un festival au Mexique central, apparemment causée par une effigie de taureau en feu, selon Al Jazeera."
     },
     {
-      "sujet": "Effondrement de bâtiment en Inde",
-      "fait": "Au moins cinq personnes ont été tuées et neuf autres secourues après l'effondrement d'un bâtiment abritant principalement des étudiants à New Delhi. Selon Al Jazeera, l'incident s'est produit le 6 septembre 2026."
+      "sujet": "Retraite Phil Schiller Apple App Store",
+      "fait": "Phil Schiller quitte son poste à l'App Store en raison de réserves concernant les objectifs du nouveau PDG John Ternus d'augmenter les revenus récurrents de l'App Store, selon TechCrunch."
     },
     {
-      "sujet": "Gianni Infantino se représente à la FIFA",
-      "fait": "Le président de la FIFA Gianni Infantino se représentera aux élections à la présidence de l'organisation, malgré l'échec de son projet de vente de la Coupe du Monde. Selon CBC World, l'annonce a été faite le 6 septembre 2026."
+      "sujet": "Recours collectif auteurs-Anthropic",
+      "fait": "Les auteurs contestent les réclamations des éditeurs et des agents sur la distribution des paiements du règlement Anthropic, affirmant que les éditeurs réclament plus que leur juste part, selon TechCrunch."
     }
   ]
 }
