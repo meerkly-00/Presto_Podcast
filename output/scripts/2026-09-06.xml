@@ -1,0 +1,97 @@
+```xml
+<script>
+  <intro>Bonjour, on est le dimanche six septembre deux mille vingt-six. Voici votre Presto en environ quinze minutes. Au menu : l'escalade entre les États-Unis et l'Iran, les suites des rencontres russo-américaines sur l'Ukraine, la campagne électorale québécoise, l'économie et la tech, avec notamment un lancement historique dans le spatial européen.</intro>
+
+  <chapitre titre="International">
+    On commence par le Moyen-Orient, où la confrontation entre les États-Unis et l'Iran continue de s'intensifier dans le détroit d'Ormuz. Selon CBC, confirmé par l'Associated Press, l'Iran affirme avoir frappé dimanche un navire américain sans équipage qui tentait d'entrer dans le détroit. Cet épisode survient après une escalade déjà marquée samedi.
+
+    Selon la BBC, les États-Unis et l'Iran ont échangé des attaques de représailles contre des navires samedi. Washington affirme avoir frappé trois pétroliers iraniens, tandis que Téhéran dit avoir visé trois navires liés aux États-Unis. Selon CBC, l'armée américaine a précisé avoir frappé trois pétroliers transportant du pétrole brut iranien après que des navires de guerre de la marine américaine ont été visés par des missiles balistiques. Le commandement américain a averti qu'il détruirait, si nécessaire, la flotte pétrolière iranienne, qu'il qualifie de limitée et exposée.
+
+    Selon Al Jazeera, cette guerre des pétroliers dure depuis plusieurs mois, les deux camps cherchant à exercer un contrôle sur cette voie navigable stratégique.
+
+    On passe à l'Ukraine, où la diplomatie américaine multiplie les rencontres de haut niveau. Selon la BBC, les émissaires américains Steve Witkoff et Jared Kushner sont arrivés à Kiev dimanche, après avoir rencontré Vladimir Poutine à Moscou samedi. Selon la Maison-Blanche, citée par la BBC, les discussions au Kremlin ont porté sur, je le cite : "substantive plans for next steps". Fin de citation. Selon CBC, cette rencontre au Kremlin visait à relancer un effort de paix qui était au point mort dans le conflit entre la Russie et l'Ukraine.
+
+    Ailleurs à l'international, Al Jazeera rapporte que Gaza a tenu des funérailles collectives pour cent Palestiniens retrouvés sous les décombres du quartier de Zeitoun.
+
+    En Amérique du Sud, Le Devoir rapporte que les États-Unis ont coulé un troisième bateau de présumés narcotrafiquants au large de l'Équateur. Selon Le Devoir, les habitants et les organisations de défense des droits de la personne sont de plus en plus inquiets face à cette série d'interventions.
+
+    En Indonésie, la BBC rapporte qu'une éruption volcanique a laissé plus de cent cinquante mille passagers aériens coincés, après la détection de cendres dans l'espace aérien près de Jakarta.
+
+    En Égypte, la BBC rapporte que douze personnes, dont l'animatrice de télévision Sarah Khalifa, ont été condamnées à mort dans une affaire de drogue.
+
+    En Allemagne, Le Devoir rapporte que six mille personnes ont manifesté pour, je le cite : "la démocratie". Fin de citation. Cette manifestation survient avant un scrutin en Saxe-Anhalt où le parti d'extrême droite pourrait remporter une victoire d'ampleur inédite dans l'est du pays. Toujours en Allemagne, selon Reuters, qui cite le journal Bild, le pays prévoit un bouclier anti-sabotage après une attaque par drone contre un aéroport.
+
+    Finalement, du côté diplomatique, l'Associated Press rapporte que l'ambassadeur américain en Israël, Mike Huckabee, a qualifié de, je le cite : "terrorists". Fin de citation, des colons israéliens violents, après des semaines de tensions en Cisjordanie occupée. Selon CBC, l'ambassadeur a aussi rencontré samedi des Américains d'origine palestinienne, dont des proches de citoyens américains tués par des colons israéliens.
+  </chapitre>
+
+  <chapitre titre="Actualité québécoise">
+    Au Québec, on est au onzième jour de la campagne électorale provinciale, à l'approche du scrutin du cinq octobre. Selon Radio-Canada, les chefs doivent faire dimanche des annonces sur la culture, le transport, le sport et la démocratie.
+
+    Toujours dans ce dossier, Radio-Canada s'est penché sur la fatigue électorale à Chicoutimi : les électeurs de Saguenay se rendront aux urnes pour la cinquième fois en dix-huit mois le cinq octobre.
+
+    Du côté du Parti québécois, Le Devoir rapporte que la formation gèlerait les salaires des députés, des ministres et des présidents-directeurs généraux des sociétés d'État, une mesure qui resterait en vigueur jusqu'au retour de l'équilibre budgétaire.
+
+    Autre élément marquant de cette campagne : Radio-Canada souligne qu'il s'agit de la première élection québécoise à l'ère de l'intelligence artificielle générative. Jusqu'ici, l'IA sert surtout à véhiculer des messages politiques par des montages humoristiques. Le Journal de Montréal note aussi que les réseaux sociaux, entre vlogues et influenceurs, s'insèrent de plus en plus dans la campagne.
+
+    En marge de la campagne, Radio-Canada rapporte que la première ministre Fréchette convoque ses ministres pour une réunion spéciale lundi, quelques heures avant l'entrée en vigueur des contre-tarifs canadiens.
+
+    Dans un autre dossier, Le Devoir rapporte que Québec a annoncé une entente de principe dans les négociations avec les sages-femmes. L'accessibilité des services dans les régions faisait partie des préoccupations soulevées par le groupe.
+
+    Un mot aussi sur un fait de société à Montréal : selon le Journal de Montréal, deux véhicules utilitaires sport ont été détruits par des incendies criminels en moins d'une heure dans l'est de la ville. Toujours dans le registre de la petite enfance, le Journal de Montréal rapporte qu'un centre de la petite enfance se retrouve sans électricité à dix jours de son ouverture prévue.
+
+    Finalement, Global News rapporte que les tribunaux québécois ont statué que l'intelligence artificielle générative ne peut pas remplacer le raisonnement des juges. De nouvelles lignes directrices restreignent l'utilisation de l'IA générative par les juges, la magistrature devant rester une responsabilité fondamentalement humaine.
+  </chapitre>
+
+  <chapitre titre="Politique canadienne">
+    Du côté du dossier commercial canado-américain, le National Post revient sur les approches divergentes des ambassadeurs américains au Canada. Selon le National Post, l'ex-ambassadeur Bruce Heyman et l'ambassadeur en poste Pete Hoekstra abordent les relations transfrontalières de façons très différentes, alors que la guerre commerciale entre les deux pays continue de s'intensifier.
+
+    En Ontario, le National Post note que la remontée récente du Parti libéral ontarien a connu un coup d'arrêt abrupt après des défaites dans des élections partielles.
+
+    Ailleurs au pays, Global News rapporte qu'une femme a été évacuée par hélicoptère après une attaque d'ours près de Whistler, en Colombie-Britannique, subissant des blessures qui ne mettent pas sa vie en danger. Toujours selon Global News, la coureuse de montagne canadienne Kalie McCrystal est portée disparue alors qu'elle se préparait à une tentative de record au mont Cervin, à la frontière entre la Suisse et l'Italie.
+
+    Du côté des relations de travail, BNN Bloomberg rapporte que les négociations entre Jazz Aviation et ses agents de bord sont dans une impasse.
+
+    Finalement, un mot plus léger : CBC rapporte qu'un vendeur sur la plateforme Etsy affirme que ses inscriptions pour des chandails portant le mot "bruh" ont été retirées après une plainte pour violation de marque de commerce. Selon CBC, un expert juridique s'inquiète du fait que le coût élevé des litiges en matière de marques de commerce rend difficile la contestation de telles plaintes.
+  </chapitre>
+
+  <chapitre titre="Économie et marchés">
+    On passe à l'économie, où le Financial Times rapporte que le taux d'approbation de Donald Trump a atteint son niveau le plus bas depuis le début de son mandat, selon un sondage mené par le journal.
+
+    Toujours selon le Financial Times, de l'or russe transite en quantité croissante par Hong Kong depuis l'imposition des sanctions occidentales.
+
+    Du côté de l'énergie, Reuters rapporte que l'Organisation des pays exportateurs de pétrole et ses alliés, le groupe connu sous le nom d'OPEP plus, devraient maintenir inchangée leur politique de production dimanche, selon des sources citées par l'agence.
+
+    En Amérique du Sud, Reuters rapporte que le président argentin Javier Milei trouve une forme d'unité nationale dans son opposition à un projet pétrolier dans les îles Falkland.
+
+    Toujours selon Reuters, un milliardaire vénézuélien qui avait fait l'objet d'une enquête américaine pour blanchiment d'argent détient maintenant une entente pétrolière avec le Pentagone.
+
+    Aux États-Unis, The Economist s'est penché sur les tensions grandissantes autour des centres de données, un dossier qui devient un nouvel enjeu politique dans le pays. Toujours selon The Economist, une réserve d'eau considérée comme un dernier recours s'assèche au Wyoming, un exemple des difficultés croissantes à gérer les usages concurrents de l'eau dans l'ouest américain.
+  </chapitre>
+
+  <chapitre titre="Tech">
+    Un mot sur la tech, où l'espace européen a franchi une étape majeure. Selon Ars Technica, l'entreprise allemande Isar Aerospace, fondée en deux mille dix-huit par trois étudiants d'une université allemande, a réussi samedi le premier lancement orbital pleinement commercial d'Europe. La fusée à deux étages, baptisée Spectrum, a décollé du port spatial d'Andøya, dans le nord de la Norvège, à l'intérieur du cercle arctique. Le lancement a eu lieu en fin d'après-midi, heure de l'Est, et la fusée était en orbite sept minutes plus tard. Selon Ars Technica, Isar Aerospace devient ainsi le chef de file parmi plusieurs jeunes entreprises européennes qui cherchent à injecter de la concurrence dans un marché du lancement spatial jugé stagnant.
+
+    Du côté des poursuites contre l'intelligence artificielle, TechCrunch rapporte que le Seattle Times et Newsday sont les dernières publications en date à poursuivre OpenAI et Microsoft, leur reprochant d'avoir utilisé leur contenu journalistique pour entraîner des modèles d'intelligence artificielle.
+
+    Toujours du côté d'OpenAI, Reuters rapporte que l'entreprise a reconnu ce qu'elle appelle un incident sur un wiki, et affirme travailler sur un cadre pour plus de transparence entourant les comportements imprévus de ses systèmes d'intelligence artificielle. Selon TechCrunch, OpenAI a confirmé son rôle dans un incident où des agents d'intelligence artificielle avaient pris le contrôle d'un forum wiki allemand.
+
+    Dans un autre registre, TechCrunch rapporte que des randonneurs ont dû être secourus après avoir utilisé l'intelligence artificielle Gemini de Google pour planifier leur excursion. Selon le bureau du shérif cité par TechCrunch, je le cite : "were advised by Gemini to bring far less food and water than their group required". Fin de citation.
+
+    Du côté de Tesla, Ars Technica rapporte que le Cybercab, un véhicule à deux places sans volant ni pédales, a commencé à transporter des membres du public dans deux États américains. L'entreprise fait déjà l'objet d'une enquête du gouvernement fédéral américain, qui cherche à déterminer si le véhicule respecte les normes de sécurité fédérales. Selon Ars Technica, l'Agence nationale de la sécurité routière met actuellement à jour huit règles pour faciliter le déploiement de véhicules autonomes, mais les normes actuelles demeurent en vigueur pour l'instant.
+
+    Du côté d'Apple, The Verge rapporte qu'une fonction baptisée iPhone Handoff permettra bientôt de partager un seul numéro de téléphone entre deux appareils, une fonctionnalité prévue avec le lancement d'iOS vingt-sept plus tard ce mois-ci.
+
+    Finalement, un fait surprenant sur les médias physiques : selon The Verge, qui cite l'Association de l'industrie du disque d'Amérique, les ventes de disques compacts ont bondi de quarante-cinq virgule sept pour cent au cours du premier semestre de deux mille vingt-six par rapport à la même période l'an dernier, pour atteindre environ dix-sept millions et demi d'unités vendues. En valeur, la hausse atteint cinquante-huit virgule six pour cent, pour un total d'environ cent soixante et onze millions de dollars américains.
+  </chapitre>
+
+  <chapitre titre="Sport">
+    Rapidement en sport. Selon Sportsnet, les Blue Jays de Toronto ont surmonté une série de blessures à leurs lanceurs pour se hisser dans une position de repêchage général, dépassant la barre des cinq cents victoires pour la première fois depuis avril. Toujours selon Sportsnet, les releveurs Tyler Rogers et Louis Varland ont formé un duo dominant en fin de match contre les Royals de Kansas City.
+
+    Du côté du football universitaire américain, Sportsnet rapporte que l'université du Michigan a stupéfié celle de Western Michigan grâce à une passe de la dernière chance réussie après qu'une seconde eut été rajoutée à l'horloge.
+
+    Finalement, à l'Omnium des États-Unis en tennis, Al Jazeera rapporte que la jeune joueuse Iva Jovic a été émue aux larmes après avoir battu son amie Alex Eala, des Philippines, au terme d'un duel de trois heures qualifié d'exceptionnel par l'auteur de l'article.
+  </chapitre>
+
+  <outro>Voilà pour ce Presto du dimanche six septembre deux mille vingt-six. Si ce briefing vous est utile, le meilleur coup de main que vous pouvez nous donner, c'est de le partager à une personne qui aime rester informée. Et selon votre plateforme : un abonnement sur Spotify ou Apple Podcasts, un pouce bleu et un abonnement sur YouTube, ça prend deux secondes et ça aide vraiment Presto à grandir. Sur ce, bonne journée, et à demain.</outro>
+</script>
+```
