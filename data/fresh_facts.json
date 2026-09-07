@@ -1,50 +1,46 @@
 {
-  "generated_at": "2026-09-07T18:07:20.853004+00:00",
+  "generated_at": "2026-09-07T21:55:25.693181+00:00",
   "window_hours": 8,
   "faits": [
     {
-      "sujet": "Pont routier Russie-Corée du Nord",
-      "fait": "La Russie et la Corée du Nord ont inauguré le premier pont routier traversant leur frontière commune. Selon National Post, cette cérémonie marque un approfondissement des liens entre les deux pays sanctionnés occidentaux, dans le contexte de la guerre en Ukraine."
+      "sujet": "Bombardier - Menaces commerciales Trump",
+      "fait": "Le président Trump a déclaré que Bombardier ne pourrait vendre ses appareils aux États-Unis que si l'entreprise montréalaise commence à fabriquer aux É.-U. Selon National Post, Reuters et CBC, Trump a lancé cette menace via Truth Social."
     },
     {
-      "sujet": "Salaire minimum au Québec",
-      "fait": "Québec solidaire promet une augmentation du salaire minimum à 20 $ l'heure, applicable dès le 1er mai 2027 et indexée sur l'inflation par la suite. D'après Radio-Canada, cela représente une augmentation de 3,40 $ par rapport au salaire minimum actuel de 16,60 $ l'heure."
+      "sujet": "Tarifs douaniers - Brasserie Sapporo",
+      "fait": "Sapporo Breweries Ltd. transfère une partie de sa production du Canada aux États-Unis en raison des tarifs de 50 % imposés sur les exportations de bière canadienne. Selon National Post, cette décision vise à revitaliser ses activités en Amérique du Nord."
     },
     {
-      "sujet": "Statut de Harry et Meghan",
-      "fait": "Le roi Charles III a confirmé que le prince Harry et son épouse Meghan ne sont pas des membres actifs de la famille royale après leur retour en Grande-Bretagne en provenance des États-Unis. Selon Reuters et National Post, ils conservent le statut de citoyens privés."
+      "sujet": "Accident avion cargo - Miami",
+      "fait": "Un avion cargo Amazon s'est écrasé à l'aéroport de Miami, tuant cinq personnes et en blessant cinq autres. Selon la NTSB et CBC, les victimes se trouvaient dans une fourgonnette de nettoyage et un SUV en dehors des installations de l'aéroport."
     },
     {
-      "sujet": "Crash d'avion cargo à Miami",
-      "fait": "Un avion cargo Amazon a dépassé la piste après son atterrissage à l'aéroport international de Miami. D'après BBC World, cinq personnes sont mortes et cinq autres ont été blessées dans cet incident."
+      "sujet": "Prix du pétrole - Détroit du Bab el-Mandeb",
+      "fait": "Les prix du pétrole ont atteint des plus hauts en six semaines suite à l'intensification des frappes entre les États-Unis et l'Iran dans le détroit d'Ormuz. Selon Al Jazeera, ces affrontements perturbent le trafic dans ce passage stratégique."
     },
     {
-      "sujet": "Ouverture d'ambassade à Jérusalem",
-      "fait": "Nauru, une nation insulaire du Pacifique, a ouvert son ambassade à Jérusalem. Selon Al Jazeera, elle devient le neuvième pays à établir une ambassade dans la ville."
+      "sujet": "Règlement Grindr - Données utilisateurs",
+      "fait": "L'application Grindr paiera 48 millions de dollars pour régler une action en justice britannique accusant la plateforme d'avoir vendu des données sensibles d'utilisateurs, incluant leur statut VIH, à des annonceurs. Selon CBC et BBC World."
     },
     {
-      "sujet": "Aide européenne au Groenland",
-      "fait": "Ursula von der Leyen, présidente de la Commission européenne, a annoncé une enveloppe de 200 millions d'euros en visite au Groenland. D'après Le Devoir, l'Union européenne cherche ainsi à soutenir le territoire face aux intentions de Donald Trump."
+      "sujet": "Élections Québec - Politiques économiques",
+      "fait": "Éric Duhaime, chef du PCQ, promet de réduire de 30 % le fardeau réglementaire des entreprises québécoises. Selon Radio-Canada, Québec solidaire propose d'augmenter le salaire minimum à 20 $ l'heure, soit une hausse de 3,40 $."
     },
     {
-      "sujet": "Décès de Ratko Mladic",
-      "fait": "Des milliers de personnes ont assisté aux funérailles de Ratko Mladic en Serbie. Selon BBC World et Al Jazeera, Mladic était un criminel de guerre condamné pour génocide lors de la guerre de Bosnie dans les années 1990, et l'UE a condamné cette cérémonie comme glorification."
+      "sujet": "Pont Russie-Corée du Nord",
+      "fait": "La Russie et la Corée du Nord ont inauguré le premier pont routier traversant leur frontière commune. Selon National Post, cette cérémonie marque l'approfondissement des liens entre les deux pays sanctionnés par l'Occident."
     },
     {
-      "sujet": "Inondations meurtrières au Népal",
-      "fait": "Le Népal a observé un jour de deuil national après des inondations ayant fait au moins 1 300 morts. D'après Global News, le gouvernement a ordonné que les drapeaux des bâtiments gouvernementaux soient mis en berne."
+      "sujet": "Temple Inde - Effondrement fleuve",
+      "fait": "Un temple s'est effondré dans le fleuve Gange en Inde, en Bengale-Occidental, suite à une érosion importante des berges. Selon Al Jazeera, les barrages de protection n'ont pas tenu face à cette dégradation."
     },
     {
-      "sujet": "Élection allemande et AfD",
-      "fait": "Le parti d'extrême droite AfD a remporté une victoire électorale significative dans un État allemand. Selon Reuters et BBC World, cela laisse le leader Friedrich Merz ébranlé, l'AfD cherchant à former un gouvernement malgré un écart de trois sièges pour la majorité."
+      "sujet": "Livraisons Airbus - Croissance",
+      "fait": "Les livraisons d'avions Airbus à fin août ont augmenté de 9 %. Selon Reuters Business."
     },
     {
-      "sujet": "Lancement Apple septembre 2026",
-      "fait": "Apple doit présenter un nouvel iPhone pliable Ultra le 9 septembre, ainsi que de nouveaux modèles d'AirPods et HomePods. D'après TechCrunch, ce lancement marquera l'arrivée d'un appareil phare inédit."
-    },
-    {
-      "sujet": "Captage de CO2 en Europe",
-      "fait": "Une entreprise norvégienne a inauguré la plus grande installation industrielle de captage de CO2 en Europe. Selon Le Journal de Montréal, ce projet représente une avancée majeure en matière de réduction des émissions de carbone."
+      "sujet": "Royals britanniques - Statut Harry et Meghan",
+      "fait": "Le roi Charles a confirmé que le prince Harry et Meghan restent des membres non actifs de la famille royale après leur retour au Royaume-Uni. Selon CBC et National Post, ils sont désormais considérés comme des 'citoyens privés'."
     }
   ]
 }
