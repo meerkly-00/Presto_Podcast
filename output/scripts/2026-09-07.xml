@@ -1,0 +1,71 @@
+```xml
+<script>
+  <intro>Bonjour, on est le lundi sept septembre deux mille vingt-six. Voici votre Presto en environ quinze minutes. Au menu : le Moyen-Orient sous haute tension, la percée de l'extrême droite allemande, la campagne électorale québécoise, les marchés secoués par l'emploi américain, et la tech.</intro>
+
+  <chapitre titre="International">
+    On commence par le Moyen-Orient, où la situation continue de se détériorer sur plusieurs fronts. Au Liban, selon la BBC, des frappes israéliennes dans un village du sud du pays ont tué douze personnes. Selon CBC World, qui cite l'agence de presse officielle libanaise, des frappes israéliennes sur une ville du sud ont fait au moins onze morts, dont deux enfants et deux ambulanciers, plus tôt dans la nuit. Le Liban affirme qu'une escalade israélienne récente met en péril le cessez-le-feu négocié par les États-Unis pour mettre fin au conflit entre Israël et le Hezbollah.
+
+    À Gaza, selon Al Jazeera, des attaques israéliennes ont tué cinq Palestiniens, dont deux enfants. Parmi les victimes se trouve une fillette de sept ans, tuée avec son père alors qu'ils rentraient chez eux avec des fournitures scolaires, selon la même source.
+
+    Toujours selon Al Jazeera, le Nicaragua a porté plainte contre l'Allemagne devant la Cour internationale de justice, accusant Berlin de violer la Convention sur le génocide en soutenant Israël dans son offensive à Gaza. Selon l'Associated Press, l'Allemagne se défend devant ce tribunal des Nations unies.
+
+    Dans le détroit d'Ormuz, la confrontation entre les États-Unis et l'Iran se poursuit. Selon Reuters, l'Iran a promis de répondre aux frappes américaines et affirme que les installations des compagnies énergétiques américaines sont, je le cite : "exposed". Fin de citation. Toujours selon l'Associated Press, l'Iran prévoit annoncer une nouvelle zone d'exclusion près du détroit. Selon le Wall Street Journal, cette escalade fait grimper le prix du pétrole et pèse sur le sentiment des marchés.
+
+    En Allemagne, la victoire électorale de l'extrême droite continue de faire des vagues. Selon la BBC, le parti Alternative pour l'Allemagne, l'AfD, affirme que, je le cite : "démocratie oblige, les autres partis doivent travailler avec eux". Fin de citation. Le parti est arrivé à trois sièges d'une majorité dans l'État de Saxe-Anhalt. Selon Global News, le chancelier allemand Friedrich Merz s'est dit choqué par cette victoire. Selon Reuters, monsieur Merz apparaît ébranlé alors que l'AfD élabore une stratégie pour accéder au pouvoir. Selon CBC World, certains experts estiment que cette victoire envoie un message aux populistes de droite à travers le monde, à savoir que les courants politiques leur seraient favorables.
+
+    Ailleurs, en Indonésie, selon Le Devoir, les autorités ont fermé huit aéroports, dont celui de Jakarta, après l'éruption du volcan Anak Krakatoa. Plus de cent soixante-dix mille passagers ont été cloués au sol, et près de mille six cents vols ont été retardés.
+
+    À Miami, une enquête est ouverte après qu'un avion-cargo se soit écrasé en sortant de piste. Selon la BBC et CBC World, l'appareil d'Amazon a heurté des véhicules et pris feu, causant la mort de cinq personnes et blessant cinq autres.
+  </chapitre>
+
+  <chapitre titre="Actualité québécoise">
+    Au Québec, on est au treizième jour de la campagne électorale provinciale, à l'approche du scrutin du cinq octobre. Selon Radio-Canada, la ministre Christine Fréchette a répliqué aux attaques de ses adversaires lors d'une annonce de campagne que certains qualifiaient de suspendue. Toujours selon Radio-Canada, plusieurs candidats se mesurent directement aux chefs de parti dans leur circonscription, un scénario qui, selon le média, n'est jamais joué d'avance.
+
+    Dans un autre dossier, Radio-Canada s'est penché sur le profil de Stephen Fuhr, ancien adversaire du F-35, qui gère maintenant des milliards de dollars en dépenses militaires fédérales à titre de ministre.
+
+    Une nouvelle plus personnelle a marqué la journée : selon Le Devoir et La Presse, le maire de Laval, Stéphane Boyer, a annoncé être atteint d'un méningiome, une tumeur au cerveau. Selon Le Devoir, monsieur Boyer a expliqué ressentir des maux de tête et des troubles visuels depuis plusieurs mois, ce qui l'a incité à passer une résonance magnétique. Il attend une rencontre avec un neurochirurgien pour connaître la suite, mais a indiqué qu'il conserve toutes ses capacités et qu'il compte rester en poste tout en réduisant ses activités publiques cet automne. Monsieur Boyer est maire de Laval depuis deux mille vingt-un et avait été réélu en deux mille vingt-cinq avec cinquante-neuf pour cent des appuis.
+
+    En Nouvelle-Écosse, selon Global News, de fortes pluies supplémentaires sont prévues pour le Cap-Breton, qui se remet encore d'une tempête survenue en fin de semaine. La population est invitée à vérifier l'état des routes avant de se déplacer et à éviter tout tronçon inondé.
+
+    À Montréal, selon La Presse, un homme a été poignardé dans l'arrondissement de Ville-Marie dans la nuit de samedi à dimanche. Il a été transporté à l'hôpital avec des blessures graves, mais sa vie ne serait pas en danger.
+
+    Dans le Bas-Saint-Laurent, selon Le Journal de Montréal, une collision mortelle est survenue à Dégelis, causant la mort d'un septuagénaire et entraînant la fermeture de la route deux cent quatre-vingt-quinze.
+  </chapitre>
+
+  <chapitre titre="Politique canadienne">
+    Du côté des relations canado-américaines, le dossier commercial reste tendu. Selon le National Post, les États-Unis auraient fait pression sur le Canada jusqu'aux dernières minutes des négociations, notamment sur la protection de la langue française et de la culture québécoise. Toujours selon le National Post, qui rapporte les propos du premier ministre Mark Carney, Ottawa aurait aussi été sommé d'abandonner complètement sa législation numérique, et non simplement de la modifier.
+
+    Selon CBC, les contre-tarifs canadiens contre les États-Unis devaient entrer en vigueur après minuit. Un expert en affaires internationales cité par le réseau estime que les retombées de cette phase de la guerre commerciale pourraient être difficiles, en raison de l'imprévisibilité du président américain. Selon BNN Bloomberg, Donald Trump a d'ailleurs qualifié le taux de change entre le Canada et les États-Unis d'inacceptable.
+
+    Un groupe d'employeurs, selon BNN Bloomberg, réclame par ailleurs des changements au Code canadien du travail.
+  </chapitre>
+
+  <chapitre titre="Économie et marchés">
+    On passe à l'économie, où les marchés américains ont réagi négativement vendredi à un rapport sur l'emploi jugé trop vigoureux. Selon le Wall Street Journal, les actions ont reculé après la publication de ces données, qui alimentent les craintes sur la trajectoire des taux d'intérêt.
+
+    En Asie, selon Reuters, les actions ont rebondi lundi, mais la prudence prévaut ailleurs alors que le prix du pétrole continue de grimper en raison de l'escalade dans le détroit d'Ormuz.
+
+    En Chine, selon le Financial Times, Pékin a injecté l'équivalent d'environ cinquante-quatre milliards de dollars américains dans les banques et les assureurs du pays.
+
+    Aux États-Unis, le Financial Times revient aussi sur l'endettement croissant du gouvernement américain, qui commencerait à inquiéter davantage les marchés. Toujours selon le Financial Times, les grandes dotations universitaires américaines ont surpassé la performance de l'indice S&P 500 au cours de la dernière période. Selon Bloomberg, un élu démocrate à la Chambre des représentants affirme que les tarifs douaniers erratiques de Donald Trump nuisent à l'économie américaine. De son côté, l'administration américaine défend ces mesures comme un levier de négociation commerciale.
+
+    Sur les marchés des devises, selon Bloomberg, le won sud-coréen a grimpé à son niveau le plus élevé en deux ans, porté par un élan haussier que certains observateurs jugent désormais extrême.
+
+    Enfin, selon BNN Bloomberg, plusieurs parents canadiens s'inquiètent de la hausse des coûts liés à la rentrée scolaire cette année.
+  </chapitre>
+
+  <chapitre titre="Tech">
+    Un mot sur la tech, où le coût des appareils électroniques pourrait bientôt grimper. Selon The Verge, la prochaine génération d'iPhone, attendue cette semaine, pourrait afficher un prix plus élevé qu'à l'habitude. Le média explique que la flambée des coûts de mémoire, un phénomène que certains surnomment la "chipflation" ou le "RAMageddon", frappe l'ensemble de la chaîne d'approvisionnement. Selon des données fournies par la firme AlphaSense et citées par The Verge, les mentions de pénurie de mémoire ont bondi dans les transcriptions d'entreprises du dernier trimestre.
+
+    Toujours en tech, selon Ars Technica, un incendie survenu en juin dans un centre de données pour l'intelligence artificielle dans l'État de New York a révélé un enchevêtrement complexe de responsabilités entre les entreprises impliquées. Le chef des pompiers locaux affirme que son équipe est entrée dans le bâtiment, je le cite : "kind of blind". Fin de citation. Le site, un projet de trois milliards deux cents millions de dollars, implique notamment l'entreprise TeraWulf, qui exploite le centre sur un terrain loué à une compagnie appartenant à son propre président-directeur général, ainsi que Google et Anthropic, qui comptent parmi les utilisateurs prévus de cette capacité de calcul.
+
+    Sur le plan légal, selon The Verge, le Seattle Times et Newsday poursuivent maintenant OpenAI et Microsoft pour violation de droits d'auteur, alléguant que leur journalisme a servi à entraîner des modèles d'intelligence artificielle sans autorisation. Ces deux médias rejoignent une liste de près de quatre cents journaux locaux qui ont déjà entamé des poursuites similaires. Selon TechCrunch, des auteurs contestent par ailleurs la façon dont éditeurs et agents littéraires réclament une partie des sommes prévues dans le règlement à l'amiable conclu avec Anthropic.
+
+    Sur un enjeu plus large, selon Reuters, le chef des droits humains de l'Organisation des Nations unies prévient que l'intelligence artificielle pourrait poser un risque qualifié d'existentiel pour l'humanité. À l'inverse, certains acteurs de l'industrie technologique font valoir que ces systèmes apportent des gains d'efficacité considérables et démocratisent l'accès à des outils autrefois réservés à une élite.
+
+    Du côté du matériel, selon The Verge, le fabricant chinois Huawei a lancé son plus récent téléphone pliable en trois volets, le Mate XT deux, qui reprend un écran à confidentialité renforcée semblable à celui déjà utilisé par Samsung.
+  </chapitre>
+
+  <outro>Voilà pour ce Presto du lundi sept septembre deux mille vingt-six. Si ce briefing vous est utile, le meilleur coup de main que vous pouvez nous donner, c'est de le partager à une personne qui aime rester informée. Et selon votre plateforme : un abonnement sur Spotify ou Apple Podcasts, un pouce bleu et un abonnement sur YouTube, ça prend deux secondes et ça aide vraiment Presto à grandir. Sur ce, bonne journée, et à demain.</outro>
+</script>
+```
