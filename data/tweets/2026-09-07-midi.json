@@ -1,0 +1,14 @@
+{
+  "date": "2026-09-07",
+  "kind": "poll",
+  "text": "Ce matin → Frappes israéliennes : au moins 11 morts au Liban, 5 à Gaza.\n\nNouveau : un expert de l'ONU avertit que le déblaiement des décombres à Gaza risque de détruire des preuves de\n\nSelon toi, comment équilibrer le déblaiement des décombres et la préservation des preuves?",
+  "poll": {
+    "options": [
+      "Suspendre le déblaiement",
+      "Procéder sous",
+      "Poursuivre le",
+      "Laisser cette décision"
+    ],
+    "duration_minutes": 1440
+  }
+}
