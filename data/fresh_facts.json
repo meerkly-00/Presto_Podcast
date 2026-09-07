@@ -1,54 +1,50 @@
 {
-  "generated_at": "2026-09-06T23:30:38.148567+00:00",
+  "generated_at": "2026-09-07T18:07:20.853004+00:00",
   "window_hours": 8,
   "faits": [
     {
-      "sujet": "Élection régionale allemande AfD",
-      "fait": "Le parti d'extrême droite Alternative pour l'Allemagne (AfD) remporte 44% des voix dans un État de l'est allemand, bien en avant des conservateurs à 17%, selon la BBC et Reuters."
+      "sujet": "Pont routier Russie-Corée du Nord",
+      "fait": "La Russie et la Corée du Nord ont inauguré le premier pont routier traversant leur frontière commune. Selon National Post, cette cérémonie marque un approfondissement des liens entre les deux pays sanctionnés occidentaux, dans le contexte de la guerre en Ukraine."
     },
     {
-      "sujet": "Accident avion-cargo Miami",
-      "fait": "Un Boeing 767-300 d'Amazon Prime Air sort de piste à l'aéroport international de Miami le 6 septembre 2026 vers 14h, percute plusieurs véhicules et prend feu, tuant au moins 5 personnes et en blessant 5 autres, selon Radio-Canada et Al Jazeera."
+      "sujet": "Salaire minimum au Québec",
+      "fait": "Québec solidaire promet une augmentation du salaire minimum à 20 $ l'heure, applicable dès le 1er mai 2027 et indexée sur l'inflation par la suite. D'après Radio-Canada, cela représente une augmentation de 3,40 $ par rapport au salaire minimum actuel de 16,60 $ l'heure."
     },
     {
-      "sujet": "Tensions commerciales Canada-États-Unis",
-      "fait": "Le Canada prépare l'imposition de tarifs de rétorsion sur un large éventail de biens américains le 8 septembre en réponse aux tarifs de 50% du président Trump, selon Global News."
+      "sujet": "Statut de Harry et Meghan",
+      "fait": "Le roi Charles III a confirmé que le prince Harry et son épouse Meghan ne sont pas des membres actifs de la famille royale après leur retour en Grande-Bretagne en provenance des États-Unis. Selon Reuters et National Post, ils conservent le statut de citoyens privés."
     },
     {
-      "sujet": "Conflit Moyen-Orient Iran-États-Unis",
-      "fait": "L'Iran menace d'intensifier sa riposte aux attaques américaines, les affrontements s'étant intensifiés ces derniers jours en mer dans la région du Golfe, selon Le Devoir."
+      "sujet": "Crash d'avion cargo à Miami",
+      "fait": "Un avion cargo Amazon a dépassé la piste après son atterrissage à l'aéroport international de Miami. D'après BBC World, cinq personnes sont mortes et cinq autres ont été blessées dans cet incident."
     },
     {
-      "sujet": "Réserves d'or européennes États-Unis",
-      "fait": "Plusieurs pays européens retirent leurs réserves d'or des États-Unis, l'or étant considéré comme une valeur refuge, selon Radio-Canada."
+      "sujet": "Ouverture d'ambassade à Jérusalem",
+      "fait": "Nauru, une nation insulaire du Pacifique, a ouvert son ambassade à Jérusalem. Selon Al Jazeera, elle devient le neuvième pays à établir une ambassade dans la ville."
     },
     {
-      "sujet": "Pourparlers Ukraine-Russie États-Unis",
-      "fait": "Les envoyés américains Steve Witkoff et Jared Kushner rencontrent le président Zelensky à Kyiv sans annoncer de percée majeure, le président s'attendant à la poursuite de la guerre l'hiver, selon la BBC et le National Post."
+      "sujet": "Aide européenne au Groenland",
+      "fait": "Ursula von der Leyen, présidente de la Commission européenne, a annoncé une enveloppe de 200 millions d'euros en visite au Groenland. D'après Le Devoir, l'Union européenne cherche ainsi à soutenir le territoire face aux intentions de Donald Trump."
     },
     {
-      "sujet": "Éruption volcanique Indonésie",
-      "fait": "Une éruption volcanique laisse plus de 170 000 passagers aériens bloqués après détection de cendres dans l'espace aérien près de Jakarta, selon la BBC."
+      "sujet": "Décès de Ratko Mladic",
+      "fait": "Des milliers de personnes ont assisté aux funérailles de Ratko Mladic en Serbie. Selon BBC World et Al Jazeera, Mladic était un criminel de guerre condamné pour génocide lors de la guerre de Bosnie dans les années 1990, et l'UE a condamné cette cérémonie comme glorification."
     },
     {
-      "sujet": "Premiers lancements spatiaux commerciaux européens",
-      "fait": "La société allemande Isar Aerospace met avec succès en orbite basse sa fusée Spectrum depuis un port spatial norvégien, réalisant le premier lancement orbital entièrement commercial d'Europe continentale, selon The Verge."
+      "sujet": "Inondations meurtrières au Népal",
+      "fait": "Le Népal a observé un jour de deuil national après des inondations ayant fait au moins 1 300 morts. D'après Global News, le gouvernement a ordonné que les drapeaux des bâtiments gouvernementaux soient mis en berne."
     },
     {
-      "sujet": "Attaque terroriste contre communauté sikhe Canada",
-      "fait": "Des menaces de mort et des messages de haine sont peints sur plusieurs panneaux le long du parcours d'une procession sikhe à Winnipeg avant l'événement du dimanche, selon Global News."
+      "sujet": "Élection allemande et AfD",
+      "fait": "Le parti d'extrême droite AfD a remporté une victoire électorale significative dans un État allemand. Selon Reuters et BBC World, cela laisse le leader Friedrich Merz ébranlé, l'AfD cherchant à former un gouvernement malgré un écart de trois sièges pour la majorité."
     },
     {
-      "sujet": "Explosion de feux d'artifice Mexique",
-      "fait": "Au moins 10 personnes sont tuées et au moins 60 blessées lors d'une explosion de feux d'artifice durant un festival au Mexique central, apparemment causée par une effigie de taureau en feu, selon Al Jazeera."
+      "sujet": "Lancement Apple septembre 2026",
+      "fait": "Apple doit présenter un nouvel iPhone pliable Ultra le 9 septembre, ainsi que de nouveaux modèles d'AirPods et HomePods. D'après TechCrunch, ce lancement marquera l'arrivée d'un appareil phare inédit."
     },
     {
-      "sujet": "Retraite Phil Schiller Apple App Store",
-      "fait": "Phil Schiller quitte son poste à l'App Store en raison de réserves concernant les objectifs du nouveau PDG John Ternus d'augmenter les revenus récurrents de l'App Store, selon TechCrunch."
-    },
-    {
-      "sujet": "Recours collectif auteurs-Anthropic",
-      "fait": "Les auteurs contestent les réclamations des éditeurs et des agents sur la distribution des paiements du règlement Anthropic, affirmant que les éditeurs réclament plus que leur juste part, selon TechCrunch."
+      "sujet": "Captage de CO2 en Europe",
+      "fait": "Une entreprise norvégienne a inauguré la plus grande installation industrielle de captage de CO2 en Europe. Selon Le Journal de Montréal, ce projet représente une avancée majeure en matière de réduction des émissions de carbone."
     }
   ]
 }
