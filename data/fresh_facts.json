@@ -1,46 +1,50 @@
 {
-  "generated_at": "2026-09-07T21:55:25.693181+00:00",
+  "generated_at": "2026-09-08T00:00:30.002860+00:00",
   "window_hours": 8,
   "faits": [
     {
-      "sujet": "Bombardier - Menaces commerciales Trump",
-      "fait": "Le président Trump a déclaré que Bombardier ne pourrait vendre ses appareils aux États-Unis que si l'entreprise montréalaise commence à fabriquer aux É.-U. Selon National Post, Reuters et CBC, Trump a lancé cette menace via Truth Social."
+      "sujet": "Tarifs Trump contre Bombardier",
+      "fait": "Donald Trump a déclaré que Bombardier ne pourrait plus vendre aux États-Unis à moins que l'entreprise ne fabrique ses produits sur le territoire américain. Selon Reuters et Le Devoir, Trump affirme que 50% des revenus de l'avionneur proviennent des États-Unis."
     },
     {
-      "sujet": "Tarifs douaniers - Brasserie Sapporo",
-      "fait": "Sapporo Breweries Ltd. transfère une partie de sa production du Canada aux États-Unis en raison des tarifs de 50 % imposés sur les exportations de bière canadienne. Selon National Post, cette décision vise à revitaliser ses activités en Amérique du Nord."
+      "sujet": "Contre-tarifs canadiens applicables",
+      "fait": "Des centaines de produits américains sont visés par les contre-tarifs canadiens, d'une valeur équivalente aux produits canadiens frappés par les tarifs américains. Selon Global News, ces mesures de rétorsion doivent entrer en vigueur."
     },
     {
-      "sujet": "Accident avion cargo - Miami",
-      "fait": "Un avion cargo Amazon s'est écrasé à l'aéroport de Miami, tuant cinq personnes et en blessant cinq autres. Selon la NTSB et CBC, les victimes se trouvaient dans une fourgonnette de nettoyage et un SUV en dehors des installations de l'aéroport."
+      "sujet": "Relocalisation de production Sapporo",
+      "fait": "Sapporo Breweries transfère une partie de sa production du Canada vers les États-Unis en raison des tarifs de 50% imposés sur les exportations de bière canadienne. Selon National Post, cette décision vise à relancer les opérations nord-américaines du groupe."
     },
     {
-      "sujet": "Prix du pétrole - Détroit du Bab el-Mandeb",
-      "fait": "Les prix du pétrole ont atteint des plus hauts en six semaines suite à l'intensification des frappes entre les États-Unis et l'Iran dans le détroit d'Ormuz. Selon Al Jazeera, ces affrontements perturbent le trafic dans ce passage stratégique."
+      "sujet": "Crash cargo Amazon Miami",
+      "fait": "Un Boeing 767-300 d'Amazon s'est écrasé à l'aéroport international de Miami, tuant cinq personnes et en blessant cinq autres. Selon le NTSB cité par BBC World et Global News, les enquêteurs ont récupéré les enregistreurs de vol et de données."
     },
     {
-      "sujet": "Règlement Grindr - Données utilisateurs",
-      "fait": "L'application Grindr paiera 48 millions de dollars pour régler une action en justice britannique accusant la plateforme d'avoir vendu des données sensibles d'utilisateurs, incluant leur statut VIH, à des annonceurs. Selon CBC et BBC World."
+      "sujet": "Tensions US-Iran détroit Hormuz",
+      "fait": "Les prix du pétrole ont atteint des sommets sur six semaines suite à l'intensification des frappes US-Iran dans le détroit d'Ormuz. Selon Al Jazeera, ce conflit perturbe le trafic dans ce passage crucial."
     },
     {
-      "sujet": "Élections Québec - Politiques économiques",
-      "fait": "Éric Duhaime, chef du PCQ, promet de réduire de 30 % le fardeau réglementaire des entreprises québécoises. Selon Radio-Canada, Québec solidaire propose d'augmenter le salaire minimum à 20 $ l'heure, soit une hausse de 3,40 $."
+      "sujet": "Tabagisme passif décès mondiaux",
+      "fait": "Selon une étude publiée dans The Lancet et rapportée par La Presse, le tabagisme passif aurait causé 1,66 million de décès en 2023. Quelque 2,7 milliards de personnes sont exposées au tabagisme passif dans le monde."
+    },
+    {
+      "sujet": "Incidents Torre Eiffel Paris",
+      "fait": "La Tour Eiffel a été fermée suite à une protestation du personnel après le déplacement de femmes employées lors d'une visite religieuse. Selon BBC World, le maire de Paris a ordonné une enquête sur cet incident."
+    },
+    {
+      "sujet": "Attaque prison al-Hazm Yémen",
+      "fait": "Les Houthis accusent l'Arabie Saoudite d'avoir tué sept personnes lors d'une frappe aérienne sur la prison d'al-Hazm. Selon Al Jazeera, un média contrôlé par les Houthis a diffusé des vidéos des dégâts."
+    },
+    {
+      "sujet": "Accord Grindr violation données",
+      "fait": "L'application Grindr accepte de payer 48 millions de dollars pour régler un procès britannique concernant la vente de données utilisateurs sensibles, dont le statut VIH. Selon CBC, le règlement concerne des informations vendues à des annonceurs."
     },
     {
       "sujet": "Pont Russie-Corée du Nord",
-      "fait": "La Russie et la Corée du Nord ont inauguré le premier pont routier traversant leur frontière commune. Selon National Post, cette cérémonie marque l'approfondissement des liens entre les deux pays sanctionnés par l'Occident."
+      "fait": "La Russie et la Corée du Nord ont inauguré un premier pont routier traversant leur frontière commune. Selon National Post, cette cérémonie marque l'approfondissement des relations entre les deux pays sanctionnés."
     },
     {
-      "sujet": "Temple Inde - Effondrement fleuve",
-      "fait": "Un temple s'est effondré dans le fleuve Gange en Inde, en Bengale-Occidental, suite à une érosion importante des berges. Selon Al Jazeera, les barrages de protection n'ont pas tenu face à cette dégradation."
-    },
-    {
-      "sujet": "Livraisons Airbus - Croissance",
-      "fait": "Les livraisons d'avions Airbus à fin août ont augmenté de 9 %. Selon Reuters Business."
-    },
-    {
-      "sujet": "Royals britanniques - Statut Harry et Meghan",
-      "fait": "Le roi Charles a confirmé que le prince Harry et Meghan restent des membres non actifs de la famille royale après leur retour au Royaume-Uni. Selon CBC et National Post, ils sont désormais considérés comme des 'citoyens privés'."
+      "sujet": "Hurricane Lowell Hawaii",
+      "fait": "L'ouragan Lowell, classé catégorie 3, s'approche des îles hawaïennes lundi soir, menaçant des vagues mortelles et des cyclones. Selon Al Jazeera, les autorités se préparent aux impacts."
     }
   ]
 }
