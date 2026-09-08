@@ -1,54 +1,46 @@
 {
-  "generated_at": "2026-09-08T17:05:17.303367+00:00",
+  "generated_at": "2026-09-08T21:35:28.568290+00:00",
   "window_hours": 8,
   "faits": [
     {
-      "sujet": "Tarifs Canada-États-Unis",
-      "fait": "Les contre-tarifs canadiens sont entrés en vigueur à minuit mardi, appliquant des levies de 25 à 50 % sur environ 20 milliards de dollars de produits américains incluant les produits laitiers, cosmétiques, soins capillaires, bois d'œuvre, acier et cadres de fenêtres. Selon le National Post et BBC World."
+      "sujet": "Tarifs américains sur produits canadiens",
+      "fait": "Donald Trump annonce l'interdiction des produits canadiens dans les marchés publics américains, citant des restrictions canadiennes envers les entreprises américaines. D'après Global News et Radio-Canada."
     },
     {
-      "sujet": "Tarifs Canada-États-Unis",
-      "fait": "Le président Trump a publié plus de 60 messages sur Truth Social lundi menaçant d'interdire à Bombardier de vendre des aéronefs aux États-Unis. Selon le National Post."
+      "sujet": "Sapporo bière sans alcool production",
+      "fait": "Sapporo envisage de déplacer la production de sa bière sans alcool vers des brasseries américaines, mais affirme que 99,5 % de sa production canadienne reste inchangée. Selon Global News."
     },
     {
-      "sujet": "Actions Bombardier",
-      "fait": "Les actions de Bombardier ont chuté après les menaces de Trump concernant l'accès au marché américain. Selon Reuters Business."
+      "sujet": "OpenAI résout problème mathématique",
+      "fait": "OpenAI annonce avoir trouvé une solution au problème de Navier-Stokes, non résolu depuis environ 90 ans, en utilisant un modèle IA interne et 10 000 agents concurrents. Le problème figure parmi les sept Millennium Prize Problems dotés d'une récompense d'un million de dollars. D'après The Verge."
     },
     {
-      "sujet": "Élections en Allemagne",
-      "fait": "Le parti d'extrême droite AfD a remporté 43,8 % des votes en Saxe-Anhalt, avec une hausse de 23 points par rapport à 2021, tandis que la CDU centriste a obtenu 17,2 % et a perdu près de 20 points. Selon Radio-Canada et National Post."
+      "sujet": "Cognition lève 48 milliards dollars",
+      "fait": "Cognition atteint une valorisation de 48 milliards de dollars, signalant aux investisseurs que le marché de la programmation IA n'est pas un marché à vainqueur unique. Selon TechCrunch."
     },
     {
-      "sujet": "Pétition uranium Nouvelle-Écosse",
-      "fait": "Plus de 10 000 personnes ont signé une pétition demandant au gouvernement de la Nouvelle-Écosse de rétablir l'interdiction de l'exploitation minière de l'uranium. Selon Global News."
+      "sujet": "Vols retardés contrôle aérien Royaume-Uni",
+      "fait": "Plusieurs centaines de vols sont retardés ou annulés au Royaume-Uni suite à un dysfonctionnement technique du fournisseur de contrôle du trafic aérien NATS. D'après Al Jazeera."
     },
     {
-      "sujet": "Attaque drone à Kyiv",
-      "fait": "Un immeuble abritant une chaîne de télévision ukrainienne a été touché par un drone russe, cinq personnes ayant été tuées lors d'une attaque en plein jour à Kyiv. Selon BBC World."
+      "sujet": "Exploration Company lève 450 millions dollars",
+      "fait": "The Exploration Company lève 450 millions de dollars pour construire des vaisseaux réutilisables, décrit comme le plus grand financement de série C d'une entreprise spatiale européenne. D'après TechCrunch."
     },
     {
-      "sujet": "Accord personnel Université Toronto",
-      "fait": "Le personnel de l'Université de Toronto représenté par les United Steelworkers a approuvé un accord provisoire après avoir voté à 96 % en faveur d'une grève. Selon Global News."
+      "sujet": "Hackers volent tokens Claude Anthropic",
+      "fait": "Des hackers volent des tokens Claude sur les comptes d'abonnés, Anthropic avertissant les utilisateurs après qu'un utilisateur ait observé sa consommation de tokens même sans utiliser le service. Selon TechCrunch."
     },
     {
-      "sujet": "Prêt nucléaire Google-Iowa",
-      "fait": "Le propriétaire d'une centrale nucléaire de l'Iowa que Google a promis de relancer reçoit un prêt de 1,9 milliard de dollars du département américain de l'Énergie. Selon TechCrunch."
+      "sujet": "Trafic de cocaïne condamnation Québec",
+      "fait": "Un individu arrêté après une présumée transaction de cocaïne à Sainte-Thérèse en juin 2025 est condamné à trois ans et demi de prison pour possession de drogue en vue de trafic et possession d'un pistolet chargé. D'après La Presse."
     },
     {
-      "sujet": "Mise à jour Chrome sécurité",
-      "fait": "Google accélère le calendrier de publication de Chrome pour livrer les correctifs de sécurité et les nouvelles fonctionnalités tous les deux semaines. Selon TechCrunch."
+      "sujet": "Cour suprême rabais annonces électorales",
+      "fait": "La Cour suprême américaine ordonne aux stations de télévision de réduire les prix des annonces électorales pour les partis politiques et comités de collecte de fonds conjoints, en vertu de la règle du tarif unitaire minimal. Selon Ars Technica."
     },
     {
-      "sujet": "Jeu White House supprimé",
-      "fait": "La Maison-Blanche a retiré un clone de Tetris intitulé 'Build the Wall' quelques jours après le lancement de son site 'arcade', le jeu impliquant d'empiler des blocs pour prévenir un 'siège de zombies à la frontière'. Selon The Verge."
-    },
-    {
-      "sujet": "Accord négociation Carney-États-Unis",
-      "fait": "Un entretien entre les représentants canadien et américain devait avoir lieu le 8 septembre. Mark Carney a déclaré ne pas croire à l'escalade du conflit commercial. Selon Radio-Canada et National Post."
-    },
-    {
-      "sujet": "Grève avocates Protecteur citoyen",
-      "fait": "Les avocates du Protecteur du citoyen québécois ont amorcé une grève à durée indéterminée mardi matin. Selon La Presse."
+      "sujet": "Islande convoque ambassadeur américain",
+      "fait": "L'Islande convoque l'ambassadeur américain suite à la publication par Donald Trump d'une carte montrant le drapeau américain couvrant l'Amérique du Nord, incluant le Mexique, le Canada, le Groenland et l'Islande. D'après CBC World."
     }
   ]
 }
