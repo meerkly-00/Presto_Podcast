@@ -1,0 +1,14 @@
+{
+  "date": "2026-09-08",
+  "kind": "poll",
+  "text": "Ce matin → Les contre-tarifs canadiens de 25-50% sont en vigueur sur 20G$ de produits américains.\n\nNouveau : Washington menace une réplique. Entretien prévu aujourd'hui entre représentants canadien et américain.\n\nSelon toi, cette escalade tarifaire devrait être résolue par :",
+  "poll": {
+    "options": [
+      "Des négociations",
+      "L'arbitrage d'organismes",
+      "Le maintien des",
+      "L'implication d'alliés"
+    ],
+    "duration_minutes": 1440
+  }
+}
