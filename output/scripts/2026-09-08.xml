@@ -1,0 +1,69 @@
+```xml
+<script>
+  <intro>Bonjour, on est le mardi huit septembre deux mille vingt-six. Voici votre Presto en environ quinze minutes. Au menu : la guerre commerciale canado-américaine qui s'intensifie, le Moyen-Orient sous tension, l'Ukraine, l'élection québécoise, l'économie et les marchés, et un mot sur la tech.</lchapitre>
+
+  <chapitre titre="Guerre commerciale Canada-États-Unis">
+On commence par le dossier commercial canado-américain, qui a pris un tournant majeur cette nuit. Selon Radio-Canada, les contre-tarifs canadiens sur des produits américains sont entrés en vigueur dans la nuit de lundi à mardi. Ces contre-tarifs varient entre quinze pour cent, vingt-cinq pour cent et cinquante pour cent, selon les produits touchés. Selon la BBC, ces tarifs canadiens s'appliquent à des produits américains d'une valeur de vingt milliards de dollars, ce qui met en jeu la stabilité de l'ensemble de la relation commerciale bilatérale.
+
+Cette réplique canadienne survient après une nouvelle escalade du président américain. Selon Reuters, Donald Trump a affirmé que Bombardier doit désormais construire ses avions aux États-Unis, sous peine de perdre l'accès au marché américain. Selon Les Affaires, le président a aussi déclaré vouloir davantage de ventes de Bombardier sur le sol américain. Le National Post rapporte que des analystes qualifient cette menace de recul stratégique pour les liens de défense entre le Canada et les États-Unis.
+
+L'enjeu est de taille pour le Québec. Selon Radio-Canada, environ cinq pour cent de la valeur totale des exportations québécoises proviennent de Bombardier, et cinquante-six pour cent du chiffre d'affaires de l'entreprise se fait aux États-Unis, où elle compte des contrats avec l'armée américaine et un réseau de deux mille huit cents fournisseurs. Le PDG de Bombardier, Éric Martel, a dit à Radio-Canada, je le cite : on produirait moins d'avions et on ferait des mises à pied au Canada. Fin de citation.
+
+Certaines provinces ripostent aussi à leur façon. Selon Global News, la Saskatchewan a mis en vigueur une taxe de cinquante pour cent sur l'alcool américain le jour même de l'entrée en vigueur des contre-tarifs fédéraux, une mesure annoncée par le premier ministre Scott Moe.
+
+Sur le plan politique, les avis divergent sur la stratégie à adopter. Selon CBC, l'ancien premier ministre Jean Chrétien a affirmé que le Canada a fait le bon choix avec les contre-tarifs et que leur élargissement ne devrait pas être exclu. À l'inverse, le site The Hub soutient que si Donald Trump est responsable de cette guerre commerciale, le Canada ne devrait pas se nuire à lui-même simplement pour le contrarier. BNN Bloomberg qualifie cette semaine de particulièrement déterminante dans le conflit commercial entre les deux pays.
+  </chapitre>
+
+  <chapitre titre="Actualité québécoise : campagne électorale">
+Au Québec, on est au treizième jour de la campagne électorale provinciale, une campagne désormais bousculée par la guerre tarifaire. Selon Radio-Canada, la ministre Christine Fréchette a affirmé en point de presse, je le cite : on doit être prêt si Donald Trump va plus loin. Fin de citation. Toujours selon le Journal de Montréal, Christine Fréchette a annoncé de nouvelles mesures pour protéger l'économie québécoise face aux contre-tarifs.
+
+Sur le plan de la couverture médiatique, La Presse note que cette journée de campagne est marquée à la fois par le dossier tarifaire et par le début des Internationaux de tennis des États-Unis. Global News rapporte par ailleurs que des étudiants universitaires qui se présentent comme candidats dans plusieurs partis doivent jongler entre leur rentrée scolaire et leur participation à la campagne.
+  </chapitre>
+
+  <chapitre titre="International : Moyen-Orient et Ukraine">
+Au Moyen-Orient, la situation continue de se détériorer sur plusieurs fronts. Selon CBC, les Houthis, appuyés par l'Iran, ont attaqué quatre villes du sud de l'Arabie saoudite mardi, blessant plus de soixante-dix personnes et provoquant des incendies dans des installations pétrolières. Al Jazeera qualifie cet épisode d'expansion majeure d'un conflit régional vieux de six mois, et précise que l'Arabie saoudite a promis une riposte ferme après ces frappes qui ont blessé soixante-treize personnes et perturbé des installations énergétiques dans le sud du pays.
+
+Cette escalade a des répercussions sur les marchés pétroliers. Selon Bloomberg, le prix du pétrole brut s'approche de la barre des cent dollars américains le baril, ce qui a mis en pause le récent redressement des marchés émergents. BNN Bloomberg rapporte que les prix pétroliers ont atteint des sommets inégalés depuis six semaines en raison de la détérioration du conflit au Moyen-Orient.
+
+En Ukraine, selon la BBC, des frappes russes par drones ont visé Kyiv tôt mardi matin, tuant au moins deux personnes, dans un contexte d'alertes aériennes et d'explosions à travers la capitale. CBC World précise que ces frappes mettent fin à une brève pause dans les attaques russes, qui avait coïncidé avec la visite de négociateurs américains chargés du dossier de paix. Selon Reuters, le président ukrainien Volodymyr Zelensky a affirmé que les émissaires américains avaient présenté ce qu'il a appelé, en anglais, je le cite : decent ideas. Fin de citation, pour les pourparlers de paix.
+
+Ailleurs, en Allemagne, selon l'Associated Press, le chancelier Friedrich Merz s'est dit ébranlé par la victoire écrasante du parti d'extrême droite Alternative für Deutschland lors d'une élection régionale en Saxe-Anhalt, tout en maintenant le cap sur des réformes impopulaires. Toujours selon l'Associated Press, cette victoire teste ce que le pays appelle son pare-feu contre l'extrême droite. Le Devoir note que ce parti a récolté quarante-quatre pour cent des suffrages exprimés localement, soit environ cinq cent soixante-seize mille électeurs.
+
+Au Soudan, selon Al Jazeera, l'organisation Médecins sans frontières prévient que le système de santé est au bord de l'effondrement, alors que plus du tiers des établissements de santé du pays sont non opérationnels en raison de coupes dans l'aide humanitaire.
+
+En France, selon la BBC, une enquête est en cours après que du personnel féminin de la Tour Eiffel a été remplacé par des hommes lors d'une visite à caractère religieux, ce qui a provoqué un débrayage du personnel outré et la fermeture du site pour une journée. Toujours en France, selon CBC, des voleurs ont dérobé quatre tableaux au Musée Renoir sur la Riviera française, mais en ont abandonné deux dans les jardins alors que la police, alertée par les systèmes d'alarme, les pourchassait tôt mardi.
+  </chapitre>
+
+  <chapitre titre="Économie et marchés">
+On passe à l'économie, où les marchés restent nerveux face à la remontée du pétrole. Selon Reuters, les actions ont reculé alors que le yen se raffermit et que les attaques dans le Golfe poussent le pétrole vers la barre des cent dollars le baril. Selon Bloomberg, cette flambée pétrolière alimente les craintes inflationnistes et a fait fléchir les marchés boursiers. Bloomberg ajoute que la pause estivale des marchés mondiaux tire à sa fin, avec une volatilité et des risques appelés à s'intensifier.
+
+En Asie, selon le Wall Street Journal, les marchés boursiers évoluent de façon mitigée alors que les investisseurs attendent la publication des données américaines sur l'inflation.
+
+Sur le plan de l'approvisionnement énergétique, Reuters rapporte que l'offre mondiale de diesel devrait rester restreinte tout au long de l'hiver, selon des dirigeants de l'industrie. En Allemagne, toujours selon Reuters, un regroupement de l'industrie prévient d'un risque de pénurie de gaz cet hiver en raison de niveaux de stockage trop bas.
+
+Du côté des fusions et acquisitions, selon BNN Bloomberg, les sociétés pétrolières et gazières canadiennes Tamarack Valley et Headwater Exploration ont convenu d'une fusion entièrement en actions d'une valeur de dix milliards de dollars.
+
+Dans le secteur technologique et financier, selon le Financial Times, les banquiers d'Anthropic et d'OpenAI cherchent à obtenir des cotes de crédit de premier niveau après un premier appel public à l'épargne. Toujours dans les marchés internationaux, le Financial Times rapporte que l'homme le plus riche d'Afrique cherche à lever un milliard six cents millions de dollars dans ce qui serait le plus important premier appel public à l'épargne du continent, un projet que Bloomberg qualifie de tentative de rendre cet appel public accessible au grand public par l'entremise d'entreprises de technologies financières.
+
+Au Québec, Le Devoir rapporte les propos de l'ancien président de Desjardins, qui soutient qu'un État de droit solide pourrait avantager le Québec pour attirer les investisseurs étrangers. Il a dit, je le cite : il va y avoir un avant deux mille vingt et un après deux mille trente. Fin de citation.
+  </chapitre>
+
+  <chapitre titre="Tech">
+Un mot sur la tech, où Apple s'apprête à franchir une étape attendue depuis longtemps. Selon The Verge, Apple doit lancer mercredi son premier iPhone pliable, sept ans après l'arrivée du premier Galaxy Fold de Samsung sur le marché. Le média souligne que ce lancement, le premier orchestré par le nouveau chef de la direction John Ternus, confirme l'influence toujours dominante de l'entreprise dans l'industrie. Selon The Verge, les modèles Pro seraient offerts en premier, alors que le modèle standard de la prochaine génération d'iPhone serait plutôt lancé au début de l'an prochain.
+
+La concurrence ne reste pas les bras croisés. Toujours selon The Verge, le fabricant chinois Xiaomi a lancé son propre appareil pliable large, offrant selon le média des caractéristiques techniques supérieures à celles du Galaxy Z Fold huit de Samsung. Le nouvel appareil intègre aussi une puce graphique développée par Arm après cinq ans de travail, une technologie qui pourrait transformer le jeu vidéo mobile en y intégrant des techniques d'éclairage avancées inspirées de l'industrie du jeu sur ordinateur.
+
+Du côté de la vie privée, un rapport soulève des questions. Selon The Verge, qui cite une enquête menée par la chaîne YouTube Gamers Nexus en collaboration avec Level1Techs et des chercheurs en sécurité indépendants, les téléviseurs intelligents de LG continueraient de recueillir et de transmettre des données sur leurs propriétaires même lorsqu'ils sont hors ligne ou en mode veille, notamment en balayant les réseaux Wi-Fi environnants et en enregistrant des données audio.
+
+Dans le secteur spatial, selon TechCrunch, l'entreprise Stoke Space a complété un premier closing d'une ronde de financement de série E d'un milliard de dollars, destinée à l'aider à atteindre l'orbite et à préparer une fusée plus grande, dans une ambition de rivaliser avec SpaceX sur la réutilisation des fusées.
+
+Enfin, en intelligence artificielle, TechCrunch propose un glossaire des nouveaux termes qui ont émergé avec la montée de l'IA, alors que le vocabulaire technique du domaine continue de s'étendre rapidement.
+  </chapitre>
+
+  <chapitre titre="Sport">
+Rapidement en sport. Selon Sportsnet, les Blue Jays de Toronto ont éprouvé des difficultés à retenir les coureurs adverses sur les sentiers, ce qui a contribué à une défaite de six à cinq contre les Athletics. Toujours selon Sportsnet, à l'occasion de la fête du Travail, les Argonauts de Toronto ont infligé une défaite coûteuse aux Tiger-Cats de Hamilton par la marque de trente-sept à vingt-deux, devant une foule à guichets fermés de vingt-cinq mille deux cent soixante-quatorze personnes à Hamilton.
+  </chapitre>
+
+  <outro>Voilà pour ce Presto du mardi huit septembre deux mille vingt-six. Si ce briefing vous est utile, le meilleur coup de main que vous pouvez nous donner, c'est de le partager à une personne qui aime rester informée. Et selon votre plateforme : un abonnement sur Spotify ou Apple Podcasts, un pouce bleu et un abonnement sur YouTube, ça prend deux secondes et ça aide vraiment Presto à grandir. Sur ce, bonne journée, et à demain.</outro>
+</script>
+```
