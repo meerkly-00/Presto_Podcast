@@ -1,46 +1,54 @@
 {
-  "generated_at": "2026-09-08T21:35:28.568290+00:00",
+  "generated_at": "2026-09-08T23:51:37.600263+00:00",
   "window_hours": 8,
   "faits": [
     {
-      "sujet": "Tarifs américains sur produits canadiens",
-      "fait": "Donald Trump annonce l'interdiction des produits canadiens dans les marchés publics américains, citant des restrictions canadiennes envers les entreprises américaines. D'après Global News et Radio-Canada."
+      "sujet": "Guerre commerciale États-Unis Canada",
+      "fait": "Le président américain Donald Trump a signé mardi soir cinq proclamations pénalisant le Canada, incluant une interdiction d'importation sur l'alcool canadien et d'autres biens. Selon BBC World et Radio-Canada, cela intervient alors que les tarifs de représailles canadiens entrent en vigueur."
     },
     {
-      "sujet": "Sapporo bière sans alcool production",
-      "fait": "Sapporo envisage de déplacer la production de sa bière sans alcool vers des brasseries américaines, mais affirme que 99,5 % de sa production canadienne reste inchangée. Selon Global News."
+      "sujet": "Tarifs douaniers canadiens effectifs",
+      "fait": "Les tarifs de représailles canadiens contre les États-Unis sont entrés en vigueur. Selon Reuters, les négociations commerciales entre les deux pays sont au point mort."
     },
     {
-      "sujet": "OpenAI résout problème mathématique",
-      "fait": "OpenAI annonce avoir trouvé une solution au problème de Navier-Stokes, non résolu depuis environ 90 ans, en utilisant un modèle IA interne et 10 000 agents concurrents. Le problème figure parmi les sept Millennium Prize Problems dotés d'une récompense d'un million de dollars. D'après The Verge."
+      "sujet": "Biens canadiens exclus des contrats fédéraux US",
+      "fait": "Trump a ordonné à la GSA (General Services Administration) de prendre des mesures pour retirer les biens canadiens des listes d'agences fédérales américaines. Selon Reuters, cette directive fait suite aux nouvelles mesures commerciales contre le Canada."
     },
     {
-      "sujet": "Cognition lève 48 milliards dollars",
-      "fait": "Cognition atteint une valorisation de 48 milliards de dollars, signalant aux investisseurs que le marché de la programmation IA n'est pas un marché à vainqueur unique. Selon TechCrunch."
+      "sujet": "Bombardier menacé par sanctions américaines",
+      "fait": "Une interdiction américaine sur les ventes de Bombardier pourrait 'massivement' perturber le secteur aérospatial américain. Selon BNN Bloomberg, cette mesure pourrait avoir des répercussions importantes."
     },
     {
-      "sujet": "Vols retardés contrôle aérien Royaume-Uni",
-      "fait": "Plusieurs centaines de vols sont retardés ou annulés au Royaume-Uni suite à un dysfonctionnement technique du fournisseur de contrôle du trafic aérien NATS. D'après Al Jazeera."
+      "sujet": "Jeu 'Build the Wall' retiré par la Maison-Blanche",
+      "fait": "L'administration Trump a retiré son jeu d'arcade 'Build the Wall' après que la Tetris Company ait signalé une violation de droits d'auteur. Selon TechCrunch, la Tetris Company a déclaré prendre 'très au sérieux' les infractions au droit d'auteur."
     },
     {
-      "sujet": "Exploration Company lève 450 millions dollars",
-      "fait": "The Exploration Company lève 450 millions de dollars pour construire des vaisseaux réutilisables, décrit comme le plus grand financement de série C d'une entreprise spatiale européenne. D'après TechCrunch."
+      "sujet": "Soutien canadien limité à la ligne dure commerciale",
+      "fait": "Un nouveau sondage révèle que les Canadiens soutiennent largement une position ferme dans la guerre commerciale avec les États-Unis, mais ce soutien s'effondre quand on leur demande de payer pour cela. Selon National Post, ce contraste est notable."
     },
     {
-      "sujet": "Hackers volent tokens Claude Anthropic",
-      "fait": "Des hackers volent des tokens Claude sur les comptes d'abonnés, Anthropic avertissant les utilisateurs après qu'un utilisateur ait observé sa consommation de tokens même sans utiliser le service. Selon TechCrunch."
+      "sujet": "Élections québécoises jour 13 de campagne",
+      "fait": "Gabriel Milliard met en garde les Québécois contre l'ambivalence de la CAQ concernant l'indépendance, affirmant que cette position pourrait créer de la confusion si le PQ formait un gouvernement. Selon Radio-Canada, c'est un enjeu central de la campagne électorale en cours."
     },
     {
-      "sujet": "Trafic de cocaïne condamnation Québec",
-      "fait": "Un individu arrêté après une présumée transaction de cocaïne à Sainte-Thérèse en juin 2025 est condamné à trois ans et demi de prison pour possession de drogue en vue de trafic et possession d'un pistolet chargé. D'après La Presse."
+      "sujet": "Politique commerciale Trump contre Ford",
+      "fait": "L'administration Trump critique les accords commerciaux de Ford avec des entreprises chinoises. Selon Reuters, l'administration a publiquement critiqué ces partenariats."
     },
     {
-      "sujet": "Cour suprême rabais annonces électorales",
-      "fait": "La Cour suprême américaine ordonne aux stations de télévision de réduire les prix des annonces électorales pour les partis politiques et comités de collecte de fonds conjoints, en vertu de la règle du tarif unitaire minimal. Selon Ars Technica."
+      "sujet": "Volatilité accrue sur les marchés financiers",
+      "fait": "Les marchés boursiers enregistrent une volatilité accrue après une période de calme estival, tandis que les inquiétudes concernant l'intelligence artificielle pèsent sur les sociétés de logiciels. Selon Bloomberg et Reuters, le S&P 500 a baissé sur ces préoccupations."
     },
     {
-      "sujet": "Islande convoque ambassadeur américain",
-      "fait": "L'Islande convoque l'ambassadeur américain suite à la publication par Donald Trump d'une carte montrant le drapeau américain couvrant l'Amérique du Nord, incluant le Mexique, le Canada, le Groenland et l'Islande. D'après CBC World."
+      "sujet": "Craintes de hausse de taux se dissipent",
+      "fait": "Les actions ont grimpé alors que les craintes concernant des hausses de taux d'intérêt s'estompent. Selon Wall Street Journal, cette évolution du marché reflète un changement de sentiment économique."
+    },
+    {
+      "sujet": "OpenAI résout équation mathématique millénaire",
+      "fait": "OpenAI annonce avoir trouvé une solution au problème de Navier-Stokes, une équation mathématique non résolue depuis environ 90 ans, en utilisant un modèle d'IA interne plus puissant que le GPT-6 Astra avec 10 000 agents concurrents. Selon The Verge, le problème de Navier-Stokes est l'un des sept problèmes du prix du millénaire dotés d'une récompense d'un million de dollars."
+    },
+    {
+      "sujet": "Financement de la startup spatiale européenne",
+      "fait": "The Exploration Company a levé 450 millions de dollars pour construire des engins spatiaux réutilisables, décrit comme 'le plus grand financement de série C jamais réalisé par une entreprise spatiale européenne'. Selon TechCrunch, cela positionne la startup pour concurrencer SpaceX."
     }
   ]
 }
