@@ -3,12 +3,17 @@ main = "audio-proxy.js"
 compatibility_date = "2026-05-01"
 workers_dev = false
 
-# feed.xml n'est plus routé ici : il est publié comme asset statique Pages
-# (tools/episode_pages.py le copie dans site/), donc son sondage par les apps
-# podcast ne consomme plus le quota quotidien Workers.
+# La route feed.xml est déclarée ici parce qu'elle existe RÉELLEMENT côté
+# Cloudflare : le plan « feed.xml servi par Pages » (bd0859e) n'a jamais été
+# appliqué, son déploiement ayant échoué. Tant que la route existe, Pages ne
+# voit jamais la requête. Pour basculer le feed sur Pages plus tard :
+#   1. deploy-site.yml et vérifier https://presto.pages.dev/feed.xml (contourne
+#      la route) ;  2. retirer la route ci-dessous + le handler dans
+#   audio-proxy.js ;  3. déployer. Dans cet ordre, sans coupure.
 routes = [
   { pattern = "prestopodcast.online/audio/*", zone_name = "prestopodcast.online" },
   { pattern = "www.prestopodcast.online/audio/*", zone_name = "prestopodcast.online" },
+  { pattern = "www.prestopodcast.online/feed.xml", zone_name = "prestopodcast.online" },
 ]
 
 [triggers]
