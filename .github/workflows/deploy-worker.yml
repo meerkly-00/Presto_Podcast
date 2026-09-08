@@ -1,10 +1,24 @@
-name: Déployer le worker (manuel)
+name: Déployer le worker
 
+# Le Worker porte le déclencheur principal du briefing (cron 0 8 * * * →
+# workflow_dispatch sur briefing.yml). Un changement dans worker/ qui reste
+# non déployé = déclencheur inexistant, en silence : d'où le déploiement
+# automatique sur push, en plus du bouton manuel.
 on:
   workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - 'worker/**'
+      - '.github/workflows/deploy-worker.yml'
 
 permissions:
   contents: read
+  issues: write
+
+env:
+  CLOUDFLARE_ACCOUNT_ID: "9792329eba865912f37a61f51c448412"
+  WORKER_NAME: presto-audio-proxy
 
 jobs:
   deploy:
@@ -14,11 +28,62 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      # Ne touche pas aux secrets déjà enregistrés côté Cloudflare (clés X) :
-      # `wrangler deploy` ne publie que le code et les routes.
+      # Le Worker lit env.GITHUB_DISPATCH_TOKEN. Un secret GitHub ne peut pas
+      # s'appeler GITHUB_* : il est stocké sous WORKER_DISPATCH_PAT et
+      # re-poussé vers Cloudflare à chaque déploiement, pour que les deux
+      # copies ne puissent jamais diverger en silence.
+      - name: Synchroniser le PAT de dispatch vers Cloudflare
+        run: |
+          if [ -z "$WORKER_DISPATCH_PAT" ]; then
+            echo "::error::Secret WORKER_DISPATCH_PAT absent → le cron 8h UTC ne pourra pas déclencher briefing.yml."
+            exit 1
+          fi
+          printf '%s' "$WORKER_DISPATCH_PAT" \
+            | npx --yes wrangler@latest secret put GITHUB_DISPATCH_TOKEN
+        working-directory: worker
+        env:
+          WORKER_DISPATCH_PAT: ${{ secrets.WORKER_DISPATCH_PAT }}
+          CLOUDFLARE_API_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+
+      # `wrangler deploy` ne publie que le code, les routes et les crons :
+      # les secrets déjà enregistrés côté Cloudflare (clés X) sont préservés.
       - name: Déployer sur Cloudflare Workers
         run: npx --yes wrangler@latest deploy
         working-directory: worker
         env:
           CLOUDFLARE_API_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
-          CLOUDFLARE_ACCOUNT_ID: "9792329eba865912f37a61f51c448412"
+
+      # Vérification : le cron du briefing doit être réellement enregistré côté
+      # Cloudflare. C'est précisément ce qui manquait depuis le 4 septembre.
+      - name: Vérifier que le cron 8h UTC est enregistré
+        run: |
+          RESP=$(curl -sS \
+            -H "Authorization: Bearer $CLOUDFLARE_API_TOKEN" \
+            "https://api.cloudflare.com/client/v4/accounts/$CLOUDFLARE_ACCOUNT_ID/workers/scripts/$WORKER_NAME/schedules")
+          if [ "$(echo "$RESP" | jq -r '.success')" != "true" ]; then
+            echo "::warning::Impossible de lire les crons (token sans permission Workers Scripts:Read ?)"
+            echo "$RESP" | head -c 300
+            exit 0
+          fi
+          echo "Crons enregistrés :"
+          echo "$RESP" | jq -r '.result.schedules[].cron' | sed 's/^/  - /'
+          if ! echo "$RESP" | jq -e '.result.schedules[] | select(.cron == "0 8 * * *")' > /dev/null; then
+            echo "::error::Le cron '0 8 * * *' n'est PAS enregistré : le briefing ne sera pas déclenché à 4h EDT."
+            exit 1
+          fi
+          echo "::notice::Cron '0 8 * * *' actif → briefing déclenché à 4h EDT."
+        env:
+          CLOUDFLARE_API_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+
+      - name: Alerte si échec
+        if: failure()
+        run: |
+          TITLE="⚠️ Worker Presto non déployé — déclencheur du briefing inactif"
+          if [ -z "$(gh issue list --state open --search "\"$TITLE\" in:title" --json number -q '.[0].number')" ]; then
+            gh label create incident --color B60205 --description "Échec d'un workflow automatisé" 2>/dev/null || true
+            gh issue create --title "$TITLE" \
+              --body "Le déploiement du Worker a échoué : le cron 8h UTC qui déclenche briefing.yml n'est pas garanti. Sans lui, le briefing ne part que sur le \`schedule\` GitHub, retardé de 3 à 6 h (épisode vers 8h-10h au lieu de 6h). Run : $GITHUB_SERVER_URL/$GITHUB_REPOSITORY/actions/runs/$GITHUB_RUN_ID" \
+              --label "incident" 2>/dev/null || true
+          fi
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
