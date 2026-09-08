@@ -1,50 +1,54 @@
 {
-  "generated_at": "2026-09-08T00:00:30.002860+00:00",
+  "generated_at": "2026-09-08T17:05:17.303367+00:00",
   "window_hours": 8,
   "faits": [
     {
-      "sujet": "Tarifs Trump contre Bombardier",
-      "fait": "Donald Trump a déclaré que Bombardier ne pourrait plus vendre aux États-Unis à moins que l'entreprise ne fabrique ses produits sur le territoire américain. Selon Reuters et Le Devoir, Trump affirme que 50% des revenus de l'avionneur proviennent des États-Unis."
+      "sujet": "Tarifs Canada-États-Unis",
+      "fait": "Les contre-tarifs canadiens sont entrés en vigueur à minuit mardi, appliquant des levies de 25 à 50 % sur environ 20 milliards de dollars de produits américains incluant les produits laitiers, cosmétiques, soins capillaires, bois d'œuvre, acier et cadres de fenêtres. Selon le National Post et BBC World."
     },
     {
-      "sujet": "Contre-tarifs canadiens applicables",
-      "fait": "Des centaines de produits américains sont visés par les contre-tarifs canadiens, d'une valeur équivalente aux produits canadiens frappés par les tarifs américains. Selon Global News, ces mesures de rétorsion doivent entrer en vigueur."
+      "sujet": "Tarifs Canada-États-Unis",
+      "fait": "Le président Trump a publié plus de 60 messages sur Truth Social lundi menaçant d'interdire à Bombardier de vendre des aéronefs aux États-Unis. Selon le National Post."
     },
     {
-      "sujet": "Relocalisation de production Sapporo",
-      "fait": "Sapporo Breweries transfère une partie de sa production du Canada vers les États-Unis en raison des tarifs de 50% imposés sur les exportations de bière canadienne. Selon National Post, cette décision vise à relancer les opérations nord-américaines du groupe."
+      "sujet": "Actions Bombardier",
+      "fait": "Les actions de Bombardier ont chuté après les menaces de Trump concernant l'accès au marché américain. Selon Reuters Business."
     },
     {
-      "sujet": "Crash cargo Amazon Miami",
-      "fait": "Un Boeing 767-300 d'Amazon s'est écrasé à l'aéroport international de Miami, tuant cinq personnes et en blessant cinq autres. Selon le NTSB cité par BBC World et Global News, les enquêteurs ont récupéré les enregistreurs de vol et de données."
+      "sujet": "Élections en Allemagne",
+      "fait": "Le parti d'extrême droite AfD a remporté 43,8 % des votes en Saxe-Anhalt, avec une hausse de 23 points par rapport à 2021, tandis que la CDU centriste a obtenu 17,2 % et a perdu près de 20 points. Selon Radio-Canada et National Post."
     },
     {
-      "sujet": "Tensions US-Iran détroit Hormuz",
-      "fait": "Les prix du pétrole ont atteint des sommets sur six semaines suite à l'intensification des frappes US-Iran dans le détroit d'Ormuz. Selon Al Jazeera, ce conflit perturbe le trafic dans ce passage crucial."
+      "sujet": "Pétition uranium Nouvelle-Écosse",
+      "fait": "Plus de 10 000 personnes ont signé une pétition demandant au gouvernement de la Nouvelle-Écosse de rétablir l'interdiction de l'exploitation minière de l'uranium. Selon Global News."
     },
     {
-      "sujet": "Tabagisme passif décès mondiaux",
-      "fait": "Selon une étude publiée dans The Lancet et rapportée par La Presse, le tabagisme passif aurait causé 1,66 million de décès en 2023. Quelque 2,7 milliards de personnes sont exposées au tabagisme passif dans le monde."
+      "sujet": "Attaque drone à Kyiv",
+      "fait": "Un immeuble abritant une chaîne de télévision ukrainienne a été touché par un drone russe, cinq personnes ayant été tuées lors d'une attaque en plein jour à Kyiv. Selon BBC World."
     },
     {
-      "sujet": "Incidents Torre Eiffel Paris",
-      "fait": "La Tour Eiffel a été fermée suite à une protestation du personnel après le déplacement de femmes employées lors d'une visite religieuse. Selon BBC World, le maire de Paris a ordonné une enquête sur cet incident."
+      "sujet": "Accord personnel Université Toronto",
+      "fait": "Le personnel de l'Université de Toronto représenté par les United Steelworkers a approuvé un accord provisoire après avoir voté à 96 % en faveur d'une grève. Selon Global News."
     },
     {
-      "sujet": "Attaque prison al-Hazm Yémen",
-      "fait": "Les Houthis accusent l'Arabie Saoudite d'avoir tué sept personnes lors d'une frappe aérienne sur la prison d'al-Hazm. Selon Al Jazeera, un média contrôlé par les Houthis a diffusé des vidéos des dégâts."
+      "sujet": "Prêt nucléaire Google-Iowa",
+      "fait": "Le propriétaire d'une centrale nucléaire de l'Iowa que Google a promis de relancer reçoit un prêt de 1,9 milliard de dollars du département américain de l'Énergie. Selon TechCrunch."
     },
     {
-      "sujet": "Accord Grindr violation données",
-      "fait": "L'application Grindr accepte de payer 48 millions de dollars pour régler un procès britannique concernant la vente de données utilisateurs sensibles, dont le statut VIH. Selon CBC, le règlement concerne des informations vendues à des annonceurs."
+      "sujet": "Mise à jour Chrome sécurité",
+      "fait": "Google accélère le calendrier de publication de Chrome pour livrer les correctifs de sécurité et les nouvelles fonctionnalités tous les deux semaines. Selon TechCrunch."
     },
     {
-      "sujet": "Pont Russie-Corée du Nord",
-      "fait": "La Russie et la Corée du Nord ont inauguré un premier pont routier traversant leur frontière commune. Selon National Post, cette cérémonie marque l'approfondissement des relations entre les deux pays sanctionnés."
+      "sujet": "Jeu White House supprimé",
+      "fait": "La Maison-Blanche a retiré un clone de Tetris intitulé 'Build the Wall' quelques jours après le lancement de son site 'arcade', le jeu impliquant d'empiler des blocs pour prévenir un 'siège de zombies à la frontière'. Selon The Verge."
     },
     {
-      "sujet": "Hurricane Lowell Hawaii",
-      "fait": "L'ouragan Lowell, classé catégorie 3, s'approche des îles hawaïennes lundi soir, menaçant des vagues mortelles et des cyclones. Selon Al Jazeera, les autorités se préparent aux impacts."
+      "sujet": "Accord négociation Carney-États-Unis",
+      "fait": "Un entretien entre les représentants canadien et américain devait avoir lieu le 8 septembre. Mark Carney a déclaré ne pas croire à l'escalade du conflit commercial. Selon Radio-Canada et National Post."
+    },
+    {
+      "sujet": "Grève avocates Protecteur citoyen",
+      "fait": "Les avocates du Protecteur du citoyen québécois ont amorcé une grève à durée indéterminée mardi matin. Selon La Presse."
     }
   ]
 }
