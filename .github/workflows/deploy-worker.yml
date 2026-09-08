@@ -93,6 +93,21 @@ jobs:
           if [ "$CODE" != "204" ]; then
             echo "::error::Le PAT ne peut pas déclencher de workflow (HTTP $CODE) → le cron 4h EDT sera inopérant."
             head -c 300 /tmp/dispatch.txt
+            # Sonde chaque permission séparément : sans ça on sait juste « 403 »,
+            # et on perd un aller-retour à deviner quelle case cocher.
+            echo ""
+            echo "--- Diagnostic des permissions du PAT (200 = accordée) ---"
+            probe() {
+              C=$(curl -sS -o /dev/null -w '%{http_code}' \
+                -H "Authorization: Bearer $WORKER_DISPATCH_PAT" \
+                -H "Accept: application/vnd.github+json" "$2")
+              echo "  $1 : HTTP $C"
+            }
+            probe "Metadata  (repo visible par le token)" "https://api.github.com/repos/$GITHUB_REPOSITORY"
+            probe "Contents  (lecture du repo)         " "https://api.github.com/repos/$GITHUB_REPOSITORY/contents/requirements.txt"
+            probe "Actions   (lecture des workflows)   " "https://api.github.com/repos/$GITHUB_REPOSITORY/actions/workflows"
+            echo "  → un 404/403 sur Metadata = le repo n'est pas dans le périmètre du token"
+            echo "  → Metadata OK mais Actions 403   = permission Actions absente ou en lecture seule"
             exit 1
           fi
           echo "::notice::PAT valide (HTTP 204) → le cron 4h EDT peut déclencher briefing.yml."
