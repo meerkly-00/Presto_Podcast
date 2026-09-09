@@ -1,0 +1,14 @@
+{
+  "date": "2026-09-09",
+  "kind": "poll",
+  "text": "Ce matin → Apple lance l'iPhone 18 Pro et Pro Max à +100$ que l'an dernier.\n\nNouveau : l'iPhone 18 de base n'arrive qu'au printemps.\n\nLes augmentations de prix sur les nouveaux iPhone t'influencent-elles?",
+  "poll": {
+    "options": [
+      "Oui, je vais attendre ou",
+      "Non, je changerai de",
+      "Je ne change pas ma",
+      "Pas concerné par ce"
+    ],
+    "duration_minutes": 1440
+  }
+}
