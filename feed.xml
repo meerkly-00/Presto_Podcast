@@ -23,6 +23,17 @@
       <link>https://www.prestopodcast.online</link>
     </image>
     <item>
+      <title>Presto — édition du 9 septembre 2026</title>
+      <description>Au menu : International : escalade entre les États-Unis et l'Iran, Guerre commerciale Canada-États-Unis, Actualité québécoise : campagne électorale, Économie et marchés, Tech, Sport</description>
+      <pubDate>Wed, 09 Sep 2026 08:01:13 +0000</pubDate>
+      <guid isPermaLink="false">https://github.com/meerkly-00/Presto_Podcast/releases/download/2026-09-09/2026-09-09.mp3</guid>
+      <enclosure url="https://github.com/meerkly-00/Presto_Podcast/releases/download/2026-09-09/2026-09-09.mp3" type="audio/mpeg" length="6926231"/>
+      <itunes:duration>640</itunes:duration>
+      <itunes:summary>Au menu : International : escalade entre les États-Unis et l'Iran, Guerre commerciale Canada-États-Unis, Actualité québécoise : campagne électorale, Économie et marchés, Tech, Sport</itunes:summary>
+      <itunes:episode>109</itunes:episode>
+      <itunes:image href="https://www.prestopodcast.online/artwork-v2.jpg"/>
+    </item>
+    <item>
       <title>Presto — édition du 8 septembre 2026</title>
       <description>Au menu : Guerre commerciale Canada-États-Unis, Actualité québécoise : campagne électorale, International : Moyen-Orient et Ukraine, Économie et marchés, Tech, Sport</description>
       <pubDate>Tue, 08 Sep 2026 12:52:50 +0000</pubDate>

@@ -1,0 +1,73 @@
+```xml
+<script>
+  <intro>Bonjour, on est le mercredi neuf septembre deux mille vingt-six. Voici votre Presto en environ quinze minutes. Au menu : l'escalade militaire entre les États-Unis et l'Iran, la guerre commerciale qui frappe encore plus fort entre le Canada et les États-Unis, la campagne électorale québécoise bousculée par ce dossier, l'économie mondiale sous tension, et la tech avec l'iPhone pliable et une percée en mathématiques chez OpenAI.</intro>
+
+  <chapitre titre="International : escalade entre les États-Unis et l'Iran">
+    On commence par le Moyen-Orient, où le conflit entre les États-Unis et l'Iran a franchi un nouveau palier cette nuit. Selon l'Associated Press, l'armée américaine affirme avoir détruit cinq pétroliers iraniens supplémentaires en réponse à de récentes attaques contre ses navires de guerre. Confirmé par CBC, cet épisode s'inscrit dans plus de six mois d'échanges de frappes entre les deux pays.
+
+    En riposte, selon Le Devoir, Téhéran affirme avoir frappé des cibles américaines en Jordanie et dans le Golfe. L'Iran dit aussi avoir capturé un drone sous-marin qu'il qualifie parmi les plus modernes de l'armée américaine, à l'entrée du détroit d'Ormuz. Selon la BBC, cette escalade a poussé le prix du pétrole à s'approcher de la barre des cent dollars le baril.
+
+    Toujours selon Reuters, cette remontée du pétrole alimente les craintes d'un choc sur l'approvisionnement mondial. Du côté humanitaire, Al Jazeera rapporte que les pénuries de médicaments s'aggravent en Iran, conséquence du resserrement des sanctions américaines et du blocus. Les autorités iraniennes affirment de leur côté que le secteur pharmaceutique ne s'effondrera pas.
+
+    Ailleurs dans la région, le dossier israélo-palestinien continue de creuser un fossé diplomatique. Selon CBC World, le Canada, le Royaume-Uni et la France ont annoncé vouloir interdire le commerce de biens provenant des colonies israéliennes en Cisjordanie occupée. Le Royaume-Uni va plus loin en imposant de nouvelles sanctions. La BBC souligne que les relations entre Londres et Israël sont à leur point le plus bas depuis des décennies.
+
+    En Ukraine, selon le National Post, la Russie déploie désormais des drones à propulsion à réaction capables de voler à une vitesse proche de celle d'un avion commercial, ce qui complique la défense aérienne de Kiev. Par ailleurs, selon l'Associated Press, qui cite le Kremlin, Vladimir Poutine a assuré à Donald Trump que Moscou n'a pas de plans agressifs envers l'Europe.
+  </chapitre>
+
+  <chapitre titre="Guerre commerciale Canada-États-Unis">
+    On enchaîne avec le dossier commercial canado-américain, qui a connu une nouvelle escalade majeure. Selon Radio-Canada, Donald Trump a signé mardi soir cinq nouvelles proclamations pénalisant le Canada, en réponse à l'entrée en vigueur des contre-tarifs canadiens dans la nuit de lundi à mardi. Selon Les Affaires, le président américain réplique par une surtaxe de cinquante pour cent sur une nouvelle série de produits canadiens.
+
+    La BBC confirme que les États-Unis imposent aussi une interdiction d'importation visant l'alcool, les motocyclettes et d'autres produits canadiens. C'est le plus récent coup porté dans cette guerre commerciale prolongée.
+
+    Du côté des entreprises, selon BNN Bloomberg, une interdiction américaine visant les ventes de Bombardier pourrait perturber massivement l'industrie aérospatiale américaine elle-même. Toujours selon Reuters, des élus républicains du Kansas font pression en faveur du maintien des emplois liés à Bombardier dans leur État, malgré la menace de Trump. Par ailleurs, Reuters rapporte que l'administration Trump critique aussi les accords d'affaires de Ford avec des entreprises chinoises.
+
+    Au pays, la riposte s'organise à plusieurs niveaux. Selon BNN Bloomberg, une taxe de la Saskatchewan sur l'alcool américain est entrée en vigueur pour les détaillants dans le cadre de ce conflit commercial. Selon le Wall Street Journal, le premier ministre canadien Mark Carney s'est engagé à soutenir l'économie du pays face à l'escalade de ce différend commercial.
+
+    Sur le plan de l'opinion publique, le National Post rapporte les résultats d'un sondage selon lequel les Canadiens appuient largement une ligne dure contre les États-Unis, mais cet appui chute fortement dès qu'on leur demande d'en assumer les coûts financiers.
+
+    Un développement parallèle mérite d'être noté. Selon Radio-Canada et La Presse, la Chine a révélé avoir tenu des pourparlers militaires avec des responsables canadiens plus tôt ce mois-ci, un échange que Pékin qualifie de franc sur les questions militaires. Ottawa n'avait mené aucun exercice ni coopération militaire avec l'armée chinoise depuis deux mille dix-huit. Ce dégel survient alors que le gouvernement Carney cherche à approfondir ses relations avec Pékin.
+  </chapitre>
+
+  <chapitre titre="Actualité québécoise : campagne électorale">
+    Au Québec, la guerre tarifaire domine maintenant la campagne électorale provinciale. Selon Global News, le dossier a pris le devant de la scène mardi après que les contre-tarifs fédéraux ont provoqué des réactions chez les chefs de tous les partis.
+
+    Selon Radio-Canada, la ministre Christine Fréchette a affirmé déployer ce qu'elle appelle un bouclier contre celui qu'elle qualifie d'intimidateur, en référence à Donald Trump. La guerre tarifaire traverse ainsi un nouvel épisode aigu, au moment même où les contre-tarifs fédéraux viennent d'entrer en vigueur.
+
+    Par ailleurs, selon Le Devoir, une étude souligne que chaque dollar investi dans la petite enfance générerait de deux à quatre fois plus de gains économiques, un enjeu qui pourrait alimenter les débats de fin de campagne sur les services de garde et la famille.
+  </chapitre>
+
+  <chapitre titre="Économie et marchés">
+    On passe à l'économie mondiale, où les marchés restent sous tension. Selon Reuters, le S&P 500 a reculé, les inquiétudes entourant l'intelligence artificielle ayant frappé particulièrement les entreprises de logiciels. Toujours selon Bloomberg, les actions asiatiques du secteur des semi-conducteurs s'orientent à la hausse, tandis que le prix du pétrole Brent s'approche de la barre des cent dollars.
+
+    Du côté des fusions, selon BNN Bloomberg, les entreprises Tamarack et Headwater ont conclu une fusion évaluée à sept virgule vingt-cinq milliards de dollars américains pour créer un chef de file canadien du pétrole dans la région de Clearwater.
+
+    Sur les marchés obligataires, selon le Financial Times, le Royaume-Uni a payé son coût d'emprunt le plus élevé depuis mille neuf cent quatre-vingt-dix-huit lors d'une récente vente d'obligations d'État. Toujours selon le Financial Times, la facture d'intérêts payée collectivement par les gouvernements du monde atteint désormais environ deux mille milliards de dollars.
+
+    En Chine, selon le Wall Street Journal, trois indicateurs illustrent l'ampleur du boom des exportations chinoises actuellement. Et selon Bloomberg, l'engouement pour les premiers appels publics à l'épargne en Chine permet à certains investisseurs chanceux d'empocher en une seule journée l'équivalent de six mois de salaire.
+
+    Enfin, selon le Wall Street Journal, la plateforme Robinhood a conclu une entente avec Crypto.com dans le cadre de son offensive sur les marchés de prédiction.
+  </chapitre>
+
+  <chapitre titre="Tech">
+    Un mot sur la tech, où Apple s'apprête à dévoiler son tout premier iPhone pliable. Selon The Verge, qui cite le journaliste de Bloomberg Mark Gurman, l'appareil pourrait s'appeler iPhone Duo et afficher un prix de départ d'environ deux mille dollars américains pour le modèle de deux cent cinquante-six gigaoctets, et pouvant atteindre environ trois mille dollars pour la version de deux téraoctets. Les premières livraisons pourraient commencer dès le mois d'octobre, en blanc et en bleu foncé. Ce lancement sera le premier orchestré depuis que John Ternus a pris les rênes d'Apple.
+
+    Du côté de l'intelligence artificielle, selon La Presse et The Verge, OpenAI affirme qu'un de ses modèles a résolu en moins de quatre jours un problème mathématique vieux d'environ quatre-vingt-dix ans, lié à l'équation de Navier-Stokes sur l'écoulement des liquides et des gaz. L'entreprise dit avoir utilisé un modèle interne plus puissant que son GPT-6 Astra, épaulé de dix mille agents fonctionnant simultanément. Ce problème fait partie des sept problèmes du prix du millénaire, chacun assorti d'une récompense d'un million de dollars. Toutefois, un duo de chercheurs a évoqué la possibilité d'un plagiat des travaux ayant mené à cette solution.
+
+    Selon Reuters, OpenAI a aussi annoncé travailler avec Samsung sur la prochaine génération de puces, approfondissant ainsi leur coopération.
+
+    Du côté de la sécurité informatique, Ars Technica rapporte que le correctif de sécurité de Microsoft pour le mois en cours corrige un nombre record d'environ neuf cent soixante-douze vulnérabilités, dont cent douze jugées critiques. Un chercheur de la Zero Day Initiative qualifie cette hausse de nouvelle normalité. Par ailleurs, selon TechCrunch, l'entreprise Anthropic a averti ses utilisateurs que des pirates informatiques volent des jetons d'utilisation sur des comptes Claude.
+
+    Enfin, Ars Technica rapporte que des téléviseurs LG, incluant le modèle G5 OLED, ont été observés en train de balayer les réseaux domestiques à la recherche d'autres appareils, comme des téléphones et des montres intelligentes, même lorsque les téléviseurs sont éteints.
+  </chapitre>
+
+  <chapitre titre="Sport">
+    Rapidement en sport. Selon Sportsnet, les Blue Jays de Toronto ont rebondi après une défaite marquée par des erreurs, avec une victoire solide contre les Athletics, portée par un bon travail au monticule, une défense efficace et des coups de circuit.
+
+    Toujours selon Sportsnet, le capitaine des Penguins de Pittsburgh, Sidney Crosby, négocie actuellement un nouveau contrat et n'exclut pas de participer aux Jeux olympiques de deux mille trente. TVA Sports confirme que Crosby devrait prolonger son séjour à Pittsburgh, sans qu'on connaisse encore la durée de l'entente.
+
+    Par ailleurs, selon Sportsnet, l'attaquant vedette des Oilers, Connor McDavid, a commenté la flambée des salaires dans la Ligue nationale de hockey, se disant favorable à cette tendance.
+  </chapitre>
+
+  <outro>Voilà pour ce Presto du mercredi neuf septembre deux mille vingt-six. Si ce briefing vous est utile, le meilleur coup de main que vous pouvez nous donner, c'est de le partager à une personne qui aime rester informée. Et selon votre plateforme : un abonnement sur Spotify ou Apple Podcasts, un pouce bleu et un abonnement sur YouTube, ça prend deux secondes et ça aide vraiment Presto à grandir. Sur ce, bonne journée, et à demain.</outro>
+</script>
+```
