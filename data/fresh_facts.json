@@ -1,54 +1,46 @@
 {
-  "generated_at": "2026-09-08T23:51:37.600263+00:00",
+  "generated_at": "2026-09-09T17:02:52.750441+00:00",
   "window_hours": 8,
   "faits": [
     {
-      "sujet": "Guerre commerciale États-Unis Canada",
-      "fait": "Le président américain Donald Trump a signé mardi soir cinq proclamations pénalisant le Canada, incluant une interdiction d'importation sur l'alcool canadien et d'autres biens. Selon BBC World et Radio-Canada, cela intervient alors que les tarifs de représailles canadiens entrent en vigueur."
+      "sujet": "Apple nouveau PDG transition",
+      "fait": "John Ternus a ouvert l'événement produit d'Apple mercredi en tant que nouveau PDG, succédant à Tim Cook après plus d'une décennie. Selon The Verge, Ternus est un cadre produit expérimenté ayant passé plus de deux décennies chez Apple."
     },
     {
-      "sujet": "Tarifs douaniers canadiens effectifs",
-      "fait": "Les tarifs de représailles canadiens contre les États-Unis sont entrés en vigueur. Selon Reuters, les négociations commerciales entre les deux pays sont au point mort."
+      "sujet": "Prix du pétrole brut augmente",
+      "fait": "Le brut Brent a dépassé les 100 dollars le baril pour la première fois depuis juillet après des frappes américaines contre cinq pétroliers iraniens. Selon BBC World et Reuters, cette augmentation intervient suite à l'intensification du conflit au Moyen-Orient."
     },
     {
-      "sujet": "Biens canadiens exclus des contrats fédéraux US",
-      "fait": "Trump a ordonné à la GSA (General Services Administration) de prendre des mesures pour retirer les biens canadiens des listes d'agences fédérales américaines. Selon Reuters, cette directive fait suite aux nouvelles mesures commerciales contre le Canada."
+      "sujet": "Examen antitrust acquisition Fox-Roku",
+      "fait": "Le Département de la Justice américain a envoyé une demande supplémentaire à Fox et Roku concernant l'acquisition de 22 milliards de dollars de Roku par Fox. Selon TechCrunch, cette démarche constitue une étape standard dans l'examen antitrust d'une acquisition majeure."
     },
     {
-      "sujet": "Bombardier menacé par sanctions américaines",
-      "fait": "Une interdiction américaine sur les ventes de Bombardier pourrait 'massivement' perturber le secteur aérospatial américain. Selon BNN Bloomberg, cette mesure pourrait avoir des répercussions importantes."
+      "sujet": "PLQ réduction fonction publique Québec",
+      "fait": "Le Parti libéral du Québec a promis de supprimer 12 000 postes sur cinq ans sans toucher aux services. Selon Radio-Canada, cet engagement intervient lors de la campagne électorale québécoise."
     },
     {
-      "sujet": "Jeu 'Build the Wall' retiré par la Maison-Blanche",
-      "fait": "L'administration Trump a retiré son jeu d'arcade 'Build the Wall' après que la Tetris Company ait signalé une violation de droits d'auteur. Selon TechCrunch, la Tetris Company a déclaré prendre 'très au sérieux' les infractions au droit d'auteur."
+      "sujet": "Brosse à dents Dyson défauts",
+      "fait": "Plusieurs utilisateurs de la brosse à dents CameraJet de Dyson à 499,99 dollars ont signalé que l'eau s'infiltrait dans le compartiment batterie. Selon The Verge, un utilisateur a rapporté que son appareil s'était brisé en 30 secondes."
     },
     {
-      "sujet": "Soutien canadien limité à la ligne dure commerciale",
-      "fait": "Un nouveau sondage révèle que les Canadiens soutiennent largement une position ferme dans la guerre commerciale avec les États-Unis, mais ce soutien s'effondre quand on leur demande de payer pour cela. Selon National Post, ce contraste est notable."
+      "sujet": "Loyers baissent Canada août",
+      "fait": "Les loyers demandés au Canada ont baissé de 4,8% en août, marquant la plus forte baisse annuelle depuis mars. Selon CBC, ce recul est attribué aux incertitudes liées à la guerre commerciale."
     },
     {
-      "sujet": "Élections québécoises jour 13 de campagne",
-      "fait": "Gabriel Milliard met en garde les Québécois contre l'ambivalence de la CAQ concernant l'indépendance, affirmant que cette position pourrait créer de la confusion si le PQ formait un gouvernement. Selon Radio-Canada, c'est un enjeu central de la campagne électorale en cours."
+      "sujet": "Tarifs douaniers États-Unis Canada",
+      "fait": "Le représentant commercial en chef de Trump a qualifié d'« insensé » l'affirmation des dirigeants canadiens que les tarifs américains constituent une guerre commerciale. Selon CBC World, Washington maintient sa position sur les tarifs."
     },
     {
-      "sujet": "Politique commerciale Trump contre Ford",
-      "fait": "L'administration Trump critique les accords commerciaux de Ford avec des entreprises chinoises. Selon Reuters, l'administration a publiquement critiqué ces partenariats."
+      "sujet": "Mike Morrice chef Parti vert Canada",
+      "fait": "L'ancien député Mike Morrice est devenu l'unique candidat en lice pour la direction du Parti vert du Canada après le retrait de Nira Dookeran. Selon Le Devoir et La Presse, il succédera à Elizabeth May."
     },
     {
-      "sujet": "Volatilité accrue sur les marchés financiers",
-      "fait": "Les marchés boursiers enregistrent une volatilité accrue après une période de calme estival, tandis que les inquiétudes concernant l'intelligence artificielle pèsent sur les sociétés de logiciels. Selon Bloomberg et Reuters, le S&P 500 a baissé sur ces préoccupations."
+      "sujet": "Sauvetage Méditerranée 78 personnes",
+      "fait": "78 personnes, dont un nouveau-né, ont été secourues en Méditerranée. Selon Al Jazeera, ce sauvetage a eu lieu en mer."
     },
     {
-      "sujet": "Craintes de hausse de taux se dissipent",
-      "fait": "Les actions ont grimpé alors que les craintes concernant des hausses de taux d'intérêt s'estompent. Selon Wall Street Journal, cette évolution du marché reflète un changement de sentiment économique."
-    },
-    {
-      "sujet": "OpenAI résout équation mathématique millénaire",
-      "fait": "OpenAI annonce avoir trouvé une solution au problème de Navier-Stokes, une équation mathématique non résolue depuis environ 90 ans, en utilisant un modèle d'IA interne plus puissant que le GPT-6 Astra avec 10 000 agents concurrents. Selon The Verge, le problème de Navier-Stokes est l'un des sept problèmes du prix du millénaire dotés d'une récompense d'un million de dollars."
-    },
-    {
-      "sujet": "Financement de la startup spatiale européenne",
-      "fait": "The Exploration Company a levé 450 millions de dollars pour construire des engins spatiaux réutilisables, décrit comme 'le plus grand financement de série C jamais réalisé par une entreprise spatiale européenne'. Selon TechCrunch, cela positionne la startup pour concurrencer SpaceX."
+      "sujet": "Nouveau comité santé publique Québec",
+      "fait": "L'Institut national de santé publique du Québec a créé un nouveau comité permanent d'experts chargé de publier des avis sur la promotion des saines habitudes de vie. Selon La Presse, ce comité vient d'être mis en place."
     }
   ]
 }
