@@ -1,54 +1,50 @@
 {
-  "generated_at": "2026-09-09T21:30:39.624818+00:00",
+  "generated_at": "2026-09-09T23:50:46.711684+00:00",
   "window_hours": 8,
   "faits": [
     {
-      "sujet": "Guerre commerciale Canada-États-Unis",
-      "fait": "Le gouvernement américain a émis des ordres exécutifs interdisant l'importation de certaines boissons alcoolisées et produits laitiers canadiens. Selon Global News, l'industrie ontarienne de l'alcool se prépare à l'impact d'une interdiction totale des importations d'alcool du Canada aux États-Unis."
+      "sujet": "Guerre États-Unis-Iran",
+      "fait": "Le président Trump annonce que la guerre avec l'Iran prendra fin immédiatement après les élections de mi-mandat, sept mois après son lancement. Selon Al Jazeera, cette question domine la convention républicaine à Dallas."
     },
     {
-      "sujet": "Tarifs douaniers et comportement consommateurs",
-      "fait": "Les nouveaux tarifs douaniers incitent les consommateurs québécois à examiner les étiquettes pour éviter les produits américains. Selon Le Devoir, cette tendance ravive la fibre de l'achat local au Québec."
+      "sujet": "PDG Automattic en congé forcé",
+      "fait": "Le conseil d'administration d'Automattic a placé le PDG Matt Mullenweg en congé payé malgré son opposition. Selon TechCrunch, Mullenweg affirme que le directeur financier et certains administrateurs ont voté cette décision contre sa volonté."
     },
     {
-      "sujet": "Prix du pétrole et tensions géopolitiques",
-      "fait": "Le pétrole brut Brent s'est établi au-delà de 100 dollars le baril suite à l'intensification du conflit au Moyen-Orient avec de nouvelles attaques entre les États-Unis et l'Iran. Selon Reuters, les prix de l'essence ont également augmenté."
+      "sujet": "Prix du pétrole brut",
+      "fait": "Le baril de pétrole dépasse 100 dollars suite aux attaques lancées par les États-Unis et l'Iran. Selon Associated Press, les prix de l'essence augmentent également et le S&P 500 termine en baisse."
     },
     {
-      "sujet": "Approbation fédérale de projets environnementaux",
-      "fait": "Le gouvernement fédéral canadien renonce à exempler certains projets de la Loi sur les espèces en péril. Selon La Presse, Ottawa fait marche arrière concernant cette exemption."
+      "sujet": "Élections québécoises 2026",
+      "fait": "Radio-Canada diffuse un débat des cinq chefs en direct le 9 septembre, 14 jours avant le scrutin prévu."
     },
     {
-      "sujet": "Plan net-zéro du Manitoba",
-      "fait": "Le Manitoba a dévoilé un plan d'action net-zéro comportant 90 étapes, incluant l'installation d'un système de chauffage géothermique et 350 millions de dollars en financement gouvernemental prévu. Selon Global News, ces mesures sont liées à un développement à Winnipeg."
+      "sujet": "Partenariat Canada-Union européenne",
+      "fait": "L'ambassadrice de l'UE au Canada affirme qu'un nouveau partenariat 'unique' se met en place. Selon Radio-Canada, le PM Mark Carney s'exprimera au Parlement européen le 17 septembre à Strasbourg."
     },
     {
-      "sujet": "Intelligence artificielle chinoise et propriété intellectuelle",
-      "fait": "Six entreprises d'IA chinoises (DeepSeek, Moonshot AI, Alibaba, MiniMax, StepFun, Z.AI) sont accusées d'attaques à grande échelle pour extraire les capacités des modèles d'IA américains depuis fin 2024. Selon Ars Technica citant la NSA, CISA et FBI, ces actions ont probablement eu lieu avec la connaissance du gouvernement chinois."
+      "sujet": "Nouveaux produits Apple annoncés",
+      "fait": "Apple présente l'iPhone Duo (son premier appareil à écran pliable), les iPhone 18 Pro, et des AirPods 5 avec réduction de bruit. Selon The Verge, les AirPods Pro avec caméras sont retardés jusqu'à 2027."
     },
     {
-      "sujet": "Lancement iPhone Duo foldable d'Apple",
-      "fait": "Apple a annoncé son premier téléphone foldable, l'iPhone Duo, commençant à 1 999 dollars pour 256 Go de stockage. Selon Ars Technica, les précommandes débutent le 16 octobre avec disponibilité le 23 octobre."
+      "sujet": "Nomination au conseil OpenAI",
+      "fait": "Paul Christiano, chercheur en alignement de l'IA, rejoint le conseil de la Fondation OpenAI. Selon TechCrunch, il est connu pour ses préoccupations concernant les risques de l'IA."
     },
     {
-      "sujet": "Nouvelles montres Apple Series 12",
-      "fait": "Apple a présenté l'Apple Watch Series 12 et Apple Watch Ultra 4 avec des améliorations aux capteurs de santé et nouvelles fonctionnalités de transcription audio. Selon The Verge, les prix restent inchangés avec la Series 12 à 399 dollars et l'Ultra 4 à 799 dollars."
+      "sujet": "Exemption pipelines interprovincialux",
+      "fait": "Le gouvernement fédéral canadien exempte des projets énergétiques d'une couche de révision environnementale, mais fait marche arrière sur l'exemption de la Loi sur les espèces en péril. Selon CBC et La Presse."
     },
     {
-      "sujet": "Incendies lithium-ion Toronto",
-      "fait": "Le service incendie de Toronto a répondu à 97 incendies attribuables aux batteries lithium-ion depuis janvier 2026, un record surpassant largement l'année précédente. Selon La Presse, les autorités qualifient cette tendance d'inquiétante."
+      "sujet": "Décision tribunal droits humains BC",
+      "fait": "Un tribunal ordonne à un médecin de Colombie-Britannique de verser 28 100 dollars après avoir refusé d'injecter un bloqueur hormonal à une adolescente transgenre pour des raisons religieuses. Selon CBC."
     },
     {
-      "sujet": "Migration vers Ceuta avertissement préalable",
-      "fait": "Des documents déclassifiés montrent que les autorités espagnoles et marocaines ont été alertées à des appels sur les réseaux sociaux pour une traversée migratoire massive la veille de l'arrivée de dizaines de milliers de migrants à Ceuta. Selon BBC World, cet avertissement a précédé l'événement d'un jour."
+      "sujet": "Exploit kit Chrome et Windows",
+      "fait": "BlueMoon, un kit d'exploitation automatisé, cible des vulnérabilités critiques dans Chromium et Windows 10-11 et est utilisé par au moins quatre groupes de hackers. Selon Ars Technica, les trois vulnérabilités ont reçu des correctifs."
     },
     {
-      "sujet": "Référence nucléaire Iran ONU",
-      "fait": "L'Iran est déféré au Conseil de sécurité de l'ONU pour non-conformité nucléaire, Téhéran condamnant la résolution et blâmant les frappes américaines et israéliennes pour avoir perturbé les inspections. Selon BBC World, Téhéran conteste cette action."
-    },
-    {
-      "sujet": "Poursuites Amazon accommodations maternité",
-      "fait": "Un recours collectif a été déposé contre Amazon pour discrimination envers les employées enceintes de l'entrepôt, alléguant le refus d'accommodements comme des pauses toilettes et la possibilité de s'asseoir. Selon Ars Technica, quatre plaignantes ont été renvoyées entre avril 2025 et juillet 2026 après avoir pris des congés médicalement nécessaires."
+      "sujet": "Restrictions centres de données Massachusetts",
+      "fait": "Le Massachusetts impose de nouvelles règles de puissance propre aux centres de données, devenant le troisième État à restreindre le développement en deux mois. Selon TechCrunch."
     }
   ]
 }
