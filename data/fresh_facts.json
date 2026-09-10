@@ -1,50 +1,54 @@
 {
-  "generated_at": "2026-09-09T23:50:46.711684+00:00",
+  "generated_at": "2026-09-10T16:54:34.665114+00:00",
   "window_hours": 8,
   "faits": [
     {
-      "sujet": "Guerre États-Unis-Iran",
-      "fait": "Le président Trump annonce que la guerre avec l'Iran prendra fin immédiatement après les élections de mi-mandat, sept mois après son lancement. Selon Al Jazeera, cette question domine la convention républicaine à Dallas."
+      "sujet": "Élections québécoises et agriculture",
+      "fait": "Quatre des cinq chefs de partis se rendront jeudi au siège de l'Union des producteurs agricoles à Longueuil dans le cadre de la campagne électorale du 5 octobre. Selon Radio-Canada, la cheffe de la CAQ a déjà effectué cette rencontre."
     },
     {
-      "sujet": "PDG Automattic en congé forcé",
-      "fait": "Le conseil d'administration d'Automattic a placé le PDG Matt Mullenweg en congé payé malgré son opposition. Selon TechCrunch, Mullenweg affirme que le directeur financier et certains administrateurs ont voté cette décision contre sa volonté."
+      "sujet": "Réchauffement climatique août 2026",
+      "fait": "Août 2026 a été le mois le plus chaud jamais enregistré selon l'agence climatique européenne Copernicus, dépassant un seuil climatique clé en raison du changement climatique d'origine humaine et d'un El Niño amplifiée."
     },
     {
-      "sujet": "Prix du pétrole brut",
-      "fait": "Le baril de pétrole dépasse 100 dollars suite aux attaques lancées par les États-Unis et l'Iran. Selon Associated Press, les prix de l'essence augmentent également et le S&P 500 termine en baisse."
+      "sujet": "Partenariat Canada-Ukraine 100 ans",
+      "fait": "Le président ukrainien Volodymyr Zelensky a demandé jeudi au Canada de signer un partenariat d'une durée de 100 ans, en remerciement du soutien continu du pays plus de quatre ans après l'invasion russe. Selon La Presse, il cherche à rendre cette alliance plus durable."
     },
     {
-      "sujet": "Élections québécoises 2026",
-      "fait": "Radio-Canada diffuse un débat des cinq chefs en direct le 9 septembre, 14 jours avant le scrutin prévu."
+      "sujet": "Condamnation incendie bâtiments juifs",
+      "fait": "Un jeune Montréalais qui a incendié une synagogue et brisé les fenêtres d'un centre communautaire juif de Dollard-des-Ormeaux en 2024 a reçu une sentence de deux ans de prison jeudi. Selon La Presse."
     },
     {
-      "sujet": "Partenariat Canada-Union européenne",
-      "fait": "L'ambassadrice de l'UE au Canada affirme qu'un nouveau partenariat 'unique' se met en place. Selon Radio-Canada, le PM Mark Carney s'exprimera au Parlement européen le 17 septembre à Strasbourg."
+      "sujet": "Commissaire droits enfants enquêtes",
+      "fait": "Marie-Ève Brunet-Kitchen, nouvellement en fonction, a lancé trois premières enquêtes systémiques portant sur le matériel médical pédiatrique, l'hébergement pour jeunes autistes et les décès récents d'enfants. Selon Radio-Canada et Le Devoir."
     },
     {
-      "sujet": "Nouveaux produits Apple annoncés",
-      "fait": "Apple présente l'iPhone Duo (son premier appareil à écran pliable), les iPhone 18 Pro, et des AirPods 5 avec réduction de bruit. Selon The Verge, les AirPods Pro avec caméras sont retardés jusqu'à 2027."
+      "sujet": "Crise du logement Canada abordabilité",
+      "fait": "Selon la SCHL, l'offre de logements reste loin de ses cibles, la situation s'étant empirée sur des marchés comme Montréal et Ottawa malgré une tendance nationale stable. Selon Radio-Canada."
     },
     {
-      "sujet": "Nomination au conseil OpenAI",
-      "fait": "Paul Christiano, chercheur en alignement de l'IA, rejoint le conseil de la Fondation OpenAI. Selon TechCrunch, il est connu pour ses préoccupations concernant les risques de l'IA."
+      "sujet": "Tarifs douaniers États-Unis Canada",
+      "fait": "Le chef conservateur Pierre Poilievre a exhorté jeudi à New York les Américains à revenir à un commerce sans tarifs bidirectionnel entre le Canada et les États-Unis, affirmant que les Canadiens se sentent 'blessés'. Selon le National Post."
     },
     {
-      "sujet": "Exemption pipelines interprovincialux",
-      "fait": "Le gouvernement fédéral canadien exempte des projets énergétiques d'une couche de révision environnementale, mais fait marche arrière sur l'exemption de la Loi sur les espèces en péril. Selon CBC et La Presse."
+      "sujet": "Cours du pétrole hausse géopolitique",
+      "fait": "Le prix du pétrole a grimpé à 105 dollars suite à une escalade des attaques contre les pétroliers en Moyen-Orient, augmentant les probabilités d'une hausse des taux d'intérêt américains. Selon Al Jazeera."
     },
     {
-      "sujet": "Décision tribunal droits humains BC",
-      "fait": "Un tribunal ordonne à un médecin de Colombie-Britannique de verser 28 100 dollars après avoir refusé d'injecter un bloqueur hormonal à une adolescente transgenre pour des raisons religieuses. Selon CBC."
+      "sujet": "Inflation producteur États-Unis",
+      "fait": "Les données d'inflation à la production ont dépassé les attentes, entraînant une baisse des marchés boursiers américains. Selon Reuters."
     },
     {
-      "sujet": "Exploit kit Chrome et Windows",
-      "fait": "BlueMoon, un kit d'exploitation automatisé, cible des vulnérabilités critiques dans Chromium et Windows 10-11 et est utilisé par au moins quatre groupes de hackers. Selon Ars Technica, les trois vulnérabilités ont reçu des correctifs."
+      "sujet": "Cabinet Doug Ford Ontario remaniement",
+      "fait": "Le premier ministre de l'Ontario Doug Ford a annoncé jeudi un remaniement ministériel, transférant David Piccini du portefeuille du travail à celui des infrastructures. Selon CBC."
     },
     {
-      "sujet": "Restrictions centres de données Massachusetts",
-      "fait": "Le Massachusetts impose de nouvelles règles de puissance propre aux centres de données, devenant le troisième État à restreindre le développement en deux mois. Selon TechCrunch."
+      "sujet": "Universalis Music plateforme IA ElevenLabs",
+      "fait": "Universal Music Group lance une plateforme alimentée par l'IA en partenariat avec ElevenLabs permettant aux utilisateurs de créer des remixes et mashups à partir de son catalogue de musique sous licence. Selon The Verge."
+    },
+    {
+      "sujet": "Tests véhicules aériens électriques Texas",
+      "fait": "Un programme fédéral d'essai de taxis aériens électriques, hybrides et autonomes débute au Texas avec trois entreprises: Joby, Beta et Wisk, avant même la finalisation des règlementations. Selon The Verge."
     }
   ]
 }
