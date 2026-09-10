@@ -1,54 +1,54 @@
 {
-  "generated_at": "2026-09-10T21:25:28.948915+00:00",
+  "generated_at": "2026-09-10T23:44:57.189798+00:00",
   "window_hours": 8,
   "faits": [
     {
-      "sujet": "Canada-Ukraine partenariat défense",
-      "fait": "Canada et Ukraine ont signé un pacte de 100 ans axé sur la production de défense. Ottawa prévoit de fabriquer des millions de drones en partenariat avec l'industrie ukrainienne et a annoncé un paquet de défense aérienne de 350 millions de dollars canadiens. Selon CBC et Radio-Canada."
+      "sujet": "Prix du diesel aux États-Unis",
+      "fait": "Le prix moyen du diesel aux États-Unis a dépassé 6 dollars le gallon pour la première fois, selon GasBuddy rapporté par Reuters."
     },
     {
-      "sujet": "Drones canadiens envoyés Ukraine",
-      "fait": "Un tiers de tous les drones fabriqués par le Canada seront envoyés en Ukraine, a annoncé Mark Carney. Selon Radio-Canada."
+      "sujet": "Résultats financiers Oracle",
+      "fait": "Oracle a dépassé les estimations des analystes, la demande en IA tempérant les craintes concernant la consommation de liquidités, selon Reuters."
     },
     {
-      "sujet": "OpenAI arrête abonnements Pro",
-      "fait": "OpenAI a suspendu les nouveaux abonnements Pro en raison de la surcharge de ses systèmes liée à la demande pour Astra, citant les abonnements Pro comme source principale de strain. Selon TechCrunch."
+      "sujet": "Soutien politique à Mark Carney",
+      "fait": "La progression soutenue du premier ministre Mark Carney dans les sondages provient principalement d'anciens électeurs conservateurs, selon l'Institut Angus Reid cité par le National Post."
     },
     {
-      "sujet": "Anthropic dénonce attaques distillation IA",
-      "fait": "Anthropic a publié un rapport détaillant des campagnes de distillation persistantes menées par des entreprises IA basées en Chine, dont Alibaba, Moonshot AI et DeepSeek, ces attaques s'étant intensifiées récemment. Selon TechCrunch."
+      "sujet": "Campement d'itinérants à Montréal",
+      "fait": "La Cour d'appel a rejeté la demande de la Ville de Montréal visant à lever l'interdiction de démantèlement du campement sous le viaduc Van Horne au Mile End, selon La Presse."
     },
     {
-      "sujet": "LinkedIn gagne procès collectif vie privée",
-      "fait": "Un juge américain a approuvé la demande de rejet de LinkedIn dans deux recours collectifs concernant l'analyse des extensions de navigateur Chrome, estimant que les plaignants n'avaient pas établi leur droit d'action. Selon Ars Technica."
+      "sujet": "Plan d'Éric Duhaime sur l'itinérance",
+      "fait": "Éric Duhaime a annoncé un plan d'injection de 350 millions de dollars pour créer une nouvelle branche de médecine familiale destinée à aider les itinérants, selon Radio-Canada."
     },
     {
-      "sujet": "ESA poursuit mission Vénus seule",
-      "fait": "L'Agence spatiale européenne procède seule au développement de sa mission orbitale Envision vers Vénus après que la NASA a indiqué qu'elle ne pourrait probablement pas fournir l'instrument radar radar prévu. Selon Ars Technica."
+      "sujet": "Pétrole et tensions en Iran",
+      "fait": "Les prix du pétrole grimpent alors que les marchés anticipent une guerre longue en Iran, selon Bloomberg."
     },
     {
-      "sujet": "Google acquiert données Spirit Airlines",
-      "fait": "Google a remporté une enchère pour acheter une grande quantité de données opérationnelles lors de la faillite de Spirit Airlines, soulevant des préoccupations selon lesquelles ces données incluent de la propriété intellectuelle appartenant à Springshot, un prestataire technologique de Spirit. Selon Ars Technica."
+      "sujet": "Marché boursier et inflation",
+      "fait": "L'indice S&P 500 a clôturé en baisse alors que les rendements des obligations du Trésor augmentent et que les traders s'inquiètent de l'inflation, selon Reuters."
     },
     {
-      "sujet": "Réunion Cabinet Carney tensions commerciales",
-      "fait": "Le Cabinet canadien s'est réuni à Banff en contexte de tensions commerciales. Le Canada a déclaré rester prêt à conclure un accord juste avec Washington. Selon Radio-Canada."
+      "sujet": "Entretien Carney-Trump",
+      "fait": "Le premier ministre Mark Carney a parlé à Donald Trump dans les derniers jours; le Canada reste disposé à conclure un accord juste avec Washington, selon Radio-Canada."
     },
     {
-      "sujet": "Carney discute Iran et Ukraine Trump",
-      "fait": "Mark Carney a déclaré avoir parlé récemment au président Trump au sujet de l'Iran et de l'Ukraine. Selon Reuters."
+      "sujet": "Position de Christine Fréchette sur la souveraineté",
+      "fait": "La cheffe de la Coalition avenir Québec a déclaré que sa position personnelle sur la souveraineté n'avait pas d'importance, selon Radio-Canada."
     },
     {
-      "sujet": "Hamas hôpitaux Gaza rationnent électricité",
-      "fait": "Les pénuries de carburant et d'huile moteur forcent les hôpitaux de Gaza à rationner l'électricité. Selon Al Jazeera."
+      "sujet": "Restructuration de l'armée canadienne",
+      "fait": "L'armée canadienne a officiellement réalisé l'un de ses plus grands changements structurels en décennies en passant de divisions géographiques à des divisions basées sur des objectifs spécifiques, une nouvelle division de déploiement rapide étant basée à Edmonton, selon CBC."
     },
     {
-      "sujet": "Frappe russe Ukraine Pavlohrad",
-      "fait": "Une frappe russe sur un centre commercial à Pavlohrad, en Ukraine centrale, a tué au moins quatre personnes. Selon Al Jazeera."
+      "sujet": "Nvidia et croissance prévue",
+      "fait": "Jensen Huang déclare que Nvidia devrait croître de 70% l'année prochaine grâce à sa présence dans plusieurs secteurs, selon TechCrunch."
     },
     {
-      "sujet": "Investissement fédéral prévention VIH",
-      "fait": "Le gouvernement fédéral investit 5 millions de dollars dans la prévention et le soutien en matière de VIH, incluant des trousses d'autotest. Selon Global News."
+      "sujet": "OpenAI et Astra demand",
+      "fait": "OpenAI a suspendu les inscriptions aux abonnements Pro en raison de la forte demande pour Astra, les abonnements Pro créant le plus de charge sur ses systèmes, selon TechCrunch."
     }
   ]
 }
