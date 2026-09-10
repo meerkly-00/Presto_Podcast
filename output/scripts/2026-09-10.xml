@@ -1,0 +1,81 @@
+```xml
+<script>
+  <intro>Bonjour, on est le jeudi dix septembre deux mille vingt-six. Voici votre Presto en environ quinze minutes. Au menu : la visite de Volodymyr Zelensky au Canada, l'escalade entre les États-Unis et l'Iran qui pousse le pétrole au-dessus de cent dollars, la campagne électorale québécoise, l'économie sous tension, et du nouveau chez Apple et en intelligence artificielle.</intro>
+
+  <chapitre titre="Politique canadienne">
+    On commence par la visite du président ukrainien au Canada. Selon Radio-Canada, Volodymyr Zelensky et son épouse Olena Zelenska sont arrivés mercredi soir à Calgary, où ils ont été accueillis par plusieurs responsables, dont la ministre des Affaires étrangères Anita Anand. Le président ukrainien doit rencontrer le premier ministre Mark Carney jeudi matin, puis prendre la parole devant une réunion du Conseil des ministres à Banff, en Alberta.
+
+    Selon Radio-Canada, monsieur Carney a indiqué que le programme de la visite porterait sur les priorités communes des deux pays, notamment la coopération en matière de défense, d'économie et d'énergie, ainsi que sur le coût humain de la guerre menée par la Russie contre l'Ukraine. Le premier ministre a affirmé que le Canada demeure déterminé à favoriser la défense, le rétablissement et la reconstruction de l'Ukraine. Selon CBC, il s'agit de la première visite de monsieur Zelensky au pays depuis près d'un an. Le couple présidentiel doit aussi se rendre à Toronto et à North Bay, en Ontario, avant de repartir vendredi.
+
+    Toujours à Ottawa, un dossier environnemental a connu un dénouement. Selon La Presse, le gouvernement fédéral a renoncé à exempter certains grands projets de la Loi sur les espèces en péril, après avoir reçu une réaction très négative à cette proposition lors d'une série de consultations menées cet été.
+
+    Du côté de la guerre commerciale avec les États-Unis, selon le National Post, la Colombie-Britannique installe désormais des affiches à ses postes frontaliers rappelant aux voyageurs qu'ils entrent en territoire qui, je le cite : n'est jamais le cinquante et unième État. Fin de citation. Selon Le Devoir, qui cite des experts, la réponse américaine aux contre-tarifs canadiens se révèle en fait plus modeste qu'elle n'y paraît à première vue.
+
+    En marge de ce dossier, un geste symbolique venu du sport : selon CBC, l'équipe de football des Bills de Buffalo a annoncé qu'elle allait souligner l'hymne national canadien lors de son match d'ouverture à domicile, malgré les menaces répétées de Donald Trump contre la souveraineté canadienne et ses mesures visant à interdire plusieurs produits canadiens aux États-Unis.
+  </chapitre>
+
+  <chapitre titre="International : escalade entre les États-Unis et l'Iran">
+    Au Moyen-Orient, le conflit entre les États-Unis et l'Iran continue de s'intensifier. Selon l'Associated Press, le pétrole a franchi la barre des cent dollars le baril alors que Washington et Téhéran ont lancé de nouvelles attaques, ce qui a aussi fait grimper le prix de l'essence. Selon CBC, l'Iran affirme avoir attaqué dix navires près du détroit d'Ormuz après que les États-Unis eurent coulé cinq pétroliers iraniens, poussant le Brent au-dessus de cent dollars pour la première fois depuis juillet.
+
+    Selon Reuters, Donald Trump affirme maintenant que la guerre contre l'Iran ne prendra fin qu'après les élections de mi-mandat de novembre, et menace de frapper un site appelé Pickaxe Mountain. Selon la BBC, le président a aussi déclaré que le prix du pétrole ne redescendra pas avant les élections de novembre, en affirmant sans preuve que l'Iran cherche à influencer le scrutin américain.
+
+    En parallèle, Reuters rapporte en exclusivité qu'un stratagème de contournement des sanctions, évalué à un milliard de dollars, aurait permis à des marchandises chinoises de continuer à circuler vers l'Iran.
+
+    Toujours dans ce contexte américain, selon Radio-Canada et le National Post, Donald Trump a promis lors d'un rassemblement à Dallas un chèque de cinq mille dollars par personne advenant une victoire de son parti aux élections de mi-mandat, sans donner de détails sur le financement de cette mesure ni sur son fonctionnement. Selon la BBC, le président a présenté l'idée comme un dividende, sans préciser d'où viendrait l'argent.
+
+    Ailleurs sur la scène internationale, selon Al Jazeera, des frappes israéliennes dans le nord de Gaza ont tué au moins quatre Palestiniens, malgré le cessez-le-feu négocié en octobre. Selon la BBC, un incendie à bord d'un traversier a fait au moins cinq morts et quatre-vingt-six personnes portées disparues près de Coron, dans les Philippines, alors que le bateau approchait de sa destination. Les secours poursuivent les recherches, selon CBC.
+
+    Enfin, selon CBC, le rapport d'enquête sur l'écrasement d'un avion cargo d'Amazon à Miami révèle que l'un des pilotes avait signalé une vitesse excessive près de deux minutes avant l'impact, et avait demandé d'interrompre l'atterrissage au tout dernier moment. L'accident avait fait cinq morts.
+  </chapitre>
+
+  <chapitre titre="Actualité québécoise : campagne électorale">
+    Au Québec, la campagne électorale provinciale se poursuit à l'approche du scrutin du cinq octobre. Selon Radio-Canada, les cinq chefs se sont prêtés à l'exercice de l'émission Cinq chefs, une élection, où ils ont été questionnés sur la guerre commerciale, les seuils d'immigration et l'indépendance du Québec.
+
+    Par ailleurs, selon La Presse et confirmé par Radio-Canada, le mois d'août deux mille vingt-six a été le plus chaud jamais mesuré à l'échelle mondiale. Selon le service météorologique européen Copernicus, la température moyenne mondiale a dépassé d'un virgule six cinq degré Celsius la moyenne des niveaux préindustriels, un été qualifié par Copernicus de pire pour l'Europe occidentale.
+
+    Du côté des faits divers, La Presse rapporte qu'à Sainte-Julienne, dans Lanaudière, une conductrice a tenté de voler un camion dans un concessionnaire mercredi après-midi avant de terminer sa course contre un poteau d'Hydro-Québec. On ne craint pas pour sa vie.
+
+    Enfin, selon le Journal de Montréal, un candidat conservateur s'est désisté après que des propos antiavortement et homophobes lui aient été attribués.
+  </chapitre>
+
+  <chapitre titre="Économie et marchés">
+    On passe à l'économie, dominée par la flambée du pétrole. Selon Reuters, le S&P 500 a terminé en baisse alors que le baril a franchi les cent dollars. Selon le Financial Times, les rendements des obligations du Trésor américain ont bondi après qu'un plan de rachat de six milliards de dollars présenté par le secrétaire au Trésor Scott Bessent eut déçu les investisseurs.
+
+    Selon Reuters, le dollar canadien a reculé alors que la guerre commerciale avec les États-Unis s'intensifie. Selon Bloomberg, les actions asiatiques devraient aussi reculer, le pétrole alimentant les craintes inflationnistes. Le Wall Street Journal rapporte que les marchés boursiers asiatiques restent partagés, les investisseurs attendant les données américaines sur l'inflation.
+
+    Selon Reuters, l'agence américaine de l'énergie, l'EIA, a revu à la hausse ses prévisions de prix pétroliers, la guerre en Iran continuant de drainer les stocks mondiaux. The Economist souligne que les États-Unis voudraient faire croire que le trafic dans le détroit d'Ormuz est revenu à la normale, alors même que le pétrole dépasse à nouveau les cent dollars.
+
+    Du côté des entreprises, selon Reuters, l'entreprise canadienne Enbridge a annoncé l'achat des activités pétrolières de Tallgrass pour deux virgule cinq cinq milliards de dollars.
+
+    Au Japon, selon The Economist, les plans de dépenses importants de la première ministre Takaichi Sanae inquiètent les marchés, la dirigeante plaçant l'État au centre de l'économie japonaise. Selon le Financial Times, le secrétaire au Trésor Bessent a aussi averti les cambistes de ne pas parier contre le yen, affirmant en anglais, je le cite : I am the house now. Fin de citation.
+
+    Enfin, selon le Financial Times, la Chine a averti les banquiers de ne pas inonder le marché des premiers appels publics à l'épargne avec des entreprises qu'elle qualifie de faible qualité.
+  </chapitre>
+
+  <chapitre titre="Tech">
+    Un mot sur la tech, dominée par le lancement des nouveaux iPhone. Selon l'Associated Press, la nouvelle chef de la direction d'Apple a dévoilé la gamme complète des iPhone, incluant un premier modèle pliable baptisé iPhone Duo. Selon Ars Technica, l'appareil est le plus cher jamais offert par Apple, mais son prix de départ à deux mille dollars américains reste dans la même fourchette que les pliables de Google et Samsung. The Verge souligne que l'iPhone Duo n'est ni le premier pliable sur le marché, Samsung et Google l'ayant précédé, ni le premier produit à porter ce nom.
+
+    Toujours selon The Verge, Apple a aussi ramené la couleur noire dans sa gamme Pro, absente depuis l'iPhone dix-sept, et a ajouté la suppression active du bruit aux AirPods cinq, le modèle d'entrée de gamme. Le média se réjouit par ailleurs de l'absence, lors de cet événement, des AirPods Pro à caméra intégrée, dont le lancement serait reporté à deux mille vingt-sept selon le journaliste Mark Gurman de Bloomberg.
+
+    En marge du monde d'Apple, Volvo a annoncé le retour de son modèle hybride rechargeable XC40, selon The Verge. Le véhicule, attendu chez les concessionnaires au début de l'an prochain, intégrera l'assistant Gemini de Google et une nouvelle suite de sécurité par capteurs.
+
+    Du côté de l'intelligence artificielle, selon Ars Technica, les autorités américaines de sécurité nationale ont nommé six entreprises chinoises, dont DeepSeek et Alibaba, qu'elles accusent de copier de façon industrielle les modèles américains de pointe depuis la fin de deux mille vingt-quatre, probablement avec la connaissance du gouvernement chinois.
+
+    Selon TechCrunch, le conseil d'administration d'Automattic, l'entreprise derrière WordPress, a forcé son fondateur et chef de la direction Matt Mullenweg à prendre un congé, une décision qu'il dit avoir subie contre son gré. Toujours selon TechCrunch, la jeune pousse d'intelligence artificielle Listen Labs a abandonné une ronde de financement d'un virgule cinq milliard de dollars pour entamer des discussions avec Salesforce. Par ailleurs, OpenAI a ajouté à son conseil d'administration Paul Christiano, un chercheur reconnu pour ses positions prudentes sur les risques de l'intelligence artificielle, selon TechCrunch.
+
+    Enfin, selon Reuters, les fabricants chinois de puces d'intelligence artificielle augmentent leurs prix, une pénurie de mémoire à haute bande passante se faisant sentir dans l'industrie.
+  </chapitre>
+
+  <chapitre titre="Sport">
+    Rapidement en sport. Selon Sportsnet, les Seahawks de Seattle ont remporté un match d'ouverture spectaculaire de la saison de la NFL, la défense de l'équipe interceptant le quart-arrière des Patriots de la Nouvelle-Angleterre dans les dernières secondes de la rencontre. Le match a toutefois été marqué par une blessure du quart-arrière des Patriots, Drake Maye, qui soulève des questions pour la suite de la saison.
+
+    Selon Sportsnet, les Oilers d'Edmonton ont signé l'ancien joueur junior Alex Formenton, acquitté d'accusation d'agression sexuelle l'an dernier, une décision qui a provoqué la perte d'un partisan de longue date de l'équipe, selon Global News.
+
+    Selon Sportsnet, les Blue Jays de Toronto ont subi une défaite de deux à zéro contre les Athletics mercredi, un revers jugé coûteux dans la course aux séries éliminatoires.
+
+    Enfin, l'ancien joueur et entraîneur de la Ligue nationale de hockey Barry Melrose, qui avait mené les Kings de Los Angeles à la finale de la coupe Stanley en mille neuf cent quatre-vingt-treize avant de devenir analyste, est mort à l'âge de soixante-dix ans, selon CBC.
+  </chapitre>
+
+  <outro>Voilà pour ce Presto du jeudi dix septembre deux mille vingt-six. Si ce briefing vous est utile, le meilleur coup de main que vous pouvez nous donner, c'est de le partager à une personne qui aime rester informée. Et selon votre plateforme : un abonnement sur Spotify ou Apple Podcasts, un pouce bleu et un abonnement sur YouTube, ça prend deux secondes et ça aide vraiment Presto à grandir. Sur ce, bonne journée, et à demain.</outro>
+</script>
+```
