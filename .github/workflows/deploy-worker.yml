@@ -1,9 +1,9 @@
 name: Déployer le worker
 
-# Le Worker porte le déclencheur principal du briefing (cron 0 8 * * * →
-# workflow_dispatch sur briefing.yml). Un changement dans worker/ qui reste
-# non déployé = déclencheur inexistant, en silence : d'où le déploiement
-# automatique sur push, en plus du bouton manuel.
+# Le Worker porte le déclencheur principal du briefing (crons 0 10 / 0 11 UTC,
+# soit 6h heure du Québec → workflow_dispatch sur briefing.yml). Un changement
+# dans worker/ qui reste non déployé = déclencheur inexistant, en silence :
+# d'où le déploiement automatique sur push, en plus du bouton manuel.
 on:
   workflow_dispatch:
   push:
@@ -35,7 +35,7 @@ jobs:
       - name: Synchroniser le PAT de dispatch vers Cloudflare
         run: |
           if [ -z "$WORKER_DISPATCH_PAT" ]; then
-            echo "::error::Secret WORKER_DISPATCH_PAT absent → le cron 8h UTC ne pourra pas déclencher briefing.yml."
+            echo "::error::Secret WORKER_DISPATCH_PAT absent → les crons de 6h ne pourront pas déclencher briefing.yml."
             exit 1
           fi
           printf '%s' "$WORKER_DISPATCH_PAT" \
@@ -53,9 +53,11 @@ jobs:
         env:
           CLOUDFLARE_API_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
 
-      # Vérification : le cron du briefing doit être réellement enregistré côté
-      # Cloudflare. C'est précisément ce qui manquait depuis le 4 septembre.
-      - name: Vérifier que le cron 8h UTC est enregistré
+      # Vérification : les crons du briefing doivent être réellement enregistrés
+      # côté Cloudflare. C'est précisément ce qui manquait depuis le 4 septembre.
+      # Ils vont par paire (10h UTC l'été, 11h UTC l'hiver) : il en manque un et
+      # l'épisode disparaît la moitié de l'année.
+      - name: Vérifier que les crons de 6h sont enregistrés
         run: |
           RESP=$(curl -sS \
             -H "Authorization: Bearer $CLOUDFLARE_API_TOKEN" \
@@ -67,11 +69,17 @@ jobs:
           fi
           echo "Crons enregistrés :"
           echo "$RESP" | jq -r '.result.schedules[].cron' | sed 's/^/  - /'
-          if ! echo "$RESP" | jq -e '.result.schedules[] | select(.cron == "0 8 * * *")' > /dev/null; then
-            echo "::error::Le cron '0 8 * * *' n'est PAS enregistré : le briefing ne sera pas déclenché à 4h EDT."
+          MANQUANTS=""
+          for C in "0 10 * * *" "0 11 * * *"; do
+            if ! echo "$RESP" | jq -e --arg c "$C" '.result.schedules[] | select(.cron == $c)' > /dev/null; then
+              MANQUANTS="$MANQUANTS '$C'"
+            fi
+          done
+          if [ -n "$MANQUANTS" ]; then
+            echo "::error::Cron(s) absent(s) :$MANQUANTS — le briefing ne sera pas déclenché à 6h heure du Québec."
             exit 1
           fi
-          echo "::notice::Cron '0 8 * * *' actif → briefing déclenché à 4h EDT."
+          echo "::notice::Crons '0 10 * * *' + '0 11 * * *' actifs → briefing déclenché à 6h heure du Québec, été comme hiver."
         env:
           CLOUDFLARE_API_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
 
@@ -91,7 +99,7 @@ jobs:
             "https://api.github.com/repos/$GITHUB_REPOSITORY/actions/workflows/deploy-site.yml/dispatches" \
             -d '{"ref":"main"}')
           if [ "$CODE" != "204" ]; then
-            echo "::error::Le PAT ne peut pas déclencher de workflow (HTTP $CODE) → le cron 4h EDT sera inopérant."
+            echo "::error::Le PAT ne peut pas déclencher de workflow (HTTP $CODE) → le cron de 6h sera inopérant."
             head -c 300 /tmp/dispatch.txt
             # Sonde chaque permission séparément : sans ça on sait juste « 403 »,
             # et on perd un aller-retour à deviner quelle case cocher.
@@ -110,7 +118,7 @@ jobs:
             echo "  → Metadata OK mais Actions 403   = permission Actions absente ou en lecture seule"
             exit 1
           fi
-          echo "::notice::PAT valide (HTTP 204) → le cron 4h EDT peut déclencher briefing.yml."
+          echo "::notice::PAT valide (HTTP 204) → le cron de 6h peut déclencher briefing.yml."
         env:
           WORKER_DISPATCH_PAT: ${{ secrets.WORKER_DISPATCH_PAT }}
 
@@ -121,7 +129,7 @@ jobs:
           if [ -z "$(gh issue list --state open --search "\"$TITLE\" in:title" --json number -q '.[0].number')" ]; then
             gh label create incident --color B60205 --description "Échec d'un workflow automatisé" 2>/dev/null || true
             gh issue create --title "$TITLE" \
-              --body "Le déploiement du Worker a échoué : le cron 8h UTC qui déclenche briefing.yml n'est pas garanti. Sans lui, le briefing ne part que sur le \`schedule\` GitHub, retardé de 3 à 6 h (épisode vers 8h-10h au lieu de 6h). Run : $GITHUB_SERVER_URL/$GITHUB_REPOSITORY/actions/runs/$GITHUB_RUN_ID" \
+              --body "Le déploiement du Worker a échoué : les crons de 6h (10h/11h UTC) qui déclenchent briefing.yml ne sont pas garantis. Sans eux, le briefing ne part que sur le \`schedule\` GitHub, retardé de 3 à 6 h (épisode vers 9h-12h au lieu de 6h). Run : $GITHUB_SERVER_URL/$GITHUB_REPOSITORY/actions/runs/$GITHUB_RUN_ID" \
               --label "incident" 2>/dev/null || true
           fi
         env:

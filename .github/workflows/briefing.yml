@@ -1,13 +1,16 @@
 name: Presto — briefing matinal
 
 # Déclencheur principal : cron du Worker Cloudflare (worker/audio-proxy.js) à
-# 8h00 UTC = 4h00 EDT, via workflow_dispatch (secret GITHUB_DISPATCH_TOKEN). Le `schedule` ci-dessous est un filet de sécurité :
-# GitHub retarde les crons planifiés à la minute :00 (parfois de plusieurs
-# heures), donc on prend une minute hors-pointe. Le job `guard` évite de
-# régénérer (et repayer) l'épisode si le déclencheur principal a déjà tourné.
+# 6h00 heure du Québec — 10h UTC l'été (EDT), 11h UTC l'hiver (EST) — via
+# workflow_dispatch (secret GITHUB_DISPATCH_TOKEN). Le `schedule` ci-dessous est
+# un filet de sécurité : GitHub retarde les crons planifiés à la minute :00
+# (parfois de plusieurs heures), donc on prend une minute hors-pointe. Le job
+# `guard` évite de régénérer (et repayer) l'épisode si le déclencheur principal
+# a déjà tourné, et empêche le filet de devancer 6h heure locale.
 on:
   schedule:
-    - cron: '17 8 * * *'   # 4h17 EDT (UTC-4) — filet de sécurité si cron-job.org échoue
+    - cron: '17 10 * * *'  # 6h17 à Montréal l'été (EDT)   — filet de sécurité
+    - cron: '17 11 * * *'  # 6h17 à Montréal l'hiver (EST) — l'autre est alors ignoré
   workflow_dispatch:       # bouton Run manuel dans GitHub / appel Worker Cloudflare
     inputs:
       force:
@@ -32,7 +35,16 @@ jobs:
         id: check
         run: |
           DATE=$(date +%Y-%m-%d)
-          if [ "$FORCE" != "true" ] && [ -f "output/scripts/$DATE.xml" ]; then
+          HEURE=$(TZ=America/Toronto date +%-H)
+          # Les deux crons `schedule` encadrent le changement d'heure : hors
+          # saison, l'un des deux tombe à 5h17 heure du Québec. Le laisser
+          # passer publierait l'épisode une heure trop tôt — soit exactement ce
+          # que le passage à 6h corrige. Le déclencheur du Worker, lui, arrive
+          # en workflow_dispatch et n'est jamais concerné.
+          if [ "$EVENT" = "schedule" ] && [ "$HEURE" -lt 6 ]; then
+            echo "::notice::Filet de sécurité déclenché à ${HEURE}h à Montréal — avant 6h, on saute."
+            echo "skip=true" >> "$GITHUB_OUTPUT"
+          elif [ "$FORCE" != "true" ] && [ -f "output/scripts/$DATE.xml" ]; then
             echo "::notice::Presto $DATE déjà publié — on saute (relancer avec force=true pour régénérer)."
             echo "skip=true" >> "$GITHUB_OUTPUT"
           else
@@ -40,6 +52,7 @@ jobs:
           fi
         env:
           FORCE: ${{ inputs.force }}
+          EVENT: ${{ github.event_name }}
 
   presto:
     needs: guard
