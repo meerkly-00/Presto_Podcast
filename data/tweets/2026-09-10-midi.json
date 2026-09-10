@@ -1,0 +1,14 @@
+{
+  "date": "2026-09-10",
+  "kind": "poll",
+  "text": "Ce matin → Août 2026 a été le mois le plus chaud jamais mesuré selon l'agence Copernicus.\n\n📍 Nouveau : L'ONU rapporte que les aléas climatiques ont perturbé l'école de 1 élève sur 10 en 2025, avec un impact\n\nFace aux impacts du climat sur l'éducation, la priorité devrait être…",
+  "poll": {
+    "options": [
+      "Réduire les émissions",
+      "Adapter les",
+      "Soutenir les régions les",
+      "Combiner plusieurs"
+    ],
+    "duration_minutes": 1440
+  }
+}
