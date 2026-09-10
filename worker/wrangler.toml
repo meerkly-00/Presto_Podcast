@@ -18,7 +18,12 @@ routes = [
 
 [triggers]
 crons = [
-  "0 8 * * *",     # 4h EDT    — déclenche briefing.yml (workflow_dispatch GitHub)
+  # Deux crons UTC pour une seule heure locale : Cloudflare ne planifie qu'en
+  # UTC, donc 6h à Montréal tombe à 10h UTC l'été (EDT) et à 11h UTC l'hiver
+  # (EST). Le handler `scheduled` ignore celui qui n'est pas 6h heure locale —
+  # sinon l'épisode avancerait à 5h au changement d'heure de novembre.
+  "0 10 * * *",    # 6h à Montréal l'été   — déclenche briefing.yml (workflow_dispatch GitHub)
+  "0 11 * * *",    # 6h à Montréal l'hiver — même cible, l'autre est alors ignoré
   "0 12 * * *",    # 8h EDT    — thread du matin       (data/tweets/DATE.json)
   "0 16 * * *",    # 12h EDT   — poll de midi          (data/tweets/DATE-midi.json)
   "30 21 * * *",   # 17h30 EDT — contre-programme      (data/tweets/DATE-soir.json)
