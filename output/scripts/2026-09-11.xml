@@ -1,0 +1,79 @@
+```xml
+<script>
+  <intro>Bonjour, on est le vendredi onze septembre deux mille vingt-six. Voici votre Presto en environ quinze minutes. Au menu : les vingt-cinq ans des attentats du onze septembre, les avancées des Houthis au Yémen et une frappe israélienne au Liban, la guerre commerciale canado-américaine, la campagne électorale québécoise, les marchés sous tension avant un indicateur d'inflation crucial, et un mot sur la tech.</intro>
+
+  <chapitre titre="Vingt-cinq ans du onze septembre">
+    On commence par un moment de recueillement. Les États-Unis marquent aujourd'hui vingt-cinq ans depuis les attentats qui ont frappé New York, Washington et la Pennsylvanie. Selon Reuters, les Américains soulignent cet anniversaire dans un climat de deuil persistant et de réflexion.
+
+    Radio-Canada rappelle que les attaques contre le World Trade Center et le Pentagone ont fait près de trois mille morts. Selon CBC, quarante pour cent des deux mille sept cent cinquante-trois personnes décédées à Ground Zero n'ont toujours pas eu leurs restes identifiés, dont environ dix des vingt-quatre victimes canadiennes. Un laboratoire new-yorkais utilise maintenant la génétique généalogique pour tenter d'identifier ces restes, et a annoncé le mois dernier une première identification grâce à une nouvelle technique.
+
+    Au Canada, plusieurs commémorations sont prévues. Selon Global News, des premiers répondants de New York présents lors des attentats en deux mille un doivent assister à une cérémonie à la frontière de la Colombie-Britannique pour souligner le vingt-cinquième anniversaire. CBC rapporte aussi les témoignages de quatre résidents de Terre-Neuve-et-Labrador qui se souviennent avoir aidé les voyageurs déroutés vers leur province ce jour-là.
+  </chapitre>
+
+  <chapitre titre="International : Moyen-Orient">
+    Au Yémen, les Houthis ont franchi une nouvelle étape stratégique. Selon Reuters, les rebelles yéménites appuyés par l'Iran ont atteint une île stratégique à l'embouchure d'une voie maritime vitale. CBC précise que les Houthis ont capturé cette île stratégique dans le détroit de Bab el-Mandeb, à l'entrée de la mer Rouge, dans une avancée rapide qui menace davantage les exportations pétrolières saoudiennes transitant par l'une des routes commerciales les plus importantes au monde. Toujours selon CBC, des frappes aériennes saoudiennes ont visé l'aéroport de Mokha, tenu par les rebelles.
+
+    Au Liban, Israël affirme avoir frappé un objectif majeur. Selon la BBC, Israël dit avoir détruit une importante base souterraine du Hezbollah. La déflagration a été si puissante qu'elle a été enregistrée comme l'équivalent d'un séisme de magnitude quatre virgule un, selon l'organisme géologique américain USGS.
+
+    Cette escalade régionale continue de peser sur le prix du pétrole, un fil qu'on retrouve aussi dans l'actualité économique de ce matin.
+  </chapitre>
+
+  <chapitre titre="Politique canadienne">
+    À Ottawa, le gouvernement Carney poursuit ses discussions sur le dossier commercial. Selon Global News, le cabinet fédéral en est à sa deuxième journée de retraite à Banff, alors que la guerre commerciale s'intensifie. Le média rapporte que Donald Trump a resserré la vis en interdisant certaines importations canadiennes, dont l'alcool et certains produits laitiers.
+
+    CBC a colligé les questions les plus fréquentes de son auditoire sur ce conflit commercial, notamment pourquoi le Canada ne bloque pas le canal Welland pour faire pression sur les États-Unis.
+
+    Par ailleurs, une étude relayée par La Presse indique que le Canada n'atteindrait pas son objectif de réduction des émissions fixé pour deux mille trente dans le cadre de l'Accord de Paris, et qu'il ne parviendrait même pas à la carboneutralité d'ici deux mille cinquante, année cible initiale.
+
+    Autre nouvelle à Ottawa : selon Radio-Canada, le gouvernement fédéral a dû s'écarter de certaines exigences militaires dans le dossier des avions radars GlobalEye, faute d'appareil répondant à tous les critères, en privilégiant plutôt les retombées économiques.
+
+    Sur le plan éducatif, CBC rapporte que les adolescents canadiens obtiennent de bons résultats aux tests internationaux de l'OCDE en sciences, en lecture et en mathématiques, mais que les plus récents résultats du programme PISA montrent un recul à long terme dans les trois matières, avec une chute marquée en lecture et en mathématiques dans les éditions les plus récentes, une tendance à la baisse observée aussi chez les adolescents ailleurs dans le monde.
+
+    Enfin, en Ontario, Global News rapporte une brèche de données ayant touché le système judiciaire. Une déclaration publiée le deux septembre indique que l'incident est survenu le trente juin, quand Thomson Reuters Canada a détecté une activité non autorisée sur sa plateforme de gestion de dossiers C-Track.
+  </chapitre>
+
+  <chapitre titre="Actualité québécoise : campagne électorale">
+    Au Québec, la campagne électorale provinciale continue d'être marquée par la question référendaire. Selon Global News, le chef du Parti québécois affirme qu'un référendum sur la souveraineté coûterait au moins cent trente millions de dollars s'il tient cette consultation en deux mille vingt-neuf ou deux mille trente et que son parti forme un gouvernement.
+
+    Le Devoir précise que le Parti québécois détaillera ces coûts anticipés, pour la préparation et la tenue de la consultation, dans son cadre financier.
+
+    Le débat référendaire soulève aussi des questions du côté des Premières Nations. Selon Radio-Canada, le chef de l'Assemblée des Premières Nations Québec-Labrador, Francis Verreault-Paul, demande si un peuple peut imposer sa souveraineté à un autre peuple, rappelant qu'il ne faut pas oublier les Autochtones dans le débat sur l'avenir du Québec.
+  </chapitre>
+
+  <chapitre titre="Économie et marchés">
+    On passe à l'économie, dominée par la nervosité des marchés obligataires et l'attente d'un indicateur d'inflation majeur. Selon l'Associated Press, les contrats à terme américains sont en hausse et les prix du pétrole en baisse à l'approche de ce que le média qualifie d'une des lectures les plus cruciales sur l'inflation depuis des années.
+
+    La veille, selon Reuters, le S&P 500 a terminé en baisse alors que les rendements du Trésor américain ont augmenté et que les investisseurs s'inquiètent de l'inflation. Selon le Wall Street Journal, le rendement des obligations américaines à dix ans s'approche de cinq pour cent, alimenté par les craintes inflationnistes liées à la flambée pétrolière. Bloomberg rapporte que la vente massive d'obligations à l'échelle mondiale s'est stabilisée depuis, selon le Financial Times.
+
+    Toujours selon l'Associated Press, les prix du pétrole ont bondi à leur plus haut niveau depuis le mois de mai, entraînant Wall Street à la baisse. L'Agence internationale de l'énergie prévient, selon Reuters, que l'écart entre l'offre et la demande de pétrole va s'élargir en deux mille vingt-six en raison du retour tardif des flux normaux du Golfe.
+
+    Du côté des mesures gouvernementales américaines, Reuters rapporte que l'administration Trump prévoit sanctionner une grande banque non identifiée dès lundi, selon le secrétaire au Trésor Scott Bessent.
+
+    En Europe, selon le Wall Street Journal, la Banque centrale européenne a relevé ses taux d'intérêt. Et selon Bloomberg, l'intelligence artificielle contribuerait à une croissance inattendue de l'économie britannique.
+
+    Au Canada, deux études retiennent l'attention. Selon BNN Bloomberg, Terre-Neuve-et-Labrador devrait mener la croissance économique canadienne en deux mille vingt-six, pendant que l'Ontario accuserait du retard. Autre rapport, cette fois de la Société canadienne d'hypothèques et de logement selon BNN Bloomberg : le Canada aurait besoin de jusqu'à quatre millions six cent quatre-vingt-dix mille nouveaux logements d'ici deux mille trente-six, mais le rythme de construction pourrait ralentir.
+
+    Du côté des devises, le Wall Street Journal rapporte que son indice du dollar américain a reculé de zéro virgule zéro six pour cent, à quatre-vingt-quatorze virgule quatre-vingt-cinq.
+  </chapitre>
+
+  <chapitre titre="Tech">
+    Un mot sur la tech, où Apple continue de défendre son iPhone pliable. Selon The Verge, le chef de la direction John Ternus et le responsable du marketing Greg Joswiak ont réagi aux accusations selon lesquelles des concurrents auraient copié le format de l'appareil. En anglais, je le cite : "People knew through leaks that we were working on a foldable." Fin de citation. Selon Reuters, l'appareil, vendu à mille neuf cent quatre-vingt-dix-neuf dollars américains, soulève une question : qui est vraiment le public cible de ce produit.
+
+    Du côté de l'intelligence artificielle, TechCrunch rapporte que le chef de la direction de Nvidia, Jensen Huang, prévoit une croissance de soixante-dix pour cent pour l'entreprise l'an prochain, tout en insistant sur le fait que ses ententes commerciales ne sont pas circulaires.
+
+    Toujours en intelligence artificielle, la BBC rapporte qu'Anthropic a bloqué une tentative présumée d'utiliser l'intelligence artificielle pour fabriquer des armes biologiques. Selon TechCrunch, OpenAI a de son côté suspendu temporairement les nouvelles inscriptions à son abonnement Pro en raison de la forte demande pour son produit Astra, le temps d'ajouter de la capacité à ses systèmes.
+
+    Du côté des semi-conducteurs, The Verge souligne que l'Arizona, un pôle important pour la relance de la fabrication américaine de puces, s'apprête à perdre plus du quart de l'eau qu'elle puise habituellement dans le fleuve Colorado, une décision fédérale qui touche particulièrement cet État désertique où TSMC et Intel étendent des usines majeures.
+
+    Enfin, dans l'espace, Ars Technica rapporte que l'Agence spatiale européenne va aller de l'avant seule avec sa mission vers Vénus, après que la NASA a retiré son engagement de fournir un instrument radar pour la sonde Envision.
+  </chapitre>
+
+  <chapitre titre="Sport">
+    Rapidement en sport. Selon Sportsnet, les camps d'entraînement de la Ligue nationale de hockey s'amorcent, et plusieurs questions demeurent en suspens autour des équipes canadiennes, notamment celles des Maple Leafs de Toronto, qui reviennent transformés après un été marqué par de grands changements. Toujours selon Sportsnet, l'attaquant Chris Kreider, désormais joueur autonome sans compensation après une seule saison à Anaheim, pourrait attirer l'intérêt de plusieurs équipes.
+
+    Du côté du football américain, les quarante-neuvième de San Francisco ont dominé les Rams de Los Angeles par la marque de vingt-sept à sept, vendredi, lors du premier match de saison régulière de la NFL disputé en Australie.
+  </chapitre>
+
+  <outro>Voilà pour ce Presto du vendredi onze septembre deux mille vingt-six. Si ce briefing vous est utile, le meilleur coup de main que vous pouvez nous donner, c'est de le partager à une personne qui aime rester informée. Et selon votre plateforme : un abonnement sur Spotify ou Apple Podcasts, un pouce bleu et un abonnement sur YouTube, ça prend deux secondes et ça aide vraiment Presto à grandir. Sur ce, bonne journée, et à demain.</outro>
+</script>
+```

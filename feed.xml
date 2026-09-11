@@ -23,6 +23,17 @@
       <link>https://www.prestopodcast.online</link>
     </image>
     <item>
+      <title>Presto — édition du 11 septembre 2026</title>
+      <description>Au menu : Vingt-cinq ans du onze septembre, International : Moyen-Orient, Politique canadienne, Actualité québécoise : campagne électorale, Économie et marchés, Tech, Sport</description>
+      <pubDate>Fri, 11 Sep 2026 12:50:05 +0000</pubDate>
+      <guid isPermaLink="false">https://github.com/meerkly-00/Presto_Podcast/releases/download/2026-09-11/2026-09-11.mp3</guid>
+      <enclosure url="https://github.com/meerkly-00/Presto_Podcast/releases/download/2026-09-11/2026-09-11.mp3" type="audio/mpeg" length="7202560"/>
+      <itunes:duration>660</itunes:duration>
+      <itunes:summary>Au menu : Vingt-cinq ans du onze septembre, International : Moyen-Orient, Politique canadienne, Actualité québécoise : campagne électorale, Économie et marchés, Tech, Sport</itunes:summary>
+      <itunes:episode>111</itunes:episode>
+      <itunes:image href="https://www.prestopodcast.online/artwork-v2.jpg"/>
+    </item>
+    <item>
       <title>Presto — édition du 10 septembre 2026</title>
       <description>Au menu : Politique canadienne, International : escalade entre les États-Unis et l'Iran, Actualité québécoise : campagne électorale, Économie et marchés, Tech, Sport</description>
       <pubDate>Thu, 10 Sep 2026 08:01:29 +0000</pubDate>
