@@ -1,0 +1,14 @@
+{
+  "date": "2026-09-11",
+  "kind": "poll",
+  "text": "Ce matin → La frappe israélienne contre une base du Hezbollah au Liban a enregistré l'équivalent d'un séisme de magnitude 4,1.\n\nNouveau : Les rendements obligataires en hausse\n\nLes conflits régionaux intensifiés affectent-ils tes décisions d'investissement ou d'épargne?",
+  "poll": {
+    "options": [
+      "Oui, directement",
+      "Indirectement, par les",
+      "Non, je ne change rien",
+      "J'hésite à investir"
+    ],
+    "duration_minutes": 1440
+  }
+}
