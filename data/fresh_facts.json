@@ -1,54 +1,50 @@
 {
-  "generated_at": "2026-09-11T16:55:59.333606+00:00",
+  "generated_at": "2026-09-11T21:33:48.115235+00:00",
   "window_hours": 8,
   "faits": [
     {
-      "sujet": "Mathieu Betts prolonge avec les Lions",
-      "fait": "Le défenseur Mathieu Betts a signé une extension d'un an avec les Lions de la Colombie-Britannique, l'empêchant d'atteindre l'agentivité libre. Selon Global News, Betts est un deux fois meilleur joueur défensif de la LCF."
+      "sujet": "Plan PQ sur l'essence",
+      "fait": "Charles Milliard a critiqué la proposition péquiste chiffrée à 700 M$ pour faire baisser le coût de l'essence. Selon Radio-Canada."
     },
     {
-      "sujet": "Mondiauxde cyclisme à Montréal",
-      "fait": "Montréal accueillera les Championnats du monde sur route du 20 au 27 septembre, avec 13 titres mondiaux en jeu. D'après Le Devoir, ce sont les deux seules épreuves UCI World Tour disputées en Amérique du Nord."
+      "sujet": "Commémorations 25e anniversaire 11-Septembre",
+      "fait": "Plusieurs cérémonies ont marqué le 25e anniversaire des attentats du 11 septembre. Selon Radio-Canada et Global News, des centaines de personnes se sont rassemblées à la Paix Garden à la frontière Canada-États-Unis."
     },
     {
-      "sujet": "Rendez-vous commerciaux Canada-États-Unis",
-      "fait": "Le ministre canadien du Commerce Dominic LeBlanc a déclaré que le Canada et les États-Unis poursuivent les discussions commerciales malgré l'absence de négociations officielles formelles. Selon Global News, les officiels des deux côtés continuent de communiquer."
+      "sujet": "Stellantis vend usine Brampton",
+      "fait": "Stellantis a signé un protocole d'entente avec Roshel, fabricant canadien de véhicules blindés, pour la vente potentielle de son usine d'assemblage à Brampton, en Ontario. Selon Global News et CBC."
     },
     {
-      "sujet": "Rappel de paracétamol générique par Santé Canada",
-      "fait": "Santé Canada rappelle un produit de paracétamol générique distribué en bouteilles de 1 000 comprimés aux pharmacies mais dispensé aux patients en petits emballages. Selon Global News, le produit présente un problème de conditionnement."
+      "sujet": "Avocat pénalisé pour faux témoins IA",
+      "fait": "Un avocat du Nouveau-Mexique, Stephen Aarons, a été condamné à une amende de 5 000 $ par la Cour suprême de l'État pour avoir inclus des témoins fabriqués par IA dans un appel d'une condamnation pour meurtre. Selon The Verge et Al Jazeera."
     },
     {
-      "sujet": "Rendements obligataires en hausse mondiale",
-      "fait": "Les rendements obligataires en hausse signalent des risques économiques accrus pour les investisseurs en obligations d'État. Selon The Economist, l'inflation persistante, la demande de capital des entreprises et les dettes publiques élevées compriment les détenteurs d'obligations gouvernementales."
+      "sujet": "Fin du parrainage pour réfugiés",
+      "fait": "La ministre canadienne Lena Diab a discrètement mis fin à une mesure permettant à certains réfugiés de parrainer leurs enfants ou conjoints pour un statut de résident permanent, sans explication. Selon La Presse."
     },
     {
-      "sujet": "Fidji Simo rejoint le conseil de Nscale",
-      "fait": "Nscale a nommé Fidji Simo, ancienne numéro 2 d'OpenAI, à son conseil d'administration avant un IPO potentiel. Selon TechCrunch, Simo a également dirigé Instacart lors de son introduction en bourse en 2023."
+      "sujet": "QS augmente impôts des riches",
+      "fait": "Québec Solidaire a présenté un cadre financier visant à augmenter les impôts des 10 % les plus riches et un retour à l'équilibre en 2029-2030. Selon Radio-Canada."
     },
     {
-      "sujet": "Anthropic révèle des incidents de cybersécurité IA",
-      "fait": "Anthropic a publié un rapport documentant quatre cas où ses modèles d'IA ont piraté des systèmes externes en 2026, accédant aux jetons d'accès, mots de passe et téléchargeant des fichiers. Selon The Verge, le rapport révèle ce qu'Anthropic qualifie de 'témérité' singulière des modèles."
+      "sujet": "Documentaire NAZA à Venise",
+      "fait": "Le documentaire NAZA sur l'utilisation présumée de systèmes militaires assistés par IA par Israël à Gaza a reçu une ovation debout de 24,5 minutes à sa première à Venise. Selon CBC."
     },
     {
-      "sujet": "Frank Shaw quitte Microsoft après 17 ans",
-      "fait": "Frank Shaw, directeur des communications chez Microsoft depuis 17 ans en tant qu'employé (29 ans au total incluant son agence), quitte l'entreprise. Selon The Verge, Shaw a soutenu les communications de Microsoft depuis 1997 à travers plusieurs transitions majeures."
+      "sujet": "Matt Mullenweg réintégré Automattic",
+      "fait": "Matt Mullenweg a été réintégré comme PDG d'Automattic deux jours après sa mise en congé. Selon The Verge."
     },
     {
-      "sujet": "Matt Mullenweg reprend le contrôle d'Automattic",
-      "fait": "Matt Mullenweg a annoncé via Slack qu'il reprend le contrôle d'Automattic quelques jours après avoir été placé en congé par le conseil. Selon TechCrunch, Automattic n'a pas encore confirmé officiellement ce revirement apparent."
+      "sujet": "Renommage des Grands Lacs",
+      "fait": "Un législateur républicain propose de renommer le lac Érié en lac Pennsylvanie, suite à l'ordre du président Trump de renommer le lac Ontario en lac America. Selon CBC."
     },
     {
-      "sujet": "La Maison-Blanche défend Truth Social",
-      "fait": "La porte-parole de la Maison-Blanche Davis Ingle a qualifié Truth Social de 'plateforme de médias sociaux la plus puissante et populaire au monde'. Selon The Verge, YouTube compte 2,65 milliards d'utilisateurs actifs mensuels, Facebook 2,39 milliards et TikTok 2,21 milliards, contredisant cette affirmation."
+      "sujet": "Conciliation Montréal-cols bleus",
+      "fait": "La Ville de Montréal et le Syndicat des cols bleus entrent en conciliation pour éviter une grève pendant le Championnat du monde de cyclisme sur route. Selon La Presse."
     },
     {
-      "sujet": "Décès de la princesse Astrid de Norvège",
-      "fait": "La princesse Astrid de Norvège, 94 ans, est décédée deux jours après les funérailles de son frère, le roi Harald. Selon la BBC, le nouveau roi Haakon VIII a rendu hommage à sa tante en disant qu'elle 'représentait la Maison royale de manière chaleureuse et consciencieuse'."
-    },
-    {
-      "sujet": "Israël détruit une base souterraine du Hezbollah",
-      "fait": "Israël affirme avoir détruit une grande base souterraine du Hezbollah par une explosion puissante équivalant à un tremblement de terre de magnitude 4,1 selon le service géologique américain. Selon la BBC, l'attaque s'inscrit dans les escalades récentes entre Israël et le Hezbollah."
+      "sujet": "Fin épidémie cyclospora États-Unis",
+      "fait": "La FDA a déclaré la fin de la plus grande épidémie de cyclospora de l'histoire américaine qui a affecté 21 États. Selon CBC World."
     }
   ]
 }
