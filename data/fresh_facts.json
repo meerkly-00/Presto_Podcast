@@ -1,50 +1,50 @@
 {
-  "generated_at": "2026-09-11T21:33:48.115235+00:00",
+  "generated_at": "2026-09-11T23:53:36.678553+00:00",
   "window_hours": 8,
   "faits": [
     {
-      "sujet": "Plan PQ sur l'essence",
-      "fait": "Charles Milliard a critiqué la proposition péquiste chiffrée à 700 M$ pour faire baisser le coût de l'essence. Selon Radio-Canada."
+      "sujet": "Élections québécoises - Programme financier QS",
+      "fait": "Québec solidaire augmenterait les impôts des « 10 % les plus riches » et vise un retour à l'équilibre en 2029-2030. Selon Radio-Canada."
     },
     {
-      "sujet": "Commémorations 25e anniversaire 11-Septembre",
-      "fait": "Plusieurs cérémonies ont marqué le 25e anniversaire des attentats du 11 septembre. Selon Radio-Canada et Global News, des centaines de personnes se sont rassemblées à la Paix Garden à la frontière Canada-États-Unis."
+      "sujet": "Élections québécoises - PSPP et Santé Québec",
+      "fait": "Le Parti Québécois s'engage à abolir Santé Québec, affirmant qu'il y a 900 personnes de plus qui gèrent la santé sans offrir de services. Selon Radio-Canada."
     },
     {
-      "sujet": "Stellantis vend usine Brampton",
-      "fait": "Stellantis a signé un protocole d'entente avec Roshel, fabricant canadien de véhicules blindés, pour la vente potentielle de son usine d'assemblage à Brampton, en Ontario. Selon Global News et CBC."
+      "sujet": "Pont Gordie-Howe - Trafic août 2026",
+      "fait": "Le pont international Gordie-Howe a enregistré plus de 270 000 passages au cours de son premier mois complet d'exploitation en août. Selon La Presse citant Statistique Canada."
     },
     {
-      "sujet": "Avocat pénalisé pour faux témoins IA",
-      "fait": "Un avocat du Nouveau-Mexique, Stephen Aarons, a été condamné à une amende de 5 000 $ par la Cour suprême de l'État pour avoir inclus des témoins fabriqués par IA dans un appel d'une condamnation pour meurtre. Selon The Verge et Al Jazeera."
+      "sujet": "Stellantis - Usine de Brampton",
+      "fait": "Stellantis a signé un protocole d'entente avec le fabricant canadien de véhicules blindés Roshel pour une vente potentielle de son usine d'assemblage fermée à Brampton, Ontario. Selon CBC."
     },
     {
-      "sujet": "Fin du parrainage pour réfugiés",
-      "fait": "La ministre canadienne Lena Diab a discrètement mis fin à une mesure permettant à certains réfugiés de parrainer leurs enfants ou conjoints pour un statut de résident permanent, sans explication. Selon La Presse."
+      "sujet": "Référendum sur le Downtown Event and Entertainment District",
+      "fait": "Une tentative de forcer un référendum sur le Downtown Event and Entertainment District (DEED) a été lancée officiellement mardi. Selon Global News."
     },
     {
-      "sujet": "QS augmente impôts des riches",
-      "fait": "Québec Solidaire a présenté un cadre financier visant à augmenter les impôts des 10 % les plus riches et un retour à l'équilibre en 2029-2030. Selon Radio-Canada."
+      "sujet": "Cour d'appel - Centrale au charbon du Michigan",
+      "fait": "Une cour d'appel fédérale américaine a annulé les déclarations d'urgence qui maintienaient ouverte la centrale J.H. Campbell au Michigan, jugeant que ces déclarations ne respectaient pas la loi. Selon Ars Technica."
     },
     {
-      "sujet": "Documentaire NAZA à Venise",
-      "fait": "Le documentaire NAZA sur l'utilisation présumée de systèmes militaires assistés par IA par Israël à Gaza a reçu une ovation debout de 24,5 minutes à sa première à Venise. Selon CBC."
+      "sujet": "Satellite Isar Aerospace - Première mise en orbite",
+      "fait": "La fusée Spectrum du groupe allemand Isar Aerospace a atteint l'orbite pour la première fois, livrant un lot de CubeSats en orbite terrestre basse depuis un spatioport en Norvège du Nord. Selon Ars Technica."
     },
     {
-      "sujet": "Matt Mullenweg réintégré Automattic",
-      "fait": "Matt Mullenweg a été réintégré comme PDG d'Automattic deux jours après sa mise en congé. Selon The Verge."
+      "sujet": "Mecka AI - Valorisation et financement",
+      "fait": "Mecka AI approche d'une valorisation de 500 millions de dollars dans un tour de financement dirigé par Sequoia. Selon TechCrunch."
     },
     {
-      "sujet": "Renommage des Grands Lacs",
-      "fait": "Un législateur républicain propose de renommer le lac Érié en lac Pennsylvanie, suite à l'ordre du président Trump de renommer le lac Ontario en lac America. Selon CBC."
+      "sujet": "Train en France - Déraillement en Normandie",
+      "fait": "Un train de passagers a déraillé en Normandie sur la ligne Rouen-Caen, blessant au moins 44 personnes parmi les 180 passagers à bord. Selon BBC World."
     },
     {
-      "sujet": "Conciliation Montréal-cols bleus",
-      "fait": "La Ville de Montréal et le Syndicat des cols bleus entrent en conciliation pour éviter une grève pendant le Championnat du monde de cyclisme sur route. Selon La Presse."
+      "sujet": "Arabie Saoudite - Pipeline endommagé par drones",
+      "fait": "L'Arabie Saoudite affirme que son pipeline Est-Ouest a été endommagé par des drones lancés depuis l'Irak ; l'Irak a condamné l'attaque et limogé un commandant militaire. Selon Al Jazeera."
     },
     {
-      "sujet": "Fin épidémie cyclospora États-Unis",
-      "fait": "La FDA a déclaré la fin de la plus grande épidémie de cyclospora de l'histoire américaine qui a affecté 21 États. Selon CBC World."
+      "sujet": "Enquête indépendante - Blessures liées au vaccin COVID",
+      "fait": "Un député conservateur a tenu des audiences indépendantes à Ottawa cette semaine où des témoins ont partagé des récits personnels de blessures liées aux vaccins. Selon CBC."
     }
   ]
 }
