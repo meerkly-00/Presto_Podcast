@@ -1,54 +1,54 @@
 {
-  "generated_at": "2026-09-12T16:00:22.074664+00:00",
+  "generated_at": "2026-09-12T18:18:14.976261+00:00",
   "window_hours": 8,
   "faits": [
     {
-      "sujet": "Régulation de l'IA et sécurité",
-      "fait": "Dario Amodei, PDG d'Anthropic, appelle à ralentir le développement de l'IA en raison des risques de dommages mondiaux graves. Selon BBC World et TechCrunch, il préconise de « cadencer la frontière » du développement."
+      "sujet": "IA - ralentissement du développement",
+      "fait": "Dario Amodei, PDG d'Anthropic, propose un plan en trois étapes pour « ralentir la frontière » du développement de l'IA, incluant l'accès des évaluateurs externes à ses modèles. Selon The Verge et BBC World, cette initiative vise à laisser le temps aux entreprises de construire des garde-fous et aux régulateurs d'évaluer les modèles."
     },
     {
-      "sujet": "Sécurité des données Revolut",
-      "fait": "Revolut a confirmé une violation de données client via de fausses demandes gouvernementales. Selon TechCrunch, l'entreprise a notifié les clients affectés et alerté les autorités pertinentes."
+      "sujet": "Brèche de données - Revolut",
+      "fait": "Revolut a confirmé une violation de données clients via de fausses demandes gouvernementales. Selon TechCrunch, l'entreprise a notifié les clients affectés et alerté les autorités gouvernementales, les forces de l'ordre et les régulateurs financiers."
     },
     {
-      "sujet": "Pipeline saoudien attaqué",
-      "fait": "L'Arabie Saoudite a fermé un pipeline pétrolier clé après une attaque par drone lancée depuis l'Irak. Selon BBC World et Al Jazeera, cette attaque est attribuée à des milices soutenues par l'Iran."
+      "sujet": "Pipeline pétrolier saoudien fermé",
+      "fait": "L'Arabie saoudite a fermé un pipeline clé suite à une attaque par drone lancée depuis l'Irak. Selon BBC World et Reuters, cette attaque est attribuée à des milices soutenues par l'Iran."
     },
     {
-      "sujet": "Décision judiciaire ordonnance Trump",
-      "fait": "Un tribunal américain a rejeté l'ordonnance d'urgence de Trump maintenant ouverte une centrale à charbon du Michigan. Selon Al Jazeera, la décision affirme que le ministère de l'Énergie a dépassé ses pouvoirs."
+      "sujet": "BRICS - appel à la retenue au Moyen-Orient",
+      "fait": "Les 11 pays du groupe BRICS, réunis samedi à New Delhi, ont appelé à la « retenue maximale » dans le conflit au Moyen-Orient et exprimé leur vive préoccupation face à l'escalade des tensions. Selon Radio-Canada et Reuters, l'Iran et les Émirats arabes unis se sont entretenus en marge du sommet."
     },
     {
-      "sujet": "Politique commerciale Canada-États-Unis",
-      "fait": "Trump a exprimé l'optimisme concernant la résolution d'un différend commercial avec le Canada et minimisé la perspective de quitter l'ACEUM. Selon National Post, il anticipe un accord « assez rapidement »."
+      "sujet": "Accord commercial Canada-États-Unis",
+      "fait": "Donald Trump a déclaré que l'accord commercial entre le Canada et les États-Unis pourrait être conclu « assez rapidement » et a minimisé la perspective de quitter l'ACEUM. Selon National Post et Radio-Canada, Trump a toutefois répété que le Canada maltraite les agriculteurs américains."
     },
     {
-      "sujet": "Déréglementation des centres de données IA",
-      "fait": "L'administration Trump affaiblit les réglementations environnementales pour accélérer la construction de centres de données IA. Selon The Verge, d'anciens responsables de l'EPA alertent sur les risques sanitaires pour les Américains."
+      "sujet": "Investissement au Canada - sommet",
+      "fait": "Mark Carney présentera le programme d'investissement canadien lors d'un sommet lundi et mardi à Toronto, avec des centaines d'investisseurs mondiaux et domestiques attendus. Selon Radio-Canada et Global News, ce premier sommet national d'investissement du Canada vise à présenter le pays comme « ouvert aux affaires »."
     },
     {
-      "sujet": "Déclaration BRICS Moyen-Orient",
-      "fait": "Les pays du BRICS adoptent une déclaration conjointe exhortant à la « retenue maximale » au Moyen-Orient. Selon Reuters et Le Devoir, l'Iran et les Émirats arabes unis soutiennent ce texte."
+      "sujet": "Trump - irlande unie",
+      "fait": "Donald Trump a déclaré lors d'une visite en Irlande qu'il aimerait voir la Irlande du Nord, contrôlée par la Grande-Bretagne, s'unifier avec la République d'Irlande. Selon BBC World et CBC World, cette déclaration a provoqué un rejet rapide des unionistes pro-britanniques."
     },
     {
-      "sujet": "Frappes russes en Ukraine",
-      "fait": "Des frappes russes ont tué trois civils et blessé plusieurs autres en Ukraine après l'avertissement de Poutine aux dirigeants européens. Selon CBC World, ce dernier met en garde contre l'envoi de troupes européennes."
+      "sujet": "Grève des chemins de fer français",
+      "fait": "Les autorités françaises enquêtent pour déterminer si un acte malveillant a causé le déraillement d'un train de passagers vendredi. Selon BBC World, un fragment de rail a été trouvé sur les voies après l'accident qui a fait 44 blessés."
     },
     {
-      "sujet": "Accusations de surveillance LG",
-      "fait": "LG répond aux allégations d'espionnage de ses téléviseurs en affirmant que les appareils ne « n'enregistrent ou ne transmettent pas continuellement les conversations ». Selon The Verge, des chercheurs en sécurité avaient documenté des collectes de données extensives."
+      "sujet": "Réglementation environnementale - centres de données IA",
+      "fait": "L'administrateur de l'EPA américaine Lee Zeldin a pour objectif de faire des États-Unis « la capitale mondiale de l'IA » par la dérégulation. Selon The Verge, l'administration Trump a annulé des dizaines de règles environnementales pour accélérer la construction de centres de données IA."
     },
     {
-      "sujet": "Politique québécoise sécurité publique",
-      "fait": "La CAQ veut ajouter 300 policiers et accélérer le traitement judiciaire en ajoutant des procureurs. Selon Radio-Canada, ces mesures sont présentées lors de la campagne électorale."
+      "sujet": "Hongrie - adoption par couples homosexuels",
+      "fait": "Le Premier ministre hongrois Magyar a annoncé son intention d'abroger la restriction de l'ère Orbán interdisant l'adoption par les couples homosexuels. Selon Reuters, cette mesure représente un changement significatif dans la politique hongroise."
     },
     {
-      "sujet": "Investissements au Canada",
-      "fait": "Le premier ministre Mark Carney organisera un sommet national d'investissement à Toronto la semaine prochaine pour attirer des investisseurs mondiaux et nationaux. Selon Global News, il s'agit du premier sommet national de ce type."
+      "sujet": "Boycott canadien de produits américains",
+      "fait": "Le boycott canadien de produits américains pousse les épiciers à s'adapter et à explorer de nouvelles sources d'approvisionnement. Selon Reuters, cette situation reflète les tensions commerciales entre le Canada et les États-Unis."
     },
     {
-      "sujet": "iPhone 18 Pro précommandes",
-      "fait": "Les précommandes pour l'iPhone 18 Pro et Pro Max sont officiellement ouvertes, avec des sorties prévues le 18 septembre. Selon The Verge, les prix commencent à 1 199 $ pour le modèle 256 Go."
+      "sujet": "Légalisation de l'aide médicale à mourir pour enfants",
+      "fait": "Le Canada examine l'expansion de l'aide médicale à mourir aux enfants atteints de conditions terminales. Selon Global News, Childhood Cancer Canada demande 15 millions de dollars au gouvernement fédéral, citant une augmentation de 40 % de la demande pour ses programmes d'aide financière en deux ans."
     }
   ]
 }
