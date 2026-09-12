@@ -1,50 +1,54 @@
 {
-  "generated_at": "2026-09-11T23:53:36.678553+00:00",
+  "generated_at": "2026-09-12T16:00:22.074664+00:00",
   "window_hours": 8,
   "faits": [
     {
-      "sujet": "Élections québécoises - Programme financier QS",
-      "fait": "Québec solidaire augmenterait les impôts des « 10 % les plus riches » et vise un retour à l'équilibre en 2029-2030. Selon Radio-Canada."
+      "sujet": "Régulation de l'IA et sécurité",
+      "fait": "Dario Amodei, PDG d'Anthropic, appelle à ralentir le développement de l'IA en raison des risques de dommages mondiaux graves. Selon BBC World et TechCrunch, il préconise de « cadencer la frontière » du développement."
     },
     {
-      "sujet": "Élections québécoises - PSPP et Santé Québec",
-      "fait": "Le Parti Québécois s'engage à abolir Santé Québec, affirmant qu'il y a 900 personnes de plus qui gèrent la santé sans offrir de services. Selon Radio-Canada."
+      "sujet": "Sécurité des données Revolut",
+      "fait": "Revolut a confirmé une violation de données client via de fausses demandes gouvernementales. Selon TechCrunch, l'entreprise a notifié les clients affectés et alerté les autorités pertinentes."
     },
     {
-      "sujet": "Pont Gordie-Howe - Trafic août 2026",
-      "fait": "Le pont international Gordie-Howe a enregistré plus de 270 000 passages au cours de son premier mois complet d'exploitation en août. Selon La Presse citant Statistique Canada."
+      "sujet": "Pipeline saoudien attaqué",
+      "fait": "L'Arabie Saoudite a fermé un pipeline pétrolier clé après une attaque par drone lancée depuis l'Irak. Selon BBC World et Al Jazeera, cette attaque est attribuée à des milices soutenues par l'Iran."
     },
     {
-      "sujet": "Stellantis - Usine de Brampton",
-      "fait": "Stellantis a signé un protocole d'entente avec le fabricant canadien de véhicules blindés Roshel pour une vente potentielle de son usine d'assemblage fermée à Brampton, Ontario. Selon CBC."
+      "sujet": "Décision judiciaire ordonnance Trump",
+      "fait": "Un tribunal américain a rejeté l'ordonnance d'urgence de Trump maintenant ouverte une centrale à charbon du Michigan. Selon Al Jazeera, la décision affirme que le ministère de l'Énergie a dépassé ses pouvoirs."
     },
     {
-      "sujet": "Référendum sur le Downtown Event and Entertainment District",
-      "fait": "Une tentative de forcer un référendum sur le Downtown Event and Entertainment District (DEED) a été lancée officiellement mardi. Selon Global News."
+      "sujet": "Politique commerciale Canada-États-Unis",
+      "fait": "Trump a exprimé l'optimisme concernant la résolution d'un différend commercial avec le Canada et minimisé la perspective de quitter l'ACEUM. Selon National Post, il anticipe un accord « assez rapidement »."
     },
     {
-      "sujet": "Cour d'appel - Centrale au charbon du Michigan",
-      "fait": "Une cour d'appel fédérale américaine a annulé les déclarations d'urgence qui maintienaient ouverte la centrale J.H. Campbell au Michigan, jugeant que ces déclarations ne respectaient pas la loi. Selon Ars Technica."
+      "sujet": "Déréglementation des centres de données IA",
+      "fait": "L'administration Trump affaiblit les réglementations environnementales pour accélérer la construction de centres de données IA. Selon The Verge, d'anciens responsables de l'EPA alertent sur les risques sanitaires pour les Américains."
     },
     {
-      "sujet": "Satellite Isar Aerospace - Première mise en orbite",
-      "fait": "La fusée Spectrum du groupe allemand Isar Aerospace a atteint l'orbite pour la première fois, livrant un lot de CubeSats en orbite terrestre basse depuis un spatioport en Norvège du Nord. Selon Ars Technica."
+      "sujet": "Déclaration BRICS Moyen-Orient",
+      "fait": "Les pays du BRICS adoptent une déclaration conjointe exhortant à la « retenue maximale » au Moyen-Orient. Selon Reuters et Le Devoir, l'Iran et les Émirats arabes unis soutiennent ce texte."
     },
     {
-      "sujet": "Mecka AI - Valorisation et financement",
-      "fait": "Mecka AI approche d'une valorisation de 500 millions de dollars dans un tour de financement dirigé par Sequoia. Selon TechCrunch."
+      "sujet": "Frappes russes en Ukraine",
+      "fait": "Des frappes russes ont tué trois civils et blessé plusieurs autres en Ukraine après l'avertissement de Poutine aux dirigeants européens. Selon CBC World, ce dernier met en garde contre l'envoi de troupes européennes."
     },
     {
-      "sujet": "Train en France - Déraillement en Normandie",
-      "fait": "Un train de passagers a déraillé en Normandie sur la ligne Rouen-Caen, blessant au moins 44 personnes parmi les 180 passagers à bord. Selon BBC World."
+      "sujet": "Accusations de surveillance LG",
+      "fait": "LG répond aux allégations d'espionnage de ses téléviseurs en affirmant que les appareils ne « n'enregistrent ou ne transmettent pas continuellement les conversations ». Selon The Verge, des chercheurs en sécurité avaient documenté des collectes de données extensives."
     },
     {
-      "sujet": "Arabie Saoudite - Pipeline endommagé par drones",
-      "fait": "L'Arabie Saoudite affirme que son pipeline Est-Ouest a été endommagé par des drones lancés depuis l'Irak ; l'Irak a condamné l'attaque et limogé un commandant militaire. Selon Al Jazeera."
+      "sujet": "Politique québécoise sécurité publique",
+      "fait": "La CAQ veut ajouter 300 policiers et accélérer le traitement judiciaire en ajoutant des procureurs. Selon Radio-Canada, ces mesures sont présentées lors de la campagne électorale."
     },
     {
-      "sujet": "Enquête indépendante - Blessures liées au vaccin COVID",
-      "fait": "Un député conservateur a tenu des audiences indépendantes à Ottawa cette semaine où des témoins ont partagé des récits personnels de blessures liées aux vaccins. Selon CBC."
+      "sujet": "Investissements au Canada",
+      "fait": "Le premier ministre Mark Carney organisera un sommet national d'investissement à Toronto la semaine prochaine pour attirer des investisseurs mondiaux et nationaux. Selon Global News, il s'agit du premier sommet national de ce type."
+    },
+    {
+      "sujet": "iPhone 18 Pro précommandes",
+      "fait": "Les précommandes pour l'iPhone 18 Pro et Pro Max sont officiellement ouvertes, avec des sorties prévues le 18 septembre. Selon The Verge, les prix commencent à 1 199 $ pour le modèle 256 Go."
     }
   ]
 }
