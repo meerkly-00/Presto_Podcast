@@ -1,0 +1,83 @@
+```xml
+<script>
+  <intro>Bonjour, on est le samedi douze septembre deux mille vingt-six. Voici votre Presto en environ quinze minutes. Au menu : l'escalade au Moyen-Orient avec les Houthis et l'Arabie saoudite, les tensions commerciales entre le Canada et les États-Unis, la campagne électorale québécoise, les marchés sous tension avant la décision de la Réserve fédérale, la tech avec le retour de Matt Mullenweg et la controverse OpenAI, et un peu de sport avec les Blue Jays et l'Omnium des États-Unis.</intro>
+
+  <chapitre titre="International : Moyen-Orient">
+    On commence par le Moyen-Orient, où la situation continue de s'aggraver. Selon CBC, les rebelles Houthis du Yémen, appuyés par l'Iran, ont capturé une île stratégique à l'entrée sud de la mer Rouge vendredi, ouvrant un nouveau front dans le conflit avec l'Iran et menaçant davantage les exportations pétrolières de l'Arabie saoudite.
+
+    En réponse, selon la BBC, l'Arabie saoudite a fermé un pipeline pétrolier clé après une attaque de drone lancée depuis l'Irak. Bagdad a retiré un commandant militaire et ouvert une enquête sur cette attaque provenant d'une région frontalière avec l'Iran.
+
+    Toujours selon l'Associated Press, les Houthis ont aussi multiplié d'autres actions dans la région ce vendredi, dans ce que l'agence décrit comme une intensification générale des conflits au Moyen-Orient.
+
+    Cette escalade a des répercussions économiques directes. Selon l'Associated Press, les prix de l'essence continuent de grimper à des niveaux jugés douloureux par les consommateurs américains, sans qu'il n'y ait de répit du côté de l'inflation liée aux carburants. CBC rappelle, dans un article explicatif, que les Houthis ont commencé à attirer l'attention internationale il y a près de trois ans en attaquant des navires au large du Yémen, et que leur influence dans la région n'a fait que croître depuis.
+
+    Par ailleurs, selon l'Associated Press, les dirigeants des BRICS se sont réunis à New Delhi cette semaine, dans un contexte où les guerres et les rivalités internes mettent à l'épreuve ce bloc élargi.
+  </chapitre>
+
+  <chapitre titre="Politique canadienne et actualité québécoise">
+    Au Canada, le dossier commercial avec les États-Unis continue d'évoluer. Selon BNN Bloomberg, le premier ministre Mark Carney a affirmé qu'il n'y aurait pas de nouvelles mesures de rétorsion contre les États-Unis pour l'instant.
+
+    À Banff, où se tenait la retraite du cabinet fédéral, le premier ministre a aussi rencontré des représentants du mouvement qui milite pour le maintien de l'Alberta dans la fédération. Selon CBC, le chef de ce groupe a décrit Mark Carney comme une présence calme et rassurante pour les Albertains.
+
+    Du côté commercial toujours, Reuters rapporte que Donald Trump a dit qu'il serait à l'aise avec l'idée que des entreprises chinoises construisent des voitures aux États-Unis. En parallèle, selon CBC, un juge de la Colombie-Britannique a rejeté une affaire de trafic de drogue, concluant que des agents fédéraux américains avaient enfreint la loi et violé la souveraineté canadienne en faisant pression sur un Canadien pour qu'il participe à un stratagème de blanchiment d'argent, tout en cachant leurs démarches à la Gendarmerie royale du Canada.
+
+    Ailleurs au pays, selon CBC, le constructeur automobile Stellantis a signé une entente de principe avec le fabricant canadien de véhicules blindés Roshel en vue d'une vente potentielle de son usine d'assemblage inactive de Brampton, en Ontario.
+
+    Selon La Presse, une panne informatique a ralenti vendredi l'arrivée des voyageurs dans onze aéroports internationaux canadiens, allongeant considérablement les temps d'attente aux bornes d'inspection.
+
+    Au Québec, la campagne électorale provinciale se poursuit à l'approche du scrutin du cinq octobre. Selon Radio-Canada, la cheffe de la Coalition avenir Québec, Christine Fréchette, continue d'éviter de se positionner clairement entre le camp fédéraliste et le camp souverainiste, répétant vendredi qu'elle se considère autonomiste.
+
+    Toujours selon Radio-Canada, le cadre financier de Québec solidaire a été passé au crible dans le cadre d'un exercice de vérification des faits. Le parti propose une série de promesses financées, selon sa formule, en allant chercher l'argent là où il se trouve.
+
+    Enfin, deux accidents mortels ont marqué l'actualité québécoise. Selon La Presse, une femme dans la soixantaine dix a été happée par un véhicule dans un camping de Scott, en Beauce, vendredi midi, et a succombé à ses blessures. Toujours selon La Presse, un cycliste est mort après avoir été happé par une voiture à Saint-Séverin, en Mauricie, vendredi après-midi.
+  </chapitre>
+
+  <chapitre titre="Économie et marchés">
+    On passe à l'économie, où l'attention reste tournée vers l'inflation et les taux d'intérêt aux États-Unis. Selon le Wall Street Journal, les données d'inflation publiées cette semaine sont ressorties plus chaudes que prévu, ce qui a renforcé les probabilités d'une hausse de taux de la part de la Réserve fédérale. Toujours selon le Wall Street Journal, l'indice S&P 500 a néanmoins terminé en hausse, cette donnée ayant paradoxalement rassuré certains investisseurs sur la trajectoire économique.
+
+    Selon Reuters, l'argumentaire en faveur d'une hausse de taux se renforce alors que l'inflation ne montre pas de signe de refroidissement. Le Wall Street Journal souligne d'ailleurs que la Réserve fédérale semble prête pour une hausse de taux, mais que dans son histoire, elle s'arrête rarement à une seule hausse.
+
+    Cette perspective inquiète les marchés obligataires. Selon Bloomberg, la hausse des rendements obligataires américains pousse les actions américaines vers une zone de correction. The Economist ajoute que cette flambée des rendements obligataires s'explique par une combinaison d'inflation persistante, de demande accrue de capitaux de la part des entreprises et de dettes publiques élevées, une situation qui touche non seulement les détenteurs d'obligations, mais l'ensemble de l'économie.
+
+    Du côté des matières premières, Reuters rapporte que la Maison-Blanche envisage d'utiliser la loi sur la production de défense pour élargir la capacité de raffinage pétrolier des États-Unis, selon des sources citées par l'agence.
+
+    En entreprise, Bloomberg rapporte que les actions de Tesla ont connu un été difficile après l'entrée en bourse de SpaceX et une déroute de ses résultats trimestriels. Toujours selon Bloomberg, le fondateur de la firme Citrini, connu pour avoir secoué les marchés, a vendu son entreprise et prévoit lancer un nouveau fonds.
+
+    Sur le plan des paris financiers, le Wall Street Journal rapporte, en exclusivité, qu'un groupe de comptes sur la plateforme Polymarket a remporté d'importants gains sur des paris concernant des entreprises auditées par KPMG. Et selon Bloomberg, la plateforme de paris Kalshi cherche à prendre de l'expansion dans les marchés boursiers et les marchés de matières premières américains.
+
+    Enfin, le Financial Times rapporte que la banque JPMorgan a cessé de prêter à la firme Situational Awareness après des pertes liées à l'intelligence artificielle, sans que les détails financiers précis de ces pertes ne soient précisés par la banque.
+  </chapitre>
+
+  <chapitre titre="Tech">
+    Un mot sur la tech, où l'entreprise Automattic a connu un revirement rapide. Selon The Verge, Matt Mullenweg a repris son poste de chef de la direction d'Automattic, deux jours seulement après avoir été placé en congé payé. La directrice générale de WordPress, Mary Hubbard, a confirmé son retour, disant avoir confiance que le soutien du cofondateur du projet WordPress à l'entreprise demeurera fort.
+
+    Toujours en tech, la controverse entre OpenAI et une partie de la communauté mathématique continue de s'intensifier. Selon TechCrunch, vingt-cinq mathématiciens de haut niveau ont signé une lettre ouverte affirmant que les laboratoires d'intelligence artificielle menacent leur travail intellectuel. The Economist précise que parmi les signataires figurent vingt-quatre lauréats de la médaille Fields, qui expriment leur indignation face aux méthodes d'OpenAI.
+
+    Du côté du financement, TechCrunch rapporte que la jeune pousse Mecka AI, spécialisée dans les données d'entraînement pour robots, s'approche d'une valorisation de cinq cents millions de dollars dans le cadre d'une ronde de financement menée par Sequoia. Toujours selon TechCrunch, la firme de capital de risque Khosla Ventures ouvrira un bureau à New York cet automne, son premier en dehors de Sand Hill Road en Californie.
+
+    Un cas judiciaire retient aussi l'attention. Selon The Verge, la Cour suprême du Nouveau-Mexique a imposé une amende de cinq mille dollars à un avocat pour avoir inclus des témoins fabriqués par l'intelligence artificielle dans un appel concernant une condamnation pour meurtre. La juge C. Shannon Bacon s'est dite étonnée que l'avocat n'ait pas été conscient des risques associés à l'utilisation de l'intelligence artificielle.
+
+    En matière de politique énergétique, Ars Technica rapporte qu'un juge a rejeté les prolongations forcées imposées par l'administration Trump à des centrales au charbon, une décision unanime d'un tribunal qui pourrait s'appliquer à toutes les fermetures de centrales au charbon bloquées par le département de l'Énergie américain.
+
+    Enfin, dans le secteur spatial, Ars Technica souligne que certaines entreprises de satellites continuent de vouloir des services de lancement plus spécialisés, alors que la fusée Spectrum du fournisseur allemand Isar Aerospace a atteint l'orbite pour la première fois depuis un site de lancement du nord de la Norvège.
+  </chapitre>
+
+  <chapitre titre="Sport">
+    Rapidement en sport. Selon Sportsnet, les Blue Jays de Toronto ont subi une quatrième défaite en cinq matchs, cette fois contre les Orioles de Baltimore, par un score de sept à quatre. Le lanceur Max Scherzer n'est pas parvenu à contenir l'attaque des Orioles, dans un match marqué par les retrouvailles avec son ancien coéquipier Chris Bassitt et par des réactions mitigées envers Vladimir Guerrero fils. Sportsnet ajoute que les Guardians de Cleveland, eux, poursuivent leur lancée dans la course aux séries éliminatoires de la Ligue américaine, aux dépens des Blue Jays et des Rangers.
+
+    En tennis, à l'Omnium des États-Unis, selon Radio-Canada, Alexander Zverev et Ben Shelton se donnent rendez-vous en finale à New York. Zverev s'est imposé contre Karen Khachanov, tandis que Shelton a vaincu Frances Tiafoe. Selon Al Jazeera, Shelton tentera dimanche de devenir le premier Américain à remporter un titre du Grand Chelem depuis deux mille trois.
+
+    En athlétisme, toujours selon Al Jazeera, le champion olympique et mondial du saut à la perche Armand Duplantis a livré une performance sans faille pour remporter la victoire au Championnat ultime d'athlétisme mondial.
+
+    Enfin, en hockey, selon Global News, le gardien de but Connor Ingram a annoncé sa retraite de la Ligue nationale.
+  </chapitre>
+
+  <chapitre titre="Vingt-cinq ans du onze septembre">
+    Un dernier mot sur les commémorations qui ont marqué les États-Unis cette semaine. Selon Radio-Canada, les proches des victimes des attentats du onze septembre ont consacré la matinée de vendredi à la lecture solennelle des noms des près de trois mille personnes décédées, à l'occasion du vingt-cinquième anniversaire des attaques.
+
+    Selon Global News, la veuve d'un Canadien tué dans les attentats, Maureen Basnicki, souhaite que cette date soit redéfinie pour célébrer aussi les militaires et intervenants qui ont appuyé les victimes dans les suites de l'attaque.
+  </chapitre>
+
+  <outro>Voilà pour ce Presto du samedi douze septembre deux mille vingt-six. Si ce briefing vous est utile, le meilleur coup de main que vous pouvez nous donner, c'est de le partager à une personne qui aime rester informée. Et selon votre plateforme : un abonnement sur Spotify ou Apple Podcasts, un pouce bleu et un abonnement sur YouTube, ça prend deux secondes et ça aide vraiment Presto à grandir. Sur ce, bonne journée, et à demain.</outro>
+</script>
+```
