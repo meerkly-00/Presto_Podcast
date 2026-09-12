@@ -1,0 +1,14 @@
+{
+  "date": "2026-09-12",
+  "kind": "poll",
+  "text": "Ce matin → Le patron d'Anthropic appelle à ralentir le développement de l'IA.\n\nNouveau : il propose de donner aux évaluateurs externes accès à ses modèles pour vérifier les mesures de sécurité, et plaide pour\n\nFaut-il ralentir le développement de l'IA pour améliorer la sécurité?",
+  "poll": {
+    "options": [
+      "Oui, c'est nécessaire",
+      "Non, cela freine",
+      "Oui, mais graduellement",
+      "Besoin de plus d'infos"
+    ],
+    "duration_minutes": 1440
+  }
+}
