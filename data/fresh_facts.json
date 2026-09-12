@@ -1,54 +1,54 @@
 {
-  "generated_at": "2026-09-12T18:18:14.976261+00:00",
+  "generated_at": "2026-09-12T21:14:08.512167+00:00",
   "window_hours": 8,
   "faits": [
     {
-      "sujet": "IA - ralentissement du développement",
-      "fait": "Dario Amodei, PDG d'Anthropic, propose un plan en trois étapes pour « ralentir la frontière » du développement de l'IA, incluant l'accès des évaluateurs externes à ses modèles. Selon The Verge et BBC World, cette initiative vise à laisser le temps aux entreprises de construire des garde-fous et aux régulateurs d'évaluer les modèles."
+      "sujet": "Réunion Carney-Burnham",
+      "fait": "Le Premier ministre canadien Mark Carney rencontrera pour la première fois le Premier ministre britannique Andy Burnham lors d'une visite de trois jours en Europe axée sur la défense, l'énergie et les liens économiques. Selon Global News."
     },
     {
-      "sujet": "Brèche de données - Revolut",
-      "fait": "Revolut a confirmé une violation de données clients via de fausses demandes gouvernementales. Selon TechCrunch, l'entreprise a notifié les clients affectés et alerté les autorités gouvernementales, les forces de l'ordre et les régulateurs financiers."
+      "sujet": "Transport gratuit Québec",
+      "fait": "Québec solidaire propose le transport en commun gratuit pour les jeunes et les aînés, avec un crédit d'impôt de 20% pour les autres utilisateurs. D'après Radio-Canada."
     },
     {
-      "sujet": "Pipeline pétrolier saoudien fermé",
-      "fait": "L'Arabie saoudite a fermé un pipeline clé suite à une attaque par drone lancée depuis l'Irak. Selon BBC World et Reuters, cette attaque est attribuée à des milices soutenues par l'Iran."
+      "sujet": "Épidémie Ébola RDC",
+      "fait": "Le virus Ébola a atteint une septième province en République démocratique du Congo après qu'un homme infecté a voyagé à travers le Rwanda et l'Ouganda. Selon Al Jazeera."
     },
     {
-      "sujet": "BRICS - appel à la retenue au Moyen-Orient",
-      "fait": "Les 11 pays du groupe BRICS, réunis samedi à New Delhi, ont appelé à la « retenue maximale » dans le conflit au Moyen-Orient et exprimé leur vive préoccupation face à l'escalade des tensions. Selon Radio-Canada et Reuters, l'Iran et les Émirats arabes unis se sont entretenus en marge du sommet."
+      "sujet": "Dons à Reform UK",
+      "fait": "Un deuxième milliardaire crypto a fait un don record de 49 millions de dollars à Reform UK, portant le total des dons promis depuis vendredi à 98 millions de dollars. D'après Al Jazeera."
+    },
+    {
+      "sujet": "Incendie maison de retraite Chili",
+      "fait": "Un incendie dans une maison de retraite au Chili a tué 16 résidents âgés. L'établissement avait fait face à des amendes et à des procédures d'exécution pour violation de réglementations depuis 2019. Selon Al Jazeera et BBC World."
+    },
+    {
+      "sujet": "IPO OpenAI retardée",
+      "fait": "Le PDG d'OpenAI Sam Altman a déclaré qu'il serait mal avisé pour l'entreprise de devenir publique en 2026, bien qu'OpenAI ait déposé confidentiellement une demande d'IPO. D'après TechCrunch."
+    },
+    {
+      "sujet": "Ralentissement développement IA",
+      "fait": "Le PDG d'Anthropic Dario Amodei propose un plan en trois étapes pour ralentir le développement de l'IA, incluant l'accès des évaluateurs externes comme METR aux modèles de l'entreprise. Selon BBC World et The Verge."
+    },
+    {
+      "sujet": "Retour Céline Dion Paris",
+      "fait": "Céline Dion a fait son retour sur scène samedi soir à la Plenitude Arena de Nanterre avec environ 30 000 spectateurs, après six ans d'absence due à un trouble neurologique rare. D'après Radio-Canada et National Post."
+    },
+    {
+      "sujet": "Tensions commerciales Canada-États-Unis",
+      "fait": "Des épiciers canadiens explorent de nouvelles sources d'approvisionnement en réponse à un boycott des produits américains par les consommateurs. Selon Reuters."
+    },
+    {
+      "sujet": "StarCraft jeu vidéo 2030",
+      "fait": "Blizzard a annoncé que StarCraft reviendra en 2030 sous la forme d'un jeu de tir en monde ouvert, plutôt qu'une stratégie en temps réel. D'après The Verge."
     },
     {
       "sujet": "Accord commercial Canada-États-Unis",
-      "fait": "Donald Trump a déclaré que l'accord commercial entre le Canada et les États-Unis pourrait être conclu « assez rapidement » et a minimisé la perspective de quitter l'ACEUM. Selon National Post et Radio-Canada, Trump a toutefois répété que le Canada maltraite les agriculteurs américains."
+      "fait": "Le président Trump a exprimé l'optimisme qu'un accord commercial avec le Canada pourrait intervenir assez rapidement et a minimisé la perspective de quitter l'accord commercial CUSMA. Selon National Post."
     },
     {
-      "sujet": "Investissement au Canada - sommet",
-      "fait": "Mark Carney présentera le programme d'investissement canadien lors d'un sommet lundi et mardi à Toronto, avec des centaines d'investisseurs mondiaux et domestiques attendus. Selon Radio-Canada et Global News, ce premier sommet national d'investissement du Canada vise à présenter le pays comme « ouvert aux affaires »."
-    },
-    {
-      "sujet": "Trump - irlande unie",
-      "fait": "Donald Trump a déclaré lors d'une visite en Irlande qu'il aimerait voir la Irlande du Nord, contrôlée par la Grande-Bretagne, s'unifier avec la République d'Irlande. Selon BBC World et CBC World, cette déclaration a provoqué un rejet rapide des unionistes pro-britanniques."
-    },
-    {
-      "sujet": "Grève des chemins de fer français",
-      "fait": "Les autorités françaises enquêtent pour déterminer si un acte malveillant a causé le déraillement d'un train de passagers vendredi. Selon BBC World, un fragment de rail a été trouvé sur les voies après l'accident qui a fait 44 blessés."
-    },
-    {
-      "sujet": "Réglementation environnementale - centres de données IA",
-      "fait": "L'administrateur de l'EPA américaine Lee Zeldin a pour objectif de faire des États-Unis « la capitale mondiale de l'IA » par la dérégulation. Selon The Verge, l'administration Trump a annulé des dizaines de règles environnementales pour accélérer la construction de centres de données IA."
-    },
-    {
-      "sujet": "Hongrie - adoption par couples homosexuels",
-      "fait": "Le Premier ministre hongrois Magyar a annoncé son intention d'abroger la restriction de l'ère Orbán interdisant l'adoption par les couples homosexuels. Selon Reuters, cette mesure représente un changement significatif dans la politique hongroise."
-    },
-    {
-      "sujet": "Boycott canadien de produits américains",
-      "fait": "Le boycott canadien de produits américains pousse les épiciers à s'adapter et à explorer de nouvelles sources d'approvisionnement. Selon Reuters, cette situation reflète les tensions commerciales entre le Canada et les États-Unis."
-    },
-    {
-      "sujet": "Légalisation de l'aide médicale à mourir pour enfants",
-      "fait": "Le Canada examine l'expansion de l'aide médicale à mourir aux enfants atteints de conditions terminales. Selon Global News, Childhood Cancer Canada demande 15 millions de dollars au gouvernement fédéral, citant une augmentation de 40 % de la demande pour ses programmes d'aide financière en deux ans."
+      "sujet": "Manifestations Allemagne extrême-droite",
+      "fait": "Des dizaines de milliers de personnes ont manifesté en Allemagne contre la montée en puissance de l'AfD, un parti antimigrants et prorusse. D'après Le Devoir."
     }
   ]
 }
