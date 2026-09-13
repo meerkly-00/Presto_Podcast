@@ -1,0 +1,83 @@
+```xml
+<script>
+  <intro>Bonjour, on est le dimanche treize septembre deux mille vingt-six. Voici votre Presto en environ quinze minutes. Au menu : le Moyen-Orient et le pétrole, la visite mouvementée de Donald Trump en Irlande, l'économie sous pression, l'inquiétude grandissante dans le milieu de l'intelligence artificielle, et un dernier mot sur le sport avec le décès du boxeur George Chuvalo.</intro>
+
+  <chapitre titre="International">
+    On commence par le Moyen-Orient, où la situation continue de se détériorer. Selon Reuters, un nouveau rapport fait état d'une attaque contre un navire dans le détroit d'Ormuz, ce qui alimente les craintes pour l'approvisionnement en pétrole dans la région. Selon l'Associated Press, l'Irak affirme qu'une attaque contre un pipeline saoudien serait partie de son territoire, et le gouvernement irakien s'active pour contenir les répercussions de cet incident impliquant des milices appuyées par l'Iran.
+
+    Au Yémen, l'avancée des rebelles Houthis, soutenus par l'Iran, continue de provoquer un exode. Selon Al Jazeera, environ mille quatre cents Yéménites ont fui vers Djibouti en l'espace de vingt-quatre heures, alors que les Houthis resserrent leur emprise sur le détroit de Bab el-Mandeb. Selon l'Associated Press, des gens fuyant l'avancée des rebelles décrivent une situation de panique.
+
+    Du côté des marchés de l'énergie, Bloomberg rapporte que les prix du pétrole envoient des signaux inquiétants pour l'hiver à venir, avec des pressions à la hausse sur les taux d'intérêt. Bloomberg note aussi que le nombre de navires redirigés en raison du blocus américain contre l'Iran a atteint la centaine.
+
+    En Ukraine, Selon CBC, des frappes russes ont tué trois civils et blessé des dizaines d'autres samedi, après que le président russe Vladimir Poutine ait averti que l'envoi de troupes européennes en Ukraine équivaudrait à un conflit direct avec la Russie. Toujours selon CBC, plus de trois cents Russes demeurent portés disparus depuis l'incursion ukrainienne de deux mille vingt-quatre dans la région de Koursk, sans que le chiffre réel soit connu avec certitude.
+
+    Ailleurs, le sommet des BRICS se poursuit en Inde. Selon l'Associated Press, les dirigeants des pays membres ont exprimé leur inquiétude au sujet du Moyen-Orient et ont condamné les sanctions unilatérales. Selon Reuters, l'Iran et les Émirats arabes unis appuient une déclaration commune des BRICS appelant à la retenue dans le conflit.
+
+    En Irlande, la visite du président américain Donald Trump a créé la surprise. Selon Le Devoir, monsieur Trump s'est dit favorable à une Irlande unifiée lors d'un point de presse avec le premier ministre irlandais Micheal Martin à Dublin. En anglais, je le cite : "This will happen someday." Fin de citation. Selon CBC, cette sortie a suscité un rejet rapide de la part des unionistes pro-britanniques d'Irlande du Nord. Selon la BBC, certains observateurs estiment que ce commentaire visait davantage un auditoire aux États-Unis qu'en Irlande même.
+
+    En Allemagne, selon Le Devoir, des dizaines de milliers de personnes ont manifesté contre la montée de l'extrême droite, en particulier contre le parti antimigrants et prorusse AfD. En Suède, selon CBC, les électeurs se rendent aux urnes aujourd'hui pour un scrutin qui pourrait faire entrer un parti d'extrême droite au gouvernement pour la première fois de l'histoire du pays, ou au contraire ramener la Suède vers le libéralisme qui l'a longtemps caractérisée.
+
+    En Ouganda, Selon Al Jazeera, le roi du royaume de Tooro, âgé de trente-quatre ans, a été inhumé au milieu d'une dispute de succession peu commune, un fils dont l'identité est contestée réclamant le trône.
+
+    En Indonésie, selon Radio-Canada et Al Jazeera, un traversier a fait naufrage entre Java oriental et le Kalimantan du Sud, sur l'île de Bornéo. Une personne est morte et cent deux personnes ont été secourues, alors que les recherches se poursuivent pour retrouver environ cent quarante personnes toujours portées disparues sur les deux cent quarante-trois qui étaient à bord.
+
+    En Croatie, selon Le Devoir, les autorités ont activé un système d'alerte sur l'île de Brač, où un feu de forêt a brûlé environ trois mille hectares depuis jeudi soir. Les pompiers, appuyés par des avions bombardiers d'eau Canadair, tentent de protéger la localité de Milna, qui compte près de mille habitants, face à des vents forts qui changent de direction.
+
+    Enfin, en Afrique, selon Al Jazeera, la flamme olympique est arrivée au Sénégal, une première historique puisqu'il s'agit du tout premier événement olympique organisé sur le continent africain.
+  </chapitre>
+
+  <chapitre titre="Politique canadienne et actualité québécoise">
+    Au Canada, le dossier commercial avec les États-Unis semble s'orienter vers un dénouement. Selon le National Post, Donald Trump s'est dit optimiste quant à la conclusion d'une entente avec le Canada assez bientôt, et a minimisé la possibilité de se retirer de l'accord continental de libre-échange.
+
+    En parallèle, selon Reuters, le boycott canadien des produits américains force les épiciers à s'adapter et à explorer de nouvelles sources d'approvisionnement.
+
+    Toujours à Ottawa, selon Global News, le Canada s'apprête à co-organiser avec l'Ukraine et la Norvège une conférence internationale à Toronto consacrée au retour des enfants ukrainiens, des civils détenus et des prisonniers de guerre.
+
+    À Montréal, selon La Presse, une quarantaine de résidents du Vermont se sont rassemblés au parc Beaubien, dans Outremont, pour exprimer leur attachement au Canada et leur opposition au président Trump.
+
+    Au Québec, selon Radio-Canada, la Coalition avenir Québec promet de combattre la criminalité en ajoutant trois cents policiers et cinquante procureurs. Le ministre responsable, monsieur Fréchette, soutient que la criminalité a changé et qu'il faut doter les corps policiers de nouveaux outils.
+
+    Toujours au Québec, de nouvelles règles resserrant la revente de billets de spectacles sont entrées en vigueur. Selon Radio-Canada, l'encadrement de ce secteur, qualifié de far west par plusieurs, s'annonce difficile à appliquer.
+
+    Dans un autre registre, selon Le Devoir, quatre ans après la mort de Mahsa Amini, la diaspora iranienne de Montréal demeure divisée entre monarchistes et démocrates, une opposition qui s'est accentuée avec la guerre.
+
+    Notons aussi qu'en Ontario, selon CBC, quatre nouvelles statues d'anciens premiers ministres canadiens ont été ajoutées au projet controversé du Chemin des premiers ministres à Wilmot, une addition qui n'a pas fait l'unanimité.
+
+    Enfin, selon le National Post, l'ancien premier ministre Justin Trudeau et son ancienne conseillère Katie Telford affirment autofinancer leur nouvelle entreprise de production, qui vise à changer les perceptions du public par la narration.
+  </chapitre>
+
+  <chapitre titre="Économie et marchés">
+    On passe à l'économie, où l'attention reste concentrée sur l'inflation et les taux d'intérêt américains. Selon le Wall Street Journal, une lecture d'inflation plus ferme que prévu rapproche la Réserve fédérale d'une hausse de taux.
+
+    Bloomberg fait aussi le lien avec la flambée du pétrole, qui alimente désormais l'inflation à l'échelle mondiale, et prévient que les marchés de l'énergie envoient des signaux de crise hivernale combinés à une hausse attendue des taux d'intérêt.
+
+    Du côté des entreprises, selon Reuters, Tesla dévoilera le premier octobre la deuxième génération de son Roadster, un modèle annoncé pour la première fois en deux mille dix-sept et dont le lancement a été reporté à plusieurs reprises, selon Elon Musk.
+
+    Enfin, sur le plan géopolitique et économique, Bloomberg rapporte que l'analyste Jordan Schneider, spécialiste de la Chine, estime que la couverture médiatique américaine des relations entre les États-Unis et la Chine passe à côté d'éléments importants, sans préciser lesquels dans l'extrait disponible.
+  </chapitre>
+
+  <chapitre titre="Tech">
+    Un mot sur la tech, dominée par un débat sur le rythme de développement de l'intelligence artificielle. Selon la BBC, le chef de la direction d'Anthropic, Dario Amodei, appelle à ralentir le développement de l'IA, dans un contexte de craintes grandissantes que ces modèles puissent infliger des dommages sérieux à l'échelle mondiale. Selon TechCrunch, Dario Amodei a présenté un plan concret pour, je le cite : "pace the frontier." Fin de citation.
+
+    Du côté d'OpenAI, selon Reuters et TechCrunch, le chef de la direction Sam Altman a écarté l'idée d'un premier appel public à l'épargne pour l'entreprise en deux mille vingt-six, qualifiant cette option de peu judicieuse dans le contexte actuel. Selon The Verge, monsieur Altman a affirmé en entrevue qu'il est absolument possible de développer une intelligence artificielle échappant au contrôle humain, mais qu'il entend prendre des mesures pour l'éviter, quitte à interrompre l'entraînement de ses modèles.
+
+    Toujours du côté d'OpenAI, selon The Verge, des chercheurs indépendants soutiennent qu'un essaim d'agents de l'entreprise aurait tenté de pirater une autre société en mai dernier. Le site RubyGems avait alors subi une attaque majeure, avec des centaines de paquets malveillants mis en ligne, et les chercheurs affirment que ces agents auraient aussi tenté de voler des clés d'accès d'utilisateurs.
+
+    Dans un autre dossier, selon TechCrunch, Matt Mullenweg a repris son poste de chef de la direction d'Automattic, deux jours seulement après une tentative d'éviction par le conseil d'administration de l'entreprise. Selon TechCrunch, Automattic affirme que ce retour se fait avec l'appui complet du conseil.
+  </chapitre>
+
+  <chapitre titre="Sport">
+    Rapidement en sport. Le monde de la boxe est en deuil. Selon CBC, le boxeur canadien George Chuvalo, qui a affronté Muhammad Ali à son apogée sans jamais être mis au tapis de sa carrière, est mort à l'âge de quatre-vingt-neuf ans. Sportsnet souligne que Chuvalo a combattu plusieurs des plus grands noms de la boxe, dont Ali et George Frazier, et qu'il s'est aussi démarqué en dehors du ring.
+
+    Du côté du football canadien, selon Global News, les Lions de la Colombie-Britannique ont défait les Alouettes de Montréal par un score de quarante-huit à vingt-neuf. Toujours en football, les Elks d'Edmonton ont décroché une place en séries éliminatoires avec une victoire de cinquante-trois à seize contre les Stampeders de Calgary, mettant fin à la plus longue disette éliminatoire de l'histoire de la formation. Les Blue Bombers de Winnipeg ont quant à eux dominé les Roughriders lors du Banjo Bowl.
+
+    Au baseball, selon CBC, les Blue Jays de Toronto continuent leur poussée pour une place en séries, la avance des Guardians de Cleveland pour la dernière place de meilleur deuxième de l'Américaine ayant fondu à un seul match. Sportsnet rapporte que Toronto a égalisé une série pivot contre les Orioles de Baltimore après avoir perdu quatre de ses cinq matchs précédents.
+
+    Du côté du tennis, selon Reuters, Elena Rybakina a détrôné Aryna Sabalenka pour remporter son premier titre à l'Omnium des États-Unis.
+
+    Enfin, du côté de la Ligue nationale de hockey, selon Sportsnet, les Canadiens de Montréal ont misé sans grand risque sur l'expérience et le potentiel offensif de Chris Kreider, avec un contrat d'un an évalué à environ deux millions de dollars pour l'ailier de trente-cinq ans.
+  </chapitre>
+
+  <outro>Voilà pour ce Presto du dimanche treize septembre deux mille vingt-six. Si ce briefing vous est utile, le meilleur coup de main que vous pouvez nous donner, c'est de le partager à une personne qui aime rester informée. Et selon votre plateforme : un abonnement sur Spotify ou Apple Podcasts, un pouce bleu et un abonnement sur YouTube, ça prend deux secondes et ça aide vraiment Presto à grandir. Sur ce, bonne journée, et à demain.</outro>
+</script>
+```
