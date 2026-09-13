@@ -1,0 +1,14 @@
+{
+  "date": "2026-09-13",
+  "kind": "poll",
+  "text": "Ce matin → Une attaque frappe le détroit d'Ormuz. Nouveau : selon l'AP, une frappe sur un cargo iranien tue 1 personne. Les inquiétudes sur l'approvisionnement pétrolier s'intensifient.\n\nFace aux tensions pétrolières au Moyen-Orient, le Canada devrait-il…",
+  "poll": {
+    "options": [
+      "Renforcer ses réserves",
+      "Diversifier ses sources",
+      "Soutenir les efforts",
+      "Maintenir sa position"
+    ],
+    "duration_minutes": 1440
+  }
+}
