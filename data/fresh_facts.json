@@ -1,50 +1,54 @@
 {
-  "generated_at": "2026-09-13T16:51:07.981027+00:00",
+  "generated_at": "2026-09-13T21:15:52.539905+00:00",
   "window_hours": 8,
   "faits": [
     {
-      "sujet": "Canada-UE relations commerciales",
-      "fait": "Selon La Presse et Reuters, le premier ministre du Canada envisagerait de faire du Canada un « membre associé » de l'Union européenne, une idée que l'UE serait ouverte à explorer pour créer ce nouveau statut."
+      "sujet": "IA - appels au ralentissement",
+      "fait": "Le PDG d'Anthropic, Dario Amodei, a publié une lettre ouverte appelant à ralentir le développement de l'IA. Sam Altman et Elon Musk ont exprimé publiquement leur soutien à cette proposition. Selon The Verge et TechCrunch."
     },
     {
-      "sujet": "Politique québécoise élections",
-      "fait": "D'après Radio-Canada, la cheffe caquiste Fréchette a abordé l'importance de l'« autonomie économique » lors d'un rassemblement de mi-campagne le 13 septembre."
+      "sujet": "Trump - position sur l'IA",
+      "fait": "Le président Trump a déclaré que les critiques de l'IA sont des « forces très négatives » soulevant des scénarios qui ne se produiront pas, et a affirmé vouloir que les États-Unis restent leaders de l'industrie. Selon BBC World et The Verge."
     },
     {
-      "sujet": "PLQ cadre financier québécois",
-      "fait": "Selon Radio-Canada et Le Devoir, le PLQ a dévoilé son cadre financier dimanche en prévoyant l'abolition des mesures CAQ sur la « taxe de bienvenue » et la TVQ à l'épicerie, tout en maintenant l'équilibre budgétaire en 2029-2030."
+      "sujet": "Larry Ellison - vente Oracle",
+      "fait": "Larry Ellison a annulé la vente prévue de 50 millions d'actions Oracle d'une valeur d'environ 7,5 milliards de dollars. Selon TechCrunch."
     },
     {
-      "sujet": "Tarifs commerciaux Trump Ukraine",
-      "fait": "D'après Global News et Reuters, Trump a appelé l'Ukraine à cesser les frappes contre les installations pétrolières russes, citant une pénurie mondiale de diesel."
+      "sujet": "Nashville - aéroport renommé",
+      "fait": "Le conseil des commissaires de l'aéroport international de Nashville a voté en faveur du renommage de l'aéroport en l'honneur de Dolly Parton. Selon CBC."
     },
     {
-      "sujet": "Tarifs douaniers élections américaines",
-      "fait": "D'après CBC World, des politiciens démocrates affirment qu'une forte performance de leur parti aux élections de mi-mandat américaines en novembre pourrait influencer la position de Trump sur les tarifs douaniers envers le Canada."
+      "sujet": "Canada - statut de membre associé UE",
+      "fait": "Le Premier ministre Mark Carney envisage de faire du Canada un « membre associé » de l'Union européenne pour une intégration économique et sociétale plus profonde. Selon Reuters et National Post."
     },
     {
-      "sujet": "Disaster maritime Indonésie",
-      "fait": "Selon BBC World et Al Jazeera, un ferry a chaviré dans la mer de Java dimanche : au moins 6 morts confirmés et environ 130 personnes portées disparues parmi les 240+ passagers à bord."
+      "sujet": "Sommet d'investissement canadien",
+      "fait": "Stephen Harper prononcera le discours de clôture du premier Sommet d'investissement canadien de deux jours qui débutera lundi à Toronto. Selon National Post et La Presse."
     },
     {
-      "sujet": "Autonomie Formule 1 championnat",
-      "fait": "D'après Al Jazeera et Le Devoir, Kimi Antonelli a remporté le Grand Prix d'Espagne, étendant son avance au championnat à 81 points après 14 courses."
+      "sujet": "Anthropic - introduction en bourse",
+      "fait": "Anthropic a sélectionné le Nasdaq pour son introduction en bourse. Selon Reuters Business."
     },
     {
-      "sujet": "Répression LGBTQ+ Turquie",
-      "fait": "Selon BBC World et CBC World, les autorités turques ont lancé des raids dimanche matin contre des groupes de soutien aux 2SLGBTQ+ et au VIH, détenant des dizaines de membres et fermant des bureaux d'association."
+      "sujet": "Inde - refus du trophée Coupe d'Asie",
+      "fait": "L'Inde a remporté la Coupe d'Asie féminine de cricket mais n'a pas accepté le trophée lors de la cérémonie dirigée par le ministre de l'Intérieur pakistanais. Selon Al Jazeera."
     },
     {
-      "sujet": "Robotaxi detection armement Waymo",
-      "fait": "D'après The Verge, un véhicule autonome Waymo à San Francisco a détecté une violation des conditions de service impliquant une arme, s'est arrêté et a alerté les autorités, aboutissant à l'arrestation de deux mineurs en possession d'une arme de style AR."
+      "sujet": "Celine Dion - retour sur scène",
+      "fait": "Celine Dion a effectué son retour sur scène avec un concert complet à Paris après des années de lutte contre un trouble neurologique rare. Selon National Post."
     },
     {
-      "sujet": "Pénurie pétrole pipeline Arabie Saoudite",
-      "fait": "Selon Reuters, une panne de pipeline en Arabie Saoudite menace une perte de 4% de l'approvisionnement pétrolier mondial."
+      "sujet": "Hôpital Notre-Dame Montréal",
+      "fait": "L'hôpital Notre-Dame de Montréal ouvre une nouvelle unité de 20 lits pour les patients atteints de problèmes de santé mentale bloqués dans l'établissement faute d'hébergement, une première depuis 10 ans. Selon La Presse."
     },
     {
-      "sujet": "Éducation téléphones école Québec",
-      "fait": "D'après Le Devoir, les jeunes du Québec commencent une deuxième année scolaire sans téléphones, la Fédération des syndicats de l'enseignement confirmant que la première année s'est « très bien passée »."
+      "sujet": "Apple - contrôleurs de jeu",
+      "fait": "Apple développe deux contrôleurs de jeu pour iPhone qui seront probablement commercialisés sous la marque Beats, selon les rapports de Bloomberg. Selon The Verge."
+    },
+    {
+      "sujet": "Enric Mas - Tour d'Espagne",
+      "fait": "Le cycliste espagnol Enric Mas a remporté son premier Tour d'Espagne. Selon RDS."
     }
   ]
 }
