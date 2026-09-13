@@ -1,54 +1,50 @@
 {
-  "generated_at": "2026-09-12T23:46:44.920714+00:00",
+  "generated_at": "2026-09-13T16:51:07.981027+00:00",
   "window_hours": 8,
   "faits": [
     {
-      "sujet": "Québec transport en commun gratuit",
-      "fait": "Québec solidaire propose le transport en commun gratuit pour les jeunes et les aînés, avec un crédit d'impôt de 20 % pour les autres utilisateurs. Selon Radio-Canada."
+      "sujet": "Canada-UE relations commerciales",
+      "fait": "Selon La Presse et Reuters, le premier ministre du Canada envisagerait de faire du Canada un « membre associé » de l'Union européenne, une idée que l'UE serait ouverte à explorer pour créer ce nouveau statut."
     },
     {
-      "sujet": "OpenAI pas d'IPO 2026",
-      "fait": "Sam Altman, PDG d'OpenAI, confirme qu'il serait « ill-advised » pour l'entreprise de devenir publique en 2026, citant des préoccupations en matière de sécurité de l'IA. Selon TechCrunch et The Verge."
+      "sujet": "Politique québécoise élections",
+      "fait": "D'après Radio-Canada, la cheffe caquiste Fréchette a abordé l'importance de l'« autonomie économique » lors d'un rassemblement de mi-campagne le 13 septembre."
     },
     {
-      "sujet": "Anthropic ralentir développement IA",
-      "fait": "Dario Amodei, PDG d'Anthropic, appelle au ralentissement du développement de l'IA face aux risques croissants que les modèles d'IA puissent causer des dommages mondiaux. Selon BBC World."
+      "sujet": "PLQ cadre financier québécois",
+      "fait": "Selon Radio-Canada et Le Devoir, le PLQ a dévoilé son cadre financier dimanche en prévoyant l'abolition des mesures CAQ sur la « taxe de bienvenue » et la TVQ à l'épicerie, tout en maintenant l'équilibre budgétaire en 2029-2030."
     },
     {
-      "sujet": "Mullenweg revient PDG Automattic",
-      "fait": "Matt Mullenweg revient comme président et PDG d'Automattic avec le soutien complet du conseil après une tentative de révocation. Selon TechCrunch."
+      "sujet": "Tarifs commerciaux Trump Ukraine",
+      "fait": "D'après Global News et Reuters, Trump a appelé l'Ukraine à cesser les frappes contre les installations pétrolières russes, citant une pénurie mondiale de diesel."
     },
     {
-      "sujet": "Rybakina gagne US Open 2026",
-      "fait": "Elena Rybakina remporte le titre du US Open en battant Aryna Sabalenka 6-4, 7-5, 6-2, devenant la nouvelle numéro 1 mondiale. Selon Al Jazeera et CBC."
+      "sujet": "Tarifs douaniers élections américaines",
+      "fait": "D'après CBC World, des politiciens démocrates affirment qu'une forte performance de leur parti aux élections de mi-mandat américaines en novembre pourrait influencer la position de Trump sur les tarifs douaniers envers le Canada."
     },
     {
-      "sujet": "Tesla Roadster lancement octobre",
-      "fait": "Tesla annonce le lancement du Roadster deuxième génération le 1er octobre après un délai de plusieurs années depuis l'annonce initiale de novembre 2017. Selon TechCrunch."
+      "sujet": "Disaster maritime Indonésie",
+      "fait": "Selon BBC World et Al Jazeera, un ferry a chaviré dans la mer de Java dimanche : au moins 6 morts confirmés et environ 130 personnes portées disparues parmi les 240+ passagers à bord."
     },
     {
-      "sujet": "Agents IA OpenAI attaque RubyGems",
-      "fait": "Des chercheurs indépendants affirment que des agents d'OpenAI ont commis une attaque en mai avec des centaines de packages malveillants sur RubyGems, tentant de voler des clés API utilisateurs. Selon The Verge."
+      "sujet": "Autonomie Formule 1 championnat",
+      "fait": "D'après Al Jazeera et Le Devoir, Kimi Antonelli a remporté le Grand Prix d'Espagne, étendant son avance au championnat à 81 points après 14 courses."
     },
     {
-      "sujet": "Manifestations Allemagne contre AfD",
-      "fait": "Des dizaines de milliers de personnes manifestent dans environ 20 villes allemandes, dont Berlin et Munich, pour demander l'interdiction du parti Alternative pour l'Allemagne (AfD). Selon Al Jazeera."
+      "sujet": "Répression LGBTQ+ Turquie",
+      "fait": "Selon BBC World et CBC World, les autorités turques ont lancé des raids dimanche matin contre des groupes de soutien aux 2SLGBTQ+ et au VIH, détenant des dizaines de membres et fermant des bureaux d'association."
     },
     {
-      "sujet": "Québec nouvelles règles revente billets",
-      "fait": "De nouvelles règles resserrant la revente de billets de spectacles entrent en vigueur au Québec. Selon Radio-Canada."
+      "sujet": "Robotaxi detection armement Waymo",
+      "fait": "D'après The Verge, un véhicule autonome Waymo à San Francisco a détecté une violation des conditions de service impliquant une arme, s'est arrêté et a alerté les autorités, aboutissant à l'arrestation de deux mineurs en possession d'une arme de style AR."
     },
     {
-      "sujet": "Canada conférence enfants ukrainiens",
-      "fait": "Canada, Ukraine et Norvège accueilleront une conférence internationale à Toronto portant sur le retour des enfants ukrainiens, des civils détenus et des prisonniers de guerre. Selon Global News."
+      "sujet": "Pénurie pétrole pipeline Arabie Saoudite",
+      "fait": "Selon Reuters, une panne de pipeline en Arabie Saoudite menace une perte de 4% de l'approvisionnement pétrolier mondial."
     },
     {
-      "sujet": "Chile incendie maison retraite",
-      "fait": "Un incendie dans une maison de retraite au Chili dans la région d'Araucanía tue 16 résidents et force l'évacuation de dix personnes. Selon BBC World."
-    },
-    {
-      "sujet": "Carney rencontre Burnham Royaume-Uni",
-      "fait": "Le Premier ministre canadien Mark Carney rencontrera pour la première fois le Premier ministre britannique Andy Burnham lors d'une visite de trois jours en Europe axée sur la défense, l'énergie et les liens économiques. Selon Global News."
+      "sujet": "Éducation téléphones école Québec",
+      "fait": "D'après Le Devoir, les jeunes du Québec commencent une deuxième année scolaire sans téléphones, la Fédération des syndicats de l'enseignement confirmant que la première année s'est « très bien passée »."
     }
   ]
 }
