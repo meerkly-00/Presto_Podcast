@@ -1,54 +1,42 @@
 {
-  "generated_at": "2026-09-13T21:15:52.539905+00:00",
+  "generated_at": "2026-09-13T23:54:28.523613+00:00",
   "window_hours": 8,
   "faits": [
     {
-      "sujet": "IA - appels au ralentissement",
-      "fait": "Le PDG d'Anthropic, Dario Amodei, a publié une lettre ouverte appelant à ralentir le développement de l'IA. Sam Altman et Elon Musk ont exprimé publiquement leur soutien à cette proposition. Selon The Verge et TechCrunch."
+      "sujet": "Élection suédoise résultats",
+      "fait": "Le bloc centre-gauche d'opposition obtient une majorité d'un siège selon le dépouillement partiel de l'autorité électorale suédoise, selon la BBC World et CBC."
     },
     {
-      "sujet": "Trump - position sur l'IA",
-      "fait": "Le président Trump a déclaré que les critiques de l'IA sont des « forces très négatives » soulevant des scénarios qui ne se produiront pas, et a affirmé vouloir que les États-Unis restent leaders de l'industrie. Selon BBC World et The Verge."
+      "sujet": "Cadre financier PLQ Québec",
+      "fait": "Charles Milliard mise sur les recettes des transferts fédéraux et du jeu en ligne pour le financement du PLQ, selon Radio-Canada."
     },
     {
-      "sujet": "Larry Ellison - vente Oracle",
-      "fait": "Larry Ellison a annulé la vente prévue de 50 millions d'actions Oracle d'une valeur d'environ 7,5 milliards de dollars. Selon TechCrunch."
+      "sujet": "Cadre financier PQ Québec",
+      "fait": "Le cadre financier du PQ sera présenté en l'absence de son chef Paul St-Pierre Plamondon, qui prépare le débat télévisé de mardi, selon Radio-Canada."
     },
     {
-      "sujet": "Nashville - aéroport renommé",
-      "fait": "Le conseil des commissaires de l'aéroport international de Nashville a voté en faveur du renommage de l'aéroport en l'honneur de Dolly Parton. Selon CBC."
+      "sujet": "Tennis US Open 2026",
+      "fait": "Alexander Zverev remporte l'US Open en battant Ben Shelton 6-3, 7-6(2), 5-7, 6-2, décrochant son deuxième titre majeur, selon Al Jazeera et CBC World."
     },
     {
-      "sujet": "Canada - statut de membre associé UE",
-      "fait": "Le Premier ministre Mark Carney envisage de faire du Canada un « membre associé » de l'Union européenne pour une intégration économique et sociétale plus profonde. Selon Reuters et National Post."
+      "sujet": "Tarifs Trump whiskey irlandais",
+      "fait": "Trump retire les tarifs de 10% sur le whiskey irlandais, selon Global News et Associated Press."
     },
     {
-      "sujet": "Sommet d'investissement canadien",
-      "fait": "Stephen Harper prononcera le discours de clôture du premier Sommet d'investissement canadien de deux jours qui débutera lundi à Toronto. Selon National Post et La Presse."
+      "sujet": "IA ralentissement Trump",
+      "fait": "Trump rejette les appels au ralentissement du développement de l'IA de la part des PDG technologiques, déclarant vouloir maintenir la supériorité américaine face à la Chine, selon Al Jazeera et CBC World."
     },
     {
-      "sujet": "Anthropic - introduction en bourse",
-      "fait": "Anthropic a sélectionné le Nasdaq pour son introduction en bourse. Selon Reuters Business."
+      "sujet": "Sommet investissement Canada Harper",
+      "fait": "L'ancien premier ministre Stephen Harper prononcera le discours de clôture du Sommet canadien de l'investissement de Mark Carney à Toronto lundi, selon La Presse et National Post."
     },
     {
-      "sujet": "Inde - refus du trophée Coupe d'Asie",
-      "fait": "L'Inde a remporté la Coupe d'Asie féminine de cricket mais n'a pas accepté le trophée lors de la cérémonie dirigée par le ministre de l'Intérieur pakistanais. Selon Al Jazeera."
+      "sujet": "Rouverture loi hydrocarbures Québec",
+      "fait": "Certains candidats québécois remettent aux Québécois le jugement de l'acceptabilité sociale des projets pétroliers et gaziers, selon Radio-Canada."
     },
     {
-      "sujet": "Celine Dion - retour sur scène",
-      "fait": "Celine Dion a effectué son retour sur scène avec un concert complet à Paris après des années de lutte contre un trouble neurologique rare. Selon National Post."
-    },
-    {
-      "sujet": "Hôpital Notre-Dame Montréal",
-      "fait": "L'hôpital Notre-Dame de Montréal ouvre une nouvelle unité de 20 lits pour les patients atteints de problèmes de santé mentale bloqués dans l'établissement faute d'hébergement, une première depuis 10 ans. Selon La Presse."
-    },
-    {
-      "sujet": "Apple - contrôleurs de jeu",
-      "fait": "Apple développe deux contrôleurs de jeu pour iPhone qui seront probablement commercialisés sous la marque Beats, selon les rapports de Bloomberg. Selon The Verge."
-    },
-    {
-      "sujet": "Enric Mas - Tour d'Espagne",
-      "fait": "Le cycliste espagnol Enric Mas a remporté son premier Tour d'Espagne. Selon RDS."
+      "sujet": "Décès rougeole Pennsylvanie",
+      "fait": "Une femme non vaccinée de 40 ans en Pennsylvanie est décédée des complications de la rougeole, constituant le troisième décès lié à la rougeole aux États-Unis cette année, tous en Pennsylvanie, selon Ars Technica."
     }
   ]
 }
