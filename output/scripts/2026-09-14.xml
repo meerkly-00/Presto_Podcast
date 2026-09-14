@@ -1,0 +1,89 @@
+```xml
+<script>
+  <intro>Bonjour, on est le lundi quatorze septembre deux mille vingt-six. Voici votre Presto en environ quinze minutes. Au menu : le Moyen-Orient et la flambée du pétrole, les élections en Suède, le débat sur le ralentissement de l'intelligence artificielle, l'économie et les marchés, la politique canadienne et québécoise, et un mot de tech et de sport.</intro>
+
+  <chapitre titre="International">
+    On commence par le Moyen-Orient, où la situation continue de se détériorer. Selon Reuters, les prix du pétrole ont grimpé de près de trois pour cent après de nouvelles frappes visant l'Arabie saoudite et le détroit d'Ormuz. L'agence rapporte aussi qu'un navire cargo iranien a été frappé, ce qui a entraîné le report des discussions entre Téhéran et ses voisins sur une proposition concernant le détroit d'Ormuz.
+
+    Selon Reuters, Donald Trump a affirmé que les États-Unis pourraient rester en Iran et conserver un accès au pétrole, sur un modèle qu'il compare à l'entente conclue avec le Venezuela. Toujours au sujet du conflit, la Financial Times rapporte que Donald Trump a demandé à l'Ukraine de cesser ses frappes contre les raffineries de pétrole russes.
+
+    En Europe, la BBC rapporte que la Russie a frappé un train ukrainien peu après le départ de l'ancien premier ministre britannique Boris Johnson et de hauts responsables européens de la gare concernée. En anglais, je le cite : "I don't know what warped logic drove Putin to blow up a stationary Ukrainian locomotive on the Polish border this morning." Fin de citation.
+
+    En Suède, l'élection générale se solde par un résultat serré. Selon l'Associated Press, les résultats préliminaires donnent à l'opposition de gauche une majorité de trois sièges. La BBC précise que le bloc de gauche devance de justesse le bloc au pouvoir, dans un scrutin qualifié de trop serré pour être appelé avec certitude. Selon The Economist, il s'agirait d'une perte modeste pour le parti d'extrême droite Les Démocrates de Suède.
+
+    En Indonésie, les recherches se poursuivent pour retrouver les personnes portées disparues après le chavirement d'un traversier dans la mer de Java. Selon l'Associated Press, cent vingt-neuf personnes demeurent portées disparues, et six corps ont été récupérés. Plus de six cents secouristes participent aux opérations dans une mer agitée, selon Al Jazeera.
+
+    Aux États-Unis, Al Jazeera rapporte, en citant le Washington Post, que le conseil d'administration du Kennedy Center recommande la fermeture immédiate du bâtiment principal en raison de coûts trop élevés, l'établissement faisant face à un risque de faillite.
+  </chapitre>
+
+  <chapitre titre="Économie et marchés">
+    On passe à l'économie, où l'attention se déplace vers un débat inattendu sur l'intelligence artificielle qui a fait vaciller les marchés. Selon Reuters, les actions liées à l'intelligence artificielle ont reculé après que des dirigeants de grands laboratoires ont appelé à ralentir le développement de la technologie. Bloomberg rapporte que les contrats à terme américains sont en baisse en raison de cet avertissement, alors que les prix du pétrole progressent.
+
+    Selon Reuters Business, les marchés asiatiques ont aussi reculé, dans un contexte où le pétrole grimpe et où des hausses de taux se profilent. Toujours du côté des taux, Bloomberg rapporte qu'un rendement de cinq pour cent sur les obligations du Trésor américain soulève de nouveaux risques pour les marchés et l'économie.
+
+    En Chine, Bloomberg rapporte que l'économie entre dans une phase critique qui déterminera l'ampleur des mesures de relance pour l'année prochaine.
+
+    Du côté des entreprises, Reuters Business rapporte, en citant le Financial Times, que l'entreprise Anthropic a indiqué à ses investisseurs qu'elle sera profitable pour un deuxième trimestre consécutif. Reuters Business rapporte aussi qu'Anthropic a choisi le Nasdaq pour son premier appel public à l'épargne. The Economist se demande d'ailleurs si l'entreprise devrait mettre en pause son projet d'entrée en bourse évalué à deux billions de dollars, dans un contexte que le média qualifie de psychose sur la sécurité de l'intelligence artificielle.
+
+    Chez Oracle, TechCrunch rapporte que le milliardaire Larry Ellison a annulé une vente d'actions de l'entreprise d'une valeur d'environ sept virgule cinq milliards de dollars. L'entreprise avait précédemment annoncé que Larry Ellison prévoyait vendre cinquante millions d'actions.
+
+    Au Canada, Reuters rapporte que S&P Dow Jones Indices assouplit ses critères d'inclusion pour les entreprises canadiennes dans ses indices. Et à Toronto, La Presse rapporte que le premier ministre Mark Carney a fait appel à l'ancien premier ministre Stephen Harper, qui prononcera le discours de clôture du Sommet canadien de l'investissement, un événement de deux jours qui débute aujourd'hui.
+
+    Par ailleurs, selon le National Post, Mark Carney chercherait à faire du Canada un membre associé de l'Union européenne, misant sur une intégration économique et sociétale plus étroite. Le premier ministre a toutefois précisé, selon BNN Bloomberg, que le Canada ne cherche pas à devenir un membre à part entière de l'Union européenne.
+  </chapitre>
+
+  <chapitre titre="Tech">
+    Un mot sur la tech, dominée depuis quelques jours par un débat sur le rythme de développement de l'intelligence artificielle, et qui continue de faire des vagues.
+
+    Selon le National Post, Donald Trump a affirmé que celui qui gagne la course à l'intelligence artificielle gagne tout court, alors que des dirigeants du secteur appuient sur les freins. The Verge rapporte que le président américain et le président de la Chambre des représentants, Mike Johnson, jugent que l'industrie réagit de façon excessive, craignant qu'une pause ne permette à la Chine de prendre les devants. Selon la BBC, Donald Trump a qualifié les critiques de "forces négatives" évoquant des scénarios qui ne se concrétiseront pas.
+
+    De l'autre côté du débat, TechCrunch rappelle que le chef de la direction d'Anthropic, Dario Amodei, a publié une lettre ouverte demandant de ralentir le rythme de développement. Selon The Verge, le chef de la direction d'OpenAI, Sam Altman, et Elon Musk ont tous deux exprimé publiquement leur appui à cet appel, et le patron de DeepMind chez Alphabet, Demis Hassabis, a offert un soutien prudent à la proposition. La BBC souligne toutefois que la question de ce à quoi ressemblerait concrètement un tel ralentissement reste posée, et que la solution est loin d'être simple.
+
+    Du côté du capital de risque, TechCrunch rapporte que le cofondateur d'Insight Partners, Deven Parekh, explique pourquoi sa firme de quatre-vingt-dix milliards de dollars reste délibérément diversifiée, alors que la majorité des investisseurs misent tout sur OpenAI et Anthropic.
+
+    Chez Apple, The Verge rapporte, en citant Bloomberg, que l'entreprise développerait deux manettes de jeu pour iPhone, qui seraient vendues sous la marque Beats.
+
+    Enfin, Ars Technica rapporte qu'une femme non vaccinée de quarante ans est morte de complications liées à la rougeole en Pennsylvanie, le troisième décès lié à la maladie aux États-Unis cette année. Selon le média, les trois décès sont survenus en Pennsylvanie, un État qui vit une éclosion majeure ayant causé plus de six cent soixante-dix cas et cent vingt-quatre hospitalisations dans trente-sept comtés.
+  </chapitre>
+
+  <chapitre titre="Politique canadienne">
+    Au Canada, le dossier commercial avec les États-Unis continue d'évoluer. Selon Global News, Donald Trump a levé un tarif de dix pour cent sur le whisky irlandais, disant que "tout le monde" le harcelait à ce sujet, selon l'Associated Press. Une interdiction commerciale visant l'alcool canadien demeure toutefois à l'horizon, précise Global News.
+
+    Sur la scène politique intérieure américaine, CBC rapporte que des politiciens démocrates estiment qu'une bonne performance de leur parti aux élections de mi-mandat de novembre pourrait faire évoluer le dossier des tarifs douaniers imposés au Canada, même si les deux pays restent campés dans leurs positions dans cette guerre commerciale.
+
+    Ailleurs au pays, CBC rapporte qu'un homme de Surrey, en Colombie-Britannique, s'est vu octroyer deux cent soixante-quinze mille dollars après une manifestation devant chez lui qui a duré soixante-dix-sept jours. Le tribunal a jugé que le meneur du groupe avait tenu et publié des propos diffamatoires contre un journaliste critique du régime chinois.
+  </chapitre>
+
+  <chapitre titre="Actualité québécoise">
+    Au Québec, la campagne électorale provinciale se poursuit. Selon Radio-Canada, le cadre financier du Parti libéral du Québec a été passé au crible, le chef Charles Milliard misant notamment sur les revenus des transferts fédéraux et du jeu en ligne pour financer ses engagements.
+
+    Toujours selon Radio-Canada, plusieurs candidats refusent pour l'instant de rouvrir la loi sur les hydrocarbures, préférant s'en remettre au jugement des Québécois pour évaluer l'acceptabilité sociale de tels projets.
+
+    Le Devoir se penche sur la position de la cheffe de Québec solidaire, Ruba Ghazal, qui mise sur le pragmatisme pour aller chercher de nouveaux votes tout en cherchant à rassurer sa base militante.
+
+    Toujours selon Le Devoir, les nouveaux tarifs imposés par Donald Trump poussent plusieurs lecteurs à acheter davantage de produits locaux, même si cela implique de payer plus cher.
+
+    En matière de coûts de transport, Radio-Canada rapporte que le prix du diesel a bondi à Montréal, où le litre s'est vendu à plus de deux dollars quatre-vingt-cinq récemment, ce qui pourrait entraîner une hausse du prix des aliments à l'épicerie.
+
+    Côté société, Le Devoir rapporte que les plateformes web engendreraient entre deux et quatre virgule huit milliards de dollars de dommages chez les jeunes Canadiens, selon une nouvelle modélisation. Et le Journal de Montréal rapporte que cent cinquante-trois mille rendez-vous médicaux ont été manqués en un an au Québec en raison d'absences non annoncées.
+
+    Sur le plan des faits divers, La Presse rapporte qu'au moins un coup de feu a été tiré vers un véhicule dimanche soir à Sorel-Tracy, en Montérégie ; le conducteur visé s'en serait sorti sans blessure, selon la Sûreté du Québec. Toujours en Montérégie, un automobiliste se trouve dans un état critique après une collision survenue dimanche après-midi à Saint-Rémi.
+
+    Finalement, une note culturelle : Radio-Canada rapporte que la série "Empathie", de Florence Longpré, a remporté six prix sur une possibilité de neuf au Gala des Gémeaux.
+  </chapitre>
+
+  <chapitre titre="Sport">
+    Rapidement en sport. Au tennis, CBC rapporte qu'Alexander Zverev a remporté les Internationaux des États-Unis en battant Ben Shelton en quatre manches, prolongeant ainsi la disette des joueurs américains, qui n'ont pas soulevé de titre du Grand Chelem depuis deux mille trois.
+
+    Au baseball, Sportsnet rapporte que les Blue Jays de Toronto ont finalement signé une victoire importante contre les Orioles de Baltimore, grâce notamment au lanceur Dylan Cease et à un coup de circuit de Vladimir Guerrero Jr., son premier de la saison au Centre Rogers.
+
+    Au football américain, Sportsnet rapporte que la première semaine de la Ligue nationale de football a été marquée par des matchs à forte tendance offensive, avec près de sept cents points marqués au total, et que les Bears de Chicago se présentent comme des candidats sérieux cette saison.
+
+    Au basketball, Sportsnet rapporte que le propriétaire des Clippers de Los Angeles, Steve Ballmer, n'entend pas contester la sanction imposée par la NBA dans le dossier du contrat controversé de Kawhi Leonard.
+
+    En cyclisme, RDS rapporte que l'Espagnol Enric Mas a remporté son premier Tour d'Espagne.
+  </chapitre>
+
+  <outro>Voilà pour ce Presto du lundi quatorze septembre deux mille vingt-six. Si ce briefing vous est utile, le meilleur coup de main que vous pouvez nous donner, c'est de le partager à une personne qui aime rester informée. Et selon votre plateforme : un abonnement sur Spotify ou Apple Podcasts, un pouce bleu et un abonnement sur YouTube, ça prend deux secondes et ça aide vraiment Presto à grandir. Sur ce, bonne journée, et à demain.</outro>
+</script>
+```
