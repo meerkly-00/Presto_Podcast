@@ -1,42 +1,54 @@
 {
-  "generated_at": "2026-09-13T23:54:28.523613+00:00",
+  "generated_at": "2026-09-14T18:22:09.442970+00:00",
   "window_hours": 8,
   "faits": [
     {
-      "sujet": "Élection suédoise résultats",
-      "fait": "Le bloc centre-gauche d'opposition obtient une majorité d'un siège selon le dépouillement partiel de l'autorité électorale suédoise, selon la BBC World et CBC."
+      "sujet": "Polymarket et audit KPMG",
+      "fait": "Un groupe de comptes Polymarket a remporté d'importants gains financiers sur des entreprises auditées par KPMG, selon une enquête exclusive du Wall Street Journal."
     },
     {
-      "sujet": "Cadre financier PLQ Québec",
-      "fait": "Charles Milliard mise sur les recettes des transferts fédéraux et du jeu en ligne pour le financement du PLQ, selon Radio-Canada."
+      "sujet": "Sommet d'investissement Canada",
+      "fait": "Des investisseurs gérant près de 120 milliards de dollars d'actifs se réunissent à Toronto pour le Canada Investment Summit, selon Al Jazeera."
     },
     {
-      "sujet": "Cadre financier PQ Québec",
-      "fait": "Le cadre financier du PQ sera présenté en l'absence de son chef Paul St-Pierre Plamondon, qui prépare le débat télévisé de mardi, selon Radio-Canada."
+      "sujet": "Nouvelles versions Apple iOS et macOS",
+      "fait": "Apple a lancé iOS 27 et macOS 27 Golden Gate avec un assistant Siri repensé utilisant l'IA, disponible en bêta en anglais uniquement pour l'instant, selon The Verge."
     },
     {
-      "sujet": "Tennis US Open 2026",
-      "fait": "Alexander Zverev remporte l'US Open en battant Ben Shelton 6-3, 7-6(2), 5-7, 6-2, décrochant son deuxième titre majeur, selon Al Jazeera et CBC World."
+      "sujet": "Piratage du compte X du Pérou",
+      "fait": "Le compte X du ministère de l'Économie du Pérou a été piraté dans le cadre d'une probable arnaque aux cryptomonnaies, selon Bloomberg."
     },
     {
-      "sujet": "Tarifs Trump whiskey irlandais",
-      "fait": "Trump retire les tarifs de 10% sur le whiskey irlandais, selon Global News et Associated Press."
+      "sujet": "Présidentielle française 2027",
+      "fait": "Selon The Economist, sept mois avant l'élection présidentielle française, les candidats du centre sont peu enthousiasmants et trop nombreux face à la question : qui peut battre Marine Le Pen ?"
     },
     {
-      "sujet": "IA ralentissement Trump",
-      "fait": "Trump rejette les appels au ralentissement du développement de l'IA de la part des PDG technologiques, déclarant vouloir maintenir la supériorité américaine face à la Chine, selon Al Jazeera et CBC World."
+      "sujet": "Efficacité énergétique automobile",
+      "fait": "La nouvelle voiture électrique de Volkswagen affiche une efficacité énergétique presque deux fois supérieure à celle de la Lucid Air, selon TechCrunch."
     },
     {
-      "sujet": "Sommet investissement Canada Harper",
-      "fait": "L'ancien premier ministre Stephen Harper prononcera le discours de clôture du Sommet canadien de l'investissement de Mark Carney à Toronto lundi, selon La Presse et National Post."
+      "sujet": "Hausse des prix du carburant Syrie",
+      "fait": "La Syrie connaît des augmentations de prix du carburant qui testent la patience du public et aggravent la crise du coût de la vie, selon Al Jazeera."
     },
     {
-      "sujet": "Rouverture loi hydrocarbures Québec",
-      "fait": "Certains candidats québécois remettent aux Québécois le jugement de l'acceptabilité sociale des projets pétroliers et gaziers, selon Radio-Canada."
+      "sujet": "Transport préhistorique Devil's Arrows",
+      "fait": "Des scientifiques ont confirmé que les pierres du Devil's Arrows en Angleterre ont été transportées par des humains sur 18 kilomètres, selon Ars Technica et la Proceedings of the Royal Society A."
     },
     {
-      "sujet": "Décès rougeole Pennsylvanie",
-      "fait": "Une femme non vaccinée de 40 ans en Pennsylvanie est décédée des complications de la rougeole, constituant le troisième décès lié à la rougeole aux États-Unis cette année, tous en Pennsylvanie, selon Ars Technica."
+      "sujet": "Marchés boursiers et rendements obligataires",
+      "fait": "Les actions de l'IA chutent suite à des appels au ralentissement et à la hausse des prix du pétrole poussant le rendement du Bon du Trésor 10 ans à 5%, selon l'Associated Press."
+    },
+    {
+      "sujet": "Lancement Steam Frame Valve",
+      "fait": "Valve lance le Steam Frame, un casque de réalité virtuelle autonome au prix de 1049 à 1299 dollars, avec prise de commandes commençant aujourd'hui, selon Ars Technica."
+    },
+    {
+      "sujet": "Itinérance au Québec coûts",
+      "fait": "Une personne en situation d'itinérance coûte 16 fois plus cher que le citoyen moyen selon une étude de l'UMQ, rapporte Radio-Canada."
+    },
+    {
+      "sujet": "Débats électoraux Québec 2026",
+      "fait": "Deux débats de chefs sont programmés cette semaine au Québec : mardi sur TVA et mercredi sur Noovo, selon Radio-Canada."
     }
   ]
 }
