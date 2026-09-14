@@ -1,0 +1,14 @@
+{
+  "date": "2026-09-14",
+  "kind": "poll",
+  "text": "Ce matin → Les cols bleus de Montréal prévoient une grève du 22 au 28 septembre.\n\nNouveau : La grève prendrait la forme d'une grève tournante par arrondissements, 24 heures à la fois, plutôt qu'un\n\nUne grève tournante par secteur plutôt qu'un arrêt complet : quel est ton avis?",
+  "poll": {
+    "options": [
+      "Moins disruptif,",
+      "Toujours très perturbant",
+      "Inefficace pour les",
+      "Équilibre raisonnable"
+    ],
+    "duration_minutes": 1440
+  }
+}
