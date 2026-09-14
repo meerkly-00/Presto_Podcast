@@ -1,54 +1,50 @@
 {
-  "generated_at": "2026-09-14T18:22:09.442970+00:00",
+  "generated_at": "2026-09-14T22:16:09.368728+00:00",
   "window_hours": 8,
   "faits": [
     {
-      "sujet": "Polymarket et audit KPMG",
-      "fait": "Un groupe de comptes Polymarket a remporté d'importants gains financiers sur des entreprises auditées par KPMG, selon une enquête exclusive du Wall Street Journal."
+      "sujet": "Parlement européen à Ottawa",
+      "fait": "Le Parlement européen ouvrira un bureau à Ottawa, qui deviendra le dixième bureau de l'organisation situé à l'extérieur de l'Union européenne. Selon Radio-Canada, ce bureau vise à intensifier les échanges parlementaires entre le Canada et les 720 élus représentant les États membres de l'UE."
     },
     {
-      "sujet": "Sommet d'investissement Canada",
-      "fait": "Des investisseurs gérant près de 120 milliards de dollars d'actifs se réunissent à Toronto pour le Canada Investment Summit, selon Al Jazeera."
+      "sujet": "Déficit budgétaire Colombie-Britannique",
+      "fait": "Le déficit prévu de la Colombie-Britannique a augmenté de 450 millions de dollars, passant à 13,8 milliards de dollars, en raison d'une erreur de calcul sur les redevances de gaz naturel. Selon Global News, cette révision à la hausse a été annoncée le 14 septembre 2026."
     },
     {
-      "sujet": "Nouvelles versions Apple iOS et macOS",
-      "fait": "Apple a lancé iOS 27 et macOS 27 Golden Gate avec un assistant Siri repensé utilisant l'IA, disponible en bêta en anglais uniquement pour l'instant, selon The Verge."
+      "sujet": "Centre de données IA en Saskatchewan",
+      "fait": "Bell Canada annonce l'expansion de son centre de données IA en Saskatchewan, devant générer plus de 50 milliards de dollars d'investissements. Selon Global News, l'annonce a été faite par le premier ministre de la Saskatchewan Scott Moe aux côtés du premier ministre Mark Carney lors du sommet national de l'investissement au Canada."
     },
     {
-      "sujet": "Piratage du compte X du Pérou",
-      "fait": "Le compte X du ministère de l'Économie du Pérou a été piraté dans le cadre d'une probable arnaque aux cryptomonnaies, selon Bloomberg."
+      "sujet": "Saisie de cannabis en Saskatchewan",
+      "fait": "La GRC de la Saskatchewan a saisi plus de 1 900 livres de cannabis séché, ainsi que du hasch et de la résine de THC auprès d'un homme en transit sur l'autoroute 1 en direction est. Selon Global News, la saisie a été effectuée le 14 septembre 2026."
     },
     {
-      "sujet": "Présidentielle française 2027",
-      "fait": "Selon The Economist, sept mois avant l'élection présidentielle française, les candidats du centre sont peu enthousiasmants et trop nombreux face à la question : qui peut battre Marine Le Pen ?"
+      "sujet": "Tornades au Canada en 2026",
+      "fait": "Le Canada a connu au moins 110 tornades confirmées jusqu'au 14 septembre 2026, dépassant la moyenne historique de 65 tornades par an. Selon CBC, la Saskatchewan, l'Alberta et l'Ontario ont enregistré les nombres les plus élevés parmi les provinces."
     },
     {
-      "sujet": "Efficacité énergétique automobile",
-      "fait": "La nouvelle voiture électrique de Volkswagen affiche une efficacité énergétique presque deux fois supérieure à celle de la Lucid Air, selon TechCrunch."
+      "sujet": "EPA supprime norme émissions gaz serre",
+      "fait": "L'Agence américaine de protection de l'environnement (EPA) a supprimé les règles limitant les émissions de gaz à effet de serre des centrales électriques. Selon Al Jazeera et The Verge, l'administration Trump affirme que cette mesure pourrait économiser plus de 300 milliards de dollars aux centrales électriques."
     },
     {
-      "sujet": "Hausse des prix du carburant Syrie",
-      "fait": "La Syrie connaît des augmentations de prix du carburant qui testent la patience du public et aggravent la crise du coût de la vie, selon Al Jazeera."
+      "sujet": "OpenAI acquiert Glass Imaging",
+      "fait": "OpenAI aurait acquis Glass Imaging, fabricant de capteurs pour smartphones, pour 300 millions de dollars. Selon TechCrunch, Glass Imaging a été fondée par d'anciens ingénieurs d'Apple ayant développé le mode Portrait d'Apple."
     },
     {
-      "sujet": "Transport préhistorique Devil's Arrows",
-      "fait": "Des scientifiques ont confirmé que les pierres du Devil's Arrows en Angleterre ont été transportées par des humains sur 18 kilomètres, selon Ars Technica et la Proceedings of the Royal Society A."
+      "sujet": "Débat chef partis Québec",
+      "fait": "Les chefs politiques québécois se préparent aux débats télévisés prévus à TVA mardi, à Noovo mercredi et à Radio-Canada le 23 septembre. Selon Radio-Canada, ces débats feront partie de la campagne électorale."
     },
     {
-      "sujet": "Marchés boursiers et rendements obligataires",
-      "fait": "Les actions de l'IA chutent suite à des appels au ralentissement et à la hausse des prix du pétrole poussant le rendement du Bon du Trésor 10 ans à 5%, selon l'Associated Press."
+      "sujet": "Dépassement coûts projet SIFA",
+      "fait": "Le projet informatique SIFA de Santé Québec pourrait coûter plus de 11 fois le budget initialement prévu. Selon Radio-Canada, ce virage numérique enregistre un important dépassement de coûts."
     },
     {
-      "sujet": "Lancement Steam Frame Valve",
-      "fait": "Valve lance le Steam Frame, un casque de réalité virtuelle autonome au prix de 1049 à 1299 dollars, avec prise de commandes commençant aujourd'hui, selon Ars Technica."
+      "sujet": "Apple intègre ChatGPT à iPhone",
+      "fait": "Elon Musk a retiré Apple de sa poursuite antitrust contre OpenAI concernant l'intégration de ChatGPT aux fonctionnalités iPhone. Selon Ars Technica, Musk avait auparavant affirmé que ce partenariat donnait aux deux entreprises un monopole sur les invites IA des utilisateurs d'Apple."
     },
     {
-      "sujet": "Itinérance au Québec coûts",
-      "fait": "Une personne en situation d'itinérance coûte 16 fois plus cher que le citoyen moyen selon une étude de l'UMQ, rapporte Radio-Canada."
-    },
-    {
-      "sujet": "Débats électoraux Québec 2026",
-      "fait": "Deux débats de chefs sont programmés cette semaine au Québec : mardi sur TVA et mercredi sur Noovo, selon Radio-Canada."
+      "sujet": "Grève cols bleus Montréal",
+      "fait": "La grève annoncée par les cols bleus de Montréal du 22 au 28 septembre prendra la forme d'une grève tournante par arrondissements, 24 heures à la fois. Selon La Presse, cette modification de la stratégie de grève a été annoncée le 14 septembre 2026."
     }
   ]
 }
