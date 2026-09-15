@@ -1,0 +1,85 @@
+# Presto — mardi 15 septembre 2026
+
+```xml
+<script>
+  <intro>Bonjour, on est le mardi quinze septembre deux mille vingt-six. Voici votre Presto en environ quinze minutes. Au menu : le débat sur l'intelligence artificielle qui secoue les marchés et la Maison-Blanche, les tarifs américains qui frappent de nouveau le Canada, un drone abattu par l'OTAN en Lituanie, et plusieurs manchettes au Québec, dont une cyberattaque contre la CCQ.</intro>
+
+  <chapitre titre="International">
+    On commence par l'intelligence artificielle, qui domine l'actualité internationale depuis quelques jours et qui a maintenant des répercussions politiques et financières directes. Selon l'Associated Press, le président américain Donald Trump a qualifié les craintes entourant les risques de l'intelligence artificielle de "hoax", un mot qu'on peut traduire par canular, et a dénoncé ce qu'il appelle, je le cite : "SICK conspiracy against AI and data centers". Fin de citation.
+
+    Ces propos surviennent après que plusieurs dirigeants de grands laboratoires d'intelligence artificielle, dont Sam Altman d'OpenAI, Dario Amodei d'Anthropic, Demis Hassabis de Google DeepMind et Elon Musk, se soient entendus la fin de semaine dernière pour ralentir le rythme de développement de leurs technologies. Selon The Verge, cet accord vise à intégrer des vérificateurs indépendants et à encadrer davantage les laboratoires. Les critiques de cette initiative soutiennent plutôt qu'il s'agit d'une tentative de nuire à la concurrence et au mouvement des logiciels libres, certains allant jusqu'à parler d'un cartel.
+
+    Le patron de Nvidia, Jensen Huang, ne partage pas cette prudence. Selon TechCrunch, il a affirmé à Donald Trump que son entreprise, je le cite : "we're not going to let an AI slowdown happen". Fin de citation. Le premier ministre canadien Mark Carney adopte une position différente. Selon le National Post, il demande la création d'un organisme mondial de stabilité technologique pour encadrer l'intelligence artificielle. Selon la BBC, un climat de blocage politique persiste aux États-Unis sur cette question : Donald Trump s'y oppose, et le Congrès demeure divisé, ce qui rend improbable l'adoption prochaine d'une loi de sécurité sur l'intelligence artificielle.
+
+    Toujours selon l'Associated Press, la Chine a de son côté critiqué ce qu'elle qualifie d'alarmisme de la part du chef de la direction d'Anthropic au sujet du développement de l'intelligence artificielle chinoise.
+
+    Ailleurs dans le monde, la sécurité européenne reste sous tension. Selon la BBC, des avions de chasse de l'OTAN ont abattu un drone qui avait pénétré l'espace aérien lituanien. Selon Radio-Canada, l'appareil est tombé dans une zone rurale près du lac de Kaunas, au centre du pays. Les autorités affirment que l'origine du drone demeure inconnue, mais qu'il serait vraisemblablement entré en Lituanie depuis le Bélarus, un allié de la Russie.
+
+    Du côté du dossier ukrainien, selon le National Post, le président Volodymyr Zelensky a affirmé que l'Ukraine était prête à des mesures de désescalade si la Russie faisait de même, après que Donald Trump ait annoncé que les deux camps s'étaient entendus pour cesser les frappes visant les infrastructures énergétiques.
+
+    Au Moyen-Orient, selon Al Jazeera, un nouveau rapport de l'organisation israélienne B'Tselem qualifie la situation sur le terrain en Cisjordanie de projet d'élimination des Palestiniens, une caractérisation que l'organisation attribue elle-même à ce constat. Ce rapport survient alors qu'une crise diplomatique se développe autour de sanctions visant les colonies israéliennes.
+
+    Sur le plan politique intérieur américain, selon CBC, la Cour suprême des États-Unis a rejeté une tentative de l'administration Trump de restreindre le vote par correspondance avant les élections de mi-mandat de novembre, qui détermineront le contrôle du Congrès. Toujours selon CBC, le sénateur républicain Mitch McConnell, du Kentucky, est retourné siéger au Sénat pour la première fois depuis trois mois, après avoir été hospitalisé à la suite d'une chute à son domicile.
+
+    Enfin, selon le National Post, l'administration Trump a annoncé lors d'un sommet du G20 sur l'énergie l'abolition des limites d'émissions de carbone visant les centrales au charbon et au gaz, poursuivant ainsi le démantèlement de réglementations environnementales.
+  </chapitre>
+
+  <chapitre titre="Politique canadienne et actualité québécoise">
+    Au Canada, le dossier commercial avec les États-Unis reprend une tournure plus difficile. Selon CBC, une nouvelle vague de tarifs américains de cinquante pour cent est entrée en vigueur cette nuit, touchant cent dix produits canadiens, allant de certains fromages aux bateaux à moteur, en passant par les véhicules tout-terrain et le mobilier. Selon des experts cités par CBC, la décision de retirer simultanément certains tarifs montre que Washington porte attention aux coûts qui finissent par être refilés aux consommateurs américains.
+
+    En Alberta, selon CBC, le Nouveau Parti démocratique a remporté l'élection partielle dans la circonscription de Calgary-Shaw. Selon des résultats non officiels d'Élections Alberta, le candidat néo-démocrate Kyle Campbell l'a emporté par une marge d'environ cinq cent quatre-vingts votes sur le candidat de l'Union conservatrice unie, Mike Derry.
+
+    Au Québec, plusieurs dossiers de sécurité informatique retiennent l'attention. Selon La Presse, des cyberpirates russophones ont commencé à diffuser sur le Web caché des renseignements personnels volés lors d'une récente cyberattaque contre le site de la Commission de la construction du Québec, un incident qui aurait fait au moins trois cent cinquante mille victimes. Les informations touchées incluent notamment des permis de conduire, des passeports et des relevés de comptes bancaires et de cartes de crédit.
+
+    Toujours selon La Presse, l'entreprise d'autopartage Communauto a annoncé à certains de ses usagers qu'une fuite de données personnelles avait touché environ deux pour cent de sa clientèle. Selon l'entreprise, l'incident aurait été détecté à temps et les données ne devraient pas avoir quitté l'ordinateur du pirate présumé.
+
+    Dans un tout autre registre, selon Radio-Canada, le Pentagone a reconnu une pénurie de munitions liée à la guerre contre l'Iran. Toujours selon Radio-Canada, entre le vingt-huit février et le trente juin, ce conflit aurait coûté environ trente-trois virgule quatre milliards de dollars.
+
+    Enfin, selon La Presse, deux rapports de coroner concernant des patients vulnérables morts en deux mille vingt-cinq évoquent des indices de maltraitance organisationnelle au sein du réseau de la santé québécois, les deux patients ayant passé des mois sans recevoir de soins appropriés.
+  </chapitre>
+
+  <chapitre titre="Économie et marchés">
+    On passe à l'économie, où les taux obligataires américains dominent l'attention. Selon le Financial Times, le taux des obligations du Trésor américain à dix ans a franchi le seuil de cinq pour cent pour la première fois depuis deux mille vingt-trois. Selon Bloomberg, ce niveau soulève de nouveaux risques pour les marchés et l'économie. Le Wall Street Journal rapporte que ce taux s'est ensuite légèrement replié, alors que le rendement des obligations allemandes, lui, a atteint un sommet en quinze ans.
+
+    Dans une tribune publiée par The Economist, l'économiste Mohamed El-Erian soutient que les marchés obligataires ne traversent pas simplement une fièvre passagère et critique ce qu'il qualifie de mauvais diagnostic de la part du secrétaire au Trésor américain Scott Bessent.
+
+    Ce climat de nervosité s'est propagé aux actions technologiques. Selon Reuters, Wall Street a terminé en baisse lundi, les appels à un ralentissement du développement de l'intelligence artificielle ayant pesé lourdement sur les fabricants de semi-conducteurs. Selon l'Associated Press, les actions liées à l'intelligence artificielle ont reculé, alors que le reste du marché s'est montré plus stable après que les prix du pétrole eurent redonné une hausse initiale. Selon Bloomberg, les Bourses asiatiques devraient également reculer en raison de cette même inquiétude entourant l'intelligence artificielle.
+
+    Du côté des marchés pétroliers, le Wall Street Journal explique que l'oléoduc est-ouest de l'Arabie saoudite est devenu un point d'attention majeur pour les marchés du pétrole, dans le contexte des tensions régionales des derniers jours.
+
+    En Chine, selon Bloomberg, l'économie du pays entre dans une phase jugée critique qui déterminera l'ampleur des mesures de stimulation prévues pour deux mille vingt-six. Toujours en lien avec la Chine, Reuters rapporte que certaines entreprises qui avaient quitté le pays pour éviter des tarifs américains commencent à y retourner.
+
+    Au Canada, deux provinces cherchent à attirer des investissements majeurs. Selon BNN Bloomberg, le Manitoba offre d'exempter de taxe de vente les investissements majeurs au port de Churchill. Toujours selon BNN Bloomberg, le Nouveau-Brunswick vise à attirer trente milliards de dollars d'investissements lors d'un sommet à Toronto.
+
+    Ailleurs, Reuters rapporte que l'Arabie saoudite a découvert cent dix millions de tonnes de minerai uranifère dans la région de Médine. Et toujours selon Reuters, les surcharges de carburant imposées par les compagnies ferroviaires américaines sur le transport du grain atteignent des sommets records, ce qui exerce une pression accrue sur les agriculteurs en pleine période de récolte.
+  </chapitre>
+
+  <chapitre titre="Tech">
+    Un mot sur la tech, encore largement dominée par la controverse entourant le rythme de développement de l'intelligence artificielle, mais où d'autres nouvelles méritent aussi l'attention.
+
+    Selon TechCrunch, Jensen Huang, chef de la direction de Nvidia, a pris un appel en direct de Donald Trump lors d'une conférence, tout en présentant un nouvel appareil de l'entreprise. Toujours selon TechCrunch, OpenAI aurait acheté l'entreprise Glass Imaging, spécialisée dans les caméras de téléphones intelligents, pour environ trois cents millions de dollars. Cette entreprise a été fondée par d'anciens ingénieurs d'Apple qui avaient dirigé le développement du mode Portrait.
+
+    Toujours selon TechCrunch, l'entreprise d'infrastructure en intelligence artificielle Cornelis a amassé environ deux cent cinq millions de dollars pour tenter de concurrencer la position dominante de Nvidia dans ce secteur.
+
+    Selon Ars Technica, le secrétaire de l'Force aérienne américaine, Troy Meink, a confirmé publiquement pour la première fois que les États-Unis ont déployé des armes de contrôle spatial en orbite, une déclaration faite lors d'une conférence annuelle près de Washington. Selon ses propos rapportés par Ars Technica, je le cite : "the United States now has on-orbit space control weapons capable of defending the joint force against hostile adversary action." Fin de citation.
+
+    Dans le secteur automobile, selon The Verge, Volvo a dévoilé de nouvelles versions hybrides rechargeables de ses véhicules utilitaires sport XC60 et XC90, offrant des autonomies électriques plus que doublées par rapport aux versions précédentes, avec des autonomies préliminaires basées sur les normes d'essai de l'agence américaine de protection de l'environnement. Ars Technica ajoute que les deux véhicules profitent aussi de nouveaux phares à diodes matricielles et d'un assistant vocal Gemini pour le système d'infodivertissement.
+
+    Enfin, selon Ars Technica, le secrétaire américain à la Santé, Robert F. Kennedy fils, doit prononcer un discours à une conférence antivaccin à guichets fermés à Washington cette semaine, aux côtés d'Andrew Wakefield, l'ancien médecin déchu de son permis pour une étude frauduleuse ayant faussement lié les vaccins à l'autisme.
+  </chapitre>
+
+  <chapitre titre="Sport">
+    Rapidement en sport. Selon Global News, l'acquisition de Kawhi Leonard par les Raptors de Toronto, en provenance des Clippers de Los Angeles, est maintenant officielle, sept ans après qu'il ait mené la franchise à son seul championnat de la NBA.
+
+    Du côté du baseball, selon Sportsnet, les Blue Jays de Toronto ont raté une occasion de rejoindre les Guardians de Cleveland dans la course aux séries éliminatoires, après une défaite difficile contre les Tigers. Il reste onze matchs à l'équipe pour se qualifier.
+
+    Selon Sportsnet, les Sénateurs d'Ottawa seraient sur le point de s'entendre avec Drake Batherson pour une prolongation de contrat de huit ans, cet attaquant ayant marqué trente-trois buts la saison dernière.
+
+    Selon Radio-Canada, le Canadien de Montréal mise sur l'expérience pour entamer sa nouvelle saison, notamment avec l'ajout de Chris Kreider et de l'entraîneur adjoint Derek Lalonde.
+
+    Enfin, en soccer européen, selon Al Jazeera, Leeds United a défait Newcastle par quatre buts à un, grâce notamment à des buts de Calvert-Lewin, Okafor et Bogle, ce qui propulse l'équipe au troisième rang de la Premier League.
+  </chapitre>
+
+  <outro>Voilà pour ce Presto du mardi quinze septembre deux mille vingt-six. Si ce briefing vous est utile, le meilleur coup de main que vous pouvez nous donner, c'est de le partager à une personne qui aime rester informée. Et selon votre plateforme : un abonnement sur Spotify ou Apple Podcasts, un pouce bleu et un abonnement sur YouTube, ça prend deux secondes et ça aide vraiment Presto à grandir. Sur ce, bonne journée, et à demain.</outro>
+</script>
+```
