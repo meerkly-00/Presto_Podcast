@@ -1,0 +1,14 @@
+{
+  "date": "2026-09-15",
+  "kind": "poll",
+  "text": "Ce matin → Les patrons d'OpenAI, Anthropic et Google s'entendent pour ralentir le développement de l'IA.\n\nNouveau développement : Les centres de données\n\nFace à la consommation énergétique croissante de l'IA, penses-tu que ralentir le développement est la bonne approche?",
+  "poll": {
+    "options": [
+      "Oui, il faut ralentir",
+      "Non, il faut continuer",
+      "Il faut améliorer",
+      "C'est au marché de"
+    ],
+    "duration_minutes": 1440
+  }
+}
