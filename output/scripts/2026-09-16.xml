@@ -1,0 +1,83 @@
+```xml
+<script>
+  <intro>Bonjour, on est le mercredi seize septembre deux mille vingt-six. Voici votre Presto en environ quinze minutes. Au menu : les États-Unis mettent fin aux hostilités contre l'Iran, la Réserve fédérale attendue sur les taux, le Québec en pleine campagne électorale, et la controverse sur l'intelligence artificielle qui continue de faire des vagues.</intro>
+
+  <chapitre titre="International">
+    On commence par les États-Unis, où la Chambre des représentants a voté pour la troisième fois en faveur d'une résolution mettant fin aux pouvoirs de guerre du président concernant l'Iran. Selon Al Jazeera, sept élus républicains se sont joints aux démocrates pour appuyer cette résolution, qui limite la capacité de Donald Trump à poursuivre l'action militaire.
+
+    Le détroit d'Ormuz reste sous tension. Selon Reuters, le nombre de traversées de navires dans le détroit demeure à un chiffre, très en dessous des niveaux normaux. Sur le marché pétrolier, Reuters rapporte que les prix ont glissé légèrement, alors que les investisseurs surveillent à la fois les stocks américains et les perturbations au Moyen-Orient. Selon des responsables américains cités par Reuters, l'oléoduc saoudien touché devrait redevenir opérationnel dans les prochains jours, bien que Bloomberg rapporte que certains scénarios évoquent une fermeture pouvant durer plusieurs semaines.
+
+    Ailleurs, Al Jazeera rapporte que les autorités américaines ont porté des accusations contre cinq personnes soupçonnées d'avoir agi pour le compte des services de renseignement russes dans le cadre de complots visant à commettre des attaques et des meurtres.
+
+    En Corée, un tribunal de Séoul a ordonné à la Corée du Nord de verser environ trente-deux millions et demi de dollars américains en dommages, selon Al Jazeera, pour la destruction du bureau de liaison intercoréen survenue en deux mille vingt.
+
+    Au Brésil, l'Associated Press rapporte qu'une crise secoue la Cour suprême du pays, dans un contexte politique tendu.
+
+    À Gaza, la BBC rapporte qu'au moins douze personnes sont mortes après l'effondrement d'un immeuble déjà endommagé par la guerre, où dix familles auraient habité. Des dizaines de personnes demeurent portées disparues sous les décombres.
+
+    Du côté diplomatique canadien, l'Associated Press rapporte que le premier ministre Mark Carney se rend en Europe pour un discours important et pour approfondir les liens avec l'Union européenne, dans un contexte de relations tendues avec Washington. Selon CBC, Carney a par ailleurs affirmé que le Canada ne cherche pas à devenir membre de l'Union européenne.
+  </chapitre>
+
+  <chapitre titre="Actualité québécoise">
+    Au Québec, la campagne électorale provinciale continue de dominer l'actualité, à quelques jours du scrutin. Selon Radio-Canada, les cinq chefs de parti ont croisé le fer pendant deux heures mardi soir lors du débat télévisé de TVA, où le bilan de la première ministre sortante a été la principale cible des attaques.
+
+    Toujours selon Radio-Canada, le cadre financier du Parti québécois a aussi été passé au crible, le parti misant sur d'importantes réductions dans la bureaucratie ainsi que sur des transferts fédéraux pour financer ses engagements.
+
+    En marge de la campagne, le Journal de Montréal rapporte que la ministre Duranceau a dénoncé une campagne de peur qu'elle qualifie d'organisée concernant des dépassements de coûts du projet SIFA, une sortie survenue juste avant le débat.
+
+    À Montréal, La Presse rapporte qu'environ deux à trois cents personnes ont manifesté devant la Maison Benoît Labre pour exiger la fermeture de ce refuge, qui abrite aussi un centre d'injection supervisé. Un rassemblement solidaire s'est tenu simultanément en soutien à l'organisme.
+
+    Toujours à Montréal, La Presse rapporte que la conduite d'eau potable sous l'avenue Atwater, dont l'état critique inquiétait la Ville depuis le printemps, a été réparée.
+
+    Dans le Centre-du-Québec, La Presse rapporte qu'une personne est morte dans un incendie causé par une collision frontale entre un véhicule utilitaire sport et un camion-citerne sur l'autoroute cinquante-cinq, près de Saint-Célestin.
+
+    Enfin, Le Devoir rapporte que certaines garderies ont réduit leurs services aux enfants à besoins particuliers, certains établissements ayant cessé de recourir à des orthophonistes et ayant mis à pied des éducatrices spécialisées.
+  </chapitre>
+
+  <chapitre titre="Politique canadienne">
+    Au Canada, l'ancien premier ministre conservateur Stephen Harper a livré un discours de clôture au Sommet canadien de l'investissement à Toronto. Selon Radio-Canada, Harper a réitéré sa vision d'un Canada qui deviendrait une superpuissance énergétique. Selon le National Post, il a soutenu que le Canada avait eu raison de se retirer des pourparlers commerciaux et qu'il doit réduire sa dépendance envers les États-Unis pour préserver sa souveraineté.
+
+    Dans la foulée de ce sommet, Les Affaires rapporte que le premier ministre Mark Carney a présenté une nouvelle mesure fiscale, la Mégadéduction à la productivité, visant à consolider la position du Canada comme pays le plus concurrentiel du G7 pour les nouveaux investissements des entreprises. Selon Reuters, Ottawa offre aussi un incitatif fiscal permanent sur les investissements en capital pour attirer les investisseurs.
+
+    En Alberta, CBC rapporte que le Nouveau Parti démocratique a remporté une élection partielle dans une circonscription auparavant détenue par le Parti conservateur uni, en mettant de l'avant un message anti-séparatiste, à quelques semaines d'un référendum sur la question.
+  </chapitre>
+
+  <chapitre titre="Économie et marchés">
+    On passe à l'économie, où l'attention se tourne vers la décision de la Réserve fédérale américaine sur les taux d'intérêt, attendue aujourd'hui. Selon l'Associated Press, la Fed devrait relever son taux directeur, une décision qui irait à l'encontre des demandes répétées de Donald Trump. Bloomberg rapporte que l'histoire suggère que la banque centrale livrera la hausse déjà anticipée par les marchés.
+
+    En Asie, Reuters rapporte que les marchés ont progressé de façon hésitante en attendant cette décision, tandis que les prix du pétrole ont légèrement reculé.
+
+    Du côté de l'or, Bloomberg rapporte que le métal précieux se stabilise sous les quatre mille trois cents dollars américains l'once, dans l'attente de la décision de la Fed.
+
+    Aux États-Unis, le Wall Street Journal rapporte que le marché immobilier, déjà stagnant, s'apprête à faire face à des taux hypothécaires autour de sept pour cent.
+
+    Du côté des affaires canadiennes, BNN Bloomberg rapporte que CPP Investments et Brookfield lancent un fonds de cinquante milliards de dollars pour investir dans de grands projets canadiens.
+
+    Enfin, Reuters rapporte qu'une agence américaine a ordonné à Tesla de répondre à des questions concernant la certification de son véhicule autonome Cybercab.
+  </chapitre>
+
+  <chapitre titre="Tech">
+    Un mot sur la tech, toujours dominée par le débat sur l'intelligence artificielle, mais où le ton commence à changer. Selon la BBC, le chef de la direction d'OpenAI, Sam Altman, affirme que le monde a raison d'avoir peur de l'intelligence artificielle, tout en soutenant qu'il faut faire confiance aux entreprises du secteur pour gérer les risques. Il évoque, avec d'autres dirigeants de laboratoires, des incitatifs qui pourraient limiter les avancées.
+
+    Son de cloche différent chez Nvidia. Selon TechCrunch, le chef de la direction Jensen Huang affirme que l'intelligence artificielle n'a rien d'un esprit étranger, qu'il s'agit simplement de matériel et de logiciel, et que la sécurité peut être conçue directement par chaque fabricant de produits, sans réglementation.
+
+    Le débat prend aussi une tournure politique aux États-Unis. Selon un sondage du New York Times et de l'Université Siena, cité par The Verge, soixante et un pour cent des électeurs probables interrogés début septembre s'opposent à la construction de centres de données pour alimenter l'intelligence artificielle, contre seulement quatorze pour cent qui appuient fortement cette construction. Selon la même enquête, l'opposition est répartie de façon presque égale chez les électeurs de Donald Trump en deux mille vingt-quatre, alors qu'elle est plus marquée chez les électeurs de Kamala Harris.
+
+    Dans la même veine, TechCrunch rapporte que le mécontentement s'est étendu jusqu'à Philadelphie, où des élus locaux ont évoqué la possibilité de construire un centre de données dans un quartier déjà marqué par une ancienne raffinerie de pétrole aujourd'hui fermée.
+
+    Ailleurs en tech, Microsoft a annoncé un événement consacré à Windows et à Surface pour le sept octobre prochain, selon The Verge, où le chef de la direction Satya Nadella et le patron de Nvidia Jensen Huang doivent tous deux prendre la parole.
+
+    Enfin, du côté scientifique, Ars Technica rapporte que le télescope spatial Nancy Grace Roman de la NASA dispose de suffisamment de carburant pour fonctionner pendant vingt-deux ans, soit le double des attentes initiales des ingénieurs, grâce à une trajectoire de lancement particulièrement précise.
+  </chapitre>
+
+  <chapitre titre="Sport">
+    Rapidement en sport. Selon Sportsnet, les déboires du personnel de relève des Blue Jays de Toronto ont coûté cher dans une série contre les Tigers de Détroit, l'équipe ayant multiplié les matchs improvisés en enclos cette saison.
+
+    À Ottawa, Sportsnet rapporte que les Sénateurs ont accordé à l'attaquant Drake Batherson le plus important contrat de l'histoire de la franchise, un signal de l'ambition du propriétaire Michael Andlauer.
+
+    Enfin, à Toronto, Sportsnet confirme que la transaction amenant Kawhi Leonard chez les Raptors est maintenant complètement officielle, l'enquête étant close et le commissaire de la NBA ayant donné son aval.
+  </chapitre>
+
+  <outro>Voilà pour ce Presto du mercredi seize septembre deux mille vingt-six. Si ce briefing vous est utile, le meilleur coup de main que vous pouvez nous donner, c'est de le partager à une personne qui aime rester informée. Et selon votre plateforme : un abonnement sur Spotify ou Apple Podcasts, un pouce bleu et un abonnement sur YouTube, ça prend deux secondes et ça aide vraiment Presto à grandir. Sur ce, bonne journée, et à demain.</outro>
+</script>
+```
