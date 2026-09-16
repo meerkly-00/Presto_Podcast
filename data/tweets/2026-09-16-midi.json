@@ -1,0 +1,14 @@
+{
+  "date": "2026-09-16",
+  "kind": "poll",
+  "text": "Ce matin → La Fed relève ses taux de 0,25 %, malgré les demandes répétées de Trump.\n\nNouvelle : C'est la première hausse en trois\n\nLa hausse des taux affecte les emprunts hypothécaires. Selon toi, comment devrait-on équilibrer lutte à l'inflation et accessibilité au logement?",
+  "poll": {
+    "options": [
+      "Priorité à la lutte à",
+      "Priorité à",
+      "Les deux enjeux sont",
+      "Incertain"
+    ],
+    "duration_minutes": 1440
+  }
+}
