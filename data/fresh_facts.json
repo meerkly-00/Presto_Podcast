@@ -1,50 +1,54 @@
 {
-  "generated_at": "2026-09-16T00:00:01.046342+00:00",
+  "generated_at": "2026-09-16T17:29:06.979404+00:00",
   "window_hours": 8,
   "faits": [
     {
-      "sujet": "Décès routiers en Alberta",
-      "fait": "Selon Global News, la Gendarmerie royale du Canada prévoit 274 décès routiers en Alberta en 2026 si les tendances actuelles se maintiennent, ce qui représenterait le plus haut bilan depuis une décennie."
+      "sujet": "Apple envisage de relancer les serveurs",
+      "fait": "Selon The Verge, Apple planifierait de relancer sa gamme de serveurs et pourrait s'associer à NVIDIA. Le produit ne devrait pas être lancé avant 2029."
     },
     {
-      "sujet": "Opposition aux centres de données IA",
-      "fait": "D'après The Verge, un sondage du New York Times et de l'Université Siena montre que 61% des 1 503 électeurs sondés s'opposent à la construction de centres de données pour alimenter l'IA, contre seulement 14% qui y sont fortement favorables."
+      "sujet": "Protestations mondiales sur les prix des carburants",
+      "fait": "D'après CBC World, des pays incluant la Syrie, la France et le Guatemala connaissent des blocages et des marches de protestation dus à la hausse des prix du pétrole brut et du diesel, causée par les conflits au Moyen-Orient."
     },
     {
-      "sujet": "Réduction de la fonction publique fédérale",
-      "fait": "Selon Radio-Canada, le gouvernement fédéral a supprimé 23 000 postes dans la fonction publique en deux ans et vise une réduction de 10% d'ici 2028-2029."
+      "sujet": "Attaques de drones en Ukraine",
+      "fait": "Selon CBC, des drones russes ont frappé un bus et un train de passagers dans le sud de l'Ukraine le mercredi, tuant cinq personnes."
     },
     {
-      "sujet": "Débat électoral québécois",
-      "fait": "D'après Radio-Canada, les cinq chefs des principaux partis participeront au premier débat télévisé de la campagne électorale québécoise à 20h le 15 septembre 2026."
+      "sujet": "Effondrement de bâtiment à Gaza",
+      "fait": "D'après BBC World, un bâtiment endommagé par la guerre à Gaza City s'est effondré, tuant 21 personnes dont 8 enfants. Environ 10 familles vivaient dans ce bâtiment de six étages frappé par une frappe israélienne l'année précédente."
     },
     {
-      "sujet": "Investissement privé à l'aéroport de Vancouver",
-      "fait": "Selon Global News, le PDG de l'Aéroport de Vancouver déclare que des discussions sur un investissement privé sont déjà en cours, citant des exemples comme Heathrow et Sydney Airport."
+      "sujet": "Google ouvre sa maison intelligente aux agents IA",
+      "fait": "Selon TechCrunch et The Verge, Google lance un accès anticipé à un nouveau serveur MCP pour Google Home, permettant aux agents IA comme Claude et ChatGPT de contrôler les appareils connectés."
     },
     {
-      "sujet": "Diversité aux Emmy Awards 2026",
-      "fait": "D'après CBC, aucun acteur de couleur n'a remporté les 10 prix majeurs d'interprétation aux Emmy Awards 2026, tous étant allés à des interprètes blancs."
+      "sujet": "Coût estimé de la séparation de l'Alberta",
+      "fait": "D'après La Presse et Global News, un rapport commandé par le gouvernement de l'Alberta estime que le coût d'une séparation d'avec le Canada pourrait atteindre 170 milliards de dollars pour les cinq premières années."
     },
     {
-      "sujet": "Télescope spatial Nancy Grace Roman",
-      "fait": "Selon Ars Technica, le télescope spatial de 4,3 milliards de dollars disposera de carburant pour au moins 22 ans de fonctionnement scientifique, soit deux fois plus que prévu initialement."
+      "sujet": "Anthropic fusionne Claude Chat et Cowork",
+      "fait": "Selon TechCrunch et The Verge, Anthropic fusionne ses outils Claude Chat et Cowork en une seule interface, et lance de nouveaux outils appelés Docs et Slides pour créer des documents et présentations."
     },
     {
-      "sujet": "Soutien aux Conservateurs de la Colombie-Britannique",
-      "fait": "D'après Global News, un sondage montre que le soutien aux Conservateurs de la Colombie-Britannique est passé à 35% plus de 100 jours après l'élection de Kerry-Lynne Findlay à la tête du parti."
+      "sujet": "Élections Québec doit envoyer documents bilingues",
+      "fait": "D'après Radio-Canada, Élections Québec devra envoyer des cartes de rappel en français et en anglais, cette première année étant la première où l'organisme envoyait des documents électoraux uniquement en français."
     },
     {
-      "sujet": "Coûts de la guerre en Iran",
-      "fait": "Selon Reuters, les coûts de la guerre en Iran ont atteint 38 milliards de dollars, avec une projection d'augmentation de 3 milliards de dollars par mois selon le Congressional Budget Office."
+      "sujet": "Inquiétudes américaines sur l'empreinte écologique de l'IA",
+      "fait": "Selon Al Jazeera, un sondage montre que plus de la moitié des Américains craignent que les centres de données alimentés par l'IA n'augmentent les coûts d'électricité et ne surcharges les réserves d'eau."
     },
     {
-      "sujet": "Incitatif fiscal canadien aux investissements",
-      "fait": "D'après Reuters, le Canada offre un incitatif fiscal permanent sur les investissements en capital pour attirer les investisseurs, annoncé par Chrystia Carney."
+      "sujet": "Statut de membre associé Canada-UE flou",
+      "fait": "D'après National Post, au Parlement européen, personne ne semble savoir clairement ce que signifie pour le Canada de devenir un 'membre associé' de l'Union européenne."
     },
     {
-      "sujet": "Cadre financier du Parti québécois",
-      "fait": "Selon Le Devoir, le Parti québécois prévoit de générer 6,6 milliards de dollars d'économies en réduisant la masse salariale de l'État et compte atteindre l'équilibre budgétaire en 2029."
+      "sujet": "Recherche financée sur sujets controversés",
+      "fait": "Selon National Post, le Conseil de recherches en sciences humaines (CRSH) du gouvernement fédéral coûtera 1,4 milliard de dollars aux contribuables en 2026-27, financant notamment des recherches sur les discours de Trudeau et les vidéos à faible empreinte carbone."
+    },
+    {
+      "sujet": "Ebola en République Démocratique du Congo",
+      "fait": "D'après Al Jazeera, le chef de l'OMS avertit que la lutte contre Ebola en RDC est 'loin d'être terminée', les cas augmentant au Nord-Kivu malgré des progrès dans d'autres régions."
     }
   ]
 }
