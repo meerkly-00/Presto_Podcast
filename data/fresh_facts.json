@@ -1,50 +1,54 @@
 {
-  "generated_at": "2026-09-17T00:07:32.481123+00:00",
+  "generated_at": "2026-09-17T17:30:29.946255+00:00",
   "window_hours": 8,
   "faits": [
     {
-      "sujet": "Débat électoral québécois",
-      "fait": "Les cinq chefs participent au Grand débat des chefs à 20h sur la chaîne Noovo. Selon Radio-Canada."
+      "sujet": "Intelligence artificielle et régulation",
+      "fait": "Le roi Charles III a organisé un sommet privé jeudi avec des figures éminentes de l'IA et du gouvernement britannique pour discuter des préoccupations relatives à l'IA. Selon TechCrunch, cet événement reflète des hésitations au plus haut niveau politique face aux développements de l'IA."
     },
     {
-      "sujet": "Taux directeur américain",
-      "fait": "La Réserve fédérale américaine a augmenté son taux directeur pour la première fois en trois ans, dans une décision unanime malgré l'opposition du président Trump. Selon BBC World et AP News."
+      "sujet": "Partenariat sécurité IA open-source",
+      "fait": "Base Labs a lancé un partenariat de sécurité IA avec Hugging Face et Goodfire pour développer et publier des méthodes d'entraînement et de surveillance des modèles ouverts. Selon TechCrunch, ce groupe de recherche spinoff de Baseten se concentre sur les modèles open-weight."
     },
     {
-      "sujet": "Produits canadiens et achats américains",
-      "fait": "Trump ordonne à son administration de repérer les exportations canadiennes qui pourraient être exclues des achats gouvernementaux. Selon Radio-Canada."
+      "sujet": "Canada-Union européenne alliance",
+      "fait": "Le premier ministre Mark Carney a accepté la proposition d'une adhésion associée du Canada à l'UE lors d'un discours au Parlement européen jeudi. Selon La Presse et BBC World, Carney a défini les contours d'une alliance face aux défis posés par l'administration Trump et aux géants du web."
     },
     {
-      "sujet": "Indépendance de l'Alberta",
-      "fait": "Un rapport de l'Université de Calgary commandé par le gouvernement provincial estime qu'une séparation de l'Alberta coûterait jusqu'à 170 milliards de dollars dans un premier temps, avec une dette provinciale explosant entre 324 et 442,3 milliards de dollars. Selon Radio-Canada."
+      "sujet": "Crimes de guerre présumés en Iran",
+      "fait": "Une mission d'enquête de l'ONU a conclu jeudi qu'il existait des raisons de croire que les États-Unis ont commis des crimes de guerre lors de frappes en février contre une école et un centre sportif en Iran. D'après CBC et Al Jazeera, la mission a aussi documenté des crimes contre l'humanité commis par les autorités iraniennes lors de répressions."
     },
     {
-      "sujet": "Relations Israël-Maroc",
-      "fait": "Israël et le Maroc s'engagent à ouvrir des ambassades et à reprendre les vols commerciaux directs. Selon Al Jazeera."
+      "sujet": "Restrictions réseaux sociaux mineurs UE",
+      "fait": "L'Union européenne a annoncé un plan pour restreindre l'accès aux réseaux sociaux pour les enfants de moins de 15 ans. Selon BBC World, seuls les enfants de plus de 15 ans pourraient créer leurs propres comptes de médias sociaux."
     },
     {
-      "sujet": "Candidature militaire canadienne",
-      "fait": "Le Canada a officiellement soumis sa candidature pour rejoindre la Force expéditionnaire conjointe dirigée par le Royaume-Uni. Selon Radio-Canada et CBC."
+      "sujet": "Cycle hydrologique perturbé",
+      "fait": "Les cours d'eau mondiaux ont connu en 2025 l'une des années les plus sèches depuis plus de trois décennies. D'après Le Devoir citant l'ONU, le cycle de l'eau est devenu « plus irrégulier et imprévisible »."
     },
     {
-      "sujet": "Affaire du vol d'or à Pearson",
-      "fait": "Les accusations contre Amit Jalota et Ali Raza, inculpés dans le vol de 20 millions de dollars à l'aéroport Pearson de Toronto, ont été abandonnées. Selon Global News."
+      "sujet": "Menace de grève Stellantis Canada",
+      "fait": "Le syndicat représentant plus de 9 000 travailleurs de Stellantis au Canada déclare qu'une grève est une « possibilité réelle » après l'arrêt des négociations avec le constructeur automobile concernant la vente de l'usine de Brampton. Selon Global News, les négociations ont échoué."
     },
     {
-      "sujet": "Criminalité à Montréal",
-      "fait": "Le directeur du SPVM Fady Dagher rapporte une baisse récente de la criminalité à Montréal et une hausse du recrutement de policiers. Selon La Presse."
+      "sujet": "Manitoba adopte heure avancée permanente",
+      "fait": "Le Manitoba a annoncé jeudi qu'il adopterait l'heure avancée permanente après qu'une enquête ait révélé une opposition écrasante au changement d'heure. Selon CBC, les Manitobains n'auront plus besoin de changer leurs horloges deux fois par an."
     },
     {
-      "sujet": "Serveur Apple pour l'IA",
-      "fait": "Apple développerait un serveur d'entreprise utilisant ses puces M-series Ultra, avec un lancement prévu en 2029, représentant le premier serveur Apple depuis près de deux décennies. Selon Ars Technica."
+      "sujet": "Surveillance vie privée robotaxis",
+      "fait": "Un robotaxi Waymo a détecté une violation de ses conditions de service impliquant une arme à feu en septembre, a tiré la voiture et alerté les services d'urgence, menant à l'arrestation de deux adolescents. Selon The Verge, cet incident révèle des questions sans réponse sur la vie privée et l'enregistrement des véhicules autonomes."
     },
     {
-      "sujet": "Prix de l'essence en Alberta",
-      "fait": "Les conducteurs albertains font face à une nouvelle augmentation des prix à la pompe suite à une panne de raffinerie en Illinois, liée aux tensions en Iran et au blocage du détroit d'Ormuz. Selon Global News."
+      "sujet": "Trafic d'armes à feu Québec",
+      "fait": "Deux Québécois ont plaidé coupable cette semaine devant la justice américaine d'avoir joué un rôle clé dans un complot international de trafic d'armes à feu. D'après La Presse, ils ont été piégés par un agent d'infiltration américain dans un hôtel de Montréal en 2016."
     },
     {
-      "sujet": "Cyberattaque sur l'IMO",
-      "fait": "L'Organisation internationale des météores a subi une cyberattaque critique qui a mis hors ligne une grande partie de son infrastructure, avec plusieurs semaines de temps d'arrêt partiel prévu. Selon Ars Technica."
+      "sujet": "Tarification contenus numériques",
+      "fait": "Pinterest teste une nouvelle fonctionnalité appelée Restyle permettant aux utilisateurs de visualiser avec l'IA des modifications de mobilier, décoration et éclairage dans des photos de leurs propres pièces. Selon TechCrunch, cet outil vise potentiellement à convertir l'inspiration sauvegardée en achats."
+    },
+    {
+      "sujet": "Interdiction voyage Tamara Lich",
+      "fait": "Une juge ontarienne a refusé jeudi la demande de Tamara Lich, organisatrice du Convoi de la liberté de 2022, de voyager à l'étranger pendant son assignation à résidence. D'après CBC et Le Devoir, la juge a motivé cette décision en affirmant que permettre les voyages affaiblirait les effets punitifs et dissuasifs de sa peine."
     }
   ]
 }
