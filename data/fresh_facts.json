@@ -1,54 +1,50 @@
 {
-  "generated_at": "2026-09-16T21:53:58.835816+00:00",
+  "generated_at": "2026-09-17T00:07:32.481123+00:00",
   "window_hours": 8,
   "faits": [
     {
-      "sujet": "Taux d'intérêt américains",
-      "fait": "La Réserve fédérale américaine a relevé son taux directeur de 0,25 point de pourcentage à 3,75%-4%, sa première hausse en trois ans. Selon la BBC World et Associated Press, cette décision intervient malgré les demandes de réduction du président Trump."
+      "sujet": "Débat électoral québécois",
+      "fait": "Les cinq chefs participent au Grand débat des chefs à 20h sur la chaîne Noovo. Selon Radio-Canada."
     },
     {
-      "sujet": "Politique commerciale Trump-Canada",
-      "fait": "Le président Donald Trump a signé un mémorandum présidentiel pour identifier et retirer les produits d'origine canadienne des marchés publics fédéraux américains. Selon CBC, cette décision a été annoncée le 16 septembre 2026."
+      "sujet": "Taux directeur américain",
+      "fait": "La Réserve fédérale américaine a augmenté son taux directeur pour la première fois en trois ans, dans une décision unanime malgré l'opposition du président Trump. Selon BBC World et AP News."
     },
     {
-      "sujet": "Plan d'aéroport Mark Carney",
-      "fait": "Le gouverneur Doug Ford du Ontario a apporté son soutien explicite aux plans d'aéroport de Mark Carney, selon un article du National Post du 16 septembre 2026."
+      "sujet": "Produits canadiens et achats américains",
+      "fait": "Trump ordonne à son administration de repérer les exportations canadiennes qui pourraient être exclues des achats gouvernementaux. Selon Radio-Canada."
     },
     {
-      "sujet": "Élections québécoises débat des chefs",
-      "fait": "Un deuxième débat des chefs électoraux québécois s'est déroulé le 16 septembre 2026 à 20h sur la chaîne Noovo, selon Radio-Canada."
+      "sujet": "Indépendance de l'Alberta",
+      "fait": "Un rapport de l'Université de Calgary commandé par le gouvernement provincial estime qu'une séparation de l'Alberta coûterait jusqu'à 170 milliards de dollars dans un premier temps, avec une dette provinciale explosant entre 324 et 442,3 milliards de dollars. Selon Radio-Canada."
     },
     {
-      "sujet": "Indépendance de l'Alberta coûts",
-      "fait": "Un rapport de l'Université de Calgary commandé par le gouvernement provincial estime que la séparation de l'Alberta du Canada pourrait coûter entre 50 et 170 milliards de dollars au cours des cinq premières années. Selon Radio-Canada, la dette de l'Alberta pourrait passer entre 324 et 442,3 milliards de dollars dans les deux scénarios analysés."
+      "sujet": "Relations Israël-Maroc",
+      "fait": "Israël et le Maroc s'engagent à ouvrir des ambassades et à reprendre les vols commerciaux directs. Selon Al Jazeera."
     },
     {
-      "sujet": "Accusations drogue Trump Canada",
-      "fait": "Le président Trump a accusé une nouvelle fois le Canada de ne pas en faire assez contre le trafic de drogue, mais n'a pas inclus le Canada dans la liste officielle des principaux pays producteurs de drogue publiée le 16 septembre 2026, selon La Presse."
+      "sujet": "Candidature militaire canadienne",
+      "fait": "Le Canada a officiellement soumis sa candidature pour rejoindre la Force expéditionnaire conjointe dirigée par le Royaume-Uni. Selon Radio-Canada et CBC."
     },
     {
-      "sujet": "Pont Gordie Howe trafic",
-      "fait": "Le nouveau pont Gordie Howe reliant Windsor (Ontario) et Detroit a enregistré plus de 340 000 véhicules lors de son premier mois complet d'exploitation, selon CBC."
+      "sujet": "Affaire du vol d'or à Pearson",
+      "fait": "Les accusations contre Amit Jalota et Ali Raza, inculpés dans le vol de 20 millions de dollars à l'aéroport Pearson de Toronto, ont été abandonnées. Selon Global News."
     },
     {
-      "sujet": "Venezuela liste drogue américaine",
-      "fait": "Les États-Unis ont retiré le Venezuela de la liste des pays de transit et de production de drogue, le président Trump citant des progrès réalisés depuis le départ de Maduro. Selon Al Jazeera, les États-Unis envisagent également de retirer la Colombie et la Bolivie."
+      "sujet": "Criminalité à Montréal",
+      "fait": "Le directeur du SPVM Fady Dagher rapporte une baisse récente de la criminalité à Montréal et une hausse du recrutement de policiers. Selon La Presse."
     },
     {
-      "sujet": "Cyberattaque organisation météores",
-      "fait": "L'International Meteor Organization a été victime d'une cyberattaque qui a porté un 'coup critique' à ses infrastructures vieillissantes, mettant une grande partie de son site hors ligne. Selon Ars Technica, plusieurs semaines de temps d'arrêt partiel sont attendues pendant la transition vers une nouvelle infrastructure."
+      "sujet": "Serveur Apple pour l'IA",
+      "fait": "Apple développerait un serveur d'entreprise utilisant ses puces M-series Ultra, avec un lancement prévu en 2029, représentant le premier serveur Apple depuis près de deux décennies. Selon Ars Technica."
     },
     {
-      "sujet": "Police Montréal technique contention",
-      "fait": "Le Service de police de la Ville de Montréal (SPVM) a proscrit une technique de contention dangereuse appelée 'hogtie' qui aurait contribué au décès d'une personne en crise l'année précédente, selon La Presse."
+      "sujet": "Prix de l'essence en Alberta",
+      "fait": "Les conducteurs albertains font face à une nouvelle augmentation des prix à la pompe suite à une panne de raffinerie en Illinois, liée aux tensions en Iran et au blocage du détroit d'Ormuz. Selon Global News."
     },
     {
-      "sujet": "Plateforme gestion cap table fermeture",
-      "fait": "Pulley, une plateforme de gestion de tables de capitalisation soutenue par General Catalyst, Stripe et Founders Fund, a annoncé sa fermeture en décembre 2026. Selon TechCrunch, cela intervient en tant que concurrent direct de Carta."
-    },
-    {
-      "sujet": "Canada statut membre associé UE",
-      "fait": "Le chef de l'Union européenne a proposé que le Canada devienne un 'membre associé' de l'UE, selon Reuters et National Post, sans détails supplémentaires sur les implications de ce statut dans les articles fournis."
+      "sujet": "Cyberattaque sur l'IMO",
+      "fait": "L'Organisation internationale des météores a subi une cyberattaque critique qui a mis hors ligne une grande partie de son infrastructure, avec plusieurs semaines de temps d'arrêt partiel prévu. Selon Ars Technica."
     }
   ]
 }
