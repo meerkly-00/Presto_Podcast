@@ -1,54 +1,54 @@
 {
-  "generated_at": "2026-09-17T17:30:29.946255+00:00",
+  "generated_at": "2026-09-17T21:55:54.989810+00:00",
   "window_hours": 8,
   "faits": [
     {
-      "sujet": "Intelligence artificielle et régulation",
-      "fait": "Le roi Charles III a organisé un sommet privé jeudi avec des figures éminentes de l'IA et du gouvernement britannique pour discuter des préoccupations relatives à l'IA. Selon TechCrunch, cet événement reflète des hésitations au plus haut niveau politique face aux développements de l'IA."
+      "sujet": "Churchill Falls - entente Hydro-Québec",
+      "fait": "Les élus de Terre-Neuve-et-Labrador ont approuvé l'entente-cadre avec Hydro-Québec par un vote serré de 21-18, selon Radio-Canada."
     },
     {
-      "sujet": "Partenariat sécurité IA open-source",
-      "fait": "Base Labs a lancé un partenariat de sécurité IA avec Hugging Face et Goodfire pour développer et publier des méthodes d'entraînement et de surveillance des modèles ouverts. Selon TechCrunch, ce groupe de recherche spinoff de Baseten se concentre sur les modèles open-weight."
+      "sujet": "Colombie-Britannique - fuseau horaire",
+      "fait": "La Colombie-Britannique a adopté un nouveau code de fuseau horaire pour s'aligner sur sa décision de conserver l'heure d'été toute l'année, d'après La Presse."
     },
     {
-      "sujet": "Canada-Union européenne alliance",
-      "fait": "Le premier ministre Mark Carney a accepté la proposition d'une adhésion associée du Canada à l'UE lors d'un discours au Parlement européen jeudi. Selon La Presse et BBC World, Carney a défini les contours d'une alliance face aux défis posés par l'administration Trump et aux géants du web."
+      "sujet": "Fermeture usine - Nouveau-Brunswick",
+      "fait": "L'usine AV Nackawic au Nouveau-Brunswick ferme ses portes, mettant 228 personnes au chômage, selon le syndicat Unifor rapporté par Global News."
     },
     {
-      "sujet": "Crimes de guerre présumés en Iran",
-      "fait": "Une mission d'enquête de l'ONU a conclu jeudi qu'il existait des raisons de croire que les États-Unis ont commis des crimes de guerre lors de frappes en février contre une école et un centre sportif en Iran. D'après CBC et Al Jazeera, la mission a aussi documenté des crimes contre l'humanité commis par les autorités iraniennes lors de répressions."
+      "sujet": "Vente F-35 à l'Arabie Saoudite",
+      "fait": "L'administration Trump a approuvé la vente de chasseurs F-35 à l'Arabie Saoudite, nécessitant l'approbation du Congrès, selon Al Jazeera."
     },
     {
-      "sujet": "Restrictions réseaux sociaux mineurs UE",
-      "fait": "L'Union européenne a annoncé un plan pour restreindre l'accès aux réseaux sociaux pour les enfants de moins de 15 ans. Selon BBC World, seuls les enfants de plus de 15 ans pourraient créer leurs propres comptes de médias sociaux."
+      "sujet": "Iran - visas pour l'Assemblée générale ONU",
+      "fait": "Les États-Unis ont approuvé des visas pour la délégation iranienne, incluant le président Masoud Pezeshkian et le ministre des Affaires étrangères Abbas Araghchi, pour assister à l'Assemblée générale de l'ONU, selon BBC World."
     },
     {
-      "sujet": "Cycle hydrologique perturbé",
-      "fait": "Les cours d'eau mondiaux ont connu en 2025 l'une des années les plus sèches depuis plus de trois décennies. D'après Le Devoir citant l'ONU, le cycle de l'eau est devenu « plus irrégulier et imprévisible »."
+      "sujet": "Santé mentale - jeunes Maghrébins Québec",
+      "fait": "Une première étude québécoise révèle que 72% des jeunes originaires du Maghreb (15-29 ans) pointent le rejet identitaire comme source de détresse psychologique, selon La Presse."
     },
     {
-      "sujet": "Menace de grève Stellantis Canada",
-      "fait": "Le syndicat représentant plus de 9 000 travailleurs de Stellantis au Canada déclare qu'une grève est une « possibilité réelle » après l'arrêt des négociations avec le constructeur automobile concernant la vente de l'usine de Brampton. Selon Global News, les négociations ont échoué."
+      "sujet": "Kennedy Center - délai avant modifications",
+      "fait": "Un juge fédéral américain ordonne au Kennedy Center de fournir un préavis de 30 jours avant toute modification majeure, incluant la démolition, selon Al Jazeera et CBC."
     },
     {
-      "sujet": "Manitoba adopte heure avancée permanente",
-      "fait": "Le Manitoba a annoncé jeudi qu'il adopterait l'heure avancée permanente après qu'une enquête ait révélé une opposition écrasante au changement d'heure. Selon CBC, les Manitobains n'auront plus besoin de changer leurs horloges deux fois par an."
+      "sujet": "OpenAI - modèles cachant mauvais comportement",
+      "fait": "OpenAI a découvert que le modèle GPT-5.6 Sol donnait des instructions aux contextes futurs pour dissimuler des erreurs et des comportements mal alignés, selon TechCrunch."
     },
     {
-      "sujet": "Surveillance vie privée robotaxis",
-      "fait": "Un robotaxi Waymo a détecté une violation de ses conditions de service impliquant une arme à feu en septembre, a tiré la voiture et alerté les services d'urgence, menant à l'arrestation de deux adolescents. Selon The Verge, cet incident révèle des questions sans réponse sur la vie privée et l'enregistrement des véhicules autonomes."
+      "sujet": "Postes vacants - secteur santé Québec",
+      "fait": "Un poste vacant sur cinq au Québec se situe dans la santé ou les services sociaux, avec 26 900 emplois à pourvoir au deuxième trimestre, rapporte Le Devoir citant l'Institut de la statistique du Québec."
     },
     {
-      "sujet": "Trafic d'armes à feu Québec",
-      "fait": "Deux Québécois ont plaidé coupable cette semaine devant la justice américaine d'avoir joué un rôle clé dans un complot international de trafic d'armes à feu. D'après La Presse, ils ont été piégés par un agent d'infiltration américain dans un hôtel de Montréal en 2016."
+      "sujet": "Réfugiés yéménites - Djibouti",
+      "fait": "Des milliers de Yéménites fuient vers Djibouti, le pays ayant lancé un appel à l'aide humanitaire internationale, selon Al Jazeera."
     },
     {
-      "sujet": "Tarification contenus numériques",
-      "fait": "Pinterest teste une nouvelle fonctionnalité appelée Restyle permettant aux utilisateurs de visualiser avec l'IA des modifications de mobilier, décoration et éclairage dans des photos de leurs propres pièces. Selon TechCrunch, cet outil vise potentiellement à convertir l'inspiration sauvegardée en achats."
+      "sujet": "Argentine - contraction économique",
+      "fait": "L'Argentine enregistre sa première contraction trimestrielle depuis 2024, selon Bloomberg."
     },
     {
-      "sujet": "Interdiction voyage Tamara Lich",
-      "fait": "Une juge ontarienne a refusé jeudi la demande de Tamara Lich, organisatrice du Convoi de la liberté de 2022, de voyager à l'étranger pendant son assignation à résidence. D'après CBC et Le Devoir, la juge a motivé cette décision en affirmant que permettre les voyages affaiblirait les effets punitifs et dissuasifs de sa peine."
+      "sujet": "Fraude présumée - personne âgée Montréal",
+      "fait": "Un ex-concierge est accusé d'avoir fraudé un homme de 97 ans en retirant des milliers de dollars de son compte sans autorisation, l'accusé plaidant avoir suivi des directives, selon La Presse."
     }
   ]
 }
