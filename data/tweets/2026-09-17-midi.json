@@ -1,0 +1,14 @@
+{
+  "date": "2026-09-17",
+  "kind": "poll",
+  "text": "Ce matin → Mark Carney propose une adhésion associée du Canada à l'UE face aux tarifs Trump.\n\nNouveau développement : Le Bloc québécois soutient cette direction, estimant le rapprochement « naturel et\n\nUne adhésion associée du Canada à l'UE te semble-t-elle appropriée?",
+  "poll": {
+    "options": [
+      "Oui, face aux défis",
+      "Non, le Canada doit",
+      "Oui, mais avec des",
+      "Indécis pour le moment"
+    ],
+    "duration_minutes": 1440
+  }
+}
