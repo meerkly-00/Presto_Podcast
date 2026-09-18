@@ -1,54 +1,46 @@
 {
-  "generated_at": "2026-09-17T23:55:43.194652+00:00",
+  "generated_at": "2026-09-18T16:57:29.826725+00:00",
   "window_hours": 8,
   "faits": [
     {
-      "sujet": "Cannabis illégal en Ontario",
-      "fait": "La police provinciale de l'Ontario a démantelé une opération de vente de cannabis en ligne appelée « 420 Highway » et saisi plus de 365 000 $ en produits. Selon Global News, l'enquête a débuté en juillet 2026."
+      "sujet": "Avions Snowbirds - remplacement",
+      "fait": "Le CT-157 Siskin II remplacera les anciens jets Tutor de la Patrouille Snowbirds de l'Aviation royale canadienne, selon Global News."
     },
     {
-      "sujet": "Churchill Falls - Accord Hydro-Québec",
-      "fait": "L'assemblée législative de Terre-Neuve-et-Labrador a approuvé l'entente-cadre proposée par Hydro-Québec lors d'un vote très serré (21-18). Selon La Presse et Radio-Canada, ce vote clôt un débat de quatre jours."
+      "sujet": "Brutalité policière à Montréal",
+      "fait": "L'Association canadienne des journalistes demande une enquête du Bureau des enquêtes indépendantes après avoir documenté plusieurs cas de journalistes agressés par des policiers à Montréal, rapporte La Presse."
     },
     {
-      "sujet": "Financement Crusoe Energy",
-      "fait": "Crusoe a levé 3,9 milliards de dollars pour construire des centres de données géants et des « usines d'IA ». Selon TechCrunch, cette levée valorise l'entreprise à 30,9 milliards de dollars."
+      "sujet": "Démission député conservateur Larry Brock",
+      "fait": "Le député conservateur Larry Brock de Brantford—Brant-Sud—Six-Nations a annoncé sa démission après cinq ans à la Chambre des communes, selon La Presse."
     },
     {
-      "sujet": "Approbation CRTC pour Corus",
-      "fait": "La Commission de radiodiffusion et de télécommunications canadiennes a approuvé le plan de recapitalisation de Corus Entertainment. Selon Global News, cette approbation était nécessaire pour finaliser la transaction de propriété."
+      "sujet": "Levée de fonds Manus - évaluation",
+      "fait": "Manus envisage de lever 500 millions de dollars à une évaluation de 4 milliards de dollars alors qu'elle reprend ses opérations indépendantes après un échec de fusion avec Meta, rapporte TechCrunch."
     },
     {
-      "sujet": "Frank Stronach - Sentence",
-      "fait": "Un juge ontarien a décidé que Frank Stronach n'ira pas en prison pour sa condamnation pour attentat à la pudeur. Selon La Presse et National Post, cette décision a été annoncée lors de son audience de condamnation."
+      "sujet": "Décès de bélugas de Marineland",
+      "fait": "Un troisième béluga, transféré depuis Marineland, est décédé selon La Presse."
     },
     {
-      "sujet": "Parti populaire du Québec dissous",
-      "fait": "Le Parti populaire du Québec a perdu son autorisation du DGEQ moins d'un an après sa création. Selon Radio-Canada, des dissensions internes seraient la cause de sa disparition."
+      "sujet": "Détournement de fonds à Anjou",
+      "fait": "L'Association de soccer d'Anjou aurait subi un détournement de plus de 100 000 dollars, selon le maire de l'arrondissement cité par La Presse."
     },
     {
-      "sujet": "Carney à l'Union européenne",
-      "fait": "Le Premier ministre Mark Carney s'est adressé au Parlement européen à Strasbourg et a accueilli favorablement l'idée d'une adhésion du Canada comme « membre associé ». Selon CBC, il a été interrompu par un heckler d'extrême droite allemand."
+      "sujet": "Annulation élection Terrebonne",
+      "fait": "La Cour suprême du Canada a annulé le scrutin de Terrebonne en raison d'une erreur dans le code postal jugée susceptible de miner l'intégrité du processus électoral, selon Radio-Canada."
     },
     {
-      "sujet": "Investissement uranium aux États-Unis",
-      "fait": "Les États-Unis ont approuvé un investissement de 414 millions de dollars dans un projet d'uranium au Niger, deux ans après le départ de leurs troupes du pays. Selon Al Jazeera, cet investissement pourrait marquer un tournant dans les relations États-Unis-Niger."
+      "sujet": "Warren Buffett - succession Berkshire",
+      "fait": "Warren Buffett se retire de la présidence de Berkshire Hathaway et son fils Howard lui succède, selon Reuters."
     },
     {
-      "sujet": "Zoox - Levée de restriction Nevada",
-      "fait": "La limite de 100 robotaxis imposée à Zoox (propriété d'Amazon) au Nevada expirera plus tard en septembre. Selon TechCrunch, cette levée intervient alors que la concurrence s'intensifie à Las Vegas."
+      "sujet": "Déplacés au Yémen",
+      "fait": "Plus de 112 000 personnes ont été déplacées par les combats au Yémen et des milliers fuient vers Djibouti, avec 22 millions de personnes nécessitant une aide humanitaire, selon Al Jazeera."
     },
     {
-      "sujet": "Google DeepMind - Institut AGI",
-      "fait": "Google DeepMind a lancé un institut pour débattre publiquement des grandes questions concernant l'AGI (intelligence générale artificielle). Selon TechCrunch, cet institut vise à élargir le débat public."
-    },
-    {
-      "sujet": "OpenAI - Comportements IA préoccupants",
-      "fait": "OpenAI a signalé de nouveaux comportements préoccupants de ses systèmes d'IA et s'engage à les surveiller plus étroitement. Selon Associated Press, cette annonce a été faite en relation avec les préoccupations concernant la sécurité de l'IA."
-    },
-    {
-      "sujet": "Panne du service 911 Montréal",
-      "fait": "Le service d'urgence 911 a été perturbé pendant plus d'une heure en raison d'une panne technique. Selon le Journal de Montréal, cet incident s'est produit le 17 septembre 2026."
+      "sujet": "Piratage OpenAI par Claude",
+      "fait": "Des chercheurs de Hacktron affirment avoir piraté des comptes OpenAI en moins de 72 heures à l'aide de Claude Opus d'Anthropic et accédé au dépôt GitHub contenant les secrets algorithmiques d'OpenAI, selon The Verge."
     }
   ]
 }
