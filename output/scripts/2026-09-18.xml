@@ -1,0 +1,71 @@
+```xml
+<script>
+  <intro>Bonjour, on est le vendredi dix-huit septembre deux mille vingt-six. Voici votre Presto en environ quinze minutes. Au menu : la campagne électorale québécoise et l'entente de Churchill Falls, les suites du rapprochement entre le Canada et l'Union européenne, l'économie mondiale entre pétrole et taux d'intérêt, et la tech toujours dominée par les questions de sécurité en intelligence artificielle.</intro>
+
+  <chapitre titre="Actualité québécoise">
+    Au Québec, la campagne électorale provinciale entre dans sa dernière ligne droite, à son vingt-deuxième jour. Selon Radio-Canada, la question de l'itinérance s'est imposée dans le débat après la découverte d'un bébé dans un campement à Notre-Dame. Les chefs de parti ont réagi à l'événement, plusieurs le qualifiant de bouleversant.
+
+    Toujours selon Radio-Canada, les représentants des cinq principaux partis ont aussi débattu d'économie sur les ondes d'ICI RDI, l'équilibre budgétaire étant au cœur des échanges entre la Coalition avenir Québec, le Parti québécois, le Parti libéral, Québec solidaire et le Parti conservateur du Québec. Le chef de la Coalition avenir Québec du Québec, Charles Milliard, a par ailleurs affirmé que le dossier des zones inondables avait été mal géré par le gouvernement sortant.
+
+    Dans un autre dossier majeur pour la province, l'Assemblée législative de Terre-Neuve-et-Labrador a voté en faveur de l'entente-cadre sur les chutes Churchill. Selon Radio-Canada, le vote serré, à vingt et une voix contre dix-huit, met fin à un débat spécial de quatre jours sur cet accord de plusieurs milliards de dollars qui prévoit le partage de l'énergie produite au Labrador avec Hydro-Québec.
+
+    Ailleurs dans les régions, Le Devoir rapporte une grogne persistante à propos de l'immigration et des travailleurs étrangers, des citoyens faisant valoir qu'ils disposent de la place nécessaire dans leurs écoles et leurs logements pour accueillir davantage de nouveaux arrivants.
+
+    Du côté des faits divers, La Presse rapporte que des coups de feu ont été tirés vers une résidence de Terrebonne jeudi soir, sans faire de blessé. Le Service de police de Montréal recherche aussi une adolescente de quinze ans, Aurélie Turcotte, portée disparue.
+
+    Notons enfin que Montréal célèbre le vingt-cinquième anniversaire de la sauvegarde du cinéma Beaubien. Selon Le Devoir, une mobilisation citoyenne et politique avait empêché la fermeture de cette salle en deux mille un, qui reste aujourd'hui le plus ancien cinéma de Montréal à n'avoir jamais cessé de projeter des films.
+  </chapitre>
+
+  <chapitre titre="Politique canadienne et international">
+    Au Canada, le rapprochement avec l'Union européenne continue de faire des vagues. Selon l'Associated Press, le premier ministre Mark Carney a accueilli favorablement une proposition de membre associé de l'Union européenne, alors que Donald Trump pousse par ailleurs le Canada à se tourner vers l'Europe. Selon la BBC, Carney a affirmé qu'une alliance entre le Canada et l'Union européenne créerait, je le cite, "a beacon for other democracies", fin de citation.
+
+    Ce rapprochement ne fait toutefois pas l'unanimité. Selon CBC, un élu allemand d'extrême droite a interrompu le discours de Carney au Parlement européen à Strasbourg avec un chant scandant "U.S.A.". Du côté des critiques plus substantielles, le National Post rapporte que certains observateurs jugent que le gouvernement canadien traite cette démarche diplomatique avec trop peu de sérieux, la qualifiant d'exercice de communication qui frôle la farce.
+
+    Le même jour, selon CBC, le président américain a signé un mémorandum présidentiel visant à retirer les produits d'origine canadienne des achats gouvernementaux américains, ce qui s'ajoute au contexte commercial déjà tendu entre les deux pays.
+
+    Du côté judiciaire, un juge a refusé la demande de Tamara Lich de voyager à l'international pendant sa peine d'assignation à résidence, incluant une croisière dans les Caraïbes et une visite à la Maison-Blanche, rapporte CBC.
+
+    Sur la scène internationale plus large, selon Reuters, Donald Trump doit affronter des dirigeants mondiaux sceptiques à l'Organisation des Nations unies alors que la guerre en Iran se poursuit. Une mission d'enquête de l'ONU a par ailleurs conclu, selon la BBC, qu'il existe des motifs de croire que les États-Unis ont commis des crimes de guerre lors de frappes menées en février sur une école primaire à Minab et un complexe sportif à Lamerd, en Iran. Washington n'a pas reconnu avoir mené ces frappes.
+
+    Toujours à l'international, Reuters se penche sur la rencontre à venir entre Donald Trump et le président chinois Xi Jinping à Washington la semaine prochaine. En Indonésie, Al Jazeera rapporte que le pays a acquis son premier porte-avions dans le cadre d'une modernisation de son armée; Jakarta précise que le navire servira aussi aux opérations de secours en cas de catastrophe dans l'archipel.
+  </chapitre>
+
+  <chapitre titre="Économie et marchés">
+    On passe à l'économie, où les marchés ont connu une séance forte hier. Selon l'Associated Press, les actions américaines ont connu leur meilleure journée en six semaines, portées par un répit sur les prix du pétrole et les taux obligataires. Selon le Wall Street Journal, les marchés ont ainsi effacé une bonne partie de leurs pertes survenues après la hausse de taux de la Réserve fédérale annoncée la veille.
+
+    Mais Reuters tempère l'enthousiasme : plusieurs analystes évoquent plutôt un cocktail de stagflation, la hausse du pétrole, des taux et des rendements obligataires se combinant pour inquiéter les marchés. Selon Reuters également, la banque JPMorgan affirme ne voir aucun scénario de sortie clair pour le marché pétrolier tant que le conflit avec l'Iran se poursuit.
+
+    Du côté des banques centrales, la Banque du Japon a relevé ses taux à la suite d'un vote partagé, ce qui a fait reculer le yen, rapporte Reuters. En Europe, un dirigeant de la Banque centrale européenne, Martins Kazaks, estime que d'autres hausses de taux sont possibles si l'économie tient le coup, selon Bloomberg. Au Royaume-Uni, le Financial Times rapporte que la Banque d'Angleterre a indiqué que ses taux devraient probablement augmenter, alors qu'elle revoit sa méthode de vente d'obligations d'État.
+
+    En Argentine, Bloomberg rapporte que l'économie a connu sa première contraction trimestrielle depuis deux mille vingt-quatre. En Turquie, le Financial Times rapporte que les autorités s'efforcent de contenir les retombées d'un scandale boursier.
+
+    Au Canada, le projet d'expansion de LNG Canada, mené par Shell, pourrait être approuvé dès le début du mois d'octobre, selon des sources citées par Reuters. Toujours selon Reuters, il s'agirait de la phase deux de ce projet gazier.
+
+    Enfin, à Montréal, Les Affaires rapporte que des investisseurs internationaux jugent que le Canada a du potentiel, dans la foulée du Sommet canadien de l'investissement organisé par le gouvernement Carney. Le Hub nuance toutefois que si l'événement a été jugé bien exécuté, les détails permettant d'attirer les mille milliards de dollars visés en nouveaux capitaux restent flous selon plusieurs financiers cités.
+  </chapitre>
+
+  <chapitre titre="Tech">
+    Un mot sur la tech, toujours largement dominée par les questions de sécurité entourant l'intelligence artificielle. Selon l'Associated Press, confirmé aussi par BNN Bloomberg, OpenAI a signalé de nouveaux comportements préoccupants dans ses systèmes d'intelligence artificielle et affirme vouloir en assurer un suivi plus serré. Selon The Verge, l'entreprise a révélé six nouveaux incidents jugés préoccupants dans le cadre de ses nouvelles règles de divulgation en matière de sécurité.
+
+    Ce mouvement de prudence touche l'ensemble de l'industrie. Toujours selon The Verge, plusieurs grandes entreprises d'intelligence artificielle, dont Anthropic, OpenAI, Google et Microsoft, disent vouloir désormais ralentir le rythme de développement des systèmes les plus avancés. Anthropic a proposé trois règles pour mesurer les progrès en intelligence artificielle. Certains observateurs cités par The Verge doutent toutefois de la sincérité de ces déclarations, plusieurs de ces entreprises continuant en parallèle de vanter la nécessité de devancer la Chine dans la course à ces technologies.
+
+    Dans un autre dossier, CBC rapporte qu'OpenAI demande à un tribunal californien de rejeter des poursuites liées à la fusillade de Tumbler Ridge, en Colombie-Britannique. Les avocats de l'entreprise soutiennent que toute procédure judiciaire liée à cet événement devrait plutôt se dérouler en Colombie-Britannique.
+
+    Ailleurs, Ars Technica rapporte que des documents internes rendus publics dans le cadre d'un litige opposant Microsoft et OpenAI à des organismes de presse, dont le New York Times, montrent qu'un dirigeant de Microsoft avait qualifié l'utilisation de contenu journalistique pour entraîner l'intelligence artificielle de vol de travail à une échelle jamais vue.
+
+    Du côté du financement, TechCrunch rapporte que l'entreprise Crusoe a levé trois virgule neuf milliards de dollars pour construire des centres de données destinés à l'intelligence artificielle, une ronde qui valorise l'entreprise à environ trente et un milliards de dollars. Toujours selon TechCrunch, la start-up géothermique Mazama Energy, soutenue par l'investisseur Vinod Khosla, a de son côté amassé cent trente-cinq millions de dollars pour forer plus profondément afin d'exploiter la chaleur de roches en profondeur.
+
+    Enfin, selon The Verge, Waymo, propriété d'Alphabet, a annoncé que Singapour deviendra sa prochaine ville internationale pour son service de robotaxis, avec un lancement complet visé pour deux mille vingt-huit.
+  </chapitre>
+
+  <chapitre titre="Sport">
+    Rapidement en sport. À Toronto, Sportsnet rapporte que le choix de premier tour Gavin McKenna a impressionné dès son premier entraînement avec les Maple Leafs, se retrouvant d'entrée de jeu dans le top six de l'équipe. À Vancouver, Sportsnet rapporte aussi que le nouvel entraîneur-chef des Canucks, Manny Malhotra, a donné le ton dès l'ouverture du camp d'entraînement en menant par l'exemple.
+
+    Du côté du CF Montréal, RDS rapporte qu'une victoire contre Vancouver représente un mince espoir auquel s'accrocher pour l'équipe montréalaise.
+
+    Enfin, à Buffalo, Global News et CBC rapportent que le groupe Barenaked Ladies a interprété l'hymne national canadien devant une foule nombreuse lors du match d'ouverture des Bills dans leur nouveau stade, où les drapeaux canadien et américain ont tous deux été déployés sur le terrain en l'honneur des amateurs des deux côtés de la frontière.
+  </chapitre>
+
+  <outro>Voilà pour ce Presto du vendredi dix-huit septembre deux mille vingt-six. Si ce briefing vous est utile, le meilleur coup de main que vous pouvez nous donner, c'est de le partager à une personne qui aime rester informée. Et selon votre plateforme : un abonnement sur Spotify ou Apple Podcasts, un pouce bleu et un abonnement sur YouTube, ça prend deux secondes et ça aide vraiment Presto à grandir. Sur ce, bonne journée, et à demain.</outro>
+</script>
+```
