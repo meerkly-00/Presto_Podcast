@@ -1,0 +1,14 @@
+{
+  "date": "2026-09-18",
+  "kind": "poll",
+  "text": "Ce matin → Un bébé découvert dans un campement force le débat sur l'itinérance.\n\nAujourd'hui → Les chefs de parti sont attendus au sommet de l'UMQ pour discuter des infrastructures, l'itinérance et le\n\nSelon toi, quel enjeu devrait être prioritaire dans cette campagne?",
+  "poll": {
+    "options": [
+      "L'itinérance et le",
+      "Les infrastructures",
+      "Le financement des",
+      "Tous également importants"
+    ],
+    "duration_minutes": 1440
+  }
+}
