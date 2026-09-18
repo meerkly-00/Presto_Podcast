@@ -1,46 +1,54 @@
 {
-  "generated_at": "2026-09-18T16:57:29.826725+00:00",
+  "generated_at": "2026-09-18T21:26:25.386468+00:00",
   "window_hours": 8,
   "faits": [
     {
-      "sujet": "Avions Snowbirds - remplacement",
-      "fait": "Le CT-157 Siskin II remplacera les anciens jets Tutor de la Patrouille Snowbirds de l'Aviation royale canadienne, selon Global News."
+      "sujet": "Trump bannit médias de la Maison-Blanche",
+      "fait": "Le président américain Donald Trump annonce l'interdiction d'accès à la Maison-Blanche pour CNN, MSNBC et Politico, les accusant de rapporter des « fausses nouvelles ». Selon BBC World, Reuters et Al Jazeera, Trump justifie cette décision par une relation tendue avec ces médias tout au long de sa carrière politique."
     },
     {
-      "sujet": "Brutalité policière à Montréal",
-      "fait": "L'Association canadienne des journalistes demande une enquête du Bureau des enquêtes indépendantes après avoir documenté plusieurs cas de journalistes agressés par des policiers à Montréal, rapporte La Presse."
+      "sujet": "OpenAI et Microsoft reconnaissent dommages au web",
+      "fait": "Des documents judiciaires non scellés dans le procès du New York Times contre OpenAI et Microsoft révèlent que les deux entreprises avertissaient en interne de créer une « boucle de destruction » endommageant le web et qualifiaient leur scraping de données comme le « plus grand vol de travail de l'histoire humaine ». D'après The Verge, ces documents proviennent notamment du directeur des sciences appliquées de Microsoft, Brent Hecht."
     },
     {
-      "sujet": "Démission député conservateur Larry Brock",
-      "fait": "Le député conservateur Larry Brock de Brantford—Brant-Sud—Six-Nations a annoncé sa démission après cinq ans à la Chambre des communes, selon La Presse."
+      "sujet": "Elections québécoises : débat sur les services",
+      "fait": "Le Parti québécois propose une croissance des dépenses de 1,9 % en cinq ans tout en affirmant pouvoir bonifier les services et réduire la bureaucratie. Selon Radio-Canada, cette proposition fait l'objet d'une vérification des faits pendant la campagne électorale."
     },
     {
-      "sujet": "Levée de fonds Manus - évaluation",
-      "fait": "Manus envisage de lever 500 millions de dollars à une évaluation de 4 milliards de dollars alors qu'elle reprend ses opérations indépendantes après un échec de fusion avec Meta, rapporte TechCrunch."
+      "sujet": "FAA déploie outil IA pour trafic aérien",
+      "fait": "L'administration fédérale américaine lance un système IA appelé SMART pour aider à gérer la congestion aérienne, avec un coût de 875 millions de dollars. D'après Ars Technica, le système devrait débuter au-dessus de la région de Washington, DC dès le 21 septembre, avant un déploiement national."
     },
     {
-      "sujet": "Décès de bélugas de Marineland",
-      "fait": "Un troisième béluga, transféré depuis Marineland, est décédé selon La Presse."
+      "sujet": "Attaque à la bombe à Peshawar, Pakistan",
+      "fait": "Un véhicule chargé d'explosifs fonce dans une mosquée au Pakistan, tuant au moins 21 personnes dont un enfant de quatre ans. Selon BBC World, des tireurs ont également ouvert le feu sur une installation de police lors de cette attaque."
     },
     {
-      "sujet": "Détournement de fonds à Anjou",
-      "fait": "L'Association de soccer d'Anjou aurait subi un détournement de plus de 100 000 dollars, selon le maire de l'arrondissement cité par La Presse."
+      "sujet": "Gouverneur Virginie freine data centers",
+      "fait": "La gouverneure Abigail Spanberger ordonne au gouvernement de l'État de prendre des mesures pour donner plus de pouvoir aux communautés locales sur l'approbation des data centers et crée un groupe de travail IA. D'après The Verge, le décret exécutif 22 interdit les accords de confidentialité et exige des révisions des opérations de secours."
     },
     {
-      "sujet": "Annulation élection Terrebonne",
-      "fait": "La Cour suprême du Canada a annulé le scrutin de Terrebonne en raison d'une erreur dans le code postal jugée susceptible de miner l'intégrité du processus électoral, selon Radio-Canada."
+      "sujet": "Disney nomme son premier directeur technique",
+      "fait": "Disney annonce la nomination de Karandeep Anand comme premier directeur technique (CTO) de l'histoire de l'entreprise. Selon The Verge, Anand provient de Character.AI où il a servi de PDG pendant plus d'un an."
     },
     {
-      "sujet": "Warren Buffett - succession Berkshire",
-      "fait": "Warren Buffett se retire de la présidence de Berkshire Hathaway et son fils Howard lui succède, selon Reuters."
+      "sujet": "Procédures contre FBI et RCMP",
+      "fait": "Selon le New York Times rapporté par National Post, Kash Patel a temporairement suspendu une coopération du FBI avec la GRC après qu'une mémorandum de CBC rappelle aux journalistes une politique de ne pas qualifier les attentats du 11 septembre de « terrorisme » sans attribution à des experts."
     },
     {
-      "sujet": "Déplacés au Yémen",
-      "fait": "Plus de 112 000 personnes ont été déplacées par les combats au Yémen et des milliers fuient vers Djibouti, avec 22 millions de personnes nécessitant une aide humanitaire, selon Al Jazeera."
+      "sujet": "Investissement IA startup Angle Health",
+      "fait": "Angle Health, une startup de l'assurance santé issuedu Y Combinator, atteint une valorisation de 2,7 milliards de dollars avec 5 000 clients et est devenue rentable. D'après TechCrunch, l'entreprise aide les petites entreprises à obtenir une assurance santé « level-funded »."
     },
     {
-      "sujet": "Piratage OpenAI par Claude",
-      "fait": "Des chercheurs de Hacktron affirment avoir piraté des comptes OpenAI en moins de 72 heures à l'aide de Claude Opus d'Anthropic et accédé au dépôt GitHub contenant les secrets algorithmiques d'OpenAI, selon The Verge."
+      "sujet": "Gouvernement Carney accélère grands projets",
+      "fait": "Le gouvernement Carney entend réduire les délais d'approbation à un an et diminuer les conflits de travail pour les grands projets en énergie, minéraux critiques et infrastructures. Selon La Presse, cette mesure intervient en contexte de guerre commerciale avec les États-Unis."
+    },
+    {
+      "sujet": "Élections parlementaires en Russie",
+      "fait": "La Russie débute un scrutin parlementaire de trois jours destiné à consolider le pouvoir du Kremlin. D'après Associated Press, le vote démarre le 18 septembre 2026."
+    },
+    {
+      "sujet": "Gouvernement Carney conteste tribunal droits enfants",
+      "fait": "Le gouvernement Carney dépose un troisième recours judiciaire en un an contre une décision du Tribunal canadien des droits de la personne concernant les services de protection de l'enfance des Premières Nations. Selon CBC, ce dossier perdure depuis près de 20 ans."
     }
   ]
 }
