@@ -1,54 +1,46 @@
 {
-  "generated_at": "2026-09-18T21:26:25.386468+00:00",
+  "generated_at": "2026-09-18T23:54:21.123696+00:00",
   "window_hours": 8,
   "faits": [
     {
-      "sujet": "Trump bannit médias de la Maison-Blanche",
-      "fait": "Le président américain Donald Trump annonce l'interdiction d'accès à la Maison-Blanche pour CNN, MSNBC et Politico, les accusant de rapporter des « fausses nouvelles ». Selon BBC World, Reuters et Al Jazeera, Trump justifie cette décision par une relation tendue avec ces médias tout au long de sa carrière politique."
+      "sujet": "Accord États-Unis Groenland sécurité",
+      "fait": "Le président Trump annonce qu'un accord avec le Danemark et le Groenland donnera aux États-Unis un « contrôle permanent » sur la sécurité de l'île, selon Radio-Canada et BBC World. L'accord doit être signé la semaine suivante."
     },
     {
-      "sujet": "OpenAI et Microsoft reconnaissent dommages au web",
-      "fait": "Des documents judiciaires non scellés dans le procès du New York Times contre OpenAI et Microsoft révèlent que les deux entreprises avertissaient en interne de créer une « boucle de destruction » endommageant le web et qualifiaient leur scraping de données comme le « plus grand vol de travail de l'histoire humaine ». D'après The Verge, ces documents proviennent notamment du directeur des sciences appliquées de Microsoft, Brent Hecht."
+      "sujet": "Hallucination IA militaire américaine",
+      "fait": "Un rapport de renseignement généré avec l'aide d'outils IA aurait failli déclencher une intervention militaire américaine contre un navire chinois, le rapport étant « entièrement faux », rapporte CNN via TechCrunch et Ars Technica."
     },
     {
-      "sujet": "Elections québécoises : débat sur les services",
-      "fait": "Le Parti québécois propose une croissance des dépenses de 1,9 % en cinq ans tout en affirmant pouvoir bonifier les services et réduire la bureaucratie. Selon Radio-Canada, cette proposition fait l'objet d'une vérification des faits pendant la campagne électorale."
+      "sujet": "FBI coopération RCMP mémo CBC",
+      "fait": "Le FBI aurait suspendu sa coopération avec la GRC suite à un mémo interne de CBC sur la terminologie du 11 septembre, selon le New York Times relayé par National Post et CBC."
     },
     {
-      "sujet": "FAA déploie outil IA pour trafic aérien",
-      "fait": "L'administration fédérale américaine lance un système IA appelé SMART pour aider à gérer la congestion aérienne, avec un coût de 875 millions de dollars. D'après Ars Technica, le système devrait débuter au-dessus de la région de Washington, DC dès le 21 septembre, avant un déploiement national."
+      "sujet": "Vols véhicules Leo Autopartage",
+      "fait": "Leo Autopartage a subi environ 50 vols ces derniers mois, générant une facture estimée à 300 000 dollars, selon La Presse."
     },
     {
-      "sujet": "Attaque à la bombe à Peshawar, Pakistan",
-      "fait": "Un véhicule chargé d'explosifs fonce dans une mosquée au Pakistan, tuant au moins 21 personnes dont un enfant de quatre ans. Selon BBC World, des tireurs ont également ouvert le feu sur une installation de police lors de cette attaque."
+      "sujet": "Trump bannit médias Maison-Blanche",
+      "fait": "Le président Trump annonce l'interdiction des chaînes CNN, MS NOW et Politico de la Maison-Blanche, selon Reuters, BBC World et Associated Press."
     },
     {
-      "sujet": "Gouverneur Virginie freine data centers",
-      "fait": "La gouverneure Abigail Spanberger ordonne au gouvernement de l'État de prendre des mesures pour donner plus de pouvoir aux communautés locales sur l'approbation des data centers et crée un groupe de travail IA. D'après The Verge, le décret exécutif 22 interdit les accords de confidentialité et exige des révisions des opérations de secours."
+      "sujet": "Vantora lève 100 millions financement IA",
+      "fait": "UP.Labs, opérant sous le nom Vantora, a levé 100 millions de dollars pour construire des startups destinées aux corporations industrielles en se concentrant sur l'IA physique, selon TechCrunch."
     },
     {
-      "sujet": "Disney nomme son premier directeur technique",
-      "fait": "Disney annonce la nomination de Karandeep Anand comme premier directeur technique (CTO) de l'histoire de l'entreprise. Selon The Verge, Anand provient de Character.AI où il a servi de PDG pendant plus d'un an."
+      "sujet": "Peter Milobar leader CentreBC Colombie-Britannique",
+      "fait": "Peter Milobar devient leader du parti CentreBC, auquel se joignent huit anciens conservateurs de Colombie-Britannique, formant le troisième parti en importance à l'assemblée législative, selon Global News."
     },
     {
-      "sujet": "Procédures contre FBI et RCMP",
-      "fait": "Selon le New York Times rapporté par National Post, Kash Patel a temporairement suspendu une coopération du FBI avec la GRC après qu'une mémorandum de CBC rappelle aux journalistes une politique de ne pas qualifier les attentats du 11 septembre de « terrorisme » sans attribution à des experts."
+      "sujet": "Anthropic laboratoire biologie expériences",
+      "fait": "Anthropic opère un laboratoire conduisant des expériences de biologie, selon TechCrunch."
     },
     {
-      "sujet": "Investissement IA startup Angle Health",
-      "fait": "Angle Health, une startup de l'assurance santé issuedu Y Combinator, atteint une valorisation de 2,7 milliards de dollars avec 5 000 clients et est devenue rentable. D'après TechCrunch, l'entreprise aide les petites entreprises à obtenir une assurance santé « level-funded »."
+      "sujet": "OpenAI Sam Altman briefing ONU",
+      "fait": "Sam Altman d'OpenAI doit présenter un exposé au Conseil de sécurité des Nations unies la semaine suivante, selon Reuters."
     },
     {
-      "sujet": "Gouvernement Carney accélère grands projets",
-      "fait": "Le gouvernement Carney entend réduire les délais d'approbation à un an et diminuer les conflits de travail pour les grands projets en énergie, minéraux critiques et infrastructures. Selon La Presse, cette mesure intervient en contexte de guerre commerciale avec les États-Unis."
-    },
-    {
-      "sujet": "Élections parlementaires en Russie",
-      "fait": "La Russie débute un scrutin parlementaire de trois jours destiné à consolider le pouvoir du Kremlin. D'après Associated Press, le vote démarre le 18 septembre 2026."
-    },
-    {
-      "sujet": "Gouvernement Carney conteste tribunal droits enfants",
-      "fait": "Le gouvernement Carney dépose un troisième recours judiciaire en un an contre une décision du Tribunal canadien des droits de la personne concernant les services de protection de l'enfance des Premières Nations. Selon CBC, ce dossier perdure depuis près de 20 ans."
+      "sujet": "Microsoft OpenAI documents procès journal",
+      "fait": "Des documents judiciaires dévoilés du procès du New York Times contre OpenAI et Microsoft révèlent que les entreprises connaissaient qu'elles créaient une « boucle de mort » pour le web et comparaient leur extraction de données à « plus grand vol de travail de l'histoire humaine », selon The Verge."
     }
   ]
 }
