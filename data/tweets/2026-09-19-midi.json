@@ -1,0 +1,14 @@
+{
+  "date": "2026-09-19",
+  "kind": "poll",
+  "text": "Ce matin → Trump bannit CNN, MS NOW et Politico de la Maison-Blanche.\n\nNouveau : Reuters confirme que les reporters de ces trois médias ont été refusés d'accès samedi matin.\n\nQue penses-tu de l'accès des médias aux bâtiments gouvernementaux?",
+  "poll": {
+    "options": [
+      "Les médias doivent",
+      "Le gouvernement peut",
+      "Ça dépend des raisons du",
+      "Pas d'opinion"
+    ],
+    "duration_minutes": 1440
+  }
+}
