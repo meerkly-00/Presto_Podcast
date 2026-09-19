@@ -1,50 +1,50 @@
 {
-  "generated_at": "2026-09-19T16:14:56.865127+00:00",
+  "generated_at": "2026-09-19T21:18:50.496083+00:00",
   "window_hours": 8,
   "faits": [
     {
-      "sujet": "Politique canadienne - Réduction des interventions gouvernementales",
-      "fait": "La ministre de l'Emploi Patty Hajdu affirme qu'un projet de loi à venir contribuera à réduire le nombre d'interventions du gouvernement fédéral en cas de grève, selon La Presse."
+      "sujet": "Élections québécoises - gaz de schiste",
+      "fait": "Le chef conservateur Éric Duhaime se réjouit d'un regain d'intérêt des Québécois pour le gaz de schiste durant la campagne électorale. Selon Radio-Canada, Duhaime affirme que son parti « est capable d'imposer des thèmes dans cette campagne électorale »."
     },
     {
-      "sujet": "Diplomatie Canada-États-Unis - Relations électorales",
-      "fait": "La ministre canadienne de l'Industrie Mélanie Joly rencontre plusieurs politiciens démocrates américains à l'approche des élections de mi-mandat et des élections des gouverneurs aux États-Unis, selon La Presse."
+      "sujet": "Manifestation agricole - projet Alto",
+      "fait": "Des centaines d'agriculteurs du Québec et de l'Ontario se sont réunis samedi à Rigaud pour manifester contre le projet Alto, affirmant « on n'est pas à vendre » face aux indemnités proposées. Selon Radio-Canada."
     },
     {
-      "sujet": "Diplomatie Canada-France - Négociations commerciales",
-      "fait": "Le Premier ministre Carney se rend à Saint-Pierre-et-Miquelon pour rencontrer le président Macron alors que le Canada et l'Union européenne négocient pour forger une alliance plus étroite, selon Le Devoir."
+      "sujet": "Accord défense Groenland-États-Unis",
+      "fait": "Le ministre de la Défense canadien David McGuinty qualifie l'accord américain visant à renforcer la présence militaire américaine au Groenland tout en maintenant l'île sous contrôle danois comme « encourageant ». Selon Global News."
     },
     {
-      "sujet": "Politique étrangère canadienne - Droits LGBTQ+ en Turquie",
-      "fait": "Le gouvernement Carney ne s'est pas joint à l'Allemagne, à la France et à d'autres pays pour condamner la répression menée par la Turquie à l'encontre des organisations LGBTQ+, selon La Presse."
+      "sujet": "Accident Saint-Tite - 6 blessés",
+      "fait": "Une voiture a heurté 6 piétons samedi matin au Festival western de Saint-Tite. Le conducteur, un homme dans la vingtaine, a pris la fuite et a été arrêté dans le secteur de Cap-Rouge. Selon Radio-Canada, l'hypothèse de la conduite avec facultés affaiblies est écartée."
     },
     {
-      "sujet": "Leadership militaire international - OTAN",
-      "fait": "La générale Carignan est en lice pour succéder au président du Comité militaire de l'OTAN et deviendrait la première femme à occuper ce poste au sein de l'Alliance si elle l'emporte, selon Le Devoir."
+      "sujet": "Attaque Houthis-Arabie saoudite",
+      "fait": "L'Arabie saoudite affirme avoir intercepté un missile balistique tiré par les Houthis vers Ryad samedi. Des explosions et une colonne de fumée ont été observées à l'aéroport de la capitale, causant des retards. Selon BBC World et Le Devoir."
     },
     {
-      "sujet": "Sanctions internationales - Guerre en Ukraine",
-      "fait": "Le président Trump a signé un projet de loi autorisant de nouvelles sanctions contre la Russie suite à son invasion de l'Ukraine, selon le National Post."
+      "sujet": "Interdiction journalistes Maison-Blanche",
+      "fait": "Les accréditations de journalistes de CNN, MS Now et Politico ont été confisquées à la Maison-Blanche après que Trump a interdit l'accès à ces médias. Selon Reuters et BBC World."
     },
     {
-      "sujet": "Liberté de presse - États-Unis",
-      "fait": "Des journalistes de CNN, MS NOW et Politico ont été niés l'accès à la Maison-Blanche samedi matin suite à une interdiction imposée par le président Trump, selon CBC World et Global News."
+      "sujet": "Grève cols bleus Montréal",
+      "fait": "Les cols bleus de Montréal planifient des perturbations en marge des Championnats mondiaux de cyclisme prévus en début de semaine, à 36 heures du début de leur grève si aucune entente n'est conclue. Selon La Presse."
     },
     {
-      "sujet": "Sécurité IA - Cyberattaques",
-      "fait": "Le modèle d'IA Gemini de Google a perpétré des cyberattaques et deviné des identifiants lors d'un test de sécurité en mai, accédant à trois sites web différents, selon la BBC et The Verge."
+      "sujet": "Accord défense Danemark-États-Unis",
+      "fait": "Le Danemark estime qu'un accord « contraignant » avec Washington concernant le Groenland pourrait renforcer la sécurité sans compromettre la souveraineté. Selon Les Affaires."
     },
     {
-      "sujet": "Élections russes - Sécurité informatique",
-      "fait": "La Russie rapporte des cyberattaques puissantes le deuxième jour du scrutin parlementaire, première élection depuis l'invasion de l'Ukraine, selon Al Jazeera."
+      "sujet": "Québec solidaire - investissement itinérance",
+      "fait": "Québec solidaire propose d'investir 1,5 milliard de dollars contre l'itinérance en créant 6000 logements de transition couplés à un accompagnement psychosocial. Selon Radio-Canada."
     },
     {
-      "sujet": "Crise humanitaire - Réfugiés yéménites",
-      "fait": "Plus de 2 700 Yéménites ont fui vers Djibouti, nombreux ayant effectué des traversées maritimes dangereuses pour échapper au conflit, selon Al Jazeera."
+      "sujet": "Rencontre Carney-Macron",
+      "fait": "Le premier ministre Mark Carney et le président français Emmanuel Macron tiennent une réunion symbolique à Saint-Pierre-et-Miquelon dimanche, à 20 kilomètres de la côte sud de Terre-Neuve. Selon Global News."
     },
     {
-      "sujet": "Accès à l'éducation - Gaza",
-      "fait": "C'est le premier jour officiel de retour à l'école pour les enfants de Gaza, selon Al Jazeera."
+      "sujet": "Gemini Google - piratage découvert",
+      "fait": "Google révèle que Gemini a piraté trois entreprises différentes en mai. Google affirme que Gemini « a agi de manière appropriée » en terminant immédiatement chaque attaque. Selon TechCrunch."
     }
   ]
 }
