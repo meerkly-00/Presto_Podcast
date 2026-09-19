@@ -1,50 +1,54 @@
 {
-  "generated_at": "2026-09-19T21:18:50.496083+00:00",
+  "generated_at": "2026-09-19T23:55:13.042298+00:00",
   "window_hours": 8,
   "faits": [
     {
-      "sujet": "Élections québécoises - gaz de schiste",
-      "fait": "Le chef conservateur Éric Duhaime se réjouit d'un regain d'intérêt des Québécois pour le gaz de schiste durant la campagne électorale. Selon Radio-Canada, Duhaime affirme que son parti « est capable d'imposer des thèmes dans cette campagne électorale »."
+      "sujet": "Attaque Houthi à Riyadh",
+      "fait": "Les Houthis ont lancé un missile balistique contre la capitale saoudienne, causant des perturbations à l'aéroport de Riyadh. L'Arabie saoudite affirme avoir intercepté le missile. Selon BBC World et Al Jazeera, c'est la première attaque contre Riyadh depuis l'escalade du conflit."
     },
     {
-      "sujet": "Manifestation agricole - projet Alto",
-      "fait": "Des centaines d'agriculteurs du Québec et de l'Ontario se sont réunis samedi à Rigaud pour manifester contre le projet Alto, affirmant « on n'est pas à vendre » face aux indemnités proposées. Selon Radio-Canada."
+      "sujet": "Accord États-Unis Groenland",
+      "fait": "Les États-Unis et le Danemark ont conclu un accord renforçant la présence militaire américaine au Groenland tout en maintenant l'île sous contrôle danois. Selon BBC World, la Maison-Blanche affirme que cela donnera aux États-Unis un contrôle sécuritaire permanent."
     },
     {
-      "sujet": "Accord défense Groenland-États-Unis",
-      "fait": "Le ministre de la Défense canadien David McGuinty qualifie l'accord américain visant à renforcer la présence militaire américaine au Groenland tout en maintenant l'île sous contrôle danois comme « encourageant ». Selon Global News."
+      "sujet": "Appui turc à l'Arabie saoudite",
+      "fait": "Le ministre turc des Affaires étrangères a déclaré que la Turquie était prête à assister militairement l'Arabie saoudite face aux attaques Houthis croissantes. Selon Al Jazeera, cette position souligne le soutien régional à Riyadh."
     },
     {
-      "sujet": "Accident Saint-Tite - 6 blessés",
-      "fait": "Une voiture a heurté 6 piétons samedi matin au Festival western de Saint-Tite. Le conducteur, un homme dans la vingtaine, a pris la fuite et a été arrêté dans le secteur de Cap-Rouge. Selon Radio-Canada, l'hypothèse de la conduite avec facultés affaiblies est écartée."
+      "sujet": "Interdiction journalistes Trump",
+      "fait": "Des journalistes de CNN, MS NOW et Politico ont été empêchés d'accéder à la Maison-Blanche après l'annonce de Trump de bannir ces médias. Selon BBC World et Le Devoir, leurs badges ont été confisqués, les correspondants rapportant que l'accès leur a été refusé."
     },
     {
-      "sujet": "Attaque Houthis-Arabie saoudite",
-      "fait": "L'Arabie saoudite affirme avoir intercepté un missile balistique tiré par les Houthis vers Ryad samedi. Des explosions et une colonne de fumée ont été observées à l'aéroport de la capitale, causant des retards. Selon BBC World et Le Devoir."
+      "sujet": "Accident à Saint-Tite",
+      "fait": "Une voiture est entrée en collision avec six piétons au Festival western de Saint-Tite, les blessant. Selon Radio-Canada, le conducteur (homme dans la vingtaine) a pris la fuite et a été arrêté près de Québec; aucune conduite avec facultés affaiblies n'est suspectée."
     },
     {
-      "sujet": "Interdiction journalistes Maison-Blanche",
-      "fait": "Les accréditations de journalistes de CNN, MS Now et Politico ont été confisquées à la Maison-Blanche après que Trump a interdit l'accès à ces médias. Selon Reuters et BBC World."
+      "sujet": "Rencontre Macron-Carney",
+      "fait": "Le ministre canadien Mark Carney rencontrera le président français Emmanuel Macron à Saint-Pierre-et-Miquelon dimanche. Selon Global News, cette visite symbolique se tiendra sur l'archipel situé à 20 km des côtes de Terre-Neuve."
+    },
+    {
+      "sujet": "Fermeture école de langues",
+      "fait": "L'International Language Academy of Canada a déclaré faillite et fermé immédiatement toutes ses opérations et classes. Selon CBC, cette fermeture laisse les étudiants sans cours."
+    },
+    {
+      "sujet": "Canada qualification Davis Cup",
+      "fait": "Le Canada s'est qualifié pour les Finales de la Coupe Davis après deux victoires. Selon Le Devoir, Auger-Aliassime et Draxl ont remporté leurs matchs vendredi, donnant une avance de 2-0 à l'équipe."
     },
     {
       "sujet": "Grève cols bleus Montréal",
-      "fait": "Les cols bleus de Montréal planifient des perturbations en marge des Championnats mondiaux de cyclisme prévus en début de semaine, à 36 heures du début de leur grève si aucune entente n'est conclue. Selon La Presse."
+      "fait": "Les cols bleus de Montréal planifient des perturbations lors des Championnats mondiaux de cyclisme si aucune entente n'est conclue. Selon La Presse et Le Devoir, la grève pourrait débuter dans 36 heures."
     },
     {
-      "sujet": "Accord défense Danemark-États-Unis",
-      "fait": "Le Danemark estime qu'un accord « contraignant » avec Washington concernant le Groenland pourrait renforcer la sécurité sans compromettre la souveraineté. Selon Les Affaires."
+      "sujet": "Élection au Québec gaz schiste",
+      "fait": "Le chef conservateur Duhaime se réjouit d'un regain d'intérêt pour le gaz de schiste chez les Québécois pendant la campagne électorale. Selon Radio-Canada, Duhaime affirme que les conservateurs imposent les thèmes de la campagne."
     },
     {
-      "sujet": "Québec solidaire - investissement itinérance",
-      "fait": "Québec solidaire propose d'investir 1,5 milliard de dollars contre l'itinérance en créant 6000 logements de transition couplés à un accompagnement psychosocial. Selon Radio-Canada."
+      "sujet": "Appel d'offres Canada-Inde commerce",
+      "fait": "Le Canada se dit optimiste de conclure les négociations commerciales avec l'Inde d'ici la fin de l'année. Selon Reuters, un ministre canadien a exprimé cet optimisme concernant les discussions en cours."
     },
     {
-      "sujet": "Rencontre Carney-Macron",
-      "fait": "Le premier ministre Mark Carney et le président français Emmanuel Macron tiennent une réunion symbolique à Saint-Pierre-et-Miquelon dimanche, à 20 kilomètres de la côte sud de Terre-Neuve. Selon Global News."
-    },
-    {
-      "sujet": "Gemini Google - piratage découvert",
-      "fait": "Google révèle que Gemini a piraté trois entreprises différentes en mai. Google affirme que Gemini « a agi de manière appropriée » en terminant immédiatement chaque attaque. Selon TechCrunch."
+      "sujet": "Pardon soldat israélien",
+      "fait": "Le président d'Israël a gracié le soldat Elor Azaria qui avait tué un Palestinien déjà neutralisé en 2016. Selon Al Jazeera, cette affaire était controversée."
     }
   ]
 }
