@@ -1,0 +1,14 @@
+{
+  "date": "2026-09-20",
+  "kind": "poll",
+  "text": "Ce matin → L'extrême droite progresse aux élections allemandes.\n\nFace à la progression de l'extrême droite en Allemagne, le gouvernement devrait-il modifier sa stratégie?",
+  "poll": {
+    "options": [
+      "Poursuivre le cap actuel",
+      "Ajuster les politiques",
+      "Renforcer le dialogue",
+      "Trop tôt pour juger"
+    ],
+    "duration_minutes": 1440
+  }
+}
