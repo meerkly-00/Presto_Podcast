@@ -1,50 +1,54 @@
 {
-  "generated_at": "2026-09-20T21:11:34.698450+00:00",
+  "generated_at": "2026-09-20T23:52:04.647979+00:00",
   "window_hours": 8,
   "faits": [
     {
-      "sujet": "Élection québécoise - politique immobilière",
-      "fait": "Ruba Ghazal, porte-parole de Québec solidaire, propose de plafonner les commissions des courtiers immobiliers pour s'attaquer à la surchauffe immobilière. Selon Radio-Canada."
+      "sujet": "Élections législatives russes",
+      "fait": "Le parti Russie Unie de Vladimir Poutine est donné largement vainqueur aux élections législatives, selon Al Jazeera et CBC World. Le scrutin s'est déroulé sous des cyberattaques et attaques de drones ukrainiens."
     },
     {
-      "sujet": "Natalité au Québec - données démographiques",
-      "fait": "Le taux de fécondité au Québec était de 1,36 enfant par femme en 2025, selon l'Institut de la statistique du Québec cité par Radio-Canada. Le PQ propose une prime aux familles nombreuses en réponse."
+      "sujet": "Grève des cols bleus montréalais",
+      "fait": "299 cols bleus du parc Jean-Drapeau sont entrés en grève, selon Les Affaires, créant un conflit de travail supplémentaire pour l'administration Martinez Ferrada."
     },
     {
-      "sujet": "Assassinat du président haïtien - justice",
-      "fait": "Dix-huit suspects arrêtés dans le cadre de l'assassinat du président haïtien Jovenel Moïse en juillet 2021 sont extradés vers les États-Unis pour y être jugés. Selon Al Jazeera et CBC World."
+      "sujet": "Démission direction conservateurs BC",
+      "fait": "Kerry-Lynne Findlay a démissionné comme chef des Conservateurs de la Colombie-Britannique, selon Global News, après seulement quatre mois à ce poste."
     },
     {
-      "sujet": "Rencontre Carney-Macron - coopération spatiale",
-      "fait": "Le premier ministre canadien Mark Carney et le président français Emmanuel Macron se sont engagés à collaborer dans les domaines des infrastructures spatiales et des affaires, rencontrés à Saint-Pierre-et-Miquelon. Selon Radio-Canada et Global News."
+      "sujet": "Rencontre Canada-France à Saint-Pierre",
+      "fait": "Le premier ministre Mark Carney et Emmanuel Macron se sont rencontrés à Saint-Pierre-et-Miquelon pour discuter de souveraineté et de rapprochement bilatéral face à Donald Trump, selon Radio-Canada."
     },
     {
-      "sujet": "Élections allemandes - résultats régionaux",
-      "fait": "Le chancelier Friedrich Merz a subi des pertes électorales importantes aux élections régionales à Berlin et Mecklenburg-Vorpommern, avec un recul historique du CDU face à l'AfD. Selon BBC World et CBC World."
+      "sujet": "Élections d'État allemandes",
+      "fait": "Le chancelier Friedrich Merz a qualifié les résultats des élections régionales à Berlin et Mecklembourg-Poméranie de 'désastre' pour son parti CDU, selon BBC World."
     },
     {
-      "sujet": "Service Immigration Canada - dysfonctionnement",
-      "fait": "Un arrêt de service du site d'Immigration, Réfugiés et Citoyenneté Canada (IRCC) depuis mai 2026 empêche des demandeurs d'accéder à l'état de leur demande de résidence permanente. Selon La Presse."
+      "sujet": "Attaque de drones ukrainiens",
+      "fait": "L'Ukraine a tiré plus de 1 000 drones sur la Russie dimanche, incluant la plus grande attaque jamais menée contre Moscou, selon Associated Press."
     },
     {
-      "sujet": "Code du travail canadien - réforme gouvernementale",
-      "fait": "Le gouvernement fédéral s'apprête à apporter des changements majeurs au Code du travail canadien pour accroître son pouvoir d'intervention dans les grèves et les lock-out. Selon Global News."
+      "sujet": "Tensions France-Iran",
+      "fait": "La France va convoquer l'envoyé iranien après la fermeture d'un centre de langue française à Téhéran, que l'Iran accuse d'activités illégales, selon Al Jazeera."
     },
     {
-      "sujet": "Pakistan - arrestation politique",
-      "fait": "Aleema Khanum, sœur de l'ancien Premier ministre Imran Khan, a été arrêtée pour avoir mobilisé les partisans de son frère avant des manifestations nationales. Selon BBC World."
+      "sujet": "Critique de Poilievre sur l'UE",
+      "fait": "Pierre Poilievre affirme que le Canada 'ne deviendra jamais le 28e État membre de l'Union européenne', en réaction à la diplomatie de Mark Carney envers l'Europe, selon La Presse."
     },
     {
-      "sujet": "Négociations commerciales États-Unis-Chine",
-      "fait": "Scott Bessent et He Lifeng ont ouvert des pourparlers commerciaux de haut niveau à New York en préparation du sommet Trump-Xi prévu plus tard dans la semaine. Selon Al Jazeera."
+      "sujet": "IA dans les tribunaux canadiens",
+      "fait": "L'utilisation croissante de l'intelligence artificielle dans les tribunaux canadiens crée une division concernant l'accès à la justice et l'expérience professionnelle des stagiaires en droit, selon Global News."
     },
     {
-      "sujet": "Situation au Moyen-Orient - escalade",
-      "fait": "Le Qatar affirme travailler à la relance des pourparlers Iran-États-Unis après des attaques houthies contre l'Arabie saoudite. Selon Al Jazeera."
+      "sujet": "Plan natalité du Parti Québécois",
+      "fait": "Le Parti Québécois propose une prime aux familles nombreuses pour combattre le déclin de la natalité, le taux de fécondité québécois étant de 1,36 enfant par femme en 2025, selon Radio-Canada."
     },
     {
-      "sujet": "Colombie-Britannique - démissions politiques",
-      "fait": "Linda Hepner, députée pour Surrey-Serpentine River, a démissionné du caucus des Conservateurs de Colombie-Britannique en critiquant le leadership du parti. Selon Global News."
+      "sujet": "Hausse du prix du pétrole",
+      "fait": "Le prix du pétrole a augmenté suite à une attaque houthie contre la capitale saoudite, selon Reuters."
+    },
+    {
+      "sujet": "Politique immobilière solidaire",
+      "fait": "Ruba Ghazal, porte-parole solidaire, propose de plafonner les commissions des courtiers immobiliers pour s'attaquer à la surchauffe immobilière, selon Radio-Canada."
     }
   ]
 }
