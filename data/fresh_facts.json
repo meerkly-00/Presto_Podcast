@@ -1,50 +1,50 @@
 {
-  "generated_at": "2026-09-20T16:41:53.023318+00:00",
+  "generated_at": "2026-09-20T21:11:34.698450+00:00",
   "window_hours": 8,
   "faits": [
     {
-      "sujet": "Arc triomphal à Washington",
-      "fait": "Le président Trump annonce que l'arc triomphal prévu à Washington servira également de complexe militaire pour stocker des munitions et accueillir des drones et tireurs d'élite. Selon la BBC, Trump affirme que ces modifications répondent à des demandes de l'armée américaine pour des raisons de sécurité nationale."
+      "sujet": "Élection québécoise - politique immobilière",
+      "fait": "Ruba Ghazal, porte-parole de Québec solidaire, propose de plafonner les commissions des courtiers immobiliers pour s'attaquer à la surchauffe immobilière. Selon Radio-Canada."
     },
     {
-      "sujet": "Loi californienne sur les influenceurs",
-      "fait": "La Californie adopte une nouvelle loi pénalisant les influenceurs qui ne divulguent pas les publicités politiques rémunérées. Selon TechCrunch, cette législation renforce les exigences de transparence pour les créateurs de contenu en ligne."
+      "sujet": "Natalité au Québec - données démographiques",
+      "fait": "Le taux de fécondité au Québec était de 1,36 enfant par femme en 2025, selon l'Institut de la statistique du Québec cité par Radio-Canada. Le PQ propose une prime aux familles nombreuses en réponse."
     },
     {
-      "sujet": "Rencontre Carney-Macron",
-      "fait": "Le premier ministre canadien Mark Carney se réunit avec le président français Emmanuel Macron à Saint-Pierre-et-Miquelon. Selon La Presse, cette visite sans précédent vise à réaffirmer l'unité du Canada, de la France et de l'Europe face aux positions de Donald Trump."
+      "sujet": "Assassinat du président haïtien - justice",
+      "fait": "Dix-huit suspects arrêtés dans le cadre de l'assassinat du président haïtien Jovenel Moïse en juillet 2021 sont extradés vers les États-Unis pour y être jugés. Selon Al Jazeera et CBC World."
     },
     {
-      "sujet": "Force IA américaine annoncée",
-      "fait": "Le président Trump annonce son intention de créer une nouvelle 'AI Force' et de nommer un 'AI czar'. Selon The Verge, Trump affirme que son administration ne gênera pas la croissance de l'industrie de l'IA."
+      "sujet": "Rencontre Carney-Macron - coopération spatiale",
+      "fait": "Le premier ministre canadien Mark Carney et le président français Emmanuel Macron se sont engagés à collaborer dans les domaines des infrastructures spatiales et des affaires, rencontrés à Saint-Pierre-et-Miquelon. Selon Radio-Canada et Global News."
     },
     {
-      "sujet": "Accord Greenland-États-Unis",
-      "fait": "Le Danemark annonce un accord contraignant avec les États-Unis donnant à Washington le contrôle permanent de la sécurité au Groenland et interdisant les bases russes et chinoises. Selon National Post, le Danemark considère cet accord comme respectueux de la souveraineté et bénéfique pour l'OTAN."
+      "sujet": "Élections allemandes - résultats régionaux",
+      "fait": "Le chancelier Friedrich Merz a subi des pertes électorales importantes aux élections régionales à Berlin et Mecklenburg-Vorpommern, avec un recul historique du CDU face à l'AfD. Selon BBC World et CBC World."
     },
     {
-      "sujet": "Taux de fécondité au Québec",
-      "fait": "Selon l'Institut de la statistique du Québec, le taux de fécondité était de 1,36 enfant par femme en 2025. Radio-Canada rapporte que le Parti québécois propose d'augmenter de 700 dollars l'allocation pour le quatrième enfant."
+      "sujet": "Service Immigration Canada - dysfonctionnement",
+      "fait": "Un arrêt de service du site d'Immigration, Réfugiés et Citoyenneté Canada (IRCC) depuis mai 2026 empêche des demandeurs d'accéder à l'état de leur demande de résidence permanente. Selon La Presse."
     },
     {
-      "sujet": "Élections législatives russes",
-      "fait": "La Russie termine son premier scrutin législatif en temps de guerre, avec une domination du Kremlin quasi assurée. Selon Associated Press, l'Ukraine a visé la Russie avec plus de mille drones le dernier jour des élections pour les perturber."
+      "sujet": "Code du travail canadien - réforme gouvernementale",
+      "fait": "Le gouvernement fédéral s'apprête à apporter des changements majeurs au Code du travail canadien pour accroître son pouvoir d'intervention dans les grèves et les lock-out. Selon Global News."
     },
     {
-      "sujet": "Capacités d'espionnage du Canada",
-      "fait": "Des parlementaires canadiens examinent les capacités du Canada en matière de collecte de renseignements à l'étranger. Selon La Presse, ce débat intervient alors que la discussion porte sur la création d'une nouvelle agence de renseignement."
+      "sujet": "Pakistan - arrestation politique",
+      "fait": "Aleema Khanum, sœur de l'ancien Premier ministre Imran Khan, a été arrêtée pour avoir mobilisé les partisans de son frère avant des manifestations nationales. Selon BBC World."
     },
     {
-      "sujet": "Record demi-marathon féminin",
-      "fait": "L'athlète kenyane Agnes Ngetich établit un nouveau record mondial du demi-marathon réservé aux femmes. Selon Al Jazeera, elle a devancé sa compatriote Veronica Loleo de 50 secondes."
+      "sujet": "Négociations commerciales États-Unis-Chine",
+      "fait": "Scott Bessent et He Lifeng ont ouvert des pourparlers commerciaux de haut niveau à New York en préparation du sommet Trump-Xi prévu plus tard dans la semaine. Selon Al Jazeera."
     },
     {
-      "sujet": "Tensions Iran-États-Unis",
-      "fait": "L'Iran déclare avoir communiqué ses conditions aux États-Unis pour rouvrir le détroit d'Ormuz. Selon Le Devoir, le trafic demeure perturbé par Téhéran depuis le début de la guerre initiée par Washington et Israël."
+      "sujet": "Situation au Moyen-Orient - escalade",
+      "fait": "Le Qatar affirme travailler à la relance des pourparlers Iran-États-Unis après des attaques houthies contre l'Arabie saoudite. Selon Al Jazeera."
     },
     {
-      "sujet": "Lancement missile Corée du Nord",
-      "fait": "La Corée du Nord lance deux missiles balistiques au large de sa côte est en trois heures. Selon CBC, cet essai est le deuxième en environ une semaine et survient après que Pyongyang a accusé les États-Unis d'intensifier les tensions par des exercices militaires."
+      "sujet": "Colombie-Britannique - démissions politiques",
+      "fait": "Linda Hepner, députée pour Surrey-Serpentine River, a démissionné du caucus des Conservateurs de Colombie-Britannique en critiquant le leadership du parti. Selon Global News."
     }
   ]
 }
