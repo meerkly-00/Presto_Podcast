@@ -28,10 +28,18 @@ curl -IL https://prestopodcast.online/audio/2026-05-28.mp3
 # Doit retourner 200 (avec content-type: audio/mpeg)
 ```
 
-## Cron 4h EDT : déclenche le briefing Presto
+## Cron de 6h : déclenche le briefing Presto
 
-Le Worker remplace cron-job.org : à `0 8 * * *` (UTC) il appelle
-`workflow_dispatch` sur `briefing.yml`. Il lui faut un secret :
+Le Worker remplace cron-job.org : il appelle `workflow_dispatch` sur
+`briefing.yml` à **6h00, heure du Québec**.
+
+Cloudflare ne planifie qu'en UTC, donc deux crons sont enregistrés — `0 10 * * *`
+(6h EDT, l'été) et `0 11 * * *` (6h EST, l'hiver) — et le handler `scheduled`
+ignore celui qui ne tombe pas sur 6h heure locale. Sans ce garde-fou, l'épisode
+avancerait à 5h au changement d'heure de novembre. Les deux doivent être
+enregistrés côté Cloudflare : `deploy-worker.yml` échoue s'il en manque un.
+
+Il lui faut un secret :
 
 1. GitHub → Settings → Developer settings → Fine-grained tokens → repo
    `Presto_Podcast`, permission **Actions: Read and write** (expiration max).

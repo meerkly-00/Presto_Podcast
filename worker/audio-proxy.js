@@ -2,13 +2,22 @@
  * Cloudflare Worker — Presto
  *
  * fetch handler  : proxy audio MP3 + feed RSS depuis GitHub
- * scheduled      : cron 8h UTC  → déclenche briefing.yml sur GitHub (workflow_dispatch)
+ * scheduled      : crons 10h/11h UTC → déclenche briefing.yml sur GitHub
+ *                  (workflow_dispatch), à 6h pile heure du Québec
  *                  crons 12h/16h/21h30 UTC → poste sur X via OAuth 1.0a
  */
 
 const REPO = "meerkly-00/Presto_Podcast";
 const RAW = `https://raw.githubusercontent.com/${REPO}/main`;
 const TWITTER_API = "https://api.twitter.com/2/tweets";
+
+// Heure de publication de l'épisode, en heure du Québec. Cloudflare ne planifie
+// qu'en UTC : on enregistre donc les deux crons qui encadrent le changement
+// d'heure (10h UTC = 6h EDT l'été, 11h UTC = 6h EST l'hiver) et on ne garde que
+// celui qui tombe réellement sur PUBLICATION_HOUR à Montréal.
+const BRIEFING_CRONS = ["0 10 * * *", "0 11 * * *"];
+const PUBLICATION_TZ = "America/Toronto"; // même fuseau que Montréal
+const PUBLICATION_HOUR = 6;
 
 // ─── fetch handler (audio proxy existant) ────────────────────────────────────
 
@@ -42,11 +51,13 @@ export default {
   },
 
   // ─── scheduled handler : briefing + poster sur X selon l'heure (cron) ──────
-  //   0 8 * * *   (4h EDT)    → workflow_dispatch briefing.yml (génère le Presto)
+  //   0 10 * * *  (6h EDT)    → workflow_dispatch briefing.yml (génère le Presto)
+  //   0 11 * * *  (6h EST)    → idem, l'hiver ; un seul des deux agit par jour
   //   0 12 * * *  (8h EDT)    → thread du matin     data/tweets/DATE.json
   //   0 16 * * *  (12h EDT)   → poll de midi        data/tweets/DATE-midi.json
   //   30 21 * * * (17h30 EDT) → contre-programme    data/tweets/DATE-soir.json
-  // (heures EDT en été ; décalent d'1h en hiver, sans incidence sur le contenu)
+  // Seul le briefing est verrouillé sur l'heure locale : les tweets décalent
+  // d'1h en hiver, sans incidence sur le contenu.
 
   async scheduled(event, env, ctx) {
     const date = new Date().toISOString().slice(0, 10); // YYYY-MM-DD (UTC)
@@ -54,7 +65,14 @@ export default {
     console.log(`[cron] ${cron} for ${date}`);
 
     try {
-      if (cron === "0 8 * * *") {
+      if (BRIEFING_CRONS.includes(cron)) {
+        // L'autre cron du couple été/hiver tombe une heure à côté : on le laisse
+        // passer sans rien faire, plutôt que de publier l'épisode à 5h ou à 7h.
+        const heure = heureLocale();
+        if (heure !== PUBLICATION_HOUR) {
+          console.log(`[cron] ${cron} → ${heure}h à Montréal, pas ${PUBLICATION_HOUR}h : skip`);
+          return;
+        }
         await dispatchBriefing(env);
       } else if (cron === "0 16 * * *") {
         await postSingleFile(`data/tweets/${date}-midi.json`, env);
@@ -220,6 +238,18 @@ async function postTweet({ text, replyToId, poll }, env) {
 
 const pct = (s) => encodeURIComponent(String(s));
 const sleep = (ms) => new Promise((r) => setTimeout(r, ms));
+
+// Heure courante à Montréal (0-23), heure avancée comprise. `hourCycle: h23`
+// évite le "24" que certains formats rendent à minuit.
+function heureLocale(now = new Date()) {
+  return Number(
+    new Intl.DateTimeFormat("en-CA", {
+      timeZone: PUBLICATION_TZ,
+      hour: "2-digit",
+      hourCycle: "h23",
+    }).format(now)
+  );
+}
 
 // Redirection plutôt que proxy : le lecteur podcast va chercher les octets
 // directement chez GitHub, y compris ses requêtes Range. L'ancien proxy ne

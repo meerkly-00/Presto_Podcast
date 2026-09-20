@@ -38,4 +38,10 @@ Content-Type: application/json
 
 Le lendemain matin, vérifier dans https://github.com/meerkly-00/briefing-matinal/actions que le workflow a démarré vers 9h50 UTC. Si oui, tout fonctionne.
 
-> Le cron GitHub (`0 8 * * *`) reste actif comme backup en cas de panne de cron-job.org.
+> Le cron GitHub reste actif comme backup en cas de panne de cron-job.org.
+
+---
+
+**Obsolète depuis le passage au Worker Cloudflare.** Presto ne dépend plus de
+cron-job.org : `worker/audio-proxy.js` déclenche `briefing.yml` à 6h heure du
+Québec, et le `schedule` de `briefing.yml` sert de filet. Voir `worker/README.md`.
