@@ -1,54 +1,50 @@
 {
-  "generated_at": "2026-09-19T23:55:13.042298+00:00",
+  "generated_at": "2026-09-20T16:41:53.023318+00:00",
   "window_hours": 8,
   "faits": [
     {
-      "sujet": "Attaque Houthi à Riyadh",
-      "fait": "Les Houthis ont lancé un missile balistique contre la capitale saoudienne, causant des perturbations à l'aéroport de Riyadh. L'Arabie saoudite affirme avoir intercepté le missile. Selon BBC World et Al Jazeera, c'est la première attaque contre Riyadh depuis l'escalade du conflit."
+      "sujet": "Arc triomphal à Washington",
+      "fait": "Le président Trump annonce que l'arc triomphal prévu à Washington servira également de complexe militaire pour stocker des munitions et accueillir des drones et tireurs d'élite. Selon la BBC, Trump affirme que ces modifications répondent à des demandes de l'armée américaine pour des raisons de sécurité nationale."
     },
     {
-      "sujet": "Accord États-Unis Groenland",
-      "fait": "Les États-Unis et le Danemark ont conclu un accord renforçant la présence militaire américaine au Groenland tout en maintenant l'île sous contrôle danois. Selon BBC World, la Maison-Blanche affirme que cela donnera aux États-Unis un contrôle sécuritaire permanent."
+      "sujet": "Loi californienne sur les influenceurs",
+      "fait": "La Californie adopte une nouvelle loi pénalisant les influenceurs qui ne divulguent pas les publicités politiques rémunérées. Selon TechCrunch, cette législation renforce les exigences de transparence pour les créateurs de contenu en ligne."
     },
     {
-      "sujet": "Appui turc à l'Arabie saoudite",
-      "fait": "Le ministre turc des Affaires étrangères a déclaré que la Turquie était prête à assister militairement l'Arabie saoudite face aux attaques Houthis croissantes. Selon Al Jazeera, cette position souligne le soutien régional à Riyadh."
+      "sujet": "Rencontre Carney-Macron",
+      "fait": "Le premier ministre canadien Mark Carney se réunit avec le président français Emmanuel Macron à Saint-Pierre-et-Miquelon. Selon La Presse, cette visite sans précédent vise à réaffirmer l'unité du Canada, de la France et de l'Europe face aux positions de Donald Trump."
     },
     {
-      "sujet": "Interdiction journalistes Trump",
-      "fait": "Des journalistes de CNN, MS NOW et Politico ont été empêchés d'accéder à la Maison-Blanche après l'annonce de Trump de bannir ces médias. Selon BBC World et Le Devoir, leurs badges ont été confisqués, les correspondants rapportant que l'accès leur a été refusé."
+      "sujet": "Force IA américaine annoncée",
+      "fait": "Le président Trump annonce son intention de créer une nouvelle 'AI Force' et de nommer un 'AI czar'. Selon The Verge, Trump affirme que son administration ne gênera pas la croissance de l'industrie de l'IA."
     },
     {
-      "sujet": "Accident à Saint-Tite",
-      "fait": "Une voiture est entrée en collision avec six piétons au Festival western de Saint-Tite, les blessant. Selon Radio-Canada, le conducteur (homme dans la vingtaine) a pris la fuite et a été arrêté près de Québec; aucune conduite avec facultés affaiblies n'est suspectée."
+      "sujet": "Accord Greenland-États-Unis",
+      "fait": "Le Danemark annonce un accord contraignant avec les États-Unis donnant à Washington le contrôle permanent de la sécurité au Groenland et interdisant les bases russes et chinoises. Selon National Post, le Danemark considère cet accord comme respectueux de la souveraineté et bénéfique pour l'OTAN."
     },
     {
-      "sujet": "Rencontre Macron-Carney",
-      "fait": "Le ministre canadien Mark Carney rencontrera le président français Emmanuel Macron à Saint-Pierre-et-Miquelon dimanche. Selon Global News, cette visite symbolique se tiendra sur l'archipel situé à 20 km des côtes de Terre-Neuve."
+      "sujet": "Taux de fécondité au Québec",
+      "fait": "Selon l'Institut de la statistique du Québec, le taux de fécondité était de 1,36 enfant par femme en 2025. Radio-Canada rapporte que le Parti québécois propose d'augmenter de 700 dollars l'allocation pour le quatrième enfant."
     },
     {
-      "sujet": "Fermeture école de langues",
-      "fait": "L'International Language Academy of Canada a déclaré faillite et fermé immédiatement toutes ses opérations et classes. Selon CBC, cette fermeture laisse les étudiants sans cours."
+      "sujet": "Élections législatives russes",
+      "fait": "La Russie termine son premier scrutin législatif en temps de guerre, avec une domination du Kremlin quasi assurée. Selon Associated Press, l'Ukraine a visé la Russie avec plus de mille drones le dernier jour des élections pour les perturber."
     },
     {
-      "sujet": "Canada qualification Davis Cup",
-      "fait": "Le Canada s'est qualifié pour les Finales de la Coupe Davis après deux victoires. Selon Le Devoir, Auger-Aliassime et Draxl ont remporté leurs matchs vendredi, donnant une avance de 2-0 à l'équipe."
+      "sujet": "Capacités d'espionnage du Canada",
+      "fait": "Des parlementaires canadiens examinent les capacités du Canada en matière de collecte de renseignements à l'étranger. Selon La Presse, ce débat intervient alors que la discussion porte sur la création d'une nouvelle agence de renseignement."
     },
     {
-      "sujet": "Grève cols bleus Montréal",
-      "fait": "Les cols bleus de Montréal planifient des perturbations lors des Championnats mondiaux de cyclisme si aucune entente n'est conclue. Selon La Presse et Le Devoir, la grève pourrait débuter dans 36 heures."
+      "sujet": "Record demi-marathon féminin",
+      "fait": "L'athlète kenyane Agnes Ngetich établit un nouveau record mondial du demi-marathon réservé aux femmes. Selon Al Jazeera, elle a devancé sa compatriote Veronica Loleo de 50 secondes."
     },
     {
-      "sujet": "Élection au Québec gaz schiste",
-      "fait": "Le chef conservateur Duhaime se réjouit d'un regain d'intérêt pour le gaz de schiste chez les Québécois pendant la campagne électorale. Selon Radio-Canada, Duhaime affirme que les conservateurs imposent les thèmes de la campagne."
+      "sujet": "Tensions Iran-États-Unis",
+      "fait": "L'Iran déclare avoir communiqué ses conditions aux États-Unis pour rouvrir le détroit d'Ormuz. Selon Le Devoir, le trafic demeure perturbé par Téhéran depuis le début de la guerre initiée par Washington et Israël."
     },
     {
-      "sujet": "Appel d'offres Canada-Inde commerce",
-      "fait": "Le Canada se dit optimiste de conclure les négociations commerciales avec l'Inde d'ici la fin de l'année. Selon Reuters, un ministre canadien a exprimé cet optimisme concernant les discussions en cours."
-    },
-    {
-      "sujet": "Pardon soldat israélien",
-      "fait": "Le président d'Israël a gracié le soldat Elor Azaria qui avait tué un Palestinien déjà neutralisé en 2016. Selon Al Jazeera, cette affaire était controversée."
+      "sujet": "Lancement missile Corée du Nord",
+      "fait": "La Corée du Nord lance deux missiles balistiques au large de sa côte est en trois heures. Selon CBC, cet essai est le deuxième en environ une semaine et survient après que Pyongyang a accusé les États-Unis d'intensifier les tensions par des exercices militaires."
     }
   ]
 }
