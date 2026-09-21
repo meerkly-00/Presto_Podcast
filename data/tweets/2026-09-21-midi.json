@@ -1,0 +1,14 @@
+{
+  "date": "2026-09-21",
+  "kind": "poll",
+  "text": "Ce matin → Le PQ reste en tête avec 29 %, devant la CAQ (22 %) et le PLQ (19 %). Nouv.\n\nCrois-tu qu'une alliance formelle entre partis serait plus utile qu'des ententes ponctuelles après le scrutin?",
+  "poll": {
+    "options": [
+      "Oui, plus clair et stable",
+      "Non, plus flexible ainsi",
+      "Les deux ont des",
+      "Sans opinion"
+    ],
+    "duration_minutes": 1440
+  }
+}
