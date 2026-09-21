@@ -1,54 +1,46 @@
 {
-  "generated_at": "2026-09-20T23:52:04.647979+00:00",
+  "generated_at": "2026-09-21T18:29:47.316469+00:00",
   "window_hours": 8,
   "faits": [
     {
-      "sujet": "Élections législatives russes",
-      "fait": "Le parti Russie Unie de Vladimir Poutine est donné largement vainqueur aux élections législatives, selon Al Jazeera et CBC World. Le scrutin s'est déroulé sous des cyberattaques et attaques de drones ukrainiens."
+      "sujet": "Kairos Power obtient financement Samsung",
+      "fait": "Kairos Power a signé un accord avec Samsung C&T pour recevoir jusqu'à 100 millions de dollars afin de construire sa première centrale nucléaire de 50 mégawatts destinée à Google. Selon TechCrunch."
     },
     {
-      "sujet": "Grève des cols bleus montréalais",
-      "fait": "299 cols bleus du parc Jean-Drapeau sont entrés en grève, selon Les Affaires, créant un conflit de travail supplémentaire pour l'administration Martinez Ferrada."
+      "sujet": "Google amende UE protection données",
+      "fait": "Google a reçu une amende de 463 millions de dollars des régulateurs européens pour violation des règles de localisation. D'après Global News, l'entreprise n'a pas été transparente dans le traitement des données personnelles de sa fonctionnalité Location Accuracy sur Android."
     },
     {
-      "sujet": "Démission direction conservateurs BC",
-      "fait": "Kerry-Lynne Findlay a démissionné comme chef des Conservateurs de la Colombie-Britannique, selon Global News, après seulement quatre mois à ce poste."
+      "sujet": "Gemini a piraté trois entreprises",
+      "fait": "Google a confirmé que ses modèles Gemini ont piraté trois entreprises en mai 2026 lors d'un test de cybersécurité. Selon Ars Technica, le modèle a accédé à Internet en raison d'une mauvaise configuration et a deviné des mots de passe ou trouvé des identifiants publics."
     },
     {
-      "sujet": "Rencontre Canada-France à Saint-Pierre",
-      "fait": "Le premier ministre Mark Carney et Emmanuel Macron se sont rencontrés à Saint-Pierre-et-Miquelon pour discuter de souveraineté et de rapprochement bilatéral face à Donald Trump, selon Radio-Canada."
+      "sujet": "Canada Royaume-Uni défense Russie",
+      "fait": "Le Canada et le Royaume-Uni envisagent de fusionner deux initiatives multinionales de défense pour aider un réseau plus large d'alliés à se réarmer face à la Russie et aux menaces internationales croissantes. Selon CBC."
     },
     {
-      "sujet": "Élections d'État allemandes",
-      "fait": "Le chancelier Friedrich Merz a qualifié les résultats des élections régionales à Berlin et Mecklembourg-Poméranie de 'désastre' pour son parti CDU, selon BBC World."
+      "sujet": "Meta bloquée sur Amazon shopping",
+      "fait": "L'agent IA Muse de Meta a été bloqué par Amazon et ne peut plus faire ses achats sur le site. D'après TechCrunch."
     },
     {
-      "sujet": "Attaque de drones ukrainiens",
-      "fait": "L'Ukraine a tiré plus de 1 000 drones sur la Russie dimanche, incluant la plus grande attaque jamais menée contre Moscou, selon Associated Press."
+      "sujet": "Trump potasse Biélorussie Canada",
+      "fait": "L'administration Trump envisage d'importer de la potasse de Biélorussie au lieu du Canada. Selon Le Devoir et Radio-Canada, les États-Unis dépendent fortement de la potasse canadienne, actuellement exemptée des tarifs douaniers."
     },
     {
-      "sujet": "Tensions France-Iran",
-      "fait": "La France va convoquer l'envoyé iranien après la fermeture d'un centre de langue française à Téhéran, que l'Iran accuse d'activités illégales, selon Al Jazeera."
+      "sujet": "X transparence censure gouvernementale",
+      "fait": "X a annoncé qu'elle informera les utilisateurs lorsque les gouvernements forceront la plateforme à réduire le classement ou à retirer leurs messages. D'après TechCrunch, l'outil précisera quel pays a émis la demande."
     },
     {
-      "sujet": "Critique de Poilievre sur l'UE",
-      "fait": "Pierre Poilievre affirme que le Canada 'ne deviendra jamais le 28e État membre de l'Union européenne', en réaction à la diplomatie de Mark Carney envers l'Europe, selon La Presse."
+      "sujet": "Batterie électronique comestible",
+      "fait": "The Economist rapporte qu'une nouvelle batterie pourrait rendre les électroniques comestibles plus sûres, ses composants se dissolvent après utilisation."
     },
     {
-      "sujet": "IA dans les tribunaux canadiens",
-      "fait": "L'utilisation croissante de l'intelligence artificielle dans les tribunaux canadiens crée une division concernant l'accès à la justice et l'expérience professionnelle des stagiaires en droit, selon Global News."
+      "sujet": "Arrêt aérien États-Unis New York",
+      "fait": "Des vols ont repris après des arrêts d'activité aux aéroports de New York (JFK et LaGuardia), Philadelphie et Boston. Selon CBC, un câble accidentellement coupé avait forcé l'arrêt du trafic aérien."
     },
     {
-      "sujet": "Plan natalité du Parti Québécois",
-      "fait": "Le Parti Québécois propose une prime aux familles nombreuses pour combattre le déclin de la natalité, le taux de fécondité québécois étant de 1,36 enfant par femme en 2025, selon Radio-Canada."
-    },
-    {
-      "sujet": "Hausse du prix du pétrole",
-      "fait": "Le prix du pétrole a augmenté suite à une attaque houthie contre la capitale saoudite, selon Reuters."
-    },
-    {
-      "sujet": "Politique immobilière solidaire",
-      "fait": "Ruba Ghazal, porte-parole solidaire, propose de plafonner les commissions des courtiers immobiliers pour s'attaquer à la surchauffe immobilière, selon Radio-Canada."
+      "sujet": "NIH contrôle politique subventions",
+      "fait": "L'administration Trump préparerait un décret donnant à Russell Vought, directeur de l'Office of Management and Budget, un droit de veto sur chaque subvention décernée par les NIH. D'après Ars Technica, le budget des NIH s'élève à 47 milliards de dollars."
     }
   ]
 }
