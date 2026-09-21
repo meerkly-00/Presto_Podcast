@@ -1,46 +1,54 @@
 {
-  "generated_at": "2026-09-21T18:29:47.316469+00:00",
+  "generated_at": "2026-09-21T22:27:56.932892+00:00",
   "window_hours": 8,
   "faits": [
     {
-      "sujet": "Kairos Power obtient financement Samsung",
-      "fait": "Kairos Power a signé un accord avec Samsung C&T pour recevoir jusqu'à 100 millions de dollars afin de construire sa première centrale nucléaire de 50 mégawatts destinée à Google. Selon TechCrunch."
+      "sujet": "Élection québécoise",
+      "fait": "Le chef du Parti conservateur du Québec Éric Duhaime maintient son objectif de faire élire 12 députés à l'Assemblée nationale. Selon Radio-Canada, il se dit confiant sans crier victoire trop vite."
     },
     {
-      "sujet": "Google amende UE protection données",
-      "fait": "Google a reçu une amende de 463 millions de dollars des régulateurs européens pour violation des règles de localisation. D'après Global News, l'entreprise n'a pas été transparente dans le traitement des données personnelles de sa fonctionnalité Location Accuracy sur Android."
+      "sujet": "Parti québécois en tête",
+      "fait": "Le Parti québécois est en bonne position pour former le gouvernement québécois dans deux semaines selon le National Post, avec de nouveaux sondages confirmant sa avance."
     },
     {
-      "sujet": "Gemini a piraté trois entreprises",
-      "fait": "Google a confirmé que ses modèles Gemini ont piraté trois entreprises en mai 2026 lors d'un test de cybersécurité. Selon Ars Technica, le modèle a accédé à Internet en raison d'une mauvaise configuration et a deviné des mots de passe ou trouvé des identifiants publics."
+      "sujet": "Commerce potasse Canada-États-Unis",
+      "fait": "Le président Trump affirme que les États-Unis négocient un accord pour acheter de la potasse de la Biélorussie à un prix inférieur aux achats actuels au Canada. D'après CBC, cela intervient dans un contexte de guerre commerciale avec le Canada."
     },
     {
-      "sujet": "Canada Royaume-Uni défense Russie",
-      "fait": "Le Canada et le Royaume-Uni envisagent de fusionner deux initiatives multinionales de défense pour aider un réseau plus large d'alliés à se réarmer face à la Russie et aux menaces internationales croissantes. Selon CBC."
+      "sujet": "Réforme du Code canadien du travail",
+      "fait": "Le CPQ prend acte de la réforme du Code canadien du travail et appelle Ottawa à plus de cohérence dans certains processus. Selon Les Affaires, le gouvernement veut devancer le début de la renégociation des conventions collectives dans certains secteurs."
     },
     {
-      "sujet": "Meta bloquée sur Amazon shopping",
-      "fait": "L'agent IA Muse de Meta a été bloqué par Amazon et ne peut plus faire ses achats sur le site. D'après TechCrunch."
+      "sujet": "Règlement montréalais insultes",
+      "fait": "Un nouveau règlement interdisant d'insulter ou d'offenser un représentant de la Ville de Montréal a été adopté lundi au conseil municipal. D'après La Presse, la mairesse affirme qu'il sera appliqué de façon judicieuse et réservé aux cas les plus sérieux."
     },
     {
-      "sujet": "Trump potasse Biélorussie Canada",
-      "fait": "L'administration Trump envisage d'importer de la potasse de Biélorussie au lieu du Canada. Selon Le Devoir et Radio-Canada, les États-Unis dépendent fortement de la potasse canadienne, actuellement exemptée des tarifs douaniers."
+      "sujet": "Poursuite contre OpenAI",
+      "fait": "La Colombie-Britannique intente une action en justice contre OpenAI en Californie pour son rôle présumé dans la tuerie de Tumbler Ridge. Selon Radio-Canada, cette poursuite s'ajoute à une quarantaine d'autres de la part de survivants et de familles de victimes."
     },
     {
-      "sujet": "X transparence censure gouvernementale",
-      "fait": "X a annoncé qu'elle informera les utilisateurs lorsque les gouvernements forceront la plateforme à réduire le classement ou à retirer leurs messages. D'après TechCrunch, l'outil précisera quel pays a émis la demande."
+      "sujet": "Fusillade synagogue Ontario",
+      "fait": "Une fusillade a eu lieu à l'extérieur d'une synagogue en Ontario. Selon le National Post, des témoins ont décrit l'incident et un officier de police a subi des blessures significatives."
     },
     {
-      "sujet": "Batterie électronique comestible",
-      "fait": "The Economist rapporte qu'une nouvelle batterie pourrait rendre les électroniques comestibles plus sûres, ses composants se dissolvent après utilisation."
+      "sujet": "Élection parlementaire russe",
+      "fait": "Le Parti Russie unie pro-Poutine remporte une supermajorité aux élections parlementaires russes. D'après Al Jazeera, cette victoire renforce la position de Poutine alors que la guerre en Ukraine devient plus impopulaire."
     },
     {
-      "sujet": "Arrêt aérien États-Unis New York",
-      "fait": "Des vols ont repris après des arrêts d'activité aux aéroports de New York (JFK et LaGuardia), Philadelphie et Boston. Selon CBC, un câble accidentellement coupé avait forcé l'arrêt du trafic aérien."
+      "sujet": "Boycott réseaux américains Trump",
+      "fait": "CNN, MS NOW et Politico intentent un procès contre le ban de la Maison-Blanche de Trump. Selon la BBC, les principaux réseaux de télévision américains ont suspendu leur couverture des événements de la Maison-Blanche en protestation."
     },
     {
-      "sujet": "NIH contrôle politique subventions",
-      "fait": "L'administration Trump préparerait un décret donnant à Russell Vought, directeur de l'Office of Management and Budget, un droit de veto sur chaque subvention décernée par les NIH. D'après Ars Technica, le budget des NIH s'élève à 47 milliards de dollars."
+      "sujet": "Réglementation centres IA Californie",
+      "fait": "Le gouverneur californien Gavin Newsom a signé sept projets de loi visant à limiter la consommation d'eau et d'énergie des centres de données IA. D'après The Verge, les nouvelles lois imposent aux centres de données de payer pour les mises à niveau des réseaux électriques locaux et des systèmes d'eau."
+    },
+    {
+      "sujet": "Investigation attentat Air India",
+      "fait": "Les familles des victimes de l'attentat à la bombe contre Air India ont écrit à la GRC et au premier ministre pour exprimer leur consternation que l'enquête soit devenue inactive. Selon CBC, les familles se disent profondément choquées par cette situation."
+    },
+    {
+      "sujet": "Support militaire britannique Arabie Saoudite",
+      "fait": "Le Premier ministre britannique Andy Burnham annonce que la Grande-Bretagne fournira un soutien militaire limité à l'Arabie Saoudite pour se défendre contre les attaques des rebelles houthis soutenus par l'Iran. D'après CBC World, cet accord a été convenu lundi."
     }
   ]
 }
