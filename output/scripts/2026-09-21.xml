@@ -1,0 +1,81 @@
+```xml
+<script>
+  <intro>Bonjour, on est le lundi vingt et un septembre deux mille vingt-six. Voici votre Presto en environ quinze minutes. Au menu : la campagne électorale québécoise et un nouveau sondage sur le Parti québécois, la fusillade près d'une synagogue en Ontario, la déroute électorale de Friedrich Merz en Allemagne, la victoire du parti de Vladimir Poutine en Russie, l'économie avec les marchés et le pari de SoftBank sur OpenAI, et un mot sur la tech avec le bras de fer entre Amazon et Meta.</intro>
+
+  <chapitre titre="Actualité québécoise">
+    À deux semaines du scrutin, un nouveau sondage Segma pour Radio-Canada et Le Droit confirme que le Parti québécois reste en tête des intentions de vote dans l'ensemble de la province, avec vingt-neuf pour cent, en excluant les indécis. La Coalition avenir Québec suit avec vingt-deux pour cent, et le Parti libéral avec dix-neuf pour cent. Les conservateurs et les libéraux se livrent une lutte serrée pour la troisième place à l'échelle provinciale.
+
+    Le portrait régional raconte toutefois une autre histoire. Toujours selon Radio-Canada, en Outaouais, le Parti québécois gagne du terrain avec vingt-trois pour cent des intentions de vote, lui qui n'avait obtenu que dix pour cent ou moins des voix lors du dernier scrutin en deux mille vingt-deux. Les libéraux dominent néanmoins la région avec trente-deux pour cent, suivis de la Coalition avenir Québec à dix-neuf pour cent. Le président de Segma Recherche, Raynald Harvey, estime que ces résultats témoignent d'une volonté de changement chez les électeurs de la région. Il précise cependant que cette montée du Parti québécois pourrait ne pas se traduire en sièges, puisque les projections par circonscriptions oscillent plutôt entre le Parti libéral et la Coalition avenir Québec, selon l'agrégateur de sondages Qc125.
+
+    Sur l'île de Montréal, toujours selon Radio-Canada, les libéraux de Charles Milliard sont en avance, tandis que le Parti québécois garde l'avantage dans les couronnes de la métropole.
+
+    Ailleurs à Montréal, La Presse rapporte que les Championnats du monde de cyclisme sur route causent des entraves routières à surveiller pendant l'heure de pointe matinale.
+  </chapitre>
+
+  <chapitre titre="Politique canadienne">
+    En Ontario, un policier et un homme ont été blessés dans un échange de tirs survenu dimanche près d'une synagogue de Belleville, alors que des membres de la communauté juive marquaient Yom Kippour. Selon CBC, confirmé par le National Post, l'homme a été hospitalisé dans un état jugé critique. Les circonstances précises de l'incident continuent d'être établies par les autorités.
+
+    Dans la controverse entourant le rapprochement du Canada avec l'Europe, le chef conservateur Pierre Poilievre a affirmé lors d'un rassemblement en Ontario que le Canada ne deviendra jamais, je le cite, le "vingt-huitième État" de l'Union européenne, fin de citation. Selon Global News, monsieur Poilievre soutient que le Canada a déjà un accord de libre-échange avec l'Europe ainsi que des liens de défense étroits par l'entremise de l'OTAN, mais qu'il n'appuie pas l'adoption de lois européennes. Cette sortie survient alors que le premier ministre Mark Carney a récemment annoncé un nouveau partenariat entre le Canada et la France axé sur l'espace et la défense, selon BNN Bloomberg.
+
+    Toujours selon le Journal de Montréal, le premier ministre français Emmanuel Macron et monsieur Carney ont plaidé pour un rapprochement profond entre leurs deux pays, dans un contexte de tensions commerciales avec les États-Unis de Donald Trump.
+
+    En Colombie-Britannique, le Parti conservateur provincial traverse une période trouble. Selon le National Post, Kerry-Lynne Findlay a quitté la direction du parti après un mandat marqué par des dissensions internes et des défections de députés.
+
+    Du côté de l'immigration, CBC rapporte que le Canada fait face à des questions sur son traitement des demandeurs de résidence permanente iraniens ayant effectué leur service militaire obligatoire en Iran, alors que le Royaume-Uni et l'Australie appliquent une approche différente sur ce dossier.
+  </chapitre>
+
+  <chapitre titre="International">
+    En Allemagne, le chancelier Friedrich Merz a qualifié de désastre les résultats de son parti aux élections régionales de dimanche. Selon la BBC, les sondages de sortie des urnes montrent des pertes importantes pour le parti conservateur de monsieur Merz, la CDU, dans l'État de Mecklembourg-Poméranie-Occidentale ainsi qu'à Berlin. Selon l'Associated Press, monsieur Merz a promis de poursuivre ses réformes malgré cette défaite qualifiée d'historique. The Economist observe que la politique allemande se fragmente et se radicalise, avec une progression des partis populistes.
+
+    En Russie, le parti au pouvoir de Vladimir Poutine, Russie unie, se dirige vers une victoire écrasante aux élections législatives. Selon l'Associated Press, avec plus de quatre-vingt-dix pour cent des votes comptés, le parti du Kremlin semble en voie d'un gain massif. Ce scrutin survient après une attaque de drones ukrainiens que la Russie qualifie de plus importante jamais menée contre Moscou. Selon la BBC, l'analyste Steve Rosenberg souligne que monsieur Poutine devrait utiliser ce résultat pour affirmer que la majorité des Russes appuient ce que le pouvoir appelle l'opération militaire spéciale en Ukraine. Selon CBC, confirmé par l'Associated Press, l'Ukraine avait lancé plus de mille drones contre la Russie, dont ce que Kyiv qualifie de sa plus vaste attaque jamais menée contre la capitale russe.
+
+    Au Moyen-Orient, la situation continue de se détériorer. Selon le National Post, les États-Unis ont averti que le conflit entre l'Arabie saoudite et les rebelles houthis pourrait s'intensifier rapidement après qu'une attaque de missile a visé Riyad pour la première fois depuis la reprise du conflit au Yémen. Par ailleurs, Reuters rapporte que les navires ne circulent qu'au ralenti dans le détroit d'Hormuz en raison de la persistance du conflit régional.
+
+    En Corée du Nord, le régime a tiré deux missiles balistiques en direction de la mer, selon l'Associated Press, confirmé par le Journal de Montréal, dans un geste qui accentue la pression exercée sur les États-Unis.
+
+    En Italie, la première ministre Giorgia Meloni a annoncé dimanche que son gouvernement interdira le port de la burqa et du niqab dans les écoles, et qu'il limitera le nombre d'élèves étrangers par classe, selon le National Post.
+
+    En Afrique du Sud, trois personnes ont été arrêtées en lien avec la découverte du corps de Jabulile Ntimba, selon la BBC. Il s'agit du neuvième corps de femme retrouvé récemment dans une région à l'est de Johannesburg.
+
+    Aux États-Unis, un agent de l'agence américaine de l'immigration, l'ICE, a tiré sur un homme et l'a blessé dimanche après-midi à Austin, au Texas, selon des responsables locaux cités par CBC.
+  </chapitre>
+
+  <chapitre titre="Économie et marchés">
+    On passe à l'économie. Sur les marchés, selon Bloomberg, les actions ont progressé en début de semaine alors que le prix du pétrole reculait, ce qui a aussi profité aux obligations. Reuters rapporte que la hausse des actions s'appuie notamment sur l'optimisme entourant l'intelligence artificielle, combiné au répit sur les prix pétroliers.
+
+    Le débat sur les taux d'intérêt américains continue d'animer les analystes. Selon le Wall Street Journal, la récente hausse marquée des taux d'intérêt pourrait tout de même être absorbée par l'économie américaine. De son côté, BNN Bloomberg rapporte que la récente hausse de taux de la Réserve fédérale reflète un nouveau contexte économique combinant une inflation persistante et une croissance plus rapide que prévu.
+
+    Dans le secteur de l'intelligence artificielle, Bloomberg rapporte que la banque japonaise SoftBank chercherait à lever plus de onze milliards de dollars américains en obligations à haut rendement pour financer son pari sur OpenAI. Toujours selon Bloomberg, certains analystes s'inquiètent que l'ensemble du secteur de l'intelligence artificielle repose sur une structure financière fragile, ce qui poserait un risque pour les marchés et l'économie américaine dans son ensemble.
+
+    En Chine, Reuters rapporte que les achats sélectifs de récoltes agricoles américaines par Pékin mettent à l'épreuve la trêve commerciale conclue avec Washington, à l'approche d'un sommet entre les deux pays. Par ailleurs, toujours selon Reuters, le rythme des premiers appels publics à l'épargne de robots humanoïdes ralentit en Chine, alors que l'engouement autour du secteur dépasserait la réalité commerciale actuelle.
+
+    Aux États-Unis, The Economist s'intéresse à la course serrée pour un siège clé au Sénat en Alaska, où les démocrates misent sur l'appel personnel de leur candidat et sur les faux pas de l'administration en place pour tenter de renverser la donne.
+
+    Au Québec, Les Affaires rapporte que le Canada devrait investir davantage dans les soins contre le cancer face à ce que le milieu médical qualifie de situation critique.
+
+    Enfin, du côté de l'essence, le Journal de Montréal rapporte qu'un retour à la normale des prix n'est pas à prévoir avant la fin des conflits en Iran et en Ukraine. Dans la restauration, BNN Bloomberg rapporte que les exploitants s'attendent à une hausse de leurs coûts d'exploitation en raison du maintien des tarifs douaniers.
+  </chapitre>
+
+  <chapitre titre="Tech">
+    Un mot sur la tech. Amazon a bloqué l'accès de l'agent d'intelligence artificielle Muse, développé par Meta, à sa plateforme de magasinage en ligne. Selon The Verge, qui cite GeekWire, un message a commencé à apparaître dimanche pour les utilisateurs de Muse, indiquant que l'accès par un agent d'intelligence artificielle non autorisé viole les conditions d'utilisation d'Amazon. Toujours selon GeekWire, Meta n'aurait pas avisé Amazon que Muse accéderait à sa plateforme, et Amazon a exprimé des préoccupations sur le plan de la vie privée et de la sécurité, alléguant que Muse ne s'identifiait pas clairement lors de sa navigation et semblait capter les identifiants de connexion des clients.
+
+    Le débat sur les risques de l'intelligence artificielle continue de diviser l'industrie. Selon The Verge, le fondateur de Nvidia, Jensen Huang, a affirmé dans une entrevue à CBS qu'il existe, je le cite, "zero percent chance" que l'intelligence artificielle mène à la fin du monde, fin de citation. Monsieur Huang a aussi qualifié d'irresponsables les appels à ralentir le développement de l'intelligence artificielle lancés par des dirigeants comme Dario Amodei d'Anthropic et Sam Altman d'OpenAI, estimant que ces mises en garde ne sont pas fondées sur la science. Cette position tranche avec celle d'autres grands noms du secteur, qui plaident pour davantage de prudence et de nouvelles règles encadrant le développement de ces technologies.
+
+    Dans le domaine de la cybersécurité, Ars Technica rapporte qu'un analyste infiltré de Google a réussi à s'introduire dans un groupe de pirates informatiques responsable d'une vaste campagne d'attaques visant la chaîne d'approvisionnement de logiciels. Selon Ars Technica, ce groupe, connu sous le nom de TeamPCP, aurait compromis plus d'un millier d'entreprises avant que deux de ses membres présumés soient arrêtés en Australie. L'infiltration a permis à Google de surveiller les activités du groupe de l'intérieur et d'avertir certaines des cibles visées.
+
+    Du côté du jeu vidéo, The Verge rapporte que le studio Kojima Productions dément être en difficulté, après que Bloomberg a révélé que Sony avait abandonné le jeu Physint du créateur Hideo Kojima, dont le prochain titre sera plutôt lancé sur Xbox. Monsieur Kojima a dit s'inquiéter de l'avenir de son studio, dans un contexte où plusieurs studios de jeux vidéo ferment leurs portes.
+  </chapitre>
+
+  <chapitre titre="Sport">
+    Rapidement en sport. Aux Championnats du monde de cyclisme sur route à Montréal, le Journal de Montréal rapporte que le cycliste belge Remco Evenepoel a réalisé une performance exceptionnelle.
+
+    Dans le baseball majeur, Sportsnet rapporte que les Blue Jays de Toronto ont réussi à éviter un balayage face aux Rangers, portés par une sortie solide du lanceur Spencer Miles, mais que les espoirs de participation aux séries éliminatoires continuent de s'effriter pour l'équipe torontoise.
+
+    Dans la Ligue nationale de football, Sportsnet souligne que les Chiefs de Kansas City ont retrouvé leur forme des dernières années lors de la deuxième semaine d'activités, portés notamment par les performances de Patrick Mahomes.
+
+    Au hockey, Radio-Canada signale que Hockey Canada fait face à des questions de gouvernance concernant un contrat accordé à l'entreprise Bauer sans appel d'offres.
+  </chapitre>
+
+  <outro>Voilà pour ce Presto du lundi vingt et un septembre deux mille vingt-six. Si ce briefing vous est utile, le meilleur coup de main que vous pouvez nous donner, c'est de le partager à une personne qui aime rester informée. Et selon votre plateforme : un abonnement sur Spotify ou Apple Podcasts, un pouce bleu et un abonnement sur YouTube, ça prend deux secondes et ça aide vraiment Presto à grandir. Sur ce, bonne journée, et à demain.</outro>
+</script>
+```
