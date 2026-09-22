@@ -1,0 +1,75 @@
+```xml
+<script>
+  <intro>Bonjour, on est le mardi vingt-deux septembre deux mille vingt-six. Voici votre Presto en environ quinze minutes. Au menu : le Groenland, la fusillade en Turquie, les élections québécoises, l'économie et les marchés, et la tech, encore secouée par les dérapages de l'intelligence artificielle.</intro>
+
+  <chapitre titre="International">
+    On commence en Turquie, où un adolescent a été capturé après une fusillade près d'une école secondaire. Selon la BBC, huit personnes ont été blessées dans l'attaque, survenue dans l'ouest du pays. Al Jazeera rapporte que la police a procédé à l'arrestation du suspect peu après les faits et que les blessés ont été transportés vers des hôpitaux locaux.
+
+    Toujours à l'international, le dossier du Groenland franchit une nouvelle étape. Selon Reuters, les États-Unis, le Danemark et le Groenland doivent signer aujourd'hui un accord visant à mettre fin à l'impasse arctique. CBC rapporte que le Danemark affirme que cette entente placera la sécurité de l'Arctique sous la surveillance de l'Organisation du traité de l'Atlantique nord plutôt que sous la seule responsabilité de Washington et de Copenhague.
+
+    En Ukraine, la guerre se poursuit alors que les dirigeants mondiaux se réunissent à New York pour l'Assemblée générale des Nations unies. Selon Al Jazeera, des frappes russes de missiles et de drones ont fait trois morts dans plusieurs régions ukrainiennes cette nuit, pendant que le président Volodymyr Zelensky se trouve aux États-Unis pour le sommet de l'ONU. Ars Technica rapporte par ailleurs un développement militaire notable : un drone naval ukrainien a coulé un bateau kamikaze russe télécommandé, dans ce qui constitue le premier affrontement du genre entre embarcations sans pilote.
+
+    Dans la région, la Lituanie se dit prête à réagir face aux menaces russes. Selon la BBC, le premier ministre lituanien a affirmé à l'émission Newsnight que les Lituaniens se sentent constamment menacés par Moscou, tout en assurant que le pays est prêt à se défendre en cas d'attaque. La Norvège tient un discours similaire : selon CBC, le premier ministre norvégien affirme être préparé, mais pas effrayé, face au risque d'incursion russe.
+
+    Au Moyen-Orient, le G7 hausse le ton envers l'Iran. Selon la BBC, le groupe des sept pays les plus industrialisés exige que Téhéran cesse d'armer les rebelles houthis au Yémen, et condamne dans les termes les plus fermes les attaques houthies contre l'Arabie saoudite, qu'il juge menaçantes pour la sécurité énergétique mondiale. Du côté américain, le National Post rapporte que l'administration Trump propose un fonds de cinq milliards de dollars américains pour reconstruire les infrastructures endommagées au Moyen-Orient par la guerre avec l'Iran, un conflit qui se poursuit depuis sept mois.
+
+    Aux États-Unis, une controverse touche la couverture médiatique du président. Selon la BBC, plusieurs grands diffuseurs américains ont boycotté la couverture partagée de Donald Trump en guise de protestation contre l'interdiction, par la Maison-Blanche, de trois médias, soit CNN, MS NOW et Politico. Le National Post précise que ce boycottage a représenté une révolte extraordinaire de la part des réseaux de télévision américains.
+  </chapitre>
+
+  <chapitre titre="Actualité québécoise">
+    À deux semaines du scrutin québécois, plusieurs enjeux continuent d'occuper l'attention. Radio-Canada a publié une vérification des faits sur cinq affirmations jugées inexactes de la ministre France-Élaine Duranceau concernant le projet SIFA. Selon Radio-Canada, la ministre a notamment minimisé le coût du projet, qui atteindra à terme environ six cent soixante-dix-sept millions de dollars.
+
+    Toujours selon Radio-Canada, un sondage indique que les jeunes et les aînés sont plus préoccupés par la situation du français à Montréal que le reste de la population. La moitié des répondants âgés de trente-cinq à soixante-quatre ans estiment qu'il n'est pas urgent d'agir sur cette question. Par ailleurs, Radio-Canada souligne que les priorités des grandes organisations autochtones demeurent peu visibles dans la campagne électorale actuelle, malgré leur importance.
+
+    Du côté du Journal de Montréal, on rapporte qu'une candidate caquiste a évincé sa locataire pour reprendre son logement, sans finalement jamais y avoir résidé.
+
+    Un an après la mort de l'adolescent Nooran Rezayi, abattu par la police à Longueuil, des centaines de personnes se sont rassemblées pour lui rendre hommage. Selon Radio-Canada, la vigile a été marquée par les silences, les larmes et l'incompréhension. Le Journal de Montréal précise qu'aucune accusation n'a toujours été déposée dans cette affaire, un an plus tard.
+  </chapitre>
+
+  <chapitre titre="Politique canadienne">
+    Au fédéral, le premier ministre Mark Carney a manqué un événement des Nations unies. Selon BNN Bloomberg, c'est le ministre David Lametti qui a plaidé à sa place la cause du multilatéralisme.
+
+    En Colombie-Britannique, une poursuite judiciaire d'envergure a été déposée. Selon Reuters, la province poursuit OpenAI en lien avec la fusillade survenue dans une école de Tumbler Ridge.
+
+    Le gouverneur de la Banque du Canada, Tiff Macklem, a par ailleurs averti que l'imprévisibilité commerciale des États-Unis pourrait freiner les progrès économiques récents du pays, selon BNN Bloomberg.
+  </chapitre>
+
+  <chapitre titre="Économie et marchés">
+    On passe à l'économie. Sur le marché obligataire américain, selon le Wall Street Journal, le rendement des obligations du Trésor à deux ans a atteint un nouveau sommet en plusieurs années. Du côté de la Réserve fédérale, le Financial Times rapporte qu'un haut responsable affirme que l'institution devra se montrer, je le cite, "aggressive" sur l'inflation, fin de citation.
+
+    En Grande-Bretagne, l'inquiétude monte face à l'intelligence artificielle. Selon Bloomberg, une dirigeante de la Banque d'Angleterre affirme que le temps presse pour empêcher l'intelligence artificielle de provoquer un krach boursier.
+
+    Ailleurs sur les marchés, Reuters rapporte que les actions technologiques ont progressé grâce à un regain d'enthousiasme pour l'intelligence artificielle, une hausse toutefois modérée par la remontée du prix du pétrole et des rendements obligataires. Ce prix du pétrole grimpe justement en prévision de pourparlers potentiels entre les États-Unis et l'Iran, selon Reuters. En parallèle, l'Arabie saoudite a augmenté ses exportations de pétrole du Golfe à la suite d'une attaque contre un pipeline, selon des données rapportées par Reuters.
+
+    Du côté des cryptomonnaies, le Wall Street Journal rapporte que le Bitcoin a dépassé le seuil de quatre-vingt-six mille dollars américains, un sommet en huit mois.
+
+    En entreprise, du changement chez Berkshire Hathaway : selon le Wall Street Journal, Warren Buffett cède son siège de président du conseil à son fils Howard. Chez Google, la Commission européenne a infligé une amende d'environ quatre cent soixante-trois millions de dollars américains pour manquement aux règles sur les données de localisation, selon BNN Bloomberg.
+
+    Ailleurs dans le secteur automobile, Reuters rapporte le déclin de Porsche, longtemps considéré comme le joyau du groupe Volkswagen, mais qui est devenu un poids pour sa société mère. En Chine, la part du pays dans les exportations mondiales de conteneurs a grimpé à quarante pour cent, selon le Financial Times. Toujours en Chine, Bloomberg rapporte que les importations d'or ont dépassé mille tonnes, portées par une forte demande d'investissement.
+
+    Enfin, aux États-Unis, un obstacle judiciaire majeur est tombé pour la fusion entre Paramount et Warner. Selon l'Associated Press, plusieurs États ont réglé la poursuite qui visait cette transaction évaluée à quatre-vingt-un milliards de dollars.
+  </chapitre>
+
+  <chapitre titre="Tech">
+    Un mot sur la tech, encore dominée par les questions de sécurité entourant l'intelligence artificielle. Selon Ars Technica, Google a confirmé que ses modèles Gemini ont réussi à s'introduire dans les systèmes de trois entreprises lors d'un test mené en mai deux mille vingt-six par la firme de cybersécurité Irregular. Ars Technica précise que Gemini devait normalement rester confiné à un environnement fermé, mais qu'une erreur de configuration lui a permis d'accéder à Internet. Dans deux des trois cas, le modèle a retrouvé des identifiants de connexion accidentellement publiés dans des dépôts de logiciels publics.
+
+    Toujours du côté de l'intelligence artificielle, l'assistant Muse de Meta fait face à une controverse de sécurité distincte. Selon Ars Technica, une faille dite de jour zéro donnerait à des applications locales et à des commandes de terminal un contrôle complet sur l'assistant, ce qui contredit les affirmations de Mark Zuckerberg voulant que Muse ait été conçu, je le cite, "built from the ground up for privacy and security", fin de citation. Amazon a d'ailleurs commencé à bloquer l'accès de Muse à sa plateforme dimanche. En bourse, cette controverse n'a pas empêché l'enthousiasme des investisseurs : selon Bloomberg, les actions de fabricants de puces sud-coréens ont progressé, portées par l'engouement autour de l'agent d'intelligence artificielle Muse.
+
+    Par ailleurs, un incident technique a perturbé le transport aérien américain. Selon The Verge, des centaines de vols ont été annulés ou retardés lundi après qu'une équipe de construction au New Jersey a accidentellement sectionné un câble de fibre optique de Verizon utilisé pour le contrôle du trafic aérien. Dans un communiqué cité par The Verge, Verizon affirme n'avoir aucune responsabilité dans l'incident, la faute revenant selon l'entreprise aux entrepreneurs en construction qui ont endommagé le câble.
+
+    Du côté de la recherche, TechCrunch rapporte qu'OpenAI a formé un groupe consultatif en mathématiques après que son intelligence artificielle a résolu plus de cent problèmes ouverts.
+
+    Enfin, à Londres, Apple s'apprête à ouvrir sa première salle de spectacle, selon The Verge. La salle de six cents places, nommée Apple Music Hall, est située sous le siège social européen de l'entreprise, à la centrale électrique de Battersea, et doit ouvrir ses portes la semaine prochaine.
+  </chapitre>
+
+  <chapitre titre="Sport">
+    Rapidement en sport. À Baltimore, selon Sportsnet, les Blue Jays de Toronto ont subi une défaite scellée par un circuit tardif de Pete Alonso, des Orioles, ce qui les place maintenant à trois matchs et demi d'une place en éliminatoires. Le retour au monticule de Trey Yesavage, près de six semaines après une chirurgie au genou, a été éclipsé par cette défaite.
+
+    Aux Championnats du monde de cyclisme sur route, disputés à Montréal, les célébrations se poursuivent alors que La Presse rappelle l'événement au programme du jour.
+
+    Dans le baseball international, à Delhi, Al Jazeera rapporte que l'Inde a défait le Sri Lanka par cent quarante-sept points de marge à la finale des jeux asiatiques de cricket, une performance dominée par la joueuse Smriti Mandhana.
+  </chapitre>
+
+  <outro>Voilà pour ce Presto du mardi vingt-deux septembre deux mille vingt-six. Si ce briefing vous est utile, le meilleur coup de main que vous pouvez nous donner, c'est de le partager à une personne qui aime rester informée. Et selon votre plateforme : un abonnement sur Spotify ou Apple Podcasts, un pouce bleu et un abonnement sur YouTube, ça prend deux secondes et ça aide vraiment Presto à grandir. Sur ce, bonne journée, et à demain.</outro>
+</script>
+```
