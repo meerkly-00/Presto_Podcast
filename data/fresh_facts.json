@@ -1,46 +1,46 @@
 {
-  "generated_at": "2026-09-22T17:32:15.223620+00:00",
+  "generated_at": "2026-09-22T21:47:24.807070+00:00",
   "window_hours": 8,
   "faits": [
     {
-      "sujet": "Élection québécoise - fiabilité IA",
-      "fait": "ChatGPT s'appuie sur un site web généré par l'IA pour conseiller les électeurs québécois, ce qui rend ses réponses aux questions liées à l'élection québécoise peu fiables. Selon Radio-Canada."
+      "sujet": "Aide canadienne aux Palestiniens",
+      "fait": "Le premier ministre Mark Carney a annoncé que le Canada s'engage à verser 100 millions de dollars supplémentaires d'aide aux Palestiniens de Gaza et de Cisjordanie. Selon Radio-Canada et CBC, cette annonce vise à « préserver la possibilité d'une solution à deux États »."
     },
     {
-      "sujet": "Course à la mairie de Toronto",
-      "fait": "Brad Bradford rattrape son retard sur Olivia Chow dans la course à la mairie de Toronto, selon les derniers sondages montrant une baisse du soutien à la mairesse. Selon National Post."
+      "sujet": "Bases militaires américaines au Groenland",
+      "fait": "Les États-Unis et le Danemark ont signé un accord permettant l'expansion de la présence militaire américaine au Groenland. Selon BBC World et Al Jazeera, cet accord de défense a été signé à l'Assemblée générale de l'ONU et réaffirme la souveraineté danoise sur le territoire semi-autonome arctique."
     },
     {
-      "sujet": "Anthropic lance Claude Opus 5.5",
-      "fait": "Anthropic a lancé Claude Opus 5.5 avec des prix réduits et des protections renforcées contre les comportements risqués, notamment les tentatives d'échapper au sandbox de test. C'est le premier modèle publié après que le PDG Dario Amodei ait annoncé des plans pour ralentir le développement de l'IA. Selon The Verge et TechCrunch."
+      "sujet": "Élection législative en Colombie-Britannique",
+      "fait": "Le premier ministre David Eby a déclenché une élection législative anticipée en Colombie-Britannique. D'après Global News, la plupart des députés de CentreBC ont réintégré le Parti conservateur avant le déclenchement du scrutin."
     },
     {
-      "sujet": "Restructuration interne Xbox",
-      "fait": "Microsoft annonce une restructuration radicale de ses studios internes avec 268 licenciements. Le studio Halo sera désormais sous la responsabilité d'Activision, avec seulement une petite équipe maintenue pour le support communautaire. Selon Ars Technica."
+      "sujet": "Indemnisation au Manitoba pour erreur judiciaire",
+      "fait": "Le gouvernement du Manitoba a versé 4 millions de dollars à trois hommes des Premières Nations condamnés à tort pour un meurtre commis à Winnipeg il y a plus de 50 ans. Selon CBC, ce paiement est documenté dans un document financier récemment divulgué."
     },
     {
-      "sujet": "Trump renomme intelligence artificielle",
-      "fait": "Donald Trump déclare aux Nations unies que les États-Unis renomment officiellement l'intelligence artificielle en 'super intelligence', arguant que le mot 'artificiel' la rend fausse. Selon The Verge."
+      "sujet": "Potasse canadienne et négociations commerciales",
+      "fait": "Le président américain Donald Trump a déclaré que les États-Unis continueraient à acheter de la potasse canadienne mais souhaite une baisse de prix. D'après Global News, le Canada est le principal exportateur mondial de potasse et les États-Unis sont son plus grand client."
     },
     {
-      "sujet": "Mondiaux de cyclisme - contre-la-montre mixte",
-      "fait": "L'Italie remporte le titre mondial du contre-la-montre par équipes mixtes des Championnats du monde de cyclisme sur route à Montréal avec un temps de 51:32,28, devançant la France de 8,63 secondes. L'équipe canadienne termine 9e à plus de deux minutes des vainqueurs. Selon Le Devoir."
+      "sujet": "Trump et options militaires contre l'Iran",
+      "fait": "Le président Trump a déclaré à l'Assemblée générale de l'ONU qu'il avait une « grosse décision » à prendre sur le fait d'« anéantir » l'Iran ou de conclure un accord de paix. Selon BBC World, Trump a également déclaré que des responsables américains et iraniens s'étaient rencontrés le mardi."
     },
     {
-      "sujet": "Fonds de protection des loyers au Canada",
-      "fait": "Le Fonds canadien de protection des loyers d'une valeur de 1,5 milliard de dollars est lancé pour préserver le logement abordable au Canada. Selon Les Affaires."
+      "sujet": "Cyberattaque via chatbot IA malveillant",
+      "fait": "Microsoft a démantelé une plateforme de cybercriminalité appelée EvilTokens qui utilisait un chatbot IA pour compromettre 12 000 comptes Microsoft. Selon Ars Technica, la plateforme chargait 1 500 dollars initialement puis 500 dollars mensuellement et aidait les criminels à analyser les boîtes de réception des victimes."
     },
     {
-      "sujet": "Enjeux de sécurité des fournisseurs d'eau",
-      "fait": "Des chercheurs avertissent que des mots de passe volés exposent les fournisseurs d'eau américains aux pirates informatiques dans le contexte des infrastructures critiques. Selon TechCrunch."
+      "sujet": "Prix littéraire Booker Prize 2026",
+      "fait": "Marlon James et Douglas Stuart font partie des 6 auteurs présélectionnés pour le prix Booker de cette année. D'après CBC, ce prix annuel britannique honore le meilleur roman écrit en anglais provenant de n'importe quel endroit du monde."
     },
     {
-      "sujet": "Incidents aux activités d'intégration Polytechnique",
-      "fait": "Les activités d'intégration des nouveaux étudiants de Polytechnique Montréal ont dérapé fin août, entraînant l'hospitalisation d'un jeune et forçant l'école à constituer une cellule de crise pour gérer les incidents jugés 'inacceptables'. Selon La Presse."
+      "sujet": "Rabbit lance son système d'exploitation IA",
+      "fait": "Rabbit a annoncé OS3, un système d'exploitation IA autonome fonctionnant dans le cloud sur Windows, Mac et Linux, sans nécessiter le dispositif matériel R1. Selon The Verge, les utilisateurs peuvent ajouter jusqu'à cinq appareils à un compte avec les modèles IA de leur choix."
     },
     {
-      "sujet": "Académie de formation tech a16z",
-      "fait": "Andreessen Horowitz lance une 'académie' avec 42 millions de dollars de financement et 10 partenaires dont Google, Meta, OpenAI et Palantir. Le programme d'un an ne confère pas de diplôme mais propose des classes dirigées par des chefs de file technologiques et des co-ops dans des entreprises tech. Selon The Verge."
+      "sujet": "Condamnations pour attentats à Sri Lanka",
+      "fait": "Un tribunal du Sri Lanka a condamné 15 hommes pour les attentats à la bombe du dimanche de Pâques 2019. Selon BBC World, les attaques contre trois églises et trois hôtels de luxe ont tué 270 personnes."
     }
   ]
 }
