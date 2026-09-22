@@ -1,0 +1,14 @@
+{
+  "date": "2026-09-22",
+  "kind": "poll",
+  "text": "Ce matin → ChatGPT s'appuie sur un site généré par l'IA pour conseiller les électeurs québécois.\n\nNouveau : OpenAI vient de lancer GPT-6 Sol et Luna, présentés comme moins chers et\n\nDevrais-tu vérifier les réponses de ChatGPT sur l'élection québécoise auprès d'autres sources?",
+  "poll": {
+    "options": [
+      "Oui, systématiquement",
+      "Seulement pour les infos",
+      "Non, je fais confiance",
+      "Je n'utilise pas ChatGPT"
+    ],
+    "duration_minutes": 1440
+  }
+}
