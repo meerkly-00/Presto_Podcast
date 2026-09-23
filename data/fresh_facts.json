@@ -1,46 +1,54 @@
 {
-  "generated_at": "2026-09-22T21:47:24.807070+00:00",
+  "generated_at": "2026-09-23T00:01:24.530302+00:00",
   "window_hours": 8,
   "faits": [
     {
+      "sujet": "Iran sanctions aériennes américaines",
+      "fait": "Les autorités aériennes iraniennes négocient avec Oman et l'Irak après l'annonce de sanctions aériennes américaines ciblant les transporteurs. Selon Al Jazeera, cela intervient sept mois après le début du conflit."
+    },
+    {
+      "sujet": "Discussions USA-Iran à l'ONU",
+      "fait": "Les États-Unis et l'Iran ont tenu des discussions le mardi à l'assemblée générale des Nations unies. Selon Al Jazeera, ces pourparlers ont lieu malgré la menace de Trump d'« anéantir » l'Iran."
+    },
+    {
+      "sujet": "Accord militaire Greenland-Danemark",
+      "fait": "Trump a signé un accord USA-Danemark-Greenland pour renforcer la sécurité arctique. Selon la BBC, l'accord prévoit la construction de deux bases militaires américaines au Groenland."
+    },
+    {
+      "sujet": "Fusion Paramount-Warner Bros",
+      "fait": "Paramount a atteint un règlement avec 12 États contestant sa fusion de 110 milliards de dollars avec Warner Bros. Discovery. Selon The Verge, Paramount s'engage à dépenser au minimum 300 millions supplémentaires sur les projets cinéma-télé américains et à sortir minimum 30 films par an."
+    },
+    {
       "sujet": "Aide canadienne aux Palestiniens",
-      "fait": "Le premier ministre Mark Carney a annoncé que le Canada s'engage à verser 100 millions de dollars supplémentaires d'aide aux Palestiniens de Gaza et de Cisjordanie. Selon Radio-Canada et CBC, cette annonce vise à « préserver la possibilité d'une solution à deux États »."
+      "fait": "Le premier ministre Mark Carney a annoncé que le Canada versera 100 millions supplémentaires en aide humanitaire aux Palestiniens de Gaza et Cisjordanie. Selon La Presse, cette annonce a été faite à l'assemblée générale des Nations unies."
     },
     {
-      "sujet": "Bases militaires américaines au Groenland",
-      "fait": "Les États-Unis et le Danemark ont signé un accord permettant l'expansion de la présence militaire américaine au Groenland. Selon BBC World et Al Jazeera, cet accord de défense a été signé à l'Assemblée générale de l'ONU et réaffirme la souveraineté danoise sur le territoire semi-autonome arctique."
+      "sujet": "Participation autochtone Trans Mountain",
+      "fait": "Le gouvernement canadien propose une participation collective de 15% dans l'oléoduc Trans Mountain aux groupes autochtones, avec un financement via prêt à faible coût. Selon Le Devoir, chaque nation autochtone participante recevrait 2,5 millions dollars."
     },
     {
-      "sujet": "Élection législative en Colombie-Britannique",
-      "fait": "Le premier ministre David Eby a déclenché une élection législative anticipée en Colombie-Britannique. D'après Global News, la plupart des députés de CentreBC ont réintégré le Parti conservateur avant le déclenchement du scrutin."
+      "sujet": "Financement Snorkel AI",
+      "fait": "Snorkel AI a levé 350 millions en Series E, triplant sa valorisation à 3,5 milliards de dollars. Selon TechCrunch, le financement répond à la forte demande pour les données d'entraînement IA."
     },
     {
-      "sujet": "Indemnisation au Manitoba pour erreur judiciaire",
-      "fait": "Le gouvernement du Manitoba a versé 4 millions de dollars à trois hommes des Premières Nations condamnés à tort pour un meurtre commis à Winnipeg il y a plus de 50 ans. Selon CBC, ce paiement est documenté dans un document financier récemment divulgué."
+      "sujet": "Visite Modi au Canada",
+      "fait": "Le premier ministre indien Narendra Modi visitera le Canada en décembre. Selon CBC, les deux pays visent à conclure un accord commercial d'ici fin décembre."
     },
     {
-      "sujet": "Potasse canadienne et négociations commerciales",
-      "fait": "Le président américain Donald Trump a déclaré que les États-Unis continueraient à acheter de la potasse canadienne mais souhaite une baisse de prix. D'après Global News, le Canada est le principal exportateur mondial de potasse et les États-Unis sont son plus grand client."
+      "sujet": "Ministre David Eby ne se représente pas",
+      "fait": "Un troisième ministre du cabinet Eby en Colombie-Britannique a annoncé ne pas se présenter aux élections. Selon Global News, cela s'ajoute aux départs des ministres Kelly Greene et Lana Popham."
     },
     {
-      "sujet": "Trump et options militaires contre l'Iran",
-      "fait": "Le président Trump a déclaré à l'Assemblée générale de l'ONU qu'il avait une « grosse décision » à prendre sur le fait d'« anéantir » l'Iran ou de conclure un accord de paix. Selon BBC World, Trump a également déclaré que des responsables américains et iraniens s'étaient rencontrés le mardi."
+      "sujet": "Propriétés immobilières Montréal",
+      "fait": "Éric Duhaime affirme que les jeunes n'ont pas les moyens d'acheter une maison coûtant en moyenne 1 million de dollars à Montréal. Selon Radio-Canada, cette déclaration fait partie du débat électoral québécois."
     },
     {
-      "sujet": "Cyberattaque via chatbot IA malveillant",
-      "fait": "Microsoft a démantelé une plateforme de cybercriminalité appelée EvilTokens qui utilisait un chatbot IA pour compromettre 12 000 comptes Microsoft. Selon Ars Technica, la plateforme chargait 1 500 dollars initialement puis 500 dollars mensuellement et aidait les criminels à analyser les boîtes de réception des victimes."
+      "sujet": "Modèles IA Anthropic-OpenAI",
+      "fait": "Anthropic a annoncé Opus 5.5 et OpenAI a lancé GPT-6 Sol et Luna, nouveaux modèles IA visant à réduire les coûts. Selon Ars Technica, ces versions promettent plus de performance pour un coût inférieur."
     },
     {
-      "sujet": "Prix littéraire Booker Prize 2026",
-      "fait": "Marlon James et Douglas Stuart font partie des 6 auteurs présélectionnés pour le prix Booker de cette année. D'après CBC, ce prix annuel britannique honore le meilleur roman écrit en anglais provenant de n'importe quel endroit du monde."
-    },
-    {
-      "sujet": "Rabbit lance son système d'exploitation IA",
-      "fait": "Rabbit a annoncé OS3, un système d'exploitation IA autonome fonctionnant dans le cloud sur Windows, Mac et Linux, sans nécessiter le dispositif matériel R1. Selon The Verge, les utilisateurs peuvent ajouter jusqu'à cinq appareils à un compte avec les modèles IA de leur choix."
-    },
-    {
-      "sujet": "Condamnations pour attentats à Sri Lanka",
-      "fait": "Un tribunal du Sri Lanka a condamné 15 hommes pour les attentats à la bombe du dimanche de Pâques 2019. Selon BBC World, les attaques contre trois églises et trois hôtels de luxe ont tué 270 personnes."
+      "sujet": "Projet de loi omnibus C-39 Canada",
+      "fait": "Le projet de loi omnibus C-39 de 243 pages a été déposé au Parlement lundi, promettant l'approbation des grands projets en un an. Selon Radio-Canada, ce projet suscite des débats à Ottawa."
     }
   ]
 }
