@@ -1,0 +1,87 @@
+```xml
+<script>
+  <intro>Bonjour, on est le mercredi vingt-trois septembre deux mille vingt-six. Voici votre Presto en environ quinze minutes. Au menu : les tensions entre les États-Unis et l'Iran en marge de l'Assemblée générale des Nations unies, la campagne électorale québécoise à l'approche du dernier débat des chefs, l'économie avec les marchés obligataires et le dollar canadien, et un tour de la tech dominé par l'intelligence artificielle.</intro>
+
+  <chapitre titre="International">
+    On commence par les Nations unies, où le discours de Donald Trump devant l'Assemblée générale a fait des vagues. Selon l'Associated Press, monsieur Trump a affirmé qu'il pourrait, je le cite : "annihilate" l'Iran, fin de citation, tout en révélant que des responsables américains et iraniens s'étaient rencontrés mardi pour la première fois depuis des mois. Al Jazeera rapporte que ces échanges de rhétorique musclée, d'un côté la menace d'anéantissement, de l'autre des avertissements iraniens de riposte, surviennent alors que les deux camps tentent aussi de renouer le dialogue diplomatique. La BBC précise que ces discussions sont les premières depuis l'effondrement d'un cessez-le-feu en juin, les deux parties ayant échangé des tirs de façon intermittente depuis.
+
+    Toujours à l'ONU, l'Associated Press rapporte que le discours de monsieur Trump devant l'Assemblée générale contenait plusieurs affirmations fausses ou trompeuses, sans préciser lesquelles dans le résumé disponible. La Presse souligne que l'ancien président américain Bill Clinton a pris la parole une heure avant Donald Trump pour présenter une vision différente des États-Unis et du monde. Selon CBC, monsieur Trump a aussi promis de continuer à utiliser la puissance militaire américaine pour faire avancer les intérêts de son pays, notamment pour contrer ce qu'il appelle des adversaires étrangers hostiles dans l'hémisphère occidental.
+
+    En parallèle, un sénateur républicain a demandé une enquête sur les affaires financières de la famille Trump. Selon le National Post, confirmé par Reuters, ce sénateur exige notamment un témoignage de Donald Trump Junior, ce qui constitue une rupture nette avec le président à quelques semaines des élections de mi-mandat.
+
+    Du côté du Groenland, Associated Press rapporte que Donald Trump a signé un nouvel accord de sécurité avec le Danemark et le Groenland pour renforcer la sécurité dans l'Arctique. Mais CBC note qu'un arrangement de sécurité entre les États-Unis et ces deux parties existait déjà depuis soixante-quinze ans. Des observateurs cités par CBC estiment que les améliorations apportées par la nouvelle entente sont modestes, mais qu'elles sont survenues à un coût important.
+
+    Ailleurs, l'Union européenne a averti l'Ukraine. Selon le National Post, des responsables européens ont dit au président Zelensky qu'ils veulent voir des progrès sur une nouvelle législation pour freiner l'économie souterraine et renforcer les revenus fiscaux avant de débloquer davantage d'aide financière.
+
+    En Allemagne, la situation politique continue d'évoluer après les élections régionales de dimanche. Selon CBC, la montée simultanée de l'extrême droite et de l'extrême gauche marque un changement important pour un pays qui avait fondé son système politique d'après-guerre sur la stabilité et la modération.
+
+    En Afrique du Sud, la BBC rapporte que onze personnes ont été tuées dans une fusillade de masse survenue dans une maison. La police croit qu'une des victimes était une femme enceinte.
+
+    Aux Philippines, Reuters rapporte que le Sénat philippin a abaissé le seuil de conviction requis dans le procès en destitution de la vice-présidente Duterte.
+
+    Finalement, la BBC rapporte que l'administration Trump accuse des médias visés par une interdiction, dont CNN, Politico et MS NOW, de propager des fausses informations, en marge d'une audience judiciaire où le département de la Justice invoque aussi la sécurité nationale.
+  </chapitre>
+
+  <chapitre titre="Actualité québécoise">
+    On passe à la campagne électorale québécoise, où le dernier débat des chefs a lieu ce soir. Selon Radio-Canada, le débat sera diffusé de vingt heures à vingt-deux heures sur toutes les plateformes de Radio-Canada. Le enjeu, selon un autre texte de Radio-Canada, sera pour les chefs de trouver l'équilibre entre convaincre et plaire à l'électorat, dans ce qui constitue leur dernière grande occasion de se démarquer avant le scrutin.
+
+    La Presse revient sur un dossier plus ancien qui refait surface dans la campagne : l'ouverture d'un bureau du Québec à Tel-Aviv, annoncée par le gouvernement de François Legault en août deux mille vingt-trois.
+
+    Dans le monde littéraire, Radio-Canada rapporte une vague de soutien pour l'écrivain Thélyson Orélien, visé par des allégations d'utilisation de l'intelligence artificielle dans son travail. Plusieurs figures du milieu littéraire, dont Laura-Ève Lambert, India Desjardins et Stéphane Dompierre, se sont exprimées publiquement sur cette controverse.
+
+    En santé, La Presse publie un dossier sur l'accès à la télémédecine en psychiatrie au Québec. Une mère de famille des Laurentides, dont l'enfant est cloîtré à la maison, dit avoir demandé en vain des consultations virtuelles à la clinique qui le suit. L'Association des médecins psychiatres du Québec affirme pour sa part que la télémédecine sauve des vies, même si elle n'est pas une solution parfaite.
+
+    En faits divers, La Presse rapporte qu'un homme a été arrêté moins de vingt-quatre heures après une agression sexuelle survenue à Longueuil. Le Service de police de l'agglomération de Longueuil craint que le suspect, arrivé au Québec depuis moins d'un an, ait fait d'autres victimes, et lance un appel au public pour les identifier.
+
+    Sur une note plus légère, le Journal de Montréal rapporte la fermeture discrète d'un restaurant emblématique de smoked meat à Montréal.
+  </chapitre>
+
+  <chapitre titre="Politique canadienne">
+    Au fédéral, un rapport d'un groupe de réflexion cité par le National Post soutient que la dernière ronde de contre-tarifs du gouvernement Carney pourrait affaiblir la contestation juridique canadienne contre les tarifs de Donald Trump, parce que ces mesures de rétorsion visent directement et de façon discriminatoire les importations américaines.
+
+    Toujours sur le commerce, Reuters et BNN Bloomberg rapportent que Donald Trump a affirmé que les États-Unis continueront d'acheter de la potasse canadienne, tout en souhaitant obtenir un prix plus bas, évoquant la possibilité que le Bélarus offre un tarif inférieur.
+
+    En Colombie-Britannique, Global News rapporte qu'un troisième ministre du cabinet du premier ministre David Eby a annoncé qu'il ne se représentera pas aux prochaines élections provinciales, après les ministres Kelly Greene et Lana Popham.
+
+    Du côté des infrastructures énergétiques, BNN Bloomberg rapporte qu'Ottawa ouvre une participation de quinze pour cent dans le pipeline Trans Mountain aux groupes autochtones.
+
+    Et selon Global News, le whisky artisanal albertain fait maintenant son entrée sur les tablettes de Costco, alors que la guerre commerciale avec les États-Unis continue de planer sur les distillateurs de la province.
+  </chapitre>
+
+  <chapitre titre="Économie et marchés">
+    On passe à l'économie. Sur le marché des devises, selon Reuters, le dollar canadien a touché un creux de près de sept semaines, dans un contexte d'écarts de rendement obligataire plus importants avec les États-Unis.
+
+    Sur le marché pétrolier, le Wall Street Journal rapporte que les prix du pétrole ont encore reculé. Du côté du gaz naturel et des matières premières, le Financial Times rapporte que Donald Trump a dit qu'il appuierait une interdiction des exportations américaines de diesel.
+
+    Sur l'or, le Wall Street Journal rapporte que le métal précieux subit une pression liée aux perspectives de taux d'intérêt. Bloomberg rapporte par ailleurs que des négociants misent de plus en plus sur des couvertures anticipant un cycle de hausses de taux moins prononcé de la part de la Réserve fédérale américaine.
+
+    Côté entreprises canadiennes, BNN Bloomberg rapporte que les grandes banques du pays explorent la création d'une monnaie numérique basée sur le dollar canadien, avec des dépôts tokenisés. Toujours selon BNN Bloomberg, le Bureau de la concurrence et l'entreprise Empire, propriétaire de Sobeys, ont conclu une entente sur des engagements liés au contrôle des propriétés du détaillant.
+
+    Sur les marchés boursiers américains, Bloomberg rapporte que des projets d'entrée en bourse déraillés créent de la nervosité avant l'arrivée en bourse attendue de l'entreprise d'intelligence artificielle Anthropic.
+
+    À l'international, Reuters rapporte que le président argentin Javier Milei s'est adressé à l'ONU dans un contexte de tensions croissantes autour des îles Malouines. Et le Wall Street Journal rapporte que l'Union européenne et les Philippines ont conclu une percée dans leurs négociations de libre-échange.
+
+    Finalement, une chronique de The Economist met en garde contre l'endettement insouciant des pays riches, un thème qui, selon la publication, mérite plus d'attention dans le débat économique mondial actuel.
+  </chapitre>
+
+  <chapitre titre="Tech">
+    Un mot sur la tech, où l'intelligence artificielle continue de dominer l'actualité. Selon CBC, la rencontre entre Donald Trump et le président chinois Xi Jinping à Washington se déroule alors que les appels se multiplient pour une coopération entre les deux pays sur l'encadrement de l'intelligence artificielle, certains y voyant une course aux allures de menace, d'autres un potentiel boom économique.
+
+    Chez les grands modèles, Ars Technica rapporte que OpenAI et Anthropic ont toutes deux lancé de nouvelles versions de leurs modèles, misant sur des coûts réduits. Anthropic a présenté Opus cinq virgule cinq, sa version phare pour les tâches complexes, tandis que OpenAI a annoncé GPT-six Sol et Luna, des versions plus légères et économiques.
+
+    Toujours chez OpenAI, The Verge rapporte que l'entreprise a annoncé un nouveau comité indépendant de mathématiciens pour la conseiller, elle et d'autres entreprises d'intelligence artificielle, sur la façon de présenter et publier de nouveaux résultats mathématiques. Cette initiative survient après une controverse entourant une série de résultats mathématiques mis en doute. Des chercheurs cités par The Verge estiment qu'il s'agit d'un bon premier pas, mais disent avoir encore des questions de base sur le fonctionnement concret de ce comité.
+
+    En sécurité informatique, Ars Technica rapporte que Microsoft a mené une opération de perturbation à l'échelle de l'industrie contre une plateforme d'arnaque par abonnement, baptisée EvilTokens, qui utilisait un clavardeur bâti sur l'intelligence artificielle pour compromettre douze mille comptes Microsoft en quelques mois. Selon Microsoft, la plateforme facturait des frais initiaux de mille cinq cents dollars américains, plus cinq cents dollars américains par mois, et son robot conversationnel pouvait analyser les boîtes de réception des victimes pour identifier les relations de confiance et rédiger de faux messages imitant des contacts fiables.
+
+    Dans le financement de démarrage, TechCrunch rapporte que la startup Snorkel AI a triplé sa valorisation à trois virgule cinq milliards de dollars américains, après une levée de fonds de série E de trois cent cinquante millions de dollars américains, portée par la demande grandissante de données d'entraînement pour l'intelligence artificielle.
+
+    Sur le plan réglementaire, TechCrunch rapporte que Discord entre dans une ère de vérification d'âge obligatoire, malgré la réaction négative d'une partie de sa communauté. Selon l'entreprise, quatre-vingt-dix pour cent des utilisateurs n'auront toutefois pas à se soumettre à cette vérification.
+
+    Ars Technica rapporte par ailleurs que des villes à travers les États-Unis s'opposent à un projet de la Commission fédérale des communications qui vise à écarter les règles locales encadrant le déploiement des réseaux à large bande filaires. Les fournisseurs de services appuient le projet, mais les gouvernements locaux soutiennent qu'il est illégal et qu'il affaiblirait des règles de sécurité publique.
+
+    Enfin, dans le divertissement, The Verge rapporte que Paramount, après avoir conclu une entente avec douze États qui poursuivaient l'entreprise pour bloquer sa fusion de cent dix milliards de dollars américains avec Warner Bros Discovery, s'est engagé à dépenser au moins trois cents millions de dollars américains supplémentaires en production de films et d'émissions aux États-Unis, et à sortir un minimum de trente films par année après la fusion.
+  </chapitre>
+
+  <outro>Voilà pour ce Presto du mercredi vingt-trois septembre deux mille vingt-six. Si ce briefing vous est utile, le meilleur coup de main que vous pouvez nous donner, c'est de le partager à une personne qui aime rester informée. Et selon votre plateforme : un abonnement sur Spotify ou Apple Podcasts, un pouce bleu et un abonnement sur YouTube, ça prend deux secondes et ça aide vraiment Presto à grandir. Sur ce, bonne journée, et à demain.</outro>
+</script>
+```
