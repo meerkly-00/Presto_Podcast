@@ -1,54 +1,50 @@
 {
-  "generated_at": "2026-09-23T00:01:24.530302+00:00",
+  "generated_at": "2026-09-23T17:43:37.213499+00:00",
   "window_hours": 8,
   "faits": [
     {
-      "sujet": "Iran sanctions aériennes américaines",
-      "fait": "Les autorités aériennes iraniennes négocient avec Oman et l'Irak après l'annonce de sanctions aériennes américaines ciblant les transporteurs. Selon Al Jazeera, cela intervient sept mois après le début du conflit."
+      "sujet": "Tensions Iran-États-Unis à l'ONU",
+      "fait": "Le président iranien Masoud Pezeshkian a déclaré à l'Assemblée générale des Nations unies que l'Iran ne « plierait jamais le genou », en réaction aux menaces du président Trump de « anéantir » l'Iran. Selon BBC World et CBC, ce discours intervient après que Trump a suggéré une « annihilation » de la République islamique."
     },
     {
-      "sujet": "Discussions USA-Iran à l'ONU",
-      "fait": "Les États-Unis et l'Iran ont tenu des discussions le mardi à l'assemblée générale des Nations unies. Selon Al Jazeera, ces pourparlers ont lieu malgré la menace de Trump d'« anéantir » l'Iran."
+      "sujet": "Risques de mortalité liés à El Niño",
+      "fait": "Un rapport de recherche indique que le puissant El Niño de cette année et la chaleur record qu'il provoque, associés à des sécheresses sévères et des feux de forêt, pourraient entraîner près d'un demi-million de décès supplémentaires dans le monde d'ici fin février. Selon CBC, ce bilan a été annoncé mercredi."
     },
     {
-      "sujet": "Accord militaire Greenland-Danemark",
-      "fait": "Trump a signé un accord USA-Danemark-Greenland pour renforcer la sécurité arctique. Selon la BBC, l'accord prévoit la construction de deux bases militaires américaines au Groenland."
+      "sujet": "Conflit renouvelé en Éthiopie",
+      "fait": "Sept groupes armés ont formé une alliance pour renverser le gouvernement éthiopien, suscitant des craintes d'une guerre renouvelée. D'après Al Jazeera et BBC World, les autorités de Tigray et l'Éthiopie s'accusent mutuellement d'avoir lancé des offensives."
     },
     {
-      "sujet": "Fusion Paramount-Warner Bros",
-      "fait": "Paramount a atteint un règlement avec 12 États contestant sa fusion de 110 milliards de dollars avec Warner Bros. Discovery. Selon The Verge, Paramount s'engage à dépenser au minimum 300 millions supplémentaires sur les projets cinéma-télé américains et à sortir minimum 30 films par an."
+      "sujet": "Controverse sur l'IA dans la littérature québécoise",
+      "fait": "Un test effectué avec l'outil Pangram montre que 94 % du roman « C'était ça ou mourir » de Thélyson Orélien a été généré par l'IA. Selon Radio-Canada, cette découverte a déclenché une controverse."
     },
     {
-      "sujet": "Aide canadienne aux Palestiniens",
-      "fait": "Le premier ministre Mark Carney a annoncé que le Canada versera 100 millions supplémentaires en aide humanitaire aux Palestiniens de Gaza et Cisjordanie. Selon La Presse, cette annonce a été faite à l'assemblée générale des Nations unies."
+      "sujet": "Fermeture de la flotte de test d'Zoox",
+      "fait": "Zoox, filiale d'Amazon, a immobilisé sa flotte de test à Atlanta après que des travailleurs ont signalé des symptômes d'exposition à un gaz toxique et qu'une plainte OSHA a été déposée. D'après TechCrunch, l'entreprise a lancé une enquête."
     },
     {
-      "sujet": "Participation autochtone Trans Mountain",
-      "fait": "Le gouvernement canadien propose une participation collective de 15% dans l'oléoduc Trans Mountain aux groupes autochtones, avec un financement via prêt à faible coût. Selon Le Devoir, chaque nation autochtone participante recevrait 2,5 millions dollars."
+      "sujet": "Condamnation de Harvey Weinstein",
+      "fait": "Harvey Weinstein a été condamné à 15 ans de prison après que sa conviction initiale a été annulée et qu'un nouveau procès l'a reconnu coupable d'un crime sexuel grave. Selon CBC et Radio-Canada, cette condamnation intervient après une odyssée judiciaire de plus de six ans."
     },
     {
-      "sujet": "Financement Snorkel AI",
-      "fait": "Snorkel AI a levé 350 millions en Series E, triplant sa valorisation à 3,5 milliards de dollars. Selon TechCrunch, le financement répond à la forte demande pour les données d'entraînement IA."
+      "sujet": "Proposition législative contre la superintelligence",
+      "fait": "Le sénateur Bernie Sanders et le représentant Greg Casar ont introduit la « Ban Artificial Superintelligence Act » qui interdirait le développement de l'superintelligence, avec des peines pouvant atteindre 20 ans de prison. D'après The Verge, le projet de loi impose aussi une pause sur le développement de systèmes d'IA avancés."
     },
     {
-      "sujet": "Visite Modi au Canada",
-      "fait": "Le premier ministre indien Narendra Modi visitera le Canada en décembre. Selon CBC, les deux pays visent à conclure un accord commercial d'ici fin décembre."
+      "sujet": "Instabilité au Moyen-Orient et au Liban",
+      "fait": "Israël a détruit des villages frontaliers au Liban, et le président syrien Ahmed al-Sharaa a mis en garde contre les attaques israéliennes qui menacent la fragile reprise d'après-guerre en Syrie. Selon Al Jazeera, al-Sharaa a appelé au retrait israélien."
     },
     {
-      "sujet": "Ministre David Eby ne se représente pas",
-      "fait": "Un troisième ministre du cabinet Eby en Colombie-Britannique a annoncé ne pas se présenter aux élections. Selon Global News, cela s'ajoute aux départs des ministres Kelly Greene et Lana Popham."
+      "sujet": "Plan de reconstruction de Gaza",
+      "fait": "Le « Board of Peace » soutenu par les États-Unis propose un plan de 2,45 milliards de dollars américains sur six mois pour commencer la reconstruction et la gouvernance à Gaza. D'après CBC, ce plan intervient alors que le plan de cessez-le-feu du président Trump peine à tenir."
     },
     {
-      "sujet": "Propriétés immobilières Montréal",
-      "fait": "Éric Duhaime affirme que les jeunes n'ont pas les moyens d'acheter une maison coûtant en moyenne 1 million de dollars à Montréal. Selon Radio-Canada, cette déclaration fait partie du débat électoral québécois."
+      "sujet": "Débat politique québécois prévu",
+      "fait": "Les chefs des cinq principaux partis politiques québécois participeront au Débat de Radio-Canada ce soir de 20h à 22h. Selon Radio-Canada, c'est le jour 28 de la campagne électorale québécoise."
     },
     {
-      "sujet": "Modèles IA Anthropic-OpenAI",
-      "fait": "Anthropic a annoncé Opus 5.5 et OpenAI a lancé GPT-6 Sol et Luna, nouveaux modèles IA visant à réduire les coûts. Selon Ars Technica, ces versions promettent plus de performance pour un coût inférieur."
-    },
-    {
-      "sujet": "Projet de loi omnibus C-39 Canada",
-      "fait": "Le projet de loi omnibus C-39 de 243 pages a été déposé au Parlement lundi, promettant l'approbation des grands projets en un an. Selon Radio-Canada, ce projet suscite des débats à Ottawa."
+      "sujet": "Nouveaux outils YouTube pour créateurs",
+      "fait": "YouTube déploie des réponses GIF, des commentaires TV contrôlés par la voix, une modération personnalisée, des communautés payantes réservées aux membres, et de nouveaux moyens pour les fans de soutenir leurs créateurs préférés. D'après TechCrunch, YouTube améliore aussi ses outils d'édition vidéo conversationnelle basée sur l'IA."
     }
   ]
 }
