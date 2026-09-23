@@ -1,50 +1,50 @@
 {
-  "generated_at": "2026-09-23T17:43:37.213499+00:00",
+  "generated_at": "2026-09-23T22:06:02.932105+00:00",
   "window_hours": 8,
   "faits": [
     {
-      "sujet": "Tensions Iran-États-Unis à l'ONU",
-      "fait": "Le président iranien Masoud Pezeshkian a déclaré à l'Assemblée générale des Nations unies que l'Iran ne « plierait jamais le genou », en réaction aux menaces du président Trump de « anéantir » l'Iran. Selon BBC World et CBC, ce discours intervient après que Trump a suggéré une « annihilation » de la République islamique."
+      "sujet": "Donation à la recherche sur le cancer",
+      "fait": "La Princess Margaret Cancer Foundation a reçu un don anonyme de 100 millions de dollars d'une personne ayant une connexion personnelle au cancer. Selon Global News."
     },
     {
-      "sujet": "Risques de mortalité liés à El Niño",
-      "fait": "Un rapport de recherche indique que le puissant El Niño de cette année et la chaleur record qu'il provoque, associés à des sécheresses sévères et des feux de forêt, pourraient entraîner près d'un demi-million de décès supplémentaires dans le monde d'ici fin février. Selon CBC, ce bilan a été annoncé mercredi."
+      "sujet": "Débat des chefs électoraux québécois",
+      "fait": "Les chefs des cinq principaux partis politiques québécois participeront à un débat de Radio-Canada le 23 septembre 2026 de 20h à 22h. D'après Radio-Canada."
     },
     {
-      "sujet": "Conflit renouvelé en Éthiopie",
-      "fait": "Sept groupes armés ont formé une alliance pour renverser le gouvernement éthiopien, suscitant des craintes d'une guerre renouvelée. D'après Al Jazeera et BBC World, les autorités de Tigray et l'Éthiopie s'accusent mutuellement d'avoir lancé des offensives."
-    },
-    {
-      "sujet": "Controverse sur l'IA dans la littérature québécoise",
-      "fait": "Un test effectué avec l'outil Pangram montre que 94 % du roman « C'était ça ou mourir » de Thélyson Orélien a été généré par l'IA. Selon Radio-Canada, cette découverte a déclenché une controverse."
-    },
-    {
-      "sujet": "Fermeture de la flotte de test d'Zoox",
-      "fait": "Zoox, filiale d'Amazon, a immobilisé sa flotte de test à Atlanta après que des travailleurs ont signalé des symptômes d'exposition à un gaz toxique et qu'une plainte OSHA a été déposée. D'après TechCrunch, l'entreprise a lancé une enquête."
-    },
-    {
-      "sujet": "Condamnation de Harvey Weinstein",
-      "fait": "Harvey Weinstein a été condamné à 15 ans de prison après que sa conviction initiale a été annulée et qu'un nouveau procès l'a reconnu coupable d'un crime sexuel grave. Selon CBC et Radio-Canada, cette condamnation intervient après une odyssée judiciaire de plus de six ans."
-    },
-    {
-      "sujet": "Proposition législative contre la superintelligence",
-      "fait": "Le sénateur Bernie Sanders et le représentant Greg Casar ont introduit la « Ban Artificial Superintelligence Act » qui interdirait le développement de l'superintelligence, avec des peines pouvant atteindre 20 ans de prison. D'après The Verge, le projet de loi impose aussi une pause sur le développement de systèmes d'IA avancés."
-    },
-    {
-      "sujet": "Instabilité au Moyen-Orient et au Liban",
-      "fait": "Israël a détruit des villages frontaliers au Liban, et le président syrien Ahmed al-Sharaa a mis en garde contre les attaques israéliennes qui menacent la fragile reprise d'après-guerre en Syrie. Selon Al Jazeera, al-Sharaa a appelé au retrait israélien."
+      "sujet": "Avertissement sur les risques de l'IA",
+      "fait": "Yoshua Bengio a averti devant l'ONU que 'notre futur est en jeu' concernant l'intelligence artificielle, comparant la situation à 'une auto qui fonce à toute allure dans un épais brouillard'. Selon Radio-Canada."
     },
     {
       "sujet": "Plan de reconstruction de Gaza",
-      "fait": "Le « Board of Peace » soutenu par les États-Unis propose un plan de 2,45 milliards de dollars américains sur six mois pour commencer la reconstruction et la gouvernance à Gaza. D'après CBC, ce plan intervient alors que le plan de cessez-le-feu du président Trump peine à tenir."
+      "fait": "Le Board of Peace de Trump a dévoilé un plan de 2,45 milliards de dollars pour débuter la reconstruction de Gaza, annoncé lors d'une réunion en marge de l'Assemblée générale de l'ONU. Selon BBC World."
     },
     {
-      "sujet": "Débat politique québécois prévu",
-      "fait": "Les chefs des cinq principaux partis politiques québécois participeront au Débat de Radio-Canada ce soir de 20h à 22h. Selon Radio-Canada, c'est le jour 28 de la campagne électorale québécoise."
+      "sujet": "Brèche de données au FBI",
+      "fait": "Le groupe de hackers ShinyHunters prétend avoir accès à des données détaillées sur des milliers d'employés du FBI, incluant des informations sensibles sur les rôles liés à la lutte contre l'espionnage chinois et russe. Selon Al Jazeera et CBC World."
     },
     {
-      "sujet": "Nouveaux outils YouTube pour créateurs",
-      "fait": "YouTube déploie des réponses GIF, des commentaires TV contrôlés par la voix, une modération personnalisée, des communautés payantes réservées aux membres, et de nouveaux moyens pour les fans de soutenir leurs créateurs préférés. D'après TechCrunch, YouTube améliore aussi ses outils d'édition vidéo conversationnelle basée sur l'IA."
+      "sujet": "Prix du pétrole en baisse",
+      "fait": "Les prix du pétrole ont baissé pour la quatrième journée consécutive alors que les préoccupations concernant l'approvisionnement s'atténuent. Selon le Wall Street Journal."
+    },
+    {
+      "sujet": "Rendements des bons du Trésor américains",
+      "fait": "Les rendements des bons du Trésor américains à 5% perdent de leur valeur de choc, les investisseurs commençant à s'inquiéter de rendements pouvant atteindre 6%. Selon Reuters Business."
+    },
+    {
+      "sujet": "Renommage de l'avenue Trump à Ottawa",
+      "fait": "Le conseil municipal d'Ottawa a initié une procédure visant à renommer une avenue portant le nom de famille du président américain Donald Trump. Selon La Presse."
+    },
+    {
+      "sujet": "Levée de fonds pour l'IA biotech",
+      "fait": "Enveda a levé 311 millions de dollars pour développer des médicaments dérivés de la nature utilisant l'IA, valorisant la compagnie à 2 milliards de dollars. Selon TechCrunch."
+    },
+    {
+      "sujet": "Fonds d'investissement en IA",
+      "fait": "Le cabinet de capital-risque Bessemer a annoncé une nouvelle levée de 5,75 milliards de dollars pour investir dans des entreprises natives de l'IA. Selon TechCrunch."
+    },
+    {
+      "sujet": "Vérification d'âge sur Discord",
+      "fait": "Discord déploie un système de vérification d'âge estimant l'âge de chaque utilisateur et exigeant de certains de prouver leur majorité pour accéder à du contenu réservé aux adultes. Selon Ars Technica."
     }
   ]
 }
