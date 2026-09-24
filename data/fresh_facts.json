@@ -1,50 +1,54 @@
 {
-  "generated_at": "2026-09-23T22:06:02.932105+00:00",
+  "generated_at": "2026-09-24T17:45:26.859772+00:00",
   "window_hours": 8,
   "faits": [
     {
-      "sujet": "Donation à la recherche sur le cancer",
-      "fait": "La Princess Margaret Cancer Foundation a reçu un don anonyme de 100 millions de dollars d'une personne ayant une connexion personnelle au cancer. Selon Global News."
+      "sujet": "Rendements obligataires américains",
+      "fait": "Le rendement des bons du Trésor américain à 10 ans a dépassé 5,1% pour la première fois en 19 ans, selon Global News. Le rendement à 30 ans a atteint son plus haut niveau depuis 2004, selon Bloomberg."
     },
     {
-      "sujet": "Débat des chefs électoraux québécois",
-      "fait": "Les chefs des cinq principaux partis politiques québécois participeront à un débat de Radio-Canada le 23 septembre 2026 de 20h à 22h. D'après Radio-Canada."
+      "sujet": "Croissance démographique canadienne",
+      "fait": "Le Canada a enregistré sa plus faible croissance annuelle de la population depuis la Seconde Guerre mondiale, selon Statistics Canada cité par National Post."
     },
     {
-      "sujet": "Avertissement sur les risques de l'IA",
-      "fait": "Yoshua Bengio a averti devant l'ONU que 'notre futur est en jeu' concernant l'intelligence artificielle, comparant la situation à 'une auto qui fonce à toute allure dans un épais brouillard'. Selon Radio-Canada."
+      "sujet": "Compression d'emplois hospitalière en Ontario",
+      "fait": "Hamilton Health Sciences prévoit d'éliminer plus de 400 postes suite à des directives provinciales de réduction budgétaire, rapporte Global News."
     },
     {
-      "sujet": "Plan de reconstruction de Gaza",
-      "fait": "Le Board of Peace de Trump a dévoilé un plan de 2,45 milliards de dollars pour débuter la reconstruction de Gaza, annoncé lors d'une réunion en marge de l'Assemblée générale de l'ONU. Selon BBC World."
+      "sujet": "Fermetures Starbucks en Amérique du Nord",
+      "fait": "Starbucks fermerait 250 autres cafés en Amérique du Nord, selon BNN Bloomberg."
     },
     {
-      "sujet": "Brèche de données au FBI",
-      "fait": "Le groupe de hackers ShinyHunters prétend avoir accès à des données détaillées sur des milliers d'employés du FBI, incluant des informations sensibles sur les rôles liés à la lutte contre l'espionnage chinois et russe. Selon Al Jazeera et CBC World."
+      "sujet": "Récession économique à Gaza",
+      "fait": "Les besoins de reconstruction à Gaza s'élèvent à 71,5 milliards de dollars avec 90% de chômage, selon un rapport du corps commercial de l'ONU cité par Al Jazeera."
     },
     {
-      "sujet": "Prix du pétrole en baisse",
-      "fait": "Les prix du pétrole ont baissé pour la quatrième journée consécutive alors que les préoccupations concernant l'approvisionnement s'atténuent. Selon le Wall Street Journal."
+      "sujet": "Crise économique au Soudan",
+      "fait": "L'effondrement de la monnaie et l'inflation au Soudan laissent les familles aux prises avec des prix élevés du pain, du sucre et de la viande, rapporte Al Jazeera."
     },
     {
-      "sujet": "Rendements des bons du Trésor américains",
-      "fait": "Les rendements des bons du Trésor américains à 5% perdent de leur valeur de choc, les investisseurs commençant à s'inquiéter de rendements pouvant atteindre 6%. Selon Reuters Business."
+      "sujet": "Sécurité de l'IA Meta Muse",
+      "fait": "Des développeurs affirment que Meta's Muse partage facilement son système de fichiers entier avec très peu d'incitation, selon The Verge. Meta conteste que cela constitue une brèche de sécurité."
     },
     {
-      "sujet": "Renommage de l'avenue Trump à Ottawa",
-      "fait": "Le conseil municipal d'Ottawa a initié une procédure visant à renommer une avenue portant le nom de famille du président américain Donald Trump. Selon La Presse."
+      "sujet": "Accès médias à la Maison-Blanche",
+      "fait": "CNN, Politico et MS NOW ont regagné l'accès à la Maison-Blanche après une ordonnance judiciaire, selon BBC World et Reuters."
     },
     {
-      "sujet": "Levée de fonds pour l'IA biotech",
-      "fait": "Enveda a levé 311 millions de dollars pour développer des médicaments dérivés de la nature utilisant l'IA, valorisant la compagnie à 2 milliards de dollars. Selon TechCrunch."
+      "sujet": "Réunion Premières Nations-premiers ministres",
+      "fait": "Une réunion exceptionnelle entre les chefs régionaux de l'Assemblée des Premières Nations et les premiers ministres est prévue fin octobre, la première de ce type en décennies, selon La Presse."
     },
     {
-      "sujet": "Fonds d'investissement en IA",
-      "fait": "Le cabinet de capital-risque Bessemer a annoncé une nouvelle levée de 5,75 milliards de dollars pour investir dans des entreprises natives de l'IA. Selon TechCrunch."
+      "sujet": "Arrestation pour terrorisme au Québec",
+      "fait": "La GRC a arrêté un résident de Québec de 24 ans pour avoir prêté allégeance à l'État islamique et planifié un attentat à l'arme chimique, selon CBC et La Presse."
     },
     {
-      "sujet": "Vérification d'âge sur Discord",
-      "fait": "Discord déploie un système de vérification d'âge estimant l'âge de chaque utilisateur et exigeant de certains de prouver leur majorité pour accéder à du contenu réservé aux adultes. Selon Ars Technica."
+      "sujet": "Sabotage présumé station Starlink Pologne",
+      "fait": "La Pologne qualifie un incendie dans une station Starlink de sabotage; cette station fournit en partie une couverture Internet à l'Ukraine, selon BBC World."
+    },
+    {
+      "sujet": "Violations de convictions meurtrières au Canada",
+      "fait": "Le ministre fédéral de la Justice a ordonné l'examen en appel du dossier de deux sœurs du Saskatchewan qui ont passé près de trois décennies en prison pour des convictions possiblement erronées, selon Global News."
     }
   ]
 }
