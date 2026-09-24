@@ -1,0 +1,14 @@
+{
+  "date": "2026-09-24",
+  "kind": "poll",
+  "text": "Ce matin → rendements à 30 ans à leur plus haut depuis 2004.\n\nNouveau développement : le rendement des bons du Trésor à 10 ans a dépassé 5,1 % pour la première fois en 19 ans, selon Global News.\n\nFace à la hausse des rendements obligataires, quelle approche privilégies-tu?",
+  "poll": {
+    "options": [
+      "Attendre la",
+      "Augmenter les taux",
+      "Maintenir le statu quo",
+      "Réduire progressivement"
+    ],
+    "duration_minutes": 1440
+  }
+}
