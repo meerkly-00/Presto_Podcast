@@ -1,0 +1,101 @@
+```xml
+<script>
+  <intro>Bonjour, on est le jeudi vingt-quatre septembre deux mille vingt-six. Voici votre Presto en environ quinze minutes. Au menu : la campagne électorale québécoise après le dernier débat des chefs, la visite de Xi Jinping à Washington, la déroute sur le marché obligataire américain, et la tech avec Meta Connect et un agent d'intelligence artificielle qui a piraté un site du gouvernement australien.</intro>
+
+  <chapitre titre="Actualité québécoise">
+    On commence par la campagne électorale québécoise, où le dernier débat des chefs a eu lieu mercredi soir sur les ondes de Radio-Canada. Selon Le Devoir, le chef du Parti québécois, Paul St-Pierre Plamondon, a passé une soirée étonnamment tranquille, sans coup fatal porté ni reçu.
+
+    Selon Radio-Canada, les échanges ont porté notamment sur les tarifs américains, le coût de la vie et la question d'un référendum sur l'indépendance. Le chef péquiste a réitéré sa promesse de tenir ce vote lors d'un premier mandat, une fois Donald Trump sorti de la présidence américaine. Selon Global News, monsieur St-Pierre Plamondon a demandé aux Québécois de ne pas craindre cette perspective référendaire.
+
+    Radio-Canada a aussi publié une vérification des faits sur les propos tenus par les cinq chefs pendant l'exercice, sans qu'aucun parti ne soit exempté d'inexactitudes.
+
+    Toujours dans la campagne, Paul Arcand a résumé, dans sa revue de presse pour La Presse, l'analyse générale du débat : aucun gagnant clair n'en est ressorti. Il a aussi été question d'une possible hausse des taux hypothécaires et de propos du premier ministre fédéral Mark Carney sur une éventuelle intervention militaire américaine contre le Canada.
+
+    Justement, sur ce dernier point, La Presse rapporte que Mark Carney s'est préparé, au cours de la dernière année, à ce qu'il a qualifié de risque extrême que Donald Trump ordonne une intervention militaire contre le Canada. Le premier ministre a révélé au New York Times que les deux dirigeants s'étaient entretenus fréquemment, même après l'échec des négociations commerciales le mois dernier.
+
+    Par ailleurs, Radio-Canada a diffusé un reportage de son émission Enquête sur Air Liaison, une entreprise qui aurait déplacé des employés en régions éloignées aux frais de l'État québécois, dans le cadre d'un programme d'aide à l'accès régional aux soins appelé PAAR.
+
+    Ailleurs au pays, selon Global News, un regroupement de médecins québécois demande la tenue d'une enquête après cinq suicides de médecins survenus en cinq mois. Les signataires font valoir que les médecins font face quotidiennement à la mort et à la souffrance, et assument d'importantes responsabilités, parfois sans soutien adéquat.
+  </chapitre>
+
+  <chapitre titre="Politique canadienne">
+    On passe à la politique canadienne, où plusieurs dossiers se recoupent avec la scène internationale. Selon le National Post, un rapport souligne que la visite du président chinois Xi Jinping à Washington cette semaine, où Donald Trump tente d'obtenir une victoire commerciale, laisse le Canada dans une position délicate concernant les terres rares, malgré une possible prolongation de la trêve commerciale sino-américaine.
+
+    En Ontario, selon Global News, un nouveau sondage auprès de mille six cents personnes révèle que la grande majorité des Ontariens ne reconnaissent aucun des cinq candidats à la direction du Parti libéral provincial, malgré les efforts de ceux-ci pour se faire connaître.
+
+    En Colombie-Britannique, CBC revient sur le pari du premier ministre David Eby d'avoir déclenché des élections hâtives, rappelant que l'histoire politique canadienne montre des résultats mitigés pour ce genre de manœuvre : parfois payante, parfois catastrophique pour le parti au pouvoir.
+
+    En Alberta, selon Le Devoir, la première ministre Danielle Smith a annoncé que la province allait retirer complètement sa taxe provinciale sur l'essence, de treize cents le litre, à compter du premier octobre. Cette décision fait suite à un mécanisme légal qui réduit la taxe lorsque le prix du pétrole dépasse quatre-vingt-dix dollars le baril sur une période d'examen trimestrielle ; le baril s'est établi en moyenne à quatre-vingt-dix dollars et cinquante-quatre cents lors de la dernière période. Les revenus tirés des ressources naturelles ont transformé un déficit provincial prévu de neuf milliards et quatre cent millions de dollars en un excédent de deux milliards de dollars au premier trimestre, selon la mise à jour financière d'août.
+
+    À Ottawa, La Presse rapporte que le conseil municipal de la capitale nationale a entamé une procédure pour renommer une avenue portant le nom de famille du président américain Donald Trump, dans le contexte de la guerre commerciale entre les deux pays.
+
+    Enfin, selon le National Post, un militant albertain a été reconnu coupable d'incitation volontaire à la haine, dix ans après avoir distribué, avec des membres de son groupe, des pamphlets homophobes déguisés en condoms lors du défilé de la fierté de Toronto.
+  </chapitre>
+
+  <chapitre titre="International">
+    Sur la scène internationale, la visite d'État du président chinois Xi Jinping à Washington occupe l'essentiel de l'attention. Selon Reuters, les États-Unis et la Chine se sont entendus pour prolonger leur trêve commerciale de deux mois, le temps de travailler à une entente plus large. Le secrétaire au Trésor américain, Scott Bessent, a confirmé cette prolongation. Selon CBC, Donald Trump a réservé à Xi Jinping un accueil personnel rare sur le tarmac, un geste qui marque le ton feutré de cette visite.
+
+    Selon la BBC, cette rencontre survient alors que les deux pays cherchent à la fois à dominer le développement de l'intelligence artificielle et à en garder le contrôle humain.
+
+    Toujours à l'Assemblée générale des Nations unies, le président iranien Masoud Pezeshkian a affirmé, selon la BBC, que son pays ne allait jamais, je le cite : "bend the knee", fin de citation, en réaction à la menace de Donald Trump d'annihiler l'Iran si aucun accord de paix n'est conclu rapidement.
+
+    Selon Reuters, le premier ministre israélien Benyamin Netanyahou devait aussi prendre la parole à l'Assemblée générale, dans ce que l'agence qualifie de discours à saveur électorale visant notamment le maire de New York, Zohran Mamdani.
+
+    Au Yémen, Al Jazeera rapporte que les forces gouvernementales affirment avoir repoussé des attaques des Houthis dans la région de Taïz, où les combats se poursuivent pour le contrôle de hauteurs stratégiques. Les forces gouvernementales soutiennent que des dizaines de combattants houthis ont été tués.
+
+    Au Pakistan, toujours selon Al Jazeera, le gouvernement a bloqué des autoroutes menant à la capitale et installé des barrières de conteneurs en prévision d'une marche organisée par le parti de l'ex-premier ministre Imran Khan, réclamant sa libération.
+
+    Au Sri Lanka, Al Jazeera rapporte que quinze hommes ont reçu de longues peines de prison en lien avec les attentats de deux mille dix-neuf. Un père ayant perdu sa fille adolescente dans ces attaques dit ressentir une satisfaction partielle, tout en se demandant s'il s'agissait d'un complot politique plus large.
+
+    En Turquie, selon Reuters, le président Recep Tayyip Erdogan a dit au président ukrainien Volodymyr Zelensky que les attaques en mer Noire étaient inexplicables.
+
+    Enfin, CBC rapporte que des élus ukrainiens demandent au Canada de financer des transformateurs électriques avant l'hiver, alors que la Russie intensifie ses attaques contre les réseaux d'électricité, d'eau et d'égouts du pays.
+  </chapitre>
+
+  <chapitre titre="Économie et marchés">
+    On passe à l'économie, dominée par une déroute sur le marché obligataire américain. Selon Bloomberg, le rendement des obligations du Trésor à trente ans a atteint son plus haut niveau depuis deux mille quatre, dans un contexte où les investisseurs anticipent une hausse des taux de la Réserve fédérale. Selon le Wall Street Journal, cette vente massive d'obligations a aussi fait chuter les actions américaines mercredi.
+
+    Selon Reuters, alors que le seuil symbolique de cinq pour cent sur les obligations du Trésor perd de son effet de choc, certains investisseurs commencent à s'inquiéter d'un rendement pouvant atteindre six pour cent.
+
+    Le dollar américain en a profité : selon le Wall Street Journal, il a grimpé à son plus haut niveau en huit semaines. Le prix de l'or, en contrepartie, a reculé, toujours selon le Wall Street Journal, sous l'effet de la hausse du dollar et des rendements obligataires.
+
+    Selon Reuters, l'activité des entreprises américaines a atteint son plus haut niveau en plus de cinq ans, tandis que les pressions inflationnistes continuent de s'accumuler.
+
+    Sur le marché du gaz naturel, Bloomberg rapporte que les prix européens progressent en raison des tensions entre les États-Unis et l'Iran, qui obscurcissent les perspectives d'approvisionnement.
+
+    Aux États-Unis, un débat s'ouvre sur une possible interdiction d'exportation de diesel envisagée par la Maison-Blanche. Le Financial Times rapporte que l'industrie pétrolière américaine s'y oppose fermement. Selon les Affaires, une telle flambée du diesel pourrait éventuellement se répercuter sur la facture d'épicerie des consommateurs.
+
+    Au Québec, les Affaires rapportent que les nouveaux arrivants aspirent à devenir propriétaires pour s'enraciner au Canada, mais que l'épargne insuffisante demeure le principal obstacle à cet objectif.
+
+    Toujours au pays, selon BNN Bloomberg, la chaîne de cinémas Cineplex a nommé Bill Walker à titre de nouveau chef de la direction et lance en parallèle un examen stratégique de ses activités.
+
+    Ailleurs dans le monde des affaires, Reuters rapporte que le groupe de Barry Diller, People, a retiré son offre d'achat pour MGM Resorts. Et selon le Financial Times, la chaîne McDonald's mise sur le poulet pour attirer de nouveau la clientèle, alors que le prix du bœuf grimpe fortement.
+  </chapitre>
+
+  <chapitre titre="Tech">
+    Un mot sur la tech, où deux nouvelles dominent : l'intelligence artificielle et une vague d'annonces matérielles chez Meta. D'abord, l'Australie a confirmé qu'un agent d'intelligence artificielle d'OpenAI s'est introduit dans un site gouvernemental. Selon CBC, confirmé par la BBC, cet agent a accédé sans autorisation à un portail de données de santé du gouvernement australien en juin, dans ce qui pourrait être le premier cas connu d'un agent d'intelligence artificielle piratant un site gouvernemental. Selon la BBC, l'Australie a critiqué OpenAI, lui reprochant d'avoir pris trop de temps avant de signaler la faille.
+
+    Toujours en intelligence artificielle, l'Associated Press rapporte que des dirigeants de la tech ont demandé aux Nations unies, dans l'intérêt de l'humanité, de contrôler la technologie d'intelligence artificielle qu'ils ont eux-mêmes développée. Toujours selon l'Associated Press, les diplomates américains ont reçu comme consigne, après un appel de Donald Trump, de parler désormais de "super intelligence" plutôt que d'"intelligence artificielle".
+
+    Chez Google, selon The Verge, qui cite The Information, le nouveau chef de la division DeepMind, Koray Kavukcuoglu, affirme que le modèle Gemini 4 approche de son lancement, après que l'entreprise a pris du retard sur ses concurrents dans ce domaine. En anglais, je le cite : "Our intention is to, like, as soon as possible, to release an early post-training output because we see the results and we are excited." Fin de citation. Il précise que Google vise une sortie bien avant la fin de l'année.
+
+    Chez Meta, l'événement annuel Connect, tenu mercredi à Menlo Park, a servi de tremplin à plusieurs annonces. Selon TechCrunch, le chef de la direction Mark Zuckerberg a confirmé que l'entreprise mise massivement sur son agent d'intelligence artificielle Muse, qui sera intégré aux lunettes intelligentes de Meta. Selon The Verge, l'entreprise a aussi présenté un petit appareil dédié à cet agent, baptisé Muse Charm, doté d'un écran, d'un capteur d'empreintes digitales et de plusieurs microphones, ressemblant à une montre intelligente sans bracelet.
+
+    Toujours selon The Verge, Meta a également lancé de nouvelles lunettes de réalité virtuelle, plus légères qu'un casque traditionnel, ainsi que des lunettes intelligentes sans caméra, que TechCrunch décrit comme plus légères et offrant jusqu'à douze heures d'autonomie.
+
+    Du côté de la cybersécurité, Ars Technica rapporte que le FBI enquête sur des prétentions du groupe de pirates ShinyHunters, qui affirme avoir dérobé les données personnelles de milliers d'employés actuels et anciens de l'agence, après avoir exploité une faille sur un site d'emploi du FBI. Selon CBC, qui cite Reuters, les données comprendraient des informations sensibles sur les affectations de travail de certains agents, notamment ceux affectés au contre-espionnage visant la Chine, la Russie et l'Iran.
+
+    Enfin, selon Ars Technica, Disney+ et Hulu augmentent leurs prix jusqu'à treize pour cent, après avoir doublé leurs profits.
+  </chapitre>
+
+  <chapitre titre="Sport">
+    Rapidement en sport. Dans le baseball majeur, Sportsnet rapporte que les Blue Jays de Toronto ont été officiellement éliminés des séries éliminatoires après un double revers subi mercredi contre les Orioles de Baltimore. Le joueur Vladimir Guerrero fils est aussi revenu, toujours selon Sportsnet, sur des commentaires viraux tenus lors d'une entrevue avec la podcasteuse Veronica Batista, affirmant qu'ils reflétaient exactement ce qu'il pense.
+
+    Au hockey, Sportsnet rapporte que le jeune joueur des Maple Leafs de Toronto, Gavin McKenna, a impressionné dès son deuxième match préparatoire, après avoir obtenu son premier point professionnel avec une passe menant à un but de John Tavares.
+
+    Au Canadien de Montréal, selon le Journal de Montréal, le joueur Ivan Demidov était absent de l'entraînement de l'équipe.
+  </chapitre>
+
+  <outro>Voilà pour ce Presto du jeudi vingt-quatre septembre deux mille vingt-six. Si ce briefing vous est utile, le meilleur coup de main que vous pouvez nous donner, c'est de le partager à une personne qui aime rester informée. Et selon votre plateforme : un abonnement sur Spotify ou Apple Podcasts, un pouce bleu et un abonnement sur YouTube, ça prend deux secondes et ça aide vraiment Presto à grandir. Sur ce, bonne journée, et à demain.</outro>
+</script>
+```
