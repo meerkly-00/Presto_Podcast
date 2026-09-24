@@ -1,54 +1,54 @@
 {
-  "generated_at": "2026-09-24T17:45:26.859772+00:00",
+  "generated_at": "2026-09-24T21:59:33.201540+00:00",
   "window_hours": 8,
   "faits": [
     {
-      "sujet": "Rendements obligataires américains",
-      "fait": "Le rendement des bons du Trésor américain à 10 ans a dépassé 5,1% pour la première fois en 19 ans, selon Global News. Le rendement à 30 ans a atteint son plus haut niveau depuis 2004, selon Bloomberg."
+      "sujet": "Sommet Trump-Xi à Washington",
+      "fait": "Le président américain Donald Trump a reçu le président chinois Xi Jinping à la Maison-Blanche pour des discussions portant sur le commerce, l'IA, Taïwan et l'Iran. Selon Al Jazeera, il s'agit de la première visite d'un président chinois à la Maison-Blanche en plus d'une décennie."
     },
     {
-      "sujet": "Croissance démographique canadienne",
-      "fait": "Le Canada a enregistré sa plus faible croissance annuelle de la population depuis la Seconde Guerre mondiale, selon Statistics Canada cité par National Post."
+      "sujet": "Discours de Netanyahu à l'ONU",
+      "fait": "Des dizaines de délégués ont quitté la salle au moment où le premier ministre israélien Benjamin Netanyahu devait prendre la parole à l'Assemblée générale des Nations unies. Selon la BBC, Netanyahu a qualifié ceux qui ont quitté son discours de « lâches moraux »."
     },
     {
-      "sujet": "Compression d'emplois hospitalière en Ontario",
-      "fait": "Hamilton Health Sciences prévoit d'éliminer plus de 400 postes suite à des directives provinciales de réduction budgétaire, rapporte Global News."
+      "sujet": "Arrestations lors de manifestation Netanyahu",
+      "fait": "Les actrices Susan Sarandon et Hannah Einbinder ont été arrêtées parmi environ 100 manifestants à l'extérieur de l'ONU avant le discours de Netanyahu. Selon Al Jazeera, elles protestaient contre la politique israélienne."
     },
     {
-      "sujet": "Fermetures Starbucks en Amérique du Nord",
-      "fait": "Starbucks fermerait 250 autres cafés en Amérique du Nord, selon BNN Bloomberg."
+      "sujet": "Extradition dans l'affaire Nord Stream",
+      "fait": "Un tribunal croate a approuvé l'extradition d'un suspect de sabotage du Nord Stream. Selon Al Jazeera, la décision du tribunal fait face à un appel et la décision finale reste en attente."
     },
     {
-      "sujet": "Récession économique à Gaza",
-      "fait": "Les besoins de reconstruction à Gaza s'élèvent à 71,5 milliards de dollars avec 90% de chômage, selon un rapport du corps commercial de l'ONU cité par Al Jazeera."
+      "sujet": "Déficit budgétaire canadien",
+      "fait": "Un rapport du directeur parlementaire du budget indique que le gouvernement Carney ratera son objectif d'équilibre du budget d'exploitation. Selon le National Post, cela contraste avec les déclarations du premier ministre selon lequel le gouvernement s'attend maintenant à équilibrer le budget d'exploitation un an plus tôt que prévu."
     },
     {
-      "sujet": "Crise économique au Soudan",
-      "fait": "L'effondrement de la monnaie et l'inflation au Soudan laissent les familles aux prises avec des prix élevés du pain, du sucre et de la viande, rapporte Al Jazeera."
+      "sujet": "Vols directs Canada-Vietnam",
+      "fait": "Le gouvernement fédéral a annoncé le début des vols directs entre le Canada et le Vietnam. Selon Les Affaires, cette annonce s'accompagne d'une rencontre du premier ministre Carney avec le secrétaire général et président du Vietnam, Tô Lâm."
     },
     {
-      "sujet": "Sécurité de l'IA Meta Muse",
-      "fait": "Des développeurs affirment que Meta's Muse partage facilement son système de fichiers entier avec très peu d'incitation, selon The Verge. Meta conteste que cela constitue une brèche de sécurité."
+      "sujet": "Recherches de voyages en Colombie-Britannique",
+      "fait": "Les recherches de destinations intérieures en Colombie-Britannique ont augmenté de 40 pour cent au cours de la dernière année. Selon Global News, les voyageurs sont particulièrement attirés par les paysages de la province selon les données d'Airbnb."
     },
     {
-      "sujet": "Accès médias à la Maison-Blanche",
-      "fait": "CNN, Politico et MS NOW ont regagné l'accès à la Maison-Blanche après une ordonnance judiciaire, selon BBC World et Reuters."
+      "sujet": "Dépenses alimentaires des Canadiens",
+      "fait": "Les ménages à revenu plus élevé mangent moins au restaurant qu'l'année précédente en raison du coût de la vie élevé. Selon Global News, cette tendance ressort d'un sondage de Restaurants Canada."
     },
     {
-      "sujet": "Réunion Premières Nations-premiers ministres",
-      "fait": "Une réunion exceptionnelle entre les chefs régionaux de l'Assemblée des Premières Nations et les premiers ministres est prévue fin octobre, la première de ce type en décennies, selon La Presse."
+      "sujet": "Mise à jour F-Droid 2.0",
+      "fait": "F-Droid, une boutique d'applications Android open source, a lancé sa plus grande mise à jour en une décennie. Selon Ars Technica, la nouvelle interface a été redessinée à partir de zéro en Kotlin Compose et inclut un support optionnel pour le thème Material d'Android."
     },
     {
-      "sujet": "Arrestation pour terrorisme au Québec",
-      "fait": "La GRC a arrêté un résident de Québec de 24 ans pour avoir prêté allégeance à l'État islamique et planifié un attentat à l'arme chimique, selon CBC et La Presse."
+      "sujet": "Gemini 3.8 avec avatar IA",
+      "fait": "Google a lancé une mise à jour Gemini 3.8 Live avec « Live Avatar » permettant à un avatar IA animé de réagir en temps réel lors de conversations. Selon The Verge, cette fonctionnalité est actuellement disponible uniquement pour les clients Gemini Enterprise et supporte 97 langues."
     },
     {
-      "sujet": "Sabotage présumé station Starlink Pologne",
-      "fait": "La Pologne qualifie un incendie dans une station Starlink de sabotage; cette station fournit en partie une couverture Internet à l'Ukraine, selon BBC World."
+      "sujet": "Robots ukrainiens en opération militaire",
+      "fait": "L'armée ukrainienne a mené un assaut aérien de robots largués par des drones lourds à plus de 9 kilomètres derrière les lignes russes le 21 septembre 2026. Selon Ars Technica, cela aurait été décrit comme une « première mondiale » pour soutenir l'opération Vivaldi d'Ukraine."
     },
     {
-      "sujet": "Violations de convictions meurtrières au Canada",
-      "fait": "Le ministre fédéral de la Justice a ordonné l'examen en appel du dossier de deux sœurs du Saskatchewan qui ont passé près de trois décennies en prison pour des convictions possiblement erronées, selon Global News."
+      "sujet": "Niveaux de méthamphétamine à Moncton",
+      "fait": "Les eaux usées de Moncton révèlent des niveaux de méthamphétamine parmi les plus élevés au Canada. Selon Global News, cette découverte provient d'une analyse des effluents d'eaux usées."
     }
   ]
 }
