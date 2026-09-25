@@ -1,0 +1,89 @@
+# Presto — vendredi 25 septembre 2026
+
+```xml
+<script>
+  <intro>Bonjour, on est le vendredi vingt-cinq septembre deux mille vingt-six. Voici votre Presto en environ quinze minutes. Au menu : le sommet Trump-Xi et ses suites, le discours houleux de Netanyahu à l'ONU, la campagne électorale québécoise, les marchés secoués par les obligations américaines, et un mot sur la tech et le sport.</intro>
+
+  <chapitre titre="International">
+    On commence par Washington, où le sommet entre Donald Trump et Xi Jinping continue de faire des vagues au lendemain de la rencontre. Selon la BBC, les deux dirigeants ont échangé des mots chaleureux lors d'un dîner d'État, mais peu de progrès concret a été réalisé sur les dossiers de fond qui séparent les deux pays. La chaîne CBC rapporte que la rencontre était riche en symbolisme mais pauvre en substance, sans percée apparente sur l'intelligence artificielle, le commerce, Taïwan ou la guerre en Iran.
+
+    Le dossier taïwanais a justement occupé une place centrale. Selon le National Post, Xi Jinping a demandé directement à Donald Trump de s'opposer à l'indépendance de Taïwan, une première pour le dirigeant chinois face à un président américain. La BBC souligne que la Chine espérait des avancées sur le commerce, la technologie et Taïwan, mais qu'elle n'a pas obtenu tout ce qu'elle voulait de cette visite.
+
+    En parallèle, Reuters rapporte que la semaine diplomatique de Donald Trump a exposé les limites de son pouvoir. Toujours à Washington, la présence de la première dame chinoise, Peng Liyuan, a aussi retenu l'attention : Reuters note qu'elle a déployé une stratégie de soft power auprès du public américain.
+
+    Ailleurs à l'Assemblée générale des Nations unies, le premier ministre du Népal, Balendra Shah, a été applaudi après un discours sur la crise climatique. Selon Al Jazeera, monsieur Shah a affirmé que l'ordre mondial actuel est brisé face à cet enjeu.
+
+    Toujours à l'ONU, le discours du premier ministre israélien Benjamin Netanyahu a provoqué des remous. Selon le National Post, monsieur Netanyahu, en pleine campagne de réélection difficile chez lui, s'en est pris autant à ses ennemis qu'à ses alliés dans une allocution combative. La BBC rapporte que des délégués ont quitté la salle avant son discours, et que monsieur Netanyahu a qualifié ceux qui sont partis, je le cite : "moral cowards", fin de citation. Le dirigeant israélien a par ailleurs défendu l'action militaire de son pays.
+
+    Sur le terrain, CBC a mené une enquête visuelle sur Gaza. Selon cette investigation, des images satellites montreraient que l'armée israélienne retire des débris de sites bombardés, ce que des experts et des défenseurs des droits humains identifient comme un risque de destruction de preuves de crimes de guerre allégués.
+
+    Du côté du Moyen-Orient toujours, l'Arabie saoudite fait face à une intensification des attaques des rebelles houthis. Selon Al Jazeera, la France envoie des militaires pour protéger le terminal pétrolier clé de Yanbu, tandis que le Pakistan et la Turquie doivent tenir des discussions militaires avec Riyad. Le Yémen a de son côté averti l'ONU que les mouvements des rebelles houthis près d'un détroit stratégique menacent l'économie mondiale, selon l'Associated Press.
+
+    Sur le dossier iranien, le Financial Times rapporte que l'Iran a proposé aux États-Unis une nouvelle trêve de sept jours.
+
+    Finalement, sur la liberté de presse aux États-Unis, la BBC et l'Associated Press rapportent que les médias CNN, MS NOW et Politico, qui avaient été bannis par l'administration Trump, ont retrouvé l'accès à la Maison-Blanche après qu'un juge eut ordonné le rétablissement de leurs accréditations. Selon la BBC, malgré cette décision judiciaire, des journalistes de CNN et MS NOW se seraient vu refuser l'accès au dîner d'État pour Xi Jinping.
+  </chapitre>
+
+  <chapitre titre="Actualité québécoise">
+    On passe à la campagne électorale québécoise. Le Devoir s'est penché sur la circonscription de Huntingdon, en Montérégie, collée aux frontières américaine et ontarienne, qui apparaît négligée dans cette campagne.
+
+    Toujours en politique provinciale, Radio-Canada rapporte un malaise au sein de la Coalition avenir Québec après une affaire de billets de vingt dollars distribués lors d'un bingo. Selon Radio-Canada, des candidats caquistes jugent que la ministre Christine Fréchette aurait dû se montrer plus sévère envers monsieur Louis-Charles Thouin dans ce dossier.
+
+    Sur les enjeux de fond, Radio-Canada a publié un dossier sur la cybersécurité, un thème qui peine à se tailler une place dans les plateformes électorales des partis. Un autre texte de Radio-Canada aborde le vieillissement de la population, qualifié d'enjeu oublié de cette campagne, alors que les répercussions démographiques sur les finances publiques québécoises seront majeures à moyen terme, selon ce reportage.
+
+    Du côté du vote, Global News rapporte qu'Élections Québec a confirmé l'envoi des cartes de vote bilingues, mais que les électeurs anglophones ne devraient les recevoir que la semaine prochaine.
+
+    En dehors de la campagne, La Presse publie une enquête sur l'écriture à l'école primaire : les enfants apprennent maintenant à écrire de trois façons différentes, soit en écriture script, en écriture cursive et au clavier, dans le cadre du programme actualisé de français.
+
+    Toujours à La Presse, un dossier difficile : un sans-abri de soixante et onze ans, dont le dossier était pourtant considéré comme une priorité absolue en raison de sa vulnérabilité extrême, a vu sa demande d'hébergement refusée l'hiver dernier par le réseau de la santé à Montréal. Selon La Presse, l'homme avait consulté les hôpitaux à quatre-vingt-seize reprises. Il est mort quelques jours plus tard, happé par une voiture alors qu'il s'était étendu sur la chaussée dans le nord de Montréal.
+
+    Sur le plan de la sécurité publique, La Presse rapporte qu'un homme et une femme ont été blessés par balle jeudi soir dans l'arrondissement de Rivière-des-Prairies, à Montréal. Selon le Service de police de la Ville de Montréal, il s'agirait d'une double tentative de meurtre.
+
+    Radio-Canada a aussi publié une enquête sur l'entreprise Air Liaison, révélant, je le cite : "de très graves violations réglementaires", fin de citation, en matière d'aviation.
+
+    Finalement, La Presse a retrouvé Jean-François Malo, cet homme qui aurait dû être incarcéré en deux mille vingt-cinq pour avoir commandé l'attaque d'un avocat, mais qui est plutôt parti en cavale à travers le monde. Le journal l'a localisé en Martinique.
+  </chapitre>
+
+  <chapitre titre="Économie et marchés">
+    On passe à l'économie, où le marché obligataire américain continue de dominer l'attention. Selon Bloomberg, la déroute sur les obligations s'est atténuée jeudi à mesure que les prix du pétrole reculaient, ce qui a permis aux actions de progresser. Le rendement des obligations du Trésor à trente ans avait atteint son plus haut niveau depuis deux mille quatre plus tôt cette semaine, selon BNN Bloomberg.
+
+    Sur les marchés boursiers américains, Reuters rapporte que l'indice S&P 500 a clôturé légèrement en baisse jeudi, les investisseurs demeurant concentrés sur la situation entre les États-Unis et l'Iran. En Europe, le Wall Street Journal note que les indices ont ouvert en hausse vendredi, portés par un rallye des titres liés à l'intelligence artificielle.
+
+    Sur le marché pétrolier, Reuters rapporte que les prix du pétrole ont reculé, les espoirs d'une trêve entre les États-Unis et l'Iran l'emportant sur les inquiétudes liées aux attaques houthies contre l'Arabie saoudite.
+
+    Toujours sur l'énergie, CBC et Bloomberg se penchent sur l'hypothèse d'une interdiction américaine des exportations de diesel, envisagée par Donald Trump pour faire baisser les prix à la pompe aux États-Unis. Selon des experts cités par CBC, une telle mesure ferait au contraire grimper les prix mondiaux du diesel, incluant au Canada. Bloomberg précise qu'une telle interdiction ferait initialement baisser les prix américains, mais que les prix européens du diesel ont déjà commencé à devancer ceux des États-Unis en anticipation de ce risque.
+
+    Du côté canadien, BNN Bloomberg rapporte que le dollar canadien fait face à trois facteurs défavorables par rapport au dollar américain, selon l'analyste Brooke Thackray.
+
+    En entreprise, BNN Bloomberg rapporte que Starbucks va fermer deux cent cinquante cafés supplémentaires en Amérique du Nord.
+
+    Du côté institutionnel, le Financial Times rapporte que Isabel Schnabel quittera la Banque centrale européenne plus tôt que prévu pour se joindre au Fonds monétaire international.
+
+    Finalement, un mot sur le financement de l'intelligence artificielle : selon Reuters, un délai dans un projet entre Oracle et Blue Owl envoie des ondes de choc dans le secteur du financement de l'IA.
+  </chapitre>
+
+  <chapitre titre="Tech">
+    Un mot sur la tech. Chez Meta, The Verge rapporte un développement inattendu dans les poursuites concernant la sécurité des adolescents sur Instagram. Selon des documents dévoilés dans le cadre de ces poursuites, l'équipe derrière le lancement des comptes ados avait commandé des casquettes de baseball portant l'inscription "a/c priv", en référence au secret professionnel avocat-client. Les avocats poursuivant l'entreprise affirment que cet étiquetage a été appliqué de façon beaucoup trop large pour éviter de divulguer des preuves.
+
+    Du côté de Microsoft, The Verge rapporte que l'entreprise abandonne la marque "Copilot Plus PC", introduite il y a deux ans et demi pour désigner les ordinateurs dotés de puissance d'intelligence artificielle intégrée. Selon Windows Central, cité par The Verge, même les nouveaux Surface Pro et Surface Laptop, qui répondent techniquement aux critères, ne porteront plus cette appellation.
+
+    Sur le terrain judiciaire, Ars Technica rapporte que l'État de New York poursuit la plateforme de paris Polymarket, l'accusant de gérer une opération de jeu illégale. Selon la gouverneure Kathy Hochul, citée par Ars Technica, cette opération met les résidents de New York à risque, particulièrement les mineurs.
+
+    Du côté de la robotique, TechCrunch rapporte que les véhicules autonomes de Waymo continuent une expansion rapide, avec une flotte qui a crû de quarante-neuf pour cent au Texas au cours du dernier mois.
+
+    Chez Tesla, The Verge rapporte que l'entreprise a tenu un événement pour son camion électrique Semi, désormais en production de volume depuis avril deux mille vingt-six, près d'une décennie après sa présentation initiale sous forme de concept. Selon The Verge, l'usine voisine de la Gigafactory du Nevada peut produire cinquante mille camions par année. Des clients comme PepsiCo, US Foods et DHL ont été annoncés.
+
+    Finalement, Nature rapporte un phénomène émergent chez les scientifiques : des agents d'intelligence artificielle sollicitent de plus en plus les chercheurs pour des collaborations, demandant temps et argent.
+  </chapitre>
+
+  <chapitre titre="Sport">
+    Rapidement en sport. À Vancouver, Sportsnet rapporte que les Canucks ont subi une défaite de deux à un contre les Oilers d'Edmonton en match préparatoire jeudi soir, face à un alignement d'Edmonton largement composé de joueurs de la Ligue américaine. Sportsnet note aussi que les blessures continuent d'affecter le joueur Filip Chytil.
+
+    Du côté de Toronto, Sportsnet analyse les acquisitions faites par les Blue Jays à la date limite des transactions, avec des motifs d'optimisme mais aussi quelques déceptions précoces.
+
+    Finalement, TVA Sports rapporte qu'un collectionneur a mis la main sur une carte de hockey unique évaluée à cent cinquante mille dollars.
+  </chapitre>
+
+  <outro>Voilà pour ce Presto du vendredi vingt-cinq septembre deux mille vingt-six. Si ce briefing vous est utile, le meilleur coup de main que vous pouvez nous donner, c'est de le partager à une personne qui aime rester informée. Et selon votre plateforme : un abonnement sur Spotify ou Apple Podcasts, un pouce bleu et un abonnement sur YouTube, ça prend deux secondes et ça aide vraiment Presto à grandir. Sur ce, bonne journée, et à demain.</outro>
+</script>
+```
