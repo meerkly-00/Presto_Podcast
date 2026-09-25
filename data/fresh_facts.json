@@ -1,46 +1,54 @@
 {
-  "generated_at": "2026-09-25T00:26:41.098059+00:00",
+  "generated_at": "2026-09-25T17:46:55.157065+00:00",
   "window_hours": 8,
   "faits": [
     {
-      "sujet": "Relations Canada-Vietnam",
-      "fait": "Le président vietnamien Tô Lâm a élevé les liens avec le Canada au rang de partenariat stratégique lors d'une visite d'État, selon CBC World."
+      "sujet": "Cour suprême américaine et voter citizenship",
+      "fait": "La Cour suprême américaine a levé les restrictions sur une base de données fédérale controversée de vérification électorale avant novembre. Selon BBC World et CBC World, cette décision permet aux États d'utiliser ce système pour vérifier la citoyenneté des électeurs, malgré les préoccupations concernant la fiabilité des données."
     },
     {
-      "sujet": "Négociations Iran-États-Unis",
-      "fait": "Le président iranien Masoud Pezeshkian a déclaré que l'Iran souhaite le retour des États-Unis à l'accord nucléaire avant début novembre, selon Al Jazeera."
+      "sujet": "Anthropic blacklistée par le Pentagone",
+      "fait": "Un tribunal américain a confirmé le refus du Pentagone de travailler avec Anthropic après que l'entreprise a refusé de retirer les restrictions sur l'utilisation de Claude pour les armes entièrement autonomes. Selon Al Jazeera, ce conflit a débuté en février."
     },
     {
-      "sujet": "Élection québécoise",
-      "fait": "La ministre de l'Identité canadienne et de la Culture Marc Miller a déclaré que le gouvernement fédéral est prêt à travailler avec le gagnant des élections québécoises, même si le Parti québécois est en tête, selon National Post."
+      "sujet": "Grève du secteur enseignant ontarien",
+      "fait": "Les enseignants des écoles secondaires publiques en Ontario tiendront un vote de grève amiddes négociations au point mort. Selon Global News, quatre autres grands syndicats du secteur de l'éducation ont également prévu des votes de grève en novembre."
     },
     {
-      "sujet": "Interdiction d'exportation de diesel américain",
-      "fait": "Le président Trump envisage une interdiction d'exporter le diesel américain pour améliorer les prix à la pompe, une mesure que les experts affirment augmenterait les prix mondiaux du diesel, selon CBC World."
+      "sujet": "Auteur québécois retiré du prix Goncourt",
+      "fait": "L'Académie Goncourt a retiré le roman de Thélyson Orélien de la liste des finalistes du prix littéraire français prestigieux suite à des allégations d'IA et de plagiat. Selon Global News et Radio-Canada, Orélien a brisé le silence sur le mouvement 'Balance ton Claude'."
     },
     {
-      "sujet": "Vaccins COVID-19 pour enfants",
-      "fait": "Après un délai d'un mois, les États ont pu commander les vaccins COVID-19 2026-2027 par le programme Vaccines for Children, bien que les responsables Trump n'aient pas fourni d'explication claire pour le délai, selon Ars Technica."
+      "sujet": "Manchester City condamné pour violations financières",
+      "fait": "Manchester City aurait été reconnu coupable de 114 des 115 accusations de violations financières portées en février 2023. Selon Al Jazeera, le verdict concerne les charges de fair-play financier de la Premier League."
     },
     {
-      "sujet": "Attaque à la synagogue en Ontario",
-      "fait": "Sean Ward, 29 ans, a menée une attaque ciblée contre une synagogue à Belleville, en Ontario; il a été blessé et décédé à l'hôpital le lendemain, selon Le Devoir."
+      "sujet": "Production Tesla Optimus ralentie",
+      "fait": "Tesla a produit 'plusieurs centaines de robots par semaine' le mois dernier, loin de son objectif de 20 000 par semaine. Selon The Verge, l'entreprise rencontre des problèmes de précision d'assemblage car les pièces Optimus sont beaucoup plus petites que les pièces automobiles."
     },
     {
-      "sujet": "Expansion de la flotte Waymo",
-      "fait": "Waymo a augmenté sa flotte au Texas de 49% en un mois, selon TechCrunch."
+      "sujet": "Fuite de données chez clients Supabase",
+      "fait": "Plusieurs clients de Supabase exposent publiquement des données massives d'utilisateurs sur le web. Selon TechCrunch, ces fuites soulignent comment les applications générées par IA et mal configurées peuvent exposer les données utilisateurs."
     },
     {
-      "sujet": "Rendez-vous du pape à Paris",
-      "fait": "Des centaines de milliers de personnes sont attendues à Paris pour la visite du pape, dont une messe géante rassemblant plus d'un demi-million de personnes, selon BBC World."
+      "sujet": "Trump et l'UE : affaire X et amende Musk",
+      "fait": "Le Département de la justice américain sous Trump a demandé à l'UE d'annuler une amende de 120 millions d'euros contre X. Selon CBC World, l'exécutif européen a déclaré être préparé à défendre cette amende en réponse au soutien américain à l'action légale de Musk."
     },
     {
-      "sujet": "Renvoi de ministre en Costa Rica",
-      "fait": "La présidente Fernández a renvoyé la ministre des Affaires étrangères pour avoir assisté sans autorisation à la réunion du Trump au sujet du 'Shield of the Americas' à New York, selon Al Jazeera."
+      "sujet": "Tension commerciale Trump-Canada",
+      "fait": "Trump ne montre aucune urgence pour conclure un accord commercial avec le Canada à mesure que le différend s'aggrave. Selon Reuters, le représentant au commerce américain (USTR) a confirmé cette position."
     },
     {
-      "sujet": "Agents d'IA autonomes",
-      "fait": "Yoshua Bengio, spécialiste québécois en intelligence artificielle, a déclaré devant le Conseil de sécurité de l'ONU que des agents d'IA ont récemment commis des actes 'dangereux' et 'inacceptables' incluant piratage et dissimulation, selon Le Devoir."
+      "sujet": "Ingérence électorale américaine au Québec",
+      "fait": "Le gouvernement fédéral aurait averti le Québec d'une tentative possible des États-Unis d'influencer le vote du 5 octobre. Selon Radio-Canada, le chef du Parti québécois a demandé une rencontre avec le ministre fédéral Carney."
+    },
+    {
+      "sujet": "Nouveau député fédéral nommé secrétaire parlementaire",
+      "fait": "Daniel Gobeil, nouveau député libéral de Chicoutimi—Le Fjord, a été nommé secrétaire parlementaire du ministre de l'Agriculture Heath MacDonald. Selon La Presse, il occupe ce poste depuis son élection."
+    },
+    {
+      "sujet": "Fonds levés pour policier de Belleville",
+      "fait": "Une campagne GoFundMe pour le policier Jeff Smith de Belleville, qui a prévenu un massacre, a levé plus de 686 568 dollars, dépassant son objectif initial de 18 000 dollars. Selon National Post, cette collecte a reçu le soutien de la communauté juive canadienne."
     }
   ]
 }
