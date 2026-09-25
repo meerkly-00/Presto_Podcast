@@ -1,54 +1,54 @@
 {
-  "generated_at": "2026-09-25T17:46:55.157065+00:00",
+  "generated_at": "2026-09-25T21:59:55.231046+00:00",
   "window_hours": 8,
   "faits": [
     {
-      "sujet": "Cour suprême américaine et voter citizenship",
-      "fait": "La Cour suprême américaine a levé les restrictions sur une base de données fédérale controversée de vérification électorale avant novembre. Selon BBC World et CBC World, cette décision permet aux États d'utiliser ce système pour vérifier la citoyenneté des électeurs, malgré les préoccupations concernant la fiabilité des données."
+      "sujet": "Ingérence électorale aux États-Unis",
+      "fait": "Une Canadienne a été inculpée aux États-Unis de trois chefs d'accusation de fraude électorale pour avoir voté lors de trois scrutins sans être citoyenne américaine. Selon La Presse."
     },
     {
-      "sujet": "Anthropic blacklistée par le Pentagone",
-      "fait": "Un tribunal américain a confirmé le refus du Pentagone de travailler avec Anthropic après que l'entreprise a refusé de retirer les restrictions sur l'utilisation de Claude pour les armes entièrement autonomes. Selon Al Jazeera, ce conflit a débuté en février."
+      "sujet": "Vérification citoyenneté électeurs États-Unis",
+      "fait": "La Cour suprême des États-Unis a autorisé Trump à utiliser une base de données controversée pour vérifier la citoyenneté des électeurs, malgré les inquiétudes concernant la fiabilité des données. D'après BBC World."
     },
     {
-      "sujet": "Grève du secteur enseignant ontarien",
-      "fait": "Les enseignants des écoles secondaires publiques en Ontario tiendront un vote de grève amiddes négociations au point mort. Selon Global News, quatre autres grands syndicats du secteur de l'éducation ont également prévu des votes de grève en novembre."
+      "sujet": "Restrictions liste électorale Alberta",
+      "fait": "Le NPD albertain conteste en cour les nouvelles règles gouvernementales qui limitent sévèrement le partage d'informations électorales avec les partis politiques. Selon Global News."
     },
     {
-      "sujet": "Auteur québécois retiré du prix Goncourt",
-      "fait": "L'Académie Goncourt a retiré le roman de Thélyson Orélien de la liste des finalistes du prix littéraire français prestigieux suite à des allégations d'IA et de plagiat. Selon Global News et Radio-Canada, Orélien a brisé le silence sur le mouvement 'Balance ton Claude'."
+      "sujet": "Démission politique sur vente armes",
+      "fait": "Sean Casey, député libéral de Charlottetown, affirme avoir été démis de son poste de secrétaire parlementaire pour avoir voté contre le gouvernement et soutenu un projet de loi du NPD sur les contrôles d'exportation d'armes. D'après CBC."
     },
     {
-      "sujet": "Manchester City condamné pour violations financières",
-      "fait": "Manchester City aurait été reconnu coupable de 114 des 115 accusations de violations financières portées en février 2023. Selon Al Jazeera, le verdict concerne les charges de fair-play financier de la Premier League."
+      "sujet": "Accord commercial Anthropic-Akamai",
+      "fait": "Anthropic s'engage à verser 11,6 milliards de dollars sur sept ans à Akamai pour les services d'infrastructure cloud, avec une possible augmentation à 20 milliards et une participation potentielle de 5% dans le capital d'Akamai. Selon TechCrunch."
     },
     {
-      "sujet": "Production Tesla Optimus ralentie",
-      "fait": "Tesla a produit 'plusieurs centaines de robots par semaine' le mois dernier, loin de son objectif de 20 000 par semaine. Selon The Verge, l'entreprise rencontre des problèmes de précision d'assemblage car les pièces Optimus sont beaucoup plus petites que les pièces automobiles."
+      "sujet": "Accord Iran Détroit d'Ormuz",
+      "fait": "L'Iran a proposé un accord visant à rouvrir le détroit d'Ormuz dans sept jours, demandant la levée du blocus naval américain et la suspension des sanctions sur le pétrole iranien. D'après Radio-Canada."
     },
     {
-      "sujet": "Fuite de données chez clients Supabase",
-      "fait": "Plusieurs clients de Supabase exposent publiquement des données massives d'utilisateurs sur le web. Selon TechCrunch, ces fuites soulignent comment les applications générées par IA et mal configurées peuvent exposer les données utilisateurs."
+      "sujet": "Interdiction exportation diesel États-Unis",
+      "fait": "Des experts en énergie avertissent qu'une interdiction américaine d'exportation de diesel pourrait augmenter les coûts du carburant au niveau domestique et international. Selon Al Jazeera."
     },
     {
-      "sujet": "Trump et l'UE : affaire X et amende Musk",
-      "fait": "Le Département de la justice américain sous Trump a demandé à l'UE d'annuler une amende de 120 millions d'euros contre X. Selon CBC World, l'exécutif européen a déclaré être préparé à défendre cette amende en réponse au soutien américain à l'action légale de Musk."
+      "sujet": "Urgence humanitaire Hawaï",
+      "fait": "L'ouragan Nolo menace l'archipel hawaïen avec des risques de crues éclair catastrophiques et de houle extrême prévu pour le week-end. D'après CBC World."
     },
     {
-      "sujet": "Tension commerciale Trump-Canada",
-      "fait": "Trump ne montre aucune urgence pour conclure un accord commercial avec le Canada à mesure que le différend s'aggrave. Selon Reuters, le représentant au commerce américain (USTR) a confirmé cette position."
+      "sujet": "Action collective abus scolaire Nouvelle-Écosse",
+      "fait": "Une action collective est en cours suite à une agression alléguée d'élèves à l'école Dr. W.A. MacLeod Consolidated School à Riverton, dont la Gendarmerie royale du Canada a reçu un signalement le 10 septembre. Selon Global News."
     },
     {
-      "sujet": "Ingérence électorale américaine au Québec",
-      "fait": "Le gouvernement fédéral aurait averti le Québec d'une tentative possible des États-Unis d'influencer le vote du 5 octobre. Selon Radio-Canada, le chef du Parti québécois a demandé une rencontre avec le ministre fédéral Carney."
+      "sujet": "Accusations exploitation mineurs police Ontario",
+      "fait": "Un sergent de la Police provinciale de l'Ontario avec 28 ans de service fait face à des accusations relatives à du matériel sexuel mettant en scène des enfants suite à une enquête à Alliston. D'après Global News."
     },
     {
-      "sujet": "Nouveau député fédéral nommé secrétaire parlementaire",
-      "fait": "Daniel Gobeil, nouveau député libéral de Chicoutimi—Le Fjord, a été nommé secrétaire parlementaire du ministre de l'Agriculture Heath MacDonald. Selon La Presse, il occupe ce poste depuis son élection."
+      "sujet": "Négociations commerciales Canada États-Unis",
+      "fait": "Le ministre du Commerce Canada–États-Unis affirme que l'administration Trump n'est pas pressée de conclure un accord avec le Canada et refuse de signer une entente précipitée. Selon Radio-Canada."
     },
     {
-      "sujet": "Fonds levés pour policier de Belleville",
-      "fait": "Une campagne GoFundMe pour le policier Jeff Smith de Belleville, qui a prévenu un massacre, a levé plus de 686 568 dollars, dépassant son objectif initial de 18 000 dollars. Selon National Post, cette collecte a reçu le soutien de la communauté juive canadienne."
+      "sujet": "Politique logement Colombie-Britannique",
+      "fait": "Le chef du NPD de la Colombie-Britannique David Eby annonce des plans de taxer les nouveaux condos invendus et augmenter les frais de spéculation, citant un rapport estimant des milliers d'unités invendues valant 4,4 milliards de dollars dans le Grand Vancouver. D'après Global News."
     }
   ]
 }
