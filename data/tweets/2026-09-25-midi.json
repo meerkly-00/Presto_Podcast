@@ -1,0 +1,14 @@
+{
+  "date": "2026-09-25",
+  "kind": "poll",
+  "text": "Ce matin → Le fédéral a averti Québec d'une possible tentative américaine d'influencer le vote du 5 octobre.\n\nNouveau : La chef de la CAQ Christine Fréchette dit être « très préoccupée » et demande une\n\nComment devraient réagir les autorités québécoises face à ces allégations?",
+  "poll": {
+    "options": [
+      "Enquête publique",
+      "Coordination",
+      "Renforcer la",
+      "Attendre plus de preuves"
+    ],
+    "duration_minutes": 1440
+  }
+}
