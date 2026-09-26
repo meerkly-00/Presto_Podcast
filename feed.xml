@@ -23,6 +23,17 @@
       <link>https://www.prestopodcast.online</link>
     </image>
     <item>
+      <title>Presto — édition du 26 septembre 2026</title>
+      <description>Au menu : International, Actualité québécoise, Politique canadienne, Économie et marchés, Tech, Sport</description>
+      <pubDate>Sat, 26 Sep 2026 10:01:50 +0000</pubDate>
+      <guid isPermaLink="false">https://github.com/meerkly-00/Presto_Podcast/releases/download/2026-09-26/2026-09-26.mp3</guid>
+      <enclosure url="https://github.com/meerkly-00/Presto_Podcast/releases/download/2026-09-26/2026-09-26.mp3" type="audio/mpeg" length="7938610"/>
+      <itunes:duration>714</itunes:duration>
+      <itunes:summary>Au menu : International, Actualité québécoise, Politique canadienne, Économie et marchés, Tech, Sport</itunes:summary>
+      <itunes:episode>126</itunes:episode>
+      <itunes:image href="https://www.prestopodcast.online/artwork-v2.jpg"/>
+    </item>
+    <item>
       <title>Presto — édition du 25 septembre 2026</title>
       <description>Au menu : International, Actualité québécoise, Économie et marchés, Tech, Sport</description>
       <pubDate>Fri, 25 Sep 2026 10:01:47 +0000</pubDate>
