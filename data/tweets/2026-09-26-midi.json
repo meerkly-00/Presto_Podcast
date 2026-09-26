@@ -1,0 +1,14 @@
+{
+  "date": "2026-09-26",
+  "kind": "poll",
+  "text": "Ce matin → Trump rejette la proposition iranienne de rouvrir le détroit d'Ormuz en sept jours.\n\nLe président américain affirme que l'Iran n'a présenté cette offre que parce qu'il perd la guerre au\n\nSelon toi, Trump devrait-il poursuivre les négociations avec l'Iran?",
+  "poll": {
+    "options": [
+      "Oui, pour réduire les",
+      "Non, continuer la",
+      "Seulement avec médiateurs",
+      "Pas d'opinion"
+    ],
+    "duration_minutes": 1440
+  }
+}
