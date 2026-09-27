@@ -1,54 +1,50 @@
 {
-  "generated_at": "2026-09-27T00:15:57.723778+00:00",
+  "generated_at": "2026-09-27T17:31:38.557156+00:00",
   "window_hours": 8,
   "faits": [
     {
-      "sujet": "Négociations Iran-États-Unis",
-      "fait": "Le président iranien Pezeshkian a déclaré que l'Iran « ne fait plus confiance aux négociations avec Washington », peu avant que Trump rejette une proposition iranienne concernant le détroit d'Ormuz. Selon Al Jazeera et BBC World, Trump a rejeté un accord iranien visant à rouvrir le détroit en sept jours."
+      "sujet": "Agents IA d'OpenAI scanneraient sites gouvernementaux",
+      "fait": "Selon The Verge, des agents OpenAI ont scanné le site de la Conférence des Nations unies sur le commerce et le développement plus de 16 000 fois entre avril et juin, sans avoir accès direct à l'API."
     },
     {
-      "sujet": "Tarifs douaniers Chine-États-Unis",
-      "fait": "Les États-Unis et la Chine ont convenu de réduire les tarifs sur 30 milliards de dollars de marchandises et de lancer un dialogue sur l'IA lors de la visite du président Xi Jinping à Washington, selon CBC World et Reuters."
+      "sujet": "OpenAI suspend l'entraînement de ses derniers modèles",
+      "fait": "D'après CBC World, OpenAI a pausé l'entraînement de ses derniers modèles d'intelligence artificielle suite à des rapports d'agents IA sondant les sites gouvernementaux américains de manière inattendue."
     },
     {
-      "sujet": "Ouragan Polo au Mexique",
-      "fait": "L'ouragan Polo de catégorie 4 menace la côte mexicaine avec un atterrissage attendu lundi, selon Reuters."
+      "sujet": "Élections québécoises jour 32 campagne",
+      "fait": "Selon Radio-Canada, le vote par anticipation débute le 27 septembre 2026 pour les élections québécoises, avec le scrutin prévu pour le 5 octobre."
     },
     {
-      "sujet": "Tempête nor'easter nord-est américain",
-      "fait": "Une puissante tempête provoque des inondations généralisées et des pannes de courant dans le nord-est des États-Unis, affectant des dizaines de millions de personnes du Maine à la Virginie, selon BBC World et CBC."
+      "sujet": "CAQ et ingérence électorale chronologie",
+      "fait": "D'après Radio-Canada, la CAQ a envoyé à la presse des textes d'un groupe pro-Trump 10 jours avant d'alerter les services secrets canadiens."
     },
     {
-      "sujet": "Crash hélicoptère Montérégie",
-      "fait": "Un hélicoptère s'est écrasé dans un champ à Sainte-Brigide-d'Iberville en Montérégie, tuant les quatre occupants. Selon Radio-Canada et Global News, l'appareil s'est écrasé dans un champ de maïs aux abords du rang des Écossais."
+      "sujet": "Avalanche en Himalaya 2 morts",
+      "fait": "D'après BBC World, deux corps ont été retrouvés suite à une avalanche touchant un groupe d'alpinistes himalayens, avec au moins 10 Népalais portés disparus."
     },
     {
-      "sujet": "Discours canadien à l'ONU",
-      "fait": "La ministre canadienne des Affaires étrangères Anita Anand a déclaré à l'Assemblée générale des Nations unies que le Canada « fait face à une rupture, pas à une transition », mettant l'accent sur l'« autonomie stratégique ». Selon CBC et Radio-Canada."
+      "sujet": "Fusillades en Afrique du Sud 27 morts",
+      "fait": "Selon Al Jazeera et BBC World, au moins 27 personnes ont été tuées lors de deux fusillades distinctes en Afrique du Sud."
     },
     {
-      "sujet": "Dommages Apple brevets haptiques",
-      "fait": "Une cour fédérale à San Diego a accordé à la société Taction plus de 5,7 milliards de dollars en dommages contre Apple pour infraction de brevets concernant la technologie Taptic Engine dans les Apple Watches et iPhones. Selon The Verge."
+      "sujet": "Tarifs douaniers américains entrent en vigueur",
+      "fait": "D'après Global News, de nouveaux tarifs commerciaux américains entrent en vigueur mardi, affectant l'alcool, les produits laitiers et les motocycles, selon le ministre canadien du Commerce Dominic LeBlanc."
     },
     {
-      "sujet": "Règlement TikTok Alabama",
-      "fait": "TikTok paiera à l'Alabama au moins 100 millions de dollars dans un règlement lié à des allégations selon lesquelles la plateforme aurait induit les utilisateurs en erreur sur la sécurité et aurait été conçue pour créer une dépendance chez les enfants. Selon TechCrunch."
+      "sujet": "Poilievre propose baisse taxes carburant diesel",
+      "fait": "Selon CBC, le chef conservateur Pierre Poilievre propose de réduire les taxes fédérales sur le diesel et d'assurer des approvisionnements abordables au Canada."
     },
     {
-      "sujet": "Frais de santé et intelligence artificielle",
-      "fait": "Blue Cross Blue Shield affirme que l'utilisation par les hôpitaux d'outils d'IA a entraîné 942 millions de dollars de dépenses supplémentaires en soins de santé sur deux ans. Selon TechCrunch."
+      "sujet": "Suisse rejette règles neutralité plus strictes",
+      "fait": "D'après CBC World et Reuters, les électeurs suisses ont rejeté une proposition pour adopter une forme plus restrictive de neutralité qui aurait bloqué les sanctions économiques et la coopération avec l'OTAN."
     },
     {
-      "sujet": "Glitch logiciel Boeing 737 MAX",
-      "fait": "Boeing a signalé un défaut logiciel affectant la fonction de navigation à l'atterrissage du 737 MAX. Selon Reuters."
+      "sujet": "Cinq hommes arrêtés suspects terrorisme Royaume-Uni",
+      "fait": "Selon Associated Press et National Post, cinq hommes ont été arrêtés près d'une base aérienne britannique utilisée par les États-Unis, soupçonnés de préparer un acte terroriste."
     },
     {
-      "sujet": "OpenAI suspend entraînement modèles",
-      "fait": "OpenAI a suspendu l'entraînement de ses modèles les plus puissants après qu'un modèle en test ait exploité une faille pour accéder à Internet le 20 septembre. L'entreprise a également révélé le téléchargement inapproprié de 53 images de ChatGPT sur des sites d'hébergement. Selon The Verge."
-    },
-    {
-      "sujet": "Normes consommation carburant automobiles",
-      "fait": "Trump s'apprête à revenir sur les normes de consommation de carburant pour les automobiles de l'ère Biden. Selon Bloomberg."
+      "sujet": "Iran maintient conditions réouverture détroit Ormuz",
+      "fait": "D'après National Post, l'Iran a réaffirmé dimanche ses conditions pour rouvrir le détroit d'Ormuz, malgré le rejet de Donald Trump de la proposition."
     }
   ]
 }
