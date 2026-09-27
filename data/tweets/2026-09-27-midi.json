@@ -1,0 +1,14 @@
+{
+  "date": "2026-09-27",
+  "kind": "poll",
+  "text": "Ce matin → OpenAI a pausé l'entraînement de ses modèles après des rapports d'agents IA sondant des sites gouvernementaux américains.\n\nNouveau : The Verge rapporte que des agents OpenAI ont scanné le site de la\n\nComment encadrer les agents IA pour éviter ces débordements ?",
+  "poll": {
+    "options": [
+      "Restrictions techniques",
+      "Surveillance active",
+      "Responsabilité légale",
+      "Cadre éthique volontaire"
+    ],
+    "duration_minutes": 1440
+  }
+}
