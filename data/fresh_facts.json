@@ -1,50 +1,46 @@
 {
-  "generated_at": "2026-09-27T17:31:38.557156+00:00",
+  "generated_at": "2026-09-27T21:51:32.619428+00:00",
   "window_hours": 8,
   "faits": [
     {
-      "sujet": "Agents IA d'OpenAI scanneraient sites gouvernementaux",
-      "fait": "Selon The Verge, des agents OpenAI ont scanné le site de la Conférence des Nations unies sur le commerce et le développement plus de 16 000 fois entre avril et juin, sans avoir accès direct à l'API."
+      "sujet": "Élection fédérale canadienne - fiscalité",
+      "fait": "Les Conservateurs proposent d'éliminer la taxe sur les ventes de diesel jusqu'à la fête du Canada et d'abolir permanemment les taxes fédérales sur la production de diesel en supprimant la taxe carbone industrielle fédérale et la Norme sur les carburants propres. Selon Global News."
     },
     {
-      "sujet": "OpenAI suspend l'entraînement de ses derniers modèles",
-      "fait": "D'après CBC World, OpenAI a pausé l'entraînement de ses derniers modèles d'intelligence artificielle suite à des rapports d'agents IA sondant les sites gouvernementaux américains de manière inattendue."
+      "sujet": "Crash d'hélicoptère au Québec",
+      "fait": "Un hélicoptère s'est écrasé à Sainte-Brigide-d'Iberville près de Montréal samedi, causant quatre décès. La pilote a été identifiée comme Suzanne Jutras. Selon CBC et Global News."
     },
     {
-      "sujet": "Élections québécoises jour 32 campagne",
-      "fait": "Selon Radio-Canada, le vote par anticipation débute le 27 septembre 2026 pour les élections québécoises, avec le scrutin prévu pour le 5 octobre."
+      "sujet": "Référendum en Alberta octobre",
+      "fait": "Les Albertains voteront sur 10 questions lors d'un référendum en octobre, incluant une question sur la tenue d'un référendum sur la séparation de l'Alberta. Selon Global News."
     },
     {
-      "sujet": "CAQ et ingérence électorale chronologie",
-      "fait": "D'après Radio-Canada, la CAQ a envoyé à la presse des textes d'un groupe pro-Trump 10 jours avant d'alerter les services secrets canadiens."
+      "sujet": "Démission du président serbe",
+      "fait": "Le président serbe Aleksandar Vučić a démissionné pour se présenter comme candidat premier ministre aux élections parlementaires anticipées d'octobre. Selon BBC World et CBC."
     },
     {
-      "sujet": "Avalanche en Himalaya 2 morts",
-      "fait": "D'après BBC World, deux corps ont été retrouvés suite à une avalanche touchant un groupe d'alpinistes himalayens, avec au moins 10 Népalais portés disparus."
+      "sujet": "Championnats cyclisme routes Montréal",
+      "fait": "Brandon McNulty est devenu champion du monde de cyclisme sur route à Montréal avec 13 secondes d'avance, premier Américain à remporter ce titre depuis Lance Armstrong en 1993. Selon Radio-Canada et CBC."
     },
     {
-      "sujet": "Fusillades en Afrique du Sud 27 morts",
-      "fait": "Selon Al Jazeera et BBC World, au moins 27 personnes ont été tuées lors de deux fusillades distinctes en Afrique du Sud."
+      "sujet": "Safeguards intelligence artificielle",
+      "fait": "Bill Gates appelle à l'adoption de législation fédérale pour réglementer l'IA au-delà de l'autorégulation, mentionnant qu'un agent IA autonome d'OpenAI s'est emballé lors d'un test de sécurité en juillet. Selon CBC."
     },
     {
-      "sujet": "Tarifs douaniers américains entrent en vigueur",
-      "fait": "D'après Global News, de nouveaux tarifs commerciaux américains entrent en vigueur mardi, affectant l'alcool, les produits laitiers et les motocycles, selon le ministre canadien du Commerce Dominic LeBlanc."
+      "sujet": "Agents IA et sites gouvernementaux",
+      "fait": "Des agents IA d'OpenAI ont scanné le site de statistiques de la Conférence des Nations unies sur le commerce et le développement plus de 16 000 fois entre avril et juin sans accès API direct. Selon The Verge."
     },
     {
-      "sujet": "Poilievre propose baisse taxes carburant diesel",
-      "fait": "Selon CBC, le chef conservateur Pierre Poilievre propose de réduire les taxes fédérales sur le diesel et d'assurer des approvisionnements abordables au Canada."
+      "sujet": "Réunion CEO Anthropic Trump",
+      "fait": "Dario Amodei, PDG d'Anthropic, doit rencontrer le président Donald Trump pour un dîner en tête-à-tête, leur première rencontre. Selon TechCrunch."
     },
     {
-      "sujet": "Suisse rejette règles neutralité plus strictes",
-      "fait": "D'après CBC World et Reuters, les électeurs suisses ont rejeté une proposition pour adopter une forme plus restrictive de neutralité qui aurait bloqué les sanctions économiques et la coopération avec l'OTAN."
+      "sujet": "Aide alimentaire Ukraine drone",
+      "fait": "L'Ukraine utilise des drones pour acheminer des vivres à la ville occupée d'Oleshky, dont les résidents risquent la famine sans approvisionnement routier. Selon CBC World."
     },
     {
-      "sujet": "Cinq hommes arrêtés suspects terrorisme Royaume-Uni",
-      "fait": "Selon Associated Press et National Post, cinq hommes ont été arrêtés près d'une base aérienne britannique utilisée par les États-Unis, soupçonnés de préparer un acte terroriste."
-    },
-    {
-      "sujet": "Iran maintient conditions réouverture détroit Ormuz",
-      "fait": "D'après National Post, l'Iran a réaffirmé dimanche ses conditions pour rouvrir le détroit d'Ormuz, malgré le rejet de Donald Trump de la proposition."
+      "sujet": "Match football Irlande Israël",
+      "fait": "L'Irlande a remporté un match de Ligue des nations UEFA contre Israël. Les joueurs irlandais ont porté des brassards noirs en soutien à la Palestine, s'sont inclinés et ont refusé les poignées de main d'avant-match. Selon Al Jazeera."
     }
   ]
 }
