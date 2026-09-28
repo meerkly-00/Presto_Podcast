@@ -1,50 +1,54 @@
 {
-  "generated_at": "2026-09-28T00:19:04.822326+00:00",
+  "generated_at": "2026-09-28T20:00:35.959428+00:00",
   "window_hours": 8,
   "faits": [
     {
-      "sujet": "Manchester City condamné financièrement",
-      "fait": "Manchester City a été reconnu coupable sur 114 des 115 accusations de violations financières. Selon Al Jazeera."
+      "sujet": "Tarifs commerciaux États-Unis Canada",
+      "fait": "Un embargo américain sur les importations d'alcool canadien, ainsi que certains produits laitiers et motocyclettes, entre en vigueur le 28 septembre 2026. Selon Global News, cela marque la dernière escalade de la guerre commerciale."
     },
     {
-      "sujet": "Réunion Trump-Anthropic CEO",
-      "fait": "Donald Trump a confirmé une réunion avec Dario Amodei, PDG d'Anthropic, et a réitéré son rejet des préoccupations concernant l'IA. Selon Reuters et TechCrunch."
+      "sujet": "Rendements obligataires et métaux précieux",
+      "fait": "Les rendements des obligations mondiales, notamment les bons du Trésor américains, ont augmenté ces derniers mois, ce qui a fait baisser la valeur perçue de l'or et de l'argent. Selon Global News, cette tendance s'accélère depuis peu."
     },
     {
-      "sujet": "Rejet accord nucléaire Iran",
-      "fait": "Trump a rejeté une proposition de paix avec l'Iran, entraînant une hausse des prix du pétrole. Selon Reuters et Bloomberg."
+      "sujet": "Normes de consommation carburant États-Unis",
+      "fait": "Le Département américain des transports a finalisé un assouplissement des normes d'efficacité énergétique, fixant l'économie de carburant à 34,9 miles par gallon pour l'année modèle 2026, contre 50,4 miles par gallon prévu par les normes de l'ère Biden. Selon The Verge, cela constitue l'une des plus grandes mesures de dérégulation de la deuxième administration Trump."
     },
     {
-      "sujet": "Résignation président serbe Vucic",
-      "fait": "Le président serbe Aleksandar Vucic a démissionné pour poursuivre une candidature au poste de premier ministre lors d'élections parlementaires anticipées. Selon Reuters et BBC."
+      "sujet": "Projet sidérurgique Iowa Trump",
+      "fait": "Le président Trump a annoncé un projet de construction d'une aciérie de 15 milliards de dollars en Iowa. Selon Reuters Business, cette annonce a été faite le 28 septembre 2026."
     },
     {
-      "sujet": "Victoire Brandon McNulty cyclisme",
-      "fait": "L'Américain Brandon McNulty a remporté le championnat du monde élite route UCI à Montréal, devenant le premier Américain à remporter ce titre depuis Lance Armstrong en 1993. Selon CBC et Radio-Canada."
+      "sujet": "Cybersécurité piratage OpenAI Australie",
+      "fait": "OpenAI a piraté le site web du régime d'assurance-maladie universel financé par les deniers publics en Australie la semaine précédente. Selon Global News, le Canada surveille cet incident de près, les autorités officielles l'ayant déclaré."
     },
     {
-      "sujet": "Tempête nor'easter États-Unis",
-      "fait": "Une tempête puissante a provoqué des inondations dans le nord-est américain, particulièrement au New Jersey et à New York, et causé des coupures d'électricité. Selon Al Jazeera."
+      "sujet": "Élection Knesset Israël novembre 2026",
+      "fait": "Les élections législatives israéliennes sont prévues pour octobre 2026. Selon Al Jazeera, le Premier ministre Netanyahu effectue une visite à Abu Dhabi aux Émirats arabes unis en pleine campagne."
     },
     {
-      "sujet": "Crash hélicoptère Québec",
-      "fait": "Un hélicoptère s'est écrasé à Sainte-Brigide-d'Iberville, au Québec, tuant quatre personnes. Le Bureau de la sécurité des transports a lancé une enquête. Selon Global News et CBC."
+      "sujet": "Enquête criminalité Bishnoi Canada États-Unis",
+      "fait": "Le FBI a ajouté un membre du gang Lawrence Bishnoi à sa liste des criminels les plus recherchés, offrant une récompense de 1 million de dollars américains pour des informations menant à son arrestation. Selon CBC, il est accusé d'avoir orchestré l'assassinat du militant sikh Hardeep Singh Nijjar en juin 2023 en Colombie-Britannique."
     },
     {
-      "sujet": "Visite Netanyahu Abu Dhabi",
-      "fait": "Benyamin Netanyahu a visité Abu Dhabi dimanche selon un responsable israélien. Selon Reuters."
+      "sujet": "Piratage groupe ShinyHunters FBI",
+      "fait": "Un professionnel de la sécurité néerlandais, connu pour sa transformation de cybercriminel en expert en sécurité, a été arrêté dans le cadre d'une enquête sur le groupe de pirate ShinyHunters. Selon CBC World, cette arrestation intervient après que ShinyHunters ait piraté le FBI la semaine précédente."
     },
     {
-      "sujet": "Appel safeguards IA Bill Gates",
-      "fait": "Bill Gates a appelé à des mesures de régulation de l'IA au-delà de l'autoréglementation et a demandé une législation au Congrès américain. Selon CBC."
+      "sujet": "Plateforme IA Nvidia agents autonomes",
+      "fait": "Nvidia a lancé une plateforme de logiciels et matériels ajoutant des couches de sécurité indépendantes autour des agents IA. Selon TechCrunch, le PDG Jensen Huang a présenté cette solution le 28 septembre 2026 en réaction aux incidents impliquant des agents IA rogue."
     },
     {
-      "sujet": "Agents OpenAI scannent site ONU",
-      "fait": "Les agents OpenAI ont scanné plus de 16 000 fois le site de la Conférence des Nations unies sur le commerce et le développement entre avril et juin. Selon The Verge."
+      "sujet": "Commerce électronique IA Shopify",
+      "fait": "Shopify a étendu le support WebMCP à son système de paiement, permettant aux agents IA basés sur navigateur de mettre à jour les détails de commande et de finaliser les achats avec autorisation de l'acheteur. Selon TechCrunch, cette expansion a été annoncée le 28 septembre 2026."
     },
     {
-      "sujet": "Victoire Leylah Fernandez Singapour",
-      "fait": "La Québécoise Leylah Fernandez a remporté le tournoi WTA 500 de Singapour, décroché son sixième titre en carrière en battant Talia Gibson 7-5, 6-0. Selon Le Devoir."
+      "sujet": "Jugement Italie enlèvement universitaire 2016",
+      "fait": "Un tribunal italien a condamné trois agents égyptiens, par contumace, à 10 ans de prison pour l'enlèvement fatal de Giulio Regeni, un chercheur de Cambridge. Selon Al Jazeera, cet incident remonte à 2016."
+    },
+    {
+      "sujet": "Technologie audio Bose Auracast",
+      "fait": "Bose a commencé à ajouter la technologie Auracast à ses casques phares, les QuietComfort Ultra Headphones Gen 2 recevant une mise à jour logicielle permettant le support du Bluetooth LE Audio et d'Auracast en version bêta. Selon The Verge, Bose prévoit d'étendre cette technologie à d'autres appareils."
     }
   ]
 }
