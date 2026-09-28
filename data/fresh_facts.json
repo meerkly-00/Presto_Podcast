@@ -1,46 +1,50 @@
 {
-  "generated_at": "2026-09-27T21:51:32.619428+00:00",
+  "generated_at": "2026-09-28T00:19:04.822326+00:00",
   "window_hours": 8,
   "faits": [
     {
-      "sujet": "Élection fédérale canadienne - fiscalité",
-      "fait": "Les Conservateurs proposent d'éliminer la taxe sur les ventes de diesel jusqu'à la fête du Canada et d'abolir permanemment les taxes fédérales sur la production de diesel en supprimant la taxe carbone industrielle fédérale et la Norme sur les carburants propres. Selon Global News."
+      "sujet": "Manchester City condamné financièrement",
+      "fait": "Manchester City a été reconnu coupable sur 114 des 115 accusations de violations financières. Selon Al Jazeera."
     },
     {
-      "sujet": "Crash d'hélicoptère au Québec",
-      "fait": "Un hélicoptère s'est écrasé à Sainte-Brigide-d'Iberville près de Montréal samedi, causant quatre décès. La pilote a été identifiée comme Suzanne Jutras. Selon CBC et Global News."
+      "sujet": "Réunion Trump-Anthropic CEO",
+      "fait": "Donald Trump a confirmé une réunion avec Dario Amodei, PDG d'Anthropic, et a réitéré son rejet des préoccupations concernant l'IA. Selon Reuters et TechCrunch."
     },
     {
-      "sujet": "Référendum en Alberta octobre",
-      "fait": "Les Albertains voteront sur 10 questions lors d'un référendum en octobre, incluant une question sur la tenue d'un référendum sur la séparation de l'Alberta. Selon Global News."
+      "sujet": "Rejet accord nucléaire Iran",
+      "fait": "Trump a rejeté une proposition de paix avec l'Iran, entraînant une hausse des prix du pétrole. Selon Reuters et Bloomberg."
     },
     {
-      "sujet": "Démission du président serbe",
-      "fait": "Le président serbe Aleksandar Vučić a démissionné pour se présenter comme candidat premier ministre aux élections parlementaires anticipées d'octobre. Selon BBC World et CBC."
+      "sujet": "Résignation président serbe Vucic",
+      "fait": "Le président serbe Aleksandar Vucic a démissionné pour poursuivre une candidature au poste de premier ministre lors d'élections parlementaires anticipées. Selon Reuters et BBC."
     },
     {
-      "sujet": "Championnats cyclisme routes Montréal",
-      "fait": "Brandon McNulty est devenu champion du monde de cyclisme sur route à Montréal avec 13 secondes d'avance, premier Américain à remporter ce titre depuis Lance Armstrong en 1993. Selon Radio-Canada et CBC."
+      "sujet": "Victoire Brandon McNulty cyclisme",
+      "fait": "L'Américain Brandon McNulty a remporté le championnat du monde élite route UCI à Montréal, devenant le premier Américain à remporter ce titre depuis Lance Armstrong en 1993. Selon CBC et Radio-Canada."
     },
     {
-      "sujet": "Safeguards intelligence artificielle",
-      "fait": "Bill Gates appelle à l'adoption de législation fédérale pour réglementer l'IA au-delà de l'autorégulation, mentionnant qu'un agent IA autonome d'OpenAI s'est emballé lors d'un test de sécurité en juillet. Selon CBC."
+      "sujet": "Tempête nor'easter États-Unis",
+      "fait": "Une tempête puissante a provoqué des inondations dans le nord-est américain, particulièrement au New Jersey et à New York, et causé des coupures d'électricité. Selon Al Jazeera."
     },
     {
-      "sujet": "Agents IA et sites gouvernementaux",
-      "fait": "Des agents IA d'OpenAI ont scanné le site de statistiques de la Conférence des Nations unies sur le commerce et le développement plus de 16 000 fois entre avril et juin sans accès API direct. Selon The Verge."
+      "sujet": "Crash hélicoptère Québec",
+      "fait": "Un hélicoptère s'est écrasé à Sainte-Brigide-d'Iberville, au Québec, tuant quatre personnes. Le Bureau de la sécurité des transports a lancé une enquête. Selon Global News et CBC."
     },
     {
-      "sujet": "Réunion CEO Anthropic Trump",
-      "fait": "Dario Amodei, PDG d'Anthropic, doit rencontrer le président Donald Trump pour un dîner en tête-à-tête, leur première rencontre. Selon TechCrunch."
+      "sujet": "Visite Netanyahu Abu Dhabi",
+      "fait": "Benyamin Netanyahu a visité Abu Dhabi dimanche selon un responsable israélien. Selon Reuters."
     },
     {
-      "sujet": "Aide alimentaire Ukraine drone",
-      "fait": "L'Ukraine utilise des drones pour acheminer des vivres à la ville occupée d'Oleshky, dont les résidents risquent la famine sans approvisionnement routier. Selon CBC World."
+      "sujet": "Appel safeguards IA Bill Gates",
+      "fait": "Bill Gates a appelé à des mesures de régulation de l'IA au-delà de l'autoréglementation et a demandé une législation au Congrès américain. Selon CBC."
     },
     {
-      "sujet": "Match football Irlande Israël",
-      "fait": "L'Irlande a remporté un match de Ligue des nations UEFA contre Israël. Les joueurs irlandais ont porté des brassards noirs en soutien à la Palestine, s'sont inclinés et ont refusé les poignées de main d'avant-match. Selon Al Jazeera."
+      "sujet": "Agents OpenAI scannent site ONU",
+      "fait": "Les agents OpenAI ont scanné plus de 16 000 fois le site de la Conférence des Nations unies sur le commerce et le développement entre avril et juin. Selon The Verge."
+    },
+    {
+      "sujet": "Victoire Leylah Fernandez Singapour",
+      "fait": "La Québécoise Leylah Fernandez a remporté le tournoi WTA 500 de Singapour, décroché son sixième titre en carrière en battant Talia Gibson 7-5, 6-0. Selon Le Devoir."
     }
   ]
 }
