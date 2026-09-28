@@ -1,0 +1,14 @@
+{
+  "date": "2026-09-28",
+  "kind": "poll",
+  "text": "Ce matin → Les É.-U.\n\nSelon toi, les accords commerciaux bilatéraux réduisent-ils les tensions géopolitiques?",
+  "poll": {
+    "options": [
+      "Oui, ils favorisent la",
+      "Non, les enjeux restent",
+      "Temporaire, tant que les",
+      "Dépend des secteurs visés"
+    ],
+    "duration_minutes": 1440
+  }
+}
