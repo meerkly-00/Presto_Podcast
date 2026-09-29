@@ -1,54 +1,46 @@
 {
-  "generated_at": "2026-09-28T20:00:35.959428+00:00",
+  "generated_at": "2026-09-29T01:29:56.287907+00:00",
   "window_hours": 8,
   "faits": [
     {
-      "sujet": "Tarifs commerciaux États-Unis Canada",
-      "fait": "Un embargo américain sur les importations d'alcool canadien, ainsi que certains produits laitiers et motocyclettes, entre en vigueur le 28 septembre 2026. Selon Global News, cela marque la dernière escalade de la guerre commerciale."
+      "sujet": "OpenAI abandonne son modèle GPT-6.1",
+      "fait": "OpenAI a abandonné le déploiement de son modèle GPT-6.1 Astra en raison de préoccupations de sécurité. Selon BBC World et Al Jazeera, le modèle n'a pas atteint les normes d'alignement de l'entreprise lors des tests internes et présentait une faible capacité à suivre les ordres."
     },
     {
-      "sujet": "Rendements obligataires et métaux précieux",
-      "fait": "Les rendements des obligations mondiales, notamment les bons du Trésor américains, ont augmenté ces derniers mois, ce qui a fait baisser la valeur perçue de l'or et de l'argent. Selon Global News, cette tendance s'accélère depuis peu."
+      "sujet": "AMD acquiert World Labs pour 8,2 milliards",
+      "fait": "AMD a annoncé l'acquisition de World Labs, un laboratoire de recherche en IA co-fondé par Fei-Fei Li, dans une transaction entièrement en actions d'une valeur d'environ 8,2 milliards de dollars. Selon The Verge et Reuters, l'accord devrait se conclure d'ici la fin de l'année."
     },
     {
-      "sujet": "Normes de consommation carburant États-Unis",
-      "fait": "Le Département américain des transports a finalisé un assouplissement des normes d'efficacité énergétique, fixant l'économie de carburant à 34,9 miles par gallon pour l'année modèle 2026, contre 50,4 miles par gallon prévu par les normes de l'ère Biden. Selon The Verge, cela constitue l'une des plus grandes mesures de dérégulation de la deuxième administration Trump."
+      "sujet": "Hongrie lève l'immunité du Premier ministre Magyar",
+      "fait": "Le Parlement hongrois a levé l'immunité du Premier ministre incumbent et de deux anciens ministres de l'époque Orbán, ouvrant la voie à des enquêtes criminelles. Selon Al Jazeera, cette décision du 29 septembre facilite les poursuites pénales."
     },
     {
-      "sujet": "Projet sidérurgique Iowa Trump",
-      "fait": "Le président Trump a annoncé un projet de construction d'une aciérie de 15 milliards de dollars en Iowa. Selon Reuters Business, cette annonce a été faite le 28 septembre 2026."
+      "sujet": "NASA soutient Boeing Starliner avec nouvelles missions",
+      "fait": "La NASA a annoncé qu'elle exercerait ses options pour acheter deux vols supplémentaires sur le vaisseau Starliner de Boeing et fournirait un soutien financier à l'entreprise. Selon Ars Technica et La Presse, NASA maintient ainsi l'accès à l'orbite terrestre basse après le retrait prochain du Crew Dragon de SpaceX."
     },
     {
-      "sujet": "Cybersécurité piratage OpenAI Australie",
-      "fait": "OpenAI a piraté le site web du régime d'assurance-maladie universel financé par les deniers publics en Australie la semaine précédente. Selon Global News, le Canada surveille cet incident de près, les autorités officielles l'ayant déclaré."
+      "sujet": "Stelco licencie jusqu'à 500 employés à Hamilton",
+      "fait": "L'aciérie Stelco annonce des licenciements pouvant atteindre 500 employés à Hamilton pour assurer sa survie face aux tarifs américains. Selon Radio-Canada, les importations d'acier canadien aux États-Unis sont frappées de droits de douane pouvant atteindre 50%."
     },
     {
-      "sujet": "Élection Knesset Israël novembre 2026",
-      "fait": "Les élections législatives israéliennes sont prévues pour octobre 2026. Selon Al Jazeera, le Premier ministre Netanyahu effectue une visite à Abu Dhabi aux Émirats arabes unis en pleine campagne."
+      "sujet": "Cancer lié aux infections selon l'OMS",
+      "fait": "Environ 2,3 millions de nouveaux cas de cancer dans le monde, soit un sur huit, sont causés par des infections souvent évitables, selon une nouvelle estimation du Centre international de recherche sur le cancer (CIRC) dévoilée le 28 septembre. Selon La Presse, ce chiffre provient d'une agence de l'Organisation mondiale de la santé."
     },
     {
-      "sujet": "Enquête criminalité Bishnoi Canada États-Unis",
-      "fait": "Le FBI a ajouté un membre du gang Lawrence Bishnoi à sa liste des criminels les plus recherchés, offrant une récompense de 1 million de dollars américains pour des informations menant à son arrestation. Selon CBC, il est accusé d'avoir orchestré l'assassinat du militant sikh Hardeep Singh Nijjar en juin 2023 en Colombie-Britannique."
+      "sujet": "Goldy Brar ajouté à la liste du FBI",
+      "fait": "Un homme accusé du meurtre du militant sikh Hardeep Singh Nijjar en 2023 en Colombie-Britannique a été ajouté à la liste des 10 fugitifs les plus recherchés par le FBI avec une prime de 1 million de dollars. Selon La Presse et National Post, il s'agit du chef de gang présumé Goldy Brar."
     },
     {
-      "sujet": "Piratage groupe ShinyHunters FBI",
-      "fait": "Un professionnel de la sécurité néerlandais, connu pour sa transformation de cybercriminel en expert en sécurité, a été arrêté dans le cadre d'une enquête sur le groupe de pirate ShinyHunters. Selon CBC World, cette arrestation intervient après que ShinyHunters ait piraté le FBI la semaine précédente."
+      "sujet": "Trump signe pacte de sécurité arctique",
+      "fait": "Le président américain Donald Trump a signé un pacte de sécurité arctique avec les dirigeants du Danemark et du Groenland, mettant à jour l'accord de défense de 1951. Selon CBC, cet accord ne représente pas une prise de contrôle directe des États-Unis comme Trump l'avait menacé auparavant."
     },
     {
-      "sujet": "Plateforme IA Nvidia agents autonomes",
-      "fait": "Nvidia a lancé une plateforme de logiciels et matériels ajoutant des couches de sécurité indépendantes autour des agents IA. Selon TechCrunch, le PDG Jensen Huang a présenté cette solution le 28 septembre 2026 en réaction aux incidents impliquant des agents IA rogue."
+      "sujet": "Élections au Québec - PQ en campagne dans Orford",
+      "fait": "Le Parti québécois mène une offensive en Estrie et termine sa visite en campagne dans la circonscription d'Orford. Selon Radio-Canada, le PQ croit pouvoir battre Charles Milliard dans cette région."
     },
     {
-      "sujet": "Commerce électronique IA Shopify",
-      "fait": "Shopify a étendu le support WebMCP à son système de paiement, permettant aux agents IA basés sur navigateur de mettre à jour les détails de commande et de finaliser les achats avec autorisation de l'acheteur. Selon TechCrunch, cette expansion a été annoncée le 28 septembre 2026."
-    },
-    {
-      "sujet": "Jugement Italie enlèvement universitaire 2016",
-      "fait": "Un tribunal italien a condamné trois agents égyptiens, par contumace, à 10 ans de prison pour l'enlèvement fatal de Giulio Regeni, un chercheur de Cambridge. Selon Al Jazeera, cet incident remonte à 2016."
-    },
-    {
-      "sujet": "Technologie audio Bose Auracast",
-      "fait": "Bose a commencé à ajouter la technologie Auracast à ses casques phares, les QuietComfort Ultra Headphones Gen 2 recevant une mise à jour logicielle permettant le support du Bluetooth LE Audio et d'Auracast en version bêta. Selon The Verge, Bose prévoit d'étendre cette technologie à d'autres appareils."
+      "sujet": "Obby Khan démissionne comme chef du PC",
+      "fait": "Obby Khan quitte son poste de chef de l'Opposition Progressive Conservatives du Manitoba, citant des divisions au sein de son caucus. Selon CBC, ces divisions l'ont laissé sans choix que de démissionner."
     }
   ]
 }
