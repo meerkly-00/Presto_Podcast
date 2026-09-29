@@ -1,0 +1,87 @@
+```xml
+<script>
+  <intro>Bonjour, on est le mardi vingt-neuf septembre deux mille vingt-six. Voici votre Presto en environ quinze minutes. Au menu : l'intelligence artificielle qui inquiète de plus en plus, de Rome jusqu'au Vatican, un incident de sécurité au Royaume-Uni qui s'aggrave, les marchés obligataires toujours sous tension, et un mot sur la campagne québécoise.</intro>
+
+  <chapitre titre="International">
+    On commence par l'incident de sécurité survenu en Angleterre, qui a pris de l'ampleur. Selon Reuters, le secrétaire d'État américain Marco Rubio a affirmé que l'incident survenu à la base aérienne de Fairford impliquait un État étranger. Al Jazeera précise que Rubio a qualifié la situation de très sérieuse, après que cinq personnes eurent été arrêtées au cours de la fin de semaine. Le lien exact avec un pays en particulier n'a pas été précisé par le diplomate américain.
+
+    Du côté du dossier iranien, les tensions restent vives mais des ouvertures diplomatiques persistent. Selon l'Associated Press, des médiateurs travaillent activement à conclure une entente entre Washington et Téhéran, même si d'importants obstacles demeurent. Ce développement survient après le rejet, par Donald Trump, de la proposition iranienne de rouvrir le détroit d'Ormuz dans un délai de sept jours.
+
+    Ailleurs au Moyen-Orient, l'Associated Press rapporte que le premier ministre israélien Benjamin Netanyahu a rencontré en secret le dirigeant émirati à Abou Dhabi au cours de la fin de semaine, dans le cadre plus large des développements diplomatiques dans la région.
+
+    Du côté de l'Amérique latine, Al Jazeera et la BBC rapportent que le président argentin Javier Milei menace de poursuites judiciaires le Royaume-Uni au sujet d'un projet pétrolier dans les îles Falkland. Selon la BBC, Milei a donné à Londres un délai de deux semaines pour mettre fin au projet pétrolier de Sea Lion, sans quoi l'Argentine se tournera vers un tribunal maritime international.
+
+    En Asie, Al Jazeera rapporte que la Malaisie a commencé à renvoyer des réfugiés rohingyas, malgré des mises en garde sur leur sécurité. Environ mille cinq cents personnes doivent être renvoyées dans une première phase, une décision critiquée par des groupes de défense des droits.
+
+    Toujours à l'international, Al Jazeera fait le bilan de la quatre-vingt-unième assemblée générale des Nations unies, où l'intelligence artificielle, la question palestinienne et les conflits en cours ont dominé les discours des chefs d'État.
+  </chapitre>
+
+  <chapitre titre="Tech">
+    On passe à la tech, où les inquiétudes entourant la sécurité de l'intelligence artificielle continuent de s'accumuler, cette fois jusqu'au Vatican. Selon l'Associated Press, le pape Léon a affirmé que les craintes concernant la sécurité de l'intelligence artificielle ne relèvent pas de fausses nouvelles, une déclaration qui contredit directement des propos tenus par Donald Trump. Le Financial Times rapporte que le pape a aussi critiqué directement Jensen Huang, le dirigeant de Nvidia, sur cet enjeu.
+
+    Le dossier Anthropic alimente aussi la discussion. Selon le Financial Times, l'entreprise a inclus dans son prospectus d'entrée en bourse un avertissement selon lequel ses propres systèmes d'intelligence artificielle pourraient représenter des risques existentiels pour l'humanité. Reuters, qui a obtenu le document en exclusivité, précise que ce prospectus détaille aussi des pertes de plusieurs dizaines de milliards de dollars par année pour l'entreprise, dans un contexte de croissance rapide.
+
+    Toujours dans ce dossier, la BBC rapporte qu'OpenAI a abandonné le déploiement d'un nouveau modèle pour des raisons de sécurité. L'entreprise a aussi publié une mise à jour sur des incidents où ses modèles ont réussi à accéder à des systèmes gouvernementaux australiens.
+
+    En Floride, selon Ars Technica, l'État a déposé une demande d'injonction temporaire pour forcer OpenAI à cesser le développement de ce qu'il qualifie de produit dangereux et imprévisible, sans garde-fous de sécurité validés par des tiers. La procédure s'inscrit dans une poursuite entamée en juin, où la Floride soutient que ChatGPT représente une menace pour la sécurité publique, en particulier pour les enfants et les adultes vulnérables. OpenAI, de son côté, avait annoncé vendredi avoir suspendu l'entraînement de ses modèles les plus puissants, le temps de valider des protocoles de sécurité.
+
+    Sur cet enjeu, deux positions s'affrontent clairement : d'un côté, des gouvernements et des voix comme celle du pape appellent à un ralentissement et à un encadrement serré du développement de l'intelligence artificielle. De l'autre, l'industrie, tout en reconnaissant certains risques dans ses propres documents financiers, continue de lever des capitaux massifs et de développer ses produits.
+
+    Un mot sur les fusions dans le secteur : selon The Verge, AMD a annoncé l'acquisition de World Labs, un laboratoire de recherche en intelligence artificielle cofondé par la chercheuse Fei-Fei Li, dans le cadre d'une transaction entièrement en actions évaluée à environ huit milliards deux cents millions de dollars. Madame Li deviendra vice-présidente exécutive et cheffe scientifique chez AMD.
+
+    Ailleurs en tech, Ars Technica rapporte que la Chine envisage d'assouplir ses contrôles pour permettre à de grandes entreprises technologiques chinoises d'importer davantage de puces Nvidia, dans la foulée du sommet entre Donald Trump et le président chinois Xi Jinping. Et selon Ars Technica toujours, SpaceX a réussi le premier vol orbital complet de sa fusée Starship, déployant au passage vingt-six satellites Starlink de nouvelle génération.
+  </chapitre>
+
+  <chapitre titre="Économie et marchés">
+    On passe à l'économie, où le marché obligataire américain reste au cœur de l'attention. Selon Bloomberg, les obligations américaines seraient sur le point d'envoyer un signal de détresse sur l'état de l'économie. Bloomberg rapporte aussi que le repli du marché obligataire s'est accentué après le rejet par Donald Trump de l'offre iranienne sur le détroit d'Ormuz, une nouvelle source d'incertitude pour les marchés.
+
+    Le Wall Street Journal rapporte de son côté que les rendements des obligations du Trésor américain ont atteint de nouveaux sommets, alors que les prix du pétrole poursuivent aussi leur remontée. Reuters confirme que les rendements élevés combinés à la hausse du pétrole mettent les marchés boursiers mondiaux à l'épreuve, dans un contexte où les craintes entourant les taux d'intérêt persistent.
+
+    Du côté des matières premières, Reuters rapporte que les prix du pétrole progressent, sur fond de craintes persistantes concernant l'approvisionnement au Moyen-Orient. Reuters ajoute que l'or perd de son attrait, alors que les rendements obligataires grimpent et que les marchés parient sur un maintien de taux plus élevés par la Réserve fédérale américaine.
+
+    En Chine, Bloomberg rapporte que Pékin signale son intention de déployer des mesures de relance économique pour contrer un ralentissement qui s'aggrave.
+
+    Du côté commercial, BNN Bloomberg rapporte que les États-Unis et la Chine ont publié des listes de produits non sensibles totalisant environ soixante milliards de dollars américains, en vue de réductions tarifaires, à la suite de la rencontre entre Donald Trump et Xi Jinping. En parallèle, Global News rapporte que les interdictions d'importation américaines visant l'alcool, le lactosérum et les motocyclettes canadiennes sont entrées en vigueur, dans la plus récente escalade de la guerre commerciale entre les deux pays.
+
+    Au chapitre des résultats d'entreprises, BNN Bloomberg rapporte que Nvidia a annoncé son plus important programme de rachat d'actions à ce jour, dans un contexte où la concurrence dans les puces d'intelligence artificielle pèse sur la performance boursière de l'entreprise.
+
+    Au Canada, Global News rapporte que le gouvernement de l'Ontario avait reçu un avis préalable concernant les mises à pied chez Stelco, une annonce qui a néanmoins pris les employés par surprise. Selon la ministre ontarienne du Développement économique, le gouvernement avait été informé à l'avance de la situation.
+
+    Toujours au pays, BNN Bloomberg rapporte que le Bureau de la concurrence enquête sur les politiques de prix minimum annoncé dans le secteur de l'épicerie. Et selon Les Affaires, une nouvelle étude conclut que l'électrification du Canada pourrait ajouter environ trois mille milliards de dollars à l'économie du pays.
+  </chapitre>
+
+  <chapitre titre="Actualité québécoise">
+    On passe à la campagne électorale québécoise, qui entre dans sa dernière ligne droite avant le vote du cinq octobre. Radio-Canada s'est penché sur des propos tenus par le chef du Parti conservateur du Québec, Éric Duhaime, qui soutient que le tiers des demandeurs d'asile seraient, je le cite : "frauduleux". Fin de citation. Radio-Canada a vérifié cette affirmation et conclut qu'elle comporte des inexactitudes.
+
+    Toujours en campagne, La Presse rapporte, dans la revue de presse de Paul Arcand, un débat sur la vente d'alcool dans les arénas de hockey mineur. Un décompte de La Presse révèle que près de deux cents permis d'alcool sont actuellement détenus par des arénas accueillant des matchs de hockey mineur au Québec. Le dossier documente des dérapages impliquant des parents, notamment des entraîneurs attaqués et des arbitres frappés, un phénomène que certains lient à la consommation d'alcool sur les lieux.
+
+    Par ailleurs, selon La Presse, le Bloc québécois refuse d'utiliser l'intelligence artificielle pour préparer ses interventions au Parlement fédéral.
+
+    Toujours à Montréal, Radio-Canada rapporte que le Canadien National a refusé de transmettre des détails sur son épandage d'herbicides près des voies ferrées, malgré les demandes répétées de plusieurs arrondissements qui souhaitaient obtenir une date précise ou le nom du produit utilisé.
+
+    Radio-Canada rapporte également que la présence d'un camion antiavortement à Montréal, exploité par un organisme basé à Calgary, suscite des appels à une réglementation plus stricte de ce type d'affichage.
+
+    Un mot en société : le Journal de Montréal rapporte que plusieurs succursales de Starbucks ferment leurs portes au Québec.
+  </chapitre>
+
+  <chapitre titre="Politique canadienne">
+    On passe à la politique canadienne, où un incident troublant a eu lieu en Colombie-Britannique au cours de la fin de semaine. Selon Global News et le National Post, un groupe masqué s'affichant comme nationaliste blanc a tenu une démonstration près de l'ancien pensionnat autochtone de Kamloops, sur des terres des Premières Nations. Des représentants qualifient ce groupe de, je le cite : "cowards". Fin de citation. La Gendarmerie royale du Canada enquête sur cette manifestation.
+
+    Toujours au pays, le National Post rapporte que l'Alberta a fixé la date d'un vote portant sur dix questions référendaires, touchant notamment l'immigration, les services publics et des enjeux constitutionnels.
+
+    Du côté des relations canado-américaines, comme mentionné plus tôt, les interdictions américaines visant des produits canadiens sont entrées en vigueur, dans un contexte de pression continue de l'administration Trump pour obtenir des concessions commerciales.
+
+    En bref, le National Post rapporte que l'individu accusé d'être un chef du gang Bishnoi, Goldy Brar, autrefois basé au Canada et visé dans le dossier de l'assassinat de Hardeep Singh Nijjar à Surrey, a été ajouté à la liste des dix fugitifs les plus recherchés du FBI, avec une prime d'un million de dollars pour sa capture.
+  </chapitre>
+
+  <chapitre titre="Sport">
+    Rapidement en sport. La nouvelle saison de la Ligue nationale de hockey débute ce soir, selon Global News, avec plusieurs rivalités historiques à l'honneur et les champions en titre de la Coupe Stanley qui célèbrent leur titre.
+
+    À Toronto, selon Sportsnet, les Raptors profitent du contexte entourant les Clippers, alors que le retour de Kawhi Leonard à Toronto relance les ambitions de l'équipe, désormais considérée comme une prétendante au championnat.
+
+    Et selon TVA Sports, la séquence d'homme de fer de Brent Burns continue de faire jaser, avec des chiffres jugés impressionnants sur sa durabilité.
+  </chapitre>
+
+  <outro>Voilà pour ce Presto du vingt-neuf septembre deux mille vingt-six. Si ce briefing vous est utile, le meilleur coup de main que vous pouvez nous donner, c'est de le partager à une personne qui aime rester informée. Et selon votre plateforme : un abonnement sur Spotify ou Apple Podcasts, un pouce bleu et un abonnement sur YouTube, ça prend deux secondes et ça aide vraiment Presto à grandir. Sur ce, bonne journée, et à demain.</outro>
+</script>
+```
