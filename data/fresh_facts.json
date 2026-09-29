@@ -1,54 +1,54 @@
 {
-  "generated_at": "2026-09-29T18:28:26.531086+00:00",
+  "generated_at": "2026-09-29T22:51:10.751054+00:00",
   "window_hours": 8,
   "faits": [
     {
-      "sujet": "Manchester City condamné pour irrégularités financières",
-      "fait": "Manchester City a été reconnu coupable de presque tous les 115 chefs d'accusation de malveillance financière qui lui étaient reprochés, selon la Premier League. (CBC World)"
+      "sujet": "Protection des océans Canada",
+      "fait": "Le premier ministre Mark Carney annonce une enveloppe de 1,2 milliard de dollars pour la préservation des océans. Selon La Presse et Global News, cette annonce intervient avant une décision concernant un nouvel oléoduc sur la côte ouest."
     },
     {
-      "sujet": "Maroc nomme première femme Premier ministre",
-      "fait": "Le roi du Maroc a nommé Fatima Ezzahra El Mansouri comme première femme Premier ministre du pays, devenant la deuxième femme à occuper ce poste dans le monde arabe. (Al Jazeera)"
+      "sujet": "Mises à pied Stelco Hamilton",
+      "fait": "Le premier ministre Carney déclare que les travailleurs ont été « trahis » par le sidérurgiste Stelco en raison de licenciements massifs à Hamilton. Selon National Post, le gouvernement explore des options légales pour s'opposer à cette décision."
     },
     {
-      "sujet": "Canada relève les droits de douane avec les États-Unis",
-      "fait": "L'interdiction d'importation de certains biens canadiens par l'administration Trump a pris effet mardi, affectant différents États américains de façon inégale. (National Post)"
+      "sujet": "Démission conservateurs Scott Aitchison",
+      "fait": "Le député conservateur Scott Aitchison devrait démissionner de la Chambre des communes d'ici la fin de l'année. Selon National Post et CBC, cela ferait de lui le huitième membre du caucus conservateur à quitter depuis la dernière élection."
     },
     {
-      "sujet": "Retrait des forces américaines d'Irak",
-      "fait": "Les forces américaines sont sur le point de quitter leurs dernières bases en Irak mercredi, après leur première arrivée en 2003 et plus de deux décennies de présence. (CBC World)"
+      "sujet": "Surveillance SCRS pouvoirs spéciaux",
+      "fait": "Le Service canadien du renseignement de sécurité n'aurait pas respecté la loi lors du recours à des pouvoirs spéciaux pour recueillir des renseignements. Selon La Presse, cette conclusion provient d'un examen de l'organisme national de surveillance des services de renseignement."
     },
     {
-      "sujet": "Mark Carney évoque une hausse d'immigration contrôlée",
-      "fait": "Le Premier ministre Mark Carney affirme que le système d'immigration canadien étant à nouveau sous contrôle, la question est désormais de savoir quand entamer une augmentation contrôlée de la population du pays. (La Presse)"
+      "sujet": "Acquisition AMD World Labs",
+      "fait": "Le chipmaker AMD acquiert la startup de world models World Labs pour 8,2 milliards de dollars, pending regulatory approval. Selon Ars Technica, la transaction devrait être finalisée d'ici la fin de l'année."
     },
     {
-      "sujet": "Séparatisme rejeté au Canada : plus de 70% opposés",
-      "fait": "Plus de 70% des électeurs en Colombie-Britannique et en Alberta s'opposent à la séparation, d'après une analyse du National Post relatant les positions avant les votes québécois et albertains."
+      "sujet": "Financement Tesla 30 milliards",
+      "fait": "Tesla sécurise 30 milliards de dollars en nouvelles lignes de crédit pour la production du Cybercab et d'Optimus. Selon TechCrunch, l'entreprise prévoit au moins 25 milliards de dépenses en capital cette année."
     },
     {
-      "sujet": "OpenAI lance suite bureautique et agents Dots",
-      "fait": "OpenAI a annoncé une suite d'outils bureautiques en concurrence directe avec Microsoft, ainsi que le lancement de Dots, des assistants IA autonomes fonctionnant avec le modèle GPT-6 Astra. (TechCrunch, The Verge)"
+      "sujet": "Ordre exécutif Trump Super Intelligence",
+      "fait": "Le président Trump signe un ordre exécutif ordonnant à l'administration fédérale américaine d'utiliser le terme « Super Intelligence » au lieu d'« artificial intelligence ». Selon The Verge, cette directive s'applique aux sites web, documents et communiqués de presse officiels."
     },
     {
-      "sujet": "Apple accusé de censurer applications de surveillance ICE",
-      "fait": "Le représentant américain Jamie Raskin accuse Apple d'avoir collaboré avec l'administration Trump pour supprimer des applications de suivi des activités de l'ICE de l'App Store, sans preuves de risques de sécurité. (Ars Technica)"
+      "sujet": "Confiance consommateurs États-Unis",
+      "fait": "La confiance des consommateurs américains atteint son plus bas niveau depuis 2014 avant les midterms. Selon Al Jazeera, la hausse des prix des biens et du carburant est citée comme facteur clé."
     },
     {
-      "sujet": "Anthropic investit 518 milliards en infrastructure IA",
-      "fait": "Anthropic s'engage dans un projet d'infrastructure IA de 518 milliards de dollars largement basé sur des contrats non annulables, selon un document de dépôt. (Reuters)"
+      "sujet": "Expulsions tiers pays Trump",
+      "fait": "La Cour suprême américaine autorise Trump à poursuivre les expulsions vers des tiers pays. Selon Al Jazeera, la cour a accordé une demande d'urgence avant les arguments prévus en décembre."
     },
     {
-      "sujet": "Rendements des obligations américaines au plus haut depuis 2002",
-      "fait": "Le rendement des obligations du Trésor américain à 30 ans a atteint son plus haut niveau depuis 2002. (Financial Times)"
+      "sujet": "Arrestation leader ShinyHunters",
+      "fait": "La police néerlandaise arrête un suspect de 24 ans en lien avec le groupe de hackers ShinyHunters, responsable d'attaques contre Ticketmaster et Rockstar Games. Selon The Verge, l'arrestation a eu lieu le 15 septembre."
     },
     {
-      "sujet": "Alberta et Québec votent sur la séparation en octobre",
-      "fait": "Les élections québécoises se tiendront le 5 octobre et le référendum albertain le 19 octobre, avec des questions portant sur l'indépendance des deux provinces. (National Post, CBC)"
+      "sujet": "Accord AI autopolicing Trump",
+      "fait": "Le président Trump signe un pacte volontaire avec les grandes entreprises d'intelligence artificielle pour « s'auto-réguler » dans le développement de la technologie. Selon CBC World, cet accord a été signé le 29 septembre 2026."
     },
     {
-      "sujet": "Espagne interdit les expulsions locatives",
-      "fait": "L'Espagne annonce l'interdiction des expulsions immobilières, une mesure qui suit les protestations contre l'éviction d'une femme de 87 ans et doit être approuvée par le parlement dans les 30 jours. (BBC World)"
+      "sujet": "Investissement drone Draganfly Trump Jr.",
+      "fait": "La société de drones saskatoonaise Draganfly reçoit un investissement stratégique de 10 millions de dollars américains de firmes incluant une liée à Donald Trump Jr. Selon CBC, aucun siège au conseil d'administration ni autres avantages ne sont attachés à cet accord."
     }
   ]
 }
