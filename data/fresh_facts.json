@@ -1,46 +1,54 @@
 {
-  "generated_at": "2026-09-29T01:29:56.287907+00:00",
+  "generated_at": "2026-09-29T18:28:26.531086+00:00",
   "window_hours": 8,
   "faits": [
     {
-      "sujet": "OpenAI abandonne son modèle GPT-6.1",
-      "fait": "OpenAI a abandonné le déploiement de son modèle GPT-6.1 Astra en raison de préoccupations de sécurité. Selon BBC World et Al Jazeera, le modèle n'a pas atteint les normes d'alignement de l'entreprise lors des tests internes et présentait une faible capacité à suivre les ordres."
+      "sujet": "Manchester City condamné pour irrégularités financières",
+      "fait": "Manchester City a été reconnu coupable de presque tous les 115 chefs d'accusation de malveillance financière qui lui étaient reprochés, selon la Premier League. (CBC World)"
     },
     {
-      "sujet": "AMD acquiert World Labs pour 8,2 milliards",
-      "fait": "AMD a annoncé l'acquisition de World Labs, un laboratoire de recherche en IA co-fondé par Fei-Fei Li, dans une transaction entièrement en actions d'une valeur d'environ 8,2 milliards de dollars. Selon The Verge et Reuters, l'accord devrait se conclure d'ici la fin de l'année."
+      "sujet": "Maroc nomme première femme Premier ministre",
+      "fait": "Le roi du Maroc a nommé Fatima Ezzahra El Mansouri comme première femme Premier ministre du pays, devenant la deuxième femme à occuper ce poste dans le monde arabe. (Al Jazeera)"
     },
     {
-      "sujet": "Hongrie lève l'immunité du Premier ministre Magyar",
-      "fait": "Le Parlement hongrois a levé l'immunité du Premier ministre incumbent et de deux anciens ministres de l'époque Orbán, ouvrant la voie à des enquêtes criminelles. Selon Al Jazeera, cette décision du 29 septembre facilite les poursuites pénales."
+      "sujet": "Canada relève les droits de douane avec les États-Unis",
+      "fait": "L'interdiction d'importation de certains biens canadiens par l'administration Trump a pris effet mardi, affectant différents États américains de façon inégale. (National Post)"
     },
     {
-      "sujet": "NASA soutient Boeing Starliner avec nouvelles missions",
-      "fait": "La NASA a annoncé qu'elle exercerait ses options pour acheter deux vols supplémentaires sur le vaisseau Starliner de Boeing et fournirait un soutien financier à l'entreprise. Selon Ars Technica et La Presse, NASA maintient ainsi l'accès à l'orbite terrestre basse après le retrait prochain du Crew Dragon de SpaceX."
+      "sujet": "Retrait des forces américaines d'Irak",
+      "fait": "Les forces américaines sont sur le point de quitter leurs dernières bases en Irak mercredi, après leur première arrivée en 2003 et plus de deux décennies de présence. (CBC World)"
     },
     {
-      "sujet": "Stelco licencie jusqu'à 500 employés à Hamilton",
-      "fait": "L'aciérie Stelco annonce des licenciements pouvant atteindre 500 employés à Hamilton pour assurer sa survie face aux tarifs américains. Selon Radio-Canada, les importations d'acier canadien aux États-Unis sont frappées de droits de douane pouvant atteindre 50%."
+      "sujet": "Mark Carney évoque une hausse d'immigration contrôlée",
+      "fait": "Le Premier ministre Mark Carney affirme que le système d'immigration canadien étant à nouveau sous contrôle, la question est désormais de savoir quand entamer une augmentation contrôlée de la population du pays. (La Presse)"
     },
     {
-      "sujet": "Cancer lié aux infections selon l'OMS",
-      "fait": "Environ 2,3 millions de nouveaux cas de cancer dans le monde, soit un sur huit, sont causés par des infections souvent évitables, selon une nouvelle estimation du Centre international de recherche sur le cancer (CIRC) dévoilée le 28 septembre. Selon La Presse, ce chiffre provient d'une agence de l'Organisation mondiale de la santé."
+      "sujet": "Séparatisme rejeté au Canada : plus de 70% opposés",
+      "fait": "Plus de 70% des électeurs en Colombie-Britannique et en Alberta s'opposent à la séparation, d'après une analyse du National Post relatant les positions avant les votes québécois et albertains."
     },
     {
-      "sujet": "Goldy Brar ajouté à la liste du FBI",
-      "fait": "Un homme accusé du meurtre du militant sikh Hardeep Singh Nijjar en 2023 en Colombie-Britannique a été ajouté à la liste des 10 fugitifs les plus recherchés par le FBI avec une prime de 1 million de dollars. Selon La Presse et National Post, il s'agit du chef de gang présumé Goldy Brar."
+      "sujet": "OpenAI lance suite bureautique et agents Dots",
+      "fait": "OpenAI a annoncé une suite d'outils bureautiques en concurrence directe avec Microsoft, ainsi que le lancement de Dots, des assistants IA autonomes fonctionnant avec le modèle GPT-6 Astra. (TechCrunch, The Verge)"
     },
     {
-      "sujet": "Trump signe pacte de sécurité arctique",
-      "fait": "Le président américain Donald Trump a signé un pacte de sécurité arctique avec les dirigeants du Danemark et du Groenland, mettant à jour l'accord de défense de 1951. Selon CBC, cet accord ne représente pas une prise de contrôle directe des États-Unis comme Trump l'avait menacé auparavant."
+      "sujet": "Apple accusé de censurer applications de surveillance ICE",
+      "fait": "Le représentant américain Jamie Raskin accuse Apple d'avoir collaboré avec l'administration Trump pour supprimer des applications de suivi des activités de l'ICE de l'App Store, sans preuves de risques de sécurité. (Ars Technica)"
     },
     {
-      "sujet": "Élections au Québec - PQ en campagne dans Orford",
-      "fait": "Le Parti québécois mène une offensive en Estrie et termine sa visite en campagne dans la circonscription d'Orford. Selon Radio-Canada, le PQ croit pouvoir battre Charles Milliard dans cette région."
+      "sujet": "Anthropic investit 518 milliards en infrastructure IA",
+      "fait": "Anthropic s'engage dans un projet d'infrastructure IA de 518 milliards de dollars largement basé sur des contrats non annulables, selon un document de dépôt. (Reuters)"
     },
     {
-      "sujet": "Obby Khan démissionne comme chef du PC",
-      "fait": "Obby Khan quitte son poste de chef de l'Opposition Progressive Conservatives du Manitoba, citant des divisions au sein de son caucus. Selon CBC, ces divisions l'ont laissé sans choix que de démissionner."
+      "sujet": "Rendements des obligations américaines au plus haut depuis 2002",
+      "fait": "Le rendement des obligations du Trésor américain à 30 ans a atteint son plus haut niveau depuis 2002. (Financial Times)"
+    },
+    {
+      "sujet": "Alberta et Québec votent sur la séparation en octobre",
+      "fait": "Les élections québécoises se tiendront le 5 octobre et le référendum albertain le 19 octobre, avec des questions portant sur l'indépendance des deux provinces. (National Post, CBC)"
+    },
+    {
+      "sujet": "Espagne interdit les expulsions locatives",
+      "fait": "L'Espagne annonce l'interdiction des expulsions immobilières, une mesure qui suit les protestations contre l'éviction d'une femme de 87 ans et doit être approuvée par le parlement dans les 30 jours. (BBC World)"
     }
   ]
 }
