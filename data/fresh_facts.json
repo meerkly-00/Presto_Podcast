@@ -1,54 +1,50 @@
 {
-  "generated_at": "2026-09-30T18:17:25.635872+00:00",
+  "generated_at": "2026-09-30T22:49:36.327593+00:00",
   "window_hours": 8,
   "faits": [
     {
-      "sujet": "Démissions au caucus conservateur canadien",
-      "fait": "Scott Aitchison, député ontarien, a annoncé son intention de quitter la vie politique en décembre. Il devient le huitième député à quitter le caucus conservateur depuis l'élection de 2025. Selon La Presse et Global News, cette démission intervient alors que les conservateurs perdent des appuis au profit des libéraux dans les sondages."
+      "sujet": "Élection québécoise - Constitution autochtone",
+      "fait": "Le chef du PQ affirme vouloir consulter les Autochtones sur la constitution provisoire, mais sans leur accorder de droit de veto sur le projet. Selon Radio-Canada."
     },
     {
-      "sujet": "Reddit restreint l'accès aux bots IA",
-      "fait": "Reddit supprime les flux RSS et limite l'accès à Old Reddit pour combattre le scraping automatisé. Selon The Verge et TechCrunch, les utilisateurs devront être connectés et avoir utilisé Old Reddit dans les six mois précédant le changement pour continuer à accéder à la version classique."
+      "sujet": "Montréal - Règlement insultes employés",
+      "fait": "L'Association des juristes progressistes et la Clinique juridique de Saint-Michel entreprennent des démarches en justice pour invalider le nouveau règlement montréalais interdisant les insultes envers les employés municipaux et policiers. Selon La Presse."
     },
     {
-      "sujet": "Jour de la Vérité et Réconciliation au Canada",
-      "fait": "Le 30 septembre honore les survivants des pensionnats pour Autochtones, leurs proches et les enfants disparus. Selon Radio-Canada, le Manitoba Premier Wab Kinew a participé à une cérémonie sur un site de sépulture d'enfants décédés."
+      "sujet": "Alberta - Dépotoir illégal pénalités",
+      "fait": "L'Alberta propose une législation augmentant les amendes maximales pour dépotage illégal de 100 000 dollars pour les individus et 1 million pour les sociétés, doublant ainsi les pénalités actuelles. Selon Global News."
     },
     {
-      "sujet": "Incident à bord d'un vol Flydubai vers Israël",
-      "fait": "Un pilote a poignardé un collègue à bord d'un vol Flydubai. Selon la BBC et Al Jazeera, le capitaine et le premier officier ont été blessés, un pilote a été arrêté, et un passager a aidé à maîtriser l'agresseur."
+      "sujet": "Hong Kong - Journaliste arrêté sédition",
+      "fait": "Un fondateur de média est détenu à Hong Kong sous accusation de sédition suite à une vidéo d'affrontement à la gare Prince Edward. Selon Al Jazeera."
     },
     {
-      "sujet": "Attaque à la mosquée Al-Aqsa en Israël",
-      "fait": "Plus de 1 300 colons israéliens ont pénétré dans le complexe de la mosquée Al-Aqsa. Selon Al Jazeera, les raids israéliens se sont intensifiés durant la période des fêtes juives."
+      "sujet": "Canada - Rondelle Stanley Cup payante",
+      "fait": "Pour la première fois en décennies, la finale de la Coupe Stanley ne sera pas diffusée gratuitement à la télévision canadienne l'année prochaine. Un groupe de pression souhaite que le gouvernement adopte une loi pour empêcher cela. Selon CBC."
     },
     {
-      "sujet": "Avertissement britannique sur l'espionnage chinois",
-      "fait": "Le MI5 avertit les universitaires britanniques de couper les liens avec un groupe chinois accusé de financer la recherche académique pour renforcer les capacités d'espionnage de Pékin. Selon Al Jazeera, l'agence de renseignement britannique fait cette accusation."
+      "sujet": "Pennsylvanie - Décès rougeole non vaccinée",
+      "fait": "Une cinquième personne non vaccinée est décédée de la rougeole en Pennsylvanie. Le bilan provincial atteint 943 cas confirmés dans 39 comtés, dont 176 hospitalisations. Selon Ars Technica."
     },
     {
-      "sujet": "Lunettes intelligentes Amazon pour livreurs",
-      "fait": "Les lunettes intelligentes des livreurs Amazon captureront plusieurs milliers de photos par équipe, selon Bloomberg cité par The Verge. Amazon prévoit de télécharger ces images sur sa plateforme AI Wellspring, et déclare ne pas avoir envisagé un système de non-participation des clients."
+      "sujet": "Québec - Fermeture La Cordée magasins",
+      "fait": "La chaîne québécoise La Cordée, fondée en 1953, cessera ses activités dans les prochaines semaines après plus de 70 ans d'existence. L'entreprise traîne des dettes d'environ 13 millions de dollars. Selon Radio-Canada."
     },
     {
-      "sujet": "Abandon du programme migratoire UK-France",
-      "fait": "Le Royaume-Uni et la France ont abandonné leur programme d'échange migratoire 'one in, one out'. Selon la BBC, environ 1 500 personnes ont été transférées en France depuis le lancement du programme il y a un peu plus d'un an."
+      "sujet": "États-Unis - Recherche téléphone sans mandat",
+      "fait": "Un agent des douanes aux États-Unis peut confisquer et fouiller un téléphone cellulaire sans mandat lors du passage frontière, selon une plainte déposée par un écrivain argentin-américain. Selon Ars Technica."
     },
     {
-      "sujet": "Appareils IA portables en développement",
-      "fait": "Meta et OpenAI travaillent sur des appareils matériels IA portables. Selon The Verge, OpenAI collabore avec le designer Jony Ive et prévoit de lancer ses produits dans l'année suivante, testant l'appétit pour des agents logiciels autonomes."
+      "sujet": "Google - Lancement Gemini 4 Argon",
+      "fait": "Google annonce son modèle d'IA Gemini 4 Argon, réservé initialement aux défenseurs cyber de confiance et soumis au processus volontaire du gouvernement américain. Selon The Verge."
     },
     {
-      "sujet": "Travaux de la Cour permanente des peuples",
-      "fait": "Un tribunal permanent des peuples dénonce l'inaction du Canada face aux crimes contre les enfants autochtones dans les pensionnats. Selon La Presse, le Canada 'manque à ses obligations juridiques internationales' en refusant d'enquêter en profondeur et de punir les auteurs."
+      "sujet": "Armée américaine - Réduction généraux amiraux",
+      "fait": "Le secrétaire à la Défense Pete Hegseth confirme que l'armée américaine réduira ses effectifs de généraux et amiraux de 20 pour cent. Selon CBC World."
     },
     {
-      "sujet": "Refus de reconnaissance de divorce religieux",
-      "fait": "Un Canadien musulman n'a pas pu parrainer son épouse éthiopienne pour un visa de résident permanent car son divorce religieux selon la loi Sharia n'est pas reconnu au Canada. Selon National Post, la Commission de l'immigration et du statut de réfugié a rejeté cette demande."
-    },
-    {
-      "sujet": "DoorDash lance un agent IA textuel",
-      "fait": "DoorDash a lancé un agent IA que les utilisateurs peuvent contacter par texte pour commander de la nourriture. Selon TechCrunch, cette initiative cherche à gagner un avantage compétitif sur Uber Eats et Grubhub."
+      "sujet": "Canada - Autochtones enquêtes écoles résidentielles",
+      "fait": "Un organisme international de défense des droits humains affirme que le Canada omet de mener des enquêtes approfondies sur les crimes commis dans les écoles résidentielles pour Autochtones. Selon CBC."
     }
   ]
 }
