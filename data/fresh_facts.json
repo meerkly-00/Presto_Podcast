@@ -1,54 +1,54 @@
 {
-  "generated_at": "2026-09-29T22:51:10.751054+00:00",
+  "generated_at": "2026-09-30T18:17:25.635872+00:00",
   "window_hours": 8,
   "faits": [
     {
-      "sujet": "Protection des océans Canada",
-      "fait": "Le premier ministre Mark Carney annonce une enveloppe de 1,2 milliard de dollars pour la préservation des océans. Selon La Presse et Global News, cette annonce intervient avant une décision concernant un nouvel oléoduc sur la côte ouest."
+      "sujet": "Démissions au caucus conservateur canadien",
+      "fait": "Scott Aitchison, député ontarien, a annoncé son intention de quitter la vie politique en décembre. Il devient le huitième député à quitter le caucus conservateur depuis l'élection de 2025. Selon La Presse et Global News, cette démission intervient alors que les conservateurs perdent des appuis au profit des libéraux dans les sondages."
     },
     {
-      "sujet": "Mises à pied Stelco Hamilton",
-      "fait": "Le premier ministre Carney déclare que les travailleurs ont été « trahis » par le sidérurgiste Stelco en raison de licenciements massifs à Hamilton. Selon National Post, le gouvernement explore des options légales pour s'opposer à cette décision."
+      "sujet": "Reddit restreint l'accès aux bots IA",
+      "fait": "Reddit supprime les flux RSS et limite l'accès à Old Reddit pour combattre le scraping automatisé. Selon The Verge et TechCrunch, les utilisateurs devront être connectés et avoir utilisé Old Reddit dans les six mois précédant le changement pour continuer à accéder à la version classique."
     },
     {
-      "sujet": "Démission conservateurs Scott Aitchison",
-      "fait": "Le député conservateur Scott Aitchison devrait démissionner de la Chambre des communes d'ici la fin de l'année. Selon National Post et CBC, cela ferait de lui le huitième membre du caucus conservateur à quitter depuis la dernière élection."
+      "sujet": "Jour de la Vérité et Réconciliation au Canada",
+      "fait": "Le 30 septembre honore les survivants des pensionnats pour Autochtones, leurs proches et les enfants disparus. Selon Radio-Canada, le Manitoba Premier Wab Kinew a participé à une cérémonie sur un site de sépulture d'enfants décédés."
     },
     {
-      "sujet": "Surveillance SCRS pouvoirs spéciaux",
-      "fait": "Le Service canadien du renseignement de sécurité n'aurait pas respecté la loi lors du recours à des pouvoirs spéciaux pour recueillir des renseignements. Selon La Presse, cette conclusion provient d'un examen de l'organisme national de surveillance des services de renseignement."
+      "sujet": "Incident à bord d'un vol Flydubai vers Israël",
+      "fait": "Un pilote a poignardé un collègue à bord d'un vol Flydubai. Selon la BBC et Al Jazeera, le capitaine et le premier officier ont été blessés, un pilote a été arrêté, et un passager a aidé à maîtriser l'agresseur."
     },
     {
-      "sujet": "Acquisition AMD World Labs",
-      "fait": "Le chipmaker AMD acquiert la startup de world models World Labs pour 8,2 milliards de dollars, pending regulatory approval. Selon Ars Technica, la transaction devrait être finalisée d'ici la fin de l'année."
+      "sujet": "Attaque à la mosquée Al-Aqsa en Israël",
+      "fait": "Plus de 1 300 colons israéliens ont pénétré dans le complexe de la mosquée Al-Aqsa. Selon Al Jazeera, les raids israéliens se sont intensifiés durant la période des fêtes juives."
     },
     {
-      "sujet": "Financement Tesla 30 milliards",
-      "fait": "Tesla sécurise 30 milliards de dollars en nouvelles lignes de crédit pour la production du Cybercab et d'Optimus. Selon TechCrunch, l'entreprise prévoit au moins 25 milliards de dépenses en capital cette année."
+      "sujet": "Avertissement britannique sur l'espionnage chinois",
+      "fait": "Le MI5 avertit les universitaires britanniques de couper les liens avec un groupe chinois accusé de financer la recherche académique pour renforcer les capacités d'espionnage de Pékin. Selon Al Jazeera, l'agence de renseignement britannique fait cette accusation."
     },
     {
-      "sujet": "Ordre exécutif Trump Super Intelligence",
-      "fait": "Le président Trump signe un ordre exécutif ordonnant à l'administration fédérale américaine d'utiliser le terme « Super Intelligence » au lieu d'« artificial intelligence ». Selon The Verge, cette directive s'applique aux sites web, documents et communiqués de presse officiels."
+      "sujet": "Lunettes intelligentes Amazon pour livreurs",
+      "fait": "Les lunettes intelligentes des livreurs Amazon captureront plusieurs milliers de photos par équipe, selon Bloomberg cité par The Verge. Amazon prévoit de télécharger ces images sur sa plateforme AI Wellspring, et déclare ne pas avoir envisagé un système de non-participation des clients."
     },
     {
-      "sujet": "Confiance consommateurs États-Unis",
-      "fait": "La confiance des consommateurs américains atteint son plus bas niveau depuis 2014 avant les midterms. Selon Al Jazeera, la hausse des prix des biens et du carburant est citée comme facteur clé."
+      "sujet": "Abandon du programme migratoire UK-France",
+      "fait": "Le Royaume-Uni et la France ont abandonné leur programme d'échange migratoire 'one in, one out'. Selon la BBC, environ 1 500 personnes ont été transférées en France depuis le lancement du programme il y a un peu plus d'un an."
     },
     {
-      "sujet": "Expulsions tiers pays Trump",
-      "fait": "La Cour suprême américaine autorise Trump à poursuivre les expulsions vers des tiers pays. Selon Al Jazeera, la cour a accordé une demande d'urgence avant les arguments prévus en décembre."
+      "sujet": "Appareils IA portables en développement",
+      "fait": "Meta et OpenAI travaillent sur des appareils matériels IA portables. Selon The Verge, OpenAI collabore avec le designer Jony Ive et prévoit de lancer ses produits dans l'année suivante, testant l'appétit pour des agents logiciels autonomes."
     },
     {
-      "sujet": "Arrestation leader ShinyHunters",
-      "fait": "La police néerlandaise arrête un suspect de 24 ans en lien avec le groupe de hackers ShinyHunters, responsable d'attaques contre Ticketmaster et Rockstar Games. Selon The Verge, l'arrestation a eu lieu le 15 septembre."
+      "sujet": "Travaux de la Cour permanente des peuples",
+      "fait": "Un tribunal permanent des peuples dénonce l'inaction du Canada face aux crimes contre les enfants autochtones dans les pensionnats. Selon La Presse, le Canada 'manque à ses obligations juridiques internationales' en refusant d'enquêter en profondeur et de punir les auteurs."
     },
     {
-      "sujet": "Accord AI autopolicing Trump",
-      "fait": "Le président Trump signe un pacte volontaire avec les grandes entreprises d'intelligence artificielle pour « s'auto-réguler » dans le développement de la technologie. Selon CBC World, cet accord a été signé le 29 septembre 2026."
+      "sujet": "Refus de reconnaissance de divorce religieux",
+      "fait": "Un Canadien musulman n'a pas pu parrainer son épouse éthiopienne pour un visa de résident permanent car son divorce religieux selon la loi Sharia n'est pas reconnu au Canada. Selon National Post, la Commission de l'immigration et du statut de réfugié a rejeté cette demande."
     },
     {
-      "sujet": "Investissement drone Draganfly Trump Jr.",
-      "fait": "La société de drones saskatoonaise Draganfly reçoit un investissement stratégique de 10 millions de dollars américains de firmes incluant une liée à Donald Trump Jr. Selon CBC, aucun siège au conseil d'administration ni autres avantages ne sont attachés à cet accord."
+      "sujet": "DoorDash lance un agent IA textuel",
+      "fait": "DoorDash a lancé un agent IA que les utilisateurs peuvent contacter par texte pour commander de la nourriture. Selon TechCrunch, cette initiative cherche à gagner un avantage compétitif sur Uber Eats et Grubhub."
     }
   ]
 }
