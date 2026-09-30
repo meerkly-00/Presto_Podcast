@@ -1,0 +1,14 @@
+{
+  "date": "2026-09-30",
+  "kind": "poll",
+  "text": "Ce matin → un vol Flydubai vers Israël a dû atterrir en Arabie saoudite après une bagarre entre pilotes.\n\nNouveau : selon BBC et Al Jazeera, un pilote a poignardé un collègue à bord d'un vol\n\nComment les compagnies aériennes devraient-elles renforcer la sécurité en cabine?",
+  "poll": {
+    "options": [
+      "Protocoles de sécurité",
+      "Formation psychologique",
+      "Renforcer les deux",
+      "Autres approches"
+    ],
+    "duration_minutes": 1440
+  }
+}
