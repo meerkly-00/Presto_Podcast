@@ -1,0 +1,79 @@
+```xml
+<script>
+  <intro>Bonjour, on est le mercredi trente septembre deux mille vingt-six. Voici votre Presto en environ quinze minutes. Au menu : l'incident aérien entre Dubaï et Israël, le référendum albertain et la campagne québécoise, le marché obligataire américain sous tension, et la tech avec le sommet sur l'intelligence artificielle à la Maison-Blanche.</intro>
+
+  <chapitre titre="International">
+    On commence par un vol commercial qui a créé de l'inquiétude ce matin entre Dubaï et Tel-Aviv. Selon Al Jazeera, un appareil de Flydubai à destination d'Israël a été détourné vers l'aéroport de Tabuk, en Arabie saoudite, après ce que la compagnie aérienne décrit comme un incident survenu en vol. Reuters précise, en citant un responsable israélien, que l'appareil a atterri après une bagarre entre les pilotes. La BBC ajoute qu'une brève alerte d'urgence avait un moment laissé craindre un détournement, mais le bureau du premier ministre israélien a confirmé que cette hypothèse avait été écartée. Aucun blessé n'a été rapporté.
+
+    Ailleurs au Moyen-Orient, l'économie iranienne continue d'encaisser les effets du conflit. Selon Reuters, les Iraniens font face à des coûts en forte hausse après sept mois de guerre. Toujours selon Reuters, le pétrole s'est stabilisé mardi, les négociations au point mort entre Washington et Téhéran compensant une reprise de l'offre sur le marché. The Economist, de son côté, se demande si l'Iran a perdu son emprise sur les exportations pétrolières du Golfe, notant que les volumes transitant par le détroit d'Ormuz et au-delà sont en forte hausse, même si les prix restent élevés.
+
+    En Corée, selon Al Jazeera, la Corée du Sud exige des excuses de la Corée du Nord après des explosions survenues dans la zone démilitarisée qui ont blessé trois soldats. Pyongyang nie avoir posé des mines dans le secteur.
+
+    Au Royaume-Uni, Al Jazeera rapporte que le premier ministre Andy Burnham a présenté un plan pour refaçonner les services publics, notamment les soins aux aînés, le logement et l'énergie. The Economist note que des décisions difficiles s'annoncent, qui pourraient tester l'unité du parti travailliste.
+
+    En Azerbaïdjan, selon Al Jazeera, des étudiantes portant le hijab se sont vu refuser l'entrée d'une école.
+
+    À noter aussi, selon Reuters, le propriétaire d'un club de football bulgare, Iliyan Filipov, a été abattu, une information rapportée par la radio nationale bulgare, la BNR.
+
+    Enfin, aux États-Unis, CBC rapporte que la Maison-Blanche utilise des fonds publics pour diffuser des publicités de style électoral mettant en vedette Donald Trump, à quelques semaines des élections de mi-mandat. Le groupe de défense des consommateurs Public Citizen, cité par Ars Technica, soutient que ces publicités violeraient des lois interdisant l'usage de fonds publics à des fins de propagande. La Maison-Blanche affirme qu'il s'agit d'annonces d'intérêt public. Toujours selon CBC, des ministres du Commerce du G20 se réunissent au Wisconsin cette semaine, plusieurs d'entre eux devant discuter d'ententes commerciales entre eux, en marge du programme tarifaire américain, sans la participation directe de leur hôte.
+  </chapitre>
+
+  <chapitre titre="Politique canadienne">
+    On passe à la politique canadienne, où le référendum sur la séparation de l'Alberta occupe l'attention à moins de trois semaines du vote. Selon La Presse, le chef du Parti conservateur fédéral, Pierre Poilievre, s'est rendu à Edmonton mardi pour tenter de convaincre les Albertains de rester au sein du Canada. Toujours selon le National Post, Poilievre soutient que les frustrations albertaines s'expliquent surtout par une ingérence excessive du gouvernement fédéral, et non par un rejet du Canada lui-même. Il propose de miser davantage sur les valeurs qu'incarnait, selon lui, la Constitution canadienne à l'origine.
+
+    En Ontario, selon Global News, la ministre des Finances Peter Bethlenfalvy a été questionné en commission parlementaire à Queen's Park sur l'utilisation réelle des fonds du programme "Protect Ontario", destiné à répondre aux tarifs douaniers américains. Environ cent quarante millions de dollars ont été déployés jusqu'à maintenant, mais l'opposition réclame plus de détails sur leur utilisation concrète.
+
+    Du côté fédéral, le National Post rapporte que le député conservateur Scott Aitchison devrait démissionner de son siège d'ici la fin de l'année, ce qui en ferait le huitième membre à quitter le caucus conservateur depuis la dernière élection.
+
+    Selon BNN Bloomberg, le premier ministre Mark Carney a tourné en dérision les propos d'un conseiller de Donald Trump qui avait dit aux lobbyistes canadiens de, je le cite : "get the hell out" de Washington. Fin de citation. Carney a par ailleurs affirmé ne pas avoir l'intention d'exercer une pression commerciale supplémentaire à l'approche des élections de mi-mandat américaines.
+  </chapitre>
+
+  <chapitre titre="Actualité québécoise">
+    On passe à la campagne électorale québécoise, à cinq jours du scrutin. Selon Le Devoir, le chef péquiste Paul St-Pierre Plamondon déplore ce qu'il appelle la désinformation et la distorsion de ses propos, estimant que le système politico-médiatique rend difficile la tenue d'un dialogue serein. Dans un éditorial, Le Devoir se montre par ailleurs très critique de la Coalition avenir Québec sur des enjeux de confiance électorale. Toujours selon Radio-Canada, un texte d'analyse s'est penché sur la crédibilité du Parti conservateur du Québec, jugée fragile malgré les gains obtenus par son chef, Éric Duhaime, dans l'opinion publique.
+
+    En marge de la campagne, La Presse a publié une enquête selon laquelle cent millions de dollars accordés par Ottawa à Québec pour la protection de l'environnement auraient été redirigés par le gouvernement caquiste vers d'autres priorités que celles prévues initialement.
+
+    Toujours selon La Presse, le campement de la rue Notre-Dame à Montréal continue de s'agrandir, avec environ deux cents tentes actuellement installées, un sommet inédit pour ce site. Le Collège des médecins souhaite inciter ses membres à aller directement vers les personnes concernées dans la rue.
+
+    Enfin, sur les pensionnats autochtones, Radio-Canada a publié plusieurs textes revenant sur les enjeux de vérité et de réconciliation, incluant une réflexion sur la place accordée à la vérité historique dans le processus de réconciliation.
+  </chapitre>
+
+  <chapitre titre="Économie et marchés">
+    On passe à l'économie, où le marché obligataire américain demeure sous tension. Selon le Wall Street Journal, les rendements des obligations du Trésor à long terme continuent de progresser malgré le recul des prix du pétrole. Le Financial Times rapporte que le rendement des obligations américaines à trente ans a atteint son plus haut niveau depuis deux mille deux. Le Wall Street Journal se demande, dans un texte d'analyse, si une véritable ruée pourrait frapper le marché obligataire.
+
+    Du côté canadien, selon Bloomberg, l'économie canadienne progresserait au rythme de zéro virgule deux pour cent en août, selon les données suivies en temps réel. Un gestionnaire cité par BNN Bloomberg soutient par ailleurs que l'achat d'obligations des marchés émergents est, je le cite : "incredibly fruitful" en ce moment. Fin de citation.
+
+    En Chine, Bloomberg rapporte que les mesures de relance limitées de Pékin viseraient surtout à sécuriser l'objectif de croissance du produit intérieur brut, sans plus. Le Financial Times ajoute que la Chine a dévoilé des subventions hypothécaires pour stimuler son économie. Bloomberg note aussi un écart grandissant entre la performance des actions chinoises et celle du yuan.
+
+    Aux États-Unis, Bloomberg rapporte que les actions américaines ont progressé mardi, dans un contexte où l'indice des dépenses de consommation personnelle et les résultats de Micron étaient considérés comme des tests clés pour les marchés.
+
+    Ailleurs, Reuters rapporte que les distillateurs canadiens font face à des obstacles supplémentaires sur leur propre marché intérieur, en plus de l'interdiction qui les frappe aux États-Unis. Et selon Reuters, une cour d'appel américaine a confirmé une victoire importante de Thomson Reuters dans une poursuite liée à l'entraînement de modèles d'intelligence artificielle sur ses contenus.
+
+    En Alberta, CBC rapporte que la région de Fort McMurray, longtemps associée aux cycles de forte croissance suivis de ralentissements marqués dans le secteur pétrolier, se prépare à une nouvelle vague de prospérité économique après une décennie plus difficile.
+  </chapitre>
+
+  <chapitre titre="Tech">
+    Un mot sur la tech, où l'intelligence artificielle a dominé l'actualité américaine mardi. Selon le National Post, Donald Trump a affirmé que les dirigeants de grandes entreprises technologiques ont signé un engagement, je le cite : "morally binding", pour s'autoréguler sur cette technologie. Fin de citation. La BBC a publié une analyse des principaux constats de ce sommet tenu à la Maison-Blanche.
+
+    Toujours selon The Verge, Trump a également ordonné au gouvernement américain de ne plus utiliser le terme "intelligence artificielle" dans ses communications officielles, lui préférant l'expression "Super Intelligence". Selon lui, le mot "artificiel" ne refléterait pas la nature de cette technologie.
+
+    Du côté de la sécurité, la BBC rapporte qu'un outil d'intelligence artificielle chinois, développé par Kimi, aurait fourni à des chercheurs des indications sur la fabrication d'armes biologiques, une faille découverte par la firme Mindgard.
+
+    Chez OpenAI, selon The Verge et le Financial Times, le chef de la direction Sam Altman affirme que l'entreprise n'entrera pas en bourse tant que ses modèles ne seront pas jugés suffisamment sécuritaires. Il soutient toutefois qu'attendre trop longtemps serait, je le cite : "bad for the world". Fin de citation. En marge de l'événement de lancement, selon Ars Technica, des artistes de la région de San Francisco ont présenté une installation critiquant les dirigeants d'OpenAI, les représentant en train de fuir un navire en train de couler.
+
+    Ailleurs dans l'industrie, Ars Technica rapporte qu'AMD fait l'acquisition de la jeune pousse World Labs, spécialisée dans les modèles du monde, pour une transaction évaluée à environ huit milliards de dollars américains. TechCrunch note aussi que la société xAI d'Elon Musk aurait profité du lancement du nouvel agent "Dots" d'OpenAI en s'appropriant le nom de domaine correspondant, qui redirige maintenant vers le chatbot Grok.
+
+    Toujours selon TechCrunch, Apple Pay est enfin lancé en Inde, après des années d'attente, même si certaines des plus grandes banques du pays hésitent encore à l'intégrer.
+
+    Enfin, du côté de la santé, Ars Technica rapporte les résultats d'un essai clinique de phase avancée pour un nouveau médicament contre l'obésité, la rétatrutide. Les patients ayant reçu la dose la plus élevée ont perdu en moyenne le quart de leur poids corporel après quatre-vingts semaines de traitement.
+  </chapitre>
+
+  <chapitre titre="Sport">
+    Rapidement en sport, où la nouvelle saison de la Ligue nationale de hockey a débuté hier soir. Selon Sportsnet, les Canucks de Vancouver ont créé la surprise en battant les Oilers d'Edmonton six à cinq en prolongation, portés par une performance remarquable de l'attaquant Paul Cotter, auteur de deux buts dont celui de la victoire. Sportsnet qualifie la prestation des Oilers, dans les débuts de l'entraîneur Mike Babcock, d'inacceptable.
+
+    À Toronto, toujours selon Sportsnet, les Canadiens ont amorcé leur saison par une victoire chargée d'émotion contre les Maple Leafs, portés par le gardien Jakub Dobes. Sportsnet note que les Maple Leafs, avec une formation renouvelée, ont montré des signes de croissance malgré la défaite.
+  </chapitre>
+
+  <outro>Voilà pour ce Presto du mercredi trente septembre deux mille vingt-six. Si ce briefing vous est utile, le meilleur coup de main que vous pouvez nous donner, c'est de le partager à une personne qui aime rester informée. Et selon votre plateforme : un abonnement sur Spotify ou Apple Podcasts, un pouce bleu et un abonnement sur YouTube, ça prend deux secondes et ça aide vraiment Presto à grandir. Sur ce, bonne journée, et à demain.</outro>
+</script>
+```
