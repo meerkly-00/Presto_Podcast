@@ -1,50 +1,54 @@
 {
-  "generated_at": "2026-09-30T22:49:36.327593+00:00",
+  "generated_at": "2026-10-01T18:42:48.470836+00:00",
   "window_hours": 8,
   "faits": [
     {
-      "sujet": "Élection québécoise - Constitution autochtone",
-      "fait": "Le chef du PQ affirme vouloir consulter les Autochtones sur la constitution provisoire, mais sans leur accorder de droit de veto sur le projet. Selon Radio-Canada."
+      "sujet": "Géothermie améliorée aux États-Unis",
+      "fait": "Fervo Energy a achevé sa première centrale géothermique améliorée en moins de deux ans. Selon TechCrunch, les phases suivantes promettent une connexion au réseau encore plus rapide."
     },
     {
-      "sujet": "Montréal - Règlement insultes employés",
-      "fait": "L'Association des juristes progressistes et la Clinique juridique de Saint-Michel entreprennent des démarches en justice pour invalider le nouveau règlement montréalais interdisant les insultes envers les employés municipaux et policiers. Selon La Presse."
+      "sujet": "Pipeline vers la côte Ouest canadienne",
+      "fait": "Le gouvernement fédéral a désigné l'oléoduc vers la Colombie-Britannique comme premier projet d'intérêt national, selon Radio-Canada. Le projet, appelé Pacific Link, aura un coût estimé entre 35 et 44 milliards de dollars, avec le Canada et l'Alberta copropriétaires à parts égales et une participation minimale de 10% aux communautés autochtones."
     },
     {
-      "sujet": "Alberta - Dépotoir illégal pénalités",
-      "fait": "L'Alberta propose une législation augmentant les amendes maximales pour dépotage illégal de 100 000 dollars pour les individus et 1 million pour les sociétés, doublant ainsi les pénalités actuelles. Selon Global News."
+      "sujet": "Coûts du TGV Alto au Québec",
+      "fait": "La Directrice parlementaire du budget estime que le TGV d'Alto coûterait entre 75 et 113 milliards de dollars, selon Radio-Canada. Cette estimation dépasse celle d'Ottawa, qui prévoit des coûts entre 60 et 90 milliards."
     },
     {
-      "sujet": "Hong Kong - Journaliste arrêté sédition",
-      "fait": "Un fondateur de média est détenu à Hong Kong sous accusation de sédition suite à une vidéo d'affrontement à la gare Prince Edward. Selon Al Jazeera."
+      "sujet": "Problèmes structurels au CHSLD de Matane",
+      "fait": "L'accès à une grande partie du terrain du Centre d'hébergement de Matane a été condamné jeudi en raison d'un sol instable, selon La Presse. La structure du bâtiment accueillant une centaine de résidents n'est pas menacée, mais Santé Québec a ordonné des investigations supplémentaires."
     },
     {
-      "sujet": "Canada - Rondelle Stanley Cup payante",
-      "fait": "Pour la première fois en décennies, la finale de la Coupe Stanley ne sera pas diffusée gratuitement à la télévision canadienne l'année prochaine. Un groupe de pression souhaite que le gouvernement adopte une loi pour empêcher cela. Selon CBC."
+      "sujet": "Décès du cofondateur de la Saskatchewan Party",
+      "fait": "Ken Krawetz, cofondateur de la Saskatchewan Party et défenseur de la communauté ukrainienne, est décédé à 75 ans, selon Global News."
     },
     {
-      "sujet": "Pennsylvanie - Décès rougeole non vaccinée",
-      "fait": "Une cinquième personne non vaccinée est décédée de la rougeole en Pennsylvanie. Le bilan provincial atteint 943 cas confirmés dans 39 comtés, dont 176 hospitalisations. Selon Ars Technica."
+      "sujet": "Incident du vol FlyDubai",
+      "fait": "Le premier ministre israélien Netanyahu a déclaré que le pilote qui a tenté de prendre le contrôle du vol FlyDubai avait subi une 'radicalisation islamiste' et visait à faire s'écraser l'avion, selon la BBC."
     },
     {
-      "sujet": "Québec - Fermeture La Cordée magasins",
-      "fait": "La chaîne québécoise La Cordée, fondée en 1953, cessera ses activités dans les prochaines semaines après plus de 70 ans d'existence. L'entreprise traîne des dettes d'environ 13 millions de dollars. Selon Radio-Canada."
+      "sujet": "Licenciements liés aux tarifs aux États-Unis",
+      "fait": "Stelco procède à des mises à pied liées aux tarifs, selon National Post. Le premier ministre de l'Ontario Doug Ford maintient sa retenue face à cette situation."
     },
     {
-      "sujet": "États-Unis - Recherche téléphone sans mandat",
-      "fait": "Un agent des douanes aux États-Unis peut confisquer et fouiller un téléphone cellulaire sans mandat lors du passage frontière, selon une plainte déposée par un écrivain argentin-américain. Selon Ars Technica."
+      "sujet": "OpenAI et sécurité des données",
+      "fait": "OpenAI a rompu ses relations avec trois chercheurs en sécurité après une enquête interne révélant un mauvais traitement d'informations sensibles de l'entreprise, selon TechCrunch."
     },
     {
-      "sujet": "Google - Lancement Gemini 4 Argon",
-      "fait": "Google annonce son modèle d'IA Gemini 4 Argon, réservé initialement aux défenseurs cyber de confiance et soumis au processus volontaire du gouvernement américain. Selon The Verge."
+      "sujet": "Menaces russes concernant Kaliningrad",
+      "fait": "Le président Vladimir Poutine a averti que la Russie était prête à utiliser chaque arme pour protéger Kaliningrad, selon la BBC. Poutine a affirmé que Moscou ne menaçait personne et ne faisait que répondre aux déclarations des dirigeants occidentaux."
     },
     {
-      "sujet": "Armée américaine - Réduction généraux amiraux",
-      "fait": "Le secrétaire à la Défense Pete Hegseth confirme que l'armée américaine réduira ses effectifs de généraux et amiraux de 20 pour cent. Selon CBC World."
+      "sujet": "Jugement sur les AI Overviews de Google",
+      "fait": "Un juge fédéral a rejeté les poursuites antimonopole déposées par Chegg et Penske Media contre Google concernant ses AI Overviews, selon The Verge. Le juge Amit Mehta a estimé que les réclamations ne tenaient pas selon la loi antitrust."
     },
     {
-      "sujet": "Canada - Autochtones enquêtes écoles résidentielles",
-      "fait": "Un organisme international de défense des droits humains affirme que le Canada omet de mener des enquêtes approfondies sur les crimes commis dans les écoles résidentielles pour Autochtones. Selon CBC."
+      "sujet": "IA et jeu de stratégie Stratego",
+      "fait": "Une équipe de chercheurs de Carnegie Mellon, MIT, NYU et Stanford a créé Ataraxos, une IA qui a battu le meilleur joueur de Stratego du monde 15 à 1 avec 4 matchs nuls, selon Ars Technica. L'entraînement a nécessité seulement 16 GPU et quelques milliers de dollars."
+    },
+    {
+      "sujet": "Technologie PS5 d'upscaling IA",
+      "fait": "Sony lance Quick Spectral Super Resolution (QSSR) pour la PS5 standard, une nouvelle technologie d'upscaling IA résultant du projet Amethyst avec AMD, selon The Verge. La PSSR sur PS5 Pro reste le standard supérieur."
     }
   ]
 }
