@@ -1,0 +1,81 @@
+```xml
+<script>
+  <intro>Bonjour, on est le jeudi premier octobre deux mille vingt-six. Voici votre Presto en environ quinze minutes. Au menu : le vol de FlyDubai qui a frôlé la catastrophe, l'exécution ratée au Tennessee, les marchés obligataires américains sous tension, le dossier du pipeline ouest-canadien, la campagne québécoise à l'approche du vote, et un mot sur la tech.</intro>
+
+  <chapitre titre="International">
+    On commence par le vol de FlyDubai qui a frôlé la catastrophe hier entre Dubaï et Tel-Aviv. Selon la BBC, un copilote a poignardé le pilote en plein vol avant de tenter de faire s'écraser l'appareil. Des passagers et des membres d'équipage sont intervenus pour reprendre le contrôle de la situation. Selon la CBC, l'avion a finalement atterri en sécurité en Israël après que des passagers et l'équipage eurent déjoué la tentative. Le National Post rapporte le témoignage d'un passager israélien qui dit avoir aidé à maîtriser l'assaillant. En anglais, je le cite : "I grabbed the attacker." Fin de citation. Selon la BBC, le copilote a été arrêté et interrogé. Le premier ministre israélien Benjamin Netanyahu a affirmé qu'il est trop tôt pour dire si l'Iran est impliqué dans l'incident.
+
+    Toujours en Israël, Le Devoir rapporte le témoignage d'un médecin de Gaza qui dit avoir passé vingt-quatre jours consécutifs les mains menottées et les yeux bandés, après vingt-deux mois d'emprisonnement en Israël.
+
+    Aux États-Unis, une exécution a été interrompue au Tennessee. Selon l'Associated Press, le gouverneur de l'État a suspendu les exécutions après que Christa Gail Pike eut survécu à une tentative d'injection létale. Selon la BBC, l'avocat de la condamnée affirme qu'elle reçoit actuellement des soins pour la maintenir en vie à l'hôpital. La CBC précise que les témoins présents sur place ont rapporté que les autorités n'ont pas réussi à mener à terme l'exécution mercredi, après des heures de délai pendant que les tribunaux étudiaient un appel de dernière minute.
+
+    Ailleurs, selon l'Associated Press, Donald Trump a salué le retrait des troupes américaines d'Irak après une mission de douze ans contre le groupe armé État islamique. Toujours selon l'Associated Press, le secrétaire à la Défense américain Pete Hegseth a annoncé la création d'un nouveau commandement dédié aux drones ainsi que des compressions touchant vingt pour cent des généraux de l'armée américaine, lors d'un discours intitulé « State of the Force ».
+
+    Du côté de la Russie, la BBC rapporte que Vladimir Poutine ne montre aucun signe de vouloir mettre fin à la guerre, alors que Moscou intensifie ses opérations en Ukraine.
+
+    En Nouvelle-Zélande, selon Reuters, le Parlement a été dissous en vue d'un vote serré prévu en novembre.
+  </chapitre>
+
+  <chapitre titre="Politique canadienne">
+    On passe à la politique canadienne, où le dossier du pipeline ouest-canadien atteint une date butoir aujourd'hui. Selon Global News, jeudi marque la date limite pour Ottawa de décider si un projet de pipeline reliant l'Alberta à la côte sud de la Colombie-Britannique sera désigné comme projet d'intérêt national. Le premier ministre Mark Carney et la première ministre albertaine Danielle Smith doivent faire une annonce à Fort McMurray à ce sujet. Toujours selon Radio-Canada, Ottawa reste discret quant à l'effet sur le climat des grands projets annoncés cette semaine par le gouvernement Carney, un dossier combinant projets de gaz naturel liquéfié et de pipeline.
+
+    En parallèle, les tensions commerciales avec Washington continuent de s'envenimer. Selon la CBC, Donald Trump a affirmé mercredi, en marge d'un événement soulignant le mois du patrimoine hispanique, que le Canada reçoit, je le cite : "a little lesson." Fin de citation. Le président américain a qualifié le Canada de, je le cite : "very bad." Fin de citation.
+
+    Du côté des relations avec les Premières Nations, le pays a souligné mercredi la sixième Journée nationale de la vérité et de la réconciliation. Selon Global News, des cérémonies ont eu lieu notamment au parc historique Fort Edmonton. Par ailleurs, selon La Presse, un accident survenu sur le territoire d'une Première Nation en Colombie-Britannique a fait deux morts mercredi, devant un centre commercial au sud de Vancouver, où des membres de la communauté ont chanté et joué du tambour en mémoire des deux aînés tués.
+
+    Sur le plan des finances publiques, le National Post rapporte une étude de l'Institut Fraser selon laquelle les dépenses fédérales destinées aux Autochtones ont quadruplé pour atteindre quarante virgule huit milliards de dollars sous le gouvernement Trudeau, avec une amélioration que l'étude qualifie de négligeable dans les communautés concernées.
+  </chapitre>
+
+  <chapitre titre="Actualité québécoise">
+    On passe à la campagne électorale québécoise, à quatre jours du scrutin du cinq octobre. Selon La Presse, dans sa revue de presse de ce matin, Paul Arcand a souligné qu'il est temps, selon ses mots, que la campagne électorale prenne fin.
+
+    Selon Radio-Canada, une enquête a mis au jour une poursuite judiciaire impliquant un avocat dont le fils, Michel Leblanc, est candidat pour le Parti libéral, cette poursuite étant liée à des fonds associés à la dictature de Duvalier en Haïti et aboutissant à Chambly.
+
+    Toujours selon Radio-Canada, des organismes de la communauté LGBTQ+ interpellent les partis sur leurs engagements concernant la pluriparentalité et les soins d'affirmation de genre. Par ailleurs, Radio-Canada rapporte qu'environ deux mille détenus sont inscrits sur la liste électorale du Québec cette année.
+
+    Le Devoir s'est penché sur la manière dont les cinq chefs des principaux partis ont multiplié les apparitions dans des balados au cours de la dernière année. Selon un chercheur cité par le journal, ce format permet aux chefs de s'exprimer plus longuement que dans une entrevue traditionnelle. Le chef péquiste Paul St-Pierre Plamondon a comparé l'exercice à une entrevue de cinq minutes où, je le cite : "tu te fais couper la parole quatre fois." Fin de citation.
+
+    En marge de la campagne, La Presse rapporte qu'à l'approche de l'hiver, les campements de personnes itinérantes se multiplient et grossissent à Montréal, pas seulement rue Notre-Dame mais un peu partout dans la ville. Trois organismes communautaires demandent que les promesses électorales sur l'itinérance se traduisent rapidement en actions concrètes.
+
+    Enfin, La Presse publie un extrait d'un essai de François Cardinal, vice-président Information et éditeur adjoint du journal, qui y défend l'idée que le journalisme doit être une quête de la vérité plutôt qu'un outil de combat.
+  </chapitre>
+
+  <chapitre titre="Économie et marchés">
+    On passe à l'économie, où le marché obligataire américain continue de dominer l'actualité financière. Selon le Wall Street Journal, le taux des obligations du Trésor américain à dix ans a atteint un sommet en vingt-quatre ans. Le Financial Times précise que ce repli du marché obligataire américain déclenche ce que le journal appelle une boucle vicieuse de ventes.
+
+    Selon Bloomberg, les marchés boursiers asiatiques s'attendent à un départ difficile jeudi, après un renversement de tendance observé aux États-Unis. Reuters rapporte que les marchés boursiers mondiaux ont traversé au troisième trimestre ce que l'agence décrit comme une tempête combinant intelligence artificielle, obligations et pétrole.
+
+    Du côté des matières premières, Bloomberg rapporte que les prix mondiaux des récoltes agricoles connaissent leur plus forte hausse depuis deux mille vingt-deux, ce qui menace selon l'agence de alimenter l'inflation. Reuters précise que le prix du pétrole se stabilise, alors que les exportations du Golfe reprennent et que la diplomatie entre les États-Unis et l'Iran reste au centre de l'attention. Le Financial Times rapporte par ailleurs que l'industrie pétrolière américaine prévient que les prix du diesel ne reviendront pas à la normale avant un an.
+
+    Sur le front macroéconomique, Reuters rapporte que l'inflation américaine a progressé moins que prévu en août, ce qui donne, selon l'agence, une marge de manœuvre à la Réserve fédérale. Le Wall Street Journal note de son côté que les chiffres de croissance et d'inflation montrent des signes d'accélération économique.
+
+    En Chine, selon Bloomberg, le président Xi Jinping a qualifié l'économie chinoise de résiliente et a appelé à poursuivre les efforts pour atteindre les objectifs fixés par Pékin.
+
+    Du côté des entreprises canadiennes, BNN Bloomberg rapporte que les mises à pied chez Stelco soulèvent des questions juridiques concernant les engagements d'emploi pris lors de la prise de contrôle par Cleveland-Cliffs. Toujours selon BNN Bloomberg, les actions de First Quantum ont chuté après la publication d'un rapport recommandant une fermeture ordonnée de l'une de ses mines. Par ailleurs, BNN Bloomberg rapporte que la position de Mark Carney face à Donald Trump alimente des rumeurs voulant qu'il pourrait être nommé personnalité de l'année par le magazine Time, et qu'il pourrait être considéré pour le prix Nobel de la paix.
+
+    Au Québec, le Journal de Montréal rapporte que les magasins de plein air La Cordée fermeront leurs portes, et que la chaîne Starbucks ferme trois cafés à Montréal.
+  </chapitre>
+
+  <chapitre titre="Tech">
+    Un mot sur la tech. Selon TechCrunch, Google a lancé son nouveau modèle Gemini quatre Argon, présenté par l'entreprise comme son modèle le plus puissant à ce jour, destiné notamment aux tâches de programmation et de cybersécurité.
+
+    Du côté de l'adoption de l'intelligence artificielle en entreprise, Reuters rapporte qu'une étude montre que l'adoption de l'IA stagne, les entreprises peinant à faire passer leurs projets à grande échelle malgré des retours sur investissement jugés solides.
+
+    Sur le plan de la sécurité, Reuters rapporte que des agents d'intelligence artificielle ont tenté de pirater un site Web du gouvernement canadien, selon une firme de recherche.
+
+    Du côté des entreprises, le Pentagone a confié à Elon Musk et à Palmer Luckey la direction d'une étude de cent vingt jours sur l'avenir de la guerre, selon TechCrunch, aux côtés de Newt Gingrich. L'article souligne que des critiques pourraient relever que les entreprises de Musk et de Luckey vendent déjà le type de technologies que cette étude pourrait recommander.
+
+    Chez Huawei, selon Reuters, l'entreprise a dévoilé ses nouveaux téléphones Mate quatre-vingt-dix, misant sur une conception de puces développée à l'interne pour contourner les restrictions imposées par les États-Unis.
+
+    Enfin, TechCrunch rapporte que la jeune pousse d'intelligence artificielle Flow Engineering, spécialisée dans la conception de matériel informatique, a obtenu du financement de Valor, Atreides et Sequoia, à une valorisation de sept cent cinquante millions de dollars.
+  </chapitre>
+
+  <chapitre titre="Sport">
+    Rapidement en sport. À Toronto, selon Global News, les Maple Leafs ont battu les Islanders de New York deux à un mercredi soir, portés par le gardien Anthony Stolarz, qui signait sa première victoire avec l'équipe depuis près de onze mois. L'attaquant Easton Cowan a inscrit un but et une mention d'aide dans cette victoire.
+
+    Du côté du baseball, Sportsnet rapporte que les dirigeants des Blue Jays, Ross Atkins et Mark Shapiro, ont présenté publiquement leur bilan de la saison deux mille vingt-six, offrant des concessions sur les ratés de l'équipe mais peu de plans concrets pour la suite.
+  </chapitre>
+
+  <outro>Voilà pour ce Presto du premier octobre deux mille vingt-six. Si ce briefing vous est utile, le meilleur coup de main que vous pouvez nous donner, c'est de le partager à une personne qui aime rester informée. Et selon votre plateforme : un abonnement sur Spotify ou Apple Podcasts, un pouce bleu et un abonnement sur YouTube, ça prend deux secondes et ça aide vraiment Presto à grandir. Sur ce, bonne journée, et à demain.</outro>
+</script>
+```
