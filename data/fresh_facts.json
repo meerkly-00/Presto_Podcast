@@ -1,54 +1,54 @@
 {
-  "generated_at": "2026-10-01T18:42:48.470836+00:00",
+  "generated_at": "2026-10-01T23:00:41.795994+00:00",
   "window_hours": 8,
   "faits": [
     {
-      "sujet": "Géothermie améliorée aux États-Unis",
-      "fait": "Fervo Energy a achevé sa première centrale géothermique améliorée en moins de deux ans. Selon TechCrunch, les phases suivantes promettent une connexion au réseau encore plus rapide."
+      "sujet": "Pipeline Pacific Link projet national",
+      "fait": "Le gouvernement canadien accélère le projet Pacific Link et le déclare projet d'intérêt national. Selon le National Post et Global News, le Premier ministre Mark Carney fast-track ce pipeline pétrolier destiné à diversifier l'économie en réduisant la dépendance aux États-Unis."
     },
     {
-      "sujet": "Pipeline vers la côte Ouest canadienne",
-      "fait": "Le gouvernement fédéral a désigné l'oléoduc vers la Colombie-Britannique comme premier projet d'intérêt national, selon Radio-Canada. Le projet, appelé Pacific Link, aura un coût estimé entre 35 et 44 milliards de dollars, avec le Canada et l'Alberta copropriétaires à parts égales et une participation minimale de 10% aux communautés autochtones."
+      "sujet": "Menaces de mort contre Carney",
+      "fait": "Un homme de 44 ans d'Edmonton a été accusé de menaces de mort contre le Premier ministre Mark Carney. Selon la GRC et CBC, les actions criminelles en ligne ont des conséquences dans le monde réel."
     },
     {
-      "sujet": "Coûts du TGV Alto au Québec",
-      "fait": "La Directrice parlementaire du budget estime que le TGV d'Alto coûterait entre 75 et 113 milliards de dollars, selon Radio-Canada. Cette estimation dépasse celle d'Ottawa, qui prévoit des coûts entre 60 et 90 milliards."
+      "sujet": "Consultation autochtone pipeline",
+      "fait": "Les groupes autochtones disposent de seulement 2 mois pour consulter sur la désignation du pipeline Pacific Link. Selon Global News, le gouvernement prévoit de compléter les consultations sur le projet lui-même au cours de la prochaine année."
     },
     {
-      "sujet": "Problèmes structurels au CHSLD de Matane",
-      "fait": "L'accès à une grande partie du terrain du Centre d'hébergement de Matane a été condamné jeudi en raison d'un sol instable, selon La Presse. La structure du bâtiment accueillant une centaine de résidents n'est pas menacée, mais Santé Québec a ordonné des investigations supplémentaires."
+      "sujet": "Exécution manquée Christa Pike",
+      "fait": "Christa Pike est en condition critique après avoir survécu à deux injections létales en Tennessee. Selon BBC World et AP News, ses avocats demandent que sa peine de mort soit commutée suite à l'exécution ratée."
     },
     {
-      "sujet": "Décès du cofondateur de la Saskatchewan Party",
-      "fait": "Ken Krawetz, cofondateur de la Saskatchewan Party et défenseur de la communauté ukrainienne, est décédé à 75 ans, selon Global News."
+      "sujet": "Rendement obligations américaines",
+      "fait": "Les rendements des bons du Trésor américain atteignent un pic de 24 ans. Selon Reuters, la débâcle mondiale des obligations s'approfondit."
     },
     {
-      "sujet": "Incident du vol FlyDubai",
-      "fait": "Le premier ministre israélien Netanyahu a déclaré que le pilote qui a tenté de prendre le contrôle du vol FlyDubai avait subi une 'radicalisation islamiste' et visait à faire s'écraser l'avion, selon la BBC."
+      "sujet": "Accessibilité logements Canada",
+      "fait": "La Banque du Canada déclare que le pays n'est pas proche de rétablir l'accessibilité au logement. Selon Reuters, la crise du logement persiste."
     },
     {
-      "sujet": "Licenciements liés aux tarifs aux États-Unis",
-      "fait": "Stelco procède à des mises à pied liées aux tarifs, selon National Post. Le premier ministre de l'Ontario Doug Ford maintient sa retenue face à cette situation."
+      "sujet": "Caméra intelligente Apple sans vidéo",
+      "fait": "Apple développerait une caméra de maison intelligente qui ne enregistre pas de vidéo, mais fournit plutôt des descriptions textuelles des événements. Selon The Verge, cette caméra ferait partie d'un nouvel écosystème domotique Apple."
     },
     {
-      "sujet": "OpenAI et sécurité des données",
-      "fait": "OpenAI a rompu ses relations avec trois chercheurs en sécurité après une enquête interne révélant un mauvais traitement d'informations sensibles de l'entreprise, selon TechCrunch."
+      "sujet": "Règlement Lyft classification conducteurs",
+      "fait": "Lyft paie 272,5 millions de dollars pour résoudre un procès concernant la classification des conducteurs. Selon TechCrunch, ce règlement clôt un litige en suspens depuis 2020."
     },
     {
-      "sujet": "Menaces russes concernant Kaliningrad",
-      "fait": "Le président Vladimir Poutine a averti que la Russie était prête à utiliser chaque arme pour protéger Kaliningrad, selon la BBC. Poutine a affirmé que Moscou ne menaçait personne et ne faisait que répondre aux déclarations des dirigeants occidentaux."
+      "sujet": "Financement Armadin sécurité IA",
+      "fait": "La startup Armadin de Kevin Mandia lève 255,5 millions de dollars à une évaluation de 2,5 milliards. Selon TechCrunch, la compagnie utilise des essaims d'agents IA pour tester et protéger les entreprises."
     },
     {
-      "sujet": "Jugement sur les AI Overviews de Google",
-      "fait": "Un juge fédéral a rejeté les poursuites antimonopole déposées par Chegg et Penske Media contre Google concernant ses AI Overviews, selon The Verge. Le juge Amit Mehta a estimé que les réclamations ne tenaient pas selon la loi antitrust."
+      "sujet": "Centres de données demande électricité Québec",
+      "fait": "Les centres de données inondent Québec de demandes d'électricité liées à l'IA, même avec la hausse tarifaire prévue par Hydro-Québec. Selon Radio-Canada, l'appétit de l'industrie demeure immense."
     },
     {
-      "sujet": "IA et jeu de stratégie Stratego",
-      "fait": "Une équipe de chercheurs de Carnegie Mellon, MIT, NYU et Stanford a créé Ataraxos, une IA qui a battu le meilleur joueur de Stratego du monde 15 à 1 avec 4 matchs nuls, selon Ars Technica. L'entraînement a nécessité seulement 16 GPU et quelques milliers de dollars."
+      "sujet": "Piratage agences fédérales américaines",
+      "fait": "Le Pentagone informe 2,8 millions de militaires actuels et anciens que leurs dossiers personnels ont été volés lors d'une compromission du Defence Manpower Data Center. Selon Ars Technica, le vol inclut numéros de sécurité sociale, noms, adresses et spécialités professionnelles."
     },
     {
-      "sujet": "Technologie PS5 d'upscaling IA",
-      "fait": "Sony lance Quick Spectral Super Resolution (QSSR) pour la PS5 standard, une nouvelle technologie d'upscaling IA résultant du projet Amethyst avec AMD, selon The Verge. La PSSR sur PS5 Pro reste le standard supérieur."
+      "sujet": "Cas Ebola suspecté Montréal",
+      "fait": "Une personne potentiellement atteinte du virus Ebola est évaluée au Centre hospitalier de l'Université de Montréal. Selon La Presse, l'évaluation est en cours."
     }
   ]
 }
