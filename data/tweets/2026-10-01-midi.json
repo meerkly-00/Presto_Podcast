@@ -1,0 +1,14 @@
+{
+  "date": "2026-10-01",
+  "kind": "poll",
+  "text": "Ce matin → Un copilote a poignardé le pilote en vol sur FlyDubai; des passagers ont maîtrisé l'assaillant.\n\nNouveau → Netanyahu affirme que l'assaillant visait à faire s'écraser l'avion\n\nComment devraient être traitées les enquêtes sur la motivation des actes de violence en vol?",
+  "poll": {
+    "options": [
+      "Priorité aux faits",
+      "Examiner tous les",
+      "Laisser les autorités",
+      "Attendre des preuves"
+    ],
+    "duration_minutes": 1440
+  }
+}
