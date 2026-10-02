@@ -1,54 +1,54 @@
 {
-  "generated_at": "2026-10-01T23:00:41.795994+00:00",
+  "generated_at": "2026-10-02T18:13:32.481623+00:00",
   "window_hours": 8,
   "faits": [
     {
-      "sujet": "Pipeline Pacific Link projet national",
-      "fait": "Le gouvernement canadien accélère le projet Pacific Link et le déclare projet d'intérêt national. Selon le National Post et Global News, le Premier ministre Mark Carney fast-track ce pipeline pétrolier destiné à diversifier l'économie en réduisant la dépendance aux États-Unis."
+      "sujet": "Sécurité macOS et agents IA",
+      "fait": "Apple annonce le renforcement des contrôles d'accès disque complet sur macOS en raison des risques posés par les agents IA de plus en plus puissants. Selon TechCrunch, la mesure vise à limiter l'accès aux fichiers, messages, courriels et historique de navigation."
     },
     {
-      "sujet": "Menaces de mort contre Carney",
-      "fait": "Un homme de 44 ans d'Edmonton a été accusé de menaces de mort contre le Premier ministre Mark Carney. Selon la GRC et CBC, les actions criminelles en ligne ont des conséquences dans le monde réel."
+      "sujet": "Plateforme d'agents IA OpenAI",
+      "fait": "OpenAI a lancé sa plateforme d'agents appelée Dots, dotée d'avatars anthropomorphes personnalisables et capable d'effectuer des tâches professionnelles et pratiques comme commander de la nourriture. Selon The Verge, les utilisateurs peuvent actuellement disposer d'un seul agent."
     },
     {
-      "sujet": "Consultation autochtone pipeline",
-      "fait": "Les groupes autochtones disposent de seulement 2 mois pour consulter sur la désignation du pipeline Pacific Link. Selon Global News, le gouvernement prévoit de compléter les consultations sur le projet lui-même au cours de la prochaine année."
+      "sujet": "Réserves pétrolières mondiales",
+      "fait": "Les nations du G7 ont convenu de libérer 100 millions de barils de pétrole et de diesel, le diesel devant être libéré en quantité substantielle au cours des 20 premiers jours. Selon CBC, cette libération intervient face à une pénurie énergétique mondiale causée par les affrontements au Moyen-Orient."
     },
     {
-      "sujet": "Exécution manquée Christa Pike",
-      "fait": "Christa Pike est en condition critique après avoir survécu à deux injections létales en Tennessee. Selon BBC World et AP News, ses avocats demandent que sa peine de mort soit commutée suite à l'exécution ratée."
+      "sujet": "Rebranding de l'IA par Washington",
+      "fait": "La Maison Blanche a publié un décret présidentiel rebaptisant officiellement l'IA en 'super intelligence'. Selon TechCrunch, le président Trump a également convoqué les principaux PDG technologiques pour signer un engagement en faveur de la sécurité de l'IA qu'il a qualifié de 'moralement contraignant'."
     },
     {
-      "sujet": "Rendement obligations américaines",
-      "fait": "Les rendements des bons du Trésor américain atteignent un pic de 24 ans. Selon Reuters, la débâcle mondiale des obligations s'approfondit."
+      "sujet": "Augmentation des prix Beehiiv",
+      "fait": "Beehiiv augmente ses tarifs, le plan Scale (renommé Lite) passant à 139 dollars par mois pour les comptes de 10 000 abonnés, contre 109 auparavant. Selon The Verge, le plan Pro (anciennement Max) coûtera 239 dollars par mois, et de nombreux utilisateurs expriment leur mécontentement."
     },
     {
-      "sujet": "Accessibilité logements Canada",
-      "fait": "La Banque du Canada déclare que le pays n'est pas proche de rétablir l'accessibilité au logement. Selon Reuters, la crise du logement persiste."
+      "sujet": "Production Rivian en hausse",
+      "fait": "Rivian a produit 19 751 véhicules et livré 19 248 unités au troisième trimestre, représentant une augmentation de 85% en production et 45% en livraisons d'une année sur l'autre. Selon The Verge, l'entreprise maintient sa prévision annuelle de 65 000 à 70 000 livraisons pour 2026."
     },
     {
-      "sujet": "Caméra intelligente Apple sans vidéo",
-      "fait": "Apple développerait une caméra de maison intelligente qui ne enregistre pas de vidéo, mais fournit plutôt des descriptions textuelles des événements. Selon The Verge, cette caméra ferait partie d'un nouvel écosystème domotique Apple."
+      "sujet": "Élections au Québec participation anticipée",
+      "fait": "25,59% des électeurs du Québec ont voté par anticipation avant le jour des élections. Selon Radio-Canada, ce résultat constitue une participation record au vote par anticipation."
     },
     {
-      "sujet": "Règlement Lyft classification conducteurs",
-      "fait": "Lyft paie 272,5 millions de dollars pour résoudre un procès concernant la classification des conducteurs. Selon TechCrunch, ce règlement clôt un litige en suspens depuis 2020."
+      "sujet": "Grève à la Ville de Montréal",
+      "fait": "Environ 3 000 professionnels travaillant pour la Ville de Montréal déclencheront une grève les soirs, nuits et les fins de semaine à partir du 19 octobre. Selon La Presse, ce débrayage suit une journée de grève précédente le 30 mars."
     },
     {
-      "sujet": "Financement Armadin sécurité IA",
-      "fait": "La startup Armadin de Kevin Mandia lève 255,5 millions de dollars à une évaluation de 2,5 milliards. Selon TechCrunch, la compagnie utilise des essaims d'agents IA pour tester et protéger les entreprises."
+      "sujet": "Failles de sécurité Kingston Police",
+      "fait": "Un pirate a utilisé des identifiants de compte compromis pour accéder aux systèmes internes de la police de Kingston, extrayant environ 160 GB de données. Selon Global News, le risque de fuite d'informations est évalué comme 'faible'."
     },
     {
-      "sujet": "Centres de données demande électricité Québec",
-      "fait": "Les centres de données inondent Québec de demandes d'électricité liées à l'IA, même avec la hausse tarifaire prévue par Hydro-Québec. Selon Radio-Canada, l'appétit de l'industrie demeure immense."
+      "sujet": "Enquête en Université Cornell",
+      "fait": "La gouverneure de New York Kathy Hochul a nommé un procureur spécial pour enquêter sur des allégations de viol datant de 2024 impliquant sept étudiants. Selon Al Jazeera, Hochul a déclaré que les autorités locales n'ont pas mené une enquête adéquate."
     },
     {
-      "sujet": "Piratage agences fédérales américaines",
-      "fait": "Le Pentagone informe 2,8 millions de militaires actuels et anciens que leurs dossiers personnels ont été volés lors d'une compromission du Defence Manpower Data Center. Selon Ars Technica, le vol inclut numéros de sécurité sociale, noms, adresses et spécialités professionnelles."
+      "sujet": "Accord de sécurité États-Unis Corée du Sud",
+      "fait": "Le président Trump annonce qu'un accord avec la Corée du Sud inclut 8,4 milliards de dollars pour la récupération de pétrole. Selon Reuters, les détails spécifiques de cette allocation ne sont pas fournis dans le rapport."
     },
     {
-      "sujet": "Cas Ebola suspecté Montréal",
-      "fait": "Une personne potentiellement atteinte du virus Ebola est évaluée au Centre hospitalier de l'Université de Montréal. Selon La Presse, l'évaluation est en cours."
+      "sujet": "Cybercriminalité transfrontalière",
+      "fait": "Cinq ressortissants étrangers ont été inculpés pour crimes liés à l'extorsion dans le cadre de l'Opération E_PURSUANCE. Selon Global News, quatre hommes ont été arrêtés à Surrey le jeudi et un homme résidant en Inde a été arrêté à l'aéroport Pearson de Toronto."
     }
   ]
 }
