@@ -1,0 +1,14 @@
+{
+  "date": "2026-10-02",
+  "kind": "poll",
+  "text": "Ce matin → Le G7 convient de libérer 100 millions de barils de pétrole et diesel face à la pénurie énergétique.\n\nNouveau : Trump annonce que l'Europe a accepté de libérer une « quantité\n\nCrois-tu que libérer les réserves pétrolières aide à résoudre la pénurie énergétique?",
+  "poll": {
+    "options": [
+      "Oui, c'est une solution",
+      "Oui, mais c'est",
+      "Non, il faut d'autres",
+      "Pas assez d'info pour"
+    ],
+    "duration_minutes": 1440
+  }
+}
