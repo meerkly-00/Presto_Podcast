@@ -1,0 +1,79 @@
+```xml
+<script>
+  <intro>Bonjour, on est le samedi trois octobre deux mille vingt-six. Voici votre Presto en environ quinze minutes. Au menu : l'attaque à bord du vol FlyDubai et les nouvelles frappes russes sur Kyiv, la campagne électorale québécoise à son dernier jour avant le vote, la décision du G7 sur les réserves de pétrole, l'emploi américain qui déçoit, et un mot sur l'intelligence artificielle, autant à Ottawa que chez Apple et Meta.</intro>
+
+  <chapitre titre="International">
+    On commence avec les suites de l'attaque à bord du vol FlyDubai entre Dubaï et Tel-Aviv. Selon la BBC, un responsable émirati confirme que le copilote a attaqué le pilote à la hache, et non seulement au couteau comme on le croyait initialement. L'homme est identifié par plusieurs médias comme Hamam al-Hammami. Selon Al Jazeera, ce dernier aurait déjà été interdit de vol à Oman en raison de préoccupations liées à des opinions extrémistes.
+
+    En Ukraine, selon la BBC, la Russie a frappé un deuxième pont majeur à Kyiv. Le maire de la ville rapporte que le pont Nord a été touché, après des attaques répétées ces derniers jours contre un autre pont important de la capitale.
+
+    Au Moyen-Orient, selon Al Jazeera, l'armée yéménite affirme avoir infligé plus de mille cinq cents pertes aux Houthis au cours des dernières vingt-quatre heures. Les forces gouvernementales ont fermé un point de passage clé reliant un secteur tenu par les Houthis à la ville de Taëz, sous contrôle gouvernemental.
+
+    En Europe, les bureaux de vote sont ouverts en Lettonie, selon Al Jazeera, dans un climat marqué par la perception d'une menace russe. Le pays ne devrait pas dévier de sa trajectoire pro-européenne et pro-Ukraine, mais les négociations pour former une coalition pourraient s'avérer complexes.
+
+    Ailleurs, selon le National Post, deux ressortissants iraniens ont été accusés par la police britannique d'avoir planifié un attentat contre la communauté juive de Manchester.
+
+    Un mot également sur une affaire qui retient l'attention aux États-Unis. Selon Reuters et la BBC, Christa Pike, reconnue coupable du meurtre d'une camarade de classe en mille neuf cent quatre-vingt-quinze alors qu'elle avait dix-huit ans, est inconsciente et sous respirateur après l'échec d'une tentative d'exécution par injection létale au Tennessee cette semaine. Selon CBC, ses avocats précisent qu'elle est toujours dans un état critique, traitée dans un hôpital de Nashville.
+  </chapitre>
+
+  <chapitre titre="Actualité québécoise">
+    On passe à la campagne électorale québécoise, à la veille du scrutin du cinq octobre. Selon Radio-Canada, en trente-sept jours de campagne, les chefs de parti ont visité les dix-sept régions administratives du Québec, cent trois des cent vingt-sept circonscriptions et cent quarante-neuf municipalités.
+
+    Selon Le Devoir, les régions du Centre-du-Québec, de la Mauricie et de la Capitale-Nationale pourraient s'avérer déterminantes le jour du vote.
+
+    Toujours dans cette campagne, selon La Presse, la députée caquiste sortante Alice Abou-Khalil a mis en demeure Cogeco et son ex-chroniqueur Jonathan Trudeau au sujet de l'affaire dite des "brownies" au Parti libéral du Québec, dont l'existence n'a pas été prouvée. Elle affirme avoir été faussement associée à cette controverse et exige un demi-million de dollars ainsi qu'une rétractation publique.
+
+    Par ailleurs, selon La Presse, un policier de la Sûreté du Québec accusé d'avoir agressé sexuellement une femme intoxiquée par l'alcool se dit victime d'une injustice. Il nie toute agression et affirme avoir répondu à des avances de la plaignante.
+
+    Enfin, selon La Presse, des enquêteurs ont retrouvé une personne morte dans une résidence de Québec vendredi matin, alors qu'ils s'apprêtaient à effectuer une perquisition dans le cadre d'une enquête.
+  </chapitre>
+
+  <chapitre titre="Politique canadienne">
+    Du côté d'Ottawa, selon le National Post, le premier ministre Mark Carney a lancé un nouveau conseil national de treize membres chargé de le conseiller sur l'intelligence artificielle. L'objectif affiché est d'orienter une politique responsable face à une technologie que certains considèrent comme une menace existentielle pour l'humanité.
+
+    Selon CBC, le Canada a remporté ce que le réseau qualifie de victoire sur le terrain laitier en sol américain. Au World Dairy Expo du Wisconsin, les tensions politiques entre le Canada et les États-Unis sont mises de côté le temps de l'événement, même si CBC a recueilli les propos d'Américains qui portent un regard critique sur la guerre commerciale de l'administration Trump.
+
+    Selon le National Post, deux soldats de Toronto ont été écartés de leurs fonctions militaires après leur arrestation en août dernier pour des accusations liées au crime organisé, à l'enlèvement et au vol d'armes.
+
+    Toujours selon CBC, les gouvernements fédéral et provinciaux avaient misé des milliards de dollars sur l'essor rapide de l'industrie des véhicules électriques. Plusieurs projets majeurs en Ontario, au Québec et en Colombie-Britannique ont depuis été retardés, annulés, suspendus ou substantiellement modifiés, et l'un d'entre eux a fait faillite, alors que les constructeurs ajustent leurs attentes face à une demande plus faible que prévu.
+  </chapitre>
+
+  <chapitre titre="Économie et marchés">
+    On passe à l'économie, où deux nouvelles dominent : l'emploi américain et la réponse du G7 à la flambée des prix de l'énergie.
+
+    Selon le Financial Times et BNN Bloomberg, l'économie américaine n'a ajouté que vingt-neuf mille emplois en septembre, un chiffre jugé décevant, alors que le taux de chômage est passé à quatre virgule deux pour cent. Le Financial Times parle d'un ralentissement marqué de l'embauche.
+
+    Selon Reuters, les marchés obligataires mondiaux continuent de dicter le ton, les actions mondiales ayant progressé alors que le dégagement sur le marché obligataire s'apaisait avant la publication de ces chiffres de l'emploi. Le Financial Times souligne de son côté que les obligations du Trésor américain sont en train, je le cite : "losing their moneyness". Fin de citation.
+
+    Sur le front de l'énergie, selon la BBC et CBC, les pays du G7 ont convenu de libérer cent millions de barils de pétrole et de diesel, une décision prise sous la pression de Donald Trump. Selon CBC, cette libération commencera immédiatement et s'échelonnera sur quatre mois, avec une portion substantielle du diesel livrée dans les vingt premiers jours. Al Jazeera rapporte que les prix mondiaux de l'énergie ont flambé en raison de la guerre entre les États-Unis, Israël et l'Iran, ainsi que de la guerre entre la Russie et l'Ukraine. La question posée par Al Jazeera demeure ouverte : cette libération de réserves suffira-t-elle à freiner la hausse des prix ?
+
+    Du côté des entreprises, selon Reuters, Tesla voit son secteur automobile renouer avec la croissance, les livraisons ayant dépassé les prévisions des analystes.
+
+    Autre nouvelle notable dans la finance : selon Bloomberg, la firme Blue Owl a de nouveau plafonné les rachats sur deux de ses fonds de développement des affaires, après avoir reçu des demandes de retrait representant trente-neuf pour cent et dix-sept pour cent des avoirs.
+
+    Enfin, selon Reuters, le prospectus déposé par Anthropic en vue de son premier appel public à l'épargne avertit que l'attitude de certains gouvernements pourrait nuire à ses relations avec sa clientèle.
+  </chapitre>
+
+  <chapitre titre="Tech">
+    Un mot sur la tech, où la controverse autour de l'intelligence artificielle de Meta continue de faire des vagues. Selon The Verge et Ars Technica, Apple a annoncé qu'elle allait resserrer les permissions d'accès complet au disque sur macOS afin de limiter les abus par des agents d'intelligence artificielle. Cette décision survient après qu'un chroniqueur technologique eut rapporté que l'agent Muse de Meta lui avait envoyé une notification faisant référence à une conversation privée sur l'application Messages d'Apple, sans qu'il ait explicitement autorisé cet accès. Selon Reuters, Apple précise qu'elle signalera désormais les demandes d'accès aux données faites par des applications d'intelligence artificielle. De son côté, le directeur technique de Meta a défendu l'entreprise, affirmant que l'accès aux Messages exige deux autorisations manuelles distinctes de la part de l'utilisateur.
+
+    Toujours chez Meta, selon TechCrunch et The Verge, l'entreprise a rendu public le code permettant de fabriquer ses propres gadgets intégrant Muse, que ce soit sur un écran à encre électronique, une clé HDMI ou un petit écran tactile.
+
+    Du côté d'Amazon, selon Ars Technica, l'entreprise s'est engagée à verser plus d'un milliard de dollars au cours des cinq prochaines années aux communautés voisines de ses centres de données, afin notamment de financer l'éducation, la formation professionnelle et l'accès à l'eau. Amazon affirme vouloir devenir, je le cite : "water positive" d'ici deux mille trente. Fin de citation. Ars Technica note que cet engagement a tout de même suscité de nouvelles critiques.
+
+    Enfin, selon TechCrunch, l'investisseur Sean Parker travaille à redéfinir Stability AI autour de la musique, cette fois avec l'appui des maisons de disques.
+  </chapitre>
+
+  <chapitre titre="Sport">
+    Rapidement en sport. Selon Associated Press, le propriétaire des 49ers de San Francisco, Jed York, a été suspendu pour six matchs après son arrestation dans le cadre d'une opération policière liée à la prostitution.
+
+    En football canadien, selon Global News, les Stampeders de Calgary ont poursuivi leur bonne séquence en battant les Roughriders de la Saskatchewan trente-sept à trente et un vendredi.
+
+    Du côté de la Ligue nationale de hockey, selon Global News, les Jets de Winnipeg ont entamé leur saison avec une défaite de quatre à trois en prolongation contre Boston. Mario Ferraro a marqué lors de ses débuts avec les Jets, mais Boston est revenu de l'arrière avant que JJ Paterka ne tranche en surtemps.
+
+    Enfin, selon CBC, le réseau CBS Sports et l'analyste Tony Romo se sont officiellement séparés, un mois après que l'ancien quart-arrière des Cowboys de Dallas eut plaidé coupable à des accusations de conduite avec facultés affaiblies.
+  </chapitre>
+
+  <outro>Voilà pour ce Presto du samedi trois octobre deux mille vingt-six. Si ce briefing vous est utile, le meilleur coup de main que vous pouvez nous donner, c'est de le partager à une personne qui aime rester informée. Et selon votre plateforme : un abonnement sur Spotify ou Apple Podcasts, un pouce bleu et un abonnement sur YouTube, ça prend deux secondes et ça aide vraiment Presto à grandir. Sur ce, bonne journée, et à demain.</outro>
+</script>
+```
