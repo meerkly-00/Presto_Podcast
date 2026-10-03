@@ -1,50 +1,54 @@
 {
-  "generated_at": "2026-10-03T17:01:28.125252+00:00",
+  "generated_at": "2026-10-03T21:59:44.565530+00:00",
   "window_hours": 8,
   "faits": [
     {
-      "sujet": "Exécution ratée Christa Pike Tennessee",
-      "fait": "Christa Pike a survécu à deux injections létales mercredi et se trouve actuellement en état critique à l'hôpital. Le directeur des prisons du Tennessee doit démissionner suite à cet incident, selon la BBC World et CBC World."
+      "sujet": "Avion médical disparu au large des États-Unis",
+      "fait": "Un avion de transport médical avec 6 personnes à bord, dont 4 Canadiens, a perdu contact avec les contrôleurs aériens après une chute significative d'altitude au large de la côte du Massachusetts. Selon la BBC World et Radio-Canada, la garde côtière américaine a lancé une opération de recherche et sauvetage."
     },
     {
-      "sujet": "Capcom développement IA jeux vidéo",
-      "fait": "Lors de la Capcom Open Conference RE: 2026, le programmeur Satoshi Ishida a présenté l'intégration de la technologie IA dans les flux de développement pour améliorer la production de jeux à grande échelle, selon The Verge."
+      "sujet": "Exécution ratée de Christa Pike en Tennessee",
+      "fait": "Le chef du système carcéral du Tennessee démissionne suite à l'échec de l'exécution par injection létale de Christa Pike, qui demeure hospitalisée en état critique. Selon BBC World et Reuters, cet événement a déclenché le premier grand remaniement de direction depuis l'incident."
     },
     {
-      "sujet": "Employé sécurité OpenAI démissionne",
-      "fait": "David Robinson, ancien rédacteur de rapports de sécurité pour OpenAI, a démissionné et affirme que la culture de l'entreprise est brisée, selon TechCrunch."
+      "sujet": "Élection québécoise à 48 heures du vote",
+      "fait": "À deux jours du scrutin du 5 octobre 2026, les chefs de partis québécois lancent leurs derniers arguments auprès des électeurs indécis en abordant les enjeux du référendum, l'austérité et l'autonomie. D'après Radio-Canada, la campagne entre dans sa phase finale."
     },
     {
-      "sujet": "Attaque co-pilote Flydubai axe",
-      "fait": "Le co-pilote d'un vol Flydubai nommé Hamam al-Hammami a attaqué le capitaine avec une hache sur un vol en direction d'Israël. Il avait auparavant été signalé pour préoccupations concernant des opinions extrémistes, selon BBC World et Global News."
+      "sujet": "Trump promeut l'heure d'été permanente aux États-Unis",
+      "fait": "Le président américain fait pression sur les républicains pour abolir le changement d'heure semestriel en publiant le numéro de téléphone d'un législateur. Selon Al Jazeera, Trump demande l'adoption d'une loi rendant l'heure d'été permanente."
     },
     {
-      "sujet": "Frappes russes pont Kyiv",
-      "fait": "La Russie a frappé le pont Pivnichnyi (Northern) à Kyiv, poursuivant ses attaques massives répétées sur les ponts de la capitale ukrainienne, selon BBC World."
+      "sujet": "Frappés de nouveaux ponts à Kyiv par la Russie",
+      "fait": "La Russie frappe le pont Pivnichnyi (Northern) à Kyiv, après des attaques répétées contre un autre pont majeur de la capitale. Selon BBC World, la Russie s'engage à poursuivre les frappes massives et demande aux diplomates étrangers de quitter la ville."
     },
     {
-      "sujet": "Élection Brésil Lula Bolsonaro",
-      "fait": "Lula et Flavio Bolsonaro terminent leur campagne avec des rassemblements à São Paulo samedi avant le scrutin. Les sondages indiquent que les deux candidats sont au coude à coude, rendant probable un second tour le 25 octobre, selon Le Devoir."
+      "sujet": "Démission d'un employé en sécurité chez OpenAI",
+      "fait": "David Robinson, ancien responsable des rapports de sécurité chez OpenAI, démissionne et publie une tribune dans The Atlantic critiquant une culture d'entreprise 'fondamentalement brisée'. D'après TechCrunch et The Verge, il dénonce des problèmes structurels au-delà de simples régulations."
     },
     {
-      "sujet": "Manifestations Espagne crise logement",
-      "fait": "Plus de 50 manifestations ont eu lieu samedi en Espagne après que le gouvernement n'ait pas réussi à faire passer une législation d'urgence au parlement concernant la crise du logement, selon BBC World et Radio-Canada."
+      "sujet": "Jugement fédéral contre la surveillance Flock",
+      "fait": "Un juge fédéral américain déclare que l'utilisation du système Flock par un policier pour rechercher une plaque d'immatriculation sans mandat viole le quatrième amendement. Selon TechCrunch, le juge qualifie Flock de 'surveillance de masse indiscriminée'."
     },
     {
-      "sujet": "Somalie base navale Israël",
-      "fait": "Le président Hassan Sheikh Mohamud a déclaré à Al Jazeera que la Somalie n'accepterait pas la présence israélienne 'sous aucune circonstance' et a affirmé qu'Israël planifierait une base navale à Berbera."
+      "sujet": "Données sur les drogues illicites en Saskatchewan",
+      "fait": "Prince Albert, en Saskatchewan, enregistre les plus hauts niveaux de méthamphétamine et de cocaïne dans ses eaux usées entre janvier 2024 et mars 2026. D'après Global News et Statistique Canada, cette ville dépasse toutes les autres au Canada sur cet indicateur."
     },
     {
-      "sujet": "Application Bitchat Jack Dorsey Inde",
-      "fait": "L'application Bitchat de Jack Dorsey a disparu des app stores en Inde suite à un ordre gouvernemental, selon TechCrunch."
+      "sujet": "Garantie de réparation gratuite au Québec à partir de lundi",
+      "fait": "À partir du lundi 6 octobre 2026, il devient possible de faire réparer gratuitement certains produits électroniques vendus au Québec en vertu d'une nouvelle 'garantie de bon fonctionnement'. Le Devoir propose un guide pour cette réglementation."
     },
     {
-      "sujet": "Ambulance aérienne disparue Canadiens",
-      "fait": "Une ambulance aérienne basée en Ontario transportant 4 Canadiens a disparu au large des États-Unis. La garde côtière américaine a émis une alerte de recherche et sauvetage pour un Gulfstream G-100 samedi matin, selon Radio-Canada et Global News."
+      "sujet": "Application Bitchat supprimée en Inde",
+      "fait": "L'application Bitchat de Jack Dorsey disparaît des app stores en Inde suite à un ordre gouvernemental. Selon TechCrunch, l'application est devenue largement indisponible dans le pays."
     },
     {
-      "sujet": "Élections Québec PQ campagne",
-      "fait": "Le chef péquiste dévoile son plan pour les 100 premiers jours, avec comme priorités l'immigration, le coût de la vie et l'itinérance, selon Radio-Canada."
+      "sujet": "Enquête sur le co-pilote de FlyDubai au comportement violent",
+      "fait": "Un co-pilote de FlyDubai armé d'une hache avait auparavant été signalé pour des préoccupations liées à l'extrémisme. D'après l'Associated Press, cet incident révèle des antécédents d'alerte sur ce personnel."
+    },
+    {
+      "sujet": "Décès de Milt Windler, directeur de mission NASA Apollo 13",
+      "fait": "Milt Windler, l'un des quatre chefs du contrôle de mission qui a dirigé les efforts pour ramener les astronautes d'Apollo 13 en 1970, décède à l'âge de 94 ans. Selon Ars Technica, il avait aussi dirigé les opérations d'Apollo 8, 10, 12, 14, 15 et des missions Skylab."
     }
   ]
 }
