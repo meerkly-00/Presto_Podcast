@@ -1,42 +1,50 @@
 {
-  "generated_at": "2026-10-02T22:49:44.978305+00:00",
+  "generated_at": "2026-10-03T17:01:28.125252+00:00",
   "window_hours": 8,
   "faits": [
     {
-      "sujet": "Réforme du droit du travail canadien",
-      "fait": "Selon Al Jazeera, les syndicats canadiens s'opposent aux changements proposés par le gouvernement Carney aux lois du travail, affirmant qu'ils pourraient affaiblir le droit de grève des travailleurs."
+      "sujet": "Exécution ratée Christa Pike Tennessee",
+      "fait": "Christa Pike a survécu à deux injections létales mercredi et se trouve actuellement en état critique à l'hôpital. Le directeur des prisons du Tennessee doit démissionner suite à cet incident, selon la BBC World et CBC World."
     },
     {
-      "sujet": "Conseil national sur l'IA au Canada",
-      "fait": "Selon Radio-Canada, le gouvernement Carney a lancé un nouveau Conseil sur l'IA regroupant 13 experts du secteur public et privé, dont le Québécois Yoshua Bengio."
+      "sujet": "Capcom développement IA jeux vidéo",
+      "fait": "Lors de la Capcom Open Conference RE: 2026, le programmeur Satoshi Ishida a présenté l'intégration de la technologie IA dans les flux de développement pour améliorer la production de jeux à grande échelle, selon The Verge."
     },
     {
-      "sujet": "Panne du service 911 au Canada",
-      "fait": "Selon CBC, une panne de 911 ayant duré près d'une heure et demie dans plusieurs provinces canadiennes en septembre était causée par un bug précédemment non détecté dans le logiciel de Bell."
+      "sujet": "Employé sécurité OpenAI démissionne",
+      "fait": "David Robinson, ancien rédacteur de rapports de sécurité pour OpenAI, a démissionné et affirme que la culture de l'entreprise est brisée, selon TechCrunch."
     },
     {
-      "sujet": "Promotion de Michael J. Fox",
-      "fait": "Selon La Presse et CBC, l'acteur Michael J. Fox a été promu au rang de Compagnon de l'Ordre du Canada vendredi pour son engagement en tant que militant contre la maladie de Parkinson."
+      "sujet": "Attaque co-pilote Flydubai axe",
+      "fait": "Le co-pilote d'un vol Flydubai nommé Hamam al-Hammami a attaqué le capitaine avec une hache sur un vol en direction d'Israël. Il avait auparavant été signalé pour préoccupations concernant des opinions extrémistes, selon BBC World et Global News."
     },
     {
-      "sujet": "Militaires torontois arrêtés pour crimes organisés",
-      "fait": "Selon le National Post, deux soldats de Toronto ont été retirés de leurs fonctions militaires et interdits d'accès à leur base depuis leur arrestation en août pour accusations liées au crime organisé, enlèvement et vol d'armes."
+      "sujet": "Frappes russes pont Kyiv",
+      "fait": "La Russie a frappé le pont Pivnichnyi (Northern) à Kyiv, poursuivant ses attaques massives répétées sur les ponts de la capitale ukrainienne, selon BBC World."
     },
     {
-      "sujet": "Engagement d'Amazon envers les communautés",
-      "fait": "Selon Ars Technica, Amazon s'engage à verser plus d'un milliard de dollars sur cinq ans aux communautés voisines de ses centres de données et promet d'être « positif en eau » d'ici 2030."
+      "sujet": "Élection Brésil Lula Bolsonaro",
+      "fait": "Lula et Flavio Bolsonaro terminent leur campagne avec des rassemblements à São Paulo samedi avant le scrutin. Les sondages indiquent que les deux candidats sont au coude à coude, rendant probable un second tour le 25 octobre, selon Le Devoir."
     },
     {
-      "sujet": "Apple renforce la sécurité des Macs",
-      "fait": "Selon The Verge, Apple ajoute de nouvelles restrictions pour l'accès complet au disque sur Mac en réponse aux risques posés par les agents IA."
+      "sujet": "Manifestations Espagne crise logement",
+      "fait": "Plus de 50 manifestations ont eu lieu samedi en Espagne après que le gouvernement n'ait pas réussi à faire passer une législation d'urgence au parlement concernant la crise du logement, selon BBC World et Radio-Canada."
     },
     {
-      "sujet": "Netflix se détourne du prestige",
-      "fait": "Selon The Verge, Netflix a mis fin à plusieurs partenariats pluriannuels avec des réalisateurs réputés comme David Fincher et Shawn Levy, indiquant un changement stratégique."
+      "sujet": "Somalie base navale Israël",
+      "fait": "Le président Hassan Sheikh Mohamud a déclaré à Al Jazeera que la Somalie n'accepterait pas la présence israélienne 'sous aucune circonstance' et a affirmé qu'Israël planifierait une base navale à Berbera."
     },
     {
-      "sujet": "Capacité de croissance économique allemande",
-      "fait": "Selon Bloomberg, le chef de la Bundesbank déclare que l'économie allemande pourrait croître de 1 % cette année."
+      "sujet": "Application Bitchat Jack Dorsey Inde",
+      "fait": "L'application Bitchat de Jack Dorsey a disparu des app stores en Inde suite à un ordre gouvernemental, selon TechCrunch."
+    },
+    {
+      "sujet": "Ambulance aérienne disparue Canadiens",
+      "fait": "Une ambulance aérienne basée en Ontario transportant 4 Canadiens a disparu au large des États-Unis. La garde côtière américaine a émis une alerte de recherche et sauvetage pour un Gulfstream G-100 samedi matin, selon Radio-Canada et Global News."
+    },
+    {
+      "sujet": "Élections Québec PQ campagne",
+      "fait": "Le chef péquiste dévoile son plan pour les 100 premiers jours, avec comme priorités l'immigration, le coût de la vie et l'itinérance, selon Radio-Canada."
     }
   ]
 }
