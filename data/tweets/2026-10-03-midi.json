@@ -1,0 +1,14 @@
+{
+  "date": "2026-10-03",
+  "kind": "poll",
+  "text": "Ce matin → Christa Pike a survécu à deux injections létales mercredi.\n\nNouveau : Le directeur des prisons du Tennessee, Frank Strada, a annoncé sa démission.\n\nComment devraient être examinés les cas d'exécutions qui ne se déroulent pas comme prévu?",
+  "poll": {
+    "options": [
+      "Enquête indépendante",
+      "Révision interne par",
+      "Suspension des",
+      "Examen judiciaire au cas"
+    ],
+    "duration_minutes": 1440
+  }
+}
