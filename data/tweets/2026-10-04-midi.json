@@ -1,0 +1,14 @@
+{
+  "date": "2026-10-04",
+  "kind": "poll",
+  "text": "Ce matin → Un copilote a attaqué le vol FlyDubai Dubaï-Tel-Aviv.\n\nComment évalues-tu la transparence des enquêtes sur les incidents aériens majeurs?",
+  "poll": {
+    "options": [
+      "Très transparente",
+      "Suffisante",
+      "Insuffisante",
+      "Pas d'opinion"
+    ],
+    "duration_minutes": 1440
+  }
+}
