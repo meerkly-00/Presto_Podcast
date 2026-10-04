@@ -1,0 +1,75 @@
+```xml
+<script>
+  <intro>Bonjour, on est le dimanche quatre octobre deux mille vingt-six. Voici votre Presto en environ quinze minutes. Au menu : les suites de l'attaque du vol FlyDubai, la campagne électorale québécoise à la veille du scrutin, la disparition d'un avion de transport médical au large du Massachusetts, l'actualité internationale et un mot sur la tech.</intro>
+
+  <chapitre titre="International">
+On commence avec les suites de l'attaque survenue à bord du vol FlyDubai entre Dubaï et Tel-Aviv. Selon l'Associated Press, le copilote responsable de l'attaque a été identifié. Selon la BBC, les autorités australiennes enquêtent sur les liens de cet homme avec leur pays.
+
+Al Jazeera a diffusé une reconstitution de la chute de l'appareil, qui a plongé d'environ cinq mille deux cents mètres avant que l'équipage et des passagers ne reprennent le contrôle de la situation.
+
+On passe à l'Ukraine. Selon la BBC, un pont de Kiev a été frappé cette nuit par une nouvelle attaque de drones russes, au moment même où le chancelier allemand effectuait une visite surprise dans la capitale ukrainienne. Des images non vérifiées montrent un drone frapper le pont pendant que des véhicules y circulaient, provoquant une boule de feu.
+
+Du côté du Moyen-Orient, selon CBC, des frappes israéliennes ont tué au moins cinq personnes, dont quatre femmes, dans un immeuble de la ville de Gaza tôt samedi, selon les services de santé et de protection civile locaux. Par ailleurs, selon Reuters, les discussions entre les États-Unis et la Russie sur l'Ukraine incluraient un accord pétrolier de plusieurs milliards de dollars, selon ce que rapporte le New York Times.
+
+En Irak, selon Reuters, le pays affirme avoir transporté deux millions de barils de pétrole brut par le détroit d'Ormuz.
+
+Ailleurs dans le monde, la Bosnie a tenu dimanche ce qu'Al Jazeera décrit comme l'une des élections générales les plus complexes au monde, les électeurs devant choisir un grand nombre d'élus à plusieurs paliers de gouvernement dans un contexte de difficultés économiques et de rivalités ethniques.
+
+En Espagne, selon le Journal de Montréal, des manifestations d'ampleur se poursuivent concernant le droit au logement. Le National Post rapporte que des milliers de personnes sont descendues dans les rues de Madrid samedi, dans des protestations qui pourraient accroître la pression sur le premier ministre Pedro Sánchez pour la tenue d'élections anticipées.
+
+Au Brésil, selon le National Post, le président Luiz Inácio Lula da Silva et Flavio Bolsonaro ont fait une dernière tournée électorale samedi à São Paulo, à la veille d'un scrutin serré marqué par des scandales.
+
+En Australie, selon CBC, une voiture a foncé dans une foule de partisans de rugby au nord de Sydney, blessant dix personnes. Deux d'entre elles, une fillette de cinq ans et un homme de soixante-sept ans, étaient dans un état critique selon les autorités.
+
+Aux États-Unis, selon la BBC et Reuters, le responsable des prisons du Tennessee a démissionné après l'échec de l'exécution de Christa Pike. Les avocats de madame Pike, qui se trouve dans un état critique après avoir survécu à deux injections létales, affirment que ce qui s'est passé dépasse la responsabilité d'une seule personne.
+
+Toujours aux États-Unis, selon l'Associated Press, près de mille quatre cents employés ont été licenciés dans une usine de camions en Ohio, à quelques jours seulement d'un rassemblement de Donald Trump dans la région.
+  </chapitre>
+
+  <chapitre titre="Actualité québécoise">
+On passe à la campagne électorale québécoise, à la veille du scrutin de lundi. Selon Radio-Canada, vingt-cinq circonscriptions sont à surveiller particulièrement lundi, où les luttes pour obtenir une place au Salon bleu s'annoncent serrées.
+
+Selon Le Devoir, la candidate caquiste dans Montarville, Nathalie Roy, qui occupe aussi la présidence de l'Assemblée nationale, affirme ne pas avoir fait campagne pour ou contre sa propre cheffe Christine Fréchette, invoquant un devoir de neutralité. Elle a plutôt mis de l'avant son propre bilan dans sa circonscription. Un autre candidat caquiste, Bernard Drainville, a lancé un appel au vote dans Lévis sans mentionner sa cheffe.
+
+Toujours selon Le Devoir, la candidate québécoise solidaire Ruba Ghazal juge que les idées du chef conservateur Éric Duhaime sont dangereuses, dans un contexte où la montée du camp conservateur, près d'obtenir le statut de groupe parlementaire reconnu, suscite de l'inquiétude chez ses adversaires.
+
+Du côté des faits divers, selon Radio-Canada et Le Devoir, des débris ont été retrouvés au large du Massachusetts dans le cadre des recherches pour un avion de transport médical ontarien porté disparu. Selon le Journal de Montréal, quatre Canadiens se trouvaient à bord de l'appareil. La garde côtière américaine a lancé une opération de recherche pour retrouver les occupants.
+
+Un mot de culture. Selon Radio-Canada, la rockeuse canadienne Sass Jordan est morte à l'âge de soixante-trois ans. Elle avait été, au début de sa carrière, l'une des voix féminines du groupe québécois The Box.
+
+Enfin, selon le Journal de Montréal, un incendie survenu à Rosemont-La Petite-Patrie, à Montréal, a forcé six familles à évacuer leur domicile.
+  </chapitre>
+
+  <chapitre titre="Politique canadienne">
+Du côté d'Ottawa, selon CBC, le nom du premier ministre Mark Carney circule parmi les prétendants possibles au prix Nobel de la paix de cette année, même si CBC souligne que ses chances réelles de l'obtenir demeurent faibles. L'article relève que les relations déjà tendues entre le Canada et les États-Unis pourraient se détériorer davantage si monsieur Carney venait à remporter cette distinction.
+
+Toujours selon CBC, le Service canadien du renseignement de sécurité revoit son processus d'embauche pour répondre à ses besoins opérationnels, selon des documents internes qui témoignent de difficultés persistantes de recrutement au sein de l'agence.
+
+Ailleurs au pays, selon le National Post, à un peu plus de trois semaines de l'élection municipale de Toronto, le candidat Brad Bradford réduirait l'écart avec la mairesse sortante Olivia Chow, selon un nouveau sondage.
+
+Un mot sur un dossier qui touche les Canadiens voyageant aux États-Unis. Selon CBC, la Floride envisage d'abolir la taxe foncière résidentielle, et le gouverneur de l'État propose de compenser cette perte de revenus potentiellement considérable en augmentant les taxes imposées aux Canadiens propriétaires dans l'État.
+  </chapitre>
+
+  <chapitre titre="Tech">
+Un mot sur la tech, où le climat interne chez OpenAI continue de faire des vagues. Selon Reuters et TechCrunch, un employé responsable de la sécurité chez OpenAI, David Robinson, a démissionné en affirmant que la culture de l'entreprise est brisée. The Verge précise que monsieur Robinson rédigeait auparavant les rapports de sécurité accompagnant chaque lancement majeur de modèle chez OpenAI, et qu'il s'exprime maintenant dans un texte d'opinion publié par le magazine The Atlantic. En anglais, je le cite : "Time for trial and error is over." Fin de citation.
+
+Du côté de la surveillance numérique, selon TechCrunch, un juge fédéral américain a qualifié la technologie de surveillance Flock de surveillance de masse indiscriminée, dans une décision où il conclut qu'un adjoint du shérif a violé les droits constitutionnels d'une femme en utilisant cet outil pour retracer sa plaque d'immatriculation sans mandat.
+
+Chez Amazon, selon TechCrunch, le patron d'Amazon Web Services a répondu aux critiques grandissantes entourant les centres de données de l'entreprise, affirmant que celle-ci n'utilise plus d'ententes de confidentialité à cet égard.
+
+En Inde, selon TechCrunch, l'application de messagerie Bitchat, créée par le cofondateur de Twitter Jack Dorsey, a disparu des boutiques d'applications à la suite d'une directive du gouvernement indien.
+
+Enfin, dans le domaine du jeu vidéo, selon The Verge, le studio japonais Capcom affirme se préparer à un avenir où les jeux seront créés en collaboration avec l'intelligence artificielle, même si l'entreprise avait auparavant affirmé qu'elle n'utiliserait pas cette technologie dans ses productions.
+  </chapitre>
+
+  <chapitre titre="Sport">
+Rapidement en sport. Au hockey, selon Global News et Sportsnet, les Senators d'Ottawa ont battu les Maple Leafs de Toronto trois à deux samedi soir, Stephen Halliday ayant inscrit le but gagnant en troisième période devant un Linus Ullmark solide. Toujours selon Sportsnet, les Oilers d'Edmonton ont signé une victoire propre face aux Kraken de Seattle grâce à une défense solide, tandis que les Canucks de Vancouver ont profité d'une explosion offensive en troisième période pour battre les Flames de Calgary.
+
+Du côté du football canadien, selon Global News, les Alouettes de Montréal ont dominé les Blue Bombers de Winnipeg trente-sept à dix samedi soir, ce qui leur permet de remporter la division Est.
+
+Au hockey junior, selon TVA Sports, le Rocket de Laval a signé sa première victoire de la saison. Selon TVA Sports également, les Carabins de Montréal ont remporté une victoire qualifiée de marquante.
+  </chapitre>
+
+  <outro>Voilà pour ce Presto du dimanche quatre octobre deux mille vingt-six. Si ce briefing vous est utile, le meilleur coup de main que vous pouvez nous donner, c'est de le partager à une personne qui aime rester informée. Et selon votre plateforme : un abonnement sur Spotify ou Apple Podcasts, un pouce bleu et un abonnement sur YouTube, ça prend deux secondes et ça aide vraiment Presto à grandir. Sur ce, bonne journée, et à demain.</outro>
+</script>
+```
