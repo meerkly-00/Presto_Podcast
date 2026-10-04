@@ -1,54 +1,54 @@
 {
-  "generated_at": "2026-10-03T21:59:44.565530+00:00",
+  "generated_at": "2026-10-04T00:29:14.714183+00:00",
   "window_hours": 8,
   "faits": [
     {
-      "sujet": "Avion médical disparu au large des États-Unis",
-      "fait": "Un avion de transport médical avec 6 personnes à bord, dont 4 Canadiens, a perdu contact avec les contrôleurs aériens après une chute significative d'altitude au large de la côte du Massachusetts. Selon la BBC World et Radio-Canada, la garde côtière américaine a lancé une opération de recherche et sauvetage."
+      "sujet": "Élection brésilienne imminente",
+      "fait": "Selon Al Jazeera, les sondages montrent que l'avance de Lula sur Bolsonaro se réduit, aucun candidat n'étant susceptible de remporter la majorité au scrutin de dimanche."
     },
     {
-      "sujet": "Exécution ratée de Christa Pike en Tennessee",
-      "fait": "Le chef du système carcéral du Tennessee démissionne suite à l'échec de l'exécution par injection létale de Christa Pike, qui demeure hospitalisée en état critique. Selon BBC World et Reuters, cet événement a déclenché le premier grand remaniement de direction depuis l'incident."
+      "sujet": "Conflit Yémen-Arabie Saoudite",
+      "fait": "Selon Reuters, les Houthis affirment avoir attaqué une installation d'Aramco à Riyad avec des missiles et drones. Al Jazeera rapporte que les combats au Yémen déplacent davantage de civils."
     },
     {
-      "sujet": "Élection québécoise à 48 heures du vote",
-      "fait": "À deux jours du scrutin du 5 octobre 2026, les chefs de partis québécois lancent leurs derniers arguments auprès des électeurs indécis en abordant les enjeux du référendum, l'austérité et l'autonomie. D'après Radio-Canada, la campagne entre dans sa phase finale."
+      "sujet": "Ukraine frappe les raffineries russes",
+      "fait": "D'après Reuters, Zelenskiy déclare en exclusivité que l'Ukraine frappera les raffineries russes en réaction à la nouvelle doctrine de frappes aériennes de Moscou."
     },
     {
-      "sujet": "Trump promeut l'heure d'été permanente aux États-Unis",
-      "fait": "Le président américain fait pression sur les républicains pour abolir le changement d'heure semestriel en publiant le numéro de téléphone d'un législateur. Selon Al Jazeera, Trump demande l'adoption d'une loi rendant l'heure d'été permanente."
+      "sujet": "Disparition avion médical États-Unis",
+      "fait": "Selon la BBC et Radio-Canada, un avion ambulance avec 6 personnes à bord, dont 4 Canadiens, a disparu en vol de Bermudes à Boston ; la garde côtière américaine recherche l'appareil près de Nantucket."
     },
     {
-      "sujet": "Frappés de nouveaux ponts à Kyiv par la Russie",
-      "fait": "La Russie frappe le pont Pivnichnyi (Northern) à Kyiv, après des attaques répétées contre un autre pont majeur de la capitale. Selon BBC World, la Russie s'engage à poursuivre les frappes massives et demande aux diplomates étrangers de quitter la ville."
+      "sujet": "Démission du directeur prison Tennessee",
+      "fait": "D'après Reuters et la BBC, le directeur du système carcéral du Tennessee a démissionné suite à l'exécution ratée de Christa Pike, qui a survécu à deux injections létales et est en condition critique."
     },
     {
-      "sujet": "Démission d'un employé en sécurité chez OpenAI",
-      "fait": "David Robinson, ancien responsable des rapports de sécurité chez OpenAI, démissionne et publie une tribune dans The Atlantic critiquant une culture d'entreprise 'fondamentalement brisée'. D'après TechCrunch et The Verge, il dénonce des problèmes structurels au-delà de simples régulations."
+      "sujet": "Allegations viols fraternité Cornell",
+      "fait": "Selon BBC World, le président de Cornell décrit les accusations contre une femme qui dit avoir été droguée et violée collectivement comme « profondément troublantes »."
     },
     {
-      "sujet": "Jugement fédéral contre la surveillance Flock",
-      "fait": "Un juge fédéral américain déclare que l'utilisation du système Flock par un policier pour rechercher une plaque d'immatriculation sans mandat viole le quatrième amendement. Selon TechCrunch, le juge qualifie Flock de 'surveillance de masse indiscriminée'."
+      "sujet": "Licenciements usine camions Ohio",
+      "fait": "D'après Associated Press, près de 1400 emplois sont supprimés dans une usine de camions en Ohio, quelques jours avant un rassemblement de Trump."
     },
     {
-      "sujet": "Données sur les drogues illicites en Saskatchewan",
-      "fait": "Prince Albert, en Saskatchewan, enregistre les plus hauts niveaux de méthamphétamine et de cocaïne dans ses eaux usées entre janvier 2024 et mars 2026. D'après Global News et Statistique Canada, cette ville dépasse toutes les autres au Canada sur cet indicateur."
+      "sujet": "Surveillance plate-formes Flock déboutée",
+      "fait": "Selon TechCrunch, un juge fédéral a statué qu'un adjoint shérif a violé les droits constitutionnels d'une femme en utilisant Flock pour rechercher sa plaque sans mandat."
     },
     {
-      "sujet": "Garantie de réparation gratuite au Québec à partir de lundi",
-      "fait": "À partir du lundi 6 octobre 2026, il devient possible de faire réparer gratuitement certains produits électroniques vendus au Québec en vertu d'une nouvelle 'garantie de bon fonctionnement'. Le Devoir propose un guide pour cette réglementation."
+      "sujet": "Décès Milt Windler NASA",
+      "fait": "D'après Ars Technica, Milt Windler, directeur de vol à la NASA qui a aidé à sauver Apollo 13, est décédé à 94 ans après avoir dirigé plusieurs missions spatiales historiques."
     },
     {
-      "sujet": "Application Bitchat supprimée en Inde",
-      "fait": "L'application Bitchat de Jack Dorsey disparaît des app stores en Inde suite à un ordre gouvernemental. Selon TechCrunch, l'application est devenue largement indisponible dans le pays."
+      "sujet": "Démission employé sécurité OpenAI",
+      "fait": "Selon TechCrunch, David Robinson, employé en sécurité chez OpenAI, a démissionné en affirmant que la culture de l'entreprise est brisée."
     },
     {
-      "sujet": "Enquête sur le co-pilote de FlyDubai au comportement violent",
-      "fait": "Un co-pilote de FlyDubai armé d'une hache avait auparavant été signalé pour des préoccupations liées à l'extrémisme. D'après l'Associated Press, cet incident révèle des antécédents d'alerte sur ce personnel."
+      "sujet": "Amazon révise politique confidentialité",
+      "fait": "D'après TechCrunch, le PDG d'Amazon Web Services affirme que l'entreprise n'utilise plus les accords de confidentialité en réponse aux critiques sur les centres de données."
     },
     {
-      "sujet": "Décès de Milt Windler, directeur de mission NASA Apollo 13",
-      "fait": "Milt Windler, l'un des quatre chefs du contrôle de mission qui a dirigé les efforts pour ramener les astronautes d'Apollo 13 en 1970, décède à l'âge de 94 ans. Selon Ars Technica, il avait aussi dirigé les opérations d'Apollo 8, 10, 12, 14, 15 et des missions Skylab."
+      "sujet": "Élection Québec à 48 heures",
+      "fait": "Selon Radio-Canada, les partis déploient leurs derniers arguments pour séduire les indécis, abordant le référendum, l'austérité et l'autonomie."
     }
   ]
 }
