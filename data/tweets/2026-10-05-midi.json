@@ -1,0 +1,14 @@
+{
+  "date": "2026-10-05",
+  "kind": "poll",
+  "text": "Ce matin → 30 % des électeurs ont voté. En fin de journée → 45 % des inscrits ont voté, vote par anticipation inclus. Les bureaux ferment à 20 h, résultats en soirée.\n\nÀ ton avis, un taux de participation de 45 % en fin de journée indique :",
+  "poll": {
+    "options": [
+      "Un engagement électoral",
+      "Un engagement moyen",
+      "Un engagement faible",
+      "Trop tôt pour l'évaluer"
+    ],
+    "duration_minutes": 1440
+  }
+}
