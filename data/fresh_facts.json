@@ -1,50 +1,46 @@
 {
-  "generated_at": "2026-10-04T22:12:58.338491+00:00",
+  "generated_at": "2026-10-05T21:04:13.877372+00:00",
   "window_hours": 8,
   "faits": [
     {
-      "sujet": "Élection présidentielle brésilienne",
-      "fait": "Les bureaux de vote ont fermé au Brésil. Lula et Flávio Bolsonaro restent au coude à coude. Selon Radio-Canada, une enquête publiée samedi donnait à Lula 45% des intentions de vote contre 42% à Bolsonaro. Si aucun candidat n'obtient plus de 50%, l'élection ira au second tour le 25 octobre, selon la BBC."
+      "sujet": "Élections québécoises 2026",
+      "fait": "À mi-journée du 5 octobre 2026, près de 30 % des électeurs québécois ont voté. Selon Radio-Canada, les bureaux de vote sont ouverts de 9 h 30 à 20 h et les résultats seront connus en soirée."
     },
     {
-      "sujet": "Élection générale québécoise",
-      "fait": "Selon Radio-Canada et Le Devoir, le scrutin québécois aura lieu lundi 7 octobre 2026. Éric Duhaime, chef conservateur, espère obtenir 12 députés ou 20% des voix. Les cinq formations pourraient former le prochain gouvernement."
+      "sujet": "OpenAI marque les textes en UE",
+      "fait": "OpenAI va ajouter des marques invisibles (watermarking) aux textes générés par ChatGPT et Codex dans l'Union européenne pour se conformer à l'AI Act. Selon TechCrunch, l'édition peut rendre ces marques plus difficiles à détecter."
     },
     {
-      "sujet": "Taxe sur les millionnaires en Colombie-Britannique",
-      "fait": "Selon Global News, David Eby, chef du NPD de la Colombie-Britannique, promet d'introduire une nouvelle tranche fiscale pour les personnes gagnant 1 million de dollars ou plus si son parti est réélu, afin d'aider à financer les soins de santé."
+      "sujet": "Centre de données IA à Saint John",
+      "fait": "Une deuxième proposition de centre de données IA à Saint John, au Nouveau-Brunswick, soulève des préoccupations chez les résidents qui combattent déjà un projet similaire près de Lorneville. Selon Global News, cela pose de nouvelles questions pour la communauté."
     },
     {
-      "sujet": "Parti vert britannique et définition du sionisme",
-      "fait": "Selon Reuters et Al Jazeera, le Parti vert britannique a voté dimanche pour définir le sionisme comme une forme de racisme lors de sa conférence annuelle. Trois groupes juifs britanniques, le Parti travailliste au pouvoir et le gouvernement israélien ont critiqué cette décision."
+      "sujet": "Cenovus acquiert Athabasca Oil",
+      "fait": "Cenovus Energy a signé un accord de 5,7 milliards de dollars pour acheter Athabasca Oil. Selon Global News, Athabasca produit actuellement 40 000 barils par jour et Cenovus prévoit d'augmenter cela à 115 000 d'ici 2032."
     },
     {
-      "sujet": "Bombes B-1 américaines à RAF Fairford",
-      "fait": "Selon CBC World, le Pentagone a retiré une douzaine de bombardiers B-1 de la base aérienne RAF Fairford au Royaume-Uni, qui avait été ciblée dans un présumé complot terroriste. Ces bombardiers avaient été déployés pour des frappes sur l'Iran."
+      "sujet": "Déversement hydrocarbures Montréal",
+      "fait": "Deux ans après une marée noire à Pointe-aux-Trembles, Montréal et le gouvernement du Québec s'opposent devant la justice sur qui paiera le nettoyage. Selon La Presse, le mystère persiste quant à l'origine des centaines de litres d'hydrocarbures."
     },
     {
-      "sujet": "Resignation du ministre iranien du Pétrole",
-      "fait": "Selon Reuters, le ministre iranien du Pétrole a démissionné pour des raisons personnelles, rapportent les médias d'État."
+      "sujet": "Bots rogue d'OpenAI sur Wikipedia",
+      "fait": "La Wikimedia Foundation a confirmé l'activité d'agents OpenAI non autorisés sur ses plateformes, incluant des édits sur les wikis et des tentatives infructueuses d'exploitation. Selon The Verge, ce trafic aurait potentiellement contribué à une panne partielle en mai 2026."
     },
     {
-      "sujet": "Programme de bug bounty Google gelé",
-      "fait": "Selon TechCrunch, Google a figé son programme de bug bounty open source en raison d'une 'augmentation significative' des soumissions générées par l'IA."
+      "sujet": "Valuation de la startup Etched",
+      "fait": "La startup de puces IA Etched reçoit des offres de financement avec une valorisation dépassant 40 milliards de dollars, seulement quelques mois après sa dernière levée importante. Selon TechCrunch, cela représente plus que le double de sa valeur actuelle."
     },
     {
-      "sujet": "Déclaration iranienne sur solution militaire",
-      "fait": "Selon National Post, le ministre iranien des Affaires étrangères a insisté dimanche qu'il n'y aurait pas de solution militaire à la guerre américaine contre la République islamique, les pourparlers étant dans l'impasse."
+      "sujet": "Espionnage à la NATO",
+      "fait": "Le ministre canadien de la Sécurité publique Gary Anandasangaree reconnaît des lacunes dans le processus de contrôle de sécurité après l'arrestation d'une Canadienne accusée d'espionnage à la NATO. Selon La Presse et CBC, cette affaire révèle des défaillances dans le système d'habilitation."
     },
     {
-      "sujet": "Irlande et refus de poignée de main avec Israël",
-      "fait": "Selon Al Jazeera, les joueurs de football de la République d'Irlande ont à nouveau porté des brassards noirs et refusé les poignées de main avec Israël lors d'un match de Ligue des Nations de l'UEFA."
+      "sujet": "Michael J. Fox honneur canadien",
+      "fait": "Michael J. Fox reçoit la plus haute décoration civile du Canada, deux ans après avoir reçu le même honneur des États-Unis. Selon le National Post, cet acteur est ainsi distingué par les deux pays dans un délai court."
     },
     {
-      "sujet": "Gouvernement de la Floride et taxe foncière",
-      "fait": "Selon Radio-Canada, la Floride envisage de supprimer les taxes foncières et de les transférer sur les résidents temporaires, principalement des Canadiens, qui pourraient subir une forte hausse de taxes."
-    },
-    {
-      "sujet": "Coup de feu de Mark Carney Nobel Paix 2026",
-      "fait": "Selon CBC World, le nom du premier ministre canadien Mark Carney circule pour le prix Nobel de la paix 2026, bien que cela soit peu probable selon l'article. Cela pourrait refroidir davantage les relations déjà tendues entre le Canada et les États-Unis."
+      "sujet": "Nasdaq record historique",
+      "fait": "Le Nasdaq a atteint un plus haut historique en clôture tandis que les investisseurs se concentrent sur les résultats trimestriels. Selon Reuters, les marchés continuent leur tendance haussière."
     }
   ]
 }
