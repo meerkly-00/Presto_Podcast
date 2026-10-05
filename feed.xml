@@ -23,6 +23,17 @@
       <link>https://www.prestopodcast.online</link>
     </image>
     <item>
+      <title>Presto — édition du 5 octobre 2026</title>
+      <description>Au menu : Actualité québécoise, International, Économie et marchés, Tech</description>
+      <pubDate>Mon, 05 Oct 2026 10:02:01 +0000</pubDate>
+      <guid isPermaLink="false">https://github.com/meerkly-00/Presto_Podcast/releases/download/2026-10-05/2026-10-05.mp3</guid>
+      <enclosure url="https://github.com/meerkly-00/Presto_Podcast/releases/download/2026-10-05/2026-10-05.mp3" type="audio/mpeg" length="4737020"/>
+      <itunes:duration>436</itunes:duration>
+      <itunes:summary>Au menu : Actualité québécoise, International, Économie et marchés, Tech</itunes:summary>
+      <itunes:episode>135</itunes:episode>
+      <itunes:image href="https://www.prestopodcast.online/artwork-v2.jpg"/>
+    </item>
+    <item>
       <title>Presto — édition du 4 octobre 2026</title>
       <description>Au menu : International, Actualité québécoise, Politique canadienne, Tech, Sport</description>
       <pubDate>Sun, 04 Oct 2026 10:01:40 +0000</pubDate>

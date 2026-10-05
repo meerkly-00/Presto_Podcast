@@ -1,0 +1,57 @@
+```xml
+<script>
+  <intro>Bonjour, on est le lundi cinq octobre deux mille vingt-six. Voici votre Presto en environ quinze minutes. Au menu : le jour du scrutin au Québec, les suites de l'élection brésilienne, le retrait des bombardiers américains d'une base britannique, les marchés secoués par l'euro et les risques liés à l'intelligence artificielle, et un mot sur la tech.</intro>
+
+  <chapitre titre="Actualité québécoise">
+    On commence par le Québec, où les électeurs se rendent aux urnes aujourd'hui pour élire leur prochain premier ministre. Selon Global News, la campagne de trente-neuf jours a vu les partis rivaux multiplier les promesses sur des enjeux allant de la séparation et du nationalisme à l'immigration, en passant par les droits des travailleurs et le soutien aux familles.
+
+    Ailleurs dans l'actualité québécoise, selon La Presse, un comité de la Chambre des communes lancera cette semaine une étude sur les risques que pose l'intelligence artificielle pour les institutions démocratiques du Canada.
+
+    Toujours selon La Presse, le projet Cúram, qui gère la Sécurité de la vieillesse, continue de causer des maux de tête à des dizaines de milliers d'aînés canadiens dont les dossiers demeurent non résolus.
+
+    Du côté de l'environnement, La Presse rapporte l'arrivée progressive au Canada, et bientôt au Québec, du fulgore tacheté, un insecte envahissant qui a déjà causé des ravages en Chine, en Corée du Sud, au Japon et aux États-Unis.
+
+    Enfin, Radio-Canada souligne que les centres de données sont maintenant responsables de la moitié des demandes de blocs d'électricité au Québec, de nombreux projets liés à l'intelligence artificielle réclamant des mégawatts supplémentaires.
+  </chapitre>
+
+  <chapitre titre="International">
+    Direction le Brésil, où le premier tour de l'élection présidentielle a eu lieu dimanche. Selon la BBC, le candidat de droite Flávio Bolsonaro est arrivé en tête, mais aucun candidat n'a dépassé la majorité absolue : un second tour aura lieu le vingt-cinq octobre. Le Devoir souligne que l'ancien président Jair Bolsonaro, condamné en septembre deux mille vingt-cinq à une peine de vingt-sept ans pour tentative de coup d'État, est actuellement en résidence surveillée, et que l'élection de son fils serait perçue par plusieurs comme une forme de revanche politique.
+
+    Du côté du Royaume-Uni, selon la BBC et la CBC, l'armée de l'air américaine a retiré tous ses bombardiers de la base militaire de RAF Fairford. La CBC précise qu'une douzaine de bombardiers B-One, utilisés lors des frappes américaines contre l'Iran, avaient été déployés sur cette base au nord-ouest de Londres, laquelle avait été visée par un complot terroriste présumé la semaine dernière. Aucune raison officielle n'a été donnée pour ce retrait.
+
+    En lien avec l'Iran, selon le National Post, le principal diplomate du pays a affirmé dimanche qu'il n'existe pas de solution militaire au conflit avec les États-Unis, alors que les pourparlers pour mettre fin au conflit semblent dans une impasse.
+
+    Sur les suites de l'attaque à bord du vol FlyDubai, selon Reuters, deux responsables israéliens affirment que le copilote responsable avait planifié l'attentat avant même de se joindre à la compagnie aérienne. L'Associated Press rapporte par ailleurs que les Émirats arabes unis avaient partagé avec Israël des détails sur ce vol, incluant les noms et nationalités des pilotes.
+
+    En Espagne, selon Al Jazeera, le premier ministre Pedro Sanchez a déclenché des élections anticipées pour le vingt-neuf novembre, dans un contexte de crise du logement.
+
+    Au Japon, la BBC rapporte que l'arrestation d'un marine américain pour meurtre a ravivé les manifestations à Okinawa, ranimant des décennies de frustration chez la population locale.
+  </chapitre>
+
+  <chapitre titre="Économie et marchés">
+    On passe à l'économie, où l'euro continue de plonger sur les marchés des changes. Selon Bloomberg, la monnaie européenne a atteint un creux de dix-sept mois, dans un contexte de risques politiques et budgétaires dans la région. Reuters confirme que l'euro se négocie à son plus bas niveau en dix-sept mois, alors que le dollar américain s'approche de ses sommets d'avant ce que les marchés appellent le Liberation Day.
+
+    Toujours selon Bloomberg, des inquiétudes refont surface concernant un risque de contagion sur le marché obligataire européen.
+
+    Du côté de l'intelligence artificielle et des marchés, selon le Financial Times, des fonds de pension à l'échelle mondiale réduisent leur exposition aux actions américaines en raison du risque de concentration lié à l'intelligence artificielle. Toujours selon le Financial Times, des investisseurs cherchent activement à protéger leurs portefeuilles contre ce même risque de concentration.
+
+    En matière de fusions-acquisitions, selon Reuters, Schneider Electric a annoncé l'achat de l'entreprise américaine de logiciels PTC pour vingt-deux virgule six milliards de dollars. Toujours selon Reuters, le pétrolier Suncor vendra ses participations pétrolières extracôtières au Canada à la société Ithaca pour environ huit cents millions de dollars.
+
+    Sur le marché pétrolier, selon Reuters, les exportations de pétrole brut du Moyen-Orient dépassent désormais leur niveau d'avant-guerre, même si les attaques contre les pétroliers sont en hausse. Selon BNN Bloomberg, les grands pays exportateurs de pétrole se sont entendus pour maintenir une production stable en novembre.
+
+    Au Québec, selon Les Affaires, les actions canadiennes entament un quatrième trimestre qui s'annonce difficile.
+  </chapitre>
+
+  <chapitre titre="Tech">
+    Un mot sur la tech, où l'intelligence artificielle continue de dominer l'actualité. Selon TechCrunch, le président américain Donald Trump a dévoilé sa nouvelle « Super Intelligence Force », un groupe de travail présenté comme une réponse au débat sur la sécurité de l'intelligence artificielle. Selon la CBC, le directeur du renseignement national américain, Jay Clayton, a été nommé à la tête de ce nouveau groupe de travail.
+
+    Toujours selon Reuters, le patron d'OpenAI, Sam Altman, affirme que les bénéfices de l'intelligence artificielle justifient d'accepter certains risques.
+
+    Du côté de Google, selon TechCrunch, l'entreprise a suspendu son programme de primes aux chercheurs de failles de sécurité en code source ouvert, en raison d'une hausse importante des soumissions générées par intelligence artificielle, jugées de piètre qualité.
+
+    Enfin, un texte d'opinion du Verge soutient que l'esprit humain n'est pas conçu pour composer avec l'intelligence artificielle. L'auteur y oppose la vision de Demis Hassabis, de Google, qui compare le cerveau à une approximation biologique d'une machine de Turing, à celle d'Elon Musk, qui le décrit, je le cite : "as a biological computer." Fin de citation.
+  </chapitre>
+
+  <outro>Voilà pour ce Presto du lundi cinq octobre deux mille vingt-six. Si ce briefing vous est utile, le meilleur coup de main que vous pouvez nous donner, c'est de le partager à une personne qui aime rester informée. Et selon votre plateforme : un abonnement sur Spotify ou Apple Podcasts, un pouce bleu et un abonnement sur YouTube, ça prend deux secondes et ça aide vraiment Presto à grandir. Sur ce, bonne journée, et à demain.</outro>
+</script>
+```
