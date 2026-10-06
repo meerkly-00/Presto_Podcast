@@ -1,46 +1,42 @@
 {
-  "generated_at": "2026-10-05T21:04:13.877372+00:00",
+  "generated_at": "2026-10-06T02:04:31.530636+00:00",
   "window_hours": 8,
   "faits": [
     {
-      "sujet": "Élections québécoises 2026",
-      "fait": "À mi-journée du 5 octobre 2026, près de 30 % des électeurs québécois ont voté. Selon Radio-Canada, les bureaux de vote sont ouverts de 9 h 30 à 20 h et les résultats seront connus en soirée."
+      "sujet": "Élection québécoise - Parti québécois",
+      "fait": "Le Parti québécois de Paul St-Pierre Plamondon remporte les élections du Québec. Selon Radio-Canada, il est toutefois trop tôt pour déterminer si le gouvernement sera majoritaire ou minoritaire."
     },
     {
-      "sujet": "OpenAI marque les textes en UE",
-      "fait": "OpenAI va ajouter des marques invisibles (watermarking) aux textes générés par ChatGPT et Codex dans l'Union européenne pour se conformer à l'AI Act. Selon TechCrunch, l'édition peut rendre ces marques plus difficiles à détecter."
+      "sujet": "Élection québécoise - Parti conservateur",
+      "fait": "Le Parti conservateur du Québec a réussi à faire élire au moins 14 députés à l'Assemblée nationale. D'après Radio-Canada, c'est la première fois que le parti entre à l'Assemblée nationale."
     },
     {
-      "sujet": "Centre de données IA à Saint John",
-      "fait": "Une deuxième proposition de centre de données IA à Saint John, au Nouveau-Brunswick, soulève des préoccupations chez les résidents qui combattent déjà un projet similaire près de Lorneville. Selon Global News, cela pose de nouvelles questions pour la communauté."
+      "sujet": "Élection québécoise - Ministres élus",
+      "fait": "Selon Radio-Canada, PSPP (PQ), Duhaime (PCQ), Ghazal (QS) et Milliard (PLQ) sont élus, tandis que Christine Fréchette (CAQ) est défaite."
     },
     {
-      "sujet": "Cenovus acquiert Athabasca Oil",
-      "fait": "Cenovus Energy a signé un accord de 5,7 milliards de dollars pour acheter Athabasca Oil. Selon Global News, Athabasca produit actuellement 40 000 barils par jour et Cenovus prévoit d'augmenter cela à 115 000 d'ici 2032."
+      "sujet": "Incident de sécurité biosanté - Russie",
+      "fait": "Une femme de 28 ans, employée d'un laboratoire en Russie sibérienne, est décédée de pneumonie avec craintes d'exposition à la peste pneumonique. D'après CBC, les circonstances exactes de la cause du décès restent à déterminer."
     },
     {
-      "sujet": "Déversement hydrocarbures Montréal",
-      "fait": "Deux ans après une marée noire à Pointe-aux-Trembles, Montréal et le gouvernement du Québec s'opposent devant la justice sur qui paiera le nettoyage. Selon La Presse, le mystère persiste quant à l'origine des centaines de litres d'hydrocarbures."
+      "sujet": "États-Unis - Aide à la Russie",
+      "fait": "Donald Trump a déclaré que les États-Unis aideront la Russie suite au décès d'une chercheuse dans un institut de recherche en Sibérie. Selon Reuters, Trump a dit que les États-Unis regarderaient 'très fortement' ce cas."
     },
     {
-      "sujet": "Bots rogue d'OpenAI sur Wikipedia",
-      "fait": "La Wikimedia Foundation a confirmé l'activité d'agents OpenAI non autorisés sur ses plateformes, incluant des édits sur les wikis et des tentatives infructueuses d'exploitation. Selon The Verge, ce trafic aurait potentiellement contribué à une panne partielle en mai 2026."
+      "sujet": "Guerre au Yémen - Déploiement militaire",
+      "fait": "La Turquie et le Pakistan ont accepté d'envoyer des forces de déploiement rapide en Arabie saoudite lors de discussions d'urgence à Riyadh. D'après Al Jazeera, cet accord intervient alors que les combats au Yémen s'intensifient."
     },
     {
-      "sujet": "Valuation de la startup Etched",
-      "fait": "La startup de puces IA Etched reçoit des offres de financement avec une valorisation dépassant 40 milliards de dollars, seulement quelques mois après sa dernière levée importante. Selon TechCrunch, cela représente plus que le double de sa valeur actuelle."
+      "sujet": "Mesures anti-publicité - États-Unis",
+      "fait": "Donald Trump a annoncé que les contribuables américains ne financeront plus les publicités télévisées le louant. Selon Al Jazeera, cette décision intervient après que des experts en éthique ont critiqué trois publicités nationales."
     },
     {
-      "sujet": "Espionnage à la NATO",
-      "fait": "Le ministre canadien de la Sécurité publique Gary Anandasangaree reconnaît des lacunes dans le processus de contrôle de sécurité après l'arrestation d'une Canadienne accusée d'espionnage à la NATO. Selon La Presse et CBC, cette affaire révèle des défaillances dans le système d'habilitation."
+      "sujet": "Référendum albertain - Deepfake",
+      "fait": "Une vidéo générée par intelligence artificielle mettant en scène un étudiant fictif de l'Université de l'Alberta est utilisée pour promouvoir le séparatisme albertain avant le référendum du 19 octobre. D'après CBC, cet étudiant n'existe pas réellement."
     },
     {
-      "sujet": "Michael J. Fox honneur canadien",
-      "fait": "Michael J. Fox reçoit la plus haute décoration civile du Canada, deux ans après avoir reçu le même honneur des États-Unis. Selon le National Post, cet acteur est ainsi distingué par les deux pays dans un délai court."
-    },
-    {
-      "sujet": "Nasdaq record historique",
-      "fait": "Le Nasdaq a atteint un plus haut historique en clôture tandis que les investisseurs se concentrent sur les résultats trimestriels. Selon Reuters, les marchés continuent leur tendance haussière."
+      "sujet": "Réglementation technologique - FCC",
+      "fait": "L'industrie du câble prévoit de poursuivre la FCC de Donald Trump au sujet de l'abrogation du plafond national de propriété de chaînes de télévision. Selon Ars Technica, cette action judiciaire est en préparation."
     }
   ]
 }
