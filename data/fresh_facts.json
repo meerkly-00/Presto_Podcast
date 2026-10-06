@@ -1,42 +1,50 @@
 {
-  "generated_at": "2026-10-06T02:04:31.530636+00:00",
+  "generated_at": "2026-10-06T18:47:26.143041+00:00",
   "window_hours": 8,
   "faits": [
     {
-      "sujet": "Élection québécoise - Parti québécois",
-      "fait": "Le Parti québécois de Paul St-Pierre Plamondon remporte les élections du Québec. Selon Radio-Canada, il est toutefois trop tôt pour déterminer si le gouvernement sera majoritaire ou minoritaire."
+      "sujet": "Arrêt dans tuerie Tumbler Ridge",
+      "fait": "Un homme de 30 ans a été arrêté dans l'État de Washington en lien avec la tuerie de Tumbler Ridge qui a fait huit morts en février dernier en Colombie-Britannique, selon La Presse et Radio-Canada."
     },
     {
-      "sujet": "Élection québécoise - Parti conservateur",
-      "fait": "Le Parti conservateur du Québec a réussi à faire élire au moins 14 députés à l'Assemblée nationale. D'après Radio-Canada, c'est la première fois que le parti entre à l'Assemblée nationale."
+      "sujet": "Saisie cocaïne Winnipeg",
+      "fait": "La police de Winnipeg a saisi 26 kilogrammes de cocaïne évaluée à 1,5 million de dollars et arrêté deux personnes, selon Global News."
     },
     {
-      "sujet": "Élection québécoise - Ministres élus",
-      "fait": "Selon Radio-Canada, PSPP (PQ), Duhaime (PCQ), Ghazal (QS) et Milliard (PLQ) sont élus, tandis que Christine Fréchette (CAQ) est défaite."
+      "sujet": "Nouvelle société d'État défense Canada",
+      "fait": "Le gouvernement Carney a annoncé la création d'une nouvelle société d'État pour l'approvisionnement en défense, selon National Post."
     },
     {
-      "sujet": "Incident de sécurité biosanté - Russie",
-      "fait": "Une femme de 28 ans, employée d'un laboratoire en Russie sibérienne, est décédée de pneumonie avec craintes d'exposition à la peste pneumonique. D'après CBC, les circonstances exactes de la cause du décès restent à déterminer."
+      "sujet": "Dépouillements judiciaires Québec",
+      "fait": "Le PLQ a remporté de justesse les circonscriptions de Saint-Henri–Sainte-Anne et Vachon lors des élections provinciales de lundi, avec des contestations possibles, selon Radio-Canada."
     },
     {
-      "sujet": "États-Unis - Aide à la Russie",
-      "fait": "Donald Trump a déclaré que les États-Unis aideront la Russie suite au décès d'une chercheuse dans un institut de recherche en Sibérie. Selon Reuters, Trump a dit que les États-Unis regarderaient 'très fortement' ce cas."
+      "sujet": "Résultats élections provinciales Québec",
+      "fait": "Le Parti Québécois a remporté 59 sièges (5 de moins qu'une majorité), le PLQ 40 sièges pour l'opposition officielle, et Québec solidaire 9 sièges, selon National Post."
     },
     {
-      "sujet": "Guerre au Yémen - Déploiement militaire",
-      "fait": "La Turquie et le Pakistan ont accepté d'envoyer des forces de déploiement rapide en Arabie saoudite lors de discussions d'urgence à Riyadh. D'après Al Jazeera, cet accord intervient alors que les combats au Yémen s'intensifient."
+      "sujet": "Augmentation taxe Montréal centre-ville",
+      "fait": "La mairesse de Montréal a annoncé une augmentation de la taxe municipale locale de 10% au centre-ville dans la préparation du budget 2027, selon La Presse."
     },
     {
-      "sujet": "Mesures anti-publicité - États-Unis",
-      "fait": "Donald Trump a annoncé que les contribuables américains ne financeront plus les publicités télévisées le louant. Selon Al Jazeera, cette décision intervient après que des experts en éthique ont critiqué trois publicités nationales."
+      "sujet": "Dépenses défense OTAN Canada",
+      "fait": "Le Bureau du directeur parlementaire du budget projette que le gouvernement fédéral devra dépenser 163,6 milliards de dollars en défense d'ici 2035 pour respecter ses engagements envers l'OTAN, selon National Post."
     },
     {
-      "sujet": "Référendum albertain - Deepfake",
-      "fait": "Une vidéo générée par intelligence artificielle mettant en scène un étudiant fictif de l'Université de l'Alberta est utilisée pour promouvoir le séparatisme albertain avant le référendum du 19 octobre. D'après CBC, cet étudiant n'existe pas réellement."
+      "sujet": "Fusion Paramount et Warner",
+      "fait": "Paramount Skydance a complété sa fusion de 111 milliards de dollars avec Warner Bros. Discovery, après le rejet d'un dernier recours par la Cour suprême, selon Ars Technica."
     },
     {
-      "sujet": "Réglementation technologique - FCC",
-      "fait": "L'industrie du câble prévoit de poursuivre la FCC de Donald Trump au sujet de l'abrogation du plafond national de propriété de chaînes de télévision. Selon Ars Technica, cette action judiciaire est en préparation."
+      "sujet": "Enquête OMS sur plaie Russie",
+      "fait": "L'OMS a demandé à la Russie de fournir des informations supplémentaires sur l'agent pathogène ayant causé le décès d'une femme, après que la Russie a déclaré qu'il n'y avait pas de cas de peste, selon Global News."
+    },
+    {
+      "sujet": "Escroquerie billets Taylor Swift",
+      "fait": "Un couple de Burlington a fraudé plus de cent personnes pour 265 000 dollars en vendant des billets de concert Taylor Swift falsifiés, selon Global News."
+    },
+    {
+      "sujet": "Richard Martel siège au Sénat",
+      "fait": "L'ex-député conservateur Richard Martel, devenu sénateur, a rejoint le caucus de l'opposition officielle conservatrice à la Chambre haute, selon La Presse."
     }
   ]
 }
