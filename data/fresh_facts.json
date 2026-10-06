@@ -1,50 +1,46 @@
 {
-  "generated_at": "2026-10-06T18:47:26.143041+00:00",
+  "generated_at": "2026-10-06T22:54:15.746410+00:00",
   "window_hours": 8,
   "faits": [
     {
-      "sujet": "Arrêt dans tuerie Tumbler Ridge",
-      "fait": "Un homme de 30 ans a été arrêté dans l'État de Washington en lien avec la tuerie de Tumbler Ridge qui a fait huit morts en février dernier en Colombie-Britannique, selon La Presse et Radio-Canada."
+      "sujet": "Apple et LG partenariat maison intelligente",
+      "fait": "Apple s'associe avec LG pour lancer des dispositifs domotiques incluant une serrure intelligente, un thermostat, une sonnette vidéo, une caméra intérieure et extérieure, selon TechCrunch et The Verge. Les produits seront compatibles avec les protocoles Thread et Matter et intégreront la plateforme HomeKit rénovée."
     },
     {
-      "sujet": "Saisie cocaïne Winnipeg",
-      "fait": "La police de Winnipeg a saisi 26 kilogrammes de cocaïne évaluée à 1,5 million de dollars et arrêté deux personnes, selon Global News."
+      "sujet": "Xbox droits exclusifs streaming GTA 6",
+      "fait": "Xbox a obtenu les droits exclusifs de streaming pour Grand Theft Auto VI au lancement sur Xbox Cloud Gaming, selon The Verge. La durée de cet accord exclusif n'a pas été précisée."
     },
     {
-      "sujet": "Nouvelle société d'État défense Canada",
-      "fait": "Le gouvernement Carney a annoncé la création d'une nouvelle société d'État pour l'approvisionnement en défense, selon National Post."
+      "sujet": "OpenAI watermarking ChatGPT Union européenne",
+      "fait": "OpenAI appliquera automatiquement un filigrane (textGrain) aux textes générés par ChatGPT dans l'Union européenne pour se conformer à la loi sur l'IA de l'UE entrée en vigueur en août, selon Ars Technica. La fonctionnalité sera disponible optionnellement ailleurs."
     },
     {
-      "sujet": "Dépouillements judiciaires Québec",
-      "fait": "Le PLQ a remporté de justesse les circonscriptions de Saint-Henri–Sainte-Anne et Vachon lors des élections provinciales de lundi, avec des contestations possibles, selon Radio-Canada."
+      "sujet": "Fusion Paramount Warner Bros Skydance",
+      "fait": "La fusion entre Paramount et Warner Bros a été conclue, formant Skydance, qui a commencé à être cotée à Wall Street le mardi 6 octobre, selon Al Jazeera. CNN et CBS News sont désormais sous le même groupe."
     },
     {
-      "sujet": "Résultats élections provinciales Québec",
-      "fait": "Le Parti Québécois a remporté 59 sièges (5 de moins qu'une majorité), le PLQ 40 sièges pour l'opposition officielle, et Québec solidaire 9 sièges, selon National Post."
+      "sujet": "Élection Québec gouvernement minoritaire Plamondon",
+      "fait": "Paul St-Pierre Plamondon, désigné premier ministre, a confirmé qu'il ne formera pas de gouvernement de coalition et collaborera cas par cas avec les partis d'opposition, selon Radio-Canada."
     },
     {
-      "sujet": "Augmentation taxe Montréal centre-ville",
-      "fait": "La mairesse de Montréal a annoncé une augmentation de la taxe municipale locale de 10% au centre-ville dans la préparation du budget 2027, selon La Presse."
+      "sujet": "Dérones attaques navires zones OTAN",
+      "fait": "Deux navires de cargo ont été coulés ou incendiés par des drones à environ 128 km des côtes de la Bulgarie, tuant au moins deux marins dans les zones économiques exclusives de pays membres de l'OTAN pour la première fois, selon Ars Technica. Le Premier ministre bulgare a qualifié cela de violation du droit maritime international."
     },
     {
-      "sujet": "Dépenses défense OTAN Canada",
-      "fait": "Le Bureau du directeur parlementaire du budget projette que le gouvernement fédéral devra dépenser 163,6 milliards de dollars en défense d'ici 2035 pour respecter ses engagements envers l'OTAN, selon National Post."
+      "sujet": "Enquête produits chimiques sous-vêtements enfants",
+      "fait": "Le procureur général du Texas Ken Paxton a lancé une enquête sur Fruit of the Loom et Hanes concernant l'utilisation potentielle de produits chimiques toxiques dans la fabrication de sous-vêtements pour enfants, selon CBC."
     },
     {
-      "sujet": "Fusion Paramount et Warner",
-      "fait": "Paramount Skydance a complété sa fusion de 111 milliards de dollars avec Warner Bros. Discovery, après le rejet d'un dernier recours par la Cour suprême, selon Ars Technica."
+      "sujet": "Startup Melius financement 20 millions dollars",
+      "fait": "D'anciens ingénieurs de Ramp ont levé 20 millions de dollars pour Melius après avoir abandonné leur premier produit, selon TechCrunch. La plateforme pivot a dépassé 1 million de dollars de revenus annualisés en deux mois."
     },
     {
-      "sujet": "Enquête OMS sur plaie Russie",
-      "fait": "L'OMS a demandé à la Russie de fournir des informations supplémentaires sur l'agent pathogène ayant causé le décès d'une femme, après que la Russie a déclaré qu'il n'y avait pas de cas de peste, selon Global News."
+      "sujet": "Cornell enquête harcèlement sexuel Sally Yates",
+      "fait": "L'université Cornell a engagé l'ancienne responsable du département de la Justice Sally Yates pour examiner la façon dont l'établissement a géré les plaintes de harcèlement sexuel, selon Associated Press."
     },
     {
-      "sujet": "Escroquerie billets Taylor Swift",
-      "fait": "Un couple de Burlington a fraudé plus de cent personnes pour 265 000 dollars en vendant des billets de concert Taylor Swift falsifiés, selon Global News."
-    },
-    {
-      "sujet": "Richard Martel siège au Sénat",
-      "fait": "L'ex-député conservateur Richard Martel, devenu sénateur, a rejoint le caucus de l'opposition officielle conservatrice à la Chambre haute, selon La Presse."
+      "sujet": "Colombie-Britannique élection Conservateurs avance",
+      "fait": "Un sondage de l'Institut Angus Reid montre que les Conservateurs de Colombie-Britannique maintiennent une avance de cinq points sur le NPD sortant à l'approche du scrutin, selon National Post."
     }
   ]
 }
