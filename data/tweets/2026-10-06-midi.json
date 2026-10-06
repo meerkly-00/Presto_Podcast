@@ -1,0 +1,14 @@
+{
+  "date": "2026-10-06",
+  "kind": "poll",
+  "text": "Ce matin → Le PQ forme un gouvernement minoritaire avec 59 sièges.\n\nNouveau : Christine Fréchette démissionne comme cheffe de la CAQ, qui n'a remporté aucun siège malgré 13 % des votes.\n\nUn gouvernement minoritaire peut-il gouverner efficacement au Québec?",
+  "poll": {
+    "options": [
+      "Oui, avec des alliances",
+      "Non, trop d'instabilité",
+      "Selon les circonstances",
+      "Incertain"
+    ],
+    "duration_minutes": 1440
+  }
+}
