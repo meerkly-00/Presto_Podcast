@@ -1,0 +1,71 @@
+```xml
+<script>
+  <intro>Bonjour, on est le mardi six octobre deux mille vingt-six. Voici votre Presto en environ quinze minutes. Au menu : les suites de l'élection québécoise, les répercussions internationales de ce résultat, l'actualité internationale avec le Brésil et l'Asie, l'économie et les marchés, et un mot sur la tech.</intro>
+
+  <chapitre titre="Actualité québécoise">
+    On commence par le Québec, où la carte politique a complètement changé. Selon Le Devoir, le Parti québécois de Paul Saint-Pierre Plamondon est sorti vainqueur des élections de lundi, remportant cinquante-neuf circonscriptions, soit un peu plus de quarante-six pour cent des sièges à l'Assemblée nationale. Le Parti libéral du Québec suit avec quarante sièges, et le Parti conservateur du Québec arrive troisième avec dix-neuf sièges. Québec solidaire conserve neuf circonscriptions.
+
+    La Coalition avenir Québec, elle, termine dernière des grands partis et n'a remporté aucun siège, une dégringolade complète par rapport à deux mille dix-huit. Selon Le Devoir, les pourcentages de voix sont toutefois plus serrés que la répartition des sièges ne le laisse croire : le Parti québécois arrive en tête avec vingt-huit pour cent des suffrages, suivi du Parti libéral à vingt-quatre virgule trois pour cent, et du Parti conservateur à vingt virgule sept pour cent. La Coalition avenir Québec a tout de même récolté treize virgule trois pour cent des votes, davantage que Québec solidaire et ses douze virgule quatre pour cent. Selon des données préliminaires d'Élections Québec, environ soixante-sept pour cent des électeurs se sont déplacés aux urnes.
+
+    Le Parti québécois se retrouve donc à la tête d'un gouvernement minoritaire, selon Radio-Canada. Du côté de la Coalition avenir Québec, la soirée électorale a été qualifiée de funeste par Radio-Canada. La cheffe Christine Fréchette a elle-même été défaite dans Trois-Rivières, et son parti n'a récolté qu'environ treize pour cent des voix dans l'ensemble de la province. Madame Fréchette a dit assumer la responsabilité de cette défaite.
+
+    Plusieurs réactions ont suivi le scrutin. Selon Les Affaires, l'Association provinciale des constructeurs d'habitations du Québec a félicité monsieur Saint-Pierre Plamondon et rappelé l'importance de faire de l'habitation une priorité. La Centrale des syndicats du Québec, de son côté, appelle le nouveau gouvernement à exercer son mandat sous le signe du dialogue social.
+
+    Cette victoire péquiste a aussi des échos à l'extérieur du Québec. Selon Reuters, ce résultat pourrait compliquer la réponse du premier ministre canadien Mark Carney face à Donald Trump, dans un contexte où Ottawa cherche à maintenir un front uni avec les provinces. Toujours à Ottawa, selon La Presse, le ministre de la Sécurité publique, Gary Anandasangaree, a reconnu lundi l'existence de lacunes dans le processus canadien d'octroi des habilitations de sécurité, après la confirmation qu'une Canadienne accusée d'espionnage en avait obtenu une.
+
+    En Alberta, selon La Presse, le cabinet de la première ministre Danielle Smith prend ses distances avec l'un des présidents de son parti, qui a rencontré à Calgary des stratèges républicains américains cherchant à appuyer le mouvement séparatiste albertain.
+  </chapitre>
+
+  <chapitre titre="International">
+    On passe à l'international, où le Brésil continue de dominer l'actualité après le premier tour de l'élection présidentielle de dimanche. Selon le Financial Times et Reuters, les marchés brésiliens ont bondi lundi, la bourse atteignant un sommet record, les investisseurs misant sur une victoire du candidat de droite Flávio Bolsonaro au second tour prévu le vingt-cinq octobre.
+
+    En Asie, selon Associated Press, la colère monte au Japon après l'arrestation d'un marine américain soupçonné d'avoir tué une femme à Okinawa. Toujours en Asie, selon Al Jazeera, la Corée du Sud étudie des moyens de forcer la Corée du Nord à présenter des excuses après l'explosion d'une mine près de la zone démilitarisée ; Séoul a exigé que Pyongyang retire toute autre mine installée du côté sud de la ligne de démarcation.
+
+    Au Moyen-Orient, selon la BBC, l'armée yéménite affirme avoir sécurisé une voie maritime stratégique de la mer Rouge, même si des forces appuyées par l'Arabie saoudite ont donné des versions contradictoires sur la prise du port de Moka, près du détroit de Bab al-Mandeb. Toujours selon la BBC, l'Arabie saoudite fait l'objet d'appels à la clémence pour un homme condamné à mort pour blasphème après un commentaire publié sur Facebook.
+
+    En Cisjordanie occupée, Al Jazeera rapporte que des colons et des forces israéliennes ont battu des Palestiniens, incendié des biens et volé des récoltes au début de la saison des olives.
+
+    En Afrique, selon la BBC, le Kenya a confirmé son premier décès lié à Ebola, chez un patient qui résidait en République démocratique du Congo, où plus de quatre mille personnes sont mortes de la maladie cette année.
+
+    En Europe, CBC rapporte que des inquiétudes persistent en Russie après la mort d'une travailleuse de laboratoire de vingt-huit ans, où certains craignent une exposition à une forme de peste pulmonaire. En France, selon CBC, un adolescent aurait perdu une main après l'explosion d'une grenade policière lors d'affrontements avec des lycéens manifestant contre le sous-financement et la surpopulation des écoles.
+
+    Toujours en Europe, selon Al Jazeera, la Grèce a ouvert un procès contre le fondateur du groupe de sauvetage de réfugiés Aegean Boat Report, Tommy Olsen, qui se défend en affirmant appliquer la primauté du droit. En Norvège, selon Associated Press, des inquiétudes sur la vie privée placent les lunettes intelligentes sous surveillance, le pays envisageant une interdiction temporaire.
+
+    Aux États-Unis, selon CBC, l'État de New York a déclaré l'urgence sanitaire après une éclosion de rougeole, la gouverneure Kathy Hochul ayant signé cette déclaration lundi, une première depuis le début de la résurgence des cas en deux mille vingt-cinq. Plus de cent cas ont été rapportés dans l'État depuis le début de l'année.
+
+    Du côté judiciaire américain, selon Reuters, le président Donald Trump a ordonné l'exécution par peloton d'exécution de l'homme reconnu coupable d'avoir tué treize personnes à Fort Hood, au Texas. Également aux États-Unis, Associated Press rapporte le décès de l'ancien président de la Chambre des représentants Dennis Hastert, à l'âge de quatre-vingt-quatre ans. Au Royaume-Uni, selon National Post, l'auteur à succès et ancien député conservateur Jeffrey Archer est mort subitement à l'âge de quatre-vingt-six ans.
+
+    Finalement, selon Associated Press, le prix Nobel de médecine a été attribué à trois scientifiques pour leurs travaux sur l'activité cérébrale.
+  </chapitre>
+
+  <chapitre titre="Économie et marchés">
+    On passe à l'économie, où les marchés américains flirtent avec des sommets historiques. Selon BNN Bloomberg, les actions américaines ont progressé lundi, s'approchant d'un record absolu. Bloomberg précise que les obligations ont poursuivi leur repli pendant que les actions montaient légèrement.
+
+    Ce mouvement sur les marchés obligataires inquiète plusieurs observateurs. Selon le Financial Times, le gouverneur de la banque centrale française a averti que le pays risque d'être, je le cite, "strangled by interest rates". Fin de citation. Toujours selon le Financial Times, la Banque centrale européenne pourrait devoir mettre en pause son resserrement quantitatif en raison de cette turbulence obligataire. Selon Reuters, la question se pose aussi à Washington, où l'on se demande quelle sera la réponse si les rendements obligataires américains continuent de grimper. Selon The Economist, cette vente massive d'obligations contribue paradoxalement à renforcer le dollar américain, même si sa vigueur est jugée moins fiable qu'auparavant.
+
+    Du côté du pétrole, selon Reuters, les prix ont reculé, les exportations en provenance du Moyen-Orient et les réserves stratégiques du G7 ayant atténué les craintes d'approvisionnement.
+
+    Sur le plan commercial, selon The Economist, l'Allemagne et la France réclament conjointement des mécanismes de protection à l'échelle de l'Union européenne face à la poussée des exportations chinoises, une lettre commune qui laisse présager une confrontation à venir avec Pékin.
+
+    Du côté canadien, selon BNN Bloomberg, l'analyste Larry Berman se demande si le moment est venu d'investir dans le Canada et le dollar canadien. Toujours selon BNN Bloomberg, l'analyste Nuttall soutient qu'un secteur énergétique fort demeure la seule façon de sortir le pays de ses difficultés budgétaires. Ailleurs au pays, CBC rapporte que les prix de la protéine de petit-lait atteignent des sommets records, la demande mondiale faisant grimper les coûts, une situation aggravée par le conflit commercial entre le Canada et les États-Unis.
+
+    En entreprises, selon Les Affaires, Curaleaf a bonifié son offre de rachat d'Aurora Cannabis. Selon Reuters, le fabricant de puces AMD prévoit augmenter substantiellement son approvisionnement en deux mille vingt-sept, selon son chef de la direction.
+  </chapitre>
+
+  <chapitre titre="Tech">
+    Un mot sur la tech, où l'intelligence artificielle continue de soulever des questions de sécurité. Selon Ars Technica, des chercheurs ont découvert une faille structurelle touchant le protocole utilisé par les agents d'intelligence artificielle pour communiquer entre eux, soit le Model Context Protocol, ou MCP. Des organisations comme Google, JP Morgan Chase et le gouvernement français ont reconnu des vulnérabilités permettant à un agent compromis de propager des instructions malveillantes à d'autres agents internes, qui leur font automatiquement confiance.
+
+    Du côté d'Apple, selon Ars Technica, un développeur a créé un outil en ligne de commande permettant de désactiver complètement Apple Intelligence sur macOS vingt-sept, une fonctionnalité qu'Apple elle-même ne permet plus de désactiver facilement et qui peut occuper plus de trente gigaoctets d'espace disque.
+
+    En matière de conformité réglementaire, selon TechCrunch, OpenAI commencera à apposer un filigrane invisible sur les textes générés par ChatGPT dans l'Union européenne, afin de se conformer à la loi européenne sur l'intelligence artificielle. L'entreprise précise que des modifications subséquentes du texte peuvent rendre cette marque plus difficile à détecter.
+
+    Du côté du financement, selon TechCrunch, la jeune pousse de puces d'intelligence artificielle Etched reçoit des offres d'investissement qui la valoriseraient à plus de quarante milliards de dollars, à peine quelques mois après son dernier tour de financement majeur. Toujours selon TechCrunch, la firme Menlo a investi dans Factory peu après que l'investisseur Vinod Khosla ait publiquement qualifié l'entreprise de projet en difficulté.
+
+    Du côté réglementaire américain, Ars Technica rapporte que des groupes de lobby du câble, dont Comcast et Charter, comptent poursuivre la Commission fédérale des communications pour bloquer l'abrogation du plafond national de propriété des stations de télévision, une mesure qu'ils jugent susceptible de faire grimper les factures mensuelles des consommateurs.
+
+    Finalement, selon TechCrunch, le constructeur de véhicules électriques Lucid Motors a vu sa production chuter à son niveau le plus bas en presque deux ans, l'entreprise limitant volontairement sa production après des années de demande insuffisante.
+  </chapitre>
+
+  <outro>Voilà pour ce Presto du mardi six octobre deux mille vingt-six. Si ce briefing vous est utile, le meilleur coup de main que vous pouvez nous donner, c'est de le partager à une personne qui aime rester informée. Et selon votre plateforme : un abonnement sur Spotify ou Apple Podcasts, un pouce bleu et un abonnement sur YouTube, ça prend deux secondes et ça aide vraiment Presto à grandir. Sur ce, bonne journée, et à demain.</outro>
+</script>
+```
