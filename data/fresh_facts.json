@@ -1,46 +1,54 @@
 {
-  "generated_at": "2026-10-06T22:54:15.746410+00:00",
+  "generated_at": "2026-10-07T19:13:25.037028+00:00",
   "window_hours": 8,
   "faits": [
     {
-      "sujet": "Apple et LG partenariat maison intelligente",
-      "fait": "Apple s'associe avec LG pour lancer des dispositifs domotiques incluant une serrure intelligente, un thermostat, une sonnette vidéo, une caméra intérieure et extérieure, selon TechCrunch et The Verge. Les produits seront compatibles avec les protocoles Thread et Matter et intégreront la plateforme HomeKit rénovée."
+      "sujet": "ChatGPT interface visuelle",
+      "fait": "OpenAI lance une nouvelle fonctionnalité « Intelligent UI » permettant à ChatGPT de répondre avec des visuels interactifs (diagrammes, graphiques, formulaires, boutons). Selon The Verge, cette mise à jour est déployée aux utilisateurs avec GPT-6."
     },
     {
-      "sujet": "Xbox droits exclusifs streaming GTA 6",
-      "fait": "Xbox a obtenu les droits exclusifs de streaming pour Grand Theft Auto VI au lancement sur Xbox Cloud Gaming, selon The Verge. La durée de cet accord exclusif n'a pas été précisée."
+      "sujet": "Surface Laptop Ultra lancement",
+      "fait": "Microsoft lance le Surface Laptop Ultra équipé du processeur Nvidia RTX Spark à partir de 2 599 $ US, disponible à partir du 16 octobre. Selon The Verge, les configurations de départ incluent un processeur 8 cœurs, 24 GB de RAM et 512 GB de stockage."
     },
     {
-      "sujet": "OpenAI watermarking ChatGPT Union européenne",
-      "fait": "OpenAI appliquera automatiquement un filigrane (textGrain) aux textes générés par ChatGPT dans l'Union européenne pour se conformer à la loi sur l'IA de l'UE entrée en vigueur en août, selon Ars Technica. La fonctionnalité sera disponible optionnellement ailleurs."
+      "sujet": "Nvidia RTX Spark laptops prix",
+      "fait": "Les premiers laptops Nvidia RTX Spark de Dell, Lenovo, MSI, HP et Asus débutent à 2 599 $ US, certains modèles atteignant jusqu'à 7 000 $ US. Selon The Verge, les configurations haut de gamme comme l'Asus ProArt P16 affichent les prix les plus élevés."
     },
     {
-      "sujet": "Fusion Paramount Warner Bros Skydance",
-      "fait": "La fusion entre Paramount et Warner Bros a été conclue, formant Skydance, qui a commencé à être cotée à Wall Street le mardi 6 octobre, selon Al Jazeera. CNN et CBS News sont désormais sous le même groupe."
+      "sujet": "Musk soutient indépendance Québec",
+      "fait": "Elon Musk déclare sur le réseau X que le Québec « devrait se séparer » du Canada et ajoute que l'Alberta et la Saskatchewan devraient aussi le faire. Selon Radio-Canada, Musk compte 241 millions d'abonnés sur sa plateforme."
     },
     {
-      "sujet": "Élection Québec gouvernement minoritaire Plamondon",
-      "fait": "Paul St-Pierre Plamondon, désigné premier ministre, a confirmé qu'il ne formera pas de gouvernement de coalition et collaborera cas par cas avec les partis d'opposition, selon Radio-Canada."
+      "sujet": "Domaines internet IA",
+      "fait": "L'ICANN accepte les demandes pour 1 615 nouveaux domaines de premier niveau, dont .agent et .agi très demandés par les entreprises IA. Selon The Verge, OpenAI et Meta ont tous deux postulé pour .agent, et sept entreprises dont OpenAI pour .agi."
     },
     {
-      "sujet": "Dérones attaques navires zones OTAN",
-      "fait": "Deux navires de cargo ont été coulés ou incendiés par des drones à environ 128 km des côtes de la Bulgarie, tuant au moins deux marins dans les zones économiques exclusives de pays membres de l'OTAN pour la première fois, selon Ars Technica. Le Premier ministre bulgare a qualifié cela de violation du droit maritime international."
+      "sujet": "MAID exclusion maladie mentale",
+      "fait": "Le gouvernement fédéral canadien annonce l'exclusion permanente des personnes atteintes exclusivement de trouble de santé mentale de l'aide médicale à mourir. Selon BBC World, cette mesure suspend les plans d'élargissement prévus pour mars 2027."
     },
     {
-      "sujet": "Enquête produits chimiques sous-vêtements enfants",
-      "fait": "Le procureur général du Texas Ken Paxton a lancé une enquête sur Fruit of the Loom et Hanes concernant l'utilisation potentielle de produits chimiques toxiques dans la fabrication de sous-vêtements pour enfants, selon CBC."
+      "sujet": "Débrayage vaccin Ontario",
+      "fait": "Certains organismes de santé publique en Ontario signalent un retard dans le déploiement des doses de vaccin COVID-19 destinées aux populations à risque élevé. Selon Global News, le déploiement continue mais avec des délais."
     },
     {
-      "sujet": "Startup Melius financement 20 millions dollars",
-      "fait": "D'anciens ingénieurs de Ramp ont levé 20 millions de dollars pour Melius après avoir abandonné leur premier produit, selon TechCrunch. La plateforme pivot a dépassé 1 million de dollars de revenus annualisés en deux mois."
+      "sujet": "Attaque russe sur l'Ukraine",
+      "fait": "La Russie lance une attaque massive sur l'Ukraine comprenant 130 drones et 48 missiles de croisière et balistiques, faisant au moins 24 morts. Selon Al Jazeera, cette attaque de nuit représente une salve d'envergure significative."
     },
     {
-      "sujet": "Cornell enquête harcèlement sexuel Sally Yates",
-      "fait": "L'université Cornell a engagé l'ancienne responsable du département de la Justice Sally Yates pour examiner la façon dont l'établissement a géré les plaintes de harcèlement sexuel, selon Associated Press."
+      "sujet": "Premier cas Ebola Kenya",
+      "fait": "Le Kenya intensifie les efforts de préparation à l'Ebola suite au premier décès confirmé et à des inquiétudes concernant les lacunes dans le dépistage aux frontières. Selon Al Jazeera, le gouvernement met le pays en état d'alerte élevée."
     },
     {
-      "sujet": "Colombie-Britannique élection Conservateurs avance",
-      "fait": "Un sondage de l'Institut Angus Reid montre que les Conservateurs de Colombie-Britannique maintiennent une avance de cinq points sur le NPD sortant à l'approche du scrutin, selon National Post."
+      "sujet": "Accord Weston Boots",
+      "fait": "La famille Weston canadienne s'apprête à acheter l'enseigne britannique Boots pour 8,9 milliards de dollars. Selon Reuters, cette transaction représente une acquisition majeure du secteur de la pharmacie."
+    },
+    {
+      "sujet": "Tensions Érythrée Éthiopie",
+      "fait": "Des témoins signalent le déploiement de troupes érythréennes dans le nord du Tigré en Éthiopie, tandis que l'Érythrée rejette cette allégation. Selon Al Jazeera, les tensions s'intensifient suite à la reprise des hostilités le 23 septembre."
+    },
+    {
+      "sujet": "Penguin colonie climat",
+      "fait": "La plus grande colonie de manchots au monde, située près de l'Antarctique, n'existe plus, ses habitants ayant probablement été décimés par des changements climatiques affectant les chaînes alimentaires. Selon La Presse, une nouvelle étude révèle ce déclin."
     }
   ]
 }
