@@ -1,0 +1,75 @@
+```xml
+<script>
+  <intro>Bonjour, on est le mercredi sept octobre deux mille vingt-six. Voici votre Presto en environ quinze minutes. Au menu : le troisième anniversaire de l'attaque du sept octobre et ses suites au Québec et à Ottawa, l'international avec des drones qui coulent des navires près de pays de l'OTAN, l'économie, et la tech avec de nouveaux développements chez OpenAI.</intro>
+
+  <chapitre titre="International">
+    On commence par Israël, qui marque aujourd'hui le troisième anniversaire de l'attaque menée par le Hamas le sept octobre deux mille vingt-trois. Selon CBC, cette attaque avait fait mille deux cents morts et deux cent cinquante et une personnes avaient été prises en otage, déclenchant une guerre dévastatrice à Gaza qui a laissé une grande partie du territoire en ruines et ses deux millions d'habitants dans des conditions difficiles. Des cérémonies sont prévues toute la journée en Israël, avec notamment une minute de silence sur les sites attaqués, rapporte Radio-Canada.
+
+    La BBC s'est rendue au kibboutz de Nir Oz, où quarante-sept personnes avaient été tuées et soixante-seize prises en otage il y a trois ans. Selon la BBC, certains survivants ont choisi d'y retourner vivre malgré tout. Radio-Canada souligne par ailleurs qu'à vingt jours des élections, les Israéliens sont de plus en plus divisés, et qu'Al Jazeera note que le traumatisme du sept octobre continue de façonner la politique israélienne, selon ses propres mots, vers un virage encore plus marqué à droite.
+
+    Ailleurs en Europe, la Bulgarie a été la cible d'une attaque de drones qui a coulé deux navires marchands et en a endommagé un troisième dans sa zone économique exclusive, selon Ars Technica, qui cite l'Associated Press. Au moins deux marins sont morts. Le premier ministre bulgare Rumen Radev a qualifié l'incident d'attaque inacceptable et de violation flagrante du droit international et maritime. C'est la première fois que de telles attaques surviennent dans les eaux de pays membres de l'OTAN, dans un contexte où le transport commercial en mer Noire est de plus en plus pris pour cible depuis l'invasion russe de l'Ukraine.
+
+    Toujours du côté de la Russie, le dirigeant nord-coréen Kim Jong-un a adressé une lettre d'anniversaire au président russe Vladimir Poutine, promettant, je le cite : "invariable support" for Russia. Fin de citation. Selon le National Post, qui cite les médias d'État nord-coréens, monsieur Kim a aussi qualifié la guerre russe en Ukraine de, je le cite : "sacred". Fin de citation.
+
+    En France, selon Al Jazeera, le gouvernement a suspendu l'usage de grenades de désencerclement par la police lors des manifestations étudiantes, après que des milliers de personnes eurent manifesté pour réclamer davantage de financement pour l'éducation. Le premier ministre Sébastien Lecornu doit s'adresser publiquement à ce sujet.
+
+    En Inde, la BBC rapporte qu'un chef de l'opposition a été traîné de force hors d'un autobus par la police lors d'une manifestation. Des dirigeants de l'opposition allèguent que le président de la commission électorale, Gyanesh Kumar, aurait manipulé les listes électorales pour favoriser le parti du premier ministre Narendra Modi.
+
+    Aux États-Unis, selon la BBC et confirmé par CBC, la détenue du couloir de la mort Christa Pike est consciente et parle, six jours après une tentative d'exécution ratée par injection létale qui l'avait laissée inconsciente et sous respirateur au Tennessee. Des experts et avocats qualifient ce rétablissement de cas sans précédent documenté, puisqu'elle serait la seule personne connue à avoir survécu à une injection létale. Son pronostic demeure incertain, selon ses avocats.
+  </chapitre>
+
+  <chapitre titre="Actualité québécoise">
+    On passe au Québec, où le Parti québécois amorce la formation de son gouvernement minoritaire au lendemain de sa victoire électorale. Selon Global News, le chef Paul Saint-Pierre Plamondon affirme qu'un référendum sur la souveraineté n'est pas une priorité immédiate, et qu'il entend gouverner en concentrant ses efforts sur l'itinérance et le coût de la vie.
+
+    Le Devoir fait valoir que monsieur Saint-Pierre Plamondon ne détiendra pas tous les leviers à l'Assemblée nationale et devra composer avec six défis majeurs pour gouverner en contexte minoritaire. Du côté économique, Radio-Canada souligne que le programme péquiste, qui promet un retour à l'équilibre budgétaire pour l'exercice deux mille vingt-huit, deux mille vingt-neuf, s'annonce complexe à déployer dans la conjoncture actuelle.
+
+    Dans un autre registre, La Presse rapporte que l'ancien président de l'entreprise Savoura, Stéphane Roy, avait consommé ce qu'un rapport décrit comme un mauvais cocktail de drogues avant de prendre les commandes de son hélicoptère, qui s'est écrasé en deux mille dix-neuf. Ce rapport, que la succession de monsieur Roy souhaitait garder secret, a été dévoilé dans le cadre d'une poursuite de cinquante millions de dollars.
+
+    Toujours en matière judiciaire, La Presse révèle que le chef de la direction d'un important fournisseur québécois de l'armée canadienne, Hugues Dorban, a été arrêté la semaine dernière pour possession et distribution de pornographie juvénile.
+
+    Par ailleurs, La Presse rapporte qu'une double tentative de meurtre visant deux hommes dans la trentaine est survenue lundi matin près de l'échangeur des autoroutes vingt-cinq nord et quarante, à Montréal, selon le Service de police de la Ville de Montréal. Et à Salaberry-de-Valleyfield, le Bureau des enquêtes indépendantes enquête sur une intervention de la Sûreté du Québec au cours de laquelle une personne a été blessée par balle, selon La Presse.
+  </chapitre>
+
+  <chapitre titre="Politique canadienne">
+    Du côté d'Ottawa, CBC rapporte que la ministre fédérale de l'Immigration, Lena Diab, a semblé, lors d'une entrevue avec Radio-Canada, ne pas connaître une décision déterminante de la Cour suprême qui garantit les droits protégés par la Charte aux réfugiés et qui est considérée comme la pierre angulaire du système canadien de protection des réfugiés. Des défenseurs des droits des réfugiés se disent choqués par cette méconnaissance apparente.
+
+    Toujours selon le National Post, une Première Nation dont le territoire longe la frontière canado-américaine dans le fleuve Saint-Laurent conteste une exemption temporaire accordée à l'agence américaine des douanes et de la protection des frontières, qui permet à des agents armés de circuler dans les eaux canadiennes. Le chef de cette Première Nation affirme, selon ses mots rapportés par le National Post, vouloir reprendre le contrôle de ces eaux.
+
+    Par ailleurs, la FAA, l'agence fédérale américaine de l'aviation, enquête après qu'un avion de Delta Air Lines a frôlé un appareil d'Air Canada à l'aéroport international de Los Angeles mardi, selon CBC.
+  </chapitre>
+
+  <chapitre titre="Économie et marchés">
+    Un mot sur l'économie. L'Economist se penche sur la posture internationale de la Russie et de Vladimir Poutine, notant que la mise en évidence de ce que le magazine appelle la méchanceté du dirigeant russe ne doit pas se faire aux dépens de l'Ukraine.
+
+    Toujours selon l'Economist, des investisseurs américains utiliseraient une stratégie fiscale consistant à réaliser des pertes sur papier pour réduire leur facture d'impôt, une pratique que le fisc américain surveillerait de plus près.
+
+    L'Economist rapporte aussi que la Chine investit massivement dans les interfaces cerveau-machine, un nouveau front de la rivalité technologique avec les États-Unis.
+
+    Dans le secteur des médias, Ars Technica rapporte que Paramount Skydance a finalisé l'acquisition de Warner Bros Discovery, une transaction évaluée à cent onze milliards de dollars américains, mettant fin à une saga de plusieurs mois qui avait débuté lorsque Netflix avait annoncé son propre projet d'achat de Warner Bros Discovery, un projet abandonné en février. Selon Ars Technica, les services de diffusion HBO Max, Paramount Plus et Discovery Plus seront unifiés en une seule plateforme au fil du temps.
+  </chapitre>
+
+  <chapitre titre="Tech">
+    On passe à la tech, où OpenAI continue de faire les manchettes à plusieurs niveaux. Selon The Verge, l'organisation Common Sense Media, qui évalue des applications et services en fonction de la sécurité des jeunes, qualifie ChatGPT pour adolescents de risque inacceptable. L'évaluation de l'organisme conclut que l'outil n'envoie pas d'alertes aux parents quand il le devrait, n'offre pas l'aide appropriée en situation de crise, et fait encore les devoirs des élèves à leur place.
+
+    Toujours chez OpenAI, The Verge rapporte que l'entreprise a dévoilé un nouveau lot de percées mathématiques générées par un modèle de pointe non публié, soit sept cent vingt-deux manuscrits couvrant plus de trois cents familles de résultats regroupant des travaux liés entre eux. Selon un groupe consultatif indépendant formé de mathématiciens, nommé AGMAI et mis sur pied pour communiquer ces résultats de façon responsable, cette diffusion inclut des solutions à des centaines de questions ouvertes. The Verge souligne que cette série de percées impressionne et inquiète à la fois une partie de la communauté mathématique, soulevant des questions sur l'éthique de la recherche.
+
+    Par ailleurs, Ars Technica rapporte qu'OpenAI commencera à apposer un filigrane numérique, par défaut, sur les textes générés par ChatGPT dans l'Union européenne, une mesure dictée par la loi européenne sur l'intelligence artificielle entrée en vigueur en août. Cette fonction restera toutefois désactivée par défaut ailleurs dans le monde. La méthode, baptisée textGrain par l'entreprise, insère des motifs dans le choix des mots qui ne sont pas perceptibles à l'œil humain, mais détectables par un outil spécialisé.
+
+    Du côté d'Apple, TechCrunch rapporte que l'entreprise s'associerait à LG pour lancer une gamme d'appareils pour la maison intelligente, dont une serrure, un thermostat et une sonnette connectés.
+
+    Dans le jeu vidéo, selon The Verge, Microsoft aurait conclu une entente pour obtenir les droits de diffusion en continu de Grand Theft Auto six sur Xbox Cloud Gaming dès son lancement, selon des sources proches des plans de l'entreprise.
+
+    Enfin, Spotify annonce l'expansion de son offre de livres audio dans plus de cent quatre-vingts marchés, avec trois cent cinquante mille titres disponibles en plus de cent vingt langues, selon TechCrunch.
+  </chapitre>
+
+  <chapitre titre="Sport">
+    Rapidement en sport. Au hockey, selon Sportsnet, les Maple Leafs de Toronto ont signé une remontée spectaculaire mardi, portée notamment par le tout premier but en carrière de Gavin McKenna, servi par Auston Matthews. Du côté des Canadiens de Montréal, Sportsnet rapporte que l'équipe n'a pas été en mesure de rivaliser avec les Hurricanes de la Caroline.
+
+    Au baseball, Yoshinobu Yamamoto a retiré dix frappeurs sur des prises en sept manches, et Kiké Hernández a cogné un circuit de deux points, menant les Dodgers de Los Angeles vers une victoire de trois à un contre les Braves d'Atlanta. Les Dodgers prennent ainsi une avance de deux matchs à un dans leur série de division face aux Braves, selon Sportsnet.
+
+    Au soccer, Al Jazeera rapporte que l'entraîneur de l'Argentine, Lionel Scaloni, a qualifié d'émouvante la journée marquant la fin de la carrière internationale de Lionel Messi, qu'il a décrit, je le cite : "irreplaceable". Fin de citation.
+  </chapitre>
+
+  <outro>Voilà pour ce Presto du mercredi sept octobre deux mille vingt-six. Si ce briefing vous est utile, le meilleur coup de main que vous pouvez nous donner, c'est de le partager à une personne qui aime rester informée. Et selon votre plateforme : un abonnement sur Spotify ou Apple Podcasts, un pouce bleu et un abonnement sur YouTube, ça prend deux secondes et ça aide vraiment Presto à grandir. Sur ce, bonne journée, et à demain.</outro>
+</script>
+```
