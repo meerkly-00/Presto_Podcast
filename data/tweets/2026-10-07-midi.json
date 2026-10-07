@@ -1,0 +1,14 @@
+{
+  "date": "2026-10-07",
+  "kind": "poll",
+  "text": "Ce matin → Microsoft lance le Surface Laptop Ultra avec puce Nvidia à 2 599 $ US, dès le 16 octobre.\n\nNouveau → Dell, Lenovo, MSI, HP et Asus proposent aussi des modèles équipés, certains\n\nLes PC IA à 2 600 $ et plus vont-ils devenir essentiels pour la plupart des utilisateurs?",
+  "poll": {
+    "options": [
+      "Oui, c'est l'avenir",
+      "Seulement pour",
+      "Non, trop cher pour le",
+      "Trop tôt pour dire"
+    ],
+    "duration_minutes": 1440
+  }
+}
