@@ -1,54 +1,50 @@
 {
-  "generated_at": "2026-10-07T19:13:25.037028+00:00",
+  "generated_at": "2026-10-08T01:35:01.041861+00:00",
   "window_hours": 8,
   "faits": [
     {
-      "sujet": "ChatGPT interface visuelle",
-      "fait": "OpenAI lance une nouvelle fonctionnalité « Intelligent UI » permettant à ChatGPT de répondre avec des visuels interactifs (diagrammes, graphiques, formulaires, boutons). Selon The Verge, cette mise à jour est déployée aux utilisateurs avec GPT-6."
+      "sujet": "Investissements militaires canadiens en Alberta",
+      "fait": "Le Canada annonce 8 milliards de dollars d'investissements militaires en Alberta, dont 4 milliards pour la base de Cold Lake pour accueillir les F-35, selon Radio-Canada."
     },
     {
-      "sujet": "Surface Laptop Ultra lancement",
-      "fait": "Microsoft lance le Surface Laptop Ultra équipé du processeur Nvidia RTX Spark à partir de 2 599 $ US, disponible à partir du 16 octobre. Selon The Verge, les configurations de départ incluent un processeur 8 cœurs, 24 GB de RAM et 512 GB de stockage."
+      "sujet": "Interdiction des acheteurs étrangers au Canada",
+      "fait": "Le ministre fédéral des Finances François-Philippe Champagne déclare que le gouvernement étudie les options pour l'interdiction des acheteurs étrangers qui expire fin décembre, selon le National Post."
     },
     {
-      "sujet": "Nvidia RTX Spark laptops prix",
-      "fait": "Les premiers laptops Nvidia RTX Spark de Dell, Lenovo, MSI, HP et Asus débutent à 2 599 $ US, certains modèles atteignant jusqu'à 7 000 $ US. Selon The Verge, les configurations haut de gamme comme l'Asus ProArt P16 affichent les prix les plus élevés."
+      "sujet": "Acquisition de Boots par la famille Weston",
+      "fait": "La famille Weston du Canada acquiert la chaîne britannique Boots pour 8,9 milliards de dollars, selon Reuters."
     },
     {
-      "sujet": "Musk soutient indépendance Québec",
-      "fait": "Elon Musk déclare sur le réseau X que le Québec « devrait se séparer » du Canada et ajoute que l'Alberta et la Saskatchewan devraient aussi le faire. Selon Radio-Canada, Musk compte 241 millions d'abonnés sur sa plateforme."
+      "sujet": "Procès contre Trump sur campagne publicitaire",
+      "fait": "Les Démocrates poursuivent le président Trump pour une campagne publicitaire financée par les contribuables qu'ils jugent contraire aux interdictions de propagande financée par l'État, selon Al Jazeera."
     },
     {
-      "sujet": "Domaines internet IA",
-      "fait": "L'ICANN accepte les demandes pour 1 615 nouveaux domaines de premier niveau, dont .agent et .agi très demandés par les entreprises IA. Selon The Verge, OpenAI et Meta ont tous deux postulé pour .agent, et sept entreprises dont OpenAI pour .agi."
+      "sujet": "Levée de fonds pour startups hors Silicon Valley",
+      "fait": "Endeavor Catalyst lève 320 millions de dollars pour financer des entrepreneurs en dehors de Silicon Valley, avec la moitié des profits reversés à l'organisme sans but lucratif qui les identifie, selon TechCrunch."
     },
     {
-      "sujet": "MAID exclusion maladie mentale",
-      "fait": "Le gouvernement fédéral canadien annonce l'exclusion permanente des personnes atteintes exclusivement de trouble de santé mentale de l'aide médicale à mourir. Selon BBC World, cette mesure suspend les plans d'élargissement prévus pour mars 2027."
+      "sujet": "Valuation de Nous Research",
+      "fait": "Nous Research, développeur d'agents IA Hermes Agent, lève 90 millions de dollars en série B et atteint une valorisation de 1,5 milliard de dollars, selon TechCrunch."
     },
     {
-      "sujet": "Débrayage vaccin Ontario",
-      "fait": "Certains organismes de santé publique en Ontario signalent un retard dans le déploiement des doses de vaccin COVID-19 destinées aux populations à risque élevé. Selon Global News, le déploiement continue mais avec des délais."
+      "sujet": "Profits de Samsung au troisième trimestre",
+      "fait": "Les profits de Samsung augmentent d'environ neuf fois au troisième trimestre grâce à la demande croissante en mémoire liée à l'IA, selon Reuters."
     },
     {
-      "sujet": "Attaque russe sur l'Ukraine",
-      "fait": "La Russie lance une attaque massive sur l'Ukraine comprenant 130 drones et 48 missiles de croisière et balistiques, faisant au moins 24 morts. Selon Al Jazeera, cette attaque de nuit représente une salve d'envergure significative."
+      "sujet": "Décès de la retraitée espagnole expulsée",
+      "fait": "Maricarmen Abascal, 87 ans, expulsée de son appartement madrilène en septembre 2026, meurt le 8 octobre selon Radio-Canada et le syndicat des locataires de Madrid."
     },
     {
-      "sujet": "Premier cas Ebola Kenya",
-      "fait": "Le Kenya intensifie les efforts de préparation à l'Ebola suite au premier décès confirmé et à des inquiétudes concernant les lacunes dans le dépistage aux frontières. Selon Al Jazeera, le gouvernement met le pays en état d'alerte élevée."
+      "sujet": "Exécution militaire aux États-Unis",
+      "fait": "Un ancien officier de l'armée américaine reconnu coupable du massacre de 13 personnes à Fort Hood en 2009 doit être exécuté par peloton d'exécution en décembre, première exécution militaire en plus de 65 ans, selon CBC."
     },
     {
-      "sujet": "Accord Weston Boots",
-      "fait": "La famille Weston canadienne s'apprête à acheter l'enseigne britannique Boots pour 8,9 milliards de dollars. Selon Reuters, cette transaction représente une acquisition majeure du secteur de la pharmacie."
+      "sujet": "Financement de startup robotique Mecka AI",
+      "fait": "Mecka AI lève 60 millions de dollars de Sequoia pour collecter et analyser des données de mouvement humain afin d'entraîner des robots humanoides, selon TechCrunch."
     },
     {
-      "sujet": "Tensions Érythrée Éthiopie",
-      "fait": "Des témoins signalent le déploiement de troupes érythréennes dans le nord du Tigré en Éthiopie, tandis que l'Érythrée rejette cette allégation. Selon Al Jazeera, les tensions s'intensifient suite à la reprise des hostilités le 23 septembre."
-    },
-    {
-      "sujet": "Penguin colonie climat",
-      "fait": "La plus grande colonie de manchots au monde, située près de l'Antarctique, n'existe plus, ses habitants ayant probablement été décimés par des changements climatiques affectant les chaînes alimentaires. Selon La Presse, une nouvelle étude révèle ce déclin."
+      "sujet": "Tempête tropicale Isaias devient ouragan",
+      "fait": "La tempête tropicale Isaias devrait se renforcer en ouragan avant de frapper la côte du Golfe américain plus tard cette semaine, selon CBC."
     }
   ]
 }
