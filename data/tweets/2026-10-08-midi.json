@@ -1,0 +1,14 @@
+{
+  "date": "2026-10-08",
+  "kind": "poll",
+  "text": "Ce matin → Wall Street replié de ses sommets après la hausse du pétrole mercredi.\n\nNouveau développement : trois chercheurs en sécurité IA licenciés d'OpenAI contestent les allégations de mauvaise\n\nSelon toi, comment les régulateurs devraient-ils encadrer la sécurité de l'IA?",
+  "poll": {
+    "options": [
+      "Renforcer la",
+      "Imposer des normes",
+      "Laisser l'industrie",
+      "Approche mixte"
+    ],
+    "duration_minutes": 1440
+  }
+}
