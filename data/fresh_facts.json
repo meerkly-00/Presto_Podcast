@@ -1,50 +1,54 @@
 {
-  "generated_at": "2026-10-08T01:35:01.041861+00:00",
+  "generated_at": "2026-10-08T19:09:38.896199+00:00",
   "window_hours": 8,
   "faits": [
     {
-      "sujet": "Investissements militaires canadiens en Alberta",
-      "fait": "Le Canada annonce 8 milliards de dollars d'investissements militaires en Alberta, dont 4 milliards pour la base de Cold Lake pour accueillir les F-35, selon Radio-Canada."
+      "sujet": "Projet de loi C-266 mobilité main-d'œuvre",
+      "fait": "L'Association des constructeurs du Québec (ACQ) appuie la mobilité de la main-d'œuvre prévue par le projet de loi C-266, tout en réclamant que le modèle québécois soit respecté. (Selon Les Affaires)"
     },
     {
-      "sujet": "Interdiction des acheteurs étrangers au Canada",
-      "fait": "Le ministre fédéral des Finances François-Philippe Champagne déclare que le gouvernement étudie les options pour l'interdiction des acheteurs étrangers qui expire fin décembre, selon le National Post."
+      "sujet": "Administration Trump suspend Microsoft programme cartes vertes",
+      "fait": "L'administration Trump suspend Microsoft d'un programme de cartes vertes, alléguant de la fraude. (Selon Associated Press)"
     },
     {
-      "sujet": "Acquisition de Boots par la famille Weston",
-      "fait": "La famille Weston du Canada acquiert la chaîne britannique Boots pour 8,9 milliards de dollars, selon Reuters."
+      "sujet": "OpenAI revenus inférieurs projections",
+      "fait": "Les revenus annualisés d'OpenAI seraient de 50 milliards de dollars, soit 20 milliards de moins que les projections antérieures de 70 milliards. (Selon TechCrunch)"
     },
     {
-      "sujet": "Procès contre Trump sur campagne publicitaire",
-      "fait": "Les Démocrates poursuivent le président Trump pour une campagne publicitaire financée par les contribuables qu'ils jugent contraire aux interdictions de propagande financée par l'État, selon Al Jazeera."
+      "sujet": "Plateforme Arena levée de fonds IA",
+      "fait": "La compagnie derrière la plateforme LMArena a levé 200 millions de dollars menés par Lightspeed et Khosla, portant sa valorisation à 3,1 milliards de dollars en 10 mois. (Selon TechCrunch)"
     },
     {
-      "sujet": "Levée de fonds pour startups hors Silicon Valley",
-      "fait": "Endeavor Catalyst lève 320 millions de dollars pour financer des entrepreneurs en dehors de Silicon Valley, avec la moitié des profits reversés à l'organisme sans but lucratif qui les identifie, selon TechCrunch."
+      "sujet": "USA Today poursuit OpenAI droits d'auteur",
+      "fait": "USA Today et plusieurs journaux locaux qu'elle possède poursuivent OpenAI pour avoir copié des centaines de milliers d'articles pour entraîner ses modèles d'IA, demandant plus de 250 millions de dollars en dommages. (Selon The Verge)"
     },
     {
-      "sujet": "Valuation de Nous Research",
-      "fait": "Nous Research, développeur d'agents IA Hermes Agent, lève 90 millions de dollars en série B et atteint une valorisation de 1,5 milliard de dollars, selon TechCrunch."
+      "sujet": "Forza Horizon 6 retard version PS5",
+      "fait": "Forza Horizon 6 sur PS5 est reporté au 26 janvier 2027, coïncidant avec une nouvelle expansion du jeu. (Selon The Verge)"
     },
     {
-      "sujet": "Profits de Samsung au troisième trimestre",
-      "fait": "Les profits de Samsung augmentent d'environ neuf fois au troisième trimestre grâce à la demande croissante en mémoire liée à l'IA, selon Reuters."
+      "sujet": "Commissaire langues officielles IA fonction publique",
+      "fait": "La commissaire aux langues officielles du Canada, Kelly Burke, recommande au gouvernement d'intégrer les langues officielles dans sa stratégie IA avec une échéance du 31 mars 2027, citant des risques de biais favorisant l'anglais. (Selon Radio-Canada)"
     },
     {
-      "sujet": "Décès de la retraitée espagnole expulsée",
-      "fait": "Maricarmen Abascal, 87 ans, expulsée de son appartement madrilène en septembre 2026, meurt le 8 octobre selon Radio-Canada et le syndicat des locataires de Madrid."
+      "sujet": "Programme fédéral rabais thermopompes",
+      "fait": "Le gouvernement fédéral lance son Programme national de rabais pour les thermopompes, injectant 2 milliards de dollars pour la rénovation écoénergétique de logements au pays. (Selon Radio-Canada)"
     },
     {
-      "sujet": "Exécution militaire aux États-Unis",
-      "fait": "Un ancien officier de l'armée américaine reconnu coupable du massacre de 13 personnes à Fort Hood en 2009 doit être exécuté par peloton d'exécution en décembre, première exécution militaire en plus de 65 ans, selon CBC."
+      "sujet": "Anne Carson prix Nobel littérature",
+      "fait": "L'écrivaine canadienne Anne Carson remporte le prix Nobel de littérature pour son œuvre en vers, prose et traductions. (Selon The Economist)"
     },
     {
-      "sujet": "Financement de startup robotique Mecka AI",
-      "fait": "Mecka AI lève 60 millions de dollars de Sequoia pour collecter et analyser des données de mouvement humain afin d'entraîner des robots humanoides, selon TechCrunch."
+      "sujet": "Colombie ambassade Jérusalem Israël",
+      "fait": "La Colombie ouvrira une ambassade à Jérusalem, selon le ministre israélien des Affaires étrangères, suite aux promesses du président colombien Abelardo De la Espriella de renforcer les liens avec Israël. (Selon Al Jazeera)"
     },
     {
-      "sujet": "Tempête tropicale Isaias devient ouragan",
-      "fait": "La tempête tropicale Isaias devrait se renforcer en ouragan avant de frapper la côte du Golfe américain plus tard cette semaine, selon CBC."
+      "sujet": "Tribunaux Arizona annule verdict IA vidéo",
+      "fait": "La Cour d'appel de l'Arizona annule une condamnation de 10 ans pour homicide involontaire après qu'une vidéo générée par IA ait présenté la victime parlant à un juge, décidant que le condamné doit être résentencie. (Selon CBC)"
+    },
+    {
+      "sujet": "Affaires officielles Canada nominations magistrature Ontario",
+      "fait": "Le ministre de la Justice et procureur général du Canada annonce des nominations à la magistrature de l'Ontario. (Selon Les Affaires)"
     }
   ]
 }
