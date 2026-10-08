@@ -1,0 +1,89 @@
+```xml
+<script>
+  <intro>Bonjour, on est le jeudi huit octobre deux mille vingt-six. Voici votre Presto en environ quinze minutes. Au menu : la France en crise, le Québec avec le nouveau gouvernement péquiste et un dossier d'itinérance à Montréal, les marchés qui reculent, et la tech avec Microsoft et OpenAI.</intro>
+
+  <chapitre titre="International">
+    On commence en France, où la situation reste tendue au lendemain d'une importante mobilisation nationale. Selon Le Devoir, les cours étaient suspendus en totalité ou en partie dans quatre cent cinquante-neuf lycées mercredi, selon le ministère de l'Éducation. Il s'agit d'une baisse de quarante et un pour cent des blocages comparativement à la veille. Mardi, une journée de mobilisation nationale avait rassemblé des centaines de milliers de manifestants partout au pays pour appuyer les lycéens.
+
+    Les lycéens, dont le mouvement est né à la mi-septembre en banlieue parisienne, réclament que les postes d'enseignants vacants soient pourvus, qu'il y ait moins d'élèves par classe et plus d'investissements dans les bâtiments. Le Devoir rapporte qu'un élève de dix-sept ans a dit au Monde qu'à son lycée professionnel, les toilettes sont souvent fermées, qu'il n'y a pas d'infirmière, et que les professeurs ne sont pas toujours remplacés.
+
+    Pour apaiser la colère des jeunes, amplifiée par la répression policière, le gouvernement a modifié sa stratégie et appelle maintenant au dialogue. Mais la révolte s'est déjà propagée sur plusieurs campus universitaires et dans plusieurs syndicats de travailleurs. Une nouvelle journée de mobilisation nationale est prévue jeudi. Selon Le Devoir, le ministre français de l'Intérieur, Laurent Nuñez, qualifie ce mouvement de mobilisation d'inédit. CBC rapporte aussi que ces protestations étudiantes ont plongé la France dans ce que le diffuseur appelle une crise, les manifestants dénonçant une pénurie de personnel qui dure depuis une décennie.
+
+    Toujours selon Radio-Canada, la situation budgétaire de la France demeure difficile dans ce contexte d'ébullition, et la marge de manœuvre du gouvernement est mince face à cette crise en éducation.
+
+    Direction les États-Unis, où les élections de mi-mandat de novembre approchent. Selon CBC, des données récentes suggèrent une poussée des démocrates, dans ce que le diffuseur décrit comme un test crucial pour le président Donald Trump et le parti qu'il domine depuis dix ans. Les premières données pointent vers des résultats difficiles pour les républicains en novembre.
+
+    Le National Post rapporte en parallèle que l'aile gauche du Parti démocrate espère vivre son propre moment, similaire à celui vécu par le mouvement Tea Party, à la faveur de cette poussée électorale. Un courant de gauche cherche non seulement à aider les démocrates à reprendre le Congrès, mais aussi à redéfinir le parti qui prendrait le pouvoir. Le National Post souligne par ailleurs que le président Trump pourrait chercher à attribuer de possibles pertes électorales républicaines au Canada.
+
+    Au Moyen-Orient, Reuters rapporte que des habitants d'une ville ukrainienne occupée par la Russie doivent emprunter ce que l'agence appelle une route de la mort pour aller chercher de la nourriture. Toujours selon Reuters, le prix du pétrole a augmenté dans un contexte de craintes persistantes concernant l'approvisionnement au Moyen-Orient, alors que des attaques continuent de viser des navires dans la région.
+
+    Au Liban, Reuters décrit une situation tendue dans une ville surnommée ville modèle, où des habitants se retrouvent encerclés par des soldats israéliens circulant à bord de bulldozers, accompagnés de drones et d'explosions. La BBC rapporte par ailleurs que les États-Unis et le Liban protègent un général syrien recherché, en échange d'informations, notamment au sujet du journaliste américain disparu Austin Tice.
+
+    Du côté du Royaume-Uni, la BBC rapporte qu'Israël a annoncé que la plupart des diplomates britanniques quitteraient le consulat de Jérusalem-Est. Le ministre britannique des Affaires étrangères, David Miliband, affirme que des services jugés essentiels resteront en place. Israël avait indiqué en septembre qu'il agirait en réponse aux sanctions britanniques visant des colonies israéliennes illégales en Cisjordanie.
+
+    En Bosnie, Al Jazeera souligne que trois partis nationalistes sont en voie de dominer à nouveau le paysage politique, ce qui approfondit les craintes de division et de paralysie dans le pays.
+  </chapitre>
+
+  <chapitre titre="Actualité québécoise">
+    Du côté du Québec, le Parti québécois poursuit la formation de son gouvernement minoritaire, à la suite de sa victoire électorale de lundi. La Presse note que cette victoire de Paul Saint-Pierre Plamondon cache des lendemains qui s'annoncent difficiles pour le projet souverainiste du parti.
+
+    Autre dossier marquant à Montréal : la crise de l'itinérance. La Presse rapporte qu'une femme dans la cinquantaine, qui vivait dans un campement à Montréal-Nord, est morte mercredi matin après qu'un feu a pris dans sa tente. Elle était inconsciente à l'arrivée des secours.
+
+    Toujours sur ce dossier, La Presse rapporte que la Ville de Montréal tente de faire fermer l'une des plus importantes maisons de chambres de la métropole. Le journal souligne que cette démarche risque de fragiliser des dizaines de locataires vulnérables et de les pousser à la rue.
+
+    Dans un tout autre registre, le Journal de Montréal rapporte que près de cent cinquante femmes disent avoir été agressées par trente-six massothérapeutes différents au Nordik Spa Village de Chelsea.
+
+    Enfin, un couac médiatique a marqué la soirée électorale. Le Journal de Montréal rapporte que Radio-Canada s'est excusée après avoir diffusé en simultané les discours du ministre Drainville et de madame Fréchette.
+  </chapitre>
+
+  <chapitre titre="Politique canadienne">
+    À Ottawa, le National Post rapporte que plus d'un an après que la ministre de l'Industrie, Mélanie Joly, a ordonné le retrait de tout équipement du géant chinois de surveillance Hikvision des propriétés du gouvernement, plusieurs organisations fédérales clés refusent toujours de dire si cette directive a été appliquée.
+
+    CBC rapporte par ailleurs que le gouvernement fédéral a retiré sa commandite d'une conférence européenne sur la désinformation, qui incluait des panels traitant des États-Unis comme une source potentielle d'ingérence étrangère.
+
+    En Alberta, Global News rapporte que deux bailleurs de fonds judiciaires américains poursuivent le chef séparatiste Jeff Rath pour cent douze millions de dollars. Ils allèguent qu'il les aurait induits en erreur en leur faisant financer des poursuites des Premières Nations, même après que sa firme eut été congédiée de ces dossiers.
+  </chapitre>
+
+  <chapitre titre="Économie et marchés">
+    On passe à l'économie, où les marchés ont reculé mercredi. Selon l'Associated Press, Wall Street s'est replié par rapport à ses sommets records, les actions ayant chuté partout dans le monde. Bloomberg précise que la hausse du prix du pétrole a entraîné une nouvelle vague de ventes, touchant à la fois les actions et les obligations.
+
+    Du côté des obligations justement, le Financial Times rapporte que les obligations gouvernementales américaines sont demeurées stables après une solide adjudication de titres du Trésor à dix ans. En France, le gouverneur de la banque centrale affirme qu'une intervention de la Banque centrale européenne n'est pas nécessaire pour calmer la déroute du marché obligataire.
+
+    Selon le Wall Street Journal, les procès-verbaux de la Réserve fédérale américaine signalent une autre hausse de taux d'intérêt possible d'ici la fin de l'année, mais sans urgence pour une hausse dès le mois d'octobre.
+
+    En Chine, Bloomberg rapporte que des dépenses de consommation faibles pendant la période de congé font planer une ombre sur la réouverture des marchés.
+
+    Au chapitre des entreprises, Reuters rapporte qu'Amazon procède à de nouvelles coupes d'emplois, principalement dans sa division de vente au détail. BNN Bloomberg rapporte que la famille derrière les plus grandes chaînes d'épicerie du Canada a fait l'acquisition de la chaîne de pharmacies britannique Boots.
+
+    Toujours au Canada, BNN Bloomberg rapporte que les loyers moyens demandés ont chuté de quatre virgule deux pour cent en septembre, marquant vingt-quatre mois consécutifs de baisses.
+
+    Un mot sur un fonds spéculatif londonien : le Financial Times rapporte que le fonds Arini a chuté de seize pour cent, à la suite de paris sur le crédit qui ont mal tourné.
+
+    Enfin, Bloomberg rapporte que Robert Rubin met en garde contre des risques que ferait peser l'essor de l'intelligence artificielle sur l'économie et les marchés américains.
+
+    L'Economist, pour sa part, se penche sur la crise de l'abordabilité et soutient que les gouvernements la gèrent mal : plutôt que de réprimer les prix, le magazine plaide pour des mesures qui augmentent les revenus.
+  </chapitre>
+
+  <chapitre titre="Tech">
+    Un mot sur la tech. Selon Ars Technica, Microsoft a tenu son premier événement en personne depuis deux ans pour dévoiler du nouveau matériel pensé pour l'intelligence artificielle, ainsi que plusieurs changements à venir dans Windows onze. L'entreprise a présenté son nouveau Surface Laptop Ultra, qui mise sur une nouvelle puce de Nvidia et une mémoire unifiée pouvant atteindre cent vingt-huit gigaoctets, permettant à la fois des tâches de jeu vidéo et de développement d'intelligence artificielle locale. L'appareil commencera à être livré le seize octobre.
+
+    Du côté d'OpenAI, Reuters rapporte que l'entreprise affirme que les adolescents utilisent ChatGPT moins de quinze minutes par jour, alors que les inquiétudes concernant les risques pour les jeunes continuent de croître.
+
+    En matière de cybersécurité, Ars Technica rapporte que TP-Link fait face à de nouveaux ennuis judiciaires aux États-Unis. La Floride et trois autres États ont déposé des poursuites alléguant que l'entreprise a menti aux consommateurs au sujet de ses liens avec la Chine et des risques que ses routeurs soient exploités par des pirates liés à l'État chinois. Ces poursuites surviennent environ six mois après que la Commission fédérale des communications a annoncé une interdiction large visant les routeurs grand public fabriqués en tout ou en partie hors des États-Unis.
+
+    Toujours en matière de développement responsable de l'intelligence artificielle, Ars Technica rapporte qu'un développeur utilise l'intelligence artificielle pour créer des copies libres et gratuites des logiciels d'Adobe, dont Photoshop et Premiere. Le développeur Brandon Thomas affirme avoir utilisé le modèle Claude Opus cinq virgule cinq d'Anthropic pour créer ces logiciels, qu'il qualifie lui-même de version alpha très précoce.
+
+    Du côté du financement, TechCrunch rapporte que la jeune pousse Mecka AI, qui recueille et analyse des données de mouvement humain pour entraîner des robots humanoïdes, a obtenu soixante millions de dollars de la firme Sequoia. Nous Research, de son côté, confirme avoir atteint une valorisation d'un milliard et demi de dollars et lance des agents d'intelligence artificielle destinés aux entreprises, après avoir complété un tour de financement de série B de quatre-vingt-dix millions de dollars.
+
+    Enfin, du côté de l'Inde, TechCrunch rapporte que le pays rejette les accusations de discrimination formulées par Elon Musk concernant le lancement de Starlink. Le service attend toujours une autorisation de sécurité avant de pouvoir solliciter du spectre et amorcer ses activités commerciales en Inde.
+  </chapitre>
+
+  <chapitre titre="Sport">
+    Rapidement en sport. Au golf, Al Jazeera rapporte que Jon Rahm quittera le circuit LIV Golf, son avocat qualifiant les conditions proposées pour la prochaine version du circuit d'inacceptables.
+
+    Au hockey, Sportsnet rapporte que les Oilers d'Edmonton ont renversé la vapeur face aux Ducks d'Anaheim, dominant les quarante dernières minutes du match après avoir tiré de l'arrière par deux buts en première période. Toujours au hockey, Global News rapporte que les Jets de Winnipeg ont vaincu l'Avalanche du Colorado par la marque de trois à deux, grâce à un but de Kyle Connor avec une minute à faire au match.
+  </chapitre>
+
+  <outro>Voilà pour ce Presto du jeudi huit octobre deux mille vingt-six. Si ce briefing vous est utile, le meilleur coup de main que vous pouvez nous donner, c'est de le partager à une personne qui aime rester informée. Et selon votre plateforme : un abonnement sur Spotify ou Apple Podcasts, un pouce bleu et un abonnement sur YouTube, ça prend deux secondes et ça aide vraiment Presto à grandir. Sur ce, bonne journée, et à demain.</outro>
+</script>
+```
