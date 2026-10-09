@@ -1,54 +1,50 @@
 {
-  "generated_at": "2026-10-09T18:40:12.437517+00:00",
+  "generated_at": "2026-10-09T23:02:44.186000+00:00",
   "window_hours": 8,
   "faits": [
     {
-      "sujet": "Nobel de la paix 2026",
-      "fait": "Navanethem Pillay, avocate sud-africaine et ancienne chef des droits de l'homme de l'ONU, a remporté le prix Nobel de la paix. Selon Radio-Canada et BBC World, le jury a salué ses efforts en faveur de la paix et du droit international."
+      "sujet": "Élection québécoise - Gouvernement péquiste",
+      "fait": "Le chef du Parti Québécois Paul St-Pierre Plamondon et ses élus seront assermentés le 15 octobre, avec l'annonce du cabinet le 21 octobre, selon Radio-Canada et Global News."
     },
     {
-      "sujet": "Sanctions américaines contre la CPI",
-      "fait": "L'administration Trump a imposé des sanctions étendues contre la Cour pénale internationale, que le gouvernement américain accuse d'être politisée. Selon CBC et Associated Press, la CPI a dénoncé cette mesure comme « une attaque contre les États souverains » et « un assaut contre l'État de droit »."
+      "sujet": "Loi 14 - Droit de grève",
+      "fait": "Le Tribunal administratif du travail a déclaré inopérante la loi caquiste limitant le droit de grève, estimant que des articles portent atteinte à la liberté d'association, selon Radio-Canada."
     },
     {
-      "sujet": "Exécution militaire prévue aux États-Unis",
-      "fait": "Une exécution par peloton d'exécution de Nidal Hasan est planifiée et serait la première exécution militaire en plus de 60 ans. Selon BBC World, le vice-président JD Vance a exprimé des doutes sur cette exécution et déclaré qu'il ne la regarderait pas."
+      "sujet": "Tremblements de terre - Panama",
+      "fait": "Un séisme de magnitude 7,7 s'est produit près de la pointe sud du Panama vendredi matin, déclenchant des avertissements aux tsunamis de Mexico au Pérou, selon la BBC et CBC."
     },
     {
-      "sujet": "Changements au gouvernement québécois",
-      "fait": "Martine Biron remplacera Mathieu Lacombe à la Culture et aux Communications. D'après Radio-Canada, Lacombe a été expulsé de la CAQ après avoir assisté à la soirée électorale du Parti québécois."
+      "sujet": "Intelligence artificielle - Données erronées",
+      "fait": "Un modèle IA d'Anthropic a fourni une fausse information sur un meurtre non résolu à la police de Philadelphie le 18 juillet ; Anthropic a notifié le département le 7 octobre, selon The Verge."
     },
     {
-      "sujet": "Licenciements chez OpenAI",
-      "fait": "OpenAI a licencié trois chercheurs en sécurité pour « violation de confiance ». Selon Global News, l'entreprise a défendu ces licenciements alors que les trois chercheurs l'accusaient de privilégier les intérêts commerciaux plutôt que la sécurité."
+      "sujet": "Mémoire RAM - Retour DDR4",
+      "fait": "Intel et AMD développent de nouveaux processeurs supportant la RAM DDR4 plus ancienne et abordable ; Gigabyte a annoncé que deux lignes de cartes mères supporteront les processeurs DDR4 à venir, selon The Verge."
     },
     {
-      "sujet": "Richesse des Américains de 75 ans et plus",
-      "fait": "Les Américains de 75 ans et plus constituent le groupe d'âge le plus riche. D'après Global News, la richesse nette médiane du décile le plus riche des ménages américains a augmenté de 31 % pour atteindre 3,6 millions de dollars entre 2022 et 2025."
+      "sujet": "Marineland - Décès de cétacés",
+      "fait": "Caspian, une beluga femelle de 27 ans provenant de Marineland, est décédée mercredi à l'aquarium Shedd de Chicago, devenant le sixième animal du parc fermé de Niagara Falls à mourir après leur relocalisation estivale, selon CBC et Global News."
     },
     {
-      "sujet": "Situation humanitaire à Gaza",
-      "fait": "Plus de 100 organisations humanitaires et de défense des droits humains déclarent que le cessez-le-feu à Gaza « n'existe que de nom ». Selon Al Jazeera, ces groupes dénoncent les meurtres et restrictions persistants d'Israël dans l'enclave."
+      "sujet": "Administration Trump - Données électorales",
+      "fait": "Un juge fédéral a jugé illégale l'utilisation par l'administration Trump de données électorales pour recouper une base de données d'immigration, selon Al Jazeera."
     },
     {
-      "sujet": "Fraude à l'IA dans un concours Nikon",
-      "fait": "La vidéo gagnante du concours Nikon Small World in Motion a été disqualifiée pour utilisation d'IA générative. D'après The Verge, le Dr Ning Xu a admis sur LinkedIn avoir utilisé une méthode de réseau neuronal non supervisé pour le traitement vidéo."
+      "sujet": "Tuerie Tumbler Ridge - Arrestation",
+      "fait": "Le FBI a décrit l'arrestation du présumé complice de la tuerie de Tumbler Ridge, James Bryant, qui a été appréhendé mardi à son appartement de Bellingham, Washington, selon La Presse."
     },
     {
-      "sujet": "Lancement du Fitbit Edge de Google",
-      "fait": "Google prépare le lancement du Fitbit Edge prévu pour le 12 octobre. Selon The Verge, l'appareil comprendrait un écran OLED tactile de 1,34 pouces toujours actif, un GPS intégré et plusieurs capteurs."
+      "sujet": "Exécution militaire - Fort Hood",
+      "fait": "Trump a confirmé que le tireur de Fort Hood, Nidal Malik Hasan, sera exécuté par peloton d'exécution en public et en direct ; ce serait la première exécution militaire en plus de 60 ans, selon Al Jazeera et BBC."
     },
     {
-      "sujet": "Attaque de drone au Soudan",
-      "fait": "Une frappe de drone aurait tué 30 personnes dans la région du Nil bleu au Soudan. D'après Al Jazeera, l'attaque serait liée aux RSF et aurait visé Wad al-Mahi près d'un camp de déplacés, tuant des femmes et des enfants."
+      "sujet": "Personnel Maison-Blanche - Porte-parole",
+      "fait": "Trump a nommé Katie Zacharia, commentatrice MAGA et avocate ayant vécu deux ans en Chine, comme porte-parole de la Maison-Blanche, selon Reuters et Le Devoir."
     },
     {
-      "sujet": "Perturbations du moteur russe Yandex",
-      "fait": "Le moteur de recherche russe Yandex a connu des perturbations suite à des frappes ukrainiennes sur ses centres de données. Selon BBC World, l'entreprise a reconnu que les clients pourraient connaître des interruptions de services numériques."
-    },
-    {
-      "sujet": "Réduction des prix du Samsung Galaxy S26 Ultra",
-      "fait": "Amazon propose le Samsung Galaxy S26 Ultra à 949,99 dollars, contre un prix habituel de 1 399,99 dollars. Selon The Verge, ce téléphone est équipé d'un écran de confidentialité réglable et d'un stylet intégré."
+      "sujet": "Fermeture commerciale - Vancouver",
+      "fait": "Le Bayside Lounge, établissement de 47 ans du West End à Vancouver soutenant musiciens et artistes locaux, ferme ses portes en raison de l'augmentation des coûts, selon Global News."
     }
   ]
 }
