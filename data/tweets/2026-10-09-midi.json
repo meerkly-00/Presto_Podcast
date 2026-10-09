@@ -1,0 +1,14 @@
+{
+  "date": "2026-10-09",
+  "kind": "poll",
+  "text": "Ce matin → Les États-Unis sanctionnent la CPI. Nouveau : des États alliés (Europe, Canada, Japon) et l'ONU défendent publiquement la cour, appelant à la protéger contre les sanctions.\n\nLes sanctions américaines contre la CPI sont-elles justifiées?",
+  "poll": {
+    "options": [
+      "Oui, protéger la",
+      "Non, affaiblir la",
+      "Dépend du contexte",
+      "Pas d'avis"
+    ],
+    "duration_minutes": 1440
+  }
+}
