@@ -1,50 +1,54 @@
 {
-  "generated_at": "2026-10-09T01:45:41.076096+00:00",
+  "generated_at": "2026-10-09T18:40:12.437517+00:00",
   "window_hours": 8,
   "faits": [
     {
-      "sujet": "Exécution du tireur de Fort Hood",
-      "fait": "Le Pentagone annonce que l'exécution par peloton d'exécution de Nidal Hasan, condamné pour la fusillade de Fort Hood en 2009, sera diffusée en direct le 3 décembre. Selon le National Post et Radio-Canada, cette décision est qualifiée de sans précédent par des experts juridiques."
+      "sujet": "Nobel de la paix 2026",
+      "fait": "Navanethem Pillay, avocate sud-africaine et ancienne chef des droits de l'homme de l'ONU, a remporté le prix Nobel de la paix. Selon Radio-Canada et BBC World, le jury a salué ses efforts en faveur de la paix et du droit international."
     },
     {
-      "sujet": "Guerre commerciale Trump-Canada",
-      "fait": "Le candidat au Sénat du Michigan Mike Rogers fait face à des critiques lors d'un débat électoral sur la guerre commerciale de Trump avec le Canada, selon CBC. Aucun des deux candidats n'a exclu l'imposition de droits futurs."
+      "sujet": "Sanctions américaines contre la CPI",
+      "fait": "L'administration Trump a imposé des sanctions étendues contre la Cour pénale internationale, que le gouvernement américain accuse d'être politisée. Selon CBC et Associated Press, la CPI a dénoncé cette mesure comme « une attaque contre les États souverains » et « un assaut contre l'État de droit »."
     },
     {
-      "sujet": "Revenus d'OpenAI revus à la baisse",
-      "fait": "Les revenus annualisés d'OpenAI seraient 20 milliards de dollars inférieurs à ce qui avait été précédemment signalé, selon Reuters et le Financial Times."
+      "sujet": "Exécution militaire prévue aux États-Unis",
+      "fait": "Une exécution par peloton d'exécution de Nidal Hasan est planifiée et serait la première exécution militaire en plus de 60 ans. Selon BBC World, le vice-président JD Vance a exprimé des doutes sur cette exécution et déclaré qu'il ne la regarderait pas."
     },
     {
-      "sujet": "Suspension de Microsoft du programme de carte verte",
-      "fait": "L'administration Trump suspend Microsoft d'un programme de carte verte pour fraude présumée, selon Associated Press."
+      "sujet": "Changements au gouvernement québécois",
+      "fait": "Martine Biron remplacera Mathieu Lacombe à la Culture et aux Communications. D'après Radio-Canada, Lacombe a été expulsé de la CAQ après avoir assisté à la soirée électorale du Parti québécois."
     },
     {
-      "sujet": "Retour de l'USS Abraham Lincoln",
-      "fait": "Le porte-avions USS Abraham Lincoln revient à San Diego après plus de 300 jours en mer (265 jours selon certaines sources) en soutien aux opérations contre l'Iran, d'après Al Jazeera et Associated Press."
+      "sujet": "Licenciements chez OpenAI",
+      "fait": "OpenAI a licencié trois chercheurs en sécurité pour « violation de confiance ». Selon Global News, l'entreprise a défendu ces licenciements alors que les trois chercheurs l'accusaient de privilégier les intérêts commerciaux plutôt que la sécurité."
     },
     {
-      "sujet": "Élections québécoises : débâcle de la CAQ",
-      "fait": "La Coalition avenir Québec subit sa pire défaite électorale en perdant l'ensemble de ses 79 sièges, selon La Presse."
+      "sujet": "Richesse des Américains de 75 ans et plus",
+      "fait": "Les Américains de 75 ans et plus constituent le groupe d'âge le plus riche. D'après Global News, la richesse nette médiane du décile le plus riche des ménages américains a augmenté de 31 % pour atteindre 3,6 millions de dollars entre 2022 et 2025."
     },
     {
-      "sujet": "Fausses informations électorales québécoises par IA",
-      "fait": "Des électeurs québécois ont reçu de fausses informations électorales provenant de chatbots en raison du refus des médias québécois d'accorder l'accès à leur contenu, selon Global News et un scientifique politique de McGill."
+      "sujet": "Situation humanitaire à Gaza",
+      "fait": "Plus de 100 organisations humanitaires et de défense des droits humains déclarent que le cessez-le-feu à Gaza « n'existe que de nom ». Selon Al Jazeera, ces groupes dénoncent les meurtres et restrictions persistants d'Israël dans l'enclave."
     },
     {
-      "sujet": "SpaceX acquiert des licences de spectre mobile",
-      "fait": "SpaceX acquiert un portefeuille de licences de spectre en bande basse incluant jusqu'à 14 mégahertz de spectre appairé dans la bande 800 MHz, pour transformer Starlink Mobile en grand opérateur mobile américain concurrent de T-Mobile, AT&T et Verizon, selon The Verge."
+      "sujet": "Fraude à l'IA dans un concours Nikon",
+      "fait": "La vidéo gagnante du concours Nikon Small World in Motion a été disqualifiée pour utilisation d'IA générative. D'après The Verge, le Dr Ning Xu a admis sur LinkedIn avoir utilisé une méthode de réseau neuronal non supervisé pour le traitement vidéo."
     },
     {
-      "sujet": "Poutine promet d'aider à résoudre le conflit moyen-oriental",
-      "fait": "Le président russe Vladimir Poutine affirme lors de discussions avec son homologue iranien Masoud Pezeshkian qu'il fera tout pour aider à mettre fin au conflit au Moyen-Orient, selon le National Post citant les agences de presse russes."
+      "sujet": "Lancement du Fitbit Edge de Google",
+      "fait": "Google prépare le lancement du Fitbit Edge prévu pour le 12 octobre. Selon The Verge, l'appareil comprendrait un écran OLED tactile de 1,34 pouces toujours actif, un GPS intégré et plusieurs capteurs."
     },
     {
-      "sujet": "Retrait du Canada d'une conférence sur la désinformation",
-      "fait": "Le gouvernement fédéral canadien retire son parrainage d'une conférence européenne sur la désinformation qui comprend des panels présentant le gouvernement américain comme source d'ingérence étrangère, selon le National Post."
+      "sujet": "Attaque de drone au Soudan",
+      "fait": "Une frappe de drone aurait tué 30 personnes dans la région du Nil bleu au Soudan. D'après Al Jazeera, l'attaque serait liée aux RSF et aurait visé Wad al-Mahi près d'un camp de déplacés, tuant des femmes et des enfants."
     },
     {
-      "sujet": "Ouragan Isaias atteint catégorie 2",
-      "fait": "L'ouragan Isaias se renforce en tempête de catégorie 2 et se dirige vers la côte du Golfe américain, selon Associated Press."
+      "sujet": "Perturbations du moteur russe Yandex",
+      "fait": "Le moteur de recherche russe Yandex a connu des perturbations suite à des frappes ukrainiennes sur ses centres de données. Selon BBC World, l'entreprise a reconnu que les clients pourraient connaître des interruptions de services numériques."
+    },
+    {
+      "sujet": "Réduction des prix du Samsung Galaxy S26 Ultra",
+      "fait": "Amazon propose le Samsung Galaxy S26 Ultra à 949,99 dollars, contre un prix habituel de 1 399,99 dollars. Selon The Verge, ce téléphone est équipé d'un écran de confidentialité réglable et d'un stylet intégré."
     }
   ]
 }
