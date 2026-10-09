@@ -1,54 +1,50 @@
 {
-  "generated_at": "2026-10-08T19:09:38.896199+00:00",
+  "generated_at": "2026-10-09T01:45:41.076096+00:00",
   "window_hours": 8,
   "faits": [
     {
-      "sujet": "Projet de loi C-266 mobilité main-d'œuvre",
-      "fait": "L'Association des constructeurs du Québec (ACQ) appuie la mobilité de la main-d'œuvre prévue par le projet de loi C-266, tout en réclamant que le modèle québécois soit respecté. (Selon Les Affaires)"
+      "sujet": "Exécution du tireur de Fort Hood",
+      "fait": "Le Pentagone annonce que l'exécution par peloton d'exécution de Nidal Hasan, condamné pour la fusillade de Fort Hood en 2009, sera diffusée en direct le 3 décembre. Selon le National Post et Radio-Canada, cette décision est qualifiée de sans précédent par des experts juridiques."
     },
     {
-      "sujet": "Administration Trump suspend Microsoft programme cartes vertes",
-      "fait": "L'administration Trump suspend Microsoft d'un programme de cartes vertes, alléguant de la fraude. (Selon Associated Press)"
+      "sujet": "Guerre commerciale Trump-Canada",
+      "fait": "Le candidat au Sénat du Michigan Mike Rogers fait face à des critiques lors d'un débat électoral sur la guerre commerciale de Trump avec le Canada, selon CBC. Aucun des deux candidats n'a exclu l'imposition de droits futurs."
     },
     {
-      "sujet": "OpenAI revenus inférieurs projections",
-      "fait": "Les revenus annualisés d'OpenAI seraient de 50 milliards de dollars, soit 20 milliards de moins que les projections antérieures de 70 milliards. (Selon TechCrunch)"
+      "sujet": "Revenus d'OpenAI revus à la baisse",
+      "fait": "Les revenus annualisés d'OpenAI seraient 20 milliards de dollars inférieurs à ce qui avait été précédemment signalé, selon Reuters et le Financial Times."
     },
     {
-      "sujet": "Plateforme Arena levée de fonds IA",
-      "fait": "La compagnie derrière la plateforme LMArena a levé 200 millions de dollars menés par Lightspeed et Khosla, portant sa valorisation à 3,1 milliards de dollars en 10 mois. (Selon TechCrunch)"
+      "sujet": "Suspension de Microsoft du programme de carte verte",
+      "fait": "L'administration Trump suspend Microsoft d'un programme de carte verte pour fraude présumée, selon Associated Press."
     },
     {
-      "sujet": "USA Today poursuit OpenAI droits d'auteur",
-      "fait": "USA Today et plusieurs journaux locaux qu'elle possède poursuivent OpenAI pour avoir copié des centaines de milliers d'articles pour entraîner ses modèles d'IA, demandant plus de 250 millions de dollars en dommages. (Selon The Verge)"
+      "sujet": "Retour de l'USS Abraham Lincoln",
+      "fait": "Le porte-avions USS Abraham Lincoln revient à San Diego après plus de 300 jours en mer (265 jours selon certaines sources) en soutien aux opérations contre l'Iran, d'après Al Jazeera et Associated Press."
     },
     {
-      "sujet": "Forza Horizon 6 retard version PS5",
-      "fait": "Forza Horizon 6 sur PS5 est reporté au 26 janvier 2027, coïncidant avec une nouvelle expansion du jeu. (Selon The Verge)"
+      "sujet": "Élections québécoises : débâcle de la CAQ",
+      "fait": "La Coalition avenir Québec subit sa pire défaite électorale en perdant l'ensemble de ses 79 sièges, selon La Presse."
     },
     {
-      "sujet": "Commissaire langues officielles IA fonction publique",
-      "fait": "La commissaire aux langues officielles du Canada, Kelly Burke, recommande au gouvernement d'intégrer les langues officielles dans sa stratégie IA avec une échéance du 31 mars 2027, citant des risques de biais favorisant l'anglais. (Selon Radio-Canada)"
+      "sujet": "Fausses informations électorales québécoises par IA",
+      "fait": "Des électeurs québécois ont reçu de fausses informations électorales provenant de chatbots en raison du refus des médias québécois d'accorder l'accès à leur contenu, selon Global News et un scientifique politique de McGill."
     },
     {
-      "sujet": "Programme fédéral rabais thermopompes",
-      "fait": "Le gouvernement fédéral lance son Programme national de rabais pour les thermopompes, injectant 2 milliards de dollars pour la rénovation écoénergétique de logements au pays. (Selon Radio-Canada)"
+      "sujet": "SpaceX acquiert des licences de spectre mobile",
+      "fait": "SpaceX acquiert un portefeuille de licences de spectre en bande basse incluant jusqu'à 14 mégahertz de spectre appairé dans la bande 800 MHz, pour transformer Starlink Mobile en grand opérateur mobile américain concurrent de T-Mobile, AT&T et Verizon, selon The Verge."
     },
     {
-      "sujet": "Anne Carson prix Nobel littérature",
-      "fait": "L'écrivaine canadienne Anne Carson remporte le prix Nobel de littérature pour son œuvre en vers, prose et traductions. (Selon The Economist)"
+      "sujet": "Poutine promet d'aider à résoudre le conflit moyen-oriental",
+      "fait": "Le président russe Vladimir Poutine affirme lors de discussions avec son homologue iranien Masoud Pezeshkian qu'il fera tout pour aider à mettre fin au conflit au Moyen-Orient, selon le National Post citant les agences de presse russes."
     },
     {
-      "sujet": "Colombie ambassade Jérusalem Israël",
-      "fait": "La Colombie ouvrira une ambassade à Jérusalem, selon le ministre israélien des Affaires étrangères, suite aux promesses du président colombien Abelardo De la Espriella de renforcer les liens avec Israël. (Selon Al Jazeera)"
+      "sujet": "Retrait du Canada d'une conférence sur la désinformation",
+      "fait": "Le gouvernement fédéral canadien retire son parrainage d'une conférence européenne sur la désinformation qui comprend des panels présentant le gouvernement américain comme source d'ingérence étrangère, selon le National Post."
     },
     {
-      "sujet": "Tribunaux Arizona annule verdict IA vidéo",
-      "fait": "La Cour d'appel de l'Arizona annule une condamnation de 10 ans pour homicide involontaire après qu'une vidéo générée par IA ait présenté la victime parlant à un juge, décidant que le condamné doit être résentencie. (Selon CBC)"
-    },
-    {
-      "sujet": "Affaires officielles Canada nominations magistrature Ontario",
-      "fait": "Le ministre de la Justice et procureur général du Canada annonce des nominations à la magistrature de l'Ontario. (Selon Les Affaires)"
+      "sujet": "Ouragan Isaias atteint catégorie 2",
+      "fait": "L'ouragan Isaias se renforce en tempête de catégorie 2 et se dirige vers la côte du Golfe américain, selon Associated Press."
     }
   ]
 }
