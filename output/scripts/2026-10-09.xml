@@ -1,0 +1,85 @@
+```xml
+<script>
+  <intro>Bonjour, on est le vendredi neuf octobre deux mille vingt-six. Voici votre Presto en environ quinze minutes. Au menu : le prix Nobel de la paix, la fusillade impliquant un agent de l'immigration à New York, l'affaire des chercheurs congédiés chez OpenAI, l'exécution annoncée par le Pentagone, et un mot sur l'économie et le Québec.</intro>
+
+  <chapitre titre="International">
+    On commence par le prix Nobel de la paix, décerné aujourd'hui à la Sud-Africaine Navanethem Pillay. Selon Radio-Canada, le jury a salué les efforts déployés par la lauréate en faveur de la paix et du droit international. Al Jazeera précise que Navi Pillay, de son nom usuel, est juge à la Cour internationale de justice.
+
+    Ailleurs, la situation à New York reste tendue après la fusillade de jeudi impliquant un agent de l'agence américaine de l'immigration, soit l'ICE. Selon CBC, des agents fédéraux ont tiré sur un homme d'origine dominicaine et l'ont blessé lors de son arrestation, dans ce que le département de la Sécurité intérieure a qualifié d'opération d'application ciblée. La BBC rapporte que le maire de New York a exprimé son indignation face à cette fusillade. Associated Press confirme qu'un agent de l'ICE a tiré sur un homme lors d'une arrestation. La nouvelle a aussi déclenché des manifestations, et Al Jazeera a diffusé des images montrant la police de New York pousser au sol un élu pendant une manifestation anti-ICE.
+
+    Du côté judiciaire, le Pentagone confirme que l'exécution du tireur de Fort Hood sera diffusée en direct. Selon la BBC, le secrétaire à la Défense Pete Hegseth affirme que l'exécution sera publique, mais un expert juridique cité par la BBC qualifie cette décision sans précédent de terrain juridique incertain. Toujours selon la BBC, un survivant de la fusillade de Fort Hood, Alonzo Lunsford, dit appuyer l'exécution par peloton d'exécution, mais s'interroge sur la pertinence de la diffuser publiquement. The Verge précise que l'exécution de Nidal Hasan, ancien major de l'armée américaine condamné pour avoir tué treize personnes à cette base militaire du Texas, est prévue le trois décembre à quatorze heures, heure de l'Est.
+
+    Au Royaume-Uni, Reuters rapporte que le parti travailliste du premier ministre Andy Burnham a résisté à la poussée du parti des Verts lors d'une élection à Londres. The Economist note que cette victoire travailliste à Londres est une mauvaise nouvelle pour le chef des Verts, Zack Polanski, dont l'étoile pâlit.
+
+    En France, Al Jazeera rapporte que la star de la NBA Victor Wembanyama a offert son appui aux étudiants français qui manifestent contre les conditions dans les écoles, leur disant, je le cite : "I hear you". Fin de citation.
+
+    Du côté diplomatique, le National Post rapporte que des émissaires du président américain Donald Trump doivent rencontrer des représentants ukrainiens et européens à Miami vendredi pour discuter de nouvelles idées et chercher une proposition unifiée afin de mettre fin à la guerre avec la Russie, selon deux sources citées par l'Agence France-Presse.
+
+    Au Royaume-Uni toujours, la justice britannique a tranché dans l'affaire visant le prince Andrew. Selon Associated Press, un juge a statué que les mandats de perquisition utilisés pour saisir des biens de l'ancien prince étaient illégaux. CBC précise que la police britannique a reconnu avoir mal préparé ces mandats, tout en soulignant que l'enquête visant le frère cadet du roi Charles se poursuit.
+
+    En Espagne, CBC rapporte le décès de Maricarmen, une retraitée devenue symbole de la crise du logement dans le pays, morte à quatre-vingt-sept ans, deux semaines après avoir été expulsée de son appartement. Selon CBC, sa mort devrait relancer le mouvement de protestation à l'approche d'une élection nationale le mois prochain, où le logement sera un enjeu central.
+
+    À Monaco, la BBC rapporte qu'un suspect lié à l'attentat à la bombe visant un millionnaire s'est confié au diffuseur, donnant sa version de la tentative d'assassinat visant l'homme d'affaires d'origine ukrainienne Vadym Yermolayev.
+  </chapitre>
+
+  <chapitre titre="Tech">
+    On passe à la tech, où l'affaire des chercheurs congédiés chez OpenAI continue de faire des vagues. Selon The Verge, l'entreprise maintient sa décision de renvoyer trois chercheurs en sécurité de l'intelligence artificielle, Jasmine Wang, Tomek Korbak et Mikita Balesni, après qu'une enquête interne a conclu à un manquement important à la confiance. Dans une publication sur X, OpenAI affirme que les trois employés ont violé des politiques claires sur le traitement de l'information sensible, et insiste que la décision n'a rien à voir avec leurs prises de parole publiques sur la sécurité de l'intelligence artificielle. TechCrunch rapporte que les trois chercheurs contestent ces allégations et préviennent, dans une lettre ouverte, que leur congédiement crée un effet dissuasif sur la culture de sécurité de l'entreprise.
+
+    Toujours chez OpenAI, Reuters rapporte que le revenu annualisé de l'entreprise s'approchait de cinquante milliards de dollars en septembre, un chiffre moins élevé que ce qui avait été indiqué précédemment, selon une source. Bloomberg note aussi que les actions technologiques américaines ont reculé après que des informations sur OpenAI ont fait chuter les fabricants de puces américains.
+
+    Du côté de Microsoft, deux nouvelles distinctes. D'abord, The Verge rapporte que les abonnés de Microsoft 365 Famille et Premium pourront bientôt partager les fonctionnalités d'intelligence artificielle Copilot avec jusqu'à cinq autres personnes sur leur forfait, un changement qui arrivera au cours des prochains mois. Par ailleurs, Associated Press rapporte que l'administration Trump suspend Microsoft d'un programme de cartes vertes, invoquant des allégations de fraude.
+
+    Dans le domaine de la sécurité, Ars Technica rapporte que SpaceX appelle à une meilleure coordination en orbite après des quasi-collisions impliquant sa constellation Starlink. Selon Ars Technica, le vice-président de SpaceX pour Starlink, qui dirige aussi la société d'intelligence artificielle xAI, a lancé cet appel lors d'une présentation au Congrès international d'astronautique en Turquie. Starlink compte maintenant plus de onze mille satellites, soit environ les deux tiers de tous les engins spatiaux actifs en orbite basse.
+
+    Toujours en sécurité, The Verge rapporte qu'Anthropic lance un service gratuit de analyse de sécurité pour les projets à code source ouvert, appelé OSS Scanner. L'entreprise précise que les rapports générés seront entièrement produits par ses modèles d'intelligence artificielle, sans révision humaine, ce qui permet des analyses plus rapides et plus fréquentes, mais signifie aussi que certains rapports pourraient être incorrects.
+
+    Enfin, Ars Technica rapporte qu'un juge fédéral doit statuer dans les prochaines semaines sur la légalité d'un projet permettant à Donald Trump de facturer jusqu'à cent mille dollars par mois pour un accès instantané aux publications de Truth Social, sa plateforme de médias sociaux. Un avocat du département de la Justice a plaidé qu'il n'y avait aucun conflit d'intérêts, alors que Trump demeure le plus important actionnaire du groupe qui possède Truth Social.
+  </chapitre>
+
+  <chapitre titre="Économie et marchés">
+    On passe à l'économie. Selon Reuters, le pétrole a reculé après des commentaires du président américain Donald Trump sur des discussions avec l'Iran, ce qui a atténué les craintes sur l'approvisionnement. Reuters précise aussi que ce recul du prix du pétrole a apporté un certain répit aux actions et aux obligations, qui avaient été mises à mal.
+
+    Du côté des obligations américaines justement, le Wall Street Journal rapporte que les rendements du Trésor américain se sont repliés par rapport à leurs sommets du matin, alors que les rendements dans la zone euro sont demeurés élevés. Bloomberg, de son côté, qualifie la France de baromètre du stress sur les marchés mondiaux.
+
+    En Europe, Bloomberg rapporte que les ministres des Finances de l'Union européenne sont parvenus à une entente préliminaire sur la supervision des marchés financiers. Du côté allemand, le Financial Times rapporte que l'économie allemande se dirige vers sa croissance la plus rapide depuis deux mille vingt-deux.
+
+    Aux États-Unis, le Financial Times rapporte que les taux hypothécaires ont augmenté pour une septième semaine consécutive, atteignant leur plus haut niveau depuis deux mille vingt-trois. Le Financial Times souligne aussi qu'American Express a été condamnée à une amende de trois cent cinquante millions de dollars pour avoir omis de signaler des opérations suspectées de blanchiment d'argent.
+
+    Du côté canadien, BNN Bloomberg rapporte que le système financier du pays demeure résilient, selon le Bureau du surintendant des institutions financières. Toujours selon BNN Bloomberg, le représentant américain au Commerce, Jamieson Greer, affirme que les États-Unis maintiennent fermement leur position commerciale à l'égard du Canada.
+
+    Justement sur ce front, le National Post rapporte que l'économie canadienne s'est montrée plus résiliente que prévu face aux premiers chocs tarifaires, mais que la firme Deloitte prévoit des difficultés à venir.
+
+    Enfin, le Wall Street Journal rapporte que le boom des investissements en intelligence artificielle devrait entraîner la croissance commerciale mondiale la plus rapide depuis la crise financière, selon les prévisions de l'Organisation mondiale du commerce.
+  </chapitre>
+
+  <chapitre titre="Actualité québécoise">
+    Du côté du Québec, le Parti québécois continue de gérer les suites de sa victoire électorale. Selon Radio-Canada, la présidente-directrice générale de Santé Québec, Geneviève Biron, a été rappelée à l'ordre par le gouvernement pour un manque d'impartialité, après son intervention directe auprès du chef du Parti québécois.
+
+    Toujours selon Radio-Canada, une enquête lève le voile sur les activités du chirurgien ophtalmologiste montréalais Mounir Bashour, présenté comme un recruteur d'escortes.
+
+    Par ailleurs, Global News rapporte que plus de cent quarante personnes se sont jointes à un recours collectif contre un spa québécois, les allégations impliquant au moins trente-six massothérapeutes et des incidents qui se seraient produits entre deux mille sept et deux mille vingt-six.
+
+    En Alberta, La Presse rapporte que le référendum imminent sur l'avenir de la province déchaîne les passions dans les camps fédéraliste et séparatiste.
+
+    Enfin, Radio-Canada se penche sur la privatisation des aéroports et ses effets potentiels sur le prix des billets d'avion. Selon Radio-Canada, l'expérience australienne montre que les frais par passager ont augmenté après une privatisation.
+  </chapitre>
+
+  <chapitre titre="Politique canadienne">
+    Du côté d'Ottawa, le National Post poursuit son enquête sur le dossier Hikvision, révélant comment ce géant chinois de la surveillance a opéré illégalement au Canada pendant près d'une décennie avant d'être banni. Selon le National Post, un haut fonctionnaire fédéral avait averti dans un affidavit judiciaire que chaque jour où Hikvision continue d'opérer au Canada est un jour de plus où la Chine pourrait espionner les Canadiens.
+
+    Aux États-Unis, dans le cadre des élections de mi-mandat, CBC rapporte que le candidat républicain au Sénat du Michigan, Mike Rogers, a fait face à des questions pressantes sur la guerre commerciale du président Trump avec le Canada, lors d'un débat houleux. Aucun des deux candidats n'a exclu l'imposition de futurs tarifs.
+  </chapitre>
+
+  <chapitre titre="Sport">
+    Rapidement en sport. Au hockey, Global News rapporte que le défenseur des Sénateurs d'Ottawa, Carter Yakemchuk, a marqué le but gagnant jeudi, aidant son équipe à vaincre les Flyers de Philadelphie au compte de deux à un.
+
+    Du côté des Canadiens de Montréal, Sportsnet rapporte que l'équipe a perdu des points précieux au classement jeudi, mais que la performance du nouveau trio formé de Josh Anderson, Alex Newhook et Chris Kreider a été un point positif à retenir.
+
+    Les Maple Leafs de Toronto, de leur côté, cherchent toujours leur chimie après avoir dilapidé une avance de trois buts, selon Sportsnet, qui note que l'équipe doit intégrer huit nouveaux attaquants dans sa formation après un été mouvementé.
+
+    En Angleterre, Al Jazeera rapporte que les propriétaires américains du club de soccer Everton cherchent à vendre leur participation majoritaire, après avoir stabilisé les finances historiquement difficiles du club.
+  </chapitre>
+
+  <outro>Voilà pour ce Presto du vendredi neuf octobre deux mille vingt-six. Si ce briefing vous est utile, le meilleur coup de main que vous pouvez nous donner, c'est de le partager à une personne qui aime rester informée. Et selon votre plateforme : un abonnement sur Spotify ou Apple Podcasts, un pouce bleu et un abonnement sur YouTube, ça prend deux secondes et ça aide vraiment Presto à grandir. Sur ce, bonne journée, et à demain.</outro>
+</script>
+```
