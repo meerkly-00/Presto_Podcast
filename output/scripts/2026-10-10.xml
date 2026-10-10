@@ -1,0 +1,83 @@
+```xml
+<script>
+  <intro>Bonjour, on est le samedi dix octobre deux mille vingt-six. Voici votre Presto en environ quinze minutes. Au menu : le séisme au Panama et l'actualité internationale, la crise politique qui s'installe autour de l'unité canadienne, l'entente controversée sur le diesel russe, et un mot sur l'intelligence artificielle.</humanité>
+
+  <chapitre titre="International">
+    On commence par le Panama, où un puissant séisme a frappé tôt ce matin. Selon Radio-Canada, les autorités font état d'au moins vingt-sept blessés, mais aucun mort, selon un bilan préliminaire. CBC précise que le tremblement de terre, d'une magnitude de sept virgule sept, a frappé près de la pointe sud du pays et a déclenché des alertes au tsunami le long des côtes, du Mexique jusqu'au Pérou. Des secousses ont été ressenties jusqu'à plus de deux cents kilomètres de distance, à Panama City.
+
+    Ailleurs, un drame s'est joué au Brésil. Selon Al Jazeera, un homme a pris en otage treize enfants d'âge préscolaire dans une garderie de Curitiba, répandant un liquide inflammable dans la pièce tout en tenant un briquet. La police a négocié pendant plus de deux heures avant de procéder à une intervention. Les enfants ont été libérés et le suspect a été tué.
+
+    Du côté du Moyen-Orient, Al Jazeera rapporte qu'un an après ce que plusieurs appellent le cessez-le-feu, le système de santé de Gaza continue de s'effondrer. Des attaques se poursuivent, l'aide médicale reste restreinte, et des retards dans les évacuations continuent de coûter des vies palestiniennes, selon Al Jazeera.
+
+    Toujours au Moyen-Orient, l'Associated Press rapporte que des attaques revendiquées par les Houthis contre l'aéroport de Riyad, en Arabie saoudite, ont fait trois morts selon les autorités saoudiennes.
+
+    Du côté du Mexique, Al Jazeera rapporte la mort du journaliste Hamurabi Huesca Manzano, dans l'État d'Oaxaca. Des rapports contradictoires circulent sur les circonstances de sa mort, ce qui a provoqué des appels à la justice de la part de groupes de défense des droits.
+
+    En Australie, trois hommes ont été reconnus coupables du meurtre de deux frères australiens et de leur ami américain au Mexique, rapporte la BBC. Jake et Callum Robinson, ainsi que leur ami Carter Rhoad, étaient en voyage de surf lorsqu'ils ont été tués dans ce qui semble être un vol ayant mal tourné.
+
+    Aux Émirats arabes unis, la BBC rapporte que l'attaquant à l'origine de l'incident impliquant Flydubai avait entamé, je le cite, "a drift towards extremism and terrorism" en Australie. Fin de citation. Les autorités émiraties allèguent aussi que le copilote tentait de précipiter l'avion sur l'aéroport de Tel-Aviv.
+
+    Aux États-Unis, l'ouragan Isaias a touché terre comme tempête de catégorie deux sur la côte du golfe du Mexique, rapporte CBC. La Floride et l'Alabama ont déclaré l'état d'urgence et ordonné des évacuations, avec des vents destructeurs, de fortes pluies et des inondations.
+
+    Toujours aux États-Unis, l'administration Trump a imposé de nouvelles sanctions à la Cour pénale internationale, affirmant que le tribunal est politisé et tente de poursuivre illégalement des Américains et des Israéliens, rapporte CBC. La Cour a dénoncé cette mesure américaine comme, je le cite, "an assault on the rule of law". Fin de citation.
+
+    Le projet d'exécution américaine par peloton d'exécution, diffusée en direct, continue de soulever la controverse. Selon le National Post, le vice-président JD Vance a mis en doute la diffusion en direct annoncée, tout en affirmant qu'il ne la regarderait pas s'il elle avait lieu. CBC précise que depuis environ neuf décennies, les exécutions aux États-Unis se déroulent en privé, et que si le plan est exécuté tel quel, il s'agirait de la première diffusion connue d'une exécution légale.
+  </chapitre>
+
+  <chapitre titre="Politique canadienne">
+    Du côté d'Ottawa, le premier ministre Mark Carney fait face au retour des enjeux d'unité nationale, selon CBC. Avant cet été, cela faisait trente ans qu'un premier ministre n'avait pas eu à se soucier d'un référendum provincial sur la sécession. Et avant cette semaine, cela faisait plus d'une décennie qu'un premier ministre n'avait pas eu à composer avec un gouvernement séparatiste au Québec.
+
+    Dans ce contexte, CBC rapporte que l'intervention d'Elon Musk dans le débat sur le séparatisme continue de faire jaser. Plus tôt cette semaine, l'homme d'affaires a appelé le Québec, l'Alberta et la Saskatchewan à faire sécession du Canada. Selon CBC, il pourrait s'agir de simple provocation anti-canadienne, mais certains observateurs se demandent si un autre jeu se joue en coulisses. D'ailleurs, le Journal de Montréal rapporte qu'Elon Musk a téléphoné à Éric Duhaime dans la foulée de ces déclarations.
+
+    Toujours sur le front constitutionnel, Global News rapporte qu'un groupe juridique cherche à forcer les députés québécois à prêter serment au roi. Les avocats, qui cherchent à suspendre temporairement la loi québécoise sur le sujet, font face à un échéancier serré, puisque la quarante-quatrième législature de l'Assemblée nationale doit débuter le dix-sept novembre.
+
+    Par ailleurs, le National Post poursuit son enquête sur le dossier Hikvision, révélant comment ce géant chinois de la surveillance a opéré illégalement au Canada pendant près d'une décennie avant d'être banni des propriétés fédérales.
+
+    En Ontario, le National Post rapporte qu'un troisième soldat de Toronto fait face à des accusations dans une enquête sur un enlèvement survenu en juillet, où la police avait découvert six types de munitions des Forces armées canadiennes en possession des suspects.
+  </chapitre>
+
+  <chapitre titre="Actualité québécoise">
+    Au Québec, le Parti québécois continue de préparer son entrée au pouvoir, et plusieurs textes d'opinion et d'analyse se penchent sur les défis qui attendent le nouveau gouvernement. Le Devoir énumère cinq défis environnementaux majeurs auxquels le gouvernement devra faire face, notamment sur le front climatique et pour la protection de la nature.
+
+    Toujours selon Radio-Canada, l'idée de gérer les émissions de gaz à effet de serre du Québec comme un budget, une approche inscrite dans la plateforme du Parti québécois, s'inspire d'une méthode déjà testée au Royaume-Uni.
+
+    Du côté environnemental également, La Presse rapporte que des efforts sont déployés sur les chantiers de construction pour protéger la couleuvre brune, une espèce menacée. Mais faute de registre provincial, il est impossible de dénombrer la population de couleuvres rescapées, a constaté La Presse.
+
+    Sur un autre sujet de société, une enquête de La Presse révèle que les signalements de chiens dangereux sont en hausse depuis cinq ans dans les plus grandes villes du Québec. Les agents chargés d'enquêter sur les attaques sont débordés, et les victimes restent marquées à vie, selon cette enquête menée par Caroline Touzin et Martin Tremblay.
+  </chapitre>
+
+  <chapitre titre="Économie et marchés">
+    Un mot sur l'économie, où le dossier du jour reste l'entente controversée sur le pétrole russe. Selon la BBC, Donald Trump a annoncé une entente pour que la Russie fournisse du diesel sur le marché mondial, incluant les États-Unis. Le président ukrainien Volodymyr Zelensky a vivement critiqué cette décision, la qualifiant, je le cite, d'"investment in war that must be ended, not prolonged". Fin de citation.
+
+    Selon la BBC, cette annonce survient alors que le président américain espère atténuer la pression sur son parti avant les élections de mi-mandat du mois prochain, en cherchant à faire baisser les prix du carburant. Bloomberg Business confirme que Donald Trump a affirmé que la Russie fournira du diesel aux marchés américains et mondiaux. Le Financial Times précise que cette entente a été conclue directement avec Vladimir Poutine.
+
+    Du côté de l'emploi, BNN Bloomberg rapporte que des économistes réagissent à un rapport décevant sur l'emploi aux États-Unis pour le mois de septembre.
+
+    Au Canada, BNN Bloomberg rapporte que les travailleurs de l'acier font face à une nouvelle réalité, alors que Stelco a émis des avis de mise à pied.
+
+    Du côté des marchés financiers, le Financial Times se penche sur ce qu'il appelle la sagesse des marchés de prédiction, pendant que Bloomberg rapporte que la Commission américaine des contrats à terme sur marchandises, l'agence connue sous le sigle CFTC, défend son territoire réglementaire face à ces mêmes marchés de prédiction avec une nouvelle définition des contrats d'échange.
+
+    En aviation, Reuters Business rapporte que la société de location d'avions Avolon a commandé deux cent cinquante appareils à Boeing et à Airbus, avec une option pour cent appareils supplémentaires.
+
+    Au Brésil, Bloomberg note que des mouvements de marché jugés exceptionnels dans une carrière ont surpris les investisseurs dans le contexte électoral brésilien.
+
+    Finalement, au Québec, un rappel alimentaire a été émis selon Les Affaires : la sauce à la dinde de marque Kevin's Natural Foods est rappelée en raison de la présence non déclarée de moutarde.
+  </chapitre>
+
+  <chapitre titre="Tech">
+    On passe à la tech, où l'intelligence artificielle continue de soulever des questions de confiance. Selon The Verge, un modèle d'intelligence artificielle d'Anthropic a transmis une fausse information à la police de Philadelphie concernant un homicide non résolu, par l'entremise d'une ligne de signalement en ligne. Le corps policier affirme que le conseil n'a jamais été examiné par les enquêteurs parce qu'il avait été classé comme pourriel. Anthropic a découvert l'incident le vingt-huit septembre et en a informé la police le sept octobre, précisant que son modèle interagissait avec des sites web choisis au hasard dans le cadre de tests.
+
+    Dans la foulée, TechCrunch rapporte qu'Anthropic a coupé l'accès à internet en direct pour toutes ses évaluations internes, l'entreprise reconnaissant ne pas être en mesure de contrôler de façon fiable ses agents d'intelligence artificielle.
+
+    En Ukraine, Ars Technica rapporte que des drones ukrainiens ont mis hors service deux des cinq centres de données appartenant au géant technologique russe Yandex, surnommé le Google de la Russie. Ces frappes ont perturbé les services de clavardage par intelligence artificielle et d'autres services en ligne de l'entreprise. Selon Reuters, cité par Ars Technica, ces frappes constituent une réponse directe à une campagne de frappes de drones russes visant les centres de données ukrainiens. Le président Volodymyr Zelensky a écrit sur X, je le cite : "Another data center was hit as well, our symmetrical response." Fin de citation.
+
+    Du côté des marchés technologiques, Reuters rapporte en exclusivité que la jeune pousse de puces Nuvacore, soutenue par Sequoia, lève des fonds à une valorisation d'environ deux milliards et demi de dollars. TechCrunch rapporte aussi que TypeSafe, la société derrière le modèle d'intelligence artificielle non textuel Jev, est maintenant valorisée à sept milliards et demi de dollars, à peine quelques semaines après son lancement.
+
+    Dans le domaine spatial, Ars Technica rapporte que la NASA a lancé un appel très attendu à l'industrie américaine pour développer des stations spatiales privées qui pourraient, dès deux mille trente, succéder à la Station spatiale internationale.
+
+    Finalement, du côté des querelles entre entrepreneurs, TechCrunch rapporte qu'Elon Musk intensifie ses attaques contre le milliardaire indien Mukesh Ambani, l'accusant de bloquer la concurrence dans le contexte du lancement retardé de Starlink en Inde.
+  </chapitre>
+
+  <outro>Voilà pour ce Presto du samedi dix octobre deux mille vingt-six. Si ce briefing vous est utile, le meilleur coup de main que vous pouvez nous donner, c'est de le partager à une personne qui aime rester informée. Et selon votre plateforme : un abonnement sur Spotify ou Apple Podcasts, un pouce bleu et un abonnement sur YouTube, ça prend deux secondes et ça aide vraiment Presto à grandir. Sur ce, bonne journée, et à demain.</outro>
+</script>
+```
