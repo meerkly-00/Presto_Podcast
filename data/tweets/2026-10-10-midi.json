@@ -1,0 +1,14 @@
+{
+  "date": "2026-10-10",
+  "kind": "poll",
+  "text": "Ce matin → Trump demande un nouveau président en Ukraine. Nouveauté : il blâme Zelenskyy pour l'accord diesel avec la Russie et les prix du carburant aux États-Unis.\n\nSelon toi, qui devrait avoir le pouvoir de décider du leadership ukrainien?",
+  "poll": {
+    "options": [
+      "Les Ukrainiens seuls",
+      "Les États-Unis et alliés",
+      "Une décision conjointe",
+      "Pas sûr"
+    ],
+    "duration_minutes": 1440
+  }
+}
