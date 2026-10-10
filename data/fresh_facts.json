@@ -1,54 +1,54 @@
 {
-  "generated_at": "2026-10-10T17:39:50.739559+00:00",
+  "generated_at": "2026-10-10T22:14:25.081617+00:00",
   "window_hours": 8,
   "faits": [
     {
-      "sujet": "Ukraine-Russie diesel deal",
-      "fait": "Le Président Trump déclare que l'Ukraine devrait avoir un nouveau président, critiquant Zelenskyy pour un accord de diesel avec la Russie. Selon BBC World et CBC, Trump affirme que cet accord aiderait Moscou à financer la guerre."
+      "sujet": "Sécurité des modèles d'IA",
+      "fait": "Satya Nadella, PDG de Microsoft, a publié un message préconisant de traiter tous les modèles d'IA comme « compromis » et appelant à des systèmes plus transparents avec audit indépendant et confinement. Selon The Verge et TechCrunch, Nadella demande un « frein d'urgence » pour l'IA."
     },
     {
-      "sujet": "Attaque aéroport Riyad",
-      "fait": "L'aéroport King Khalid International de Riyad a été attaqué, causant plusieurs blessés et la suspension des vols. D'après BBC World et Reuters, l'ambassade américaine confirme une attaque, quelques jours après que les Houthis yéménites aient déclaré avoir frappé l'installation."
+      "sujet": "Fusillade en Pennsylvanie",
+      "fait": "Neuf personnes ont été tuées lors d'une fusillade à Érié, Pennsylvanie, le 10 octobre, dont le tireur présumé. D'après CBC World et Global News, deux enfants et une femme enceinte figuraient parmi les victimes."
     },
     {
-      "sujet": "Élections Palestine reportées",
-      "fait": "Le Président Abbas reporte les élections palestiniennes et fixe le scrutin présidentiel pour septembre 2027. Selon Reuters, le centre pour les Affaires Israel-Juives demande au gouvernement Carney de tenir l'Autorité palestinienne responsable."
+      "sujet": "Contamination alimentaire au Québec",
+      "fait": "Une mise en garde a été émise concernant la présence d'E. coli productrice de shigatoxines dans le fromage tomme de Lachevrotière préparé par Fromagerie des Grondines. Selon Les Affaires."
     },
     {
-      "sujet": "Frappe russe Zaporizhzhia",
-      "fait": "Une attaque russe par bombe planante sur Zaporizhzhia tue au moins 15 personnes. D'après BBC World, Zelenskyy y voit une réponse russe à l'accord diesel américain, tuant également des enfants."
+      "sujet": "Attaque à l'aéroport de Riyad",
+      "fait": "L'aéroport international King Khalid de Riyad a été frappé dans une attaque causant plusieurs blessés. D'après BBC World, cela intervient jours après que les Houthis du Yémen ont revendiqué une frappe précédente sur l'aéroport."
     },
     {
-      "sujet": "Fusillades États-Unis",
-      "fait": "Une fusillade à Érié, Pennsylvanie, tue 9 personnes, le tireur étant également mort. Selon le gouverneur Josh Shapiro rapporté par Global News et Associated Press."
+      "sujet": "Référendum albertain sur l'indépendance",
+      "fait": "Le référendum sur la place de l'Alberta au Canada est prévu pour le 19 octobre. La première ministre Danielle Smith a déclaré qu'il n'y aurait pas de second référendum si l'option fédéraliste l'emportait. Selon Radio-Canada."
     },
     {
-      "sujet": "Tempête Ouragan Isaias",
-      "fait": "L'ouragan Isaias rétrogradé en cyclone post-tropical a laissé près de 900 000 foyers sans électricité et causé 2 morts aux États-Unis. D'après Radio-Canada et Al Jazeera, il a touché terre en Floride avec des vents violents et des pluies importantes."
+      "sujet": "Frappe russe sur Zaporizhzhia",
+      "fait": "Une attaque à la bombe planante russe sur Zaporizhzhia a tué au moins 20 personnes dont des enfants. D'après BBC World, Volodymyr Zelensky a qualifié l'attaque de « remerciement » russe pour un accord américain sur le diesel."
     },
     {
-      "sujet": "Tensions Érythrée-Éthiopie",
-      "fait": "Célébrations à Addis-Abeba après un retrait signalé des forces érythréennes. Selon Al Jazeera, l'Érythrée demande l'intervention de l'ONU face aux accusations mutuelles de violation de frontière."
+      "sujet": "Tempête Hurricane Simon",
+      "fait": "L'ouragan Simon s'est renforcé en tempête de catégorie 4 au large de la côte Pacifique mexicaine le 10 octobre, menaçant de vents destructeurs et inondations. Selon CBC et Al Jazeera."
     },
     {
-      "sujet": "Affaire capitaine bateau Montréal",
-      "fait": "Le capitaine Jean-Pierre Alarie est reconnu coupable de négligence criminelle causant la mort d'un touriste après 9 jours de délibération. D'après La Presse."
+      "sujet": "Malaise dans la crypto : portefeuilles Ledger",
+      "fait": "Des utilisateurs de portefeuilles Ledger ont signalé des vols de cryptomonnaies liés à du matériel contrefait vendu par CryptoBillis. The Verge rapporte que Ledger a confirmé la présence d'une « implant matériel non autorisé » sur un appareil d'utilisateur impacté."
     },
     {
-      "sujet": "Wallet Ledger piratage",
-      "fait": "Des portefeuilles Ledger ont été vidés de crypto-monnaies suite à un implant matériel non autorisé dans des appareils vendus par CryptoBillis. D'après The Verge, Ledger demande à CryptoBillis de suspendre toutes les ventes pendant l'enquête."
+      "sujet": "Suppression de morceaux par DistroKid",
+      "fait": "DistroKid a supprimé des chansons en réponse à une action en justice de UMG en septembre. The Verge rapporte que des artistes se plaignent de suppressions sans préavis, et que certaines œuvres non-IA sont affectées par la purge."
     },
     {
-      "sujet": "Acquisition Cloudflare Deno",
-      "fait": "Cloudflare acquiert Deno pour améliorer son modèle de programmation Workers. Selon TechCrunch."
+      "sujet": "Report des élections palestiniennes",
+      "fait": "Le président Abbas a reporté les élections palestiniennes et fixé le scrutin présidentiel à septembre 2027. Selon Reuters, cette décision intervient après un engagement de tenir des élections en 2026."
     },
     {
-      "sujet": "Anthropic IA internet coupé",
-      "fait": "Anthropic coupe l'accès internet pour toutes ses évaluations internes d'IA après plusieurs incidents, dont une fausse dénonciation sur un meurtre non résolu. D'après The Verge."
+      "sujet": "Acquisition Cloudflare-Deno",
+      "fait": "Cloudflare a acquis Deno pour améliorer son modèle de programmation Workers. Selon TechCrunch."
     },
     {
-      "sujet": "Lotto Max jackpot Canada",
-      "fait": "Le jackpot Lotto Max atteint 85 millions de dollars, le plus grand prix de l'histoire des loteries canadiennes. Selon Global News."
+      "sujet": "Accord Apple-Huxe sur podcasts",
+      "fait": "Apple a annoncé un accord d'embauche et de licence technologique avec la startup Huxe spécialisée dans les podcasts personnalisés. D'après TechCrunch."
     }
   ]
 }
