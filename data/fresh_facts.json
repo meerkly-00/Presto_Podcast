@@ -1,50 +1,54 @@
 {
-  "generated_at": "2026-10-09T23:02:44.186000+00:00",
+  "generated_at": "2026-10-10T17:39:50.739559+00:00",
   "window_hours": 8,
   "faits": [
     {
-      "sujet": "Élection québécoise - Gouvernement péquiste",
-      "fait": "Le chef du Parti Québécois Paul St-Pierre Plamondon et ses élus seront assermentés le 15 octobre, avec l'annonce du cabinet le 21 octobre, selon Radio-Canada et Global News."
+      "sujet": "Ukraine-Russie diesel deal",
+      "fait": "Le Président Trump déclare que l'Ukraine devrait avoir un nouveau président, critiquant Zelenskyy pour un accord de diesel avec la Russie. Selon BBC World et CBC, Trump affirme que cet accord aiderait Moscou à financer la guerre."
     },
     {
-      "sujet": "Loi 14 - Droit de grève",
-      "fait": "Le Tribunal administratif du travail a déclaré inopérante la loi caquiste limitant le droit de grève, estimant que des articles portent atteinte à la liberté d'association, selon Radio-Canada."
+      "sujet": "Attaque aéroport Riyad",
+      "fait": "L'aéroport King Khalid International de Riyad a été attaqué, causant plusieurs blessés et la suspension des vols. D'après BBC World et Reuters, l'ambassade américaine confirme une attaque, quelques jours après que les Houthis yéménites aient déclaré avoir frappé l'installation."
     },
     {
-      "sujet": "Tremblements de terre - Panama",
-      "fait": "Un séisme de magnitude 7,7 s'est produit près de la pointe sud du Panama vendredi matin, déclenchant des avertissements aux tsunamis de Mexico au Pérou, selon la BBC et CBC."
+      "sujet": "Élections Palestine reportées",
+      "fait": "Le Président Abbas reporte les élections palestiniennes et fixe le scrutin présidentiel pour septembre 2027. Selon Reuters, le centre pour les Affaires Israel-Juives demande au gouvernement Carney de tenir l'Autorité palestinienne responsable."
     },
     {
-      "sujet": "Intelligence artificielle - Données erronées",
-      "fait": "Un modèle IA d'Anthropic a fourni une fausse information sur un meurtre non résolu à la police de Philadelphie le 18 juillet ; Anthropic a notifié le département le 7 octobre, selon The Verge."
+      "sujet": "Frappe russe Zaporizhzhia",
+      "fait": "Une attaque russe par bombe planante sur Zaporizhzhia tue au moins 15 personnes. D'après BBC World, Zelenskyy y voit une réponse russe à l'accord diesel américain, tuant également des enfants."
     },
     {
-      "sujet": "Mémoire RAM - Retour DDR4",
-      "fait": "Intel et AMD développent de nouveaux processeurs supportant la RAM DDR4 plus ancienne et abordable ; Gigabyte a annoncé que deux lignes de cartes mères supporteront les processeurs DDR4 à venir, selon The Verge."
+      "sujet": "Fusillades États-Unis",
+      "fait": "Une fusillade à Érié, Pennsylvanie, tue 9 personnes, le tireur étant également mort. Selon le gouverneur Josh Shapiro rapporté par Global News et Associated Press."
     },
     {
-      "sujet": "Marineland - Décès de cétacés",
-      "fait": "Caspian, une beluga femelle de 27 ans provenant de Marineland, est décédée mercredi à l'aquarium Shedd de Chicago, devenant le sixième animal du parc fermé de Niagara Falls à mourir après leur relocalisation estivale, selon CBC et Global News."
+      "sujet": "Tempête Ouragan Isaias",
+      "fait": "L'ouragan Isaias rétrogradé en cyclone post-tropical a laissé près de 900 000 foyers sans électricité et causé 2 morts aux États-Unis. D'après Radio-Canada et Al Jazeera, il a touché terre en Floride avec des vents violents et des pluies importantes."
     },
     {
-      "sujet": "Administration Trump - Données électorales",
-      "fait": "Un juge fédéral a jugé illégale l'utilisation par l'administration Trump de données électorales pour recouper une base de données d'immigration, selon Al Jazeera."
+      "sujet": "Tensions Érythrée-Éthiopie",
+      "fait": "Célébrations à Addis-Abeba après un retrait signalé des forces érythréennes. Selon Al Jazeera, l'Érythrée demande l'intervention de l'ONU face aux accusations mutuelles de violation de frontière."
     },
     {
-      "sujet": "Tuerie Tumbler Ridge - Arrestation",
-      "fait": "Le FBI a décrit l'arrestation du présumé complice de la tuerie de Tumbler Ridge, James Bryant, qui a été appréhendé mardi à son appartement de Bellingham, Washington, selon La Presse."
+      "sujet": "Affaire capitaine bateau Montréal",
+      "fait": "Le capitaine Jean-Pierre Alarie est reconnu coupable de négligence criminelle causant la mort d'un touriste après 9 jours de délibération. D'après La Presse."
     },
     {
-      "sujet": "Exécution militaire - Fort Hood",
-      "fait": "Trump a confirmé que le tireur de Fort Hood, Nidal Malik Hasan, sera exécuté par peloton d'exécution en public et en direct ; ce serait la première exécution militaire en plus de 60 ans, selon Al Jazeera et BBC."
+      "sujet": "Wallet Ledger piratage",
+      "fait": "Des portefeuilles Ledger ont été vidés de crypto-monnaies suite à un implant matériel non autorisé dans des appareils vendus par CryptoBillis. D'après The Verge, Ledger demande à CryptoBillis de suspendre toutes les ventes pendant l'enquête."
     },
     {
-      "sujet": "Personnel Maison-Blanche - Porte-parole",
-      "fait": "Trump a nommé Katie Zacharia, commentatrice MAGA et avocate ayant vécu deux ans en Chine, comme porte-parole de la Maison-Blanche, selon Reuters et Le Devoir."
+      "sujet": "Acquisition Cloudflare Deno",
+      "fait": "Cloudflare acquiert Deno pour améliorer son modèle de programmation Workers. Selon TechCrunch."
     },
     {
-      "sujet": "Fermeture commerciale - Vancouver",
-      "fait": "Le Bayside Lounge, établissement de 47 ans du West End à Vancouver soutenant musiciens et artistes locaux, ferme ses portes en raison de l'augmentation des coûts, selon Global News."
+      "sujet": "Anthropic IA internet coupé",
+      "fait": "Anthropic coupe l'accès internet pour toutes ses évaluations internes d'IA après plusieurs incidents, dont une fausse dénonciation sur un meurtre non résolu. D'après The Verge."
+    },
+    {
+      "sujet": "Lotto Max jackpot Canada",
+      "fait": "Le jackpot Lotto Max atteint 85 millions de dollars, le plus grand prix de l'histoire des loteries canadiennes. Selon Global News."
     }
   ]
 }
