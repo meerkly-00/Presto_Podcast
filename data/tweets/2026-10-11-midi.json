@@ -1,0 +1,14 @@
+{
+  "date": "2026-10-11",
+  "kind": "poll",
+  "text": "Ce matin → L'aéroport de Riyad a été frappé dimanche, un jour après une attaque qui avait tué 12 personnes.\n\nComment les pays devraient-ils réagir face aux attaques répétées sur infrastructures civiles?",
+  "poll": {
+    "options": [
+      "Renforcer la défense",
+      "Engager des négociations",
+      "Répondre par des frappes",
+      "Impliquer les organismes"
+    ],
+    "duration_minutes": 1440
+  }
+}
