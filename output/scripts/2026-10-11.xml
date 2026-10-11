@@ -1,0 +1,73 @@
+```xml
+<script>
+  <intro>Bonjour, on est le dimanche onze octobre deux mille vingt-six. Voici votre Presto en environ quinze minutes. Au menu : l'attaque meurtrière à l'aéroport de Riyad et ses suites, la pression de Donald Trump sur Volodymyr Zelensky, le séisme au Panama qui s'aggrave, la situation politique au Pakistan, et la sortie remarquée du patron de Microsoft sur l'intelligence artificielle.</intro>
+
+  <chapitre titre="International">
+    On commence par l'Arabie saoudite, où l'aéroport international de Riyad a de nouveau été la cible d'une attaque. Selon l'Associated Press, les autorités saoudiennes font état de douze morts et de plus de trois cents blessés. CBC précise que l'attaque a visé l'aéroport international King Khalid samedi, et que la coalition menée par l'Arabie saoudite a promis des représailles. Le Devoir rapporte que parmi les victimes figurent quatre citoyens saoudiens et huit ressortissants étrangers. Selon Reuters, les grandes conférences prévues en Arabie saoudite se poursuivront malgré l'attaque, selon leurs organisateurs.
+
+    On reste en lien avec ce dossier pour parler de l'Ukraine. Donald Trump a affirmé qu'il était temps pour l'Ukraine d'avoir un nouveau président, selon Al Jazeera. Le président américain soutient que Volodymyr Zelensky a raté des occasions de mettre fin à la guerre avec la Russie. Selon Le Devoir, Donald Trump a aussi condamné les frappes ukrainiennes sur les raffineries russes, qu'il juge responsables d'une pénurie mondiale de diesel. En anglais, je le cite : "He has to stop." Fin de citation, a lancé le président américain à l'endroit de son homologue ukrainien.
+
+    De son côté, Volodymyr Zelensky a vivement critiqué l'entente controversée entre Washington et Moscou sur l'achat de diesel russe. Selon le National Post, le président ukrainien a dénoncé cette entente après que de nouvelles frappes russes eurent fait quinze morts en Ukraine. CBC rapporte que Donald Trump affirme aussi que Vladimir Poutine souhaiterait fortement en arriver à un règlement du conflit, mais que Volodymyr Zelensky refuserait de conclure une entente.
+
+    Toujours en lien avec ce conflit, Al Jazeera rapporte qu'un centre de données appartenant à l'entreprise russe Yandex a été fermé après une attaque de drones près de Vladimir, en Russie. Il s'agit de la troisième frappe visant des installations de Yandex en une semaine, dans un contexte d'escalade des attaques russes et ukrainiennes visant les infrastructures technologiques.
+
+    Du côté du Panama, la situation s'aggrave au lendemain du puissant séisme qui a frappé le pays. Selon CBC, le gouvernement panaméen a déclaré l'état d'urgence dimanche, alors que des répliques continuent de secouer les communautés depuis des heures. Les autorités n'attribuent toujours aucun décès aux secousses, mais rapportent des dommages dans les dix provinces du pays ainsi que dans deux territoires autochtones.
+
+    Au Pakistan, la situation politique se détériore dans la province du Khyber Pakhtunkhwa. Selon Reuters, le gouvernement provincial dirigé par le parti d'Imran Khan a été suspendu par le président du pays. Al Jazeera précise que le bureau du premier ministre justifie cette décision par un désengagement délibéré du gouvernement provincial dans la lutte contre le terrorisme.
+
+    En Pologne, Reuters rapporte que la police a reçu des informations faisant état d'une possible attaque visant le premier ministre et le ministre de la Défense du pays.
+
+    Au Nepal, CBC rapporte que des villages ont été évacués dans le centre-nord du pays après que des inondations soudaines causées par la rivière Budhi Gandaki eurent détruit des habitations et d'autres structures.
+
+    En Inde, BBC rapporte que de nouvelles manifestations ont eu lieu à Delhi après la libération des dirigeants d'un groupe surnommé les "cafards". La police maintient des restrictions d'accès au centre-ville après que des milliers de personnes eurent été détenues puis relâchées samedi.
+  </chapitre>
+
+  <chapitre titre="Politique canadienne">
+    À Ottawa, le renseignement canadien lance un appel à la vigilance. Selon Radio-Canada, le directeur du Service canadien du renseignement de sécurité affirme que des acteurs étrangers peuvent tenter de polariser la société canadienne lors de scrutins.
+
+    En Alberta, la première ministre Danielle Smith dénonce ce qu'elle qualifie d'ingérence fédérale dans les règles d'habitation d'Edmonton. Selon Global News, la province a annulé cette semaine des changements aux règlements de zonage adoptés par la Ville d'Edmonton en deux mille vingt-quatre, que Danielle Smith attribue à une influence d'Ottawa.
+
+    Toujours en lien avec l'Alberta, La Presse s'intéresse à la situation des Franco-Albertains, qui avaient quitté le Québec en pensant ne plus jamais vivre de référendum sur l'indépendance d'une province. Ils se retrouvent aujourd'hui au cœur d'un débat à saveur constitutionnelle où leur apport pourrait s'avérer déterminant.
+
+    Le National Post rapporte aussi que le Centre consultatif des relations juives et israéliennes demande au gouvernement de Mark Carney de tenir l'Autorité palestinienne responsable du report des élections prévues en deux mille vingt-six.
+  </chapitre>
+
+  <chapitre titre="Actualité québécoise">
+    Du côté du Québec, Radio-Canada rapporte que l'émission Enquête met en lumière une hausse du recours à des mineures dans l'exploitation sexuelle à Montréal. Selon l'émission, les jeunes filles mineures seraient de plus en plus recherchées sur ce marché.
+
+    La Presse publie également une enquête sur le métier d'enquêteur canin à la Ville de Montréal, chargé d'intervenir sur les signalements de chiens dangereux. Le journal souligne qu'il s'agit d'un métier qui comporte des risques, notamment celui des représailles de la part de propriétaires sanctionnés.
+  </chapitre>
+
+  <chapitre titre="Économie et marchés">
+    On passe à l'économie, où le Fonds monétaire et le Financial Times s'intéressent à la popularité du président américain. Selon un sondage du Financial Times, Donald Trump ne parvient pas à enrayer le déclin de sa popularité.
+
+    Toujours selon le Financial Times, des publicités télévisées de l'administration Trump continuent d'être financées par les fonds publics, malgré un engagement antérieur à utiliser des fonds privés.
+
+    En Inde, la banque centrale tente de soutenir la roupie, qui s'approche de creux historiques, selon le Financial Times.
+
+    Sur le front de l'intelligence artificielle, le Wall Street Journal rapporte que l'Organisation mondiale du commerce prévoit que l'essor des investissements en intelligence artificielle entraînera la croissance du commerce mondial la plus rapide depuis la crise financière. Le Financial Times nuance toutefois ce portrait en notant que l'emprunt lié à l'intelligence artificielle ralentit, les investisseurs devenant plus prudents face à l'endettement accumulé dans le secteur.
+
+    En Inde toujours, Reuters rapporte qu'Elon Musk promet de rendre Starlink abordable dans le pays, à quelques jours du lancement de l'entrée en bourse record de Jio, l'entreprise de télécommunications de Mukesh Ambani.
+
+    Enfin, le Wall Street Journal s'intéresse à une nouvelle génération d'investisseurs de la génération Z qui dominent les marchés de prédiction.
+  </chapitre>
+
+  <chapitre titre="Tech">
+    On termine avec la tech, où le patron de Microsoft a fait une sortie remarquée sur l'intelligence artificielle. Selon The Verge, Satya Nadella affirme que l'industrie devrait considérer tous les modèles d'intelligence artificielle comme potentiellement compromis. Dans une publication sur X, le chef de la direction de Microsoft soutient qu'on ne peut plus accepter un monde où l'intelligence artificielle est traitée comme une boîte noire dont on accepte ou rejette simplement les recommandations. TechCrunch rapporte que Satya Nadella appelle à la mise en place d'un véritable frein d'urgence pour les modèles d'intelligence artificielle, et plaide pour des mécanismes de divulgation rapide des incidents, des audits indépendants et des données vérifiables.
+
+    Du côté de la cryptomonnaie, The Verge rapporte des cas présumés de falsification de portefeuilles matériels Ledger, à la suite de signalements de vols de cryptomonnaies. L'entreprise a demandé au fournisseur CryptoBillis de suspendre la vente de ses appareils pendant la durée d'une enquête. Selon The Verge, Ledger confirme qu'un appareil touché contenait une puce non autorisée, capable d'intercepter les informations affichées à l'écran, y compris la phrase secrète utilisée lors de la configuration initiale des portefeuilles.
+
+    En entreprise, TechCrunch rapporte que Cloudflare a fait l'acquisition de Deno, dans le but d'améliorer son modèle de programmation pour sa plateforme Workers. Toujours selon TechCrunch, Apple a conclu une entente pour embaucher l'équipe et obtenir une licence technologique de la jeune entreprise Huxe, spécialisée dans les balados personnalisés générés par intelligence artificielle.
+
+    En Inde, CBC s'intéresse au développement d'un centre de données de Google dans le sud du pays, un projet évalué à quinze milliards de dollars américains, le plus important de l'entreprise à l'extérieur des États-Unis. Selon CBC, le projet s'accompagne de promesses d'emplois et d'investissements, mais soulève aussi des questions sur ses coûts environnementaux et sociaux pour les communautés concernées.
+  </chapitre>
+
+  <chapitre titre="Sport">
+    Rapidement en sport. Au hockey, Sportsnet rapporte que les Maple Leafs de Toronto ont réalisé une remontée spectaculaire face à l'Avalanche du Colorado, ternie toutefois par la blessure du défenseur Chris Tanev. Du côté des Canadiens de Montréal, Sportsnet rapporte que les partisans ont multiplié les appels pour attirer l'attaquant des Red Wings de Détroit, Dylan Larkin, lors du match de samedi. Les Oilers d'Edmonton ont aussi signé une victoire, selon Sportsnet, grâce à un effort défensif complet lors d'un match disputé à San Jose contre les Sharks. Du côté des Flames de Calgary, Sportsnet souligne le premier but en carrière d'Aydar Suniev, symbole d'une saison de reconstruction pour l'équipe.
+
+    Au soccer européen, Al Jazeera rapporte que Manchester City affrontera Liverpool à Anfield dimanche, son premier match depuis que le club a été reconnu coupable de manquements financiers graves dans la Premier League anglaise.
+  </chapitre>
+
+  <outro>Voilà pour ce Presto du dimanche onze octobre deux mille vingt-six. Si ce briefing vous est utile, le meilleur coup de main que vous pouvez nous donner, c'est de le partager à une personne qui aime rester informée. Et selon votre plateforme : un abonnement sur Spotify ou Apple Podcasts, un pouce bleu et un abonnement sur YouTube, ça prend deux secondes et ça aide vraiment Presto à grandir. Sur ce, bonne journée, et à demain.</outro>
+</script>
+```
