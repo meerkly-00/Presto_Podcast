@@ -1,50 +1,54 @@
 {
-  "generated_at": "2026-10-11T17:55:00.324690+00:00",
+  "generated_at": "2026-10-11T22:40:51.778650+00:00",
   "window_hours": 8,
   "faits": [
     {
-      "sujet": "Attaque migratoire au large de Djibouti",
-      "fait": "Au moins 139 personnes, dont des enfants, sont mortes après le chavirement d'un bateau transportant plus de 300 migrants au large de la côte de Djibouti en Afrique de l'Est, selon l'Organisation internationale pour les migrations rapportée par CBC."
+      "sujet": "Attaques Houthis Arabie Saoudite",
+      "fait": "L'aéroport international de Riyad a été frappé à deux reprises en deux jours. Selon BBC World, les Houthis revendiquent des attaques ayant tué 13 personnes et ciblant deux aéroports et des installations pétrolières. Selon Global News, le Canada conseille d'éviter les voyages à l'aéroport de Riyad."
     },
     {
-      "sujet": "Bogue informatique au ministère de l'Immigration québécois",
-      "fait": "Le ministère de l'Immigration du Québec a confirmé que 746 dossiers d'immigration ont été fermés par erreur suite à des communications erronées envoyées, selon Radio-Canada."
+      "sujet": "Accord Trump-Russie diesel",
+      "fait": "Le président américain Donald Trump a conclu un accord avec la Russie sur la fourniture de diesel. Selon Financial Times et Reuters, les républicains et démocrates américains s'opposent à cet accord. Selon La Presse, le premier ministre canadien Mark Carney dénonce cet accord qu'il juge nuisible à la paix en Ukraine."
     },
     {
-      "sujet": "Attaques houthis sur l'Arabie Saoudite",
-      "fait": "L'aéroport de Riyad a été touché une deuxième fois en deux jours par les Houthis du Yémen. Le groupe revendique 12 morts et 300 blessés lors des attaques de samedi, selon la BBC World et Radio-Canada."
+      "sujet": "Cessez-le-feu énergétique Ukraine-Russie",
+      "fait": "Trump a annoncé un cessez-le-feu énergétique entre Kiev et Moscou. Selon BBC World et Radio-Canada, Zelensky accueille favorablement cette proposition, mais la Russie n'a pas commenté. Selon National Post, la Russie a frappé plusieurs installations énergétiques ukrainiennes après cette annonce."
     },
     {
-      "sujet": "Cessez-le-feu énergétique Ukraine-Russie annoncé",
-      "fait": "Le président américain Donald Trump a annoncé un cessez-le-feu énergétique entre l'Ukraine et la Russie. Le président ukrainien Volodymyr Zelenskyy a déclaré soutenir cet accord, selon Radio-Canada et Global News."
+      "sujet": "Naufrage migrants Djibouti",
+      "fait": "Au moins 139 migrants ont péri et 84 sont portés disparus après le chavirement d'une embarcation au large de Djibouti. Selon Le Devoir et CBC World, le bateau transportait 305 personnes, en majorité éthiopiennes, et des enfants figurent parmi les morts."
     },
     {
-      "sujet": "Menaces contre le Premier ministre polonais Tusk",
-      "fait": "La police polonaise a arrêté un homme soupçonné de planifier un assassinat du Premier ministre Donald Tusk et du ministre de la Défense, après avoir reçu des informations crédibles, selon BBC World."
+      "sujet": "Hurricane Simon Mexique",
+      "fait": "L'ouragan Simon frappe la côte Pacifique du Mexique en tant que tempête de catégorie 4. Selon CBC et Reuters, le Mexique ordonne aux résidents côtiers de rester à l'intérieur des bâtiments face aux vents et pluies les plus puissants."
     },
     {
-      "sujet": "Crash d'autocar en Turquie",
-      "fait": "Un autocar de tourisme a percuté un camion sur une autoroute en Turquie occidentale, tuant 11 personnes et en blessant 27, le conducteur de l'autocar étant retenu par la police, selon Al Jazeera."
+      "sujet": "Frappes frontalière Égypte-Soudan",
+      "fait": "Selon BBC World, des dizaines de prospecteurs d'or ont été tués lors de frappes contre un camp d'exploitation minière artisanale à la frontière Égypte-Soudan samedi. Ni l'Égypte ni le Soudan n'ont commenté ces allégations."
     },
     {
-      "sujet": "Données Artemis II publiées par la NASA",
-      "fait": "La NASA a publié plus de 800 Go de données scientifiques, incluant plus de 11 000 photos et vidéos et plus de 8,5 heures d'audio de la mission Artemis II, selon The Verge."
+      "sujet": "Israël-Liban après cessez-le-feu",
+      "fait": "Selon Al Jazeera, deux personnes ont été tuées près d'une zone occupée par Israël dans le sud du Liban. Malgré un cessez-le-feu établi en juin 2026, les attaques israéliennes se poursuivent."
     },
     {
-      "sujet": "Référendum indépendantiste en Alberta",
-      "fait": "L'Alberta se prépare au vote en personne pour un référendum portant sur la volonté des Albertains de rester au Canada, selon Le Devoir et Les Affaires."
+      "sujet": "Bogue informatique immigration Québec",
+      "fait": "Selon Radio-Canada, 746 dossiers d'immigration ont été fermés par erreur au Québec suite à un bogue informatique du ministère de l'Immigration, qui a envoyé des communications erronées."
     },
     {
-      "sujet": "Contrôle fédéral d'une province pakistanaise",
-      "fait": "L'État fédéral pakistanais a pris le contrôle d'une province suite à des manifestations de partisans de l'ancien Premier ministre emprisonné Imran Khan demandant sa libération, selon Le Devoir et Reuters."
+      "sujet": "Enfants ukrainiens militarisés en Russie",
+      "fait": "Selon Radio-Canada, des enfants ukrainiens déplacés en Russie sont formés pour devenir soldats russes, avec la formule 'Vous êtes russes maintenant'. Le Canada milite pour le retour de ces milliers d'enfants."
     },
     {
-      "sujet": "Attaques ukrainiennes contre le groupe technologique Yandex",
-      "fait": "L'Ukraine a frappé un centre de données de Yandex pour la troisième fois cette semaine, forçant le géant technologique russe à suspendre ses opérations, selon BBC World."
+      "sujet": "Rappel produit alimentaire Canada",
+      "fait": "Selon CBC, une marque de sauce à la dinde vendue au Canada a été rappelée car elle contient de la moutarde non déclarée."
     },
     {
-      "sujet": "Débat sur les coupures de données en Californie",
-      "fait": "TechCrunch rapporte un débat sur l'impact des moratoires sur les centres de données et se demande si l'industrie de l'IA a un problème de communication concernant la suppression des accords de non-divulgation."
+      "sujet": "Université Flock caméras surveillance",
+      "fait": "Selon The Verge, le Elgin Community College en Illinois a demandé à Flock de retirer ses caméras de reconnaissance de plaques d'immatriculation en octobre 2025, mais Flock a refusé en arguant ne pas avoir violé le contrat."
+    },
+    {
+      "sujet": "Santé Pape Léon XIV",
+      "fait": "Selon National Post, le Pape Léon XIV annonce qu'il subira une opération dans les jours à venir pour faire retirer une masse pulmonaire détectée à un stade très précoce."
     }
   ]
 }
