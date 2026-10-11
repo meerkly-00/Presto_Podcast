@@ -1,54 +1,50 @@
 {
-  "generated_at": "2026-10-10T22:14:25.081617+00:00",
+  "generated_at": "2026-10-11T17:55:00.324690+00:00",
   "window_hours": 8,
   "faits": [
     {
-      "sujet": "Sécurité des modèles d'IA",
-      "fait": "Satya Nadella, PDG de Microsoft, a publié un message préconisant de traiter tous les modèles d'IA comme « compromis » et appelant à des systèmes plus transparents avec audit indépendant et confinement. Selon The Verge et TechCrunch, Nadella demande un « frein d'urgence » pour l'IA."
+      "sujet": "Attaque migratoire au large de Djibouti",
+      "fait": "Au moins 139 personnes, dont des enfants, sont mortes après le chavirement d'un bateau transportant plus de 300 migrants au large de la côte de Djibouti en Afrique de l'Est, selon l'Organisation internationale pour les migrations rapportée par CBC."
     },
     {
-      "sujet": "Fusillade en Pennsylvanie",
-      "fait": "Neuf personnes ont été tuées lors d'une fusillade à Érié, Pennsylvanie, le 10 octobre, dont le tireur présumé. D'après CBC World et Global News, deux enfants et une femme enceinte figuraient parmi les victimes."
+      "sujet": "Bogue informatique au ministère de l'Immigration québécois",
+      "fait": "Le ministère de l'Immigration du Québec a confirmé que 746 dossiers d'immigration ont été fermés par erreur suite à des communications erronées envoyées, selon Radio-Canada."
     },
     {
-      "sujet": "Contamination alimentaire au Québec",
-      "fait": "Une mise en garde a été émise concernant la présence d'E. coli productrice de shigatoxines dans le fromage tomme de Lachevrotière préparé par Fromagerie des Grondines. Selon Les Affaires."
+      "sujet": "Attaques houthis sur l'Arabie Saoudite",
+      "fait": "L'aéroport de Riyad a été touché une deuxième fois en deux jours par les Houthis du Yémen. Le groupe revendique 12 morts et 300 blessés lors des attaques de samedi, selon la BBC World et Radio-Canada."
     },
     {
-      "sujet": "Attaque à l'aéroport de Riyad",
-      "fait": "L'aéroport international King Khalid de Riyad a été frappé dans une attaque causant plusieurs blessés. D'après BBC World, cela intervient jours après que les Houthis du Yémen ont revendiqué une frappe précédente sur l'aéroport."
+      "sujet": "Cessez-le-feu énergétique Ukraine-Russie annoncé",
+      "fait": "Le président américain Donald Trump a annoncé un cessez-le-feu énergétique entre l'Ukraine et la Russie. Le président ukrainien Volodymyr Zelenskyy a déclaré soutenir cet accord, selon Radio-Canada et Global News."
     },
     {
-      "sujet": "Référendum albertain sur l'indépendance",
-      "fait": "Le référendum sur la place de l'Alberta au Canada est prévu pour le 19 octobre. La première ministre Danielle Smith a déclaré qu'il n'y aurait pas de second référendum si l'option fédéraliste l'emportait. Selon Radio-Canada."
+      "sujet": "Menaces contre le Premier ministre polonais Tusk",
+      "fait": "La police polonaise a arrêté un homme soupçonné de planifier un assassinat du Premier ministre Donald Tusk et du ministre de la Défense, après avoir reçu des informations crédibles, selon BBC World."
     },
     {
-      "sujet": "Frappe russe sur Zaporizhzhia",
-      "fait": "Une attaque à la bombe planante russe sur Zaporizhzhia a tué au moins 20 personnes dont des enfants. D'après BBC World, Volodymyr Zelensky a qualifié l'attaque de « remerciement » russe pour un accord américain sur le diesel."
+      "sujet": "Crash d'autocar en Turquie",
+      "fait": "Un autocar de tourisme a percuté un camion sur une autoroute en Turquie occidentale, tuant 11 personnes et en blessant 27, le conducteur de l'autocar étant retenu par la police, selon Al Jazeera."
     },
     {
-      "sujet": "Tempête Hurricane Simon",
-      "fait": "L'ouragan Simon s'est renforcé en tempête de catégorie 4 au large de la côte Pacifique mexicaine le 10 octobre, menaçant de vents destructeurs et inondations. Selon CBC et Al Jazeera."
+      "sujet": "Données Artemis II publiées par la NASA",
+      "fait": "La NASA a publié plus de 800 Go de données scientifiques, incluant plus de 11 000 photos et vidéos et plus de 8,5 heures d'audio de la mission Artemis II, selon The Verge."
     },
     {
-      "sujet": "Malaise dans la crypto : portefeuilles Ledger",
-      "fait": "Des utilisateurs de portefeuilles Ledger ont signalé des vols de cryptomonnaies liés à du matériel contrefait vendu par CryptoBillis. The Verge rapporte que Ledger a confirmé la présence d'une « implant matériel non autorisé » sur un appareil d'utilisateur impacté."
+      "sujet": "Référendum indépendantiste en Alberta",
+      "fait": "L'Alberta se prépare au vote en personne pour un référendum portant sur la volonté des Albertains de rester au Canada, selon Le Devoir et Les Affaires."
     },
     {
-      "sujet": "Suppression de morceaux par DistroKid",
-      "fait": "DistroKid a supprimé des chansons en réponse à une action en justice de UMG en septembre. The Verge rapporte que des artistes se plaignent de suppressions sans préavis, et que certaines œuvres non-IA sont affectées par la purge."
+      "sujet": "Contrôle fédéral d'une province pakistanaise",
+      "fait": "L'État fédéral pakistanais a pris le contrôle d'une province suite à des manifestations de partisans de l'ancien Premier ministre emprisonné Imran Khan demandant sa libération, selon Le Devoir et Reuters."
     },
     {
-      "sujet": "Report des élections palestiniennes",
-      "fait": "Le président Abbas a reporté les élections palestiniennes et fixé le scrutin présidentiel à septembre 2027. Selon Reuters, cette décision intervient après un engagement de tenir des élections en 2026."
+      "sujet": "Attaques ukrainiennes contre le groupe technologique Yandex",
+      "fait": "L'Ukraine a frappé un centre de données de Yandex pour la troisième fois cette semaine, forçant le géant technologique russe à suspendre ses opérations, selon BBC World."
     },
     {
-      "sujet": "Acquisition Cloudflare-Deno",
-      "fait": "Cloudflare a acquis Deno pour améliorer son modèle de programmation Workers. Selon TechCrunch."
-    },
-    {
-      "sujet": "Accord Apple-Huxe sur podcasts",
-      "fait": "Apple a annoncé un accord d'embauche et de licence technologique avec la startup Huxe spécialisée dans les podcasts personnalisés. D'après TechCrunch."
+      "sujet": "Débat sur les coupures de données en Californie",
+      "fait": "TechCrunch rapporte un débat sur l'impact des moratoires sur les centres de données et se demande si l'industrie de l'IA a un problème de communication concernant la suppression des accords de non-divulgation."
     }
   ]
 }
