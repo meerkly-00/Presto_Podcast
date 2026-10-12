@@ -1,0 +1,14 @@
+{
+  "date": "2026-10-12",
+  "kind": "poll",
+  "text": "Ce matin → Trump annonce un cessez-le-feu énergétique entre la Russie et l'Ukraine.\n\nNouveau : Six sites énergétiques ukrainiens ont été frappés par la Russie depuis l'annonce, selon Kyiv.\n\nComment interpréter la poursuite des attaques russes après l'annonce du cessez-le-feu?",
+  "poll": {
+    "options": [
+      "Violation délibérée de",
+      "Manque de clarté dans",
+      "Absence de mécanisme de",
+      "Décalage entre annonce"
+    ],
+    "duration_minutes": 1440
+  }
+}
