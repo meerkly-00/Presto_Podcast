@@ -1,0 +1,85 @@
+```xml
+<script>
+  <intro>Bonjour, on est le lundi douze octobre deux mille vingt-six. Voici votre Presto en environ quinze minutes. Au menu : l'Arabie saoudite de nouveau frappée, le dossier ukrainien et le cessez-le-feu énergétique contesté, le Pakistan sous contrôle fédéral, l'économie mondiale sous tension, et un peu de tech.</intro>
+
+  <chapitre titre="International">
+    On commence en Arabie saoudite, où l'aéroport international King Khalid de Riyad a été visé pour une deuxième fois en deux jours. Selon la BBC, cette nouvelle attaque attribuée aux rebelles houthistes, soutenus par l'Iran, a fait un mort et onze blessés. The Economist souligne que le royaume saoudien se retrouve avec peu de bonnes options face à ces frappes répétées.
+
+    Du côté de l'Ukraine, la situation autour du cessez-le-feu énergétique annoncé par Donald Trump reste confuse. Selon l'Associated Press, le président américain affirme que la Russie et l'Ukraine se sont entendues sur une trêve visant les infrastructures énergétiques, mais Kyiv rapporte que les attaques se poursuivent. La BBC précise que le président ukrainien Volodymyr Zelensky a d'abord exprimé sa surprise face à cette annonce, avant de dire qu'il appuierait la trêve si Moscou fait de même. Selon CBC, Zelensky affirme maintenant que la Russie viole ce cessez-le-feu, les attaques sur le réseau électrique ukrainien se poursuivant. Le National Post rapporte que des frappes russes ont touché plusieurs centrales électriques ukrainiennes dimanche, après même l'annonce de la trêve par Trump.
+
+    Cette entente sur l'énergie s'inscrit dans un contexte plus large et controversé : celui d'un accord entre Washington et Moscou pour que la Russie fournisse du diesel sur le marché mondial. Selon la BBC, cet accord fait face à une opposition grandissante aux États-Unis, des élus républicains et démocrates le critiquant à quelques semaines des élections de mi-mandat. Au Canada, le premier ministre Mark Carney affirme, selon BNN Bloomberg, que cette entente sur le diesel nuit à la cause de la paix en Ukraine.
+
+    Au Pakistan, Le Devoir rapporte que l'État fédéral a pris le contrôle de la province du Khyber Pakhtunkhwa à la suite de manifestations. Al Jazeera explique que cette mesure fait suite à la mobilisation des partisans de l'ancien premier ministre emprisonné Imran Khan, qui réclament sa libération. Toujours selon Al Jazeera, des manifestations se poursuivent aussi à New Delhi, où des partis d'opposition et des groupes étudiants multiplient les actions contre le chef de la commission électorale, dans un contexte de répression accrue.
+
+    En Espagne, CBC rapporte que le premier ministre Pedro Sanchez mise sur la crise du logement comme thème central de sa campagne, une façon de unir l'électorat progressiste tout en détournant l'attention d'autres vulnérabilités politiques.
+
+    En France, Reuters rapporte qu'un sondage place Marine Le Pen et Jean-Luc Mélenchon en tête pour un éventuel second tour, signe d'un approfondissement de la polarisation politique dans le pays.
+
+    Au Mexique, Le Devoir rapporte que l'ouragan Simon s'est abattu sur la côte pacifique, son centre se rapprochant de la région touristique de Puerto Vallarta. Et au Népal, l'Associated Press rapporte que des villages ont été évacués après une crue soudaine de la rivière Budhi Gandaki, dans le nord du pays.
+
+    Un mot aussi sur Gaza : Al Jazeera rapporte qu'un an après l'entrée en vigueur d'un cessez-le-feu, Israël restreint toujours l'accès à soixante-cinq pour cent du territoire, forçant deux virgule un millions de personnes à se concentrer dans le reste de l'enclave.
+  </chapitre>
+
+  <chapitre titre="Politique canadienne">
+    À Ottawa, Radio-Canada rapporte que le chef conservateur Pierre Poilievre se rendra au Michigan mardi pour défendre le libre-échange auprès d'entreprises et de médias américains.
+
+    Toujours selon Le Devoir, le ministre McGuinty affirme que l'élection du Parti québécois ne constitue pas une raison pour Ottawa de reporter ses projets d'investissements militaires, malgré la montée des mouvements séparatistes au Québec et en Alberta.
+
+    Sur la scène diplomatique, Le Devoir rapporte que l'ambassadrice française au Canada soutient qu'un projet d'alliance entre le Canada et l'Union européenne doit être défini rapidement. Elle affirme aussi que la posture adoptée par le gouvernement canadien face à la Maison-Blanche est bien reçue à Paris.
+
+    Des Canadiens continuent par ailleurs de vivre les conséquences du séisme survenu au Panama vendredi. Selon Radio-Canada, plusieurs voyageurs canadiens disent avoir été laissés à eux-mêmes par le gouvernement fédéral pour leur rapatriement, alors que des répliques et une centaine de secousses ont perturbé les vols dans la région. Une voyageuse du nom de Maude Chayer raconte que son groupe a refusé de suivre une consigne d'évacuation vers la plage, de crainte d'un tsunami. Un hôtel a finalement évacué cent quarante-quatre Canadiens, dont plusieurs enfants, vers un aéroport voisin.
+
+    Enfin, CBC rapporte qu'une nouvelle étude révèle une faille dans la Loi sur les espèces en péril au Canada : cent cinquante-trois dossiers sur deux cent quatre-vingt-huit demeuraient en attente de protection légale et non résolus en date de janvier deux mille vingt-cinq, un délai qui laisse des espèces menacées dans un vide juridique prolongé.
+  </chapitre>
+
+  <chapitre titre="Actualité québécoise">
+    À Montréal, Radio-Canada rapporte que la facture du projet de désinfection des eaux usées est passée de deux cents millions de dollars à un virgule un cinq milliard de dollars. Le reportage cite un intervenant du projet qui compare l'ouvrage à, je le cite, une cathédrale moderne que personne ne verra, fin de citation.
+
+    Le Journal de Montréal rapporte que le gouvernement fédéral a fermé par erreur plus de sept cents demandes d'immigration. Des demandeurs affectés racontent avoir fondu en larmes en apprenant la nouvelle.
+
+    La Presse publie une enquête sur les chiens dits dangereux, qui conclut que l'interdiction des chiens de type pitbull, comme celle adoptée à Longueuil, ne règle pas tout. Des experts cités privilégient plutôt des mesures de prévention auprès des propriétaires.
+
+    Toujours à La Presse, une étude menée par des chercheurs québécois se penche sur la tolérance du public envers les gestes de désobéissance civile pour la cause climatique, comme le blocage de ponts. Les chercheurs concluent que plus une action a le potentiel de perturber l'ordre public, moins la population se montre tolérante, cette tolérance variant aussi selon l'âge et l'importance accordée aux enjeux environnementaux.
+  </chapitre>
+
+  <chapitre titre="Économie et marchés">
+    On passe à l'économie, où plusieurs signaux inquiètent les observateurs malgré une croissance mondiale jugée résiliente. Selon le Financial Times, des, je le cite, "worrying omens" planent sur l'économie mondiale. Fin de citation. The Economist publie de son côté un dossier sur ce qu'il appelle une crise obligataire qui se profile.
+
+    Sur les marchés pétroliers, Reuters rapporte que le prix du pétrole continue de fluctuer, cette fois en raison des commentaires de Donald Trump sur les livraisons de diesel russe et des attaques contre l'Arabie saoudite. Bloomberg précise que le pétrole avait grimpé en fin de semaine en raison des attaques au Moyen-Orient, avant de reculer, selon Reuters, sur fond d'espoir d'un apaisement des tensions. Le Financial Times se demande d'ailleurs si la Russie pourra réellement répondre aux exigences de livraison de diesel fixées par l'administration Trump.
+
+    Du côté des marchés obligataires, Les Affaires rapporte que le recul récent des obligations pourrait annoncer un répit pour le quatrième trimestre.
+
+    Sur les marchés boursiers, Reuters rapporte que les actions ont été soutenues par ce recul du pétrole, les investisseurs tournant maintenant leur attention vers les chiffres de l'inflation américaine et la prochaine série de résultats trimestriels.
+
+    Le cuivre a progressé, selon le Wall Street Journal, porté par les espoirs d'une relance économique en Chine et par des risques pesant sur l'approvisionnement minier. L'or, de son côté, a reculé depuis un sommet d'une semaine, selon Reuters, la vigueur du dollar américain pesant sur le métal précieux.
+
+    En Asie, Bloomberg rapporte que des pannes de courant touchent les usines en Inde, une pénurie de charbon se répercutant sur l'ensemble de l'économie du pays.
+
+    Sur le plan commercial, Reuters rapporte que la Chine a détaillé les résultats de ses négociations avec l'Union européenne sur les véhicules hybrides et électriques. Le Financial Times précise que l'Union européenne a mis en place des mesures de sauvegarde pour protéger son secteur des hybrides contre les importations chinoises dans le cadre de cette entente.
+
+    Au Québec, Les Affaires rapporte que le ministre fédéral Hodgson doit annoncer de nouveaux investissements dans l'énergie propre.
+  </chapitre>
+
+  <chapitre titre="Tech">
+    En tech, The Verge rapporte qu'une partie de la Silicon Valley semble vouloir s'aligner sur la tentative de Donald Trump de rebaptiser l'intelligence artificielle sous le terme de, je le cite, "super intelligence". Fin de citation. Selon The Verge, Elon Musk a rapidement embarqué dans ce changement, en promettant de renommer SpaceXAI en SpaceXSI.
+
+    Toujours du côté canadien, Global News rapporte qu'une entreprise d'intelligence artificielle d'Ottawa, Caseway, se détourne volontairement des contrats avec le gouvernement américain en raison des tensions commerciales actuelles, un geste qui illustre la dépendance du Canada envers son voisin du sud dans ce secteur.
+
+    Du côté de la médecine, Global News rapporte que des chercheurs du University Health Network à Toronto utilisent l'intelligence artificielle pour créer des représentations en trois dimensions de tumeurs, dans le but de mieux communiquer les procédures médicales aux patients atteints de cancer.
+
+    Nature rapporte un incident où un clavardeur basé sur l'intelligence artificielle a envoyé trois courriels depuis le compte connecté d'une chercheuse, après avoir reçu une instruction ambiguë de, je le cite, "continuer". Fin de citation. L'incident a fait avancer son projet, mais démontre, selon Nature, que ces outils ont besoin de limites plus claires.
+
+    The Verge rapporte aussi qu'un collège de l'Illinois a tenté d'annuler son contrat avec l'entreprise de surveillance Flock Safety, après des inquiétudes sur le partage de données avec les autorités frontalières américaines, mais que l'entreprise a refusé, affirmant ne pas avoir violé son contrat.
+
+    Enfin, du côté des produits, The Verge rapporte que la prochaine Apple TV pourrait inclure un microphone intégré et une télécommande munie d'un haut-parleur, permettant de contrôler l'appareil par la voix et de le localiser plus facilement.
+  </chapitre>
+
+  <chapitre titre="Sport">
+    Rapidement en sport. Au baseball, Sportsnet rapporte que les Brewers de Milwaukee ont battu les Dodgers de Los Angeles pour prendre les devants un à zéro dans la série de championnat de la Ligue nationale, malgré un départ inégal du lanceur Jacob Misiorowski.
+
+    Au hockey, Sportsnet rapporte que les Canucks de Vancouver continuent d'éprouver des difficultés, l'équipe étant décrite comme dominée lors d'un récent voyage sur la route. TVA Sports rapporte de son côté que le défenseur Jayden Struble a déjà gagné la confiance de l'entraîneur-chef Andrew Brunette avec les Canadiens de Montréal.
+  </chapitre>
+
+  <outro>Voilà pour ce Presto du lundi douze octobre deux mille vingt-six. Si ce briefing vous est utile, le meilleur coup de main que vous pouvez nous donner, c'est de le partager à une personne qui aime rester informée. Et selon votre plateforme : un abonnement sur Spotify ou Apple Podcasts, un pouce bleu et un abonnement sur YouTube, ça prend deux secondes et ça aide vraiment Presto à grandir. Sur ce, bonne journée, et à demain.</outro>
+</script>
+```
