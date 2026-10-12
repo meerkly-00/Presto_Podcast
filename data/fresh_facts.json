@@ -1,54 +1,54 @@
 {
-  "generated_at": "2026-10-11T22:40:51.778650+00:00",
+  "generated_at": "2026-10-12T21:34:32.398817+00:00",
   "window_hours": 8,
   "faits": [
     {
-      "sujet": "Attaques Houthis Arabie Saoudite",
-      "fait": "L'aéroport international de Riyad a été frappé à deux reprises en deux jours. Selon BBC World, les Houthis revendiquent des attaques ayant tué 13 personnes et ciblant deux aéroports et des installations pétrolières. Selon Global News, le Canada conseille d'éviter les voyages à l'aéroport de Riyad."
+      "sujet": "Famine au Soudan",
+      "fait": "La sécheresse induite par El Niño affecte environ la moitié du Soudan tandis qu'une guerre de trois ans se poursuit. Selon Al Jazeera, cela augmente le risque de famine."
     },
     {
-      "sujet": "Accord Trump-Russie diesel",
-      "fait": "Le président américain Donald Trump a conclu un accord avec la Russie sur la fourniture de diesel. Selon Financial Times et Reuters, les républicains et démocrates américains s'opposent à cet accord. Selon La Presse, le premier ministre canadien Mark Carney dénonce cet accord qu'il juge nuisible à la paix en Ukraine."
+      "sujet": "Attaques sur infrastructure énergétique ukrainienne",
+      "fait": "Six sites énergétiques ukrainiens ont été frappés par la Russie depuis l'annonce d'un cessez-le-feu énergétique par Trump, malgré la promesse que les infrastructures énergétiques ne seraient pas ciblées. D'après BBC World, les hostilités se poursuivent contre les promesses américaines."
     },
     {
-      "sujet": "Cessez-le-feu énergétique Ukraine-Russie",
-      "fait": "Trump a annoncé un cessez-le-feu énergétique entre Kiev et Moscou. Selon BBC World et Radio-Canada, Zelensky accueille favorablement cette proposition, mais la Russie n'a pas commenté. Selon National Post, la Russie a frappé plusieurs installations énergétiques ukrainiennes après cette annonce."
+      "sujet": "Attaques Houthis en Arabie saoudite",
+      "fait": "Les Houthis du Yémen ont revendiqué une attaque sur l'aéroport de Riyad et ont lancé un avertissement de riposte 'rapide et douloureuse' contre les États-Unis en cas d'intervention. Selon Le Devoir, au moins 13 personnes ont été tuées lors des frappes récentes."
     },
     {
-      "sujet": "Naufrage migrants Djibouti",
-      "fait": "Au moins 139 migrants ont péri et 84 sont portés disparus après le chavirement d'une embarcation au large de Djibouti. Selon Le Devoir et CBC World, le bateau transportait 305 personnes, en majorité éthiopiennes, et des enfants figurent parmi les morts."
+      "sujet": "Défaillance des systèmes de défense saoudiens",
+      "fait": "L'Arabie saoudite enquête sur les défaillances de ses systèmes de défense qui n'ont pas arrêté l'attaque Houthi meurtrière sur l'aéroport de Riyad. D'après Associated Press, cela révèle des fragilités défensives malgré les investissements militaires considérables."
     },
     {
-      "sujet": "Hurricane Simon Mexique",
-      "fait": "L'ouragan Simon frappe la côte Pacifique du Mexique en tant que tempête de catégorie 4. Selon CBC et Reuters, le Mexique ordonne aux résidents côtiers de rester à l'intérieur des bâtiments face aux vents et pluies les plus puissants."
+      "sujet": "Débâcle au box-office de 'The Social Reckoning'",
+      "fait": "Le film 'The Social Reckoning' d'Aaron Sorkin n'a rapporté que 5,5 millions de dollars au box-office ce week-end contre un budget entre 30 et 42 millions de dollars, avec un score de 55% sur Rotten Tomatoes. Selon The Verge, c'est un flop coûteux pour Columbia Pictures."
     },
     {
-      "sujet": "Frappes frontalière Égypte-Soudan",
-      "fait": "Selon BBC World, des dizaines de prospecteurs d'or ont été tués lors de frappes contre un camp d'exploitation minière artisanale à la frontière Égypte-Soudan samedi. Ni l'Égypte ni le Soudan n'ont commenté ces allégations."
+      "sujet": "Arrestation de la représentante Ilhan Omar",
+      "fait": "Des agents de la sécurité intérieure américaine ont perquisitionné le domicile de Washington de la représentante Ilhan Omar dans le cadre d'une enquête criminelle. D'après Associated Press, cette action représente une escalade dans la confrontation du président Trump avec l'élue."
     },
     {
-      "sujet": "Israël-Liban après cessez-le-feu",
-      "fait": "Selon Al Jazeera, deux personnes ont été tuées près d'une zone occupée par Israël dans le sud du Liban. Malgré un cessez-le-feu établi en juin 2026, les attaques israéliennes se poursuivent."
+      "sujet": "Démolitions israéliennes dans le Néguev",
+      "fait": "Les autorités israéliennes ont démoli 80 structures dans le village d'Al-Dahiya du Néguev, déplaçant 400 Palestiniens. Selon Al Jazeera, cela fait suite à une série de destructions."
     },
     {
-      "sujet": "Bogue informatique immigration Québec",
-      "fait": "Selon Radio-Canada, 746 dossiers d'immigration ont été fermés par erreur au Québec suite à un bogue informatique du ministère de l'Immigration, qui a envoyé des communications erronées."
+      "sujet": "Décès de Jean-Luc Mongrain",
+      "fait": "L'animateur et journaliste québécois Jean-Luc Mongrain est décédé à l'âge de 75 ans des suites d'un cancer. D'après Radio-Canada, il a passé toute sa carrière dans l'univers des médias."
     },
     {
-      "sujet": "Enfants ukrainiens militarisés en Russie",
-      "fait": "Selon Radio-Canada, des enfants ukrainiens déplacés en Russie sont formés pour devenir soldats russes, avec la formule 'Vous êtes russes maintenant'. Le Canada milite pour le retour de ces milliers d'enfants."
+      "sujet": "Dettes des intermédiaires pétroliers iraniens",
+      "fait": "L'Iran affirme que les intermédiaires gérant ses ventes de pétrole lui doivent plusieurs milliards de dollars. Selon Al Jazeera, il s'agit d'une accumulation de dettes dont les origines sont expliquées dans l'article."
     },
     {
-      "sujet": "Rappel produit alimentaire Canada",
-      "fait": "Selon CBC, une marque de sauce à la dinde vendue au Canada a été rappelée car elle contient de la moutarde non déclarée."
+      "sujet": "Cas de rougeole à Montréal",
+      "fait": "Un enfant atteint de rougeole s'est trouvé à l'aéroport Montréal-Trudeau vendredi soir tard et à l'hôpital Sainte-Justine samedi matin. Selon Global News, cela a déclenché une alerte sanitaire."
     },
     {
-      "sujet": "Université Flock caméras surveillance",
-      "fait": "Selon The Verge, le Elgin Community College en Illinois a demandé à Flock de retirer ses caméras de reconnaissance de plaques d'immatriculation en octobre 2025, mais Flock a refusé en arguant ne pas avoir violé le contrat."
+      "sujet": "Décès en garde à vue de la police ontarienne",
+      "fait": "Un homme a été trouvé sans signes vitaux le matin suivant son arrestation et incarcération au poste de l'OPP à Orillia, après avoir été fouillé à son arrivée. D'après Global News, l'organisme d'enquête SIU a ouvert une enquête."
     },
     {
-      "sujet": "Santé Pape Léon XIV",
-      "fait": "Selon National Post, le Pape Léon XIV annonce qu'il subira une opération dans les jours à venir pour faire retirer une masse pulmonaire détectée à un stade très précoce."
+      "sujet": "Référendum sur l'indépendance de l'Alberta",
+      "fait": "Les Albertains doivent se prononcer le 19 octobre sur la tenue d'un référendum sur l'indépendance de la province, avec Mark Carney appelant à l'unité une semaine avant le scrutin. Selon La Presse et Le Devoir, les campagnes entrent dans leur phase finale."
     }
   ]
 }
