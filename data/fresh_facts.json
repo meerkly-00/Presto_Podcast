@@ -1,54 +1,46 @@
 {
-  "generated_at": "2026-10-12T21:34:32.398817+00:00",
+  "generated_at": "2026-10-13T02:51:05.777375+00:00",
   "window_hours": 8,
   "faits": [
     {
-      "sujet": "Famine au Soudan",
-      "fait": "La sécheresse induite par El Niño affecte environ la moitié du Soudan tandis qu'une guerre de trois ans se poursuit. Selon Al Jazeera, cela augmente le risque de famine."
+      "sujet": "Cyberattaque supermarchés français",
+      "fait": "Des hackers ont augmenté les températures dans les réfrigérateurs de supermarchés français, provoquant des incendies et la perte de denrées alimentaires dans une attaque qualifiée de « sans précédent ». Selon Al Jazeera et Reuters Business, il s'agit d'une attaque de grande envergure."
     },
     {
-      "sujet": "Attaques sur infrastructure énergétique ukrainienne",
-      "fait": "Six sites énergétiques ukrainiens ont été frappés par la Russie depuis l'annonce d'un cessez-le-feu énergétique par Trump, malgré la promesse que les infrastructures énergétiques ne seraient pas ciblées. D'après BBC World, les hostilités se poursuivent contre les promesses américaines."
+      "sujet": "Attaques Houthis en Arabie Saoudite",
+      "fait": "Les Houthis ont mené une troisième attaque à la roquette contre Riyad, ciblant l'aéroport du Roi-Khaled et tuant 13 personnes, forçant l'Arabie Saoudite à suspendre les vols à Riyad. Selon Al Jazeera et BBC World, le ministre saoudien a promis une « réponse sérieuse »."
     },
     {
-      "sujet": "Attaques Houthis en Arabie saoudite",
-      "fait": "Les Houthis du Yémen ont revendiqué une attaque sur l'aéroport de Riyad et ont lancé un avertissement de riposte 'rapide et douloureuse' contre les États-Unis en cas d'intervention. Selon Le Devoir, au moins 13 personnes ont été tuées lors des frappes récentes."
+      "sujet": "Économie mondiale résilience limitée",
+      "fait": "Le Fonds monétaire international (FMI) déclare que l'économie mondiale se maintient mais approche les limites de sa résilience. Selon Bloomberg, cette évaluation reflète les tensions économiques actuelles."
     },
     {
-      "sujet": "Défaillance des systèmes de défense saoudiens",
-      "fait": "L'Arabie saoudite enquête sur les défaillances de ses systèmes de défense qui n'ont pas arrêté l'attaque Houthi meurtrière sur l'aéroport de Riyad. D'après Associated Press, cela révèle des fragilités défensives malgré les investissements militaires considérables."
+      "sujet": "Yuan chinois appréciation potentielle",
+      "fait": "Goldman Sachs estime que les marchés sous-estiment l'ampleur de la hausse possible du yuan chinois. Selon Bloomberg, l'investisseur anticipe une appréciation plus importante que prévu."
     },
     {
-      "sujet": "Débâcle au box-office de 'The Social Reckoning'",
-      "fait": "Le film 'The Social Reckoning' d'Aaron Sorkin n'a rapporté que 5,5 millions de dollars au box-office ce week-end contre un budget entre 30 et 42 millions de dollars, avec un score de 55% sur Rotten Tomatoes. Selon The Verge, c'est un flop coûteux pour Columbia Pictures."
+      "sujet": "Décès acteur RJ Mitte",
+      "fait": "L'acteur RJ Mitte, connu pour son rôle dans « Breaking Bad », est décédé à l'âge de 34 ans. Selon Reuters et BBC World, il était aussi activiste pour les droits des personnes handicapées."
     },
     {
-      "sujet": "Arrestation de la représentante Ilhan Omar",
-      "fait": "Des agents de la sécurité intérieure américaine ont perquisitionné le domicile de Washington de la représentante Ilhan Omar dans le cadre d'une enquête criminelle. D'après Associated Press, cette action représente une escalade dans la confrontation du président Trump avec l'élue."
+      "sujet": "Accord diesel États-Unis Russie",
+      "fait": "La Russie déclare que ses exportations de diesel pourraient dépasser les volumes annoncés par Trump. Selon Reuters Business, Moscou revient sur l'accord précédemment annoncé."
     },
     {
-      "sujet": "Démolitions israéliennes dans le Néguev",
-      "fait": "Les autorités israéliennes ont démoli 80 structures dans le village d'Al-Dahiya du Néguev, déplaçant 400 Palestiniens. Selon Al Jazeera, cela fait suite à une série de destructions."
+      "sujet": "Pharmaciens Québec nouveaux pouvoirs",
+      "fait": "Le projet de loi 67 a été adopté, permettant aux pharmaciens québécois de prescrire des médicaments sans antécédent de prescription. Selon Radio-Canada, le changement prendrait effet dans moins de deux mois."
     },
     {
-      "sujet": "Décès de Jean-Luc Mongrain",
-      "fait": "L'animateur et journaliste québécois Jean-Luc Mongrain est décédé à l'âge de 75 ans des suites d'un cancer. D'après Radio-Canada, il a passé toute sa carrière dans l'univers des médias."
+      "sujet": "Pluies intenses Montréal Montérégie",
+      "fait": "Entre 40 et 60 mm de pluie sont attendus mardi sur Montréal et la Montérégie. Selon La Presse, Environnement Canada a émis un avertissement."
     },
     {
-      "sujet": "Dettes des intermédiaires pétroliers iraniens",
-      "fait": "L'Iran affirme que les intermédiaires gérant ses ventes de pétrole lui doivent plusieurs milliards de dollars. Selon Al Jazeera, il s'agit d'une accumulation de dettes dont les origines sont expliquées dans l'article."
+      "sujet": "Morts mesures Pennsylvanie",
+      "fait": "Une femme de 39 ans non vaccinée devient le sixième décès lié à la rougeole en Pennsylvanie depuis avril. Selon Ars Technica, plus de mille cas ont été signalés depuis le début de l'épidémie."
     },
     {
-      "sujet": "Cas de rougeole à Montréal",
-      "fait": "Un enfant atteint de rougeole s'est trouvé à l'aéroport Montréal-Trudeau vendredi soir tard et à l'hôpital Sainte-Justine samedi matin. Selon Global News, cela a déclenché une alerte sanitaire."
-    },
-    {
-      "sujet": "Décès en garde à vue de la police ontarienne",
-      "fait": "Un homme a été trouvé sans signes vitaux le matin suivant son arrestation et incarcération au poste de l'OPP à Orillia, après avoir été fouillé à son arrivée. D'après Global News, l'organisme d'enquête SIU a ouvert une enquête."
-    },
-    {
-      "sujet": "Référendum sur l'indépendance de l'Alberta",
-      "fait": "Les Albertains doivent se prononcer le 19 octobre sur la tenue d'un référendum sur l'indépendance de la province, avec Mark Carney appelant à l'unité une semaine avant le scrutin. Selon La Presse et Le Devoir, les campagnes entrent dans leur phase finale."
+      "sujet": "Ukraine infrastructures énergétiques endommagées",
+      "fait": "Six sites énergétiques ukrainiens ont été frappés par la Russie depuis que Trump a annoncé un cessez-le-feu, selon Zelensky. Selon BBC World, les frappes contredisent les promesses antérieures d'épargner les infrastructures."
     }
   ]
 }
