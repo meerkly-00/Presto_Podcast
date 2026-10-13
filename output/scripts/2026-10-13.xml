@@ -1,0 +1,75 @@
+```xml
+<script>
+  <intro>Bonjour, on est le mardi treize octobre deux mille vingt-six. Voici votre Presto en environ quinze minutes. Au menu : l'international avec le Congo, l'Inde et le Moyen-Orient, la politique canadienne et le référendum albertain, l'actualité québécoise avec Hydro-Québec et la consigne, l'économie sous pression de l'intelligence artificielle, et un mot de tech.</intro>
+
+  <chapitre titre="International">
+    On commence en République démocratique du Congo, où la situation sécuritaire se complique. Selon Al Jazeera, l'ancien président Joseph Kabila s'est joint aux rebelles du M23 dans le cadre d'une nouvelle coalition. Cette alliance fait craindre une intensification des combats et une confrontation accrue avec le gouvernement du président Félix Tshisekedi.
+
+    En Inde, Al Jazeera rapporte que la police a détenu au moins trente-cinq travailleurs des médias en l'espace de quarante-huit heures, alors qu'ils couvraient des manifestations antigouvernementales à New Delhi. Ce mouvement de contestation, surnommé le mouvement des "cafards" par ses participants, s'est intensifié depuis que les autorités électorales ont entrepris de réviser les listes de votants l'an dernier, retirant plus de cent trente millions de personnes de ces listes. Selon Global News, des Montréalais ont manifesté leur appui à ce mouvement de jeunesse indien.
+
+    Au Moyen-Orient, le Qatar réaffirme ses priorités diplomatiques. Selon Al Jazeera, l'émir du Qatar, cheikh Tamim ben Hamad Al Thani, a dit devant le Conseil de la Choura que la cause palestinienne demeure, je le cite, "la plus haute priorité". Fin de citation. Par ailleurs, Al Jazeera rapporte qu'Air France a annoncé qu'elle se conformera à une politique israélienne restreignant l'accès de certains membres d'équipage selon leur nationalité, une mesure qui pourrait mettre la compagnie en porte-à-faux avec des lois antidiscrimination dans certains pays.
+
+    En Ukraine, le son de cloche reste à la méfiance malgré les discours de cessez-le-feu. Selon l'Associated Press, le président Volodymyr Zelensky affirme que la Russie continue de frapper des installations énergétiques ukrainiennes, malgré les affirmations de Donald Trump voulant qu'une forme de trêve énergétique soit en vigueur. Toujours dans ce théâtre, la BBC rapporte que l'ancien commandant en chef des forces ukrainiennes, le général Syrskyi, affirme dans sa première entrevue depuis son départ que la capacité offensive de la Russie est brisée.
+
+    En mer Noire, la tension monte aussi. Selon CBC, des drones ont frappé deux navires au large de la Bulgarie mardi, en coulant un et déclenchant une opération de sauvetage d'urgence. Le premier ministre bulgare Rumen Radev a confirmé l'incident.
+
+    Du côté des faits divers internationaux, CBC et la BBC rapportent qu'une personne est morte et plusieurs autres ont été blessées dans un incident impliquant des montagnes russes dans un parc Six Flags près d'Atlanta, en Géorgie. Selon l'Associated Press, le parc a fermé neuf manèges par mesure de précaution à la suite de l'événement.
+
+    Enfin, aux États-Unis, une affaire judiciaire fait des vagues à Washington. Selon l'Associated Press, des agents fédéraux ont perquisitionné le domicile de la représentante démocrate Ilhan Omar dans le cadre d'une enquête criminelle. Elle affirme qu'elle ne, je le cite, "sera pas réduite au silence". Fin de citation.
+  </chapitre>
+
+  <chapitre titre="Politique canadienne">
+    À Ottawa et en Alberta, le dossier de l'unité nationale continue de dominer. Selon le National Post, le premier ministre Mark Carney a livré un message d'unité à l'occasion de l'Action de grâce, affirmant que le Canada est plus fort uni que divisé, à une semaine du référendum albertain prévu le dix-neuf octobre. Le Journal de Montréal rapporte les mêmes propos de monsieur Carney, qui doit se rendre en Alberta cette semaine.
+
+    La première ministre albertaine Danielle Smith, de son côté, a accordé une entrevue à CBC pour discuter des suites du vote référendaire. Elle y explique être devenue, selon ses propres mots rapportés par CBC, l'ennemie publique numéro un pour une partie du mouvement séparatiste, tout en défendant la tenue du scrutin.
+
+    Toujours à Ottawa, un dossier d'immigration retient l'attention. Selon Global News, le fondateur d'un groupe de relations Canada-Chine et donateur du Parti libéral, Rong Xiang Yuan, fait face à une procédure de déportation. L'Agence des services frontaliers du Canada allègue qu'il aurait commis des crimes de guerre alors qu'il servait dans l'Armée populaire de libération chinoise.
+
+    Dans le dossier environnemental, CBC rapporte qu'Ottawa souhaite étendre l'exploitation des sables bitumineux, notamment après la décision du premier ministre Carney d'accélérer un nouveau pipeline d'exportation pétrolière vers la côte ouest. Cette décision accentue la pression sur le gouvernement fédéral pour régler le problème persistant des bassins de résidus dans le nord de l'Alberta.
+  </chapitre>
+
+  <chapitre titre="Actualité québécoise">
+    Au Québec, le dossier de l'électricité pour les centres de données fait réagir. Selon Radio-Canada, Hydro-Québec est accusée de vouloir vendre aux enchères l'électricité destinée à ces installations, la société d'État souhaitant qu'un centre de données puisse offrir de payer davantage pour obtenir des mégawatts supplémentaires.
+
+    Toujours en environnement, La Presse rapporte que le système de consigne sur les contenants de verre fera l'objet d'un nouvel investissement. Une usine évaluée à soixante millions de dollars sera construite par Consignaction pour traiter les contenants consignés, malgré l'opposition du gouvernement. Cette usine sera financée par les consommateurs québécois, qui verront leurs écofrais augmenter.
+
+    Dans le milieu de l'éducation, La Presse rapporte qu'une commission scolaire de l'ouest de l'île de Montréal a été rappelée à l'ordre par le Protecteur de l'élève. Un enfant ayant des difficultés scolaires aurait été privé à tort d'une évaluation normale et des apprentissages auxquels il avait droit.
+
+    En matière de transport, La Presse signale une circulation fluide ce matin dans le Grand Montréal, les feux étant au vert sur le réseau routier et ferroviaire.
+
+    Du côté de la santé, La Presse rapporte qu'une invention montréalaise permet désormais aux patients atteints de sclérose en plaques d'obtenir un ajustement de leur médication plus fréquent, grâce à un test sur tablette de plus en plus offert en pharmacie.
+
+    Enfin, Radio-Canada rend hommage à l'animateur Jean-Luc Mongrain, décédé récemment. D'anciens collègues et personnalités publiques ont souligné son parcours, plusieurs évoquant, selon Radio-Canada, un sentiment de deuil dans le milieu de l'indignation médiatique qu'il incarnait.
+  </chapitre>
+
+  <chapitre titre="Économie et marchés">
+    On passe à l'économie, dominée par les craintes entourant l'intelligence artificielle et ses effets sur les marchés. Selon Bloomberg, les pertes boursières se sont creusées dans le secteur technologique lié à l'intelligence artificielle lundi, tandis que les obligations du Trésor américain ont connu un rallye. Toujours selon Bloomberg, les actions asiatiques ont touché un creux de deux mois en raison de cette nervosité entourant l'intelligence artificielle, les investisseurs se tournant davantage vers les obligations.
+
+    Selon Reuters, qui cite des sources, les autorités de surveillance bancaire intensifient leur examen de l'intelligence artificielle, des craintes montant quant à la stabilité financière du secteur. Le Fonds monétaire international, cité par Bloomberg, affirme que l'économie mondiale tient le coup mais approche des limites de sa résilience. Toujours selon Reuters, qui cite le FMI, un ralentissement lié à l'intelligence artificielle et la hausse des taux obligataires représentent des risques imminents pour les marchés mondiaux.
+
+    Du côté des matières premières, Reuters et le Wall Street Journal rapportent que l'or progresse alors que le pétrole et le dollar américain reculent, les investisseurs se préparant à un test d'inflation aux États-Unis. Le Wall Street Journal précise par ailleurs que le pétrole grimpe en raison de l'intensification des conflits au Moyen-Orient et en Ukraine.
+
+    Le dossier du diesel russe continue de faire des vagues. Selon Reuters, Donald Trump défend son entente sur le diesel russe, alors que des élus des deux partis au Congrès américain expriment des critiques. Le Financial Times, de son côté, qualifie cette manoeuvre de cynique et affirme qu'elle ne fonctionnera pas, selon l'analyse du média. Au Devoir, un texte d'opinion dénonce ce que l'auteur appelle une trahison du président américain envers l'Ukraine, en lien avec cette entente sur le diesel.
+
+    Du côté des devises, Bloomberg rapporte que selon Goldman Sachs, les marchés sous-estiment le potentiel de hausse du yuan chinois. Reuters rapporte également que Visa a obtenu l'autorisation de se préparer à opérer directement sur le marché intérieur chinois.
+
+    En entreprises, Bloomberg rapporte que les actions de fabricants de puces sud-coréens ont chuté en raison des craintes liées à la concurrence chinoise et des commentaires de l'entreprise Broadcom. Et au Canada, BNN Bloomberg rapporte que la ministre du Commerce international dirige cette semaine une mission commerciale de trois cents personnes en Inde.
+
+    Enfin, en entreprises québécoises, Les Affaires rapporte que la Banque TD étend l'usage de l'intelligence artificielle agentique à ses activités liées aux prêts hypothécaires, dans le but de rendre ses services bancaires plus rapides et plus simples. Toujours selon Les Affaires, le secteur public québécois met davantage l'accent sur l'acquisition de technologies canadiennes en intelligence artificielle. Et du côté syndical, Les Affaires rapporte que l'Association syndicale des inspecteurs municipaux talonne l'administration Martinez-Ferrada-Pinard, invoquant plus de mille jours sans contrat de travail.
+  </chapitre>
+
+  <chapitre titre="Tech">
+    En tech, Meta a dévoilé de nouveaux modèles d'intelligence artificielle. Selon The Verge, l'entreprise lance Muse Wonder et Muse Wonder Full, deux modèles que Meta affirme capables de rivaliser avec les meilleurs du secteur. Ces modèles sont disponibles dès aujourd'hui pour les abonnés de Muse Code.
+
+    Du côté du jeu vidéo, Ars Technica rapporte qu'Epic Games pivote vers un modèle de développement, je le cite, "IA d'abord". Fin de citation. Selon des sources citées par Bloomberg et relayées par Ars Technica, l'entreprise laisserait des modèles d'intelligence artificielle, dont Claude d'Anthropic, écrire le code et orienter la création artistique pour un jeu de tir développé en collaboration avec Disney. Ce projet, évalué à un virgule cinq milliard de dollars, voit son lancement retardé indéfiniment.
+
+    En matière de régulation, TechCrunch rapporte que le président de Microsoft, Brad Smith, appelle à une réglementation urgente de l'intelligence artificielle, affirmant que le lait et les laveuses font actuellement l'objet d'une supervision plus stricte que les entreprises d'intelligence artificielle.
+
+    Du côté du financement politique, The Verge rapporte qu'Elon Musk a versé plus de deux cent soixante-seize millions de dollars à des efforts républicains en vue des élections de mi-mandat, selon le New York Times, ce qui en fait le plus important donateur connu du parti.
+
+    Enfin, en recherche appliquée, Nature publie un texte sur l'évolution du métier de programmeur à l'ère de l'intelligence artificielle, où l'auteur soutient que coder aujourd'hui exige de penser davantage comme un architecte de systèmes que comme un simple rédacteur de code.
+  </chapitre>
+
+  <outro>Voilà pour ce Presto du mardi treize octobre deux mille vingt-six. Si ce briefing vous est utile, le meilleur coup de main que vous pouvez nous donner, c'est de le partager à une personne qui aime rester informée. Et selon votre plateforme : un abonnement sur Spotify ou Apple Podcasts, un pouce bleu et un abonnement sur YouTube, ça prend deux secondes et ça aide vraiment Presto à grandir. Sur ce, bonne journée, et à demain.</outro>
+</script>
+```
