@@ -1,0 +1,13 @@
+{
+  "date": "2026-10-13",
+  "kind": "poll",
+  "text": "Ce matin → La campagne de vaccination grippe-COVID débute le 20 octobre au Québec. Nouveauté → 100 000 rendez-vous étaient déjà pris mardi matin.\n\nSelon toi, la vaccination devrait-elle être accessible à tous les Québécois ou réservée aux groupes vulnérables?",
+  "poll": {
+    "options": [
+      "Accessible à tous les",
+      "Réservée aux groupes",
+      "Gratuite seulement pour"
+    ],
+    "duration_minutes": 1440
+  }
+}
