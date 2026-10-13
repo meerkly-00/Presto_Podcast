@@ -1,46 +1,54 @@
 {
-  "generated_at": "2026-10-13T02:51:05.777375+00:00",
+  "generated_at": "2026-10-13T19:45:31.049321+00:00",
   "window_hours": 8,
   "faits": [
     {
-      "sujet": "Cyberattaque supermarchés français",
-      "fait": "Des hackers ont augmenté les températures dans les réfrigérateurs de supermarchés français, provoquant des incendies et la perte de denrées alimentaires dans une attaque qualifiée de « sans précédent ». Selon Al Jazeera et Reuters Business, il s'agit d'une attaque de grande envergure."
+      "sujet": "Shopify et agents IA commerciaux",
+      "fait": "Shopify a annoncé que les clients peuvent configurer leurs agents IA pour acheter des produits en leur nom, donnant accès à plus d'un milliard de produits dans son catalogue. Selon The Verge, cette expansion suit un partenariat de septembre entre Shopify et Meta pour l'agent Muse."
     },
     {
-      "sujet": "Attaques Houthis en Arabie Saoudite",
-      "fait": "Les Houthis ont mené une troisième attaque à la roquette contre Riyad, ciblant l'aéroport du Roi-Khaled et tuant 13 personnes, forçant l'Arabie Saoudite à suspendre les vols à Riyad. Selon Al Jazeera et BBC World, le ministre saoudien a promis une « réponse sérieuse »."
+      "sujet": "Cas Ebola en République Démocratique du Congo",
+      "fait": "Les cas d'Ebola en RDC ont dépassé les 9 000, selon Al Jazeera. La souche Bundibugyo alimente l'épidémie la plus meurtrière de l'histoire du pays, avec une transmission entravée par la méfiance des communautés envers les travailleurs de santé."
     },
     {
-      "sujet": "Économie mondiale résilience limitée",
-      "fait": "Le Fonds monétaire international (FMI) déclare que l'économie mondiale se maintient mais approche les limites de sa résilience. Selon Bloomberg, cette évaluation reflète les tensions économiques actuelles."
+      "sujet": "Niveaux records aux chutes d'Iguazu",
+      "fait": "Le sentier de la Gorge du Diable aux chutes d'Iguazu a été démantelé alors que les niveaux d'eau ont atteint près de huit fois leur moyenne, selon Al Jazeera."
     },
     {
-      "sujet": "Yuan chinois appréciation potentielle",
-      "fait": "Goldman Sachs estime que les marchés sous-estiment l'ampleur de la hausse possible du yuan chinois. Selon Bloomberg, l'investisseur anticipe une appréciation plus importante que prévu."
+      "sujet": "Sénateurs américains et accord pétrolier russe",
+      "fait": "Douze sénateurs américains, dont six républicains, ont demandé au président Trump de résilier son accord de carburant diesel avec la Russie, affirmant qu'il finance la guerre en Ukraine. Selon CBC, ces sénateurs estiment que cet accord ne bénéficie pas aux Américains."
     },
     {
-      "sujet": "Décès acteur RJ Mitte",
-      "fait": "L'acteur RJ Mitte, connu pour son rôle dans « Breaking Bad », est décédé à l'âge de 34 ans. Selon Reuters et BBC World, il était aussi activiste pour les droits des personnes handicapées."
+      "sujet": "Exportations canadiennes de Stelco en baisse",
+      "fait": "Stelco a invoqué une chute de 58 % de ses exportations pour justifier ses licenciements, selon Radio-Canada, en réponse aux exigences d'Ottawa de maintenir les emplois canadiens chez Cleveland-Cliffs."
     },
     {
-      "sujet": "Accord diesel États-Unis Russie",
-      "fait": "La Russie déclare que ses exportations de diesel pourraient dépasser les volumes annoncés par Trump. Selon Reuters Business, Moscou revient sur l'accord précédemment annoncé."
+      "sujet": "Sondage électoral en Colombie-Britannique",
+      "fait": "Les Conservateurs de la Colombie-Britannique disposent du soutien de 43 % des électeurs décidés, cinq points d'avance sur le NPD qui en compte 38 %, selon un nouveau sondage rapporté par Global News."
     },
     {
-      "sujet": "Pharmaciens Québec nouveaux pouvoirs",
-      "fait": "Le projet de loi 67 a été adopté, permettant aux pharmaciens québécois de prescrire des médicaments sans antécédent de prescription. Selon Radio-Canada, le changement prendrait effet dans moins de deux mois."
+      "sujet": "Surveillance accrue du métro de Montréal",
+      "fait": "La STM augmentera le nombre de constables spéciaux et la surveillance par caméra dans le réseau, selon La Presse et Le Devoir. Ces mesures viseront à améliorer la sécurité, bien que les effets ne se feront sentir qu'à partir de l'année prochaine."
     },
     {
-      "sujet": "Pluies intenses Montréal Montérégie",
-      "fait": "Entre 40 et 60 mm de pluie sont attendus mardi sur Montréal et la Montérégie. Selon La Presse, Environnement Canada a émis un avertissement."
+      "sujet": "Interdiction des acheteurs étrangers au Canada",
+      "fait": "L'interdiction des acheteurs étrangers au Canada expire le 1er janvier 2027. Global News rapporte que cette expiration pourrait entraîner une hausse importante des prix résidentiels en cas de demande refoulée des non-résidents."
     },
     {
-      "sujet": "Morts mesures Pennsylvanie",
-      "fait": "Une femme de 39 ans non vaccinée devient le sixième décès lié à la rougeole en Pennsylvanie depuis avril. Selon Ars Technica, plus de mille cas ont été signalés depuis le début de l'épidémie."
+      "sujet": "Caméras Hikvision interdites toujours utilisées",
+      "fait": "La ministre de l'Industrie Mélanie Joly a déclaré qu'il est « inacceptable » que des organisations gouvernementales fédérales continuent d'utiliser des caméras Hikvision qu'elle a déclarées interdites au Canada l'année précédente, selon National Post."
     },
     {
-      "sujet": "Ukraine infrastructures énergétiques endommagées",
-      "fait": "Six sites énergétiques ukrainiens ont été frappés par la Russie depuis que Trump a annoncé un cessez-le-feu, selon Zelensky. Selon BBC World, les frappes contredisent les promesses antérieures d'épargner les infrastructures."
+      "sujet": "Rendez-vous de vaccination au Québec",
+      "fait": "Environ 100 000 rendez-vous ont déjà été pris mardi matin pour la vaccination contre la grippe et la COVID-19 au Québec, selon La Presse et Le Devoir. La campagne de vaccination débute le 20 octobre."
+    },
+    {
+      "sujet": "Élections palestiniennes reportées",
+      "fait": "Canada s'est joint à la France, au Royaume-Uni et à l'Australie pour exprimer qu'il « regrette profondément » le report des élections présidentielles et législatives palestiniennes, selon CBC."
+    },
+    {
+      "sujet": "Xbox Labs et mods IA pour jeux vidéo",
+      "fait": "Microsoft crée un nouveau groupe Xbox Labs pour explorer l'émergence rapide de mods alimentés par l'IA qui permettent aux modélisateurs de remixer des jeux de manière novatrice, selon The Verge."
     }
   ]
 }
