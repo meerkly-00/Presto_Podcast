@@ -1,50 +1,46 @@
 {
-  "generated_at": "2026-10-14T17:48:05.393282+00:00",
+  "generated_at": "2026-10-14T22:03:26.483167+00:00",
   "window_hours": 8,
   "faits": [
     {
-      "sujet": "Succession à la direction de la CAQ",
-      "fait": "Simon Jolin-Barrette, ex-député de Borduas, réfléchit à se porter candidat à la succession de Christine Fréchette à la tête de la Coalition avenir Québec. Selon La Presse et Radio-Canada, ses collègues Ian Lafrenière et Mathieu Lévesque n'écartent pas non plus cette possibilité, ainsi que le candidat défait Guillaume Rousseau."
+      "sujet": "Jio IPO en Inde",
+      "fait": "Jio cherche à lever 3,2 milliards de dollars dans ce qui pourrait être le plus grand IPO indien, avec l'intention d'utiliser la majorité des fonds pour rembourser sa dette et s'étendre au-delà des télécommunications. Selon TechCrunch."
     },
     {
-      "sujet": "Procès Russell Brand pour agressions sexuelles",
-      "fait": "Russell Brand, 51 ans, a plaidé non coupable à trois accusations de viol, trois d'agression sexuelle et une d'agression indécente lors de son procès à Londres. Selon Global News, les procureurs britanniques le qualifient de prédateur sexuel « vorace »."
+      "sujet": "Poursuites contre OpenAI aux États-Unis",
+      "fait": "Huit États américains (Iowa, Kansas, Nebraska, Virginie-Occidentale, Arkansas, Arizona, Idaho et Montana) ont intenté des poursuites distinctes contre OpenAI, alléguant que l'entreprise a violé les lois locales de protection des consommateurs en omettant d'avertir les clients des dangers de ChatGPT. Selon The Verge et Reuters."
     },
     {
-      "sujet": "Inflation aux États-Unis en septembre",
-      "fait": "L'inflation américaine s'est aggravée à 3,7 % sur un an en septembre, selon Reuters et l'Associated Press, tirée notamment par la hausse des coûts du carburant automobile."
+      "sujet": "Missions NASA vers Vénus",
+      "fait": "Le lancement de la mission DAVINCI de la NASA est avancé à décembre 2030, un an plus tôt que prévu, tandis que la mission VERITAS est programmée pour novembre 2032. Rocket Lab envisage également de lancer une sonde privée vers Vénus dès l'année prochaine. Selon Ars Technica."
     },
     {
-      "sujet": "Licenciements chez Netflix",
-      "fait": "Netflix a procédé à des réductions d'effectifs équivalant à environ 6 % de sa masse salariale, sa plus importante vague de licenciements depuis 2022, selon Reuters."
+      "sujet": "Financement de St.Amant au Manitoba",
+      "fait": "St.Amant, un organisme à but non lucratif offrant des programmes aux personnes en situation de handicap, recevra 5 millions de dollars du gouvernement du Manitoba. Selon Global News."
     },
     {
-      "sujet": "Tensions Ukraine-États-Unis sur aide militaire",
-      "fait": "L'Ukraine a accusé mercredi les États-Unis d'aider la Russie en ne l'avertissant pas des frappes de missiles entrantes et en entravant sa réponse militaire par des modifications du système Starlink, selon le National Post."
+      "sujet": "Démantèlement réseau cybercriminel",
+      "fait": "Microsoft et l'Agence nationale de police du Japon ont démantelé un marché de phishing. Depuis janvier 2026, YAM Store, CoGUI et Iron Man ont collectivement permis plus d'un milliard de messages malveillants ciblant plus de 75 000 organisations, dont plus de 750 millions de messages phishing. Selon The Verge."
     },
     {
-      "sujet": "Allegations contre gouvernement Ford sur collèges de carrière",
-      "fait": "Les Libéraux ont allégué que des ministres du gouvernement Ford ont assisté à l'ouverture du campus d'un collège sous enquête quelques mois seulement après une inspection gouvernementale, selon Global News."
+      "sujet": "Surveillance électorale canadienne par les États-Unis",
+      "fait": "L'ambassadeur américain Pete Hoekstra a déclaré que les autorités américaines « surveillaient » les responsables politiques canadiens à la recherche de signes d'ingérence électorale. Selon Radio-Canada."
     },
     {
-      "sujet": "Militaires canadiens arrêtés dans enquête d'enlèvement",
-      "fait": "Un troisième membre des Forces armées canadiennes et quatre autres personnes ont été arrêtés et accusés dans le cadre d'une enquête sur un enlèvement à Toronto, selon la CBC, suite à des arrestations antérieures de deux réservistes."
+      "sujet": "CedarDB base de données hybride",
+      "fait": "CedarDB, un moteur de base de données, supporte à la fois les données analytiques et opérationnelles, une approche gagnant en pertinence avec l'émergence des agents IA. Selon TechCrunch."
     },
     {
-      "sujet": "Protestation étudiante en Albanie",
-      "fait": "Des dizaines de milliers d'étudiants ont manifesté mercredi à Tirana, incendiant le bâtiment du ministère de l'Éducation, deux banques et lapidant la police, durant le deuxième jour consécutif de protestation contre les coûts éducatifs croissants et la corruption, selon la CBC."
+      "sujet": "Restrictions E-Rate aux États-Unis",
+      "fait": "Le président de la FCC Brendan Carr a mené un vote 2-1 pour émettre un avis de propositions de règles demandant des commentaires publics sur la limitation ou l'élimination du programme E-Rate de 2 milliards de dollars par an, qui connecte les écoles et bibliothèques à Internet. Selon Ars Technica."
     },
     {
-      "sujet": "Joni Mitchell devient citoyenne américaine",
-      "fait": "La légendaire auteure-compositrice canadienne Joni Mitchell est devenue citoyenne américaine plus de six décennies après avoir quitté le Canada, selon la CBC."
+      "sujet": "Pape atteint d'un cancer du poumon",
+      "fait": "Le Pape Léon, 71 ans, est traité pour un cancer du poumon et sa rétablissement suite à une intervention chirurgicale progresse comme prévu, a rapporté le Vatican. Il a commencé à marcher dans sa chambre d'hôpital et s'alimente normalement. Selon CBC World."
     },
     {
-      "sujet": "Crise dans l'industrie ostréicole canadienne",
-      "fait": "Deux maladies menacent la production d'huîtres dans l'est du Canada, mobilisant l'ensemble de l'industrie pour trouver des solutions, selon La Presse."
-    },
-    {
-      "sujet": "Opérations de la Chine antiterroriste concernant ex-chef militaire britannique",
-      "fait": "Un ancien cuisinier de l'armée britannique a été emprisonné pour une infraction liée au terrorisme après avoir entretenu des opinions « d'extrême droite » et commandé des composants explosifs, selon Al Jazeera."
+      "sujet": "Colossal Biosciences plateforme IA",
+      "fait": "Colossal a annoncé une nouvelle plateforme d'IA pour accélérer ses efforts de dé-extinction, et Peter Diamandis a lancé un nouveau fonds pour soutenir les startups qui l'utilisent. Selon TechCrunch."
     }
   ]
 }
