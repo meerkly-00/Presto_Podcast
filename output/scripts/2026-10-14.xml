@@ -1,0 +1,63 @@
+```xml
+<script>
+  <intro>Bonjour, on est le mercredi quatorze octobre deux mille vingt-six. Voici votre Presto en environ quinze minutes. Au menu : l'Arabie saoudite de nouveau visée, l'Ukraine qui subit de lourdes frappes et un conflit grandissant avec Starlink, Ottawa qui suspend un contrat militaire américain, les marchés et l'intelligence artificielle, et un détour par la tech avec une arrestation surprenante chez OpenAI.</intro>
+
+  <chapitre titre="International">
+    On commence en Arabie saoudite, où les installations pétrolières ont de nouveau été touchées. Selon CBC, un bâtiment administratif appartenant à la pétrolière d'État Saudi Aramco, dans la ville de Dhahran, a été attaqué, causant un incendie limité. Le ministère de l'Énergie du pays a confirmé l'incident dans un communiqué. Cette attaque survient alors que les combats s'intensifient entre les rebelles houthistes du Yémen, soutenus par l'Iran, et le royaume saoudien.
+
+    En Ukraine, la nuit a été particulièrement difficile. Selon CBC, des frappes russes ont tué au moins trois personnes à Kyiv et plongé des centaines de milliers de foyers dans le noir en touchant des dizaines d'installations énergétiques. La BBC précise que plus de six cent mille personnes se retrouvent sans électricité. Le président Volodymyr Zelensky a qualifié cette attaque de, je le cite, "ostentatious disrespect". Fin de citation, en référence aux efforts de paix portés par Donald Trump.
+
+    Toujours en Ukraine, un différend technologique s'ajoute au conflit. Selon Reuters, Kyiv affirme que l'entreprise SpaceX a imposé des restrictions de vitesse sur son service Starlink, perturbant des missions militaires sur le front. La BBC confirme que ces limitations affectent directement les opérations ukrainiennes. Par ailleurs, CBC rapporte que des experts mettent en doute une affirmation récente de Volodymyr Zelensky, qui avait soutenu qu'une frappe de drones ukrainiens contre des centres de données appartenant à l'entreprise russe Yandex avait provoqué une chute soudaine de l'activité de robots pro-russes sur les réseaux sociaux. Certains analystes avancent plutôt qu'il s'agit d'une mauvaise interprétation des données recueillies après les frappes.
+
+    En Allemagne, un procès retient l'attention quatre ans après les faits. Selon la BBC, un ressortissant ukrainien identifié comme Serhii K. comparaît devant la justice allemande, accusé d'avoir participé au complot ayant mené à la destruction des gazoducs Nord Stream, qui acheminaient le gaz russe vers l'Allemagne.
+
+    Du côté du Vatican, selon la BBC, le pape Léon a été diagnostiqué d'un cancer du poumon, mais a subi une chirurgie réussie pour retirer un lobe inférieur du poumon droit. Le Vatican affirme que le pape a passé une nuit paisible à l'hôpital après l'opération. L'agence Associated Press souligne par ailleurs une question protocolaire intéressante : qui dirige l'Église quand le pape est inconscient et incapable de gouverner.
+
+    On termine ce tour d'horizon international en Chine, où le commerce extérieur affiche une forte poussée. Selon Al Jazeera, les exportations chinoises ont augmenté de trente-six virgule trois pour cent en septembre, leur plus forte progression depuis la pandémie de COVID-dix-neuf. Al Jazeera attribue cette hausse à la demande liée à l'intelligence artificielle.
+  </chapitre>
+
+  <chapitre titre="Politique canadienne">
+    À Ottawa, un contrat militaire majeur est mis sur la glace. Selon Radio-Canada, le gouvernement canadien a interrompu le processus d'achat de seize hélicoptères Black Hawk fabriqués aux États-Unis. CBC précise que cette décision du gouvernement de Mark Carney reflète une réticence grandissante à acheter de l'équipement militaire américain, dans un contexte de tensions commerciales avec Washington. Des critiques cités par CBC préviennent que des calculs politiques à court terme pourraient nuire à la disponibilité opérationnelle des forces armées à long terme, alors que les commandants réclament des capacités jugées urgentes.
+
+    Toujours du côté de l'armée, Radio-Canada rapporte que les Forces armées canadiennes mènent actuellement l'opération Nanook à Resolute Bay, au Nunavut, un entraînement destiné à affirmer la souveraineté du Canada dans l'Arctique et à préparer les troupes aux conditions nordiques.
+
+    En santé, un dossier québécois refait surface. Selon Radio-Canada, le gouvernement du Québec refuse toujours d'étendre le dépistage du cancer du sein aux femmes de quarante à quarante-neuf ans, malgré une recommandation en ce sens de l'Institut national d'excellence en santé et en services sociaux.
+
+    Dans la fonction publique, un syndicat tire un bilan critique du retour au bureau. Selon Radio-Canada, le Syndicat de professionnelles et professionnels du gouvernement du Québec publie les résultats d'une consultation menée cet été auprès de ses membres, qui conclut que la formule du retour au bureau trois jours par semaine n'a pas livré les gains promis par le gouvernement.
+  </chapitre>
+
+  <chapitre titre="Économie et marchés">
+    On passe à l'économie, où les marchés américains ont connu une séance mitigée. Selon Reuters, le Nasdaq a terminé en baisse mardi, plombé par un recul des fabricants de semi-conducteurs, alors que la période des résultats trimestriels des banques bat son plein. Bloomberg précise que les gains boursiers se sont effacés en cours de séance après des résultats du fabricant d'équipements ASML et un recul du dollar américain.
+
+    Du côté des obligations, le Wall Street Journal rapporte que les rendements des bons du Trésor américain et des obligations de la zone euro ont reculé, les marchés attendant la publication des données sur l'inflation américaine. Le Financial Times souligne de son côté que Wall Street minimise les craintes des investisseurs concernant un possible essoufflement de l'engouement boursier actuel.
+
+    En Pologne, selon Bloomberg, l'instabilité politique du pays menace une économie évaluée à mille milliards de dollars.
+
+    Au chapitre des entreprises canadiennes, Bloomberg rapporte que TC Energy a complété une entente d'investissement avec des partenaires autochtones dans le projet Coastal GasLink. BNN Bloomberg indique aussi que l'entreprise montréalaise Lightspeed procède à une réduction de deux cent cinquante postes, en misant sur des mises à pied et le gel de l'embauche plutôt que de combler les postes vacants. Toujours selon BNN Bloomberg, Cineplex annonce des revenus record au box-office pour le mois de septembre, à quarante-cinq virgule un millions de dollars.
+
+    En matière réglementaire, le Journal de Montréal rapporte qu'un investisseur impliqué dans le dossier Lion Électrique écope d'une amende d'un virgule un million de dollars pour délit d'initiés.
+
+    Du côté de l'énergie, l'Agence internationale de l'énergie prévient que les pénuries de diesel pourraient persister jusque tard en deux mille vingt-sept, selon Reuters. Et sur le marché pétrolier, Reuters rapporte que Donald Trump affirme qu'une exploration, je le cite, "massive", fin de citation, de pétrole, de gaz et de minéraux va débuter au Groenland.
+  </chapitre>
+
+  <chapitre titre="Tech">
+    En tech, une affaire d'espionnage industriel fait les manchettes. Selon l'Associated Press, le FBI a arrêté un employé d'OpenAI accusé d'avoir dissimulé un dispositif d'enregistrement dans une salle de conférence de l'entreprise. La BBC précise que l'employé, un ressortissant saoudien, est accusé d'avoir inséré l'appareil, dissimulé dans du papier hygiénique, dans un port USB à l'arrière d'un téléviseur dans une salle de conférence de dirigeants. Selon The Verge, OpenAI affirme avoir utilisé ses propres modèles d'intelligence artificielle pour identifier l'origine du dispositif et établir qu'un employé précis l'avait installé quelques jours plus tôt.
+
+    Toujours en sécurité informatique, TechCrunch rapporte que le département de la Justice américain affirme que des pirates informatiques nord-coréens, sous sanctions, ont infiltré des dizaines d'entreprises américaines, en recrutant des facilitateurs pour agir comme intermédiaires entre les compagnies visées et Pyongyang.
+
+    Du côté de l'intelligence artificielle, Reuters rapporte que Google a lancé son nouveau modèle phare, Gemini quatre Argon, destiné aux développeurs et aux entreprises. En Chine, Nature souligne que la recherche en intelligence artificielle y connaît une forte croissance, dans un contexte où le pays est perçu comme étant sur une trajectoire pour mener le monde en matière scientifique, un développement qui pourrait redessiner l'équilibre technologique mondial.
+
+    Dans le commerce en ligne, The Verge rapporte que Shopify élargit l'accès de son catalogue à davantage d'agents d'intelligence artificielle, permettant à des agents autres que ceux de ses partenaires désignés de magasiner et d'acheter au nom des utilisateurs parmi plus d'un milliard de fiches de produits.
+
+    En santé numérique, TechCrunch rapporte que l'entreprise Science Corporation, fondée notamment par l'ancien président de Neuralink Max Hodak, a implanté sa puce de restauration de la vision chez son premier patient atteint de la maladie de Stargardt.
+
+    Enfin, un mot sur une affaire judiciaire liée à la publicité politique. Selon Ars Technica, des publicités télévisées financées par le gouvernement américain et mettant en vedette Donald Trump ont continué à être diffusées même après qu'une juge fédérale en ait bloqué la diffusion, les jugeant potentiellement contraires à une loi américaine interdisant la propagande financée par l'État.
+  </chapitre>
+
+  <chapitre titre="Sport">
+    Rapidement en sport. Au hockey, Sportsnet souligne que les Oilers d'Edmonton affichent cette saison une solidité défensive inhabituelle, malgré une autre performance offensive spectaculaire de Connor McDavid face aux Kings. À Toronto, Sportsnet rapporte que les Maple Leafs ont connu une défaite riche en buts face au Mammoth, le gardien Anthony Stolarz ayant accordé plusieurs buts lors d'un match où l'équipe a tenté une remontée en fin de rencontre. Du côté des Canucks de Vancouver, Sportsnet note que les difficultés du défenseur Zeev Buium se poursuivent, alors que l'équipe continue d'accumuler les défaites. Au basketball, selon Sportsnet, Kawhi Leonard a fait un retour remarqué sur le terrain pour les Raptors de Toronto, lors d'un match préparatoire.
+  </chapitre>
+
+  <outro>Voilà pour ce Presto du quatorze octobre. Si ce briefing vous est utile, le meilleur coup de main que vous pouvez nous donner, c'est de le partager à une personne qui aime rester informée. Et selon votre plateforme : un abonnement sur Spotify ou Apple Podcasts, un pouce bleu et un abonnement sur YouTube, ça prend deux secondes et ça aide vraiment Presto à grandir. Sur ce, bonne journée, et à demain.</outro>
+</script>
+```
