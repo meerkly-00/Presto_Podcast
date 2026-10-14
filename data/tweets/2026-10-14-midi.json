@@ -1,0 +1,14 @@
+{
+  "date": "2026-10-14",
+  "kind": "poll",
+  "text": "Ce matin → La Russie a frappé des installations énergétiques ukrainiennes, plongeant 600 000 personnes dans le noir.\n\nNouveau : Zelensky qualifie une coupure d'accès Starlink dans\n\nComment devraient être coordonnées l'aide militaire et technologique des États-Unis en Ukraine ?",
+  "poll": {
+    "options": [
+      "Avec consultation",
+      "Selon les priorités",
+      "En accord conjoint entre",
+      "Selon les besoins"
+    ],
+    "duration_minutes": 1440
+  }
+}
