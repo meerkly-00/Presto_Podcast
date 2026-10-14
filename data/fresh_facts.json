@@ -1,54 +1,50 @@
 {
-  "generated_at": "2026-10-14T00:53:26.218806+00:00",
+  "generated_at": "2026-10-14T17:48:05.393282+00:00",
   "window_hours": 8,
   "faits": [
     {
-      "sujet": "Pont Honoré-Mercier fermeture",
-      "fait": "Une voie du pont Honoré-Mercier a été fermée de façon préventive pour une durée indéterminée suite à une inspection, selon le ministère des Transports et de la Mobilité durable rapporté par La Presse."
+      "sujet": "Succession à la direction de la CAQ",
+      "fait": "Simon Jolin-Barrette, ex-député de Borduas, réfléchit à se porter candidat à la succession de Christine Fréchette à la tête de la Coalition avenir Québec. Selon La Presse et Radio-Canada, ses collègues Ian Lafrenière et Mathieu Lévesque n'écartent pas non plus cette possibilité, ainsi que le candidat défait Guillaume Rousseau."
     },
     {
-      "sujet": "Mark Carney référendum Alberta",
-      "fait": "Mark Carney participera à des rassemblements « Canadiens pour toujours » à quelques jours du référendum sur une future séparation de l'Alberta, selon Radio-Canada."
+      "sujet": "Procès Russell Brand pour agressions sexuelles",
+      "fait": "Russell Brand, 51 ans, a plaidé non coupable à trois accusations de viol, trois d'agression sexuelle et une d'agression indécente lors de son procès à Londres. Selon Global News, les procureurs britanniques le qualifient de prédateur sexuel « vorace »."
     },
     {
-      "sujet": "OpenAI dispositif d'écoute",
-      "fait": "Un ingénieur saoudien employé par OpenAI a été arrêté et accusé d'avoir installé un dispositif d'enregistrement audio caché dans une salle de conférence exécutive, selon le département américain de la Justice rapporté par la CBC."
+      "sujet": "Inflation aux États-Unis en septembre",
+      "fait": "L'inflation américaine s'est aggravée à 3,7 % sur un an en septembre, selon Reuters et l'Associated Press, tirée notamment par la hausse des coûts du carburant automobile."
     },
     {
-      "sujet": "Pape Leo cancer du poumon",
-      "fait": "Le Pape Leo a subi avec succès une intervention chirurgicale de 90 minutes pour retirer une tumeur cancéreuse d'un lobe inférieur de son poumon droit et s'est réveillé normalement après l'opération, selon le Vatican rapporté par la BBC."
+      "sujet": "Licenciements chez Netflix",
+      "fait": "Netflix a procédé à des réductions d'effectifs équivalant à environ 6 % de sa masse salariale, sa plus importante vague de licenciements depuis 2022, selon Reuters."
     },
     {
-      "sujet": "Tupac Shakur assassinat condamnation",
-      "fait": "Duane 'Keffe D' Davis, ancien chef de gang, a été condamné à 40 ans à la réclusion à perpétuité pour le meurtre du rappeur Tupac Shakur en 1996, selon Al Jazeera."
+      "sujet": "Tensions Ukraine-États-Unis sur aide militaire",
+      "fait": "L'Ukraine a accusé mercredi les États-Unis d'aider la Russie en ne l'avertissant pas des frappes de missiles entrantes et en entravant sa réponse militaire par des modifications du système Starlink, selon le National Post."
     },
     {
-      "sujet": "Martin Shkreli violation ordonnance",
-      "fait": "La FTC et sept États demandent à un juge fédéral de déclarer Martin Shkreli en outrage au tribunal pour avoir violé à plusieurs reprises une interdiction à vie du secteur pharmaceutique en négociant des actions et discutant de l'industrie sur les réseaux sociaux, selon Ars Technica."
+      "sujet": "Allegations contre gouvernement Ford sur collèges de carrière",
+      "fait": "Les Libéraux ont allégué que des ministres du gouvernement Ford ont assisté à l'ouverture du campus d'un collège sous enquête quelques mois seulement après une inspection gouvernementale, selon Global News."
     },
     {
-      "sujet": "Stelco exportations licenciements",
-      "fait": "Stelco invoque une chute de 58% de ses exportations pour justifier ses licenciements en réponse aux exigences d'Ottawa sur le maintien des emplois canadiens par Cleveland-Cliffs, selon Radio-Canada."
+      "sujet": "Militaires canadiens arrêtés dans enquête d'enlèvement",
+      "fait": "Un troisième membre des Forces armées canadiennes et quatre autres personnes ont été arrêtés et accusés dans le cadre d'une enquête sur un enlèvement à Toronto, selon la CBC, suite à des arrestations antérieures de deux réservistes."
     },
     {
-      "sujet": "Qualcomm Arm procès dommages",
-      "fait": "Un jury du Delaware a accordé à Qualcomm 2 dollars de dommages et constaté qu'Arm a violé un accord de licence, selon Reuters."
+      "sujet": "Protestation étudiante en Albanie",
+      "fait": "Des dizaines de milliers d'étudiants ont manifesté mercredi à Tirana, incendiant le bâtiment du ministère de l'Éducation, deux banques et lapidant la police, durant le deuxième jour consécutif de protestation contre les coûts éducatifs croissants et la corruption, selon la CBC."
     },
     {
-      "sujet": "Science Corporation implant vision",
-      "fait": "Science Corporation a implanté sa puce restauratrice de vision chez son premier patient atteint de la maladie de Stargardt, selon TechCrunch."
+      "sujet": "Joni Mitchell devient citoyenne américaine",
+      "fait": "La légendaire auteure-compositrice canadienne Joni Mitchell est devenue citoyenne américaine plus de six décennies après avoir quitté le Canada, selon la CBC."
     },
     {
-      "sujet": "Nord Stream pipelines procès Ukraine",
-      "fait": "Un Ukrainien sera jugé en Allemagne accusé d'avoir participé à un complot pour détruire les gazoducs russes Nord Stream vers l'Allemagne, quatre ans après les attaques, selon la BBC."
+      "sujet": "Crise dans l'industrie ostréicole canadienne",
+      "fait": "Deux maladies menacent la production d'huîtres dans l'est du Canada, mobilisant l'ensemble de l'industrie pour trouver des solutions, selon La Presse."
     },
     {
-      "sujet": "Columbia Icefield autobus accident",
-      "fait": "Une enquête détermine qu'une défaillance catastrophique des freins a causé le renversement d'un autobus Ice Explorer au Columbia Icefield en juillet 2020, tuant 3 personnes, selon Global News."
-    },
-    {
-      "sujet": "Helen Branswell journaliste décès",
-      "fait": "Helen Branswell, journaliste célèbre pour sa couverture de la santé publique et des maladies infectieuses, est décédée à l'âge de 69 ans, selon la CBC."
+      "sujet": "Opérations de la Chine antiterroriste concernant ex-chef militaire britannique",
+      "fait": "Un ancien cuisinier de l'armée britannique a été emprisonné pour une infraction liée au terrorisme après avoir entretenu des opinions « d'extrême droite » et commandé des composants explosifs, selon Al Jazeera."
     }
   ]
 }
