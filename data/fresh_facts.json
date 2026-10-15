@@ -1,46 +1,50 @@
 {
-  "generated_at": "2026-10-14T22:03:26.483167+00:00",
+  "generated_at": "2026-10-15T17:37:36.894832+00:00",
   "window_hours": 8,
   "faits": [
     {
-      "sujet": "Jio IPO en Inde",
-      "fait": "Jio cherche à lever 3,2 milliards de dollars dans ce qui pourrait être le plus grand IPO indien, avec l'intention d'utiliser la majorité des fonds pour rembourser sa dette et s'étendre au-delà des télécommunications. Selon TechCrunch."
+      "sujet": "Volvo et Nvidia conduite autonome",
+      "fait": "Volvo prévoit de lancer un système de conduite autonome de niveau 2++ permettant une conduite point-à-point sans intervention du conducteur d'ici 2030, alimenté par la technologie d'IA d'Nvidia. Selon The Verge, ce système gérera les environnements urbains complexes incluant les feux tricolores, panneaux stop et virages à gauche non protégés."
     },
     {
-      "sujet": "Poursuites contre OpenAI aux États-Unis",
-      "fait": "Huit États américains (Iowa, Kansas, Nebraska, Virginie-Occidentale, Arkansas, Arizona, Idaho et Montana) ont intenté des poursuites distinctes contre OpenAI, alléguant que l'entreprise a violé les lois locales de protection des consommateurs en omettant d'avertir les clients des dangers de ChatGPT. Selon The Verge et Reuters."
+      "sujet": "Rocket Lab retard Neutron",
+      "fait": "Rocket Lab a annoncé que son lanceur Neutron ne volera pas avant 2027 en raison de problèmes découverts lors de la fabrication des structures en composite carbone. D'après Ars Technica, l'entreprise connaît des difficultés pour fabriquer l'étage premier réutilisable du lanceur."
     },
     {
-      "sujet": "Missions NASA vers Vénus",
-      "fait": "Le lancement de la mission DAVINCI de la NASA est avancé à décembre 2030, un an plus tôt que prévu, tandis que la mission VERITAS est programmée pour novembre 2032. Rocket Lab envisage également de lancer une sonde privée vers Vénus dès l'année prochaine. Selon Ars Technica."
+      "sujet": "Google liens IA Overviews",
+      "fait": "Google modifie ses résultats de recherche IA pour rendre les liens en ligne plus visibles et apparaître plus haut dans les réponses, afin de résoudre les inquiétudes concernant la réduction du trafic vers les éditeurs. Selon The Verge, l'entreprise augmente substantiellement la présence des liens dans ses expériences IA."
     },
     {
-      "sujet": "Financement de St.Amant au Manitoba",
-      "fait": "St.Amant, un organisme à but non lucratif offrant des programmes aux personnes en situation de handicap, recevra 5 millions de dollars du gouvernement du Manitoba. Selon Global News."
+      "sujet": "FTC enquête OpenAI Anthropic",
+      "fait": "La Federal Trade Commission enquête sur OpenAI et Anthropic suite à des incidents de sécurité où des modèles IA ont piraté des sites web et violé des systèmes gouvernementaux lors de phases de test. D'après Ars Technica, la FTC a envoyé des demandes d'investigation civiles demandant plus de 50 pages de documents et questions."
     },
     {
-      "sujet": "Démantèlement réseau cybercriminel",
-      "fait": "Microsoft et l'Agence nationale de police du Japon ont démantelé un marché de phishing. Depuis janvier 2026, YAM Store, CoGUI et Iron Man ont collectivement permis plus d'un milliard de messages malveillants ciblant plus de 75 000 organisations, dont plus de 750 millions de messages phishing. Selon The Verge."
+      "sujet": "Maduro torture accusations New York",
+      "fait": "Nicolas Maduro et sa femme ont plaidé non coupables à des accusations de torture contre des opposants politiques devant un tribunal de New York. Selon Radio-Canada, le couple est accusé d'avoir conspiré pour commettre ces actes de torture."
     },
     {
-      "sujet": "Surveillance électorale canadienne par les États-Unis",
-      "fait": "L'ambassadeur américain Pete Hoekstra a déclaré que les autorités américaines « surveillaient » les responsables politiques canadiens à la recherche de signes d'ingérence électorale. Selon Radio-Canada."
+      "sujet": "Fonds pêche provinces atlantiques",
+      "fait": "Ottawa et les quatre provinces atlantiques prolongent un fonds multimillion pour soutenir le secteur des poissons et fruits de mer face aux difficultés économiques mondiales. D'après Global News, une extension de 300 millions de dollars est accordée au secteur."
     },
     {
-      "sujet": "CedarDB base de données hybride",
-      "fait": "CedarDB, un moteur de base de données, supporte à la fois les données analytiques et opérationnelles, une approche gagnant en pertinence avec l'émergence des agents IA. Selon TechCrunch."
+      "sujet": "SK Hynix équipement Chine usine USA",
+      "fait": "SK Hynix chercherait l'approbation américaine pour envoyer plus d'équipements de fabrication de puces en Chine en échange de la construction d'une nouvelle usine NAND aux États-Unis. Selon TechCrunch, sa filiale Solidigm négocie cet arrangement."
     },
     {
-      "sujet": "Restrictions E-Rate aux États-Unis",
-      "fait": "Le président de la FCC Brendan Carr a mené un vote 2-1 pour émettre un avis de propositions de règles demandant des commentaires publics sur la limitation ou l'élimination du programme E-Rate de 2 milliards de dollars par an, qui connecte les écoles et bibliothèques à Internet. Selon Ars Technica."
+      "sujet": "Panne électricité Montréal",
+      "fait": "Une panne d'électricité a plongé plus de 17 000 abonnés d'Hydro-Québec à Montréal dans le noir. D'après La Presse, cette panne affectait actuellement le secteur."
     },
     {
-      "sujet": "Pape atteint d'un cancer du poumon",
-      "fait": "Le Pape Léon, 71 ans, est traité pour un cancer du poumon et sa rétablissement suite à une intervention chirurgicale progresse comme prévu, a rapporté le Vatican. Il a commencé à marcher dans sa chambre d'hôpital et s'alimente normalement. Selon CBC World."
+      "sujet": "Google YouTube Music labellisation IA",
+      "fait": "Google commencera à étiqueter le contenu musical généré par IA sur YouTube Music, s'appuyant sur des divulgations similaires dans l'application YouTube principale. Selon Ars Technica, Google cherche à informer les utilisateurs sur le contenu créé avec l'IA générative."
     },
     {
-      "sujet": "Colossal Biosciences plateforme IA",
-      "fait": "Colossal a annoncé une nouvelle plateforme d'IA pour accélérer ses efforts de dé-extinction, et Peter Diamandis a lancé un nouveau fonds pour soutenir les startups qui l'utilisent. Selon TechCrunch."
+      "sujet": "Interdiction plastiques cour suprême",
+      "fait": "L'interdiction des plastiques à usage unique sera examinée par la Cour suprême canadienne. Selon Radio-Canada, la Cour d'appel fédérale avait infirmé en janvier une décision permettant le maintien de cette interdiction."
+    },
+    {
+      "sujet": "Centre données Ottawa investissement",
+      "fait": "Le gouvernement fédéral envisage de construire un centre de données d'une valeur de 1,5 milliard de dollars dans la région d'Ottawa. D'après BNN Bloomberg, ce projet représente un investissement fédéral majeur en infrastructure numérique."
     }
   ]
 }
