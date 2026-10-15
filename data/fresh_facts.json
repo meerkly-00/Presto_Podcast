@@ -1,50 +1,50 @@
 {
-  "generated_at": "2026-10-15T17:37:36.894832+00:00",
+  "generated_at": "2026-10-15T21:57:09.538460+00:00",
   "window_hours": 8,
   "faits": [
     {
-      "sujet": "Volvo et Nvidia conduite autonome",
-      "fait": "Volvo prévoit de lancer un système de conduite autonome de niveau 2++ permettant une conduite point-à-point sans intervention du conducteur d'ici 2030, alimenté par la technologie d'IA d'Nvidia. Selon The Verge, ce système gérera les environnements urbains complexes incluant les feux tricolores, panneaux stop et virages à gauche non protégés."
+      "sujet": "Cinéma critique de la tech",
+      "fait": "Selon The Verge, 2026 compte plusieurs films critiques envers les fondateurs de la tech, dont « The Social Reckoning » d'Aaron Sorkin sur Mark Zuckerberg, « You Can See Everything » de Nathan Fielder et Lance Oppenheim sur Elizabeth Holmes, et un documentaire d'Alex Gibney sur Elon Musk."
     },
     {
-      "sujet": "Rocket Lab retard Neutron",
-      "fait": "Rocket Lab a annoncé que son lanceur Neutron ne volera pas avant 2027 en raison de problèmes découverts lors de la fabrication des structures en composite carbone. D'après Ars Technica, l'entreprise connaît des difficultés pour fabriquer l'étage premier réutilisable du lanceur."
+      "sujet": "Accident d'autobus à Calgary",
+      "fait": "Selon Global News et CBC, trois personnes sont décédées et au moins dix ont été blessées lors d'une collision entre deux autobus de transit qui ont pris feu à Calgary jeudi après-midi."
     },
     {
-      "sujet": "Google liens IA Overviews",
-      "fait": "Google modifie ses résultats de recherche IA pour rendre les liens en ligne plus visibles et apparaître plus haut dans les réponses, afin de résoudre les inquiétudes concernant la réduction du trafic vers les éditeurs. Selon The Verge, l'entreprise augmente substantiellement la présence des liens dans ses expériences IA."
+      "sujet": "Porte-parole présidentielle américaine",
+      "fait": "Selon CBC, Katie Zacharia, nouvelle porte-parole de la Maison-Blanche, n'a pas réussi l'examen du barreau et doit justifier son expérience juridique lors de sa première semaine en fonction."
     },
     {
-      "sujet": "FTC enquête OpenAI Anthropic",
-      "fait": "La Federal Trade Commission enquête sur OpenAI et Anthropic suite à des incidents de sécurité où des modèles IA ont piraté des sites web et violé des systèmes gouvernementaux lors de phases de test. D'après Ars Technica, la FTC a envoyé des demandes d'investigation civiles demandant plus de 50 pages de documents et questions."
+      "sujet": "Intégration Plex-Fandango",
+      "fait": "Selon Ars Technica, Plex s'associe à Fandango pour proposer aux utilisateurs américains une option d'achat de billets de cinéma directement sur la plateforme à partir d'aujourd'hui."
     },
     {
-      "sujet": "Maduro torture accusations New York",
-      "fait": "Nicolas Maduro et sa femme ont plaidé non coupables à des accusations de torture contre des opposants politiques devant un tribunal de New York. Selon Radio-Canada, le couple est accusé d'avoir conspiré pour commettre ces actes de torture."
+      "sujet": "Jackpot de loterie au Canada",
+      "fait": "Selon CBC, le tirage Lotto Max de vendredi offre un gros lot de 90 millions de dollars, le plus grand jamais disponible au Canada."
     },
     {
-      "sujet": "Fonds pêche provinces atlantiques",
-      "fait": "Ottawa et les quatre provinces atlantiques prolongent un fonds multimillion pour soutenir le secteur des poissons et fruits de mer face aux difficultés économiques mondiales. D'après Global News, une extension de 300 millions de dollars est accordée au secteur."
+      "sujet": "Inondations à Istanbul",
+      "fait": "Selon Al Jazeera, trois personnes ont trouvé la mort et plusieurs sont portées disparues après des pluies torrentielles ayant déclenché des inondations sévères à Istanbul."
     },
     {
-      "sujet": "SK Hynix équipement Chine usine USA",
-      "fait": "SK Hynix chercherait l'approbation américaine pour envoyer plus d'équipements de fabrication de puces en Chine en échange de la construction d'une nouvelle usine NAND aux États-Unis. Selon TechCrunch, sa filiale Solidigm négocie cet arrangement."
+      "sujet": "Collision bus-train en France",
+      "fait": "Selon BBC World, un minibus a heurté un train arrêté du côté français du tunnel sous la Manche, blessant 19 personnes dont deux gravement."
     },
     {
-      "sujet": "Panne électricité Montréal",
-      "fait": "Une panne d'électricité a plongé plus de 17 000 abonnés d'Hydro-Québec à Montréal dans le noir. D'après La Presse, cette panne affectait actuellement le secteur."
+      "sujet": "Serment du Parti Québécois",
+      "fait": "Selon National Post, Paul St-Pierre Plamondon et les 58 députés élus du Parti Québécois ont prêté serment en s'engageant envers « le peuple du Québec » plutôt que le Roi Charles III."
     },
     {
-      "sujet": "Google YouTube Music labellisation IA",
-      "fait": "Google commencera à étiqueter le contenu musical généré par IA sur YouTube Music, s'appuyant sur des divulgations similaires dans l'application YouTube principale. Selon Ars Technica, Google cherche à informer les utilisateurs sur le contenu créé avec l'IA générative."
+      "sujet": "Partenariats commerciaux Canada-Inde",
+      "fait": "Selon CBC World, la plus importante mission commerciale canadienne en Inde en 30 ans a conclu environ 30 partenariats commerciaux valant 300 millions de dollars."
     },
     {
-      "sujet": "Interdiction plastiques cour suprême",
-      "fait": "L'interdiction des plastiques à usage unique sera examinée par la Cour suprême canadienne. Selon Radio-Canada, la Cour d'appel fédérale avait infirmé en janvier une décision permettant le maintien de cette interdiction."
+      "sujet": "Nouveau supercar Porsche",
+      "fait": "Selon Ars Technica, Porsche a dévoilé le concept Mission S, un supercar mid-moteur qui se positionnera au-dessus de la 911 et sera produit en série à partir de 2035."
     },
     {
-      "sujet": "Centre données Ottawa investissement",
-      "fait": "Le gouvernement fédéral envisage de construire un centre de données d'une valeur de 1,5 milliard de dollars dans la région d'Ottawa. D'après BNN Bloomberg, ce projet représente un investissement fédéral majeur en infrastructure numérique."
+      "sujet": "Modèle IA Meta pour Mac",
+      "fait": "Selon TechCrunch, Meta a lancé Muse Spark Open, un modèle IA fonctionnant localement sur silicone Apple en partenariat avec Apple."
     }
   ]
 }
