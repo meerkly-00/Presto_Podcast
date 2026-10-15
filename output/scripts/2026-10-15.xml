@@ -1,0 +1,71 @@
+```xml
+<script>
+  <intro>Bonjour, on est le jeudi quinze octobre deux mille vingt-six. Voici votre Presto en environ quinze minutes. Au menu : les marchés américains plombés par l'inflation et les semi-conducteurs, le dossier albertain qui continue d'occuper Mark Carney, la situation sécuritaire au Moyen-Orient et dans les Balkans, une poursuite contre OpenAI, et un peu de sport avec les Brewers et le Canadien.</intro>
+
+  <chapitre titre="Économie et marchés">
+    On commence par l'économie, où la séance de mercredi restera comme l'une des pires de l'année à Wall Street. Selon l'Associated Press, les actions américaines ont connu leur pire journée depuis juillet, dans un contexte où l'inflation continue de se détériorer. Bloomberg précise que les investisseurs ont délaissé les actions pour se tourner vers les obligations, un mouvement classique en période d'aversion au risque.
+
+    Selon BNN Bloomberg, l'inflation américaine s'est établie à trois virgule sept pour cent le mois dernier, un chiffre en hausse et qui survient à l'approche des élections de mi-mandat. Toujours selon BNN Bloomberg, ce niveau de prix élevé complique la lecture pour la Réserve fédérale : Reuters rapporte qu'une décision de hausse du taux directeur est maintenant jugée serrée par les observateurs, alors que l'institution doit arbitrer entre contrôler l'inflation et éviter de freiner davantage une économie déjà fragilisée par la déroute technologique.
+
+    Cette déroute, justement, vient surtout du secteur des semi-conducteurs. Selon le Financial Times, la vente massive d'actions technologiques s'est encore approfondie, les fabricants de puces étant particulièrement touchés. Reuters parle d'une accélération du mouvement de vente dans ce secteur. Le Financial Times ajoute que les craintes liées à l'endettement entourant l'intelligence artificielle s'ajoutent aux inquiétudes sur l'inflation pour inquiéter les investisseurs. Reuters rapporte en parallèle que le coût des assurances contre un défaut de paiement lié à l'intelligence artificielle a bondi, signe que la confiance envers les centres de données s'effrite.
+
+    Cette onde de choc dépasse les frontières américaines. Selon Bloomberg, le dollar taïwanais et le won sud-coréen ont reculé, cette liquidation du secteur des puces pesant sur le moral des investisseurs asiatiques. The Economist, de son côté, pose la question à plus long terme : l'industrie des semi-conducteurs se dirige-t-elle vers un effondrement majeur ? Le magazine note qu'il existe des raisons de croire qu'un éventuel ralentissement serait moins brutal que l'expansion qui l'a précédé.
+
+    Ailleurs en économie, le Japon annonce un geste d'envergure. Selon Les Affaires, le pays investira environ vingt et un milliards de dollars américains dans deux usines de semi-conducteurs aux États-Unis. Le Fonds monétaire international, lui, hausse le ton sur la dette publique des pays riches : selon BNN Bloomberg, sa directrice presse les nations fortunées de resserrer leurs finances publiques pour alléger la pression économique mondiale. The Economist rappelle d'ailleurs les leçons du sauvetage humiliant du Royaume-Uni par le FMI il y a cinquante ans, un épisode qu'il juge pertinent à l'heure où la France fait face à ses propres difficultés budgétaires. Al Jazeera souligne en effet que la hausse des coûts d'emprunt français et les divisions politiques du pays font craindre une crise de la dette qui pourrait s'étendre à toute la zone euro.
+
+    Du côté des gestionnaires d'actifs, les choses vont mieux : selon le Financial Times, BlackRock a attiré environ deux cent cinq milliards de dollars, portant ses actifs sous gestion à un niveau record.
+
+    Enfin, en Irak, Al Jazeera rapporte que le gouvernement a dévalué le dinar pour alléger une crise de liquidités. Si Bagdad espère ainsi faciliter le paiement des salaires, les commerçants locaux font face à une hausse du coût des importations et à une période d'incertitude.
+  </chapitre>
+
+  <chapitre titre="Politique canadienne">
+    À Ottawa, le dossier de l'unité nationale continue d'occuper le premier ministre. Selon La Presse, Mark Carney multiplie les gestes et les annonces depuis son arrivée au pouvoir il y a dix-huit mois pour éteindre la colère qui souffle de l'Alberta. Ce travail se poursuit alors que la province se prépare à un référendum.
+
+    Toujours à Ottawa, Radio-Canada rapporte qu'une nouvelle réglementation fédérale entre en vigueur aujourd'hui pour protéger les poissons dans les cours d'eau à proximité des barrages. Six cents barrages à travers le pays, incluant ceux d'Hydro-Québec, devront s'y conformer, une mesure dont le coût pourrait atteindre plusieurs milliards de dollars.
+
+    Du côté des relations canado-américaines, le Journal de Montréal rapporte que Donald Trump affirme que la seule solution pour le Canada serait de devenir le cinquante et unième État américain.
+
+    En Ontario, un changement administratif retient l'attention dans le nord-ouest de la province. Selon Global News, le gouvernement provincial a annoncé que les communautés situées à l'ouest du quatre-vingt-dixième méridien cesseront de changer l'heure deux fois par année. Les résidents de la région de Kenora ont accueilli la nouvelle favorablement.
+
+    En Colombie-Britannique, Global News souligne une forte participation au vote par anticipation à Kelowna, à l'approche des élections municipales où trente-sept candidats se disputent des sièges au conseil.
+  </chapitre>
+
+  <chapitre titre="International">
+    Direction l'Asie du Sud, où une tragédie a frappé le Pakistan. Selon Reuters, l'effondrement du toit d'une école privée à Peshawar a fait au moins vingt-huit morts, en grande majorité des enfants, ainsi qu'un enseignant. CBC précise que plus de cinquante autres personnes ont été blessées dans l'incident.
+
+    En Europe de l'Est, la situation reste tendue en mer Noire. Selon Ars Technica, des attaques de drones attribuées à la Russie ont coulé un cargo et forcé l'évacuation d'un autre navire au large des côtes bulgares. Le premier ministre bulgare a souligné que la Russie n'avait aucun intérêt à détruire ses propres navires, laissant entendre que ces frappes servent les intérêts de Moscou. Ars Technica rapporte que ces incidents ont relancé les demandes pour que l'OTAN redéploie des défenses anti-drones dans la région. CBC rapporte par ailleurs que des drones d'origine ambiguë sont de plus en plus observés au-dessus de sites sensibles dans plusieurs pays membres de l'OTAN, une campagne jugée délibérée pour semer la peur et l'incertitude.
+
+    Toujours en lien avec le conflit en Ukraine, la question de l'accès à Starlink refait surface. Selon la BBC, Elon Musk affirme que le gouvernement américain pourrait être responsable d'un ralentissement des vitesses de connexion utilisées par l'armée ukrainienne. CBC précise que Kyiv a effectivement perdu une partie de son accès au système, un enjeu important puisque Starlink et sa version militaire Starshield sont au coeur de l'effort de guerre ukrainien.
+
+    En Allemagne, un débat politique prend de l'ampleur à l'approche d'échéances électorales. Selon The Economist, la politicienne d'extrême droite Alice Weidel soutient que l'Ukraine a, je le cite, "already lost" contre la Russie et devrait négocier la paix. Fin de citation. Cette position s'oppose à celle du gouvernement allemand, qui continue d'appuyer militairement Kyiv.
+
+    Dans les Balkans, Al Jazeera souligne que les relations de chaque pays avec Israël reflètent davantage les dynamiques politiques locales, les ententes de défense et les intérêts stratégiques propres à chacun qu'une position unifiée de la région. Et en Albanie, la BBC rapporte que des étudiants ont incendié des bâtiments gouvernementaux lors d'une deuxième journée de manifestations réclamant de meilleures conditions universitaires et des perspectives d'emploi.
+
+    Aux États-Unis, l'inflation pèse aussi sur le plan politique. CBC rapporte que Donald Trump tente depuis près d'un an de convaincre les électeurs de ne pas s'inquiéter de la hausse des prix, mais que les sondages indiquent que l'électorat ne se laisse pas convaincre, à l'approche des élections de mi-mandat. La Maison-Blanche fait aussi face à des questions sur les compétences de sa nouvelle attachée de presse : selon la BBC, Katie Zacharia ne semble être inscrite au barreau d'aucun État où elle a résidé.
+
+    Enfin, un dossier macabre retient l'attention militaire américaine. Selon la BBC, soixante-douze généraux américains à la retraite demandent au Pentagone d'annuler la diffusion en direct de l'exécution de Nidal Hasan, qualifiant le projet de barbare et soutenant qu'il entacherait l'honneur de l'armée et du pays qui le permettrait.
+  </chapitre>
+
+  <chapitre titre="Tech">
+    En tech, OpenAI fait face à une vague de poursuites. Selon The Verge, huit États américains, soit l'Iowa, le Kansas, le Nebraska, la Virginie-Occidentale, l'Arkansas, l'Arizona, l'Idaho et le Montana, accusent l'entreprise d'avoir mis les profits avant la sécurité dans le développement de ChatGPT. Ces poursuites, qui font suite à des plaintes de familles alléguant que l'agent conversationnel aurait joué un rôle dans des drames vécus par des proches, accusent OpenAI d'avoir omis d'avertir sa clientèle des dangers du produit.
+
+    Du côté de la cybersécurité, une attaque a causé des dégâts matériels bien concrets en France. Selon Ars Technica, un piratage a touché les systèmes de réfrigération d'environ sept cents supermarchés à travers le pays, provoquant la défectuosité des appareils, la perte de denrées périssables et, dans certains cas, des incendies. Le piratage aurait exploité des vulnérabilités connues dans des contrôleurs connectés à Internet fabriqués par les entreprises Danfoss, Dixell et Copeland.
+
+    Microsoft annonce de son côté une victoire contre la cybercriminalité. Selon The Verge, l'entreprise a aidé à démanteler, en collaboration avec la police nationale japonaise, un réseau de fraude ayant permis l'envoi de plus d'un milliard de messages d'hameçonnage visant plus de soixante-quinze mille organisations à travers le monde depuis janvier.
+
+    Dans le secteur des semi-conducteurs, une jeune pousse mise sur l'intelligence artificielle pour redessiner l'industrie. Selon TechCrunch, l'entreprise Ricursive Intelligence développe une intelligence artificielle capable de concevoir elle-même des puces, d'apprendre de chaque itération et d'améliorer ses conceptions subséquentes, dans le but d'automatiser et d'accélérer le processus de conception.
+
+    Du côté de la main-d'oeuvre, la firme de conseil McKinsey innove dans ses entrevues d'embauche. Selon The Verge, qui cite le Wall Street Journal, certains candidats à des postes d'analystes devront maintenant converser pendant dix minutes avec une simulation d'intelligence artificielle jouant le rôle d'un client difficile, bien que ce soit des humains qui évalueront leur performance.
+
+    Enfin, en astronomie, de bonnes nouvelles pour l'exploration spatiale. Selon Ars Technica, la NASA a devancé d'un an le lancement de sa mission DAVINCI vers Vénus, maintenant prévu pour décembre deux mille trente, qui doit rapporter les premières images directes de la surface de la planète depuis mille neuf cent quatre-vingt-deux. Une deuxième mission américaine et une mission européenne doivent suivre au début des années deux mille trente.
+  </chapitre>
+
+  <chapitre titre="Sport">
+    Rapidement en sport. Au baseball, Sportsnet rapporte que les Brewers de Milwaukee ont remporté un troisième match consécutif face aux Dodgers de Los Angeles, les plaçant à une victoire de mettre fin au règne des champions en titre dans la série de championnat de la Ligue nationale. Sportsnet souligne que du champagne et des chandails de célébration sont déjà prêts au Dodger Stadium si jamais les visiteurs complètent le travail jeudi.
+
+    Au hockey, du côté du Canadien de Montréal, Sportsnet rapporte que le gardien Jakub Dobes continue de chercher la constance après une autre défaite frustrante, cette fois face aux Capitals de Washington. TVA Sports souligne par ailleurs que l'équipe doit s'entendre à long terme avec l'attaquant Alexandre Carrier.
+  </chapitre>
+
+  <outro>Voilà pour ce Presto du jeudi quinze octobre deux mille vingt-six. Si ce briefing vous est utile, le meilleur coup de main que vous pouvez nous donner, c'est de le partager à une personne qui aime rester informée. Et selon votre plateforme : un abonnement sur Spotify ou Apple Podcasts, un pouce bleu et un abonnement sur YouTube, ça prend deux secondes et ça aide vraiment Presto à grandir. Sur ce, bonne journée, et à demain.</outro>
+</script>
+```
