@@ -1,0 +1,63 @@
+# Script Presto — Vendredi 16 octobre 2026
+
+```xml
+<script>
+  <intro>Bonjour, on est le vendredi seize octobre deux mille vingt-six. Voici votre Presto en environ quinze minutes. Au menu : une fusillade dans une école élémentaire aux États-Unis, les tensions entre Donald Trump et Volodymyr Zelensky à l'approche d'un sommet européen, l'économie dominée par les craintes autour de l'intelligence artificielle, et un mot sur la tech et le sport.</intro>
+
+  <chapitre titre="International">
+    On commence aux États-Unis, où une fusillade a frappé une école élémentaire. Selon CBC, un jeune homme de seize ans a ouvert le feu jeudi à l'école Silver Rail, dans la ville de Bend, en Oregon, tuant trois enfants âgés de cinq, huit et onze ans ainsi qu'un enseignant. Le tireur a ensuite été abattu par un passant armé qui l'avait poursuivi à l'intérieur de l'école, précise la police citée par CBC.
+
+    Toujours selon la BBC, les événements ont profondément secoué la communauté locale. Donald Trump avait par ailleurs fait les manchettes plus tôt dans la semaine pour une tout autre décision. Selon l'Associated Press, le président américain a annulé ses plans de diffuser en direct l'exécution par peloton d'exécution de l'auteur de la fusillade de Fort Hood, une décision du secrétaire à la Défense Pete Hegseth qui avait provoqué une large réprobation bipartisane.
+
+    On passe au dossier ukrainien, où le ton monte entre Washington et Kiev. Selon la BBC, Donald Trump a lancé une nouvelle vague de critiques à l'endroit de Volodymyr Zelensky, le qualifiant de plus difficile à gérer que Vladimir Poutine. Cette sortie survient à la veille d'une rencontre des dirigeants européens à Bruxelles. Selon Reuters, les dirigeants de l'Union européenne se rallient derrière Zelensky, alors que Trump a qualifié de disgrâce les frappes ukrainiennes contre des raffineries russes.
+
+    Toujours selon Reuters, l'Ukraine a mis fin à une trêve et attaqué une raffinerie pétrolière russe jeudi, Zelensky affirmant se sentir trahi par Trump. L'Associated Press rapporte aussi des informations sur Starshield, le service satellitaire dont la perturbation a ébranlé les forces ukrainiennes récemment. En parallèle, Reuters Business souligne que la Russie a pris le contrôle d'actifs d'entreprises européennes supplémentaires à l'approche de l'apparition de Zelensky au sommet de l'Union européenne.
+
+    Ailleurs, la mer rouge et le détroit d'Ormuz restent sous tension. Selon la BBC, les signalements d'attaques contre des navires près d'Ormuz ont atteint un sommet record, douze bateaux ayant été frappés en une semaine selon une analyse de données d'une agence maritime britannique, ce qui ralentit les exportations pétrolières.
+
+    Du côté de la cybersécurité internationale, Reuters rapporte que le G7 va lancer des exercices pour se prémunir contre les cyberattaques alimentées par l'intelligence artificielle. Et selon CBC, des chercheurs du Citizen Lab de l'Université de Toronto affirment qu'une agence de publicité israélienne a diffusé des publicités vues par des millions d'internautes qui les exposaient à des attaques par logiciel espion, une campagne ayant notamment infecté des appareils au sein de l'organisation Al Jazeera.
+  </chapitre>
+
+  <chapitre titre="Politique canadienne">
+    À Ottawa, un rapport refait surface sur un dossier délicat. Selon CBC, un mémo interne avait informé le gouvernement de Justin Trudeau qu'il serait appelé à exécuter des mandats d'arrestation de la Cour pénale internationale, incluant celui visant le premier ministre israélien Benyamin Netanyahou, advenant que ces mandats soient émis.
+
+    Du côté de la sécurité nationale, le National Post rapporte que l'ancien chef du Service canadien du renseignement de sécurité met en garde contre les véhicules électriques chinois. Selon cette source, alors que les fabricants chinois augmentent leurs exportations vers le Canada, l'ancien espion en chef prévient que tout ce qui se passe dans ou autour de ces véhicules pourrait être capté par la Chine.
+
+    En Ontario, les centres de données d'intelligence artificielle deviennent un enjeu électoral municipal. Selon Global News, le groupe de pression citoyen Stop the Datacentre cherche à recueillir davantage d'appuis avant la tenue des élections municipales plus tard ce mois-ci, un écho du débat qui agite aussi le Québec avec Hydro-Québec, où la question de la tarification de l'électricité pour ces installations continue de diviser.
+
+    Au Québec, l'actualité politique de la semaine se poursuit avec l'assermentation des cinquante-neuf députés du Parti québécois à l'Assemblée nationale, un dossier suivi de près par La Presse dans sa revue de presse du matin.
+  </chapitre>
+
+  <chapitre titre="Économie et marchés">
+    On passe à l'économie, où les marchés américains ont connu une séance de transition jeudi après la pire journée de l'année mercredi. Selon Bloomberg, les actions américaines ont progressé légèrement, dans un contexte de prudence généralisée chez les investisseurs. BNN Bloomberg précise que Wall Street a avancé malgré de nouvelles fluctuations dans les titres liés à l'intelligence artificielle. Le Wall Street Journal rapporte de son côté que le Dow Jones et les obligations du Trésor ont progressé, les investisseurs ayant délaissé les titres technologiques.
+
+    Le débat sur la durabilité de la domination de l'intelligence artificielle en Bourse continue d'alimenter les discussions. Selon Les Affaires, la question de savoir si l'intelligence artificielle peut continuer longtemps à dominer les marchés boursiers se pose avec de plus en plus d'insistance. Le Financial Times va plus loin : selon cette source, le risque d'une correction boursière liée à l'intelligence artificielle est à la hausse. À l'opposé, Bloomberg souligne que les marchés privés sont devenus les nouveaux marchés de l'intelligence artificielle, un signe que les capitaux continuent d'affluer vers le secteur malgré les inquiétudes.
+
+    En Asie, Reuters Business rapporte que la plupart des actions ont progressé, un certain calme étant revenu après le choc provoqué par CoreWeave. L'Indonésie fait toutefois figure d'exception : selon le Financial Times, les actions indonésiennes ont chuté après que l'agence MSCI a annoncé que le pays pourrait être retiré de ses indices mondiaux, ce que Reuters Business qualifie d'avertissement sérieux pour le pays.
+
+    Du côté des cryptomonnaies, Bloomberg rapporte que le Bitcoin est brièvement passé sous la barre des quatre-vingt mille dollars américains, dans un contexte de forte volatilité des marchés.
+
+    Au Canada, BNN Bloomberg rapporte que le chef de la direction de Cleveland-Cliffs accuse le gouvernement canadien d'intimidation et de harcèlement dans le dossier des menaces entourant Stelco. Toujours selon BNN Bloomberg, des dirigeants d'entreprises se disent prudemment optimistes à l'approche du prochain budget fédéral. En Alberta, BNN Bloomberg souligne qu'il n'est guère surprenant que plusieurs leaders du monde des affaires restent discrets sur la question de la séparation, selon un expert cité par le média. Reuters, de son côté, explique ce que signifierait concrètement un référendum albertain sur la séparation du Canada.
+
+    Au Québec, Les Affaires rapporte que Fondaction et le Centre québécois de recherche et de développement de l'aluminium unissent capital et expertise technique pour transformer davantage d'aluminium dans la province.
+  </chapitre>
+
+  <chapitre titre="Tech">
+    En tech, Tesla a frappé un grand coup médiatique. Selon The Verge, l'entreprise a dévoilé sa prochaine génération de Roadster lors d'un événement à Waco, au Texas, où la voiture électrique a roulé à l'envers, volé brièvement, et atteint une vitesse de cent kilomètres à l'heure en moins d'une seconde. TechCrunch précise que le véhicule utilise des propulseurs issus de SpaceX pour bondir par-dessus d'autres modèles Tesla lors de la démonstration. Selon The Verge, Elon Musk a promis une mise en production en deux mille vingt-huit, sans toutefois dévoiler de prix ni de date de lancement précise.
+
+    Du côté de la sécurité informatique, Ars Technica rapporte que des pirates informatiques ont inséré des exploits à clic zéro dans des publicités en ligne pour installer des logiciels espions sophistiqués sur des appareils ciblés. Selon cette enquête du Citizen Lab de l'Université de Toronto, la campagne, baptisée AdFection, aurait infecté quarante-cinq appareils au sein d'Al Jazeera entre deux mille vingt-quatre et deux mille vingt-cinq. Les chercheurs soulignent qu'il s'agit d'un signal d'alarme pour les salles de presse à travers le monde.
+
+    Du côté du capital-risque, TechCrunch rapporte que même la firme Benchmark reconnaît que l'intelligence artificielle fragilise le pacte tacite de la Silicon Valley contre le financement d'entreprises rivales par un même investisseur.
+
+    Enfin, OpenAI continue d'étendre les capacités de ChatGPT. Selon The Verge, l'extension ChatGPT pour Google Chrome peut désormais consulter les onglets ouverts par l'utilisateur pour rendre ses réponses plus pertinentes.
+  </chapitre>
+
+  <chapitre titre="Sport">
+    Rapidement en sport. Au hockey, Sportsnet rapporte que les Maple Leafs de Toronto ont connu une défaite éprouvante face aux Sabres de Buffalo jeudi, Kirill Marchenko réussissant une percée offensive marquante tandis que John Tavares a quitté la rencontre blessé. À Montréal, TVA Sports souligne que Josh Anderson mène le Canadien avec quatre buts cette saison grâce à son travail dans l'enclave, alors que l'entraîneur Martin St-Louis affirme qu'il est difficile de gagner quand l'équipe accorde cinq buts, sans vouloir commenter directement la performance du gardien Jakub Dobes.
+
+    Au baseball, Sportsnet rapporte que les Brewers de Milwaukee ont mis fin au règne des Dodgers de Los Angeles avec un balayage dominant en finale de la Ligue nationale. Du côté de la Ligue américaine, les Guardians de Cleveland mènent leur série face aux Rays grâce notamment à une forte performance de Gavin Williams.
+  </chapitre>
+
+  <outro>Voilà pour ce Presto du vendredi seize octobre deux mille vingt-six. Si ce briefing vous est utile, le meilleur coup de main que vous pouvez nous donner, c'est de le partager à une personne qui aime rester informée. Et selon votre plateforme : un abonnement sur Spotify ou Apple Podcasts, un pouce bleu et un abonnement sur YouTube, ça prend deux secondes et ça aide vraiment Presto à grandir. Sur ce, bonne journée, et à demain.</outro>
+</script>
+```
