@@ -1,0 +1,14 @@
+{
+  "date": "2026-10-16",
+  "kind": "poll",
+  "text": "Ce matin → 12 navires frappés en une semaine au détroit d'Ormuz.\n\nMIT: L'Irak a perdu 60 milliards $ en raison de la guerre au Moyen-Orient, principalement par la chute des\n\nComment les pays devraient-ils réagir aux attaques contre navires commerciaux au détroit d'Ormuz?",
+  "poll": {
+    "options": [
+      "Renforcer la sécurité",
+      "Négociations",
+      "Diversifier les routes",
+      "Combinaison de plusieurs"
+    ],
+    "duration_minutes": 1440
+  }
+}
