@@ -1,46 +1,54 @@
 {
-  "generated_at": "2026-10-16T00:08:43.116171+00:00",
+  "generated_at": "2026-10-16T17:11:05.695766+00:00",
   "window_hours": 8,
   "faits": [
     {
-      "sujet": "Exécution de Nidal Hasan annulée",
-      "fait": "Le président Donald Trump a annulé les plans de retransmission en direct de l'exécution par peloton d'exécution du tireur de masse militaire Nidal Hasan, révisant une décision du secrétaire à la Défense Pete Hegseth largement condamnée. Selon National Post."
+      "sujet": "Waymo robotaxis au Canada",
+      "fait": "Waymo lancera la première phase de tests de taxis autonomes à Toronto dans les jours à venir, avec un service complet attendu en 2028. Selon CBC et TechCrunch."
     },
     {
-      "sujet": "Fusillade à l'école primaire Oregon",
-      "fait": "Une fusillade s'est produite à l'école primaire Silver Rail à Bend, en Oregon, faisant au moins quatre à cinq morts, dont trois enfants et un adulte. Le tireur, un adolescent de 16 ans, a été tué avant l'arrivée de la police. Selon Radio-Canada et Associated Press."
+      "sujet": "Toyota production en Ontario",
+      "fait": "Toyota lancera la production d'un nouveau véhicule utilitaire compact dans une usine ontarienne à partir de décembre, affirmant son engagement envers la fabrication canadienne. Selon National Post."
     },
     {
-      "sujet": "Pont Honoré-Mercier urgence",
-      "fait": "Une fissure a été détectée sur l'une des poutres du pont Honoré-Mercier reliant Montréal à la Rive-Sud. Des réparations d'urgence sont programmées pour ce week-end. Selon Le Devoir et Les Affaires."
+      "sujet": "Investissement en centre de données",
+      "fait": "EverWind annonce 10 milliards de dollars d'investissement privé pour un campus de centres de données à Point Tupper, en Nouvelle-Écosse. Selon Global News."
     },
     {
-      "sujet": "Arrêt dans le meurtre de Leïla Ben Salem",
-      "fait": "Un homme de 33 ans a été arrêté pour le meurtre de Leïla Ben Salem, une Montréalaise de 45 ans tuée lors d'une visioconférence de travail il y a près d'un mois. Il sera accusé de meurtre au premier degré. Selon La Presse et Global News."
+      "sujet": "Politique commerciale de Meta",
+      "fait": "Meta modifiera ses conditions d'utilisation le 30 octobre pour exiger que les comptes commerciaux autorisent l'entraînement d'IA sur le contenu de leurs sites web liés, sans option de refus. Selon Ars Technica."
     },
     {
-      "sujet": "Accident de bus à Calgary",
-      "fait": "Un accident impliquant un autobus municipal à Calgary a fait trois morts et 16 blessés jeudi. Selon CBC."
+      "sujet": "Manifestations en France",
+      "fait": "200 000 manifestants sont attendus samedi en France dans une convergence de protestations, le ministre de l'Intérieur autorisant l'usage de grenades assourdissantes en cas de violences urbaines extrêmes. Selon Le Devoir."
     },
     {
-      "sujet": "Crash bus-train Tunnel sous la Manche",
-      "fait": "Un autobus a heurté un train arrêté du côté français du Tunnel sous la Manche, faisant 19 blessés. Deux personnes ont été héliportées à l'hôpital mais aucune vie n'était en danger. Selon BBC World."
+      "sujet": "Pertes économiques en Irak",
+      "fait": "L'Irak a perdu 60 milliards de dollars en raison de la guerre au Moyen-Orient, principalement due à la chute des exportations pétrolières suite au blocus du détroit d'Ormuz. Selon Le Devoir."
     },
     {
-      "sujet": "Pipelines endommagés en Syrie",
-      "fait": "Deux pipelines syriens ont été endommagés lors d'une série d'attaques contre les infrastructures énergétiques, dont un vol de carburant sur la ligne Banias-Homs et un incendie sur la ligne d'exportation de gaz à Hasaka. Selon Al Jazeera."
+      "sujet": "Élection présidentielle brésilienne",
+      "fait": "Selon les derniers sondages, Bolsonaro maintient une avance sur Lula dans le scrutin de second tour, bien que les experts considèrent la course comme très compétitive. Selon Al Jazeera."
     },
     {
-      "sujet": "Intero Biosystems remporte Disrupt",
-      "fait": "Intero Biosystems a remporté le grand prix de 100 000 dollars du Startup Battlefield à TechCrunch Disrupt 2026, en battant 199 autres entreprises. Selon TechCrunch."
+      "sujet": "Incendies en Amazonie",
+      "fait": "Les autorités brésiliennes enquêtent sur une augmentation récente des incendies en Amazonie pour déterminer s'ils ont été volontairement provoqués à des fins politiques avant la deuxième tour électorale. Selon CBC World."
     },
     {
-      "sujet": "Retraits de jeux vidéo stratégie",
-      "fait": "Sega a retiré Total War: Shogun 2 - Complete Edition des magasins suite à un lancement désastreux marqué par des bogues et un upscaling apparemment réalisé par IA, entraînant une note 'Extrêmement négatif' sur Steam. Selon The Verge."
+      "sujet": "Cour suprême du Canada",
+      "fait": "La Cour suprême du Canada ordonne de nouveaux procès pour deux personnes accusées de traite d'êtres humains et prostitution, jugeant qu'elles auraient pu interroger une plaignante sur ses antécédents de travail du sexe. Selon La Presse."
     },
     {
-      "sujet": "Investiture députés péquistes Québec",
-      "fait": "Pauline Marois et Jean Royer formeront les nouveaux députés du PQ à l'Assemblée nationale avant la rentrée parlementaire. L'élection du 5 octobre a renouvelé plus des deux tiers de l'Assemblée nationale. Selon Radio-Canada et La Presse."
+      "sujet": "Opérations militaires ukrainiennes",
+      "fait": "L'Ukraine mène l'opération Vivaldi pour reprendre des territoires cruciaux en Donbas, avec Starlink jouant un rôle clé, bien que les relations avec le président Trump se soient détériorées. Selon BBC World."
+    },
+    {
+      "sujet": "Modèles d'IA en vision",
+      "fait": "Elorian a déployé son premier modèle Glimpse, qui surpasse même GPT-6 Astra en raisonnement sur graphiques scientifiques et captioning vidéo selon les évaluations de l'entreprise. Selon TechCrunch."
+    },
+    {
+      "sujet": "Robotique et IA générale",
+      "fait": "Amulya Vishwanath, ancien responsable chez Nvidia, déclare que la robotique se trouve actuellement dans son ère 'Lego', les composants fondamentaux restant à être reconstruits. Selon TechCrunch."
     }
   ]
 }
