@@ -1,54 +1,54 @@
 {
-  "generated_at": "2026-10-16T17:11:05.695766+00:00",
+  "generated_at": "2026-10-16T21:55:37.303968+00:00",
   "window_hours": 8,
   "faits": [
     {
-      "sujet": "Waymo robotaxis au Canada",
-      "fait": "Waymo lancera la première phase de tests de taxis autonomes à Toronto dans les jours à venir, avec un service complet attendu en 2028. Selon CBC et TechCrunch."
+      "sujet": "Référendum indépendantiste en Alberta",
+      "fait": "Le premier ministre Mark Carney effectue une tournée finale en Alberta pour convaincre les électeurs de voter contre la séparation, quelques jours avant un référendum d'indépendance prévu lundi. Selon National Post et La Presse."
     },
     {
-      "sujet": "Toyota production en Ontario",
-      "fait": "Toyota lancera la production d'un nouveau véhicule utilitaire compact dans une usine ontarienne à partir de décembre, affirmant son engagement envers la fabrication canadienne. Selon National Post."
+      "sujet": "Vaccination antigrippale au Québec",
+      "fait": "La campagne de vaccination contre la grippe et la COVID-19 enregistre 500 000 rendez-vous pris, soit 2,5 fois plus que lors de la même période l'année précédente. Selon La Presse."
     },
     {
-      "sujet": "Investissement en centre de données",
-      "fait": "EverWind annonce 10 milliards de dollars d'investissement privé pour un campus de centres de données à Point Tupper, en Nouvelle-Écosse. Selon Global News."
+      "sujet": "Contrebande par drone en prison",
+      "fait": "Un syndicat de correctionnels signale qu'un drone a livré un repas McDonald's et de l'alcool à l'unité spécialisée de l'établissement Sainte-Anne-des-Plaines, réputé être le plus sécurisé du Canada. Selon CBC."
     },
     {
-      "sujet": "Politique commerciale de Meta",
-      "fait": "Meta modifiera ses conditions d'utilisation le 30 octobre pour exiger que les comptes commerciaux autorisent l'entraînement d'IA sur le contenu de leurs sites web liés, sans option de refus. Selon Ars Technica."
+      "sujet": "Suppressions de poste à la Maison-Blanche",
+      "fait": "Katie Zacharia, porte-parole de la Maison-Blanche, a été renvoyée après moins d'une semaine en fonction, face à des critiques sur ses compétences professionnelles. Selon Reuters et Radio-Canada."
     },
     {
-      "sujet": "Manifestations en France",
-      "fait": "200 000 manifestants sont attendus samedi en France dans une convergence de protestations, le ministre de l'Intérieur autorisant l'usage de grenades assourdissantes en cas de violences urbaines extrêmes. Selon Le Devoir."
+      "sujet": "Fin de partenariat Replit-Anthropic",
+      "fait": "Replit annonce qu'elle n'est plus en partenariat avec Anthropic, citant notamment des questions de coûts. Le PDG précise qu'un partenariat avec OpenAI a été annoncé en août. Selon TechCrunch."
     },
     {
-      "sujet": "Pertes économiques en Irak",
-      "fait": "L'Irak a perdu 60 milliards de dollars en raison de la guerre au Moyen-Orient, principalement due à la chute des exportations pétrolières suite au blocus du détroit d'Ormuz. Selon Le Devoir."
+      "sujet": "Arrestation pour matériel CSAM généré par IA",
+      "fait": "Brian Richard Fitzgerald, procureur adjoint du New Jersey, a été arrêté pour avoir utilisé l'IA afin de créer des images sexualisées de mineurs réels à partir de photos des réseaux sociaux. Selon Ars Technica."
     },
     {
-      "sujet": "Élection présidentielle brésilienne",
-      "fait": "Selon les derniers sondages, Bolsonaro maintient une avance sur Lula dans le scrutin de second tour, bien que les experts considèrent la course comme très compétitive. Selon Al Jazeera."
+      "sujet": "Programme fédéral de FIV au Canada",
+      "fait": "Un sondage Ipsos montre que 46 % des Canadiens soutiennent le programme fédéral proposé de financement de la FIV, censé harmoniser une approche fragmentée. Selon Global News."
     },
     {
-      "sujet": "Incendies en Amazonie",
-      "fait": "Les autorités brésiliennes enquêtent sur une augmentation récente des incendies en Amazonie pour déterminer s'ils ont été volontairement provoqués à des fins politiques avant la deuxième tour électorale. Selon CBC World."
+      "sujet": "Épidémie de rougeole au Manitoba",
+      "fait": "Le gouvernement du Manitoba déclare la fin de l'épidémie de rougeole déclarée en février 2025, après plusieurs semaines sans nouveaux cas. Selon Global News."
     },
     {
-      "sujet": "Cour suprême du Canada",
-      "fait": "La Cour suprême du Canada ordonne de nouveaux procès pour deux personnes accusées de traite d'êtres humains et prostitution, jugeant qu'elles auraient pu interroger une plaignante sur ses antécédents de travail du sexe. Selon La Presse."
+      "sujet": "Révision du programme Entrée express",
+      "fait": "Ottawa modifie le programme Entrée express pour attirer les travailleurs des secteurs à hauts salaires, suspendant l'obligation de soumettre une Étude d'impact sur le marché du travail. Selon Le Devoir."
     },
     {
-      "sujet": "Opérations militaires ukrainiennes",
-      "fait": "L'Ukraine mène l'opération Vivaldi pour reprendre des territoires cruciaux en Donbas, avec Starlink jouant un rôle clé, bien que les relations avec le président Trump se soient détériorées. Selon BBC World."
+      "sujet": "Amendes routières à Montréal",
+      "fait": "La Ville de Montréal a généré près de 185 millions de dollars en amendes jusqu'à octobre 2026, une hausse de plus de 20 % par rapport à la même période en 2025. Selon La Presse."
     },
     {
-      "sujet": "Modèles d'IA en vision",
-      "fait": "Elorian a déployé son premier modèle Glimpse, qui surpasse même GPT-6 Astra en raisonnement sur graphiques scientifiques et captioning vidéo selon les évaluations de l'entreprise. Selon TechCrunch."
+      "sujet": "Restriction des comptes Lula par Meta",
+      "fait": "Des employés de Meta affirment que les comptes du président Lula ont été restreints lors de l'élection brésilienne, tandis que le profil de Bolsonaro a été recommandé. Selon Al Jazeera."
     },
     {
-      "sujet": "Robotique et IA générale",
-      "fait": "Amulya Vishwanath, ancien responsable chez Nvidia, déclare que la robotique se trouve actuellement dans son ère 'Lego', les composants fondamentaux restant à être reconstruits. Selon TechCrunch."
+      "sujet": "Approbation du Boeing 737 MAX 10",
+      "fait": "La FAA s'apprête à approuver le Boeing 737 MAX 10 dès la semaine prochaine, selon des sources. Selon Reuters."
     }
   ]
 }
