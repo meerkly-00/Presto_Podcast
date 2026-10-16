@@ -1,50 +1,46 @@
 {
-  "generated_at": "2026-10-15T21:57:09.538460+00:00",
+  "generated_at": "2026-10-16T00:08:43.116171+00:00",
   "window_hours": 8,
   "faits": [
     {
-      "sujet": "Cinéma critique de la tech",
-      "fait": "Selon The Verge, 2026 compte plusieurs films critiques envers les fondateurs de la tech, dont « The Social Reckoning » d'Aaron Sorkin sur Mark Zuckerberg, « You Can See Everything » de Nathan Fielder et Lance Oppenheim sur Elizabeth Holmes, et un documentaire d'Alex Gibney sur Elon Musk."
+      "sujet": "Exécution de Nidal Hasan annulée",
+      "fait": "Le président Donald Trump a annulé les plans de retransmission en direct de l'exécution par peloton d'exécution du tireur de masse militaire Nidal Hasan, révisant une décision du secrétaire à la Défense Pete Hegseth largement condamnée. Selon National Post."
     },
     {
-      "sujet": "Accident d'autobus à Calgary",
-      "fait": "Selon Global News et CBC, trois personnes sont décédées et au moins dix ont été blessées lors d'une collision entre deux autobus de transit qui ont pris feu à Calgary jeudi après-midi."
+      "sujet": "Fusillade à l'école primaire Oregon",
+      "fait": "Une fusillade s'est produite à l'école primaire Silver Rail à Bend, en Oregon, faisant au moins quatre à cinq morts, dont trois enfants et un adulte. Le tireur, un adolescent de 16 ans, a été tué avant l'arrivée de la police. Selon Radio-Canada et Associated Press."
     },
     {
-      "sujet": "Porte-parole présidentielle américaine",
-      "fait": "Selon CBC, Katie Zacharia, nouvelle porte-parole de la Maison-Blanche, n'a pas réussi l'examen du barreau et doit justifier son expérience juridique lors de sa première semaine en fonction."
+      "sujet": "Pont Honoré-Mercier urgence",
+      "fait": "Une fissure a été détectée sur l'une des poutres du pont Honoré-Mercier reliant Montréal à la Rive-Sud. Des réparations d'urgence sont programmées pour ce week-end. Selon Le Devoir et Les Affaires."
     },
     {
-      "sujet": "Intégration Plex-Fandango",
-      "fait": "Selon Ars Technica, Plex s'associe à Fandango pour proposer aux utilisateurs américains une option d'achat de billets de cinéma directement sur la plateforme à partir d'aujourd'hui."
+      "sujet": "Arrêt dans le meurtre de Leïla Ben Salem",
+      "fait": "Un homme de 33 ans a été arrêté pour le meurtre de Leïla Ben Salem, une Montréalaise de 45 ans tuée lors d'une visioconférence de travail il y a près d'un mois. Il sera accusé de meurtre au premier degré. Selon La Presse et Global News."
     },
     {
-      "sujet": "Jackpot de loterie au Canada",
-      "fait": "Selon CBC, le tirage Lotto Max de vendredi offre un gros lot de 90 millions de dollars, le plus grand jamais disponible au Canada."
+      "sujet": "Accident de bus à Calgary",
+      "fait": "Un accident impliquant un autobus municipal à Calgary a fait trois morts et 16 blessés jeudi. Selon CBC."
     },
     {
-      "sujet": "Inondations à Istanbul",
-      "fait": "Selon Al Jazeera, trois personnes ont trouvé la mort et plusieurs sont portées disparues après des pluies torrentielles ayant déclenché des inondations sévères à Istanbul."
+      "sujet": "Crash bus-train Tunnel sous la Manche",
+      "fait": "Un autobus a heurté un train arrêté du côté français du Tunnel sous la Manche, faisant 19 blessés. Deux personnes ont été héliportées à l'hôpital mais aucune vie n'était en danger. Selon BBC World."
     },
     {
-      "sujet": "Collision bus-train en France",
-      "fait": "Selon BBC World, un minibus a heurté un train arrêté du côté français du tunnel sous la Manche, blessant 19 personnes dont deux gravement."
+      "sujet": "Pipelines endommagés en Syrie",
+      "fait": "Deux pipelines syriens ont été endommagés lors d'une série d'attaques contre les infrastructures énergétiques, dont un vol de carburant sur la ligne Banias-Homs et un incendie sur la ligne d'exportation de gaz à Hasaka. Selon Al Jazeera."
     },
     {
-      "sujet": "Serment du Parti Québécois",
-      "fait": "Selon National Post, Paul St-Pierre Plamondon et les 58 députés élus du Parti Québécois ont prêté serment en s'engageant envers « le peuple du Québec » plutôt que le Roi Charles III."
+      "sujet": "Intero Biosystems remporte Disrupt",
+      "fait": "Intero Biosystems a remporté le grand prix de 100 000 dollars du Startup Battlefield à TechCrunch Disrupt 2026, en battant 199 autres entreprises. Selon TechCrunch."
     },
     {
-      "sujet": "Partenariats commerciaux Canada-Inde",
-      "fait": "Selon CBC World, la plus importante mission commerciale canadienne en Inde en 30 ans a conclu environ 30 partenariats commerciaux valant 300 millions de dollars."
+      "sujet": "Retraits de jeux vidéo stratégie",
+      "fait": "Sega a retiré Total War: Shogun 2 - Complete Edition des magasins suite à un lancement désastreux marqué par des bogues et un upscaling apparemment réalisé par IA, entraînant une note 'Extrêmement négatif' sur Steam. Selon The Verge."
     },
     {
-      "sujet": "Nouveau supercar Porsche",
-      "fait": "Selon Ars Technica, Porsche a dévoilé le concept Mission S, un supercar mid-moteur qui se positionnera au-dessus de la 911 et sera produit en série à partir de 2035."
-    },
-    {
-      "sujet": "Modèle IA Meta pour Mac",
-      "fait": "Selon TechCrunch, Meta a lancé Muse Spark Open, un modèle IA fonctionnant localement sur silicone Apple en partenariat avec Apple."
+      "sujet": "Investiture députés péquistes Québec",
+      "fait": "Pauline Marois et Jean Royer formeront les nouveaux députés du PQ à l'Assemblée nationale avant la rentrée parlementaire. L'élection du 5 octobre a renouvelé plus des deux tiers de l'Assemblée nationale. Selon Radio-Canada et La Presse."
     }
   ]
 }
