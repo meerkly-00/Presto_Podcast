@@ -1,46 +1,54 @@
 {
-  "generated_at": "2026-10-17T16:09:19.626173+00:00",
+  "generated_at": "2026-10-17T21:14:42.125601+00:00",
   "window_hours": 8,
   "faits": [
     {
-      "sujet": "Manifestations en France",
-      "fait": "Plus de 500 000 manifestants ont défilé en France samedi, avec environ 300 arrestations selon Radio-Canada."
+      "sujet": "Leadership Conservateurs Nouveau-Brunswick",
+      "fait": "Daniel Allain, ancien ministre du Cabinet du gouvernement progressiste-conservateur, a remporté la course à la direction du Parti progressiste-conservateur du Nouveau-Brunswick avec plus de la moitié des votes du parti. Selon Global News."
     },
     {
-      "sujet": "Santé du pape Léon",
-      "fait": "Le pape Léon a quitté l'hôpital Gemelli de Rome quatre jours après une opération pour un cancer du poumon, selon Le Devoir et Al Jazeera."
+      "sujet": "Manifestations coût de la vie Europe",
+      "fait": "Des centaines de milliers de personnes ont participé à des manifestations séparées en Belgique, Italie, Portugal et France pour protester contre le coût de la vie, exerçant une pression sur les gouvernements de l'UE. Selon Al Jazeera."
     },
     {
-      "sujet": "IA et économie mondiale",
-      "fait": "Le FMI pointe une concentration de l'industrie de l'IA sur un nombre restreint de pays, créant un monde à deux vitesses selon Radio-Canada."
+      "sujet": "Troubles en France manifestations",
+      "fait": "Plus de 400 interpellations ont eu lieu samedi en France lors de manifestations marquées par des violences et des pillages dans plusieurs villes. Selon Radio-Canada."
     },
     {
-      "sujet": "Élection municipale en Colombie-Britannique",
-      "fait": "Les bureaux de vote sont ouverts en Colombie-Britannique pour l'élection municipale de 2026, avec couverture en direct jusqu'à minuit PT selon Global News."
+      "sujet": "Affrontements police Albanie",
+      "fait": "Des affrontements violents ont éclaté samedi entre manifestants et police antiémeute à Tirana, en Albanie, avec des allégations de brutalité policière. Selon BBC World et Al Jazeera."
     },
     {
-      "sujet": "Référendum sur l'indépendance albertaine",
-      "fait": "Un référendum sur l'indépendance de l'Alberta doit avoir lieu lundi, avec des sondages suggérant une majorité pour rester dans la Confédération selon Global News."
+      "sujet": "Incendie resort plage Bangladesh",
+      "fait": "Dix personnes, dont six membres d'une même famille, ont été tuées dans un incendie à un resort balnéaire au Bangladesh. Selon Al Jazeera."
     },
     {
-      "sujet": "Sanctions américaines contre la Russie",
-      "fait": "Le président Trump a signé un décret suspendant plusieurs sanctions contre la Russie pour des raisons de sécurité nationale selon la BBC World."
+      "sujet": "TikTok bannit compte documentaire Musk",
+      "fait": "TikTok a suspendu de manière permanente le compte de promotion du documentaire sur Elon Musk d'Alex Gibney juste avant sa sortie générale. Selon TechCrunch et The Verge."
     },
     {
-      "sujet": "Différend Trump-Zelensky",
-      "fait": "Le président Zelensky a appelé au soutien de nouvelles sanctions contre la Russie heures après que Trump ait suspendu des restrictions selon CBC World."
+      "sujet": "Trump suspension sanctions Russie",
+      "fait": "Le président Trump a temporairement levé plusieurs restrictions contre la Russie adoptées récemment par le Congrès, citant des préoccupations de 'sécurité nationale'. Selon BBC World."
     },
     {
-      "sujet": "Meta et extraction de contenu",
-      "fait": "Meta a supprimé de ses conditions commerciales le langage autorisant l'extraction de contenu de sites d'actualités pour l'entraînement de l'IA selon The Verge."
+      "sujet": "Ontario importe électricité États-Unis",
+      "fait": "L'Ontario importera de l'électricité des États-Unis cet hiver, annonce l'opérateur indépendant d'électricité de la province, quelques mois après que le premier ministre Doug Ford ait menacé de réduire les exportations d'électricité vers les États-Unis. Selon CBC."
     },
     {
-      "sujet": "SpaceX et secteur télécom",
-      "fait": "SpaceX a acquis un spectre de bande basse et obtenu l'approbation de la FCC pour 15 000 satellites Starlink de nouvelle génération pour devenir opérateur mobile selon The Verge."
+      "sujet": "Banque du Canada inflation mondiale",
+      "fait": "Le gouverneur Tiff Macklem de la Banque du Canada met en garde contre une résilience mondiale 'mise à rude épreuve' et prévient que les prix élevés de l'énergie à l'échelle mondiale vont faire augmenter l'inflation au Canada. Selon Reuters et Le Devoir."
     },
     {
-      "sujet": "Vote syndical chez Stellantis",
-      "fait": "Les travailleurs de Stellantis au Canada votent sur un mandat de grève alors que les négociations collectives restent bloquées selon Global News."
+      "sujet": "Election municipale Colombie-Britannique",
+      "fait": "Les résidents de la Colombie-Britannique votent aux élections municipales le samedi 17 octobre 2026, les bureaux de vote étant ouverts de 8 h à 20 h. Selon Global News."
+    },
+    {
+      "sujet": "Replit change fournisseur modèle IA",
+      "fait": "Replit a remplacé Anthropic par OpenAI comme fournisseur de modèle par défaut, bien que Claude reste disponible pour les clients sur la plateforme. Selon TechCrunch."
+    },
+    {
+      "sujet": "Musk règlement poursuites loterie vote",
+      "fait": "Elon Musk a accepté de régler deux poursuites en justice déposées par des résidents de l'Arizona concernant sa loterie de distribution de 1 million de dollars aux électeurs, les détails du règlement n'ayant pas été publiés. Selon The Verge."
     }
   ]
 }
