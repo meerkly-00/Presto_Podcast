@@ -1,0 +1,14 @@
+{
+  "date": "2026-10-17",
+  "kind": "poll",
+  "text": "Ce matin → Trump suspend les sanctions contre la Russie adoptées par le Congrès.\n\nNouveau : Républicains et démocrates dénoncent la décision, affirmant qu'elle affaiblit le\n\nComment devraient être gérées les sanctions contre la Russie dans le contexte du conflit en Ukraine?",
+  "poll": {
+    "options": [
+      "Les renforcer pour",
+      "Les maintenir au niveau",
+      "Les réduire pour négocier",
+      "Les adapter selon les"
+    ],
+    "duration_minutes": 1440
+  }
+}
