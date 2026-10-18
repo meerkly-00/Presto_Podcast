@@ -1,0 +1,89 @@
+# Script Presto — dimanche 18 octobre 2026
+
+```xml
+<script>
+  <intro>Bonjour, on est le dimanche dix-huit octobre deux mille vingt-six. Voici votre Presto en environ quinze minutes. Au menu : l'incendie meurtrier dans une base militaire en Alberta, le référendum albertain qui approche, les émeutes en France, le dossier des sanctions russes, et un mot sur la tech et le sport.</voici>
+
+  <chapitre titre="Actualité canadienne : incendie meurtrier en Alberta">
+    On commence par un événement majeur survenu cette nuit. Selon Radio-Canada, un incendie a frappé une base militaire à Wainwright, en Alberta, faisant des morts et des blessés. Le bilan exact des victimes n'est pas encore établi, mais un médecin d'Edmonton a qualifié l'événement de rare catastrophe.
+
+    Reuters confirme que des décès ont été constatés à la suite de ce qui est décrit comme un incident grave survenu dans cette base des Forces armées canadiennes. La Financial Times rapporte également plusieurs morts et blessés dans cet incendie.
+
+    On continue de suivre la situation. Presto y reviendra dès que davantage d'informations seront connues.
+  </chapitre>
+
+  <chapitre titre="Politique canadienne : référendum albertain">
+    En Alberta, la campagne référendaire entre dans sa dernière ligne droite. Selon Radio-Canada, les Albertains sauront lundi s'ils entament des démarches en vue d'un référendum sur l'indépendance de la province.
+
+    Un sondage rapporté par Global News indique que l'option de la séparation n'est pas très probable : moins du quart des Albertains appuient la tenue d'un vote sur une séparation. Le même sondage montre cependant que l'appui envers les neuf autres questions soumises au scrutin de lundi continue de croître.
+
+    Sur cet enjeu, les points de vue s'opposent fortement. Selon Radio-Canada, le militant Benoit Trudeau et l'ancien premier ministre Jason Kenney défendent des positions diamétralement opposées sur l'utilité de ce référendum : l'un y voit un message nécessaire à envoyer à Ottawa, l'autre s'inquiète du prix politique d'une telle démarche.
+
+    Un débat national sur l'immigration pourrait aussi suivre cette consultation. Selon Global News, cette discussion est d'autant plus probable si le référendum albertain débouche sur un appui majoritaire à certaines propositions de politiques migratoires soumises aux électeurs.
+  </chapitre>
+
+  <chapitre titre="International : émeutes en France et tensions sociales">
+    En France, la situation s'est détériorée samedi. Selon la BBC, environ mille huit cents personnes ont été arrêtées après que des manifestations nationales ont dégénéré en violence et en vandalisme. Des voitures incendiées et des vitrines brisées ont marqué les rues de Paris.
+
+    L'Associated Press rapporte que des affrontements, des incendies et du pillage ont éclaté alors que les manifestants se sont joints aux étudiants déjà mobilisés. Le National Post précise que ces manifestations contre la vie chère surviennent à l'approche d'élections pour remplacer le président Emmanuel Macron, et que des manifestants ont promis de faire trembler le gouvernement.
+
+    Le Devoir explique que cette colère contre le coût de la vie s'est propagée dans les rues depuis la mobilisation initiale des lycéens, rejoints samedi par plusieurs groupes de la société.
+
+    Ailleurs, aux États-Unis, des rassemblements de type No Kings ont eu lieu samedi à travers le pays. Selon l'Associated Press, ces manifestations visaient à encourager les électeurs à voter tôt en vue des élections de mi-mandat.
+  </chapitre>
+
+  <chapitre titre="International : dossier Russie-Ukraine">
+    Du côté de la diplomatie, le dossier des sanctions russes continue d'évoluer rapidement. Selon Reuters, le secrétaire d'État américain Marco Rubio a indiqué que Donald Trump prendra jusqu'à soixante jours pour étudier la question des sanctions contre la Russie, après avoir suspendu la semaine dernière un important train de mesures.
+
+    CBC rapporte que le président ukrainien Volodymyr Zelensky a exhorté ses appuis samedi à défendre publiquement ces nouvelles sanctions américaines contre l'économie russe, quelques heures après que Donald Trump a signé un décret les suspendant.
+
+    En parallèle, Al Jazeera rapporte que Marco Rubio a confirmé que l'Ukraine n'a pas accès au système Starshield, la version militaire du réseau satellite Starlink, et que l'avenir de cet accès reste à l'étude. Selon cette source, l'Ukraine a demandé cet accès pour mener des frappes en profondeur sur le territoire russe.
+
+    Toujours dans cette région du monde, Reuters rapporte que le premier ministre hongrois a affirmé que Volodymyr Zelensky a demandé à ses voisins de laisser passer des cargaisons de céréales.
+  </chapitre>
+
+  <chapitre titre="International : Moyen-Orient et tensions régionales">
+    Au Moyen-Orient, la situation demeure tendue sur plusieurs fronts. Selon la BBC, des colons israéliens ont attaqué des diplomates européens en Cisjordanie occupée. L'armée israélienne a condamné cette violence, tandis que le bureau du premier ministre israélien a qualifié l'incident de campagne de dénigrement. L'Associated Press confirme que les diplomates européens, masqués par leurs assaillants, ont été pris pour cible.
+
+    Le Devoir rapporte que l'Arabie saoudite a intercepté des drones dans un contexte d'attaques quasi quotidiennes menées depuis le début du mois d'octobre par les Houthis proiraniens du Yémen. Selon cette source, l'Égypte envisage d'intervenir pour défendre le royaume saoudien.
+
+    Al Jazeera précise par ailleurs que les combats s'intensifient à travers le Yémen entre les forces yéménites et les Houthis, causant des victimes des deux côtés, alors que les agences humanitaires mettent en garde contre une crise qui s'aggrave.
+
+    Toujours selon Al Jazeera, au Soudan, la guerre civile fait grimper le coût des médicaments, forçant des patients atteints de maladies chroniques à choisir entre se nourrir et se soigner.
+  </chapitre>
+
+  <chapitre titre="Économie et marchés">
+    On passe à l'économie. Au Canada, le gouverneur de la Banque du Canada a lancé une mise en garde. Selon Le Devoir, Tiff Macklem a averti que la résilience de l'économie mondiale est mise à rude épreuve, et que les prix élevés de l'énergie à l'échelle planétaire vont faire grimper l'inflation au pays. BNN Bloomberg rapporte dans le même sens que des prix énergétiques mondiaux élevés pourraient nuire aux perspectives d'inflation, selon le gouverneur de la banque centrale. Les Affaires ajoute que la Banque du Canada reste sur le qui-vive et que les taux d'intérêt pourraient remonter.
+
+    Du côté des marchés américains, Bloomberg rapporte que les difficultés financières de l'entreprise CoreWeave risquent de fragiliser le marché des obligations à haut risque liées à l'intelligence artificielle.
+
+    Dans le secteur manufacturier canadien, CBC rapporte que l'aciériste Stelco prévoit de licencier jusqu'à cinq cents employés à Hamilton et à Nanticoke, en Ontario. L'entreprise, propriété américaine, soutient qu'il s'agit d'une conséquence temporaire de la guerre commerciale entre le Canada et les États-Unis. Toujours selon CBC, de nouvelles technologies et une évolution de la demande contribuent également, en parallèle des tarifs douaniers, à réduire la main-d'œuvre dans l'industrie de l'acier.
+
+    Enfin, dans la Financial Times, un sondage suggère que l'économie mondiale pourrait connaître une poussée de croissance tirée par l'intelligence artificielle.
+  </chapitre>
+
+  <chapitre titre="Tech">
+    En tech, Meta a de nouveau modifié ses conditions d'utilisation. Selon The Verge, l'entreprise a retiré un passage qui laissait croire qu'elle pouvait aspirer le contenu de sites web, incluant des sites de nouvelles, pour entraîner son intelligence artificielle. Un porte-parole de Meta a insisté sur le fait que cette mise à jour ne reflète pas un changement dans la façon dont l'entreprise explore le web.
+
+    Du côté d'Anthropic, TechCrunch rapporte que la composition de l'effectif de l'entreprise a changé de façon marquée au cours de la dernière année, avec moins de postes juniors et davantage de temps passé en réunions. En parallèle, Reuters rapporte que des investisseurs revoient à la baisse leurs attentes concernant la valorisation d'un premier appel public à l'épargne d'Anthropic, en raison d'un ralentissement de la croissance des revenus.
+
+    Toujours selon TechCrunch, l'entreprise Replit a annoncé qu'OpenAI remplace désormais Anthropic comme fournisseur de modèles par défaut sur sa plateforme, bien que les outils Claude d'Anthropic y demeurent accessibles.
+
+    Ailleurs en tech, TikTok a banni de façon permanente le compte publicitaire d'un documentaire consacré à Elon Musk, selon The Verge. Toujours sur le dossier Musk, l'entrepreneur a réglé à l'amiable des poursuites concernant un tirage au sort d'un million de dollars américains par jour promis à des électeurs inscrits lors de l'élection de deux mille vingt-quatre. Les détails de l'entente n'ont pas été rendus publics.
+  </chapitre>
+
+  <chapitre titre="Sport">
+    Rapidement en sport. Au hockey, Sportsnet rapporte que les Oilers d'Edmonton ont infligé une raclée aux Mammoth samedi, l'emportant six à deux dans un match jamais serré, Connor McDavid menant l'attaque.
+
+    À Toronto, les Maple Leafs tombent au dernier rang de la division Atlantique après une défaite face aux Islanders de New York, toujours selon Sportsnet.
+
+    À Montréal, TVA Sports souligne qu'Oliver Kapanen fait un retour au jeu contre les Sabres de Buffalo après s'être blessé à un moment jugé particulièrement mauvais pour le Canadien.
+
+    En arts martiaux mixtes, TVA Sports rapporte que le Québécois Marc-André Barriault a remporté une victoire remarquée à l'événement UFC d'Edmonton.
+
+    Du côté du football canadien, Global News rapporte que les Lions de la Colombie-Britannique cherchent à conserver leur élan en vue de la demi-finale de la division Ouest de la Ligue canadienne de football.
+  </chapitre>
+
+  <outro>Voilà pour ce Presto du dimanche dix-huit octobre deux mille vingt-six. Si ce briefing vous est utile, le meilleur coup de main que vous pouvez nous donner, c'est de le partager à une personne qui aime rester informée. Et selon votre plateforme : un abonnement sur Spotify ou Apple Podcasts, un pouce bleu et un abonnement sur YouTube, ça prend deux secondes et ça aide vraiment Presto à grandir. Sur ce, bonne journée, et à demain.</outro>
+</script>
+```
