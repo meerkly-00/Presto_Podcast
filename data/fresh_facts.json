@@ -1,54 +1,50 @@
 {
-  "generated_at": "2026-10-17T23:45:38.266458+00:00",
+  "generated_at": "2026-10-18T16:22:24.094981+00:00",
   "window_hours": 8,
   "faits": [
     {
-      "sujet": "Manifestations en France contre le coût de vie",
-      "fait": "Plus de 500 000 Français se sont mobilisés samedi dans des manifestations contre le coût de la vie, avec plus de 1 200 interpellations policières et des violences signalées dans plusieurs villes. Selon la BBC et Radio-Canada, des affrontements ont éclaté entre manifestants et forces de l'ordre."
+      "sujet": "Incendie base militaire Alberta",
+      "fait": "Au moins sept personnes ont été tuées et des dizaines d'autres ont été blessées lors d'une explosion et d'un incendie à CFB Wainwright en Alberta, selon des sources de CBC News rapportées par National Post et Radio-Canada."
     },
     {
-      "sujet": "Protestations aux États-Unis avant les élections",
-      "fait": "Plus de 3 000 événements ont été organisés aux États-Unis samedi pour inciter les Américains à voter, dans le cadre du mouvement « No Kings ». Selon Radio-Canada et Al Jazeera, cette mobilisation vise à transformer la contestation anti-Trump en votes aux élections de mi-mandat."
+      "sujet": "Leadership CAQ Québec",
+      "fait": "Mathieu Lévesque, ancien député de Chapleau, a été nommé chef par intérim de la Coalition avenir Québec (CAQ), selon Radio-Canada et La Presse."
     },
     {
-      "sujet": "Trump lève des sanctions contre la Russie",
-      "fait": "Le président Trump a levé temporairement plusieurs sanctions contre la Russie récemment adoptées par le Congrès, invoquant des « préoccupations de sécurité nationale ». Selon la BBC, cette décision intervient dans un contexte de tensions avec Zelensky."
+      "sujet": "Aide à domicile Santé Québec",
+      "fait": "Santé Québec a modifié sa stratégie de sélection des prestataires en relégant le critère du plus bas soumissionnaire au second plan, suite aux critiques d'entreprises d'économie sociale, selon La Presse et Le Devoir."
     },
     {
-      "sujet": "Retour du Pape Léon XIV au Vatican",
-      "fait": "Le Pape Léon XIV est retourné au Vatican quatre jours après une chirurgie pour un cancer du poumon, son chirurgien déclarant qu'il n'existe « aucune raison clinique » qui empêcherait son voyage prévu en Amérique latine le mois prochain. Selon la CBC et Reuters."
+      "sujet": "Attaques contre diplomates en Cisjordanie",
+      "fait": "Des colons israéliens ont attaqué des diplomates européens en Cisjordanie occupée, ce que l'UE a condamné en demandant des comptes. L'armée israélienne a condamné la violence, mais le bureau du Premier ministre l'a qualifiée de campagne de désinformation, selon BBC World."
     },
     {
-      "sujet": "Interception de drones en Arabie Saoudite",
-      "fait": "Les forces d'une coalition dirigée par l'Arabie Saoudite ont intercepté et détruit quatre drones au-dessus de Riyad, de la Province orientale et de la région sud. Selon Al Jazeera, l'Égypte envisage d'envoyer une aide."
+      "sujet": "Élections en Israël octobre 2026",
+      "fait": "Les Israéliens voteront le 27 octobre 2026 pour la première fois en quatre ans, dans ce que nombreux qualifient d'élection la plus conséquente de l'histoire du pays, selon le National Post."
     },
     {
-      "sujet": "Violences entre police et manifestants en Albanie",
-      "fait": "Des affrontements violents ont éclaté samedi entre manifestants anti-gouvernementaux et forces de l'ordre en tenue antiémeute dans la capitale Tirana. Selon la BBC."
+      "sujet": "Manifestations violentes en France",
+      "fait": "Environ 1 800 personnes ont été arrêtées lors de manifestations nationales en France qui ont dégénéré en violences et pillages, selon BBC World."
     },
     {
-      "sujet": "Protestations de coût de vie en Europe",
-      "fait": "Des centaines de milliers de personnes ont manifesté samedi en Belgique, Italie, Portugal et France contre le coût de la vie, exerçant une pression sur les gouvernements de l'UE. Selon Al Jazeera."
+      "sujet": "Manifestations en Albanie sixième jour",
+      "fait": "La police a répliqué aux manifestations étudiantes à Tirana pendant un sixième jour consécutif avec des balles en caoutchouc, des canons à eau et des gaz lacrymogènes, selon Al Jazeera."
     },
     {
-      "sujet": "Ontario importe de l'électricité américaine",
-      "fait": "L'Ontario importera de l'électricité des États-Unis cet hiver, selon l'annonce de l'opérateur électrique indépendant provincial, quelques mois après que le premier ministre Doug Ford ait menacé de réduire les exportations vers les États-Unis. Selon la CBC."
+      "sujet": "Attaques de drones ukrainiens en Russie",
+      "fait": "L'Ukraine a lancé plus de 1 000 drones contre la Russie, mettant le feu à un terminal d'export pétrolier et à un dépôt à Saint-Pétersbourg, selon CBC World."
     },
     {
-      "sujet": "TikTok interdit le compte du documentaire Musk",
-      "fait": "TikTok a suspendu de façon permanente le compte de publicité pour le documentaire sur Elon Musk réalisé par Alex Gibney. Selon TechCrunch et The Verge, cette interdiction intervient avant la sortie généralisée du film."
+      "sujet": "Microsoft se retire accord Nscale",
+      "fait": "Microsoft s'est retiré d'un accord d'établissement de centre de données au Royaume-Uni avec Nscale, selon Reuters."
     },
     {
-      "sujet": "Hurricane Trudy atteint catégorie 2",
-      "fait": "L'ouragan Trudy s'est renforcé pour atteindre la catégorie 2 en s'approchant de la côte mexicaine. Selon Associated Press."
+      "sujet": "Attaques installations pétrolières Saint-Pétersbourg",
+      "fait": "Au moins une personne a été tuée lors de frappes contre des installations pétrolières à Saint-Pétersbourg, qui ont aussi endommagé un centre de données utilisé par l'équivalent russe de Facebook, selon BBC World."
     },
     {
-      "sujet": "Incendie dans un resort au Bangladesh",
-      "fait": "Un incendie dans un resort balnéaire au Bangladesh a tué dix personnes, dont six membres d'une même famille. Selon Al Jazeera."
-    },
-    {
-      "sujet": "Meta modifie ses conditions sur le scraping IA",
-      "fait": "Meta a supprimé du libellé de ses conditions d'utilisation le langage qui soulevait des préoccupations concernant le scraping web et l'entraînement de l'IA. Un porte-parole a insisté sur le fait que cette modification ne reflète pas un changement dans la façon dont Meta parcourt le web. Selon TechCrunch."
+      "sujet": "Référendum indépendance Alberta",
+      "fait": "Les Albertains se prononceront lundi sur la tenue d'un référendum sur l'indépendance de la province, avec environ 658 000 bulletins de vote par correspondance envoyés représentant environ 20 % des trois millions d'électeurs inscrits, selon Le Devoir."
     }
   ]
 }
