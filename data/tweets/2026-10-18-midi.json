@@ -1,0 +1,14 @@
+{
+  "date": "2026-10-18",
+  "kind": "poll",
+  "text": "Ce matin → Au moins 7 morts à la base militaire de Wainwright en Alberta.\n\nLes Forces armées devraient-elles renforcer les protocoles de sécurité incendie dans les bases militaires?",
+  "poll": {
+    "options": [
+      "Oui, immédiatement",
+      "Oui, après enquête",
+      "Évaluer d'abord les",
+      "Non, protocoles"
+    ],
+    "duration_minutes": 1440
+  }
+}
