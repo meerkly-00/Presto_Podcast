@@ -1,50 +1,46 @@
 {
-  "generated_at": "2026-10-18T16:22:24.094981+00:00",
+  "generated_at": "2026-10-18T21:16:42.500288+00:00",
   "window_hours": 8,
   "faits": [
     {
-      "sujet": "Incendie base militaire Alberta",
-      "fait": "Au moins sept personnes ont été tuées et des dizaines d'autres ont été blessées lors d'une explosion et d'un incendie à CFB Wainwright en Alberta, selon des sources de CBC News rapportées par National Post et Radio-Canada."
+      "sujet": "Incendie base militaire canadienne",
+      "fait": "Au moins quatre militaires ont été tués et des dizaines blessés dans un violent incendie à la base Wainwright en Alberta samedi. Selon Global News, le feu a été déclenché par un exercice d'entraînement en direct qui a provoqué une explosion."
     },
     {
-      "sujet": "Leadership CAQ Québec",
-      "fait": "Mathieu Lévesque, ancien député de Chapleau, a été nommé chef par intérim de la Coalition avenir Québec (CAQ), selon Radio-Canada et La Presse."
+      "sujet": "Émeutes et violences en France",
+      "fait": "Le président Emmanuel Macron a condamné les violences lors de manifestations nationwide en France, dénonçant l'« unbridled violence » sans annoncer d'état d'urgence ou de couvre-feu. Selon Al Jazeera, des pillages ont continué à Paris."
     },
     {
-      "sujet": "Aide à domicile Santé Québec",
-      "fait": "Santé Québec a modifié sa stratégie de sélection des prestataires en relégant le critère du plus bas soumissionnaire au second plan, suite aux critiques d'entreprises d'économie sociale, selon La Presse et Le Devoir."
+      "sujet": "Protestations en Albanie",
+      "fait": "Des manifestants anti-gouvernementaux ont incendié le bâtiment de la Cour suprême à Tirana alors que les protestations entraient dans leur cinquième jour. Selon Al Jazeera, des bureaux ont été ravagés par les flammes."
     },
     {
-      "sujet": "Attaques contre diplomates en Cisjordanie",
-      "fait": "Des colons israéliens ont attaqué des diplomates européens en Cisjordanie occupée, ce que l'UE a condamné en demandant des comptes. L'armée israélienne a condamné la violence, mais le bureau du Premier ministre l'a qualifiée de campagne de désinformation, selon BBC World."
+      "sujet": "Anthropic engagement transparence IA",
+      "fait": "Anthropic s'engage à consacrer 5% de ses actions à un 'fonds d'intérêt public'. Selon TechCrunch, l'entreprise a également accordé à METR, un organisme externe de surveillance, un accès de type 'employé' pour évaluer les risques de ses modèles."
     },
     {
-      "sujet": "Élections en Israël octobre 2026",
-      "fait": "Les Israéliens voteront le 27 octobre 2026 pour la première fois en quatre ans, dans ce que nombreux qualifient d'élection la plus conséquente de l'histoire du pays, selon le National Post."
+      "sujet": "Soutien Trump à Netanyahou",
+      "fait": "Le président américain Donald Trump a apporté son soutien complet au premier ministre israélien Benjamin Netanyahu avant les élections. Selon National Post, cet appui survient après des mois de tensions croissantes entre les deux dirigeants."
     },
     {
-      "sujet": "Manifestations violentes en France",
-      "fait": "Environ 1 800 personnes ont été arrêtées lors de manifestations nationales en France qui ont dégénéré en violences et pillages, selon BBC World."
+      "sujet": "Relance partage renseignements Ukraine",
+      "fait": "Les États-Unis ont repris le partage de renseignements avec l'Ukraine après une pause. Selon Reuters, le président Zelenskiy a confirmé cette reprise."
     },
     {
-      "sujet": "Manifestations en Albanie sixième jour",
-      "fait": "La police a répliqué aux manifestations étudiantes à Tirana pendant un sixième jour consécutif avec des balles en caoutchouc, des canons à eau et des gaz lacrymogènes, selon Al Jazeera."
+      "sujet": "Dettes géantes industrie IA",
+      "fait": "L'industrie de l'IA accumule des dettes colossales qui inquiètent les investisseurs. Selon The Economist, la question se pose quant à qui devrait assumer les coûts en cas d'effondrement."
     },
     {
-      "sujet": "Attaques de drones ukrainiens en Russie",
-      "fait": "L'Ukraine a lancé plus de 1 000 drones contre la Russie, mettant le feu à un terminal d'export pétrolier et à un dépôt à Saint-Pétersbourg, selon CBC World."
+      "sujet": "Disney acquiert personnel Character.AI",
+      "fait": "Disney a accepté d'embaucher la majorité de la main-d'œuvre de Character.AI. Selon TechCrunch, la 'vast majority' des employés de Character.AI ayant reçu une offre l'ont acceptée, bien qu'il s'agisse d'une enchère à effet de levier."
     },
     {
-      "sujet": "Microsoft se retire accord Nscale",
-      "fait": "Microsoft s'est retiré d'un accord d'établissement de centre de données au Royaume-Uni avec Nscale, selon Reuters."
+      "sujet": "Réformes système immigration Canada",
+      "fait": "Ottawa révise le système d'Entrée express pour attirer les travailleurs qualifiés. Selon Les Affaires, une refonte des politiques d'immigration est en cours."
     },
     {
-      "sujet": "Attaques installations pétrolières Saint-Pétersbourg",
-      "fait": "Au moins une personne a été tuée lors de frappes contre des installations pétrolières à Saint-Pétersbourg, qui ont aussi endommagé un centre de données utilisé par l'équivalent russe de Facebook, selon BBC World."
-    },
-    {
-      "sujet": "Référendum indépendance Alberta",
-      "fait": "Les Albertains se prononceront lundi sur la tenue d'un référendum sur l'indépendance de la province, avec environ 658 000 bulletins de vote par correspondance envoyés représentant environ 20 % des trois millions d'électeurs inscrits, selon Le Devoir."
+      "sujet": "Crise drogue synthétique États-Unis",
+      "fait": "Une nouvelle vague de drogues synthétiques traverse les États-Unis, aggravant la crise des drogues. Selon la BBC, les communautés du South Side de Chicago sont en première ligne de cette crise."
     }
   ]
 }
