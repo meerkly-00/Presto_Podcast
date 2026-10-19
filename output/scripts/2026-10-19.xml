@@ -1,0 +1,103 @@
+```xml
+<script>
+  <intro>Bonjour, on est le lundi dix-neuf octobre deux mille vingt-six. Voici votre Presto en environ quinze minutes. Au menu : le référendum en Alberta, la tragédie de Wainwright, les violences en France, le dossier Russie-Ukraine, l'économie mondiale et un mot sur la tech.</intro>
+
+  <chapitre titre="Politique canadienne : référendum albertain">
+    On commence par l'Alberta, où les électeurs se rendent aux urnes aujourd'hui pour un référendum crucial. Selon Radio-Canada, plus de deux millions neuf cent soixante-six mille électeurs peuvent exercer leur droit de vote sur dix questions, dont celle concernant la place de l'Alberta au sein du Canada.
+
+    La question centrale, numéro dix, offre deux options. La première : l'Alberta doit rester une province du Canada. La deuxième : le gouvernement albertain devrait entamer le processus légal prévu par la Constitution canadienne en vue d'un référendum contraignant sur la séparation.
+
+    Les bureaux de scrutin ferment à vingt heures, heure des Rocheuses, mais toute personne déjà dans la file pourra voter. Selon Radio-Canada, les résultats de cette question centrale devraient être connus mardi matin, tandis que ceux des neuf autres questions, portant notamment sur l'immigration et des réformes constitutionnelles, seront publiés le vingt et un octobre. Tous les bulletins seront comptés à la main.
+
+    La BBC rapporte que les sondages suggèrent que la majorité des Albertains souhaitent demeurer au sein du Canada, même si le débat lui-même s'est révélé très clivant dans la province.
+
+    Ce vote survient dans un contexte particulier. Selon The Hub, la tragédie de Wainwright, survenue samedi, a changé la tonalité de la campagne référendaire dans les derniers jours.
+  </chapitre>
+
+  <chapitre titre="Actualité canadienne : tragédie de Wainwright">
+    On reste en Alberta pour un suivi sur l'incendie meurtrier survenu samedi à la base militaire de Wainwright. Selon Radio-Canada, quatre militaires canadiens sont morts et trente-neuf autres personnes ont été blessées, dont dix-neuf dans un état critique, lors d'un exercice d'entraînement.
+
+    Les quatre soldats décédés ont été identifiés : le sergent Morgan Wong, d'Edmonton, le soldat Shaun Farrell, de Prince Albert en Saskatchewan, le soldat Hayden Lykkemark, de Langley en Colombie-Britannique, et le soldat Aidan Goulding, de North Vancouver. Selon Global News, les quatre hommes étaient rattachés à la garnison d'Edmonton.
+
+    Le premier ministre Mark Carney a qualifié l'événement, je le cite : "une des pires tragédies ayant touché les forces armées sur le sol canadien en temps de paix". Fin de citation. Il a annoncé la mise en berne des drapeaux sur les bâtiments fédéraux.
+
+    La première ministre albertaine Danielle Smith a précisé le bilan des blessés. Selon le général Wade Rutland, cité par Radio-Canada, un feu de végétation s'est déclaré pendant l'exercice et la cause fait actuellement l'objet d'une enquête approfondie.
+
+    Un mémo des Forces armées canadiennes, obtenu par Global News, indique que le risque d'incendie était jugé faible avant qu'un changement soudain de direction du vent ne déclenche le brasier mortel. L'entraînement visait à préparer les soldats pour un déploiement en Lettonie prévu en avril et mai. Selon Al Jazeera, la cause exacte du feu de végétation demeure inconnue à ce stade de l'enquête.
+
+    Du côté de Radio-Canada, la base de Wainwright est décrite comme une zone d'entraînement exceptionnelle, utilisée par les Forces armées pour des exercices en conditions réelles avant les déploiements.
+  </chapitre>
+
+  <chapitre titre="International : violences en France">
+    En France, la situation politique et sociale demeure tendue après un weekend marqué par la violence. Selon la BBC, environ mille huit cents personnes ont été arrêtées après que des manifestations contre le coût de la vie ont dégénéré, avec des incendies de voitures et des vitrines brisées dans les rues de Paris.
+
+    Le président français Emmanuel Macron a condamné ce que le National Post rapporte comme, je le cite : "unbridled violence". Fin de citation, en référence aux affrontements entre policiers et manifestants survenus dimanche.
+
+    Selon Radio-Canada, ces émeutes dressent un portrait sombre de l'état du pays et soulèvent des questions sur la capacité du gouvernement français à gérer la crise. La chroniqueuse Katya Adler, de la BBC, note que la pression politique s'intensifie sur le gouvernement après ce weekend de violence généralisée.
+
+    Du côté économique, The Economist soutient qu'aucun acteur politique ne s'attaque actuellement aux problèmes de fond du pays, ce qui laisse présager de nouvelles éruptions de violence. Bloomberg rapporte de son côté que même si la classe politique française semble vouloir attendre la suite des événements, les marchés, eux, réagissent déjà à l'incertitude.
+  </chapitre>
+
+  <chapitre titre="International : dossier Russie-Ukraine et Moyen-Orient">
+    Du côté de la diplomatie entourant la guerre en Ukraine, le dossier continue d'évoluer. Le secrétaire d'État américain Marco Rubio a nié que les États-Unis aient suspendu le partage de renseignements avec l'Ukraine, selon Al Jazeera et Reuters. Ce renseignement, transmis via le système Starshield, permet à l'Ukraine de détecter les missiles balistiques rapides que la Russie lance sur ses villes.
+
+    Sur le terrain, la CBC rapporte que l'Ukraine a lancé plus de mille drones contre la Russie dimanche, l'une de ses plus importantes attaques aériennes de la guerre. Des installations pétrolières et un terminal d'exportation ont pris feu à Saint-Pétersbourg.
+
+    En parallèle, le Wall Street Journal rapporte que le pétrole a reculé après que le président Donald Trump a levé des sanctions visant la Russie. The Economist qualifie cette décision d'appui à la Russie de la part de l'administration américaine, tandis qu'un autre article de la même publication soutient que l'Europe se retrouve de plus en plus seule à soutenir l'Ukraine, sans pouvoir remplacer complètement l'appui américain.
+
+    Au Moyen-Orient, un développement est survenu dans le dossier des attaques de colons contre des journalistes et diplomates en Cisjordanie. Selon Reuters, la police israélienne a procédé à des arrestations de suspects liés à ces attaques contre un journaliste américain et des diplomates européens. L'Associated Press rapporte que le photographe visé se dit insulté par les propos du premier ministre israélien Benyamin Netanyahou sur l'incident.
+
+    Toujours en Israël, le National Post rapporte que Donald Trump a offert un appui sans réserve à la réélection de Netanyahou, après plusieurs mois de tensions croissantes entre les deux dirigeants. Les Israéliens se rendront aux urnes le vingt-sept octobre.
+
+    Enfin, au Qatar, Al Jazeera rapporte que le vice-premier ministre qatari a averti que les ondes de choc énergétiques mondiales liées à la guerre en Iran n'ont pas encore atteint leur sommet. Il appelle au dialogue avec Téhéran tout en rejetant l'imposition de frais de transit dans le détroit d'Ormuz.
+  </chapitre>
+
+  <chapitre titre="Économie et marchés">
+    On passe à l'économie. En Chine, la croissance économique s'accélère. Selon le Wall Street Journal et le Financial Times, l'économie chinoise a progressé de quatre virgule cinq pour cent au troisième trimestre, portée par les exportations.
+
+    Sur les marchés américains, Bloomberg rapporte que les contrats à terme sur actions américaines étaient en hausse à l'approche d'une semaine chargée en résultats trimestriels, notamment dans le secteur de l'intelligence artificielle. Reuters note que les préoccupations entourant la France pèsent sur les marchés européens, tandis que Wall Street garde les yeux tournés vers les résultats des entreprises technologiques.
+
+    Un sujet de fond inquiète les observateurs : selon Bloomberg, le marché obligataire montre des signes de nervosité alors que le pari sur une correction du secteur de l'intelligence artificielle vacille. The Economist souligne que les dettes gigantesques de l'industrie de l'intelligence artificielle rendent les investisseurs nerveux, posant la question de qui devra éponger la facture en cas de ralentissement marqué.
+
+    Le Financial Times rapporte par ailleurs que les hausses de taux américaines se répercutent avec encore plus de force sur les marchés mondiaux. Le Devoir souligne de son côté que l'endettement mondial continue de grimper, tout comme les taux d'intérêt qui l'accompagnent.
+
+    Du côté des entreprises, Reuters rapporte qu'Accenture chercherait à vendre ses activités chinoises pour une somme pouvant atteindre un milliard et demi de dollars américains, selon des informations du Financial Times. Les Affaires rapporte que Greg Abel, désormais à la tête de Berkshire Hathaway, sort de sa zone de confort dans la gestion du conglomérat. Toujours au Québec, Les Affaires souligne la fermeture de l'entreprise OVI Ébénisterie.
+
+    En Ontario, BNN Bloomberg rapporte que des promoteurs immobiliers à Toronto convertissent de plus en plus leurs projets de condominiums en logements locatifs, une tendance attribuée aux conditions actuelles du marché.
+  </chapitre>
+
+  <chapitre titre="Actualité québécoise">
+    Au Québec, l'Assemblée nationale amorce aujourd'hui l'étude en comité du projet de loi omnibus C-39, qui vise à accélérer les projets de développement économique. Selon La Presse, peu de voix s'opposeront formellement au projet dans ce comité : même si les conservateurs ont émis certaines réserves, ils ont jusqu'à maintenant choisi d'appuyer le gouvernement. Des groupes environnementaux, des syndicats et des leaders autochtones expriment des inquiétudes face à ce projet de loi.
+
+    Toujours en matière d'environnement, Le Devoir publie un reportage sur un projet de restauration écologique à Rivière-Ouelle, au Bas-Saint-Laurent, où un marais côtier menacé par l'érosion retrouve de l'espace grâce à un reprofilage du littoral mené par le Comité ZIP du Sud-de-l'Estuaire.
+
+    La Presse rapporte aussi la mise en place d'une première ruelle bleue-verte au Québec, au Bâtiment 7 dans le sud-ouest de Montréal, un projet conçu pour capter l'eau de pluie tout en verdissant le quartier. Il aura fallu une dizaine d'années à l'Alliance Ruelles bleues-vertes pour voir ce premier site se concrétiser.
+
+    En politique provinciale, Les Affaires rapporte que le Parti libéral du Québec a dévoilé ses officiers de l'opposition à l'Assemblée nationale.
+  </chapitre>
+
+  <chapitre titre="Tech">
+    En tech, Anthropic a annoncé un geste d'envergure. Selon TechCrunch, l'entreprise s'engage à verser cinq pour cent de ses parts à un fonds dit de bénéfice public. Ars Technica précise aussi qu'Anthropic a accordé à l'organisme de surveillance externe METR un accès comparable à celui d'un employé pour évaluer les risques de ses modèles, incluant l'accès au matériel et aux systèmes internes de l'entreprise.
+
+    Du côté du financement, TechCrunch rapporte que la société Even Healthcare, active dans le secteur hospitalier en Inde, a atteint une valorisation de trois cents millions de dollars dans une ronde menée par Khosla Ventures.
+
+    En matière de surveillance, The Verge rapporte qu'une policière de Savannah, en Géorgie, a été congédiée après avoir partagé ses accès au système de surveillance Flock avec son mari, un agent de l'agence américaine d'immigration ICE. Celui-ci aurait effectué près de mille recherches liées à des plaques d'immatriculation appartenant en très grande majorité à des conducteurs hispaniques, selon la chaîne WJCL.
+
+    Au Congrès américain, The Verge rapporte qu'un projet de loi a été déposé pour garantir aux consommateurs la propriété réelle des jeux vidéo qu'ils achètent, plutôt qu'une simple licence pouvant disparaître si une entreprise ferme ses serveurs.
+
+    Enfin, au Canada, la CBC souligne la multiplication des photos de mise en scène immobilière générées par intelligence artificielle en Ontario, une pratique qui soulève des questions sur le risque d'induire en erreur les futurs acheteurs.
+  </chapitre>
+
+  <chapitre titre="Sport">
+    Rapidement en sport. Au baseball, Sportsnet rapporte que les Rays de Tampa Bay sont tout près d'une place en Série mondiale, après une victoire contre les Guardians grâce à une solide performance du lanceur Drew Rasmussen.
+
+    Au hockey, Sportsnet souligne la montée en puissance des jeunes joueurs des Flames de Calgary, Matvei Gridin et Zayne Parekh ayant créé l'exploit en à peine soixante-neuf secondes lors d'un gain surprise contre les Hurricanes.
+
+    Au football américain, Sportsnet note que les Rams de Los Angeles traversent des difficultés après une nouvelle défaite jugée auto-infligée, malgré les attentes élevées entourant l'équipe cette saison.
+
+    Au golf, TVA Sports rapporte que Joey Savoie a remporté le championnat de fin de saison du circuit PGA Tour Americas.
+  </chapitre>
+
+  <outro>Voilà pour ce Presto du lundi dix-neuf octobre deux mille vingt-six. Si ce briefing vous est utile, le meilleur coup de main que vous pouvez nous donner, c'est de le partager à une personne qui aime rester informée. Et selon votre plateforme : un abonnement sur Spotify ou Apple Podcasts, un pouce bleu et un abonnement sur YouTube, ça prend deux secondes et ça aide vraiment Presto à grandir. Sur ce, bonne journée, et à demain.</outro>
+</script>
+```
