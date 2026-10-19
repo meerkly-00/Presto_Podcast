@@ -1,54 +1,50 @@
 {
-  "generated_at": "2026-10-18T23:55:56.051353+00:00",
+  "generated_at": "2026-10-19T19:02:25.134181+00:00",
   "window_hours": 8,
   "faits": [
     {
-      "sujet": "Incendie base militaire Wainwright",
-      "fait": "Un incendie à la base des Forces armées canadiennes à Wainwright en Alberta a fait 4 morts et 39 blessés hospitalisés, dont 19 en condition critique. Selon Global News et BBC World, le sinistre s'est déclaré dimanche dans des conditions météorologiques difficiles."
+      "sujet": "Référendum en Alberta",
+      "fait": "Les électeurs albertains se prononcent lundi sur 10 questions, notamment sur la tenue d'un second référendum sur la séparation. Selon Global News, des retards ont été signalés dans certains bureaux de vote à Edmonton."
     },
     {
-      "sujet": "Référendum indépendance Alberta",
-      "fait": "Le vote de lundi sur l'indépendance de l'Alberta a enregistré 1,3 million de votes aux scrutins avancés. Selon Global News, un sondage Ipsos indique que sept Albertains sur dix prévoient voter pour que l'Alberta reste une province du Canada."
+      "sujet": "Financement de startups IA",
+      "fait": "L'assistant IA Tolan a levé 30 millions de dollars avec plus de 250 000 utilisateurs actifs. Selon TechCrunch, la startup Town a atteint une valorisation de licorne avec un tour de série B de 108 millions de dollars."
     },
     {
-      "sujet": "Suspension sanctions russes Trump",
-      "fait": "Le président américain Trump a bloqué plusieurs sanctions contre la Russie deux jours avant leur entrée en vigueur. Selon BBC World, Trump justifie cette suspension par la volonté de maintenir les négociations de paix."
+      "sujet": "Tenstorrent lève des fonds",
+      "fait": "Tenstorrent a levé 1,5 milliard de dollars pour rester indépendant et atteint une valorisation de 6,2 milliards de dollars. Selon TechCrunch, cela intervient après avoir attiré des offres d'acquisition plus tôt cette année."
     },
     {
-      "sujet": "Reprises partages renseignements Ukraine",
-      "fait": "Les États-Unis ont repris le partage de renseignements avec l'Ukraine après une pause. Selon Reuters, le président Zelenskiy a confirmé cette reprise."
+      "sujet": "Incendie à CFB Wainwright",
+      "fait": "Quatre militaires canadiens ont été tués lors d'un incendie de prairie lors d'un exercice d'entraînement samedi à la base de Wainwright en Alberta. Selon Global News et National Post, plusieurs autres ont été blessés."
     },
     {
-      "sujet": "Émeutes et violences en France",
-      "fait": "Des violences ont éclaté lors de manifestations nationales en France, avec pillages et arrestations massives. Le président Macron a condamné la violence et annoncé des poursuites contre les responsables, selon Al Jazeera et BBC World."
+      "sujet": "Émeutes et couvre-feu à Paris",
+      "fait": "La police parisienne a imposé un couvre-feu nocturne lundi dans deux zones de la capitale. Selon CBC World, cela suit les pires émeutes de France en années, ciblant des mairies et commerces, provoquées par les coûts de la vie et conditions scolaires."
     },
     {
-      "sujet": "Soutien Trump à Nétanyahou",
-      "fait": "Le président Trump a offert un soutien explicite à Benjamin Nétanyahou pour les élections israéliennes. Selon Reuters et National Post, cet appui intervient après des tensions croissantes entre les deux dirigeants."
+      "sujet": "Condamnation pour drogue au travail",
+      "fait": "Un homme de Blainville a été condamné à 34 mois de prison pour avoir injecté de la drogue dans le café de ses collègues l'année précédente. Selon La Presse, ses motivations restent inexpliquées."
     },
     {
-      "sujet": "Anthropic engagement fonds public",
-      "fait": "Anthropic s'engage à consacrer 5% de ses actions à un fonds de bénéfice public. Selon TechCrunch, cette annonce représente un engagement envers l'utilité sociale de l'entreprise."
+      "sujet": "Air Canada frais de réservation téléphonique",
+      "fait": "Air Canada impose depuis le 15 octobre des frais non remboursables de 30 dollars par passager pour les réservations faites par téléphone. Selon National Post, cette charge s'ajoute au prix du billet."
     },
     {
-      "sujet": "Détenu inscrit cours université McGill",
-      "fait": "Jeffrey George Ewert, condamné à perpétuité en 1984 pour meurtre au deuxième degré en Colombie-Britannique, est inscrit à des cours de droit à l'Université McGill à Montréal. Selon La Presse, le criminel poursuit ses études quatre décennies après sa condamnation."
+      "sujet": "Poursuites contre Anthropic",
+      "fait": "Des éditeurs de presse canadiens poursuivent la société d'IA américaine Anthropic pour violation des droits d'auteur. Selon Le Devoir, le géant de l'IA aurait porté atteinte à leurs droits."
     },
     {
-      "sujet": "Partage données police avec ICE",
-      "fait": "Une officière de police de Savannah a été renvoyée en août après avoir partagé ses identifiants Flock avec son mari, agent de l'ICE. Selon The Verge, cet accès non autorisé a permis 983 recherches concernant 97 plaques d'immatriculation, majoritairement liées à des conducteurs hispaniques."
+      "sujet": "Enquête police Winnipeg",
+      "fait": "Une enquête provinciale conclut que l'ancien maire de Winnipeg Sam Katz a violé la confiance publique et que l'ancien directeur administratif Phil Sheegl a manqué de moralité dans des conflits d'intérêts liés au contrat du quartier général de la police. Selon CBC, des pratiques de favoritisme ont été établies."
     },
     {
-      "sujet": "Décès chanteur Les Classels",
-      "fait": "Gilles Girard, chanteur du groupe Les Classels depuis 1960, est décédé. Selon Radio-Canada et Le Devoir, le groupe était connu pour des chansons comme 'Avant de me dire adieu' et 'Ton amour a changé ma vie'."
+      "sujet": "Culpabilité du chef de culte kenyan",
+      "fait": "Paul Mackenzie, un pasteur autoproclamé kényan, a été reconnu coupable de 191 meurtres, dont 190 d'enfants. Selon BBC World, il avait ordonné aux parents de laisser mourir de faim les enfants."
     },
     {
-      "sujet": "Dettes massives industrie IA",
-      "fait": "L'industrie de l'IA accumule des dettes considérables qui inquiètent les investisseurs. Selon The Economist, la question de qui paierait en cas de krach du secteur demeure sans réponse."
-    },
-    {
-      "sujet": "Protestation interruption événement Ben-Gvir",
-      "fait": "Des protestataires israéliens ont perturbé un événement universitaire à Tel Aviv réunissant Itamar Ben-Gvir, ministre de la Sécurité nationale d'extrême droite, le forçant à quitter la scène. Selon Al Jazeera, l'incident s'est déroulé à l'université de Tel Aviv."
+      "sujet": "Brèche de données en Floride",
+      "fait": "Le Département de la Sécurité routière et des Véhicules motorisés de Floride a confirmé une brèche de données le 4 septembre 2026. Selon Ars Technica, les informations de permis de conduire et données de véhicules, incluant des photos d'identité, ont été compromises avec des credentials volés."
     }
   ]
 }
