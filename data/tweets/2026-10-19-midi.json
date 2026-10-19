@@ -1,0 +1,14 @@
+{
+  "date": "2026-10-19",
+  "kind": "poll",
+  "text": "Ce matin → 4 militaires canadiens tués samedi lors d'un exercice à Wainwright.\n\nNouveau : Une enquête de Global News révèle des retards dans\n\nSelon toi, comment les gouvernements doivent-ils équilibrer la sécurité lors d'exercices militaires et l'entraînement des troupes ?",
+  "poll": {
+    "options": [
+      "Réduire les risques même",
+      "Maintenir l'entraînement",
+      "Augmenter les mesures de",
+      "Suspendre les exercices"
+    ],
+    "duration_minutes": 1440
+  }
+}
