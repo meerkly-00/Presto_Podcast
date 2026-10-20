@@ -1,50 +1,54 @@
 {
-  "generated_at": "2026-10-19T19:02:25.134181+00:00",
+  "generated_at": "2026-10-20T00:55:21.135321+00:00",
   "window_hours": 8,
   "faits": [
     {
-      "sujet": "Référendum en Alberta",
-      "fait": "Les électeurs albertains se prononcent lundi sur 10 questions, notamment sur la tenue d'un second référendum sur la séparation. Selon Global News, des retards ont été signalés dans certains bureaux de vote à Edmonton."
+      "sujet": "Référendum en Alberta sur l'indépendance",
+      "fait": "Un référendum portant sur l'indépendance de l'Alberta s'est tenu le 20 octobre 2026. Selon Radio-Canada et La Presse, la publication des résultats a été retardée car environ une centaine de bureaux de vote ont ouvert plus tard que prévu, les résultats ne pouvant être annoncés que vers 22h lorsque le dernier bureau fermerait. Selon National Post, 1,3 million de bulletins ont été dépouillés lors du vote par anticipation."
     },
     {
-      "sujet": "Financement de startups IA",
-      "fait": "L'assistant IA Tolan a levé 30 millions de dollars avec plus de 250 000 utilisateurs actifs. Selon TechCrunch, la startup Town a atteint une valorisation de licorne avec un tour de série B de 108 millions de dollars."
+      "sujet": "Élections municipales en Colombie-Britannique",
+      "fait": "Des élections municipales se sont déroulées en Colombie-Britannique. Selon Global News, l'ancien conseiller de Surrey Barinder Rasode a déclaré que le scrutin semblait être motivé par un désir de changement plutôt qu'un virage idéologique."
     },
     {
-      "sujet": "Tenstorrent lève des fonds",
-      "fait": "Tenstorrent a levé 1,5 milliard de dollars pour rester indépendant et atteint une valorisation de 6,2 milliards de dollars. Selon TechCrunch, cela intervient après avoir attiré des offres d'acquisition plus tôt cette année."
+      "sujet": "Assermentation des députés du PLQ",
+      "fait": "Des députés du Parti libéral du Québec ont prêté serment sans mention du roi. Selon Radio-Canada et La Presse, Charles Milliard a déclaré que le PLQ est de retour mais que la reconstruction n'est pas terminée, se positionnant comme un gouvernement en attente en contexte minoritaire."
     },
     {
-      "sujet": "Incendie à CFB Wainwright",
-      "fait": "Quatre militaires canadiens ont été tués lors d'un incendie de prairie lors d'un exercice d'entraînement samedi à la base de Wainwright en Alberta. Selon Global News et National Post, plusieurs autres ont été blessés."
+      "sujet": "Tragédie à la base de Wainwright",
+      "fait": "Quatre militaires ont perdu la vie dans un violent incendie à CFB Wainwright le samedi en fin d'après-midi. Selon Radio-Canada, le ministre Carney a adressé ses condoléances aux victimes."
     },
     {
-      "sujet": "Émeutes et couvre-feu à Paris",
-      "fait": "La police parisienne a imposé un couvre-feu nocturne lundi dans deux zones de la capitale. Selon CBC World, cela suit les pires émeutes de France en années, ciblant des mairies et commerces, provoquées par les coûts de la vie et conditions scolaires."
+      "sujet": "Épidémie de rougeole en Pennsylvanie",
+      "fait": "La Pennsylvanie connaît une augmentation de cas de rougeole congénitale, un phénomène qui n'avait pas été observé depuis des décennies. Selon Ars Technica, au 19 octobre 2026, la Pennsylvanie avait signalé 1 286 cas de rougeole cette année dans 42 comtés, dont 247 hospitalisations et 6 décès."
     },
     {
-      "sujet": "Condamnation pour drogue au travail",
-      "fait": "Un homme de Blainville a été condamné à 34 mois de prison pour avoir injecté de la drogue dans le café de ses collègues l'année précédente. Selon La Presse, ses motivations restent inexpliquées."
+      "sujet": "Accord de partenariat informatique Anthropic-Nscale",
+      "fait": "Nscale et Anthropic seraient en discussion pour conclure un autre accord d'accès informatique. Selon TechCrunch, après un accord de 45 milliards de dollars annoncé en août 2026, les deux entreprises discuteraient d'un accord de même ampleur."
     },
     {
-      "sujet": "Air Canada frais de réservation téléphonique",
-      "fait": "Air Canada impose depuis le 15 octobre des frais non remboursables de 30 dollars par passager pour les réservations faites par téléphone. Selon National Post, cette charge s'ajoute au prix du billet."
+      "sujet": "Suspension de DeepSeek aux États-Unis",
+      "fait": "DeepSeek a été interdit des services civils du gouvernement américain. Selon Les Affaires, cette interdiction a été mise en place par l'administration Trump."
     },
     {
-      "sujet": "Poursuites contre Anthropic",
-      "fait": "Des éditeurs de presse canadiens poursuivent la société d'IA américaine Anthropic pour violation des droits d'auteur. Selon Le Devoir, le géant de l'IA aurait porté atteinte à leurs droits."
+      "sujet": "Infrastructure énergétique fossile aux États-Unis",
+      "fait": "Les États-Unis construisent davantage d'infrastructure de combustibles fossiles qu'au cours de la dernière décennie tandis que la croissance des énergies renouvelables ralentit. Selon The Verge, un rapport du Environmental Defense Fund et d'Atlas Public Policy révèle cette tendance sous l'administration Trump."
     },
     {
-      "sujet": "Enquête police Winnipeg",
-      "fait": "Une enquête provinciale conclut que l'ancien maire de Winnipeg Sam Katz a violé la confiance publique et que l'ancien directeur administratif Phil Sheegl a manqué de moralité dans des conflits d'intérêts liés au contrat du quartier général de la police. Selon CBC, des pratiques de favoritisme ont été établies."
+      "sujet": "Manœuvre de satellite russe près d'un satellite commercial",
+      "fait": "Un satellite militaire russe, Kosmos 2612, a manœuvré en extrême proximité du satellite d'imagerie commercial ICEYE-X36 utilisé par l'Ukraine. Selon Ars Technica, c'est le premier exemple connu d'un rendez-vous non autorisé en orbite basse terrestre, la Russie s'étant approchée de plusieurs centaines de kilomètres à une extrême proximité."
     },
     {
-      "sujet": "Culpabilité du chef de culte kenyan",
-      "fait": "Paul Mackenzie, un pasteur autoproclamé kényan, a été reconnu coupable de 191 meurtres, dont 190 d'enfants. Selon BBC World, il avait ordonné aux parents de laisser mourir de faim les enfants."
+      "sujet": "Troubles de l'ordre public en France",
+      "fait": "Des couvre-feu ont été imposés dans des quartiers du centre de Paris et d'autres villes françaises suite à des désordres. Selon la BBC et Associated Press, le ministre français de l'Intérieur a admis que la police avait perdu le contrôle dans certaines villes."
     },
     {
-      "sujet": "Brèche de données en Floride",
-      "fait": "Le Département de la Sécurité routière et des Véhicules motorisés de Floride a confirmé une brèche de données le 4 septembre 2026. Selon Ars Technica, les informations de permis de conduire et données de véhicules, incluant des photos d'identité, ont été compromises avec des credentials volés."
+      "sujet": "Projet de distribution d'actions SpaceX",
+      "fait": "Elon Musk a annoncé son intention de distribuer une action SpaceX à chaque enfant en Amérique l'année prochaine via des comptes Trump. Selon The Verge, le président Trump a confirmé le plan, avec 72 millions d'actions valant approximativement 10,5 milliards de dollars au cours de clôture de vendredi."
+    },
+    {
+      "sujet": "Reportage de projet québécois de dépistage du cancer",
+      "fait": "Le Québec a reporté à 2028 le déploiement complet des guichets d'accélération des diagnostics de cancer. Selon Le Devoir, cet objectif initialement prévu pour 2026 a été ralenti notamment par le manque de personnel."
     }
   ]
 }
