@@ -1,50 +1,54 @@
 {
-  "generated_at": "2026-10-20T17:47:24.005816+00:00",
+  "generated_at": "2026-10-20T22:08:15.816426+00:00",
   "window_hours": 8,
   "faits": [
     {
-      "sujet": "Référendum indépendantiste en Alberta",
-      "fait": "L'Alberta a rejeté la séparation du Canada avec 76 % des électeurs votant pour rester au Canada, selon Global News et BBC World."
+      "sujet": "Élections québécoises - recomptage judiciaire",
+      "fait": "La Cour du Québec ordonne un dépouillement judiciaire dans la circonscription de Champlain, en Mauricie, où le candidat péquiste a perdu par 191 voix. Selon La Presse, cette décision fait suite à la demande du Parti québécois."
     },
     {
-      "sujet": "Guerre tarifaire États-Unis-Canada",
-      "fait": "Selon Radio-Canada, le directeur parlementaire du budget estime que le conflit tarifaire pourrait faire perdre jusqu'à 185 000 emplois au Canada et réduire de 9 % les bénéfices des entreprises canadiennes."
+      "sujet": "Formation du gouvernement québécois",
+      "fait": "Paul St-Pierre Plamondon formera son équipe de ministres mercredi et deviendra officiellement le chef du gouvernement québécois. Selon Le Devoir, il est le chef du Parti québécois désigné premier ministre."
     },
     {
-      "sujet": "Trump lève menaces contre Bombardier",
-      "fait": "Le président Trump a retiré ses menaces de tarifs envers le fabricant canadien Bombardier, selon Radio-Canada et Reuters, invoquant des considérations concernant l'emploi américain."
+      "sujet": "Référendum en Alberta",
+      "fait": "Un référendum s'est tenu en Alberta sur la séparation du Canada. Selon Radio-Canada et La Presse, Paul St-Pierre Plamondon déclare que le message d'Alberta à Ottawa sur les abus de pouvoir fédéral 'ne peut pas être plus clair'."
     },
     {
-      "sujet": "Incendie base militaire Wainwright",
-      "fait": "Selon La Presse, 33 membres des Forces armées canadiennes restent hospitalisés après l'incendie ayant tué quatre soldats samedi à la base militaire de Wainwright en Alberta."
+      "sujet": "SpaceX - résultats financiers",
+      "fait": "SpaceX a réalisé un bénéfice net de 4,4 milliards de dollars au troisième trimestre, porté par son activité IA. Selon TechCrunch et Reuters, les revenus trimestriels ont dépassé les estimations."
     },
     {
-      "sujet": "Neuvième cas d'Ebola au Kenya",
-      "fait": "Al Jazeera rapporte que le Kenya a confirmé un neuvième cas d'Ebola, un homme de 24 ans déjà en quarantaine."
+      "sujet": "SpaceX et Tesla - fusion discutée",
+      "fait": "Tesla et SpaceX ont formé des comités spéciaux pour discuter d'une possible fusion à la demande des actionnaires. Selon The Verge, Elon Musk, PDG des deux entreprises, ne participe pas aux discussions en raison de son conflit d'intérêts."
     },
     {
-      "sujet": "Application Meta Muse téléchargements",
-      "fait": "Selon TechCrunch, l'assistant IA Meta Muse a atteint 10 millions de téléchargements aux États-Unis en 40 jours, rejoignant un groupe exclusif de 12 applications seulement."
+      "sujet": "SpaceX - récupération de Starship",
+      "fait": "SpaceX tentera de capturer pour la première fois Starship et son booster le mois prochain, selon Elon Musk. Selon The Verge, ce serait la première récupération complète d'un véhicule de lancement orbital de l'histoire."
     },
     {
-      "sujet": "Élection maire Kelowna Colombie-Britannique",
-      "fait": "Tom Dyas a remporté sa réélection comme maire de Kelowna avec une victoire serrée de 969 votes (2,5 points de pourcentage) sur Ron Cannan, selon Global News."
+      "sujet": "Netflix - perspectives Q4 faibles",
+      "fait": "Netflix émet une prévision faible pour le quatrième trimestre et ses actions baissent. Selon Reuters, le géant du streaming rapporte une baisse du temps de visionnage."
     },
     {
-      "sujet": "Visite Macron Golfe Persique",
-      "fait": "Al Jazeera rapporte que le président Macron visite le Golfe pour aborder la hausse des prix énergétiques et renforcer les liens face aux préoccupations de sécurité régionale."
+      "sujet": "Élections fédérales américaines",
+      "fait": "Donald Trump engage plus de 400 millions de dollars avant les élections de mi-mandat critiques. Selon Al Jazeera, le Parti républicain cherche à conserver le contrôle des deux chambres du Congrès malgré un déclin des sondages."
     },
     {
-      "sujet": "Réduction prévisions économiques Canada",
-      "fait": "BNN Bloomberg rapporte qu'Ottawa réduit ses prévisions économiques pour 2026-2027 en raison des nouveaux tarifs américains."
+      "sujet": "Anthropic - pertes financières",
+      "fait": "Anthropic a enregistré une perte nette de plus de 80 milliards de dollars au premier semestre 2026. Selon Reuters Business, le cabinet lutte pour sécuriser assez de capacité informatique auprès des fournisseurs de cloud avant son IPO prévue en novembre."
     },
     {
-      "sujet": "Chrome avertissements sites suspects",
-      "fait": "The Verge rapporte que Google lance une nouvelle fonctionnalité de sécurité dans Chrome avertissant les utilisateurs avant de visiter des sites suspects présentant des risques de phishing ou de malware."
+      "sujet": "Tarifs douaniers Trump - action en justice",
+      "fait": "Un importateur alimentaire américain poursuit Trump sur les tarifs de 50 % sur les produits canadiens. Selon Al Jazeera, la poursuite argue que Trump a contourné le Congrès en utilisant une loi datant de la Grande Dépression."
     },
     {
-      "sujet": "AMD technologie FSR 4.1 consoles",
-      "fait": "The Verge rapporte qu'AMD intègre sa technologie de remontée d'échelle FSR 4.1 aux consoles Xbox Series S et X, ainsi qu'aux ordinateurs portables et appareils portables."
+      "sujet": "Ontario - enquête sur des collèges privés",
+      "fait": "L'Ontario lance une enquête sur huit collèges privés pour fraude alléguée aux prêts OSAP. Selon Global News, les enquêteurs ont rassemblé des informations et interrogé des individus dans ces établissements."
+    },
+    {
+      "sujet": "OpenAI - acquisition d'Orchestra Bio",
+      "fait": "OpenAI acquiert la startup Orchestra Bio pour renforcer son activité de biotechnologie. Selon TechCrunch, l'équipe et la technologie seront intégrées à Rosalind, son modèle IA pour la recherche en sciences de la vie."
     }
   ]
 }
