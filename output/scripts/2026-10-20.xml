@@ -1,0 +1,87 @@
+```xml
+<script>
+  <intro>Bonjour, on est le mardi vingt octobre deux mille vingt-six. Voici votre Presto en environ quinze minutes. Au menu : le référendum albertain qui a confirmé l'appartenance de la province au Canada, la France qui reste sous tension après un weekend de violence, les marchés secoués par l'inquiétude autour de l'intelligence artificielle, et quelques nouvelles de tech et de sport.</intro>
+
+  <chapitre titre="Politique canadienne : l'Alberta dit non à la séparation">
+    On commence par l'Alberta, où le suspense référendaire s'est dénoué lundi soir. Selon Radio-Canada, la province a choisi de rester au sein du Canada. Le dévoilement des résultats avait pris du temps en raison de l'ouverture tardive d'une centaine de bureaux de vote. La Presse rapporte qu'une majorité d'Albertains se sont exprimés en faveur du Canada, rejetant l'idée d'enclencher un processus référendaire formel en vue d'une éventuelle séparation. Selon le National Post, les premiers résultats montraient une majorité claire en faveur du maintien dans la fédération, avec un score final d'environ soixante-seize pour cent contre la tenue d'un tel processus.
+
+    Le premier ministre Mark Carney s'est réjoui du résultat. Selon Radio-Canada, il a déclaré que l'Alberta avait choisi le Canada. La première ministre albertaine Danielle Smith s'est quant à elle dite heureuse des résultats préliminaires.
+
+    Mais Global News rappelle que ce référendum demeure un chapitre marquant dans une longue histoire de griefs envers Ottawa. Même si la majorité des Albertains ont opté pour rester au pays, le vote a mis en lumière des frustrations envers le gouvernement fédéral qui remontent à près d'un siècle.
+
+    Toujours à Ottawa, le dossier du nouveau pipeline vers la côte Ouest promis par le gouvernement Carney continue de soulever des questions. Selon le National Post, le fédéral a promis de lancer la construction en moins d'un an, mais des avocats et des académiciens spécialisés en droit avertissent que le projet pourrait faire face à des défis juridiques devant les tribunaux.
+
+    Au Québec, la lieutenante-gouverneure Manon Jeannotte ne sera pas présente physiquement à l'assermentation des nouveaux ministres. Selon Radio-Canada, elle a accepté la demande du premier ministre Paul Saint-Pierre Plamondon de suivre l'événement à la télévision plutôt que d'y assister en personne.
+  </chapitre>
+
+  <chapitre titre="International : la France sous tension, l'Ukraine isolée">
+    En France, la situation demeure explosive après un weekend marqué par les pires émeutes depuis des années. Selon CBC, la police parisienne a imposé un couvre-feu nocturne dans deux secteurs de la capitale pour prévenir de nouvelles violences, après que des manifestations contre le coût de la vie et les conditions dans les écoles eurent dégénéré, visant des mairies, des édifices publics et des milliers de commerces.
+
+    La BBC rapporte qu'un suspect a été arrêté après l'incendie de l'hôtel de ville historique de Limoges, où la flèche de la tour de l'horloge s'est effondrée dans les flammes samedi. Selon Al Jazeera, les manifestations ont davantage polarisé la population française et ont transformé la jeunesse en un bloc électoral déterminant à l'approche des élections, un contexte qui fragilise le centre politique du président Emmanuel Macron. Reuters note par ailleurs que la colère liée aux prix du carburant profite à l'extrême droite européenne à l'approche de ces élections.
+
+    Du côté américain, Donald Trump a utilisé la situation française comme argument de campagne. Selon Reuters, il a averti des électeurs au Kansas que les États-Unis allaient, je le cite, "burn" comme la France si les démocrates remportaient les élections. Fin de citation.
+
+    En Ukraine, la question du partage de renseignements avec les alliés continue de susciter des inquiétudes. Selon CBC, le président Volodymyr Zelensky a affirmé que la Russie a lancé de nouvelles attaques contre les infrastructures énergétiques ukrainiennes à l'aide de missiles balistiques et de drones à propulsion, et que Kiev n'a reçu aucun avertissement préalable de la part de ses partenaires qui partageaient auparavant ce type de renseignement. La Maison-Blanche affirme de son côté qu'il n'y a eu aucun changement dans le partage de renseignements. Un conseiller de Zelensky a dit à la BBC que des Ukrainiens meurent faute d'avertissement suffisant avant les frappes de missiles.
+
+    Dans ce contexte, Al Jazeera rapporte que la Corée du Sud va retirer davantage de personnel de son ambassade en Ukraine, à la suite d'une controverse concernant un transfert de prisonniers de guerre divulgué par Zelensky. Plus tôt ce mois-ci, Séoul avait déjà rappelé son ambassadeur à Kiev.
+
+    Ars Technica rapporte aussi qu'un satellite militaire russe, Kosmos deux mille six cent douze, a effectué des manœuvres en proximité extrême d'un satellite commercial américain d'imagerie utilisé pour observer l'Ukraine, selon la firme de renseignement orbital LeoLabs. Il s'agirait du premier exemple connu d'un tel rapprochement non autorisé en orbite basse.
+
+    Au Moyen-Orient, CBC rapporte que le Programme alimentaire mondial des Nations unies doit réduire considérablement son aide à Gaza faute de financement, laissant environ cinq cent mille personnes sans soutien alimentaire mensuel dans un territoire où les deux tiers de la population peinent déjà à se nourrir suffisamment.
+
+    En Haïti, CBC rapporte que quatre soldats salvadoriens sont portés disparus après une attaque de gangs contre un véhicule blindé, le weekend dernier. Il s'agirait de la première attaque majeure depuis le début des opérations d'une force internationale de répression des gangs dans le pays.
+
+    Ailleurs, la BBC rapporte qu'une septième journée de violents affrontements a opposé manifestants et policiers en Albanie, faisant près de trois cents blessés, dont plus de la moitié des policiers, sans signe d'accalmie des manifestations antigouvernementales.
+  </chapitre>
+
+  <chapitre titre="Économie et marchés : l'IA sous la loupe des investisseurs">
+    On passe à l'économie, où l'inquiétude autour des valorisations liées à l'intelligence artificielle continue de peser sur les marchés. Selon Reuters, les actions ont de nouveau reculé alors que les prix du pétrole restent élevés, dans un contexte où les résultats trimestriels des entreprises d'intelligence artificielle sont scrutés de près.
+
+    The Verge rapporte que la dette de l'entreprise d'infonuagique CoreWeave est devenue un problème pour l'ensemble de l'industrie de l'IA. Ses obligations ont glissé en territoire dit "distressed", c'est-à-dire que les investisseurs exigent mille points de base de plus en rendement que sur des obligations gouvernementales. Ses actions ont chuté de plus de vingt pour cent depuis la semaine dernière, selon The Verge, et l'effet se serait propagé à d'autres entreprises du secteur de l'intelligence artificielle. Bloomberg évoque d'ailleurs un possible règlement de comptes imminent pour l'industrie de l'IA et ses fournisseurs d'infonuagique spécialisés.
+
+    Malgré cette nervosité, les contrats à terme américains progressaient en matinée. Selon Bloomberg, les actions à terme américaines sont en légère hausse après un bond des fabricants de puces.
+
+    Reuters rapporte aussi que les réserves stratégiques de pétrole des États-Unis sont tombées à leur plus bas niveau depuis mille neuf cent quatre-vingt-deux, tandis que le Wall Street Journal précise que le prix du pétrole recule légèrement, même si les risques pesant sur l'approvisionnement demeurent présents. Reuters note également que les grandes pétrolières font face à un test quant à l'utilisation de leurs profits exceptionnels liés à la guerre en Iran.
+
+    Au Canada, la Banque du Canada observe une hausse des attentes d'inflation. Selon des sondages cités par Bloomberg, les attentes d'inflation et leur transmission aux prix sont en hausse. La revue de presse de Paul Arcand, relayée par La Presse, évoque d'ailleurs une possible hausse des taux d'intérêt à venir.
+
+    En Chine, l'Associated Press rapporte que l'économie a accéléré au troisième trimestre, portée par des exportations robustes.
+
+    Du côté des entreprises canadiennes, CBC et BNN Bloomberg rapportent que Stelco a connu son meilleur trimestre depuis son acquisition par une entreprise américaine en deux mille vingt-quatre, selon son propriétaire. Au même moment, des centaines d'emplois sont supprimés en Ontario, à Hamilton et à Nanticoke, les avis de licenciement ayant commencé à être transmis plus tôt ce mois-ci.
+
+    Toujours en entreprises canadiennes, BNN Bloomberg rapporte que l'entreprise de camionnage Mullen Group fait l'acquisition de la firme de courtage en douane Willson International.
+
+    Du côté des géants technologiques, Elon Musk a promis de distribuer des actions de SpaceX. Selon l'Associated Press et le Wall Street Journal, Musk s'est engagé à remettre une action de SpaceX à chaque enfant américain. The Verge précise que ce don passerait par les comptes dits "Trump Accounts", et que, selon des calculs de CNBC basés sur la valeur de l'action vendredi, les soixante-douze millions d'actions visées vaudraient environ dix milliards cinq cents millions de dollars. Musk a affirmé, je le cite, "This will be the first of many." Fin de citation.
+
+    Reuters rapporte aussi que Nvidia a remporté la jeune pousse d'intelligence artificielle Modal pour la conception de nouveaux processeurs centraux. Et TechCrunch rapporte que les entreprises Nscale et Anthropic seraient en discussion pour une nouvelle entente d'infonuagique évaluée à quarante-cinq milliards de dollars, ce qui s'ajouterait à une longue série de méga-contrats conclus par Anthropic au cours de la dernière année.
+  </chapitre>
+
+  <chapitre titre="Tech : surveillance syndicale de l'IA, mission martienne et espionnage chez OpenAI">
+    En tech, Global News rapporte que des syndicats du secteur public en Ontario font pression sur la province pour obtenir des garde-fous encadrant l'intelligence artificielle au travail. Les unités de négociation locales reçoivent comme consigne d'examiner comment l'IA s'implante dans les milieux de travail et d'en identifier les risques potentiels.
+
+    À New York, le maire Zohran Mamdani a pris position sur le sujet. Selon TechCrunch, il a affirmé lundi soir que le gouvernement fédéral avait abdiqué sa responsabilité sur l'intelligence artificielle, et a exhorté les New-Yorkais à résister à l'idée qu'une prise de contrôle par l'IA serait inévitable, en réclamant une réglementation qui protège le public.
+
+    Au Québec, Le Devoir rapporte que des études révèlent que les lecteurs moyens ne distinguent généralement pas les textes générés par l'intelligence artificielle de ceux écrits par des humains.
+
+    Du côté judiciaire, Ars Technica rapporte qu'un tribunal a accepté de maintenir en détention un ancien ingénieur d'OpenAI accusé d'avoir installé des micros dans une salle de conférence de l'entreprise pour en voler des secrets. Selon un document déposé par le procureur américain, l'homme, nommé Abdulrahman Alfozan, aurait communiqué avec un membre de la famille royale saoudienne et cherchait des occasions de retourner vivre en Arabie saoudite. Le FBI aurait trouvé sur son téléphone un dossier nommé "Saudi Gov Docs" contenant des photos d'un second dispositif d'écoute.
+
+    En espace, Ars Technica rapporte que le Japon a lancé lundi une mission vers Phobos, la plus grande lune de Mars, d'une valeur d'environ cinq cent soixante-dix-huit millions de dollars. La mission, nommée MMX, doit durer cinq ans et vise à ramener sur Terre des échantillons de cette lune martienne, dans l'espoir de mieux comprendre la formation du système solaire.
+
+    Enfin, TechCrunch rapporte que la firme de sécurité web Blackwall a quadruplé sa valorisation, atteignant deux milliards deux cents millions de dollars après une ronde de financement de cent millions de dollars, afin de poursuivre le développement d'outils de filtrage aidant les sites web à gérer un trafic de plus en plus envahi par les robots et l'intelligence artificielle.
+  </chapitre>
+
+  <chapitre titre="Sport : les Rays en Série mondiale, les Leafs mettent fin à leur glissade">
+    Rapidement en sport. Au baseball, Sportsnet rapporte que les Rays de Tampa Bay se sont qualifiés pour la Série mondiale après une victoire contre les Guardians de Cleveland lors du sixième match de la série de championnat de l'Américaine. Junior Caminero a notamment frappé un circuit de deux points contre le poteau du champ gauche pour creuser l'écart.
+
+    Au hockey, Sportsnet rapporte que les Maple Leafs de Toronto ont mis fin à une série de trois défaites, portés par un but gagnant de la jeune recrue Gavin McKenna, qui en est à ses premiers pas dans la Ligue nationale.
+
+    Du côté du Canadien de Montréal, TVA Sports souligne que Phillip Danault retrouve son niveau de jeu habituel et que cela profite à l'équipe, même si celle-ci ne compte qu'une seule victoire en temps réglementaire cette saison.
+
+    En soccer, Al Jazeera rapporte que l'UEFA exige de la FIFA qu'elle rende publics des documents concernant un projet avorté de vente des droits de la Coupe du monde porté par son président Gianni Infantino. Dans une lettre contenant quarante-deux questions, l'UEFA donne à la FIFA jusqu'au deux novembre pour répondre.
+
+    Enfin, du côté américain, l'Associated Press rapporte que le quart-arrière des Eagles de Philadelphie, Jalen Hurts, devrait rater le reste de la saison en raison de caillots sanguins.
+  </chapitre>
+
+  <outro>Voilà pour ce Presto du vingt octobre deux mille vingt-six. Si ce briefing vous est utile, le meilleur coup de main que vous pouvez nous donner, c'est de le partager à une personne qui aime rester informée. Et selon votre plateforme : un abonnement sur Spotify ou Apple Podcasts, un pouce bleu et un abonnement sur YouTube, ça prend deux secondes et ça aide vraiment Presto à grandir. Sur ce, bonne journée, et à demain.</outro>
+</script>
+```
