@@ -1,0 +1,14 @@
+{
+  "date": "2026-10-20",
+  "kind": "poll",
+  "text": "Ce matin → Trump retire ses menaces contre Bombardier.\n\nFace aux tarifs américains, le Canada devrait-il négocier secteur par secteur ou maintenir une approche globale ?",
+  "poll": {
+    "options": [
+      "Négocier par secteur",
+      "Approche globale",
+      "Combinaison des deux",
+      "Pas sûr"
+    ],
+    "duration_minutes": 1440
+  }
+}
