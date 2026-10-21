@@ -1,50 +1,54 @@
 {
-  "generated_at": "2026-10-21T17:55:02.962846+00:00",
+  "generated_at": "2026-10-21T22:07:33.169258+00:00",
   "window_hours": 8,
   "faits": [
     {
-      "sujet": "Faille informatique mondiale PHP",
-      "fait": "Deux vulnérabilités dans le protocole PHP, utilisé par environ 70% des sites web, ont été révélées mercredi. Selon Radio-Canada, cette faille a été découverte par un modèle d'IA d'OpenAI et affecte les sites de la SAQ, la STM et Hydro-Québec."
+      "sujet": "Santé du Pape Léo",
+      "fait": "Le Pape Léo, 71 ans, n'aura pas besoin de traitement supplémentaire après l'ablation du lobe inférieur de son poumon droit la semaine précédente pour un cancer pulmonaire localisé. Selon le Vatican, les tests confirment un adénocarcinome pulmonaire."
     },
     {
-      "sujet": "Cabinet ministériel Québec PQ",
-      "fait": "Paul St-Pierre Plamondon a présenté son Conseil des ministres. D'après Radio-Canada, le premier ministre s'est engagé à former un Cabinet plus petit que celui de la Coalition avenir Québec (CAQ)."
+      "sujet": "Élection Vachon Québec",
+      "fait": "Le Parti québécois remporte un 60e siège à Vachon selon un dépouillement judiciaire avec une majorité de seulement trois voix, d'après Radio-Canada."
     },
     {
-      "sujet": "Fermeture studio BioWare EA",
-      "fait": "Electronic Arts a annoncé la fermeture de BioWare et l'abandon du prochain jeu Mass Effect en développement. Selon The Verge, cette décision s'accompagne de 400 licenciements et suit la transition d'EA en société privée pour 55 milliards de dollars en août."
+      "sujet": "Grève syndicale fédérale Canada",
+      "fait": "L'Alliance de la fonction publique du Canada annonce des votes de grève nationale en novembre. Selon Global News, le gouvernement a refusé de négocier sur les salaires, la sécurité d'emploi, le télétravail et les protections contre l'intelligence artificielle."
     },
     {
-      "sujet": "Financement Blacksmith IA",
-      "fait": "Blacksmith a atteint une valorisation d'un milliard de dollars après une levée de fonds de 66 millions de dollars menée par Sequoia. D'après TechCrunch, la plateforme permet aux entreprises de construire et tester du code IA plus efficacement."
+      "sujet": "Projet de loi C-39 environnement",
+      "fait": "Trois partis d'opposition font front commun avec des environnementalistes et syndicalistes pour demander au gouvernement Carney d'abandonner le projet de loi C-39 sur l'accélération des projets de développement économique, d'après La Presse."
     },
     {
-      "sujet": "Tarification Air Canada téléphone",
-      "fait": "Air Canada facture désormais 30 dollars pour les réservations par téléphone. Selon Le Devoir, le transporteur souhaite orienter les clients vers son site web et réduire les coûts des centres d'appels."
+      "sujet": "Cabinet québécois St-Pierre Plamondon",
+      "fait": "Le nouveau Conseil des ministres du Québec frôle la zone paritaire avec les femmes trouvant leur place mais les hommes restant majoritaires, selon Radio-Canada."
     },
     {
-      "sujet": "Perquisition GRC Lion Électrique",
-      "fait": "La GRC a effectué une perquisition chez Lion Électrique. D'après Radio-Canada, le corps policier mène une enquête depuis plusieurs mois intéressée par le carnet de commandes de l'entreprise."
+      "sujet": "Libération prisonnière américain Russie",
+      "fait": "La Russie libère l'Américain Stephen Hubbard après plus de quatre ans de détention, selon l'Associated Press."
     },
     {
-      "sujet": "Avertissement IA données bancaires",
-      "fait": "Le PDG de la Banque de Montréal, Darryl White, a averti qu'il est risqué de donner à des agents IA l'accès à des informations bancaires personnelles telles que les numéros de compte, mots de passe et NIP. D'après CBC, cette mise en garde porte sur les risques de sécurité."
+      "sujet": "Vulnérabilité PHP internet",
+      "fait": "Des failles critiques découvertes dans le langage PHP provoquent la mise hors ligne de sites majeurs incluant 4chan, DeviantArt, Wikipédia et des sites gouvernementaux néerlandais et finlandais. Selon The Verge, l'NSA et le centre britannique de cybersécurité recommandent de prendre les systèmes hors ligne."
     },
     {
-      "sujet": "Waymo service aéroport Las Vegas",
-      "fait": "Waymo commence à offrir des trajets à l'aéroport de Las Vegas avec des zones dédiées aux véhicules autonomes aux Terminaux 1 et 3. Selon TechCrunch, les prises en charge et les dépôts se feront dans ces zones spéciales."
+      "sujet": "Nouvelles actions Meta financement IA",
+      "fait": "Meta annonce l'émission d'une nouvelle classe d'actions sans droit de vote pour financer ses initiatives en intelligence artificielle, les acquisitions potentielles et la rémunération des employés, avec le début du commerce en 2027. Selon The Verge, Meta justifie cette action par l'importance des investissements requis pour concurrencer dans la transformation IA."
     },
     {
-      "sujet": "Réserve pétrole chauffage États-Unis",
-      "fait": "Les États-Unis prévoient de prêter un tiers de leur réserve de mazout de chauffage. D'après Global News, le Secrétaire à l'énergie Chris Wright a déclaré que l'administration était déterminée à réduire les coûts énergétiques."
+      "sujet": "Utilisateurs application Muse Meta",
+      "fait": "Meta annonce que Muse dépasse 10 millions d'utilisateurs, les shopping et productivité personnelle étant les principales activités, selon TechCrunch."
     },
     {
-      "sujet": "Affaire auteur IA Québec",
-      "fait": "Les Éditions du Boréal ont mis fin à leur collaboration avec l'auteur québécois Thélyson Orélien. Selon Radio-Canada, l'éditeur a trouvé des éléments indiquant que l'IA a été utilisée dans l'écriture de son roman primé 'C'était ça ou mourir'."
+      "sujet": "Tesla production Optimus robots",
+      "fait": "Tesla débute la production du robot Optimus en Californie alors que le profit chute de 43% et les revenus stagnent, d'après TechCrunch."
     },
     {
-      "sujet": "Négociations paix Ukraine Russie",
-      "fait": "La Russie a annoncé être prête à reprendre les pourparlers avec l'Ukraine et les États-Unis pour mettre fin à la guerre. D'après BBC World, cette annonce a suivi une rencontre entre le président Putin et l'envoyé spécial américain Steve Witkoff à Saint-Pétersbourg."
+      "sujet": "Levée de fonds Flapping Airplanes IA",
+      "fait": "Le laboratoire d'IA Flapping Airplanes lève 1 milliard de dollars en série A à une valorisation de 6 milliards de dollars, neuf mois après une levée de 180 millions au stade seed, selon TechCrunch."
+    },
+    {
+      "sujet": "Accord Ukraine paix russie États-Unis",
+      "fait": "La Russie déclare être 'prête en principe' à reprendre les pourparlers de paix sur l'Ukraine tandis que le Président Trump affirme que le monde est 'au plus proche' de la fin de la guerre, d'après BBC World."
     }
   ]
 }
