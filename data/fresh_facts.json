@@ -1,54 +1,50 @@
 {
-  "generated_at": "2026-10-20T22:08:15.816426+00:00",
+  "generated_at": "2026-10-21T17:55:02.962846+00:00",
   "window_hours": 8,
   "faits": [
     {
-      "sujet": "Élections québécoises - recomptage judiciaire",
-      "fait": "La Cour du Québec ordonne un dépouillement judiciaire dans la circonscription de Champlain, en Mauricie, où le candidat péquiste a perdu par 191 voix. Selon La Presse, cette décision fait suite à la demande du Parti québécois."
+      "sujet": "Faille informatique mondiale PHP",
+      "fait": "Deux vulnérabilités dans le protocole PHP, utilisé par environ 70% des sites web, ont été révélées mercredi. Selon Radio-Canada, cette faille a été découverte par un modèle d'IA d'OpenAI et affecte les sites de la SAQ, la STM et Hydro-Québec."
     },
     {
-      "sujet": "Formation du gouvernement québécois",
-      "fait": "Paul St-Pierre Plamondon formera son équipe de ministres mercredi et deviendra officiellement le chef du gouvernement québécois. Selon Le Devoir, il est le chef du Parti québécois désigné premier ministre."
+      "sujet": "Cabinet ministériel Québec PQ",
+      "fait": "Paul St-Pierre Plamondon a présenté son Conseil des ministres. D'après Radio-Canada, le premier ministre s'est engagé à former un Cabinet plus petit que celui de la Coalition avenir Québec (CAQ)."
     },
     {
-      "sujet": "Référendum en Alberta",
-      "fait": "Un référendum s'est tenu en Alberta sur la séparation du Canada. Selon Radio-Canada et La Presse, Paul St-Pierre Plamondon déclare que le message d'Alberta à Ottawa sur les abus de pouvoir fédéral 'ne peut pas être plus clair'."
+      "sujet": "Fermeture studio BioWare EA",
+      "fait": "Electronic Arts a annoncé la fermeture de BioWare et l'abandon du prochain jeu Mass Effect en développement. Selon The Verge, cette décision s'accompagne de 400 licenciements et suit la transition d'EA en société privée pour 55 milliards de dollars en août."
     },
     {
-      "sujet": "SpaceX - résultats financiers",
-      "fait": "SpaceX a réalisé un bénéfice net de 4,4 milliards de dollars au troisième trimestre, porté par son activité IA. Selon TechCrunch et Reuters, les revenus trimestriels ont dépassé les estimations."
+      "sujet": "Financement Blacksmith IA",
+      "fait": "Blacksmith a atteint une valorisation d'un milliard de dollars après une levée de fonds de 66 millions de dollars menée par Sequoia. D'après TechCrunch, la plateforme permet aux entreprises de construire et tester du code IA plus efficacement."
     },
     {
-      "sujet": "SpaceX et Tesla - fusion discutée",
-      "fait": "Tesla et SpaceX ont formé des comités spéciaux pour discuter d'une possible fusion à la demande des actionnaires. Selon The Verge, Elon Musk, PDG des deux entreprises, ne participe pas aux discussions en raison de son conflit d'intérêts."
+      "sujet": "Tarification Air Canada téléphone",
+      "fait": "Air Canada facture désormais 30 dollars pour les réservations par téléphone. Selon Le Devoir, le transporteur souhaite orienter les clients vers son site web et réduire les coûts des centres d'appels."
     },
     {
-      "sujet": "SpaceX - récupération de Starship",
-      "fait": "SpaceX tentera de capturer pour la première fois Starship et son booster le mois prochain, selon Elon Musk. Selon The Verge, ce serait la première récupération complète d'un véhicule de lancement orbital de l'histoire."
+      "sujet": "Perquisition GRC Lion Électrique",
+      "fait": "La GRC a effectué une perquisition chez Lion Électrique. D'après Radio-Canada, le corps policier mène une enquête depuis plusieurs mois intéressée par le carnet de commandes de l'entreprise."
     },
     {
-      "sujet": "Netflix - perspectives Q4 faibles",
-      "fait": "Netflix émet une prévision faible pour le quatrième trimestre et ses actions baissent. Selon Reuters, le géant du streaming rapporte une baisse du temps de visionnage."
+      "sujet": "Avertissement IA données bancaires",
+      "fait": "Le PDG de la Banque de Montréal, Darryl White, a averti qu'il est risqué de donner à des agents IA l'accès à des informations bancaires personnelles telles que les numéros de compte, mots de passe et NIP. D'après CBC, cette mise en garde porte sur les risques de sécurité."
     },
     {
-      "sujet": "Élections fédérales américaines",
-      "fait": "Donald Trump engage plus de 400 millions de dollars avant les élections de mi-mandat critiques. Selon Al Jazeera, le Parti républicain cherche à conserver le contrôle des deux chambres du Congrès malgré un déclin des sondages."
+      "sujet": "Waymo service aéroport Las Vegas",
+      "fait": "Waymo commence à offrir des trajets à l'aéroport de Las Vegas avec des zones dédiées aux véhicules autonomes aux Terminaux 1 et 3. Selon TechCrunch, les prises en charge et les dépôts se feront dans ces zones spéciales."
     },
     {
-      "sujet": "Anthropic - pertes financières",
-      "fait": "Anthropic a enregistré une perte nette de plus de 80 milliards de dollars au premier semestre 2026. Selon Reuters Business, le cabinet lutte pour sécuriser assez de capacité informatique auprès des fournisseurs de cloud avant son IPO prévue en novembre."
+      "sujet": "Réserve pétrole chauffage États-Unis",
+      "fait": "Les États-Unis prévoient de prêter un tiers de leur réserve de mazout de chauffage. D'après Global News, le Secrétaire à l'énergie Chris Wright a déclaré que l'administration était déterminée à réduire les coûts énergétiques."
     },
     {
-      "sujet": "Tarifs douaniers Trump - action en justice",
-      "fait": "Un importateur alimentaire américain poursuit Trump sur les tarifs de 50 % sur les produits canadiens. Selon Al Jazeera, la poursuite argue que Trump a contourné le Congrès en utilisant une loi datant de la Grande Dépression."
+      "sujet": "Affaire auteur IA Québec",
+      "fait": "Les Éditions du Boréal ont mis fin à leur collaboration avec l'auteur québécois Thélyson Orélien. Selon Radio-Canada, l'éditeur a trouvé des éléments indiquant que l'IA a été utilisée dans l'écriture de son roman primé 'C'était ça ou mourir'."
     },
     {
-      "sujet": "Ontario - enquête sur des collèges privés",
-      "fait": "L'Ontario lance une enquête sur huit collèges privés pour fraude alléguée aux prêts OSAP. Selon Global News, les enquêteurs ont rassemblé des informations et interrogé des individus dans ces établissements."
-    },
-    {
-      "sujet": "OpenAI - acquisition d'Orchestra Bio",
-      "fait": "OpenAI acquiert la startup Orchestra Bio pour renforcer son activité de biotechnologie. Selon TechCrunch, l'équipe et la technologie seront intégrées à Rosalind, son modèle IA pour la recherche en sciences de la vie."
+      "sujet": "Négociations paix Ukraine Russie",
+      "fait": "La Russie a annoncé être prête à reprendre les pourparlers avec l'Ukraine et les États-Unis pour mettre fin à la guerre. D'après BBC World, cette annonce a suivi une rencontre entre le président Putin et l'envoyé spécial américain Steve Witkoff à Saint-Pétersbourg."
     }
   ]
 }
