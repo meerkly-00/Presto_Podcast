@@ -1,0 +1,14 @@
+{
+  "date": "2026-10-21",
+  "kind": "poll",
+  "text": "Ce matin → Une faille informatique dans PHP touche 70% des sites web mondiaux.\n\nNouveau : La SAQ, la STM et Hydro-Québec ont dû verrouiller leurs sites.\n\nComment devraient réagir les sites web québécois face à cette faille?",
+  "poll": {
+    "options": [
+      "Corriger immédiatement",
+      "Maintenir les services",
+      "Attendre les",
+      "Consulter des experts en"
+    ],
+    "duration_minutes": 1440
+  }
+}
