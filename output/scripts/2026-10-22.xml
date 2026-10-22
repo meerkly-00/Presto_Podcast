@@ -1,0 +1,77 @@
+```xml
+<script>
+  <intro>Bonjour, on est le jeudi vingt-deux octobre deux mille vingt-six. Voici votre Presto en environ quinze minutes. Au menu : l'assermentation du nouveau conseil des ministres à Québec, Mark Carney en Turquie, les marchés secoués par les résultats technologiques, et la tech avec Meta, Tesla et un possible mariage SpaceX-Tesla.</intro>
+
+  <chapitre titre="Actualité québécoise">
+    À Québec, le premier ministre Paul St-Pierre Plamondon a présenté hier son conseil des ministres. Selon Radio-Canada, la cérémonie d'assermentation s'est déroulée sans la lieutenante-gouverneure du Québec, Manon Jeannotte, une situation inédite. Paul St-Pierre Plamondon a nommé vingt-trois ministres.
+
+    Selon Radio-Canada, le premier ministre mise sur des parlementaires expérimentés pour limiter son exposition au risque, même si certains portefeuilles accordés demeurent délicats. La Presse rapporte que plusieurs mandats confiés aux nouveaux ministres méritent une attention particulière dans les prochaines semaines.
+
+    En parallèle, les résultats du dépouillement judiciaire dans la circonscription de Vachon sont tombés. Selon le Journal de Montréal, le Parti québécois a remporté cette circonscription.
+
+    Ailleurs au Québec, Radio-Canada a diffusé une enquête sur des influenceurs immobiliers qui encouragent leurs adeptes à racheter des blocs de logements abordables pour ensuite augmenter rapidement les loyers et en gonfler la valeur marchande. Selon Radio-Canada, l'un de ces influenceurs, Cory Albert, a affirmé avoir acheté un complexe de vingt-neuf logements en Beauce pour trois millions de dollars, et a exposé son intention de doubler les revenus de loyer de cet immeuble.
+  </chapitre>
+
+  <chapitre titre="Politique canadienne">
+    Le premier ministre Mark Carney poursuit sa tournée diplomatique. Selon Reuters et le National Post, il se trouve actuellement en Turquie pour une première visite bilatérale officielle d'un premier ministre canadien à Ankara, dans le cadre de ses efforts pour diversifier les partenariats commerciaux et stratégiques du Canada, en pleine guerre commerciale avec Washington.
+
+    Selon Radio-Canada, ce rapprochement survient alors que la communauté LGBTQ+ et les médias font l'objet de répression en Turquie. Le National Post pose la question de savoir si cette démarche pourrait déplaire à l'administration Trump.
+
+    Du côté canado-américain, la tension persiste. Selon CBC, l'ambassade américaine à Ottawa affirme que le gouvernement Carney minimise des préoccupations concernant une possible ingérence canadienne dans les élections de mi-mandat américaines, même si Mark Carney a soutenu que le Canada ne s'implique pas dans la politique américaine. Toujours selon CBC, au moins onze Canadiens ont été visés par une répression américaine contre le vote de non-citoyens, à l'approche des élections de mi-mandat prévues le trois novembre.
+
+    En Colombie-Britannique, le dépouillement des résultats électoraux provinciaux se poursuit, avec plusieurs circonscriptions dont West Vancouver-Sea to Sky, West Vancouver-Capilano et West Kelowna-Peachland encore à confirmer, selon Global News.
+  </chapitre>
+
+  <chapitre titre="International">
+    En France, Emmanuel Macron a réagi aux accusations voulant que les émeutes récentes soient attribuables aux migrants musulmans. Selon l'Associated Press, le président français a qualifié ces affirmations, formulées notamment par Donald Trump, de stupides.
+
+    En Russie, Moscou a libéré l'Américain Stephen Hubbard après plus de quatre ans de détention, selon l'Associated Press. Toujours selon le National Post, la Russie s'est dite prête, en principe, à reprendre les discussions trilatérales de paix avec l'Ukraine et les États-Unis, après une rencontre entre Vladimir Poutine et un envoyé américain, même si Moscou reste sceptique quant aux chances réelles d'une entente.
+
+    Au Moyen-Orient, la situation demeure volatile. Selon la BBC, deux personnes sont mortes dans une attaque contre un aéroport dans l'est de l'Arabie saoudite, la plus récente d'une série d'attaques attribuées au mouvement houthi. Toujours au Yémen, Al Jazeera rapporte que les combats s'intensifient dans la région de Taëz, alors que les Nations unies font état de près de deux cent soixante mille personnes désormais déplacées. Un porte-parole des forces gouvernementales yéménites affirme avoir mené des centaines de frappes contre des positions houthies.
+
+    En Israël, une campagne électorale est en cours. Selon Al Jazeera, les opposants de Benjamin Netanyahou promettent un changement de cap politique, même si leurs positions demeurent, selon certains observateurs, proches de celles du gouvernement sortant. La BBC souligne que les partis arabes pourraient détenir un poids déterminant dans la balance du pouvoir, un électorat historiquement marqué par un faible taux de participation.
+
+    Au Vatican, le pape Léon n'aura pas besoin de traitement supplémentaire après sa chirurgie pour un cancer du poumon la semaine dernière, selon un communiqué du Vatican rapporté par CBC.
+
+    En Australie, la députée Helen Haines a subi l'amputation des deux jambes après avoir été heurtée par un véhicule devant son bureau de circonscription, selon CBC. Un suspect a comparu devant le tribunal.
+  </chapitre>
+
+  <chapitre titre="Économie et marchés">
+    On passe à l'économie, où les résultats technologiques du troisième trimestre pèsent sur les marchés. Selon Reuters, les actions ont reculé et les obligations ont progressé après que Meta a douché l'optimisme entourant le secteur technologique. Selon Bloomberg, le rendement des obligations américaines à long terme a atteint son plus bas niveau en un mois, les craintes entourant l'intelligence artificielle alimentant une recherche de valeurs refuges.
+
+    Le secrétaire américain au Trésor Scott Bessent a minimisé les risques dits systémiques liés à l'intelligence artificielle lors d'une conférence d'investisseurs à huis clos, selon le Financial Times. À l'opposé, le responsable de l'intelligence artificielle chez Blackstone, Jas Khaira, affirme que les craintes entourant l'endettement lié à la construction d'infrastructures d'intelligence artificielle sont exagérées, selon TechCrunch.
+
+    Du côté pétrolier, Bloomberg rapporte que les prix de l'or noir demeurent élevés. Selon le Financial Times, les exportations pétrolières du Moyen-Orient sont remontées à des niveaux d'avant-guerre. De son côté, le Wall Street Journal rapporte que la flotte de pétroliers fantômes de l'Iran s'est retrouvée à court de pétrole après des mois de blocus américain.
+
+    En Argentine, l'économie affiche une reprise jugée modeste après une forte contraction, selon Bloomberg.
+
+    Chez Tesla, les résultats du troisième trimestre déçoivent. Selon Ars Technica, l'entreprise a enregistré des revenus de vingt-huit milliards de dollars, à peu près stables par rapport à l'an dernier, mais son profit net a chuté de quarante-trois pour cent pour s'établir à environ huit cents millions de dollars. Les revenus automobiles ont reculé de trois pour cent, et la division solaire et batteries a vu ses revenus baisser de seize pour cent. La marge opérationnelle de l'entreprise est passée de cinq virgule huit pour cent à deux virgule six pour cent.
+
+    Dans la foulée, le Wall Street Journal rapporte que SpaceX et Tesla envisageraient une fusion. Selon BNN Bloomberg, Tesla réduit ses dépenses en vue d'une possible transaction avec SpaceX, tout en misant sur l'intelligence artificielle et la robotique pour son avenir.
+  </chapitre>
+
+  <chapitre titre="Tech">
+    En tech, Meta fait les manchettes pour deux raisons distinctes. D'abord, selon l'Associated Press, un tribunal du Nouveau-Mexique a ordonné à l'entreprise de verser vingt-cinq milliards de dollars à l'État pour avoir trompé les utilisateurs sur la protection de leurs renseignements personnels, dans le sillage du scandale Cambridge Analytica. Al Jazeera précise que l'entreprise est accusée d'avoir induit les utilisateurs en erreur sur ses pratiques de confidentialité des données.
+
+    Ensuite, Meta a annoncé la création d'une nouvelle catégorie d'actions pour financer ses investissements en intelligence artificielle. Selon The Verge, ces actions sans droit de vote serviront aussi à financer d'éventuelles acquisitions et la rémunération des employés, avec un début des échanges prévu en deux mille vingt-sept. La directrice financière de Meta, Susan Li, a indiqué lors d'un appel aux investisseurs que l'ampleur des investissements requis pour suivre la transformation du secteur est considérable.
+
+    Toujours chez Tesla, l'entreprise a dévoilé un échéancier pour son Cybercab. Selon TechCrunch, Tesla prévoit commencer à vendre ce véhicule autonome à deux places d'ici la fin de l'année, même si les régulateurs fédéraux examinent toujours si le véhicule respecte les normes de sécurité. Le véhicule ne possède ni volant ni commandes traditionnelles. The Verge ajoute que Tesla promet aussi aux propriétaires actuels de pouvoir ajouter leur propre véhicule à la flotte de robotaxis, mais seulement à partir du deuxième trimestre de deux mille vingt-sept.
+
+    Du côté de l'environnement, The Verge rapporte qu'une vague de nouveaux centres de données pourrait faire reculer des décennies de gains en matière de qualité de l'air, particulièrement au Texas, où les besoins électriques liés à l'intelligence artificielle générative explosent. Certaines entreprises technologiques développent leurs propres sources d'électricité pour répondre à cette demande.
+
+    Aux États-Unis, le président de la Commission fédérale des communications, Brendan Carr, a averti les diffuseurs de ne pas relayer de sondages jugés mensongers, selon Ars Technica. Il a évoqué de possibles violations des obligations réglementaires des diffuseurs en cas de distorsion de l'information.
+
+    Enfin, un éditeur canadien a mis fin à sa relation avec l'auteur Thelyson Orelien après avoir découvert qu'il avait utilisé l'intelligence artificielle pour écrire un livre primé, selon Reuters.
+  </chapitre>
+
+  <chapitre titre="Sport">
+    Rapidement en sport. Au hockey, le retour de Brady Tkachuk à Ottawa a suscité beaucoup d'émotion. Selon CBC et Sportsnet, l'ancien capitaine des Sénateurs, maintenant avec les Panthers de la Floride après avoir demandé d'être échangé, a été copieusement hué par les partisans d'Ottawa tout au long du match. TVA Sports rapporte qu'il a tout de même marqué rapidement en première période.
+
+    Au basketball, selon Sportsnet, Kawhi Leonard a mené les Raptors de Toronto vers une victoire décisive lors du match d'ouverture, avec vingt-trois points, six rebonds, deux passes, quatre interceptions et un contre, tout en réussissant ses onze lancers francs.
+
+    Au hockey junior, TVA Sports rapporte que Québec saura aujourd'hui si sa candidature pour accueillir la Coupe Memorial de deux mille vingt-huit est retenue.
+  </chapitre>
+
+  <outro>Voilà pour ce Presto du vingt-deux octobre deux mille vingt-six. Si ce briefing vous est utile, le meilleur coup de main que vous pouvez nous donner, c'est de le partager à une personne qui aime rester informée. Et selon votre plateforme : un abonnement sur Spotify ou Apple Podcasts, un pouce bleu et un abonnement sur YouTube, ça prend deux secondes et ça aide vraiment Presto à grandir. Sur ce, bonne journée, et à demain.</outro>
+</script>
+```
