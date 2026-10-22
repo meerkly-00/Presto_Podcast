@@ -1,54 +1,54 @@
 {
-  "generated_at": "2026-10-22T17:52:07.148659+00:00",
+  "generated_at": "2026-10-22T22:07:48.682662+00:00",
   "window_hours": 8,
   "faits": [
     {
-      "sujet": "Meta condamnée à une amende record",
-      "fait": "La Cour fédérale du Nouveau-Mexique a condamné Meta à payer 25 milliards de dollars après qu'un jury l'ait jugée coupable de près de 44 millions de violations des lois de protection des consommateurs. D'après Ars Technica, cette amende est la plus importante jamais imposée à Meta, après que l'État du Nouveau-Mexique a refusé de rejoindre un règlement multiétatique de 18 milliards de dollars conclu plus tôt dans l'année."
+      "sujet": "Projet de loi numérique Canada",
+      "fait": "Le ministre Miller déclare que le gouvernement avance rapidement sur le projet de loi C-34 concernant la sécurité numérique, qui inclut une interdiction des médias sociaux pour les enfants, mais aucun délai n'est fixé pour la création du régulateur numérique. Selon Global News."
     },
     {
-      "sujet": "Vulnérabilités critiques du langage PHP",
-      "fait": "Des vulnérabilités critiques ont été découvertes dans PHP, un langage de programmation utilisé par une large portion d'Internet, y compris les sites WordPress. Selon The Verge, des hackers ont tenté d'exploiter ces failles dès le 17 octobre, plusieurs jours avant la publication du correctif le 21 octobre."
+      "sujet": "Conservateurs québécois au Parlement",
+      "fait": "Les députés du Parti conservateur du Québec ont été assermentés le 22 octobre, marquant le retour du parti à l'Assemblée nationale après plus de 90 ans. Éric Duhaime reconnaît que ses députés commettront des erreurs. Selon Le Devoir et Radio-Canada."
     },
     {
-      "sujet": "Ministre Joly ultimatum à Stelco",
-      "fait": "La ministre de l'Industrie Mélanie Joly a donné un délai de 15 jours à Stelco pour se conformer à ses engagements en matière d'emploi ou justifier son non-respect, sous menace d'action en justice selon la Loi sur Investissement Canada. D'après le National Post, il s'agit d'une deuxième mise en demeure suite aux licenciements annoncés par l'aciérier."
+      "sujet": "Stelco mise en demeure fédérale",
+      "fait": "Le gouvernement fédéral a adressé une mise en demeure à Stelco avec un délai de 15 jours pour répondre. L'opposition et les travailleurs jugent ce délai insuffisant. Selon Radio-Canada."
     },
     {
-      "sujet": "Investissement d'Elon Musk dans Skydance",
-      "fait": "Elon Musk a réalisé un investissement de 1 milliard de dollars dans Skydance. Selon TechCrunch, cet investissement doit fournir un coup de pouce financier nécessaire à l'entreprise qui cherche à réduire ses coûts et relever le cours de son action."
+      "sujet": "Tremblement de terre en Chine",
+      "fait": "Un séisme de magnitude 7 a tué 16 personnes et blessé 32 autres dans le Tibet, en Chine, selon Xinhua. Selon Al Jazeera."
     },
     {
-      "sujet": "Breach ConnectWise par des hackers chinois",
-      "fait": "Des hackers alignés sur la Chine ont compromis le géant informatique ConnectWise et ont utilisé des agents IA pour accéder rapidement aux données de milliers de ses clients. D'après TechCrunch, Microsoft a imputé la responsabilité de cette brèche à un hacteur soutenu par la Chine."
+      "sujet": "Expéditions de PC en baisse",
+      "fait": "Les expéditions mondiales de PC ont chuté de 21% en glissement annuel au troisième trimestre 2026, principalement en raison de la hausse des prix des composants comme la RAM et les SSD. Selon The Verge citant Counterpoint Research."
     },
     {
-      "sujet": "Fermeture du navigateur Arc",
-      "fait": "The Browser Company prévoit de cesser les opérations du navigateur Arc le 22 décembre. D'après The Verge, de nouveaux comptes Arc ne peuvent plus être créés à partir d'aujourd'hui, et les fonctionnalités IA seront désactivées le 23 novembre sur iOS et Android."
+      "sujet": "IA Canva Craft lancée",
+      "fait": "Canva a lancé son modèle de génération d'images Canva Craft, capable de générer des images jusqu'à 2K de résolution et dans plus de 30 formats de rapport. Selon The Verge."
     },
     {
-      "sujet": "Récifs coralliens menacés d'extinction",
-      "fait": "96 % des récifs coralliens sont menacés d'extinction d'ici 50 ans selon un constat climatique. D'après Radio-Canada, les coraux sont particulièrement vulnérables aux changements climatiques."
+      "sujet": "Arc browser fermé décembre",
+      "fait": "The Browser Company ferme son navigateur Arc le 22 décembre 2026, se concentrant sur son nouveau produit Dia. Selon TechCrunch."
     },
     {
-      "sujet": "Hausse du prix du pétrole",
-      "fait": "Le prix du pétrole a atteint son niveau le plus élevé depuis mai, au milieu de la guerre en Iran. D'après Global News, cette hausse a entraîné une baisse des marchés mondiaux due à la chute des valeurs technologiques."
+      "sujet": "Nouveau PDG de la LCBO",
+      "fait": "Aaron Campbell, 43 ans, ancien aide du premier ministre et organisateur du TIFF, a été nommé président et PDG de la LCBO, devenant le plus jeune à occuper ce poste. Selon National Post."
     },
     {
-      "sujet": "Procédure contre Trump par la BBC",
-      "fait": "La BBC a ordonné à Donald Trump de répondre sous serment dans un procès en diffamation qu'il a intenté. D'après BBC World, Trump poursuit la BBC pour un épisode de Panorama où deux sections différentes d'un discours de 2021 ont été assemblées."
+      "sujet": "Trump Starlink Ukraine",
+      "fait": "Trump déclare que Musk a restauré l'accès de l'Ukraine à Starlink, sans préciser s'ils se sont parlé. Selon BBC World et Reuters."
     },
     {
-      "sujet": "Déploiement ChatGPT Work chez Uber",
-      "fait": "Uber a étendu l'accès à ChatGPT Work à l'ensemble de ses 30 000 employés, après un test pilote initial plus restreint. D'après TechCrunch, cette généralisation se fait au niveau de l'entreprise."
+      "sujet": "Interdiction calèches New York",
+      "fait": "Le conseil municipal de New York a approuvé une loi interdisant les promenades en calèche à partir de juin 2028, suite au décès d'une adolescente touriste au printemps. Selon CBC."
     },
     {
-      "sujet": "Nintendo Switch 2 jailbreaké par exploit",
-      "fait": "Un modeur a jailbreaké la Nintendo Switch 2 en utilisant un ancien jeu et de l'IA, permettant d'exécuter une version modifiée de Mario Kart World avec de nouveaux personnages. D'après The Verge, OpenAI's Codex a contribué au développement de cet exploit appelé 'ns2jb'."
+      "sujet": "Rivian acquisition technologie",
+      "fait": "Rivian a acquis la startup Third Dimension pour accélérer ses ambitions en conduite autonome, utilisant la technologie de modèle mondial de l'IA. Selon TechCrunch."
     },
     {
-      "sujet": "Essai vaccinal annulé en Guinée-Bissau",
-      "fait": "La Guinée-Bissau a formellement rejeté un essai clinique de vaccin contre l'hépatite B financé par les États-Unis et mené par des chercheurs danois. D'après Ars Technica, le rejet officiel date du 16 octobre, suite à des oppositions internationales concernant l'éthique de l'étude."
+      "sujet": "Canada Post fin de semaine",
+      "fait": "Canada Post prévoit de commencer la livraison de colis le fin de semaine à sept millions de ménages d'ici fin 2027, dans des villes comme Toronto, Montréal et Ottawa. Selon CBC."
     }
   ]
 }
