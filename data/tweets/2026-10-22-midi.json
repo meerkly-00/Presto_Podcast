@@ -1,0 +1,14 @@
+{
+  "date": "2026-10-22",
+  "kind": "poll",
+  "text": "Ce matin → Meta doit verser 25 milliards $ au Nouveau-Mexique pour violations des lois de protection des consommateurs.\n\nNouveau développement : c'est l'amende la plus importante jamais\n\nComment vois-tu les amendes massives imposées aux géants du web pour protection des données?",
+  "poll": {
+    "options": [
+      "Nécessaires pour changer",
+      "Utiles mais insuffisantes",
+      "Trop lourdes pour",
+      "Sans effet réel sur le"
+    ],
+    "duration_minutes": 1440
+  }
+}
