@@ -1,54 +1,54 @@
 {
-  "generated_at": "2026-10-22T22:07:48.682662+00:00",
+  "generated_at": "2026-10-23T17:44:12.512871+00:00",
   "window_hours": 8,
   "faits": [
     {
-      "sujet": "Projet de loi numérique Canada",
-      "fait": "Le ministre Miller déclare que le gouvernement avance rapidement sur le projet de loi C-34 concernant la sécurité numérique, qui inclut une interdiction des médias sociaux pour les enfants, mais aucun délai n'est fixé pour la création du régulateur numérique. Selon Global News."
+      "sujet": "Canada-UE négociations commerciales",
+      "fait": "Le ministre du Commerce international canadien Maninder Sidhu négocie en Irlande avant un sommet Canada-UE prévu la semaine suivante à Montréal. Selon Global News, les deux parties se rapprochent d'un accord sur le commerce numérique."
     },
     {
-      "sujet": "Conservateurs québécois au Parlement",
-      "fait": "Les députés du Parti conservateur du Québec ont été assermentés le 22 octobre, marquant le retour du parti à l'Assemblée nationale après plus de 90 ans. Éric Duhaime reconnaît que ses députés commettront des erreurs. Selon Le Devoir et Radio-Canada."
+      "sujet": "Hélium désigné matière critique",
+      "fait": "Les États-Unis ont désigné l'hélium comme matière critique le vendredi en raison de risques de perturbation de l'approvisionnement mondial, selon le département de l'Énergie rapporté par Global News."
     },
     {
-      "sujet": "Stelco mise en demeure fédérale",
-      "fait": "Le gouvernement fédéral a adressé une mise en demeure à Stelco avec un délai de 15 jours pour répondre. L'opposition et les travailleurs jugent ce délai insuffisant. Selon Radio-Canada."
+      "sujet": "Starlink Ukraine throttling incident",
+      "fait": "Selon The Verge, le service Starshield utilisé par l'armée ukrainienne a été limité pour bloquer les terminaux voyageant à certaines vitesses, ce qui aurait entraîné l'arrêt des intercepteurs de drones et causé au moins deux décès et 17 blessés."
     },
     {
-      "sujet": "Tremblement de terre en Chine",
-      "fait": "Un séisme de magnitude 7 a tué 16 personnes et blessé 32 autres dans le Tibet, en Chine, selon Xinhua. Selon Al Jazeera."
+      "sujet": "Double meurtre Rivière-du-Loup",
+      "fait": "Deux femmes de 19 et 24 ans ont été tuées par arme à feu dans un stationnement à Rivière-du-Loup dans la nuit du 23 au 24 octobre. D'après Radio-Canada, aucune arrestation n'a été effectuée et la Sûreté du Québec enquête."
     },
     {
-      "sujet": "Expéditions de PC en baisse",
-      "fait": "Les expéditions mondiales de PC ont chuté de 21% en glissement annuel au troisième trimestre 2026, principalement en raison de la hausse des prix des composants comme la RAM et les SSD. Selon The Verge citant Counterpoint Research."
+      "sujet": "Aide itinérance au Québec",
+      "fait": "Le gouvernement du Québec a débloqué 28 millions de dollars supplémentaires d'aide d'urgence en itinérance suite au décès récent d'une femme itinérante à Sorel-Tracy, selon Radio-Canada."
     },
     {
-      "sujet": "IA Canva Craft lancée",
-      "fait": "Canva a lancé son modèle de génération d'images Canva Craft, capable de générer des images jusqu'à 2K de résolution et dans plus de 30 formats de rapport. Selon The Verge."
+      "sujet": "Intel obtient exemption robots",
+      "fait": "Intel a reçu une exemption d'un an de la part de la FCC pour continuer à utiliser des véhicules guidés automatisés étrangers dans ses usines de semi-conducteurs américaines, selon Ars Technica."
     },
     {
-      "sujet": "Arc browser fermé décembre",
-      "fait": "The Browser Company ferme son navigateur Arc le 22 décembre 2026, se concentrant sur son nouveau produit Dia. Selon TechCrunch."
+      "sujet": "Google modifie politique confidentialité",
+      "fait": "Depuis le 16 octobre, Google a modifié sa politique de confidentialité pour permettre l'utilisation de données de Gmail, Google Drive et Google Photos à des fins de publicités ciblées si l'utilisateur active les fonctionnalités d'IA personnalisées, selon The Verge."
     },
     {
-      "sujet": "Nouveau PDG de la LCBO",
-      "fait": "Aaron Campbell, 43 ans, ancien aide du premier ministre et organisateur du TIFF, a été nommé président et PDG de la LCBO, devenant le plus jeune à occuper ce poste. Selon National Post."
+      "sujet": "Ceasefire Ukraine Oleshky",
+      "fait": "Selon la Maison-Blanche rapporté par BBC World et CBC, Melania Trump et le Pape Léon ont négocié un cessez-le-feu humanitaire à Oleshky, ville contrôlée par la Russie, prenant effet le 29 octobre."
     },
     {
-      "sujet": "Trump Starlink Ukraine",
-      "fait": "Trump déclare que Musk a restauré l'accès de l'Ukraine à Starlink, sans préciser s'ils se sont parlé. Selon BBC World et Reuters."
+      "sujet": "Commonwealth Fusion Systems financement",
+      "fait": "Commonwealth Fusion Systems a reçu une allocation fédérale de 85 millions de dollars pour développer des conducteurs pour les centrales de fusion électrique, selon TechCrunch."
     },
     {
-      "sujet": "Interdiction calèches New York",
-      "fait": "Le conseil municipal de New York a approuvé une loi interdisant les promenades en calèche à partir de juin 2028, suite au décès d'une adolescente touriste au printemps. Selon CBC."
+      "sujet": "Startup Daytona valuation",
+      "fait": "La startup Daytona, spécialisée dans le cloud pour agents d'IA, a atteint une valorisation de 1 milliard de dollars avec le soutien de FirstMark et plusieurs anges investisseurs dont les fondateurs de Stripe et Datadog, selon TechCrunch."
     },
     {
-      "sujet": "Rivian acquisition technologie",
-      "fait": "Rivian a acquis la startup Third Dimension pour accélérer ses ambitions en conduite autonome, utilisant la technologie de modèle mondial de l'IA. Selon TechCrunch."
+      "sujet": "Échange hockey Hellebuyck",
+      "fait": "Connor Hellebuyck, gardien étoile des Jets de Winnipeg, a été échangé aux Devils du New Jersey le vendredi selon CBC."
     },
     {
-      "sujet": "Canada Post fin de semaine",
-      "fait": "Canada Post prévoit de commencer la livraison de colis le fin de semaine à sept millions de ménages d'ici fin 2027, dans des villes comme Toronto, Montréal et Ottawa. Selon CBC."
+      "sujet": "Carney critique dépendance tech américaine",
+      "fait": "Mark Carney a déclaré ses préoccupations concernant la manipulation du système Starlink de SpaceX en Ukraine, soulignant selon le National Post pourquoi il se concentre sur la réduction de la dépendance du Canada envers un seul pays ou technologie."
     }
   ]
 }
