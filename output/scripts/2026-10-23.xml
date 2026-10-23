@@ -1,0 +1,65 @@
+```xml
+<script>
+  <intro>Bonjour, on est le vendredi vingt-trois octobre deux mille vingt-six. Voici votre Presto en environ quinze minutes. Au menu : l'économie et les marchés secoués par un dégonflement technologique, l'international avec le Moyen-Orient et le Brésil, la politique canadienne avec le budget Carney et un drame militaire en Alberta, et un mot sur la tech.</intro>
+
+  <chapitre titre="Économie et marchés">
+Le mot d'ordre des dernières vingt-quatre heures, c'est le recul technologique. Selon Reuters, le S&amp;P 500 et le Nasdaq ont clôturé jeudi en nette baisse, les investisseurs ravivant leurs doutes sur les valorisations liées à l'intelligence artificielle. Le Wall Street Journal confirme que les actions technologiques ont mené la baisse, dans un mouvement qui s'est ensuite propagé en Asie. Selon Bloomberg, les actions coréennes ont reculé à l'ouverture vendredi, plombées par les titres de semi-conducteurs après la vente massive américaine, et les marchés asiatiques s'orientaient généralement à la baisse.
+
+En parallèle, ce dégonflement technologique a profité aux obligations. Bloomberg rapporte que les obligations japonaises ont progressé, la demande pour les valeurs refuges augmentant à mesure que le recul technologique mondial s'intensifie. Reuters note d'ailleurs, dans sa chronique matinale, que les obligations longues américaines ont connu une progression notable. Selon le Financial Times, les investisseurs européens font aussi face à une réalité difficile concernant les rendements obligataires américains.
+
+Du côté du pétrole, la tendance est inverse. Selon le Wall Street Journal, le pétrole se dirige vers un gain hebdomadaire, porté par les craintes d'une escalade renouvelée entre les États-Unis et l'Iran. Reuters précise que le brut se négocie près d'un sommet de cinq mois. Toujours au Moyen-Orient, l'Associated Press rapporte que l'Iran affirme que sept pétroliers ont été endommagés dans le détroit d'Ormuz, sans préciser les circonstances exactes de ces incidents.
+
+Dans l'actualité des entreprises, le Financial Times rapporte qu'OpenAI a revu à la baisse sa cible de valorisation, désormais fixée à environ un billion deux cent cinquante milliards de dollars américains, après avoir d'abord visé un chiffre plus élevé. Chez les constructeurs automobiles, Reuters rapporte que les actions de Volvo Cars ont fortement reculé après l'annonce d'une perte importante et de deux mille cinq cents suppressions d'emplois additionnelles. Selon Reuters toujours, le président américain Donald Trump a annoncé que Bombardier investirait deux cent soixante-dix millions de dollars aux États-Unis.
+
+Au Canada, BNN Bloomberg rapporte que le président de Postes Canada évoque des signes précoces de redressement, même si les problèmes financiers de la société persistent. Et selon le National Post, le deuxième budget du premier ministre Mark Carney devrait inclure des mesures destinées à aider les petites entreprises à réduire leurs coûts et à investir davantage, selon des sources gouvernementales.
+  </chapitre>
+
+  <chapitre titre="Politique canadienne">
+Mark Carney poursuit sa tournée diplomatique en Turquie. Selon La Presse, le premier ministre affirme ne pas être particulièrement inquiet du resserrement des liens entre le Canada et la Turquie, même si ce pays est critiqué pour avoir bafoué les droits des personnes LGBTQ+. Les détracteurs de ce rapprochement estiment que les droits humains devraient peser davantage dans les choix de partenaires commerciaux du Canada, tandis que le gouvernement Carney privilégie la diversification économique dans un contexte de tensions commerciales avec les États-Unis.
+
+Toujours à Ottawa, Le Devoir s'est entretenu avec le député conservateur Jamil Jivani, qui se présente comme le pourfendeur en chef de ce qu'il appelle le wokisme au sein du Parlement canadien.
+
+En Alberta, la poussière continue de retomber après le référendum sur la séparation. Selon La Presse, le dépouillement a continué de réserver des surprises, certains résultats ayant basculé vers le non plusieurs jours après le scrutin, laissant la première ministre Danielle Smith avec ce qu'une experte citée par le journal qualifie de "pétard mouillé".
+
+Du côté des Forces armées canadiennes, Radio-Canada rapporte que les circonstances ayant mené à la mort de quatre militaires dans l'incendie d'un champ de tir à Wainwright ne sont toujours pas connues.
+
+Ailleurs au pays, CBC rapporte que les fouilles d'appareils électroniques comme les téléphones et les ordinateurs portables par les douanes américaines ont augmenté de plus de trente-deux pour cent depuis le début de l'année, un rythme qui pourrait établir un nouveau record.
+  </chapitre>
+
+  <chapitre titre="International">
+Au Moyen-Orient, la situation reste tendue sur plusieurs fronts. Outre les tensions autour du détroit d'Ormuz, le National Post rapporte que Donald Trump affirme que l'accès de l'Ukraine au système satellite Starshield est de retour, après que le Wall Street Journal eut révélé que le président américain avait demandé au milliardaire Elon Musk de rétablir ce service essentiel aux forces de Kyiv. La BBC nuance toutefois ce portrait : selon des sources citées par le diffuseur britannique, des problèmes persistent avec le réseau Starlink utilisé par l'armée ukrainienne, malgré les démentis répétés d'un ralentissement délibéré.
+
+En Asie, la BBC rapporte qu'un puissant séisme a frappé une région montagneuse et peu peuplée du Tibet, faisant seize morts selon les autorités chinoises. Toujours selon la BBC, des centaines de vols ont été annulés à Taïwan en raison du typhon Champi, qui a notamment entraîné la mort d'une personne emportée par les vagues sur l'île de Liuqiu.
+
+En Afrique, la BBC rapporte que des hôpitaux ont été délibérément ciblés par les combattants des Forces de soutien rapide au Soudan. Le haut-commissaire des Nations unies aux droits de l'homme, Volker Türk, affirme que ces attaques multiples pourraient constituer des crimes de guerre.
+
+Le Brésil se dirige vers un second tour présidentiel dimanche. Selon CBC, le pays reste profondément polarisé, les frustrations liées à la corruption et à la stagnation financière personnelle des électeurs dominant les intentions de vote.
+
+Enfin, le National Post rapporte qu'une firme de sondage américaine a admis avoir fabriqué ses données, un deuxième scandale du genre qui alimente la controverse à l'approche des élections de mi-mandat aux États-Unis.
+  </chapitre>
+
+  <chapitre titre="Tech">
+On passe à la tech, où l'intelligence artificielle continue d'alimenter le débat sur plusieurs plans. Radio-Canada rapporte que le monde des mathématiques est bousculé par la résolution de centaines de problèmes avancés grâce à l'intelligence artificielle.
+
+Du côté des entreprises, TechCrunch rapporte que Mark Zuckerberg, fondateur et chef de la direction de Meta, a orchestré un plan impliquant une nouvelle catégorie d'actions, en partie conçu pour lui permettre de payer l'éventuelle taxe sur les milliardaires proposée en Californie sans perdre le contrôle de l'entreprise. CBC précise que le conseil d'administration de Meta a conclu une entente avec Mark Zuckerberg, une démarche qui survient alors que cette mesure fait l'objet d'un débat houleux et de centaines de millions de dollars en dépenses de campagne avant le scrutin du trois novembre.
+
+Du côté de la robotique, TechCrunch rapporte que l'entreprise inDrive, rivale d'Uber, prévoit tester des robotaxis développés avec Pony.ai et Nvidia dans la capitale du Kazakhstan dès la première moitié de deux mille vingt-sept.
+
+En santé, Ars Technica rapporte un développement majeur en oncologie : selon une étude de stade avancé annoncée par Merck et Moderna, un vaccin personnalisé à ARN messager contre le mélanome a réduit de quarante-deux pour cent le risque de décès ou de récidive, comparativement au traitement standard. Le chef de la direction de Moderna, Stéphane Bancel, a affirmé, je le cite : "mRNA has the potential to fundamentally change how we treat cancer." Fin de citation.
+
+Ailleurs en tech, Ars Technica rapporte que Comcast continue de perdre des clients, l'entreprise ayant perdu cent quarante-quatre mille abonnés résidentiels à l'internet haute vitesse au troisième trimestre, une hausse par rapport à la perte de quatre-vingt-onze mille abonnés enregistrée un an plus tôt. Un dirigeant de l'entreprise impute cette tendance à une concurrence accrue des fournisseurs sans fil fixe et de fibre optique.
+
+Enfin, TechCrunch rapporte une expérience menée par des chercheurs du MIT, qui ont isolé treize agents d'intelligence artificielle sur une île virtuelle. Livrés à eux-mêmes, ces agents ont inventé des jeux, et sont, selon TechCrunch, devenus plus efficaces dans l'exécution de leurs tâches.
+  </chapitre>
+
+  <chapitre titre="Sport">
+Rapidement en sport. Au hockey, Sportsnet rapporte que Connor McDavid continue d'écrire l'histoire, les Oilers d'Edmonton l'ayant emporté en tirs de barrage contre les Hurricanes de la Caroline, une victoire où Ryan Nugent-Hopkins, de retour au jeu, a inscrit le but décisif. À Toronto, Sportsnet rapporte que la quatrième ligne des Maple Leafs, portée par Zack MacEwen, Teddy Blueger et Brandon Duhaime, a mené l'équipe vers une victoire contre les Rangers, Troy Stecher ayant inscrit le but gagnant en fin de match.
+
+Du côté des Canucks de Vancouver, Sportsnet rapporte que l'équipe a connu une autre soirée difficile offensivement face à Detroit, les partisans exprimant de plus en plus leur frustration devant la série de défaites. Et chez les Sénateurs d'Ottawa, Global News rapporte une défaite de six à deux face aux Sharks.
+
+Au Québec, TVA Sports rapporte que le capitaine du Canadien de Montréal, Nick Suzuki, sera absent du jeu pendant plusieurs semaines en raison d'une blessure.
+  </chapitre>
+
+  <outro>Voilà pour ce Presto du vendredi vingt-trois octobre deux mille vingt-six. Si ce briefing vous est utile, le meilleur coup de main que vous pouvez nous donner, c'est de le partager à une personne qui aime rester informée. Et selon votre plateforme : un abonnement sur Spotify ou Apple Podcasts, un pouce bleu et un abonnement sur YouTube, ça prend deux secondes et ça aide vraiment Presto à grandir. Sur ce, bonne journée, et à demain.</outro>
+</script>
+```
