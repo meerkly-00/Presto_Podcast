@@ -1,0 +1,14 @@
+{
+  "date": "2026-10-23",
+  "kind": "poll",
+  "text": "Ce matin → Le Canada négocie un accord sur le commerce numérique avec l'UE avant un sommet à Montréal.\n\nNouveau : Donald Trump s'apprête à lever les tarifs sur certains produits\n\nLes exemptions tarifaires américaines devraient-elles influencer les négociations Canada-UE?",
+  "poll": {
+    "options": [
+      "Oui, le Canada doit en",
+      "Non, négocier",
+      "Dépend des produits en",
+      "Les deux marchés sont"
+    ],
+    "duration_minutes": 1440
+  }
+}
