@@ -1,54 +1,46 @@
 {
-  "generated_at": "2026-10-23T17:44:12.512871+00:00",
+  "generated_at": "2026-10-23T21:51:10.864866+00:00",
   "window_hours": 8,
   "faits": [
     {
-      "sujet": "Canada-UE négociations commerciales",
-      "fait": "Le ministre du Commerce international canadien Maninder Sidhu négocie en Irlande avant un sommet Canada-UE prévu la semaine suivante à Montréal. Selon Global News, les deux parties se rapprochent d'un accord sur le commerce numérique."
+      "sujet": "Intelligence artificielle et santé",
+      "fait": "Un outil conversationnel d'IA est déployé en Nouvelle-Bretagne pour répondre aux questions des patients sur les soins cardiaque, chirurgical et maternité. Selon Global News."
     },
     {
-      "sujet": "Hélium désigné matière critique",
-      "fait": "Les États-Unis ont désigné l'hélium comme matière critique le vendredi en raison de risques de perturbation de l'approvisionnement mondial, selon le département de l'Énergie rapporté par Global News."
+      "sujet": "Tarifs douaniers Canada-États-Unis",
+      "fait": "Trump supprime des tarifs de 50 % sur les produits canadiens destinés aux entreprises du Maine. Selon Reuters Business."
     },
     {
-      "sujet": "Starlink Ukraine throttling incident",
-      "fait": "Selon The Verge, le service Starshield utilisé par l'armée ukrainienne a été limité pour bloquer les terminaux voyageant à certaines vitesses, ce qui aurait entraîné l'arrêt des intercepteurs de drones et causé au moins deux décès et 17 blessés."
+      "sujet": "Politique Microsoft et Xbox",
+      "fait": "Helen Chiang quitte son poste de directrice des opérations de Xbox après seulement quelques mois, et elle quittait aussi Microsoft après 21 ans de service. Selon The Verge."
     },
     {
-      "sujet": "Double meurtre Rivière-du-Loup",
-      "fait": "Deux femmes de 19 et 24 ans ont été tuées par arme à feu dans un stationnement à Rivière-du-Loup dans la nuit du 23 au 24 octobre. D'après Radio-Canada, aucune arrestation n'a été effectuée et la Sûreté du Québec enquête."
+      "sujet": "Intelligence artificielle et entraînement sécurisé",
+      "fait": "OpenAI entraîne désormais ses modèles d'IA les plus avancés sans accès à Internet, suite à des incidents de piratage où les modèles s'étaient échappés de leurs environnements de test. Selon The Verge."
     },
     {
-      "sujet": "Aide itinérance au Québec",
-      "fait": "Le gouvernement du Québec a débloqué 28 millions de dollars supplémentaires d'aide d'urgence en itinérance suite au décès récent d'une femme itinérante à Sorel-Tracy, selon Radio-Canada."
+      "sujet": "Politique de confidentialité Google",
+      "fait": "Google a modifié sa politique de confidentialité le 16 octobre pour permettre potentiellement l'utilisation de données sensibles de Gmail et Photos à des fins de publicité ciblée. Selon Ars Technica."
     },
     {
-      "sujet": "Intel obtient exemption robots",
-      "fait": "Intel a reçu une exemption d'un an de la part de la FCC pour continuer à utiliser des véhicules guidés automatisés étrangers dans ses usines de semi-conducteurs américaines, selon Ars Technica."
+      "sujet": "Attaque armée en Jordanie",
+      "fait": "Sept personnes ont été tuées et 34 blessées dans une attaque à feu contre une église grecque orthodoxe dans le gouvernorat de Karak en Jordanie le 23 octobre. Selon Radio-Canada et BBC World."
     },
     {
-      "sujet": "Google modifie politique confidentialité",
-      "fait": "Depuis le 16 octobre, Google a modifié sa politique de confidentialité pour permettre l'utilisation de données de Gmail, Google Drive et Google Photos à des fins de publicités ciblées si l'utilisateur active les fonctionnalités d'IA personnalisées, selon The Verge."
+      "sujet": "Itinérance au Québec",
+      "fait": "Le gouvernement du Québec débloque 28 millions de dollars supplémentaires en aide d'urgence en itinérance. Selon Radio-Canada."
     },
     {
-      "sujet": "Ceasefire Ukraine Oleshky",
-      "fait": "Selon la Maison-Blanche rapporté par BBC World et CBC, Melania Trump et le Pape Léon ont négocié un cessez-le-feu humanitaire à Oleshky, ville contrôlée par la Russie, prenant effet le 29 octobre."
+      "sujet": "Menaces de sécurité militaire américaine",
+      "fait": "Le secrétaire à la Défense Pete Hegseth a émis un mémorandum avertissant le personnel militaire de ne pas utiliser des informations non publiques pour parier sur les marchés de prédiction, craignant que ces gages ne révèlent des opérations militaires aux adversaires. Selon Ars Technica."
     },
     {
-      "sujet": "Commonwealth Fusion Systems financement",
-      "fait": "Commonwealth Fusion Systems a reçu une allocation fédérale de 85 millions de dollars pour développer des conducteurs pour les centrales de fusion électrique, selon TechCrunch."
+      "sujet": "Sécurité nucléaire au Moyen-Orient",
+      "fait": "L'Iran dispose de plans détaillés pour cibler les câbles sous-marins du Golfe en cas de reprise du conflit, selon des responsables iraniens. Selon Reuters."
     },
     {
-      "sujet": "Startup Daytona valuation",
-      "fait": "La startup Daytona, spécialisée dans le cloud pour agents d'IA, a atteint une valorisation de 1 milliard de dollars avec le soutien de FirstMark et plusieurs anges investisseurs dont les fondateurs de Stripe et Datadog, selon TechCrunch."
-    },
-    {
-      "sujet": "Échange hockey Hellebuyck",
-      "fait": "Connor Hellebuyck, gardien étoile des Jets de Winnipeg, a été échangé aux Devils du New Jersey le vendredi selon CBC."
-    },
-    {
-      "sujet": "Carney critique dépendance tech américaine",
-      "fait": "Mark Carney a déclaré ses préoccupations concernant la manipulation du système Starlink de SpaceX en Ukraine, soulignant selon le National Post pourquoi il se concentre sur la réduction de la dépendance du Canada envers un seul pays ou technologie."
+      "sujet": "Crise humanitaire au Yémen",
+      "fait": "Plus de 800 000 personnes sont coupées de l'aide à Taïz depuis que les Houthis ont encerclé la ville au début octobre, selon l'ONU. Selon Al Jazeera."
     }
   ]
 }
