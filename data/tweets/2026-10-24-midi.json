@@ -1,0 +1,14 @@
+{
+  "date": "2026-10-24",
+  "kind": "poll",
+  "text": "Ce matin → Les électeurs de la Colombie-Britannique votent aujourd'hui. Les bureaux ferment à 20h (heure du Pacifique).\n\nSelon toi, quel enjeu devrait être prioritaire pour le prochain gouvernement de la C.-B. ?",
+  "poll": {
+    "options": [
+      "L'économie et l'emploi",
+      "Le logement et le coût",
+      "La santé et les services",
+      "L'environnement"
+    ],
+    "duration_minutes": 1440
+  }
+}
