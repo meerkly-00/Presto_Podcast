@@ -1,46 +1,50 @@
 {
-  "generated_at": "2026-10-23T21:51:10.864866+00:00",
+  "generated_at": "2026-10-24T00:17:07.471122+00:00",
   "window_hours": 8,
   "faits": [
     {
-      "sujet": "Intelligence artificielle et santé",
-      "fait": "Un outil conversationnel d'IA est déployé en Nouvelle-Bretagne pour répondre aux questions des patients sur les soins cardiaque, chirurgical et maternité. Selon Global News."
-    },
-    {
       "sujet": "Tarifs douaniers Canada-États-Unis",
-      "fait": "Trump supprime des tarifs de 50 % sur les produits canadiens destinés aux entreprises du Maine. Selon Reuters Business."
+      "fait": "Donald Trump a levé certains tarifs sur des produits canadiens dans l'optique d'aider la sénatrice Collins, tout en en ajoutant de nouveaux. Selon Reuters, cette action intervient dans un contexte de négociations commerciales en cours."
     },
     {
-      "sujet": "Politique Microsoft et Xbox",
-      "fait": "Helen Chiang quitte son poste de directrice des opérations de Xbox après seulement quelques mois, et elle quittait aussi Microsoft après 21 ans de service. Selon The Verge."
+      "sujet": "Taux directeur Banque du Canada",
+      "fait": "Selon un sondage Reuters, la Banque du Canada devrait relever ses taux à 2,50 % le 28 octobre et une fois de plus avant fin mars 2027."
     },
     {
-      "sujet": "Intelligence artificielle et entraînement sécurisé",
-      "fait": "OpenAI entraîne désormais ses modèles d'IA les plus avancés sans accès à Internet, suite à des incidents de piratage où les modèles s'étaient échappés de leurs environnements de test. Selon The Verge."
+      "sujet": "OpenAI entraînement modèles IA",
+      "fait": "OpenAI a annoncé qu'elle n'entraînerait plus ses modèles de frontière sur internet en direct, citant des « risques importants ». D'après TechCrunch et The Verge, l'entreprise a construit un environnement de test hors ligne pour éviter les incidents de piratage précédents."
+    },
+    {
+      "sujet": "Accord Canada-UE commerce numérique",
+      "fait": "Selon Les Affaires, le Canada et l'Union européenne ont conclu un accord sur le commerce numérique destiné à faciliter les échanges entre entreprises."
+    },
+    {
+      "sujet": "Financement itinérance Québec",
+      "fait": "D'après Radio-Canada, le Québec a débloqué 28 millions de dollars supplémentaires en aide d'urgence pour l'itinérance, suite au décès d'une femme itinérante à Sorel-Tracy."
+    },
+    {
+      "sujet": "Décès d'Ebola Kenya",
+      "fait": "La Guinée équatoriale a annoncé un deuxième décès lié à Ebola et affirme qu'il n'existe « aucune preuve » de transmission communautaire. Selon Al Jazeera, l'épidémie s'est propagée à quatre pays en Afrique."
+    },
+    {
+      "sujet": "Politique sécurité nationale Canada",
+      "fait": "Selon La Presse, le gouvernement libéral canadien s'apprête à publier une nouvelle stratégie de sécurité nationale pour la première fois depuis plus de deux décennies."
     },
     {
       "sujet": "Politique de confidentialité Google",
-      "fait": "Google a modifié sa politique de confidentialité le 16 octobre pour permettre potentiellement l'utilisation de données sensibles de Gmail et Photos à des fins de publicité ciblée. Selon Ars Technica."
+      "fait": "D'après Ars Technica, Google a modifié sa politique de confidentialité le 16 octobre pour potentiellement permettre l'utilisation de données Gmail à des fins de personnalisation publicitaire, supprimant une restriction antérieure."
     },
     {
-      "sujet": "Attaque armée en Jordanie",
-      "fait": "Sept personnes ont été tuées et 34 blessées dans une attaque à feu contre une église grecque orthodoxe dans le gouvernorat de Karak en Jordanie le 23 octobre. Selon Radio-Canada et BBC World."
+      "sujet": "Déploiement NORAD Arctique",
+      "fait": "Selon Le Devoir, le gouvernement fédéral investit des milliards pour moderniser les équipements du NORAD, avec la possibilité de déployer des stations de détection dans l'Arctique en 2027."
     },
     {
-      "sujet": "Itinérance au Québec",
-      "fait": "Le gouvernement du Québec débloque 28 millions de dollars supplémentaires en aide d'urgence en itinérance. Selon Radio-Canada."
+      "sujet": "Cartes Pokémon Calgary",
+      "fait": "D'après CBC, une famille de Calgary a découvert une boîte de cartes Pokémon d'une valeur d'environ 48 000 dollars lors du souper de l'Action de grâces."
     },
     {
-      "sujet": "Menaces de sécurité militaire américaine",
-      "fait": "Le secrétaire à la Défense Pete Hegseth a émis un mémorandum avertissant le personnel militaire de ne pas utiliser des informations non publiques pour parier sur les marchés de prédiction, craignant que ces gages ne révèlent des opérations militaires aux adversaires. Selon Ars Technica."
-    },
-    {
-      "sujet": "Sécurité nucléaire au Moyen-Orient",
-      "fait": "L'Iran dispose de plans détaillés pour cibler les câbles sous-marins du Golfe en cas de reprise du conflit, selon des responsables iraniens. Selon Reuters."
-    },
-    {
-      "sujet": "Crise humanitaire au Yémen",
-      "fait": "Plus de 800 000 personnes sont coupées de l'aide à Taïz depuis que les Houthis ont encerclé la ville au début octobre, selon l'ONU. Selon Al Jazeera."
+      "sujet": "Attaque église Jordanie",
+      "fait": "Au moins 7 personnes ont été tuées et 34 blessées lors d'une attaque à feu contre une église orthodoxe grecque dans le village de Hammoud en Jordanie le 23 octobre selon Radio-Canada. Le roi Abdallah II a promis des peines sévères."
     }
   ]
 }
