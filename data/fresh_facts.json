@@ -1,50 +1,46 @@
 {
-  "generated_at": "2026-10-24T00:17:07.471122+00:00",
+  "generated_at": "2026-10-24T16:27:05.051684+00:00",
   "window_hours": 8,
   "faits": [
     {
-      "sujet": "Tarifs douaniers Canada-États-Unis",
-      "fait": "Donald Trump a levé certains tarifs sur des produits canadiens dans l'optique d'aider la sénatrice Collins, tout en en ajoutant de nouveaux. Selon Reuters, cette action intervient dans un contexte de négociations commerciales en cours."
+      "sujet": "Élection brésilienne deuxième tour",
+      "fait": "Les électeurs brésiliens doivent trancher dimanche entre le président sortant Lula et le fils aîné de Jair Bolsonaro. Selon Radio-Canada et Al Jazeera, les deux candidats sont au coude à coude selon les sondages."
     },
     {
-      "sujet": "Taux directeur Banque du Canada",
-      "fait": "Selon un sondage Reuters, la Banque du Canada devrait relever ses taux à 2,50 % le 28 octobre et une fois de plus avant fin mars 2027."
+      "sujet": "Cisjordanie opération militaire israélienne",
+      "fait": "Plus de 2 000 Palestiniens ont été déplacés à Hébron suite à une opération militaire israélienne. D'après Al Jazeera et Reuters, environ 1 200 à 2 000 Palestiniens sont forcés de quitter leurs domiciles."
     },
     {
-      "sujet": "OpenAI entraînement modèles IA",
-      "fait": "OpenAI a annoncé qu'elle n'entraînerait plus ses modèles de frontière sur internet en direct, citant des « risques importants ». D'après TechCrunch et The Verge, l'entreprise a construit un environnement de test hors ligne pour éviter les incidents de piratage précédents."
+      "sujet": "France manifestations arrestations",
+      "fait": "Plus de 130 personnes ont été arrêtées lors des manifestations de samedi en France. Selon National Post, la police a tiré des gaz lacrymogènes sur certains protestataires, bien que le gouvernement rapporte l'absence de signes précoces de violences de rue."
     },
     {
-      "sujet": "Accord Canada-UE commerce numérique",
-      "fait": "Selon Les Affaires, le Canada et l'Union européenne ont conclu un accord sur le commerce numérique destiné à faciliter les échanges entre entreprises."
+      "sujet": "Élection Colombie-Britannique jour du scrutin",
+      "fait": "Les électeurs de Colombie-Britannique se rendent aux urnes samedi, les bureaux de vote restant ouverts jusqu'à 20h. Selon Global News et Le Devoir, le chef du NPD provincial David Eby a convoqué ces élections anticipées."
     },
     {
-      "sujet": "Financement itinérance Québec",
-      "fait": "D'après Radio-Canada, le Québec a débloqué 28 millions de dollars supplémentaires en aide d'urgence pour l'itinérance, suite au décès d'une femme itinérante à Sorel-Tracy."
+      "sujet": "Incendie retraite Hitler Allemagne",
+      "fait": "Un incendie a ravagé la retraite alpine d'Hitler, l'Eagle's Nest, en Bavière. D'après BBC World et Associated Press, environ 200 pompiers ont été déployés et un suspect a été arrêté."
     },
     {
-      "sujet": "Décès d'Ebola Kenya",
-      "fait": "La Guinée équatoriale a annoncé un deuxième décès lié à Ebola et affirme qu'il n'existe « aucune preuve » de transmission communautaire. Selon Al Jazeera, l'épidémie s'est propagée à quatre pays en Afrique."
+      "sujet": "Procès climatique jeunes Canadiens",
+      "fait": "Quinze jeunes Canadiens âgés de 19 à 26 ans poursuivent le gouvernement fédéral pour inaction climatique. Selon La Presse, un procès qualifié d'« historique » doit débuter lundi à Vancouver, impliquant notamment Albert Lalonde, un jeune Québécois."
     },
     {
-      "sujet": "Politique sécurité nationale Canada",
-      "fait": "Selon La Presse, le gouvernement libéral canadien s'apprête à publier une nouvelle stratégie de sécurité nationale pour la première fois depuis plus de deux décennies."
+      "sujet": "Réunion premiers nations Mark Carney",
+      "fait": "Une réunion historique entre le PM Mark Carney, les premiers ministres et les leaders des Premières Nations se tiendra à Ottawa. Selon Global News, c'est la première réunion de ce type en plus de deux décennies."
     },
     {
-      "sujet": "Politique de confidentialité Google",
-      "fait": "D'après Ars Technica, Google a modifié sa politique de confidentialité le 16 octobre pour potentiellement permettre l'utilisation de données Gmail à des fins de personnalisation publicitaire, supprimant une restriction antérieure."
+      "sujet": "Starlink Ukraine connexion rétablie",
+      "fait": "L'Ukraine affirme avoir rétabli une « connexion stable » de Starlink après une semaine de limitation. D'après BBC World et Le Devoir, les connexions ralenties avaient affecté les opérations militaires et de drones."
     },
     {
-      "sujet": "Déploiement NORAD Arctique",
-      "fait": "Selon Le Devoir, le gouvernement fédéral investit des milliards pour moderniser les équipements du NORAD, avec la possibilité de déployer des stations de détection dans l'Arctique en 2027."
+      "sujet": "Carney visite Turquie partenariat",
+      "fait": "Mark Carney conclut sa visite en Turquie par une visite à une mosquée à Istanbul après avoir signé un nouveau partenariat stratégique avec Ankara. Selon Radio-Canada, il a rencontré Recep Tayyip Erdogan."
     },
     {
-      "sujet": "Cartes Pokémon Calgary",
-      "fait": "D'après CBC, une famille de Calgary a découvert une boîte de cartes Pokémon d'une valeur d'environ 48 000 dollars lors du souper de l'Action de grâces."
-    },
-    {
-      "sujet": "Attaque église Jordanie",
-      "fait": "Au moins 7 personnes ont été tuées et 34 blessées lors d'une attaque à feu contre une église orthodoxe grecque dans le village de Hammoud en Jordanie le 23 octobre selon Radio-Canada. Le roi Abdallah II a promis des peines sévères."
+      "sujet": "Kim Jong Un inaugure pont Chine",
+      "fait": "Le leader nord-coréen Kim Jong Un visite la Chine pour inaugurer un nouveau pont transfrontalier. D'après Associated Press, cette visite officielle intervient dans le contexte des relations sino-nord-coréennes."
     }
   ]
 }
