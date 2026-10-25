@@ -1,46 +1,54 @@
 {
-  "generated_at": "2026-10-25T00:00:53.945141+00:00",
+  "generated_at": "2026-10-25T16:58:16.757529+00:00",
   "window_hours": 8,
   "faits": [
     {
-      "sujet": "Manifestations en France et Europe",
-      "fait": "Près de 1000 personnes ont été interpellées par la police lors de manifestations massives en France, avec deux personnes grièvement blessées. Selon Radio-Canada, les autorités ont géré à éviter une répétition des violences de la semaine précédente."
+      "sujet": "IA et rentabilité économique",
+      "fait": "Selon TechCrunch, un économiste d'Apollo déclare que l'IA n'a généré aucun retour financier pour les entreprises américaines en dehors du secteur technologique, malgré les investissements massifs."
     },
     {
-      "sujet": "Déplacements de Palestiniens en Cisjordanie",
-      "fait": "Environ 1200 Palestiniens ont été déplacés à Hébron suite à une opération militaire israélienne lancée après le meurtre de deux soldats israéliens. Selon Reuters et BBC World, cette action intervient quelques jours avant les élections israéliennes."
+      "sujet": "Élection en Colombie-Britannique",
+      "fait": "D'après Reuters et Le Devoir, le Parti conservateur a remporté une majorité électorale en Colombie-Britannique, marquant la première victoire conservatrice dans la province depuis 1928. Lorne Doerkson est le nouveau premier ministre."
     },
     {
-      "sujet": "Élections en Israël",
-      "fait": "Les élections législatives israéliennes sont prévues pour le 27 octobre. Selon Radio-Canada, des milliers de personnes manifestent à Tel-Aviv contre Nétanyahou à trois jours du scrutin, perçu comme un référendum pour ou contre le Premier ministre."
+      "sujet": "Élection présidentielle au Brésil",
+      "fait": "Selon Radio-Canada et Le Devoir, les Brésiliens votent dans un scrutin présidentiel serré entre le président sortant Lula (49% selon les derniers sondages) et Flavio Bolsonaro (51%)."
     },
     {
-      "sujet": "Tarifs commerciaux États-Unis Canada",
-      "fait": "L'ancien président Barack Obama a critiqué samedi le régime tarifaire de l'administration Trump, soulignant l'absurdité d'une guerre commerciale avec le Canada. Selon CBC, Obama a qualifié les Canadiens de 'nicest people'."
+      "sujet": "Retour de María Corina Machado",
+      "fait": "D'après CBC World et BBC World, la leader de l'opposition vénézuélienne María Corina Machado est revenue au Venezuela dimanche pour la première fois depuis décembre, un mois avant le coup d'État américain contre Nicolás Maduro."
     },
     {
-      "sujet": "Starlink Ukraine restriction levée",
-      "fait": "Elon Musk a confirmé que SpaceX avait limité l'accès à Starlink en Ukraine, puis le service a apparemment fonctionné normalement à nouveau. Selon TechCrunch et CBC World, Musk a déclaré être à l'origine de cette restriction."
+      "sujet": "Tarifs douaniers et éleveurs américains",
+      "fait": "Selon Al Jazeera, la pause sur les tarifs imposée par Trump crée de l'inquiétude chez les éleveurs américains et augmente les importations de boeuf brésilien au moment où le bétail américain arrive au marché."
     },
     {
-      "sujet": "Élection au Brésil",
-      "fait": "Au Brésil, le candidat Lula et Bolsonaro ont attiré des milliers de personnes à leurs rassemblements électoraux à la veille du scrutin. Selon Al Jazeera, ce second tour déterminera si les Brésiliens restent avec leur leader de gauche ou se tournent vers la droite."
+      "sujet": "Élections en Serbie",
+      "fait": "D'après BBC World, la Serbie tient des élections avec un taux de participation record prévu, tandis qu'un mouvement étudiant tente de renverser le leader populiste de longue date Aleksandar Vučić."
     },
     {
-      "sujet": "Violence en Pennsylvanie",
-      "fait": "Le gouverneur de Pennsylvanie Josh Shapiro a signé la loi sur la publicité trompeuse par intelligence artificielle, exigeant des étiquettes sur les publicités générées ou significativement modifiées par l'IA. Selon The Verge, cette loi s'applique à tous les formats publicitaires."
+      "sujet": "Instagram sur Apple TV",
+      "fait": "Selon The Verge, Meta a lancé l'application Instagram pour Apple TV le 23 octobre, poursuivant son expansion dans les salons après des lancements précédents sur Fire TV, Samsung Smart TVs et Google TV."
     },
     {
-      "sujet": "Tensions Pakistan Afghanistan",
-      "fait": "Les autorités pakistanaises affirment que plus de 2800 attaques militantes ont été menées depuis janvier, faisant 3000 morts. Selon Le Devoir, le Pakistan exhorte l'Afghanistan à prendre des mesures contre les groupes armés responsables."
+      "sujet": "Interdiction de l'IA sur Reddit",
+      "fait": "D'après The Verge, les modérateurs de r/opensource ont interdit les projets utilisant l'IA, déclarant que 'l'IA, telle qu'elle existe aujourd'hui, est incongruente à la communauté Open Source'."
     },
     {
-      "sujet": "Attaque en Afrique Nigeria",
-      "fait": "Des hommes armés ont tué au moins 10 personnes lors d'une attaque contre le village de Binnari dans l'État de Taraba, au Nigeria. Selon Al Jazeera, un grand groupe a mené l'attaque selon la police nigériane."
+      "sujet": "Acupuncture pour dépendance à Montréal",
+      "fait": "Selon La Presse, l'organisme Dans la rue mène depuis 2024 un projet pilote d'acupuncture auriculaire pour traiter la dépendance et l'anxiété chez les populations vulnérables, avec un engouement observé et des projets d'expansion provinciale."
     },
     {
-      "sujet": "Élections sénatoriales États-Unis",
-      "fait": "Les cartes électorales du Sénat montrent une dynamique en faveur des Démocrates, contrevenant aux avantages initiaux des Républicains pour le cycle électoral 2026. Selon National Post, cela constitue un signal d'avertissement pour les Républicains."
+      "sujet": "Stabilité de la roupie indienne",
+      "fait": "D'après The Economist, la banque centrale indienne utilise des mesures de plus en plus rigoureuses pour maintenir la roupie en dessous de 100 pour un dollar, au prix d'un coût économique important."
+    },
+    {
+      "sujet": "Sommet Canada-Union européenne",
+      "fait": "Selon Les Affaires, le Canada accueillera à Montréal un sommet Canada-UE pour progresser sur un nouveau partenariat entre les deux entités."
+    },
+    {
+      "sujet": "Candidature Bloc québécois Laurier-Sainte-Marie",
+      "fait": "D'après La Presse, Zumretay Arkin, ex-vice-présidente du Congrès mondial ouïghour, sera candidate du Bloc québécois pour l'élection partielle dans Laurier-Sainte-Marie."
     }
   ]
 }
