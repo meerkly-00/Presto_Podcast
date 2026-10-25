@@ -1,50 +1,50 @@
 {
-  "generated_at": "2026-10-25T21:27:34.476898+00:00",
+  "generated_at": "2026-10-25T23:50:26.848905+00:00",
   "window_hours": 8,
   "faits": [
     {
-      "sujet": "Serbie élection défaite Vučić",
-      "fait": "Le dirigeant populiste de droite Aleksandar Vučić concède la défaite électorale de son Parti progressiste serbe face à un mouvement de protestation étudiant. Selon BBC World et CBC World, cette élection historique met fin à ses 12 ans au pouvoir."
+      "sujet": "Serbie - Élection parlementaire",
+      "fait": "Aleksandar Vučić a concédé sa défaite électorale face à un mouvement étudiant protestataire, mettant fin à 14 ans au pouvoir. Selon BBC World et CBC, cette victoire du mouvement étudiant marque un tournant politique majeur en Serbie."
     },
     {
-      "sujet": "Brésil élection fermeture bureaux vote",
-      "fait": "La fermeture des bureaux de vote au second tour de la présidentielle brésilienne entre Flavio Bolsonaro et le président sortant Lula a été repoussée de deux heures. Selon Radio-Canada et Al Jazeera."
+      "sujet": "Colombie-Britannique - Élection provinciale",
+      "fait": "Le Parti conservateur de Lorne Doerkson a remporté les élections anticipées en Colombie-Britannique. D'après Le Devoir, le premier ministre sortant David Eby, qui avait déclenché ces élections deux ans en avance, a perdu son pari."
     },
     {
-      "sujet": "Canada avions de chasse F-35",
-      "fait": "Le Canada a reçu ses deux premiers avions de chasse F-35 des États-Unis. Selon Global News et La Presse, le Premier ministre Mark Carney a pausé les plans pour la commande complète de 88 appareils, envisageant une flotte mixte."
+      "sujet": "Venezuela - Retour de leader opposition",
+      "fait": "María Corina Machado, leader de l'opposition vénézuélienne et lauréate du prix Nobel de la paix, est retournée au pays après plus de 10 mois d'exil. Selon Al Jazeera, elle avait quitté le pays un mois avant que le gouvernement américain ne saisisse le président Nicolás Maduro."
     },
     {
-      "sujet": "Venezuela retour Machado opposition",
-      "fait": "La leader de l'opposition vénézuélienne María Corina Machado est revenue au Venezuela après plusieurs mois d'exil au Panama. Selon BBC World et CBC World, c'est sa première réapparition depuis décembre, environ un mois après la destitution du président Nicolás Maduro par les États-Unis."
+      "sujet": "Brésil - Élection présidentielle second tour",
+      "fait": "Le deuxième tour de l'élection présidentielle brésilienne entre Lula et Flavio Bolsonaro a connu des perturbations avec un report de la fermeture des bureaux de vote. D'après Radio-Canada, la Cour suprême a ordonné le prolongement de deux heures."
     },
     {
-      "sujet": "SpaceX Musk 40 milliards dettes GPU",
-      "fait": "Elon Musk annonce que SpaceX a levé 40 milliards de dollars de dettes pour des GPU. Selon Reuters."
+      "sujet": "Bulgarie - Élection présidentielle",
+      "fait": "L'élection présidentielle bulgare se dirige vers un second tour face à un taux de participation faible. Selon Al Jazeera, les électeurs choisiront entre la présidente Iliana Yotova et l'ancien premier ministre Andrey Gyurov."
     },
     {
-      "sujet": "Kenya accident autobus 24 décès",
-      "fait": "Un accident d'autobus en Kenya a tué au moins 24 personnes sur l'autoroute Nairobi-Mombasa. Selon Al Jazeera, ce crash intervient quelques semaines après un autre accident qui avait tué 17 personnes."
+      "sujet": "République Tchèque - Manifestations médias publics",
+      "fait": "Des milliers de personnes ont manifesté à Prague contre les réformes de financement des médias publics proposées par le premier ministre Andrej Babis. D'après Al Jazeera, les manifestants dénoncent une menace à la liberté de la presse."
     },
     {
-      "sujet": "Colombie Britannique élection Doerkson",
-      "fait": "Lorne Doerkson, ancien député d'arrière-ban relativement inconnu devenu leader intérimaire, a remporté l'élection en Colombie-Britannique. Selon Global News, il déclare que la province 'a choisi le changement'."
+      "sujet": "Royaume-Uni - Banque défense Canada",
+      "fait": "Le Royaume-Uni a décidé de ne pas adhérer à la banque de défense dirigée par le Canada, mais s'engage à une coopération étroite. D'après Global News, les deux pays travailleront en partenariat sur les opportunités d'investissement."
     },
     {
-      "sujet": "Ukraine Starlink Musk termes service",
-      "fait": "Des responsables ukrainiens contestent les allégations du PDG de SpaceX Elon Musk selon lesquelles l'armée ukrainienne aurait violé les conditions d'utilisation de Starlink en l'utilisant pour des frappes de drones offensives. Selon CBC, Serhii Beskrestnov, conseiller en technologies de défense du président Zelenskyy, affirme que les restrictions existantes sur le système civil en Ukraine rendent ce type d'utilisation impossible."
+      "sujet": "Montréal - Basilique Notre-Dame",
+      "fait": "La basilique Notre-Dame de Montréal a dévoilé sa façade rénovée après 10 ans de travaux. Selon La Presse, le projet de financement prévoit la réouverture au public de la passerelle entre les deux tours."
     },
     {
-      "sujet": "Basilique Notre-Dame Montréal rénovation",
-      "fait": "Après 10 ans de travaux, la basilique Notre-Dame de Montréal dévoile sa façade rénovée. Selon La Presse, un spectacle en plein air a été donné par la Société philharmonique du Nouveau Monde lors de cette occasion."
+      "sujet": "Montréal - Enquête disciplinaire policière",
+      "fait": "Le Commissaire à la déontologie policière et le Bureau des enquêtes indépendantes enquêtent sur un agent du SPVM suspendu pour avoir uriné sur des personnes en situation d'itinérance. D'après La Presse, les deux organismes ont obtenu le mandat d'enquête."
     },
     {
-      "sujet": "France Marine Le Pen campagne renaissance",
-      "fait": "Marine Le Pen, candidate du Rassemblement national, lance sa campagne en promettant une 'renaissance'. Selon Radio-Canada, elle s'est adressée à une arène remplie de 8500 militants."
+      "sujet": "France - Manifestations étudiantes",
+      "fait": "Les manifestations en France samedi se sont déroulées largement sans violence grave, contrairement à celles de la semaine précédente. Selon Le Devoir, le gouvernement a augmenté les forces de l'ordre et encadré strictement les défilés."
     },
     {
-      "sujet": "Canada Émirats Arabes unis visite diplomatique",
-      "fait": "Le Canada annonce que le Premier ministre Mark Carney recevra le prince d'Abou Dhabi, Khaled ben Mohammed ben Zayed Al Nahyane, pour des partenariats économiques et de sécurité les 26 et 27 octobre. Selon La Presse."
+      "sujet": "SpaceX - Levée de financement",
+      "fait": "SpaceX a levé 40 milliards de dollars via un accord de financement par dette. Selon Reuters, Elon Musk prédit un bouleversement du secteur du cloud informatique."
     }
   ]
 }
