@@ -1,54 +1,46 @@
 {
-  "generated_at": "2026-10-24T21:25:10.502584+00:00",
+  "generated_at": "2026-10-25T00:00:53.945141+00:00",
   "window_hours": 8,
   "faits": [
     {
-      "sujet": "Élection provinciale Colombie-Britannique",
-      "fait": "Les électeurs britanno-colombiens votent le 24 octobre 2026 pour élire les 93 députés de la 44e législature, dans le cadre d'élections anticipées déclenchées par le premier ministre David Eby. Selon Radio-Canada, les bureaux de vote sont ouverts de 8 h à 20 h (heure du Pacifique)."
+      "sujet": "Manifestations en France et Europe",
+      "fait": "Près de 1000 personnes ont été interpellées par la police lors de manifestations massives en France, avec deux personnes grièvement blessées. Selon Radio-Canada, les autorités ont géré à éviter une répétition des violences de la semaine précédente."
     },
     {
-      "sujet": "Manifestations en France et répression",
-      "fait": "Selon la BBC World, près de 1 000 personnes ont été arrêtées lors des manifestations du 24 octobre en France, où des centaines de milliers de manifestants ont défilé pacifiquement avant des affrontements en fin de journée dans plusieurs villes."
+      "sujet": "Déplacements de Palestiniens en Cisjordanie",
+      "fait": "Environ 1200 Palestiniens ont été déplacés à Hébron suite à une opération militaire israélienne lancée après le meurtre de deux soldats israéliens. Selon Reuters et BBC World, cette action intervient quelques jours avant les élections israéliennes."
     },
     {
-      "sujet": "Crise humanitaire à Gaza",
-      "fait": "D'après Al Jazeera, les boulangeries de Gaza ferment en raison de pénuries de farine, créant une situation de faim sévère parmi la population."
+      "sujet": "Élections en Israël",
+      "fait": "Les élections législatives israéliennes sont prévues pour le 27 octobre. Selon Radio-Canada, des milliers de personnes manifestent à Tel-Aviv contre Nétanyahou à trois jours du scrutin, perçu comme un référendum pour ou contre le Premier ministre."
     },
     {
-      "sujet": "Starlink en Ukraine restriction levée",
-      "fait": "Selon TechCrunch, le service Starlink fonctionne à nouveau normalement en Ukraine après que Elon Musk a reconnu avoir ordonné à SpaceX de réduire l'accès internet en Ukraine, violant selon lui les conditions d'utilisation."
+      "sujet": "Tarifs commerciaux États-Unis Canada",
+      "fait": "L'ancien président Barack Obama a critiqué samedi le régime tarifaire de l'administration Trump, soulignant l'absurdité d'une guerre commerciale avec le Canada. Selon CBC, Obama a qualifié les Canadiens de 'nicest people'."
     },
     {
-      "sujet": "Opération militaire Israël Cisjordanie",
-      "fait": "D'après Reuters, environ 1 200 Palestiniens ont été déplacés à Hébron lors d'une opération militaire israélienne déclenchée après l'attaque qui a tué deux soldats le 23 octobre."
+      "sujet": "Starlink Ukraine restriction levée",
+      "fait": "Elon Musk a confirmé que SpaceX avait limité l'accès à Starlink en Ukraine, puis le service a apparemment fonctionné normalement à nouveau. Selon TechCrunch et CBC World, Musk a déclaré être à l'origine de cette restriction."
     },
     {
-      "sujet": "Incendie Eagle's Nest Allemagne",
-      "fait": "Selon la BBC World, un feu a endommagé la retraite montagnarde Eagle's Nest en Allemagne, ancienne résidence du dictateur nazi Hitler, et une personne a été arrêtée."
+      "sujet": "Élection au Brésil",
+      "fait": "Au Brésil, le candidat Lula et Bolsonaro ont attiré des milliers de personnes à leurs rassemblements électoraux à la veille du scrutin. Selon Al Jazeera, ce second tour déterminera si les Brésiliens restent avec leur leader de gauche ou se tournent vers la droite."
     },
     {
-      "sujet": "Échange commercial Couche-Tard Cumberland",
-      "fait": "D'après Reuters, Couche-Tard a proposé une offre pouvant atteindre 8 milliards de dollars pour l'acquisition de Cumberland Farms."
+      "sujet": "Violence en Pennsylvanie",
+      "fait": "Le gouverneur de Pennsylvanie Josh Shapiro a signé la loi sur la publicité trompeuse par intelligence artificielle, exigeant des étiquettes sur les publicités générées ou significativement modifiées par l'IA. Selon The Verge, cette loi s'applique à tous les formats publicitaires."
     },
     {
-      "sujet": "Loi Pennsylvanie étiquetage contenu IA",
-      "fait": "Selon The Verge, le gouverneur de Pennsylvanie Josh Shapiro a signé le Artificial Intelligence Deceptive Advertising Act le 24 octobre, obligeant toutes les publicités modifiées ou générées par l'IA à porter une étiquette dans le même format que l'annonce."
+      "sujet": "Tensions Pakistan Afghanistan",
+      "fait": "Les autorités pakistanaises affirment que plus de 2800 attaques militantes ont été menées depuis janvier, faisant 3000 morts. Selon Le Devoir, le Pakistan exhorte l'Afghanistan à prendre des mesures contre les groupes armés responsables."
     },
     {
-      "sujet": "Manifestations Italie répression",
-      "fait": "D'après National Post, des milliers de manifestants se sont rassemblés en Italie le 24 octobre malgré un important déploiement de forces de sécurité, avec 9 arrestations et 371 personnes interpellées."
+      "sujet": "Attaque en Afrique Nigeria",
+      "fait": "Des hommes armés ont tué au moins 10 personnes lors d'une attaque contre le village de Binnari dans l'État de Taraba, au Nigeria. Selon Al Jazeera, un grand groupe a mené l'attaque selon la police nigériane."
     },
     {
-      "sujet": "Manifestations Albanie violences",
-      "fait": "Selon Al Jazeera, des violents affrontements ont éclaté entre protestataires et police en Albanie, au 12e jour de manifestations contre le gouvernement."
-    },
-    {
-      "sujet": "Procès climat jeunes Canadiens",
-      "fait": "D'après La Presse, quinze jeunes Canadiens âgés de 19 à 26 ans poursuivent le gouvernement fédéral pour inaction climatique, dans un procès qualifié d'« historique » qui débute lundi à Vancouver."
-    },
-    {
-      "sujet": "Trade Hellebuyck Jets Devils",
-      "fait": "Selon Sportsnet, Connor Hellebuyck a été échangé des Winnipeg Jets au New Jersey Devils dans une transaction majeure, avec le GM des Jets Kevin Cheveldayoff discutant des détails de l'échange."
+      "sujet": "Élections sénatoriales États-Unis",
+      "fait": "Les cartes électorales du Sénat montrent une dynamique en faveur des Démocrates, contrevenant aux avantages initiaux des Républicains pour le cycle électoral 2026. Selon National Post, cela constitue un signal d'avertissement pour les Républicains."
     }
   ]
 }
