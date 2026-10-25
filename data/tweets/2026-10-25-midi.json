@@ -1,0 +1,14 @@
+{
+  "date": "2026-10-25",
+  "kind": "poll",
+  "text": "Ce matin → Les conservateurs remportent 62 sièges en Colombie-Britannique, leur première majorité provinciale depuis 1928. Lorne Doerksen est le nouveau premier ministre.\n\nComment envisages-tu ce retour des conservateurs au pouvoir en C.-B. après près d'un siècle?",
+  "poll": {
+    "options": [
+      "Changement positif pour",
+      "Changement négatif pour",
+      "Peu d'impact réel attendu",
+      "À évaluer selon les"
+    ],
+    "duration_minutes": 1440
+  }
+}
