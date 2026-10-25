@@ -1,0 +1,61 @@
+```xml
+<script>
+  <intro>Bonjour, on est le dimanche vingt-cinq octobre deux mille vingt-six. Voici votre Presto en environ quinze minutes. Au menu : le raz-de-marée conservateur en Colombie-Britannique, la rencontre historique entre premiers ministres et chefs autochtones demain, les manifestations massives en France, les élections au Brésil et en Israël, et un mot sur la controverse Starlink en Ukraine.</intro>
+
+  <chapitre titre="Politique canadienne">
+    On commence en Colombie-Britannique, où une vague conservatrice historique a déferlé hier soir. Selon Radio-Canada, Lorne Doerkson devient le premier chef du Parti conservateur à former un gouvernement majoritaire dans la province en près de cent ans. Le National Post rapporte que les conservateurs sont projetés pour remporter soixante-deux sièges, contre vingt-neuf pour le Nouveau Parti démocratique.
+
+    Le premier ministre sortant, David Eby, a démissionné. Selon Radio-Canada, je le cite : "Je fais ça avec une grande tristesse, mais c'est le temps d'un nouveau leadership." Fin de citation. Le Devoir rappelle qu'Eby avait convoqué ces élections anticipées, un pari qui s'avère être le plus important de sa carrière politique.
+
+    Ailleurs au pays, les regards se tournent vers demain, lundi, où se tient une rencontre entre les premiers ministres provinciaux et, pour la première fois en vingt ans, les chefs autochtones. Selon La Presse, le chef de l'Assemblée des Premières Nations Québec-Labrador, Francis Verreault-Paul, mise sur le dialogue, dans un contexte de mécontentement envers le gouvernement de Mark Carney. Radio-Canada précise que les sujets des échanges seront cette fois entièrement décidés par les représentants autochtones, une première.
+
+    En Ontario, c'est aussi jour d'élections municipales demain. Selon CBC, les résidents de la province choisiront leurs prochains élus locaux dans plusieurs grandes villes, dont sept courses à la mairie sont particulièrement suivies.
+  </chapitre>
+
+  <chapitre titre="International">
+    En France, la contestation sociale continue de prendre de l'ampleur. Selon l'Associated Press, plus de quatre cent mille personnes ont manifesté à travers le pays samedi, avec des affrontements à Paris, dans un nouveau défi lancé au gouvernement d'Emmanuel Macron. La BBC rapporte que près de mille personnes ont été arrêtées après une autre journée de manifestations de masse, des protestations ayant aussi eu lieu dans d'autres pays européens. CBC précise que les mobilisations portent sur le financement des écoles et la hausse du coût de la vie.
+
+    En Italie aussi, la tension reste vive. Selon le National Post, des milliers de personnes ont manifesté samedi malgré un vaste resserrement sécuritaire faisant suite à des affrontements violents la fin de semaine précédente. Neuf personnes ont été arrêtées et trois cent soixante et onze ont été détenues.
+
+    Au Brésil, les électeurs se rendent aux urnes aujourd'hui pour un second tour présidentiel serré. Selon la BBC et Al Jazeera, le président sortant Luiz Inácio Lula da Silva, âgé de quatre-vingts ans et en quête d'un quatrième mandat, affronte le sénateur Flávio Bolsonaro, fils de l'ancien président emprisonné.
+
+    En Israël, le pays se prépare à un vote mardi, le premier depuis les attaques du sept octobre deux mille vingt-trois. Selon CBC, peu d'analystes israéliens sont prêts à écarter les chances du premier ministre Benjamin Netanyahou, qui se bat pour sa survie politique malgré l'impact de ces événements. La BBC rapporte par ailleurs qu'Israël fermera les points de passage en Cisjordanie le jour du scrutin, les Forces de défense israéliennes annonçant des restrictions sur les déplacements des travailleurs palestiniens. Al Jazeera documente aussi une intensification des opérations à Hébron, où des maisons ont été transformées en postes militaires dans le cadre du bouclage de la région. CBC note également qu'un nombre record d'Israéliens quittent le pays, une tendance que des experts croient susceptible de s'accentuer avec cette élection qualifiée de point tournant.
+
+    Au Moyen-Orient toujours, le dossier iranien reste bloqué. Selon Le Devoir, l'ambassadeur d'Iran à Islamabad affirme que Téhéran demeure ouvert à négocier avec les États-Unis dans le cadre de l'accord provisoire conclu en juin sous l'égide du Pakistan. L'ambassadeur accuse Washington de nuire à la diplomatie en maintenant son blocus naval dans le détroit d'Ormuz, malgré une offre iranienne de réouverture. De son côté, le National Post rapporte que Donald Trump semble prêt à intensifier le conflit avec l'Iran après les élections américaines et israéliennes, ce conflit entamant maintenant son huitième mois.
+
+    Aux États-Unis, la campagne des élections de mi-mandat s'intensifie. Selon Reuters et Le Devoir, l'ancien président Barack Obama s'en est pris avec virulence à Donald Trump en appui aux démocrates, l'accusant d'être responsable de la hausse du coût de la vie. Selon CBC, Obama a aussi ridiculisé l'administration Trump pour avoir imposé des tarifs douaniers au Canada, qualifiant les Canadiens de "gens les plus gentils". De son côté, l'Associated Press rapporte que Donald Trump a annoncé, lors d'un rassemblement de campagne en Géorgie, qu'Audi construira une nouvelle usine automobile dans cet État. Même source, Trump a aussi évoqué la possibilité de déplacer le corps de presse de la Maison-Blanche.
+
+    Ailleurs dans le monde, un incendie a ravagé le Nid d'Aigle, la retraite construite pour Hitler en Allemagne. Selon l'Associated Press, un suspect a été interpellé. En Asie, le dirigeant nord-coréen Kim Jong-un s'est rendu en Chine pour inaugurer un nouveau pont transfrontalier, selon l'Associated Press. Et au Pakistan, Le Devoir rapporte que les autorités exhortent l'Afghanistan à agir contre les groupes armés, affirmant que plus de deux mille huit cents attaques depuis janvier ont fait trois mille morts.
+  </chapitre>
+
+  <chapitre titre="Économie et marchés">
+    Du côté économique, le secteur du luxe encaisse un choc. Selon le Financial Times, la valeur des grands groupes de luxe a chuté de deux cent cinquante milliards d'euros alors que la demande des consommateurs chinois s'essouffle.
+
+    Chez Lindt, la direction reconnaît des erreurs de stratégie. Selon Reuters, le président du conseil d'administration affirme que l'entreprise s'est trompée dans sa gestion des hausses de prix du chocolat, des propos qui surviennent après le départ du chef de la direction.
+
+    En Australie, le ministre des Finances plaide pour davantage de coopération entre puissances moyennes. Selon le Financial Times, il soutient que ces pays doivent collaborer pour éviter de devenir otages de la géopolitique mondiale.
+  </chapitre>
+
+  <chapitre titre="Tech">
+    En tech, la controverse Starlink en Ukraine occupe l'actualité. Selon la BBC et CBC, Elon Musk a confirmé samedi que SpaceX avait restreint la connexion Starlink de l'Ukraine, affirmant que le pays violait les conditions d'utilisation du service en l'employant à des fins militaires. TechCrunch rapporte que le service semble maintenant fonctionner normalement à nouveau pour l'Ukraine.
+
+    Du côté de l'intelligence artificielle, plusieurs développements retiennent l'attention. L'Economist souligne que les modèles d'intelligence artificielle pourraient finalement être moins opaques qu'on le croyait, une lueur d'espoir pour les chercheurs préoccupés par la sécurité de ces systèmes.
+
+    En matière de régulation, TechCrunch et The Verge rapportent que la Pennsylvanie exige désormais des étiquettes sur les publicités générées par intelligence artificielle. Le gouverneur Josh Shapiro a signé cette loi, qui s'applique à toute publicité, qu'il s'agisse d'images, de vidéos ou de textes, significativement modifiée ou générée par l'intelligence artificielle. La Pennsylvanie devient l'un des premiers États américains à imposer une telle exigence.
+
+    Du côté des affaires, TechCrunch rapporte qu'Instacart aurait discuté de se vendre à des concurrents plus importants, dont DoorDash et Uber.
+
+    Enfin, en sciences, La Presse se penche sur l'essor des implants cérébraux. Un rapport américain publié en septembre soulevait des inquiétudes voulant que la Chine puisse devancer les États-Unis dans le développement de cette technologie, qui pourrait à la fois réduire certains handicaps et améliorer la performance cognitive.
+  </chapitre>
+
+  <chapitre titre="Sport">
+    Rapidement en sport. Au hockey, selon Global News, les Maple Leafs de Toronto ont infligé une raclée aux Oilers d'Edmonton par la marque de sept à deux, récoltant une quatrième victoire consécutive. William Nylander a inscrit deux buts dans cette rencontre, dont le trois centième de sa carrière. Du côté des Oilers, Sportsnet souligne que le manque de profondeur de l'équipe, au-delà de son premier trio, s'est avéré coûteux.
+
+    Au baseball, Sportsnet rapporte que les Brewers de Milwaukee ont pris les devants deux à zéro dans la Série mondiale contre les Rays, revenant de l'arrière samedi grâce à une attaque persistante et un enclos des releveurs efficace.
+
+    En formule un, Al Jazeera rapporte que le Grand Prix d'Australie a été annulé en raison de pluie et d'une faible visibilité à Phillip Island, malgré une foule record sur place.
+  </chapitre>
+
+  <outro>Voilà pour ce Presto du dimanche vingt-cinq octobre deux mille vingt-six. Si ce briefing vous est utile, le meilleur coup de main que vous pouvez nous donner, c'est de le partager à une personne qui aime rester informée. Et selon votre plateforme : un abonnement sur Spotify ou Apple Podcasts, un pouce bleu et un abonnement sur YouTube, ça prend deux secondes et ça aide vraiment Presto à grandir. Sur ce, bonne journée, et à demain.</outro>
+</script>
+```
