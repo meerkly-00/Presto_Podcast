@@ -1,54 +1,50 @@
 {
-  "generated_at": "2026-10-25T16:58:16.757529+00:00",
+  "generated_at": "2026-10-25T21:27:34.476898+00:00",
   "window_hours": 8,
   "faits": [
     {
-      "sujet": "IA et rentabilité économique",
-      "fait": "Selon TechCrunch, un économiste d'Apollo déclare que l'IA n'a généré aucun retour financier pour les entreprises américaines en dehors du secteur technologique, malgré les investissements massifs."
+      "sujet": "Serbie élection défaite Vučić",
+      "fait": "Le dirigeant populiste de droite Aleksandar Vučić concède la défaite électorale de son Parti progressiste serbe face à un mouvement de protestation étudiant. Selon BBC World et CBC World, cette élection historique met fin à ses 12 ans au pouvoir."
     },
     {
-      "sujet": "Élection en Colombie-Britannique",
-      "fait": "D'après Reuters et Le Devoir, le Parti conservateur a remporté une majorité électorale en Colombie-Britannique, marquant la première victoire conservatrice dans la province depuis 1928. Lorne Doerkson est le nouveau premier ministre."
+      "sujet": "Brésil élection fermeture bureaux vote",
+      "fait": "La fermeture des bureaux de vote au second tour de la présidentielle brésilienne entre Flavio Bolsonaro et le président sortant Lula a été repoussée de deux heures. Selon Radio-Canada et Al Jazeera."
     },
     {
-      "sujet": "Élection présidentielle au Brésil",
-      "fait": "Selon Radio-Canada et Le Devoir, les Brésiliens votent dans un scrutin présidentiel serré entre le président sortant Lula (49% selon les derniers sondages) et Flavio Bolsonaro (51%)."
+      "sujet": "Canada avions de chasse F-35",
+      "fait": "Le Canada a reçu ses deux premiers avions de chasse F-35 des États-Unis. Selon Global News et La Presse, le Premier ministre Mark Carney a pausé les plans pour la commande complète de 88 appareils, envisageant une flotte mixte."
     },
     {
-      "sujet": "Retour de María Corina Machado",
-      "fait": "D'après CBC World et BBC World, la leader de l'opposition vénézuélienne María Corina Machado est revenue au Venezuela dimanche pour la première fois depuis décembre, un mois avant le coup d'État américain contre Nicolás Maduro."
+      "sujet": "Venezuela retour Machado opposition",
+      "fait": "La leader de l'opposition vénézuélienne María Corina Machado est revenue au Venezuela après plusieurs mois d'exil au Panama. Selon BBC World et CBC World, c'est sa première réapparition depuis décembre, environ un mois après la destitution du président Nicolás Maduro par les États-Unis."
     },
     {
-      "sujet": "Tarifs douaniers et éleveurs américains",
-      "fait": "Selon Al Jazeera, la pause sur les tarifs imposée par Trump crée de l'inquiétude chez les éleveurs américains et augmente les importations de boeuf brésilien au moment où le bétail américain arrive au marché."
+      "sujet": "SpaceX Musk 40 milliards dettes GPU",
+      "fait": "Elon Musk annonce que SpaceX a levé 40 milliards de dollars de dettes pour des GPU. Selon Reuters."
     },
     {
-      "sujet": "Élections en Serbie",
-      "fait": "D'après BBC World, la Serbie tient des élections avec un taux de participation record prévu, tandis qu'un mouvement étudiant tente de renverser le leader populiste de longue date Aleksandar Vučić."
+      "sujet": "Kenya accident autobus 24 décès",
+      "fait": "Un accident d'autobus en Kenya a tué au moins 24 personnes sur l'autoroute Nairobi-Mombasa. Selon Al Jazeera, ce crash intervient quelques semaines après un autre accident qui avait tué 17 personnes."
     },
     {
-      "sujet": "Instagram sur Apple TV",
-      "fait": "Selon The Verge, Meta a lancé l'application Instagram pour Apple TV le 23 octobre, poursuivant son expansion dans les salons après des lancements précédents sur Fire TV, Samsung Smart TVs et Google TV."
+      "sujet": "Colombie Britannique élection Doerkson",
+      "fait": "Lorne Doerkson, ancien député d'arrière-ban relativement inconnu devenu leader intérimaire, a remporté l'élection en Colombie-Britannique. Selon Global News, il déclare que la province 'a choisi le changement'."
     },
     {
-      "sujet": "Interdiction de l'IA sur Reddit",
-      "fait": "D'après The Verge, les modérateurs de r/opensource ont interdit les projets utilisant l'IA, déclarant que 'l'IA, telle qu'elle existe aujourd'hui, est incongruente à la communauté Open Source'."
+      "sujet": "Ukraine Starlink Musk termes service",
+      "fait": "Des responsables ukrainiens contestent les allégations du PDG de SpaceX Elon Musk selon lesquelles l'armée ukrainienne aurait violé les conditions d'utilisation de Starlink en l'utilisant pour des frappes de drones offensives. Selon CBC, Serhii Beskrestnov, conseiller en technologies de défense du président Zelenskyy, affirme que les restrictions existantes sur le système civil en Ukraine rendent ce type d'utilisation impossible."
     },
     {
-      "sujet": "Acupuncture pour dépendance à Montréal",
-      "fait": "Selon La Presse, l'organisme Dans la rue mène depuis 2024 un projet pilote d'acupuncture auriculaire pour traiter la dépendance et l'anxiété chez les populations vulnérables, avec un engouement observé et des projets d'expansion provinciale."
+      "sujet": "Basilique Notre-Dame Montréal rénovation",
+      "fait": "Après 10 ans de travaux, la basilique Notre-Dame de Montréal dévoile sa façade rénovée. Selon La Presse, un spectacle en plein air a été donné par la Société philharmonique du Nouveau Monde lors de cette occasion."
     },
     {
-      "sujet": "Stabilité de la roupie indienne",
-      "fait": "D'après The Economist, la banque centrale indienne utilise des mesures de plus en plus rigoureuses pour maintenir la roupie en dessous de 100 pour un dollar, au prix d'un coût économique important."
+      "sujet": "France Marine Le Pen campagne renaissance",
+      "fait": "Marine Le Pen, candidate du Rassemblement national, lance sa campagne en promettant une 'renaissance'. Selon Radio-Canada, elle s'est adressée à une arène remplie de 8500 militants."
     },
     {
-      "sujet": "Sommet Canada-Union européenne",
-      "fait": "Selon Les Affaires, le Canada accueillera à Montréal un sommet Canada-UE pour progresser sur un nouveau partenariat entre les deux entités."
-    },
-    {
-      "sujet": "Candidature Bloc québécois Laurier-Sainte-Marie",
-      "fait": "D'après La Presse, Zumretay Arkin, ex-vice-présidente du Congrès mondial ouïghour, sera candidate du Bloc québécois pour l'élection partielle dans Laurier-Sainte-Marie."
+      "sujet": "Canada Émirats Arabes unis visite diplomatique",
+      "fait": "Le Canada annonce que le Premier ministre Mark Carney recevra le prince d'Abou Dhabi, Khaled ben Mohammed ben Zayed Al Nahyane, pour des partenariats économiques et de sécurité les 26 et 27 octobre. Selon La Presse."
     }
   ]
 }
