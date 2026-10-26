@@ -1,0 +1,14 @@
+{
+  "date": "2026-10-26",
+  "kind": "poll",
+  "text": "Ce matin → Lula remporte un 4e mandat au Brésil avec 51,76 % des voix.\n\nDéveloppement : le real brésilien chute de 12 % face au dollar américain depuis la victoire, se négociant à 5,60 réaux pour un dollar.\n\nCette baisse du real brésilien t'interpelle surtout comme...",
+  "poll": {
+    "options": [
+      "Signal de volatilité des",
+      "Conséquence attendue",
+      "Impact sur le commerce",
+      "Indicateur d'inquiétude"
+    ],
+    "duration_minutes": 1440
+  }
+}
