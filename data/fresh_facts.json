@@ -1,50 +1,50 @@
 {
-  "generated_at": "2026-10-25T23:50:26.848905+00:00",
+  "generated_at": "2026-10-26T19:02:23.143326+00:00",
   "window_hours": 8,
   "faits": [
     {
-      "sujet": "Serbie - Élection parlementaire",
-      "fait": "Aleksandar Vučić a concédé sa défaite électorale face à un mouvement étudiant protestataire, mettant fin à 14 ans au pouvoir. Selon BBC World et CBC, cette victoire du mouvement étudiant marque un tournant politique majeur en Serbie."
+      "sujet": "Élection brésilienne et marchés",
+      "fait": "Lula remporte sa réélection pour un quatrième terme au Brésil. Le real brésilien chute de 12% face au dollar américain à 5,60 réaux pour un dollar suite à cette victoire. (Selon Al Jazeera et Radio-Canada)"
     },
     {
-      "sujet": "Colombie-Britannique - Élection provinciale",
-      "fait": "Le Parti conservateur de Lorne Doerkson a remporté les élections anticipées en Colombie-Britannique. D'après Le Devoir, le premier ministre sortant David Eby, qui avait déclenché ces élections deux ans en avance, a perdu son pari."
+      "sujet": "Élections en Colombie-Britannique",
+      "fait": "L'élection provinciale de 2026 en Colombie-Britannique enregistre un taux de participation record à la baisse, avec moins de la moitié des électeurs admissibles ayant voté. (Selon Global News)"
     },
     {
-      "sujet": "Venezuela - Retour de leader opposition",
-      "fait": "María Corina Machado, leader de l'opposition vénézuélienne et lauréate du prix Nobel de la paix, est retournée au pays après plus de 10 mois d'exil. Selon Al Jazeera, elle avait quitté le pays un mois avant que le gouvernement américain ne saisisse le président Nicolás Maduro."
+      "sujet": "iOS 27.2 et iPhone Duo",
+      "fait": "Apple lance iOS 27.2 avec support du Apple Pencil pour l'iPhone Duo et ajoute une fonctionnalité 'Edge Light' pour illuminer le visage lors des appels vidéo. (Selon The Verge)"
     },
     {
-      "sujet": "Brésil - Élection présidentielle second tour",
-      "fait": "Le deuxième tour de l'élection présidentielle brésilienne entre Lula et Flavio Bolsonaro a connu des perturbations avec un report de la fermeture des bureaux de vote. D'après Radio-Canada, la Cour suprême a ordonné le prolongement de deux heures."
+      "sujet": "Défaillances écrans iPhone Duo",
+      "fait": "Apple reconnaît une défaillance affectant l'écran interne d'un petit nombre d'unités iPhone Duo, caractérisée par des lignes brillantes émanant du centre. Les remplacements d'écran coûteraient environ la moitié du prix de l'appareil. (Selon Ars Technica et The Verge)"
     },
     {
-      "sujet": "Bulgarie - Élection présidentielle",
-      "fait": "L'élection présidentielle bulgare se dirige vers un second tour face à un taux de participation faible. Selon Al Jazeera, les électeurs choisiront entre la présidente Iliana Yotova et l'ancien premier ministre Andrey Gyurov."
+      "sujet": "Vols de cargaisons technologiques",
+      "fait": "Des voleurs utilisent le GPS spoofé et l'infiltration de comptes de courtiers de fret pour voler des équipements de centres de données. Depuis juin, plus de 100 millions de dollars en cargaisons ont été volées. (Selon Ars Technica)"
     },
     {
-      "sujet": "République Tchèque - Manifestations médias publics",
-      "fait": "Des milliers de personnes ont manifesté à Prague contre les réformes de financement des médias publics proposées par le premier ministre Andrej Babis. D'après Al Jazeera, les manifestants dénoncent une menace à la liberté de la presse."
+      "sujet": "Robots Boston Dynamics et ICE",
+      "fait": "Plus de 300 employés de Boston Dynamics signent une pétition contre la vente de robots quadrupèdes à l'Agence des douanes et de l'immigration américaine. Le contrat de 1,3 million de dollars a été attribué à l'entreprise Radeco du Connecticut. (Selon Ars Technica)"
     },
     {
-      "sujet": "Royaume-Uni - Banque défense Canada",
-      "fait": "Le Royaume-Uni a décidé de ne pas adhérer à la banque de défense dirigée par le Canada, mais s'engage à une coopération étroite. D'après Global News, les deux pays travailleront en partenariat sur les opportunités d'investissement."
+      "sujet": "Financement des startups de fusion nucléaire",
+      "fait": "Des startups du secteur de la fusion nucléaire cèdent des parts au gouvernement en échange de prix et de financements. (Selon TechCrunch)"
     },
     {
-      "sujet": "Montréal - Basilique Notre-Dame",
-      "fait": "La basilique Notre-Dame de Montréal a dévoilé sa façade rénovée après 10 ans de travaux. Selon La Presse, le projet de financement prévoit la réouverture au public de la passerelle entre les deux tours."
+      "sujet": "Bedrock Robotics et financement",
+      "fait": "Bedrock Robotics, spécialisée dans les excavateurs autonomes, lève 600 millions de dollars, atteignant une valorisation de 4,1 milliards de dollars. (Selon TechCrunch)"
     },
     {
-      "sujet": "Montréal - Enquête disciplinaire policière",
-      "fait": "Le Commissaire à la déontologie policière et le Bureau des enquêtes indépendantes enquêtent sur un agent du SPVM suspendu pour avoir uriné sur des personnes en situation d'itinérance. D'après La Presse, les deux organismes ont obtenu le mandat d'enquête."
+      "sujet": "Anthropic IPO et stratégie clients",
+      "fait": "Le dossier IPO d'Anthropic révèle que plus de la moitié de ses clients dépensant plus de 100 000 dollars utilisent à la fois la plateforme Claude et une application de première partie. (Selon TechCrunch)"
     },
     {
-      "sujet": "France - Manifestations étudiantes",
-      "fait": "Les manifestations en France samedi se sont déroulées largement sans violence grave, contrairement à celles de la semaine précédente. Selon Le Devoir, le gouvernement a augmenté les forces de l'ordre et encadré strictement les défilés."
+      "sujet": "Microsoft et réductions d'effectifs",
+      "fait": "Microsoft propose des départs volontaires à environ 60 000 employés pour contenir les coûts. (Selon Reuters)"
     },
     {
-      "sujet": "SpaceX - Levée de financement",
-      "fait": "SpaceX a levé 40 milliards de dollars via un accord de financement par dette. Selon Reuters, Elon Musk prédit un bouleversement du secteur du cloud informatique."
+      "sujet": "Procès contre Trump restriction accès médias",
+      "fait": "Six citoyens poursuivent l'administration Trump en justice concernant les restrictions d'accès des médias à la Maison-Blanche, arguant que le droit du public à une information indépendante est violé. (Selon Le Devoir et Al Jazeera)"
     }
   ]
 }
