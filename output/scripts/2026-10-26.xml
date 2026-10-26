@@ -1,0 +1,77 @@
+```xml
+<script>
+  <intro>Bonjour, on est le lundi vingt-six octobre deux mille vingt-six. Voici votre Presto en environ quinze minutes. Au menu : l'élection historique au Brésil et en Serbie, la guerre en Iran et son impact sur votre facture de chauffage, la rencontre des premiers ministres avec les Premières Nations à Ottawa, et un mot sur l'économie et la tech.</intro>
+
+  <chapitre titre="International">
+    On commence au Brésil, où Luiz Inácio Lula da Silva a remporté dimanche l'élection présidentielle face au conservateur Flavio Bolsonaro, avec cinquante et un virgule soixante-seize pour cent des voix, selon Radio-Canada. Il s'agit d'un quatrième mandat pour l'homme politique de soixante-dix-huit ans. Flavio Bolsonaro refuse toutefois de concéder la défaite. Selon Al Jazeera, il affirme qu'il n'abandonnera pas la lutte. Selon CBC, Bolsonaro dénonce comme sans précédent la décision de prolonger les heures de vote dimanche.
+
+    Du côté des marchés, Reuters rapporte que les investisseurs s'attendent à un recul des actions et de la devise brésiliennes dans la foulée de cette réélection jugée improbable par plusieurs analystes. Bloomberg va dans le même sens, évoquant une possible déroute des marchés brésiliens lundi.
+
+    Toujours en Amérique latine, la situation évolue au Venezuela. Selon la BBC, la cheffe de l'opposition María Corina Machado est rentrée au pays après plusieurs mois d'exil. Elle avait quitté le Venezuela environ un mois avant que le gouvernement américain ne mette la main sur le président vénézuélien Nicolás Maduro, précise la BBC.
+
+    En Europe, un changement politique majeur est survenu en Serbie. Selon la BBC, le président Aleksandar Vučić, au pouvoir depuis douze ans, a concédé sa défaite électorale dimanche face à un mouvement de protestation étudiant. CBC confirme que ce scrutin, présenté comme un référendum sur l'avenir du pays, met fin à la mainmise de Vučić sur le pouvoir et ouvre une nouvelle ère politique dans ce pays des Balkans.
+
+    En France, la contestation sociale persiste, mais le gouvernement d'Emmanuel Macron semble avoir évité le pire. Selon le National Post, la France a évité une répétition des pillages et des violences à grande échelle qui avaient marqué les manifestations nationales une semaine plus tôt, un résultat attribué au renforcement des effectifs policiers.
+
+    Au Moyen-Orient, la situation reste tendue sur plusieurs fronts à la veille d'élections en Israël. Selon Radio-Canada, ce scrutin, le premier depuis les attentats du Hamas du sept octobre deux mille vingt-trois, prend des airs de référendum sur Benjamin Netanyahu. CBC rapporte que l'armée israélienne a mené une opération militaire d'envergure en Cisjordanie dimanche, déplaçant des centaines de Palestiniens et imposant des restrictions majeures de mouvement, en réponse à une attaque armée qui a fait deux morts parmi les soldats israéliens à Hébron vendredi. De son côté, Al Jazeera donne la parole à des habitants de Gaza qui se demandent si cette élection changera quoi que ce soit à leur situation après des années de guerre et de déplacement.
+
+    Sur le dossier iranien, le président américain Donald Trump affirme, selon le National Post, que l'heure des décisions approche : soit une entente avec Téhéran, soit la reprise des attaques, alors que les menaces iraniennes et houthies contre des Américains au Moyen-Orient continuent de s'intensifier. Sur le plan économique, le Wall Street Journal et Reuters rapportent que le prix du pétrole recule, les efforts diplomatiques pour mettre fin à la guerre en Iran alimentant cette baisse.
+  </chapitre>
+
+  <chapitre titre="Politique canadienne">
+    À Ottawa, un rendez-vous qualifié d'historique s'est ouvert ce matin. Selon CBC, les chefs des Premières Nations et les premiers ministres du Canada se réunissent pour discuter des droits autochtones, une première rencontre de ce genre en deux décennies. L'Assemblée des Premières Nations qualifie cette rencontre de rassemblement historique, et une manifestation est prévue en marge des discussions. BNN Bloomberg précise que les chefs des Premières Nations doivent aussi rencontrer le premier ministre et les premiers ministres provinciaux pour discuter de grands projets.
+
+    En Colombie-Britannique, les suites de la victoire conservatrice continuent d'alimenter l'analyse politique. Selon le National Post, le premier ministre désigné Lorne Doerksen envisage son conseil des ministres, et deux jeunes femmes au profil inhabituel pour un gouvernement conservateur pourraient en faire partie. The Hub se penche sur les raisons de la défaite du premier ministre sortant David Eby. BNN Bloomberg, pour sa part, examine ce que cette victoire conservatrice signifie pour le premier ministre Mark Carney, alors que La Presse note que les récentes élections partielles au Québec et en Colombie-Britannique soulèvent des questions sur l'unité de l'équipe fédérale.
+
+    Dans les relations canado-américaines, Reuters rapporte que Donald Trump affirme qu'une entente sur les droits de douane avec le Canada s'en vient bientôt, lors d'un rassemblement électoral tenu à la frontière du Michigan. BNN Bloomberg rapporte par ailleurs qu'un proche conseiller de Trump attribue le retard de cette entente commerciale au référendum tenu en Alberta. Toujours selon BNN Bloomberg, l'ancien président Barack Obama s'est moqué de la guerre tarifaire avec le Canada à l'approche des élections de mi-mandat américaines.
+
+    Sur un autre front diplomatique, CBC rapporte que des responsables américains accusent le Canada de s'ingérer dans les élections de mi-mandat américaines, même si Donald Trump a lui-même pris position dans des élections étrangères par le passé. Autre dossier de politique étrangère : selon Global News, le Royaume-Uni ne se joindra pas à la banque de défense dirigée par le Canada, mais les deux pays promettent de maintenir leur collaboration. Reuters confirme cette information.
+
+    Un mot aussi sur un enjeu de santé qui touche tout le pays. Selon CBC, un nouveau médicament contre le cancer coûte environ quatre-vingt-dix mille dollars par mois à un patient de Vancouver, une somme comparable à une mise de fonds pour une maison. Des oncologues de première ligne affirment, toujours selon CBC, que ce genre de coût pousse le système de santé public vers un point de rupture.
+  </chapitre>
+
+  <chapitre titre="Actualité québécoise">
+    Au Québec, un sujet touchant la facture des ménages cet hiver mérite l'attention. Selon Global News, les prix de détail du mazout domestique ont bondi de quarante-deux pour cent dans la plupart des régions du Canada depuis le début de la guerre en Iran, le litre se négociant cette semaine autour de deux dollars cinquante.
+
+    Du côté du système scolaire, Radio-Canada rapporte une hausse préoccupante des gestes de violence. Près de trente mille incidents de violence ont été recensés dans les écoles québécoises, et le nombre d'incidents rapportés envers le personnel de soutien a triplé en quatre ans.
+
+    Un dossier judiciaire inédit s'ouvre également. Selon Radio-Canada, un groupe de jeunes poursuit le gouvernement canadien dans ce qui constitue le premier procès constitutionnel sur l'action climatique au pays.
+
+    Enfin, une enquête du Devoir soulève un enjeu de sécurité dans le réseau de la santé. Depuis deux mille vingt et un, près de cinq cents Québécois sont morts après s'être étouffés en mangeant, selon une recension des rapports de coroners effectuée par le journal. Environ deux cents personnes parmi les victimes vivaient en CHSLD ou se trouvaient à l'hôpital. Dans certains cas, relève Le Devoir, le personnel n'a pas suivi les consignes alimentaires ou n'a pas réagi assez rapidement. La coroner Martine Lachance a notamment relevé le cas d'une femme de quatre-vingt-deux ans hospitalisée à Montréal, où les manœuvres de réanimation n'ont commencé que six minutes après son arrêt cardio-respiratoire. La coroner note, je la cite : une intervention plus rapide aurait certainement amélioré ses chances de survie. Fin de citation.
+  </chapitre>
+
+  <chapitre titre="Économie et marchés">
+    On passe à l'économie, où le regard se tourne vers la Banque du Canada. Selon CBC, l'institution fait face à un dilemme cette semaine : l'économie canadienne est faible, mais l'inflation est en hausse. Hausser les taux d'intérêt affaiblirait davantage l'économie, alors que les baisser aggraverait l'inflation. La Banque du Canada doit trancher mercredi.
+
+    Du côté des marchés américains, Bloomberg rapporte que les contrats à terme sur actions américaines sont en hausse ce matin, alors que le prix du pétrole brut recule. L'or progresse également dans ce contexte, selon le Wall Street Journal et Reuters, les investisseurs ayant aussi en tête la décision à venir de la Réserve fédérale américaine.
+
+    Au Brésil, les conséquences économiques de la réélection de Lula se font déjà sentir dans l'analyse des marchés. Le Financial Times prévient que Lula fera face à un contrecoup important après cette victoire surprenante. The Economist qualifie Lula de grand survivant de la politique latino-américaine, rappelant qu'il devient à nouveau président du pays.
+
+    En Israël, un autre scrutin pourrait avoir des répercussions économiques. Reuters rapporte que les marchés israéliens pourraient voir une occasion dans une éventuelle défaite de Benjamin Netanyahu, après un rallye boursier de trois ans.
+
+    Du côté des entreprises, Reuters rapporte que SpaceX, selon Elon Musk, a levé quarante milliards de dollars en financement par dette. L'entrepreneur prédit aussi une restructuration à venir dans le secteur de l'infonuagique lié à l'intelligence artificielle, ce qu'on appelle le "neocloud".
+
+    Enfin, un dossier à suivre en Californie : selon Al Jazeera, une proposition de taxe sur les grandes fortunes fait face à une opposition bien financée. Des milliardaires du secteur technologique ont amassé plus de trois cents millions de dollars pour combattre cette mesure. Les défenseurs de la taxe soutiennent qu'elle permettrait de financer des services publics, alors que ses opposants font valoir qu'elle nuirait à l'attractivité économique de l'État.
+  </chapitre>
+
+  <chapitre titre="Tech">
+    Un mot sur la tech, où une étude soulève des doutes sur la rentabilité de l'intelligence artificielle en entreprise. Selon TechCrunch, un économiste de la firme Apollo affirme que l'intelligence artificielle n'a généré, je le cite : "zero financial payoff" pour la plupart des entreprises américaines en dehors du secteur technologique. Fin de citation. Cette évaluation tranche avec l'enthousiasme généralisé entourant les investissements massifs dans le domaine.
+
+    The Economist apporte un éclairage complémentaire sur la concurrence internationale en intelligence artificielle, notant que la Chine dépend de plus en plus de la copie de modèles américains, une pratique qui irrite Washington mais qui pourrait, selon certains analystes cités par le magazine, freiner le développement de capacités chinoises autonomes à long terme.
+
+    Du côté des produits, iFixit s'est penché sur l'iPhone Duo d'Apple. Selon The Verge, le démontage de l'appareil a permis de mieux comprendre la conception de son écran pliable et de sa charnière, l'appareil recevant une note de réparabilité de cinq sur dix, la meilleure note jamais accordée par le site à un téléphone pliable. Un autre test, mené cette fois par un YouTubeur, a permis de reproduire le bris d'écran signalé par plusieurs utilisateurs en ligne, et d'identifier la charnière complexe de l'appareil comme possible source du problème.
+
+    Enfin, aux États-Unis, The Verge raconte comment la petite ville de Huntington, en Virginie-Occidentale, s'est mobilisée autour d'un enjeu de surveillance policière. Le maire Patrick Farrell, qui avait promis de réduire la criminalité, a dû faire face à son conseil municipal et à ses citoyens après qu'une résidante de trente-trois ans eut été tuée par balle, un dossier qui a ravivé le débat sur l'usage de technologies de surveillance comme celles de l'entreprise Flock.
+  </chapitre>
+
+  <chapitre titre="Sport">
+    Rapidement en sport. Au hockey, la Classique Héritage a tenu ses promesses à Winnipeg. Selon Global News, les Canadiens de Montréal l'ont emporté deux à un contre les Jets, qui voient leur séquence sans victoire atteindre cinq matchs. Sportsnet souligne la performance du gardien Jacob Fowler, décrit comme le meilleur joueur sur la glace dans cette rencontre en plein air.
+
+    Ailleurs dans la ligue, Quinn Hughes a connu un retour mouvementé à Vancouver. Sportsnet rapporte que l'ancien capitaine des Canucks, maintenant avec le Wild du Minnesota, a reçu un accueil partagé lors d'un hommage vidéo, avant d'inscrire les points gagnants contre son ancienne équipe.
+
+    Au basketball, les Raptors de Toronto ont connu des difficultés en l'absence de Kawhi Leonard, blessé. Selon Sportsnet, l'équipe torontoise n'a pas fait le poids face aux Timberwolves du Minnesota.
+  </chapitre>
+
+  <outro>Voilà pour ce Presto du vingt-six octobre deux mille vingt-six. Si ce briefing vous est utile, le meilleur coup de main que vous pouvez nous donner, c'est de le partager à une personne qui aime rester informée. Et selon votre plateforme : un abonnement sur Spotify ou Apple Podcasts, un pouce bleu et un abonnement sur YouTube, ça prend deux secondes et ça aide vraiment Presto à grandir. Sur ce, bonne journée, et à demain.</outro>
+</script>
+```
