@@ -1,0 +1,13 @@
+{
+  "date": "2026-10-27",
+  "kind": "poll",
+  "text": "Ce matin → La participation aux élections israéliennes s'élevait à 66,7 %, le taux le plus élevé depuis 1973.\n\nNouveau : À une heure de la clôture, elle atteignait 74,3 %, dépassant déjà le score de 2022.\n\nUn taux de participation plus élevé aux élections, c'est généralement...",
+  "poll": {
+    "options": [
+      "Un reflet d'enjeux",
+      "Un indicateur neutre",
+      "Un signe de polarisation"
+    ],
+    "duration_minutes": 1440
+  }
+}
