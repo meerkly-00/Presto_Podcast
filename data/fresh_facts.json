@@ -1,50 +1,54 @@
 {
-  "generated_at": "2026-10-26T19:02:23.143326+00:00",
+  "generated_at": "2026-10-27T01:10:34.278066+00:00",
   "window_hours": 8,
   "faits": [
     {
-      "sujet": "Élection brésilienne et marchés",
-      "fait": "Lula remporte sa réélection pour un quatrième terme au Brésil. Le real brésilien chute de 12% face au dollar américain à 5,60 réaux pour un dollar suite à cette victoire. (Selon Al Jazeera et Radio-Canada)"
+      "sujet": "Réforme de la Loi sur les Indiens",
+      "fait": "Le premier ministre Mark Carney a déclaré que le Canada devrait envisager de « reformer ou même abolir » la Loi sur les Indiens, qu'il qualifie de « raciste ». Selon Radio-Canada et National Post, cette réforme devrait se faire en partenariat avec les Premières Nations."
     },
     {
-      "sujet": "Élections en Colombie-Britannique",
-      "fait": "L'élection provinciale de 2026 en Colombie-Britannique enregistre un taux de participation record à la baisse, avec moins de la moitié des électeurs admissibles ayant voté. (Selon Global News)"
+      "sujet": "Élections municipales Ontario",
+      "fait": "Alvin Tedjo a remporté l'élection municipale à Mississauga, battant l'incumbent Carolyn Parrish et l'ancienne mairesse Bonnie Crombie, selon Global News. La course à la mairie de Toronto s'annonce très serrée entre Olivia Chow et Brad Bradford, selon National Post."
     },
     {
-      "sujet": "iOS 27.2 et iPhone Duo",
-      "fait": "Apple lance iOS 27.2 avec support du Apple Pencil pour l'iPhone Duo et ajoute une fonctionnalité 'Edge Light' pour illuminer le visage lors des appels vidéo. (Selon The Verge)"
+      "sujet": "Négociations commerciales Canada-États-Unis",
+      "fait": "Le premier ministre Mark Carney a déclaré que les négociations commerciales avec les États-Unis s'intensifient légèrement et que « les États-Unis se rapprochent de notre position », selon National Post. Toutefois, Radio-Canada rapporte que selon des sources, un accord ne serait « pas à la porte »."
     },
     {
-      "sujet": "Défaillances écrans iPhone Duo",
-      "fait": "Apple reconnaît une défaillance affectant l'écran interne d'un petit nombre d'unités iPhone Duo, caractérisée par des lignes brillantes émanant du centre. Les remplacements d'écran coûteraient environ la moitié du prix de l'appareil. (Selon Ars Technica et The Verge)"
+      "sujet": "Anthropic demande d'introduction en bourse",
+      "fait": "Anthropic a déposé sa demande d'introduction en bourse. Selon The Verge, le document d'enregistrement révèle que l'entreprise dépend fortement du gaz naturel pour ses data centers et reconnaît la vulnérabilité aux hausses de coûts énergétiques."
     },
     {
-      "sujet": "Vols de cargaisons technologiques",
-      "fait": "Des voleurs utilisent le GPS spoofé et l'infiltration de comptes de courtiers de fret pour voler des équipements de centres de données. Depuis juin, plus de 100 millions de dollars en cargaisons ont été volées. (Selon Ars Technica)"
+      "sujet": "Réductions d'effectifs Microsoft",
+      "fait": "Microsoft offre des indemnités de départ volontaires à environ 60 000 employés, soit environ un quart de sa main-d'œuvre mondiale, selon Reuters et Ars Technica. Cette offre s'adresse aux employés des niveaux 70 et inférieurs aux États-Unis, en Inde, au Canada et au Royaume-Uni."
     },
     {
-      "sujet": "Robots Boston Dynamics et ICE",
-      "fait": "Plus de 300 employés de Boston Dynamics signent une pétition contre la vente de robots quadrupèdes à l'Agence des douanes et de l'immigration américaine. Le contrat de 1,3 million de dollars a été attribué à l'entreprise Radeco du Connecticut. (Selon Ars Technica)"
+      "sujet": "Élection présidentielle Brésil",
+      "fait": "Lula a remporté l'élection présidentielle brésilienne avec environ 52 % des suffrages, selon Radio-Canada. Cette victoire était inattendue et a provoqué une chute des marchés brésiliens, selon Wall Street Journal."
     },
     {
-      "sujet": "Financement des startups de fusion nucléaire",
-      "fait": "Des startups du secteur de la fusion nucléaire cèdent des parts au gouvernement en échange de prix et de financements. (Selon TechCrunch)"
+      "sujet": "Rencontre Macron et Plamondon",
+      "fait": "Le premier ministre du Québec Paul St-Pierre Plamondon a annoncé qu'il s'était entretenu avec le président français Emmanuel Macron et qu'ils se rencontreront en France « dans les prochaines semaines », selon La Presse."
     },
     {
-      "sujet": "Bedrock Robotics et financement",
-      "fait": "Bedrock Robotics, spécialisée dans les excavateurs autonomes, lève 600 millions de dollars, atteignant une valorisation de 4,1 milliards de dollars. (Selon TechCrunch)"
+      "sujet": "Sabotage russo contre la Roumanie",
+      "fait": "La Roumanie accuse un réseau de sabotage dirigé par la Russie d'avoir mis le feu près d'une usine d'armements en septembre, dans le cadre d'une campagne plus large contre les pays européens soutenant l'Ukraine, selon Al Jazeera."
     },
     {
-      "sujet": "Anthropic IPO et stratégie clients",
-      "fait": "Le dossier IPO d'Anthropic révèle que plus de la moitié de ses clients dépensant plus de 100 000 dollars utilisent à la fois la plateforme Claude et une application de première partie. (Selon TechCrunch)"
+      "sujet": "Tensions Iran-États-Unis",
+      "fait": "L'Iran affirme que les États-Unis ne sont « pas sérieux » concernant les négociations, tandis qu'un navire est signalé en feu au large de la côte irakienne, selon Al Jazeera."
     },
     {
-      "sujet": "Microsoft et réductions d'effectifs",
-      "fait": "Microsoft propose des départs volontaires à environ 60 000 employés pour contenir les coûts. (Selon Reuters)"
+      "sujet": "Frappes aériennes Jordanie-Syrie",
+      "fait": "La Jordanie a lancé des frappes aériennes en Syrie en réponse à une attaque contre une église, tuant au moins sept personnes, dont des enfants, en Syrie, selon Al Jazeera. La Syrie a fermé ses passages frontaliers avec la Jordanie."
     },
     {
-      "sujet": "Procès contre Trump restriction accès médias",
-      "fait": "Six citoyens poursuivent l'administration Trump en justice concernant les restrictions d'accès des médias à la Maison-Blanche, arguant que le droit du public à une information indépendante est violé. (Selon Le Devoir et Al Jazeera)"
+      "sujet": "Découvertes scientifiques OpenAI",
+      "fait": "OpenAI a annoncé trois découvertes scientifiques majeures en mathématiques, informatique et physique, avec des experts externes guidant les résultats en informatique et physique, selon The Verge."
+    },
+    {
+      "sujet": "Politique de sécurité publique Colombie-Britannique",
+      "fait": "Les Conservateurs de la Colombie-Britannique ont promis de mettre fin à l'usage ouvert de drogues, d'améliorer l'accès aux soins de santé mentale et de donner à la police le pouvoir d'appliquer la Loi sur la santé mentale pour imposer un traitement obligatoire, selon Global News."
     }
   ]
 }
