@@ -1,54 +1,46 @@
 {
-  "generated_at": "2026-10-27T22:51:56.620877+00:00",
+  "generated_at": "2026-10-28T18:40:18.844384+00:00",
   "window_hours": 8,
   "faits": [
     {
-      "sujet": "Apple M6 iMac MacBook Pro",
-      "fait": "Apple a annoncé des renouvellements de l'iMac et du MacBook Pro 14 pouces d'entrée de gamme avec la puce M6. Selon Ars Technica, la variante M6 avec deux ports Thunderbolt offre 10 cœurs CPU/GPU et 24 GB RAM max, tandis que celle avec quatre ports offre 12 cœurs chacun et 32 GB RAM max."
+      "sujet": "Catastrophe ferroviaire en Espagne",
+      "fait": "Une collision entre deux trains à grande vitesse à environ 150 km au sud de Madrid a tué au moins 68 personnes et blessé plus d'une centaine d'autres, selon Radio-Canada. Cinq Canadiens sont touchés par l'accident, selon la ministre canadienne des Affaires étrangères Anita Anand."
     },
     {
-      "sujet": "Anthropic financement IA frontière",
-      "fait": "Anthropic offre aux traders une opportunité d'investissement pur sur l'IA frontière, rapporte Bloomberg."
+      "sujet": "Apple MacBook Pro tactile",
+      "fait": "Apple a lancé de nouveaux MacBook Pro 14 et 16 pouces avec écran PROLED XDR tactile à partir de 2 899 dollars, selon TechCrunch. Les appareils incluent le processeur M6 d'Apple et un logo Apple rétroéclairé."
     },
     {
-      "sujet": "Guidewire acquisition Hyperexponential",
-      "fait": "Guidewire a annoncé l'acquisition de Hyperexponential pour 1,7 milliard de dollars en numéraire. Selon TechCrunch, l'opération doit fermer l'année prochaine et vise à intégrer des agents IA pour accompagner les humains dans les décisions de souscription et de tarification."
+      "sujet": "Google Xreal Aura AR",
+      "fait": "Les lunettes Google Xreal Aura, pesant 95 grammes avec écrans virtuels multiples, sont vendues à 1 099 dollars jusqu'à la fin de l'année, en baisse par rapport au prix de précommande de 1 279 dollars, selon The Verge."
     },
     {
-      "sujet": "Épidémie rougeole Caroline du Sud Washington",
-      "fait": "Selon Ars Technica, l'épidémie de rougeole de Caroline du Sud a atteint l'État de Washington par cinq importations distinctes en deux semaines en janvier 2026, générant 26 cas avant d'être contenue. La Pennsylvanie a depuis surpassé l'épidémie de Caroline du Sud (997 cas) comme plus grande depuis l'élimination du virus en 2000."
+      "sujet": "Amazon Echo Studio caméra",
+      "fait": "Amazon a lancé l'Echo Studio with Home Camera, intégrant une caméra au haut-parleur intelligent tout en conservant les mêmes spécifications audio que le modèle standard, selon Ars Technica."
     },
     {
-      "sujet": "Flávio Bolsonaro fuite Brésil États-Unis",
-      "fait": "Flávio Bolsonaro a quitté le Brésil pour les États-Unis, rapportent Al Jazeera et Radio-Canada. D'après Al Jazeera, les États-Unis ont déclaré qu'ils accorderaient un visa, un jour après que la Cour suprême brésilienne ait ordonné à Bolsonaro de remettre ses passeports dans une enquête de blanchiment d'argent."
+      "sujet": "Équité salariale Québec",
+      "fait": "La Cour supérieure du Québec a confirmé qu'on ne peut corriger la discrimination salariale à rabais, selon Les Affaires."
     },
     {
-      "sujet": "Delaware proposition IA entreprises sans humain",
-      "fait": "Le Delaware envisage de permettre aux entreprises d'être gérées par des agents IA. Selon Ars Technica, le représentant James Comer a écrit au gouverneur du Delaware que cette proposition pourrait permettre aux entreprises d'IA et à leurs investisseurs d'échapper à la responsabilité des actions nuisibles."
+      "sujet": "Vapotage cannabis Québec",
+      "fait": "Le vapotage du cannabis est en augmentation au Québec, notamment chez les jeunes, tandis que la consommation générale de cannabis diminue, selon l'Enquête québécoise sur le cannabis de l'Institut de la statistique du Québec rapportée par La Presse."
     },
     {
-      "sujet": "Élections Israël opposition en tête",
-      "fait": "Lors des élections israéliennes, des sondages à la sortie des urnes donnent une légère avance au bloc de l'opposition, mais sans majorité, rapportent Radio-Canada et Le Journal de Montréal. La participation a été forte."
+      "sujet": "Google AI réponses élections",
+      "fait": "Google AI Mode refuse de répondre directement à la question sur le gagnant de l'élection présidentielle américaine de 2020, redirigeant vers la Federal Election Commission, selon Ars Technica."
     },
     {
-      "sujet": "Alberta suppression DEI embauche secteur public",
-      "fait": "Le gouvernement de l'Alberta a présenté un projet de loi qui, s'il est adopté, interdirait aux organismes publics d'utiliser les politiques DEI pour les décisions d'embauche. Selon Global News et CBC, cela fait partie du projet de loi présenté à la session d'automne de l'assemblée législative."
+      "sujet": "Mégadéduction fédérale Québec",
+      "fait": "La mégadéduction à la productivité annoncée par le gouvernement fédéral coûtera environ un milliard de dollars par année au gouvernement du Québec, selon le ministre des Finances Nicolas Marceau rapporté par La Presse."
     },
     {
-      "sujet": "Ceasefire Kherson Ukraine extension",
-      "fait": "Une trêve a été prolongée dans la région de Kherson en Ukraine. Selon la BBC, la trêve initialement prévue pour les résidents bloqués d'Oleshky a été étendue, et la Russie et l'Ukraine rapportent aucune violation."
+      "sujet": "macOS changements tactiles",
+      "fait": "macOS intègrera Dynamic Island d'iOS sur le nouveau MacBook Pro et permettra les contrôles tactiles, notamment pour accepter AirDrops et mettre en pause la musique, selon The Verge."
     },
     {
-      "sujet": "Mesures Iran Moyen-Orient indépendance États-Unis",
-      "fait": "Le président iranien Pezeshkian a déclaré que le Moyen-Orient peut résoudre ses propres problèmes sans les États-Unis, selon Al Jazeera. Ses paroles ont été prononcées lors d'un sommet des pays exportateurs de gaz en Russie."
-    },
-    {
-      "sujet": "Acquisition Amazon Globalstar satellite",
-      "fait": "Une agence américaine a approuvé l'acquisition de Globalstar par Amazon Leo pour 11,5 milliards de dollars, rapporte Reuters."
-    },
-    {
-      "sujet": "OpenAI chercheurs frustration breakthroughs IA",
-      "fait": "Selon The Verge, les chercheurs en mathématiques et en informatique expriment une frustration croissante face à la façon dont OpenAI divulgue ses percées scientifiques. OpenAI a annoncé des avancées en mathématiques, informatique et physique et dit travailler avec des experts pour décider de la meilleure façon de partager ses résultats."
+      "sujet": "Cadillac Escalade EQ autonomie",
+      "fait": "Le Cadillac Escalade IQ électrique possède plus de 200 kWh de batterie au lithium-ion, offrant une autonomie de 440 miles (708 km) selon l'indication et 460 miles (740 km) selon le cycle d'essai EPA, selon Ars Technica."
     }
   ]
 }
