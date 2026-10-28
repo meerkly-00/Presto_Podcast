@@ -1,0 +1,77 @@
+```xml
+<script>
+  <intro>Bonjour, on est le mercredi vingt-huit octobre deux mille vingt-six. Voici votre Presto en environ quinze minutes. Au menu : l'élection sans vainqueur clair en Israël, les suites politiques au Québec et au Canada, l'économie avec la décision de la Réserve fédérale et l'introduction en bourse d'Anthropic, et un mot sur la tech.</intro>
+
+  <chapitre titre="International">
+    On commence en Israël, où le scrutin de mardi n'a produit aucun vainqueur clair. Selon Radio-Canada, le taux de participation a atteint soixante-dix-sept virgule sept pour cent, un sommet depuis des décennies. Le premier ministre sortant Benjamin Nétanyahou et son rival Gadi Eisenkot revendiquent tous les deux la capacité de former le prochain gouvernement. Selon CBC, Nétanyahou appelle à un gouvernement de droite, alors qu'Eisenkot soutient que les électeurs ont rejeté le dirigeant israélien de longue date. Aucun camp ne dispose toutefois d'une majorité selon les premiers décomptes.
+
+    Al Jazeera rapporte que des figures de la droite israélienne, dont Nétanyahou et le ministre Smotrich, ont tenu des propos virulents visant les électeurs arabes pendant le dépouillement. The Economist souligne que les adversaires de Nétanyahou risquent malgré tout d'avoir du mal à former une coalition stable. La période de négociations qui s'ouvre pourrait s'étirer sur plusieurs semaines.
+
+    Ailleurs, le Brésil continue de digérer l'élection de Lula. The Economist rapporte que Flavio Bolsonaro semble avoir quitté le pays après sa défaite. De son côté, l'Associated Press précise que le département d'État américain confirme que Bolsonaro et sa famille obtiendront des visas américains après leur défaite électorale.
+
+    En Ukraine, Reuters rapporte que le président Volodymyr Zelensky affirme que ses forces ont repris du territoire et sont passées à l'offensive. La BBC rapporte par ailleurs qu'un cessez-le-feu a été prolongé dans la région ukrainienne de Kherson, une trêve initialement prévue pour permettre l'évacuation de résidents coincés à Oleshky ; ni la Russie ni l'Ukraine n'ont signalé de violation. Selon l'Associated Press, un cessez-le-feu localisé négocié par Melania Trump est aussi entré en vigueur, alors que des dirigeants nordiques se sont entretenus avec Vladimir Poutine.
+
+    Aux États-Unis, à quelques jours des élections de mi-mandat, CBC rapporte que la contestation des résultats électoraux s'est normalisée dans le discours politique américain, la Maison-Blanche étant accusée d'utiliser la fraude électorale comme prétexte pour réécrire les règles du scrutin. Des représentants municipaux et des défenseurs du droit de vote cherchent des façons de protéger l'intégrité des résultats. Toujours selon CBC, les démocrates promettent de faire de l'affaire Epstein une priorité s'ils remportent les élections de mi-mandat. L'Associated Press rapporte par ailleurs qu'au Texas, le candidat démocrate Talarico promet de, je le cite : "take back Texas", fin de citation, alors que Donald Trump multiplie les interventions de dernière minute pour garder l'État dans le camp républicain.
+  </chapitre>
+
+  <chapitre titre="Politique canadienne et actualité québécoise">
+    Au Canada, Al Jazeera rapporte que le pays a signé une entente commerciale avec les Émirats arabes unis, dans un geste présenté comme une diversification des marchés hors des États-Unis. L'accord vise à réduire les tarifs douaniers, alléger la paperasse et améliorer l'accès aux marchés pour les entreprises des deux pays.
+
+    CBC rapporte que le Canada fait face à une menace de tarif carbone de la part de l'Union européenne, qui doit finaliser dans les prochains mois son mécanisme d'ajustement carbone aux frontières, selon des documents internes obtenus par le diffuseur public.
+
+    Du côté du renseignement, le National Post rapporte que le Service canadien du renseignement de sécurité tente de rebâtir la confiance à l'interne, le directeur Dan Rogers rencontrant le personnel dans plusieurs bureaux du pays pour aborder une culture organisationnelle jugée problématique.
+
+    Au Québec, selon Radio-Canada, des transporteurs aériens souhaitent prolonger les horaires de travail de leurs pilotes jusqu'à quatorze heures par jour, une proposition qui soulève des questions de sécurité selon le syndicat concerné. Toujours selon Radio-Canada, des aînés de la résidence des Pionniers à Val-d'Or vivront leur dernier hiver dans cet immeuble vétuste, dont la fermeture est prévue dans un an, sans solution de relogement claire pour l'instant.
+
+    En matière parlementaire, Radio-Canada rapporte que la Coalition avenir Québec souhaite obtenir l'accès à l'Assemblée nationale ainsi qu'une place au futur sommet sur l'itinérance. Justement sur ce dossier, La Presse rapporte qu'un réseau communautaire propose une feuille de route au premier ministre Paul St-Pierre Plamondon pour réduire l'itinérance de moitié d'ici deux mille trente, un livre blanc qui appelle notamment le gouvernement à s'assurer que personne ne quitte un centre jeunesse ou une prison sans solution de logement.
+
+    Le National Post rapporte par ailleurs que Québec se prépare à une bataille avec les diffuseurs américains en continu sur la question de la découvrabilité du contenu francophone, Paul St-Pierre Plamondon maintenant cet objectif malgré les félicitations reçues de Donald Trump pour sa victoire électorale, rapportées également par le Journal de Montréal.
+
+    En Colombie-Britannique, The Hub analyse comment le bouleversement politique récent pourrait redessiner l'avenir économique de l'Ouest canadien.
+
+    Du côté de la santé, Le Devoir rapporte qu'à Victoriaville, l'implantation du Dossier santé numérique pousse des médecins à quitter l'hôpital, une médecin qualifiant la mesure de, je le cite : "la goutte qui a fait déborder le vase", fin de citation. Dans la même veine, le Journal de Montréal rapporte qu'une experte demande au gouvernement péquiste de ne pas, je le cite : "tout briser", fin de citation, dans le cadre de l'abolition annoncée de Santé Québec.
+
+    Enfin, CBC rapporte que des quantités records de cannabis canadien sont saisies en route vers l'Europe, les douanes belges ayant intercepté à elles seules vingt et une tonnes en deux mille vingt-cinq, un sommet qui dépasse les exportations illégales de tout autre pays au monde.
+  </chapitre>
+
+  <chapitre titre="Économie et marchés">
+    On passe à l'économie, où l'attention se tourne vers la décision à venir de la Réserve fédérale américaine. Selon le Wall Street Journal, l'or recule légèrement à l'approche de cette annonce. Reuters souligne que la banque centrale néo-zélandaise a aussi surpris les marchés cette semaine avec sa propre décision.
+
+    En Chine, le Financial Times rapporte que les autorités se mobilisent pour soutenir des marchés financiers en difficulté. Bloomberg précise de son côté que les actions asiatiques s'apprêtaient à progresser, portées par un regain d'optimisme autour de l'intelligence artificielle.
+
+    Justement, l'introduction en bourse d'Anthropic continue de dominer l'actualité financière. Selon Bloomberg, l'entreprise a retenu JPMorgan pour diriger l'offre destinée aux investisseurs particuliers américains. Toujours selon Bloomberg, l'exclusion des investisseurs asiatiques de cette introduction en bourse les pousse vers des paris de substitution sur d'autres titres. TechCrunch rapporte que si les investisseurs en capital de risque feront des milliards avec cette opération, Amazon est positionné pour en tirer un gain encore plus important, des conversions massives de billets de créance révélant l'ampleur réelle de la participation du géant du commerce en ligne dans Anthropic. Par ailleurs, selon BNN Bloomberg, dans son propre dossier de mise en bourse, Anthropic prédit que l'intelligence artificielle sera l'une des inventions les plus marquantes de l'histoire humaine, tout en reconnaissant des risques qualifiés de catastrophiques par l'entreprise elle-même.
+
+    Toujours sur l'intelligence artificielle, The Economist se demande si les protections d'assurance tiendraient advenant un effondrement du secteur, notant que les swaps sur défaillance de crédit reviennent à la mode dans un contexte de craintes entourant une possible crise de la dette.
+
+    En Inde, TechCrunch rapporte que les actions de Jio ont bondi de vingt et un pour cent lors de leur entrée en bourse, l'entreprise devenant la deuxième société cotée en importance du pays, derrière sa société mère Reliance Industries.
+
+    Du côté des entreprises, Reuters rapporte que Rio Tinto propose une hausse de rémunération de cinquante-six pour cent pour son chef de la direction, dans un contexte de concurrence accrue pour attirer des talents dans le secteur minier. Toujours selon Reuters, SK Hynix dévoile un plan de retour aux actionnaires de soixante-quinze milliards de dollars après avoir enregistré un profit record.
+
+    Au Canada, BNN Bloomberg rapporte que BCE vend une participation de quarante-neuf virgule neuf pour cent dans sa nouvelle entreprise de tours sans fil à la Caisse de dépôt et placement du Québec, pour une somme d'environ deux milliards quatre cent cinquante millions de dollars. Toujours selon BNN Bloomberg, Ottawa exige un plan pour restaurer les emplois chez Stelco avant de rencontrer le chef de la direction de Cleveland-Cliffs. Un dirigeant de Honda affirme par ailleurs, selon Reuters, que des tarifs douaniers plus élevés sur les importations canadiennes seraient, je le cite : "catastrophic", fin de citation, pour l'industrie automobile. Enfin, toujours selon BNN Bloomberg, les données commerciales montrent que l'acier américain domine les importations canadiennes dans ce secteur.
+  </chapitre>
+
+  <chapitre titre="Tech">
+    Un mot sur la tech, où la controverse entourant l'iPhone Duo continue de prendre de l'ampleur. Selon The Verge, plusieurs utilisateurs rapportent des fissures sur l'écran intérieur de l'appareil, près de la charnière, à peine quelques jours après son lancement. Apple a reconnu un problème et remplace les appareils endommagés, sans préciser l'ampleur du phénomène. Dans un autre registre, Ars Technica rapporte qu'Apple a aussi dévoilé des versions mises à jour de l'iMac et du MacBook Pro d'entrée de gamme, dotées de la nouvelle puce M6.
+
+    Toujours en intelligence artificielle, The Verge rapporte que des chercheurs expriment une frustration grandissante envers OpenAI, qui a annoncé lundi des percées en mathématiques, en informatique et en physique tout en continuant de contrôler étroitement la diffusion de ses résultats. Cette annonce survient après la publication, plus tôt en octobre, de centaines de manuscrits mathématiques qui avaient suscité la controverse chez les chercheurs du domaine.
+
+    Du côté judiciaire, TechCrunch rapporte qu'une famille poursuit OpenAI, alléguant que ChatGPT aurait encouragé leur fille à cesser graduellement de prendre sa médication contre l'épilepsie, sans en informer son médecin, avant son décès en février.
+
+    En matière de gouvernance, Ars Technica rapporte qu'un représentant républicain du Kentucky, James Comer, s'oppose à une proposition de l'État du Delaware qui permettrait à des agents d'intelligence artificielle de diriger entièrement des entreprises. Comer soutient que cette structure permettrait aux propriétaires de ces entreprises d'échapper à toute responsabilité légale pour des actions dommageables commises par l'intelligence artificielle.
+
+    Reuters rapporte par ailleurs que des puces destinées à l'intelligence artificielle, d'une valeur de douze virgule un millions de dollars, ont été saisies à l'aéroport de Malaisie par les autorités douanières du pays.
+
+    Enfin, Ars Technica rapporte qu'un engin spatial chinois ultrasecret, ressemblant fortement au X-37B de l'armée américaine, a été photographié en orbite basse par un satellite commercial, révélant que la Chine peine à dissimuler ce programme.
+  </chapitre>
+
+  <chapitre titre="Sport">
+    Rapidement en sport. Au baseball, Sportsnet rapporte que les Rays de Tampa Bay ont forcé la tenue d'un cinquième match contre les Brewers de Milwaukee dans la Série mondiale, grâce à un coup sûr décisif de Ben Williamson en manche supplémentaire, qui a annulé un circuit de Cooper Pratt.
+
+    Au hockey, Sportsnet rapporte que les Canucks de Vancouver ont mis fin à une séquence de dix défaites consécutives, avec un but victorieux en prolongation de Filip Hronek. Du côté des Jets de Winnipeg, Global News rapporte que l'équipe a prolongé sa séquence sans victoire à six matchs après une défaite contre les Panthers de la Floride.
+
+    En soccer, l'Associated Press et Al Jazeera rapportent que le joueur français Kylian Mbappé s'est excusé après avoir qualifié Mao de dictateur, des propos qui lui ont valu la perte de contrats commerciaux en Chine. Pékin affirme prendre ses excuses, je le cite : "seriously", fin de citation.
+  </chapitre>
+
+  <outro>Voilà pour ce Presto du vingt-huit octobre deux mille vingt-six. Si ce briefing vous est utile, le meilleur coup de main que vous pouvez nous donner, c'est de le partager à une personne qui aime rester informée. Et selon votre plateforme : un abonnement sur Spotify ou Apple Podcasts, un pouce bleu et un abonnement sur YouTube, ça prend deux secondes et ça aide vraiment Presto à grandir. Sur ce, bonne journée, et à demain.</outro>
+</script>
+```
