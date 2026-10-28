@@ -1,46 +1,54 @@
 {
-  "generated_at": "2026-10-28T18:40:18.844384+00:00",
+  "generated_at": "2026-10-28T22:57:22.941172+00:00",
   "window_hours": 8,
   "faits": [
     {
-      "sujet": "Catastrophe ferroviaire en Espagne",
-      "fait": "Une collision entre deux trains à grande vitesse à environ 150 km au sud de Madrid a tué au moins 68 personnes et blessé plus d'une centaine d'autres, selon Radio-Canada. Cinq Canadiens sont touchés par l'accident, selon la ministre canadienne des Affaires étrangères Anita Anand."
+      "sujet": "MacBook Pro à écran tactile",
+      "fait": "Apple a lancé un nouveau MacBook Pro avec écran tactile affichant un prix maximal de 14 549 $ avec tous les accessoires. Selon TechCrunch, ce prix marque un nouveau sommet pour le marché des portables."
     },
     {
-      "sujet": "Apple MacBook Pro tactile",
-      "fait": "Apple a lancé de nouveaux MacBook Pro 14 et 16 pouces avec écran PROLED XDR tactile à partir de 2 899 dollars, selon TechCrunch. Les appareils incluent le processeur M6 d'Apple et un logo Apple rétroéclairé."
+      "sujet": "Sommet Canada-Union européenne",
+      "fait": "Le gouvernement du Québec enverra Pascal Paradis, ancien député et nouveau diplomate en chef du Québec, au sommet Canada-UE au lieu du premier ministre ou du ministre des Relations internationales. Selon Radio-Canada et La Presse, cette absence crée de l'incertitude sur l'avenir de l'entente qui y sera négociée."
     },
     {
-      "sujet": "Google Xreal Aura AR",
-      "fait": "Les lunettes Google Xreal Aura, pesant 95 grammes avec écrans virtuels multiples, sont vendues à 1 099 dollars jusqu'à la fin de l'année, en baisse par rapport au prix de précommande de 1 279 dollars, selon The Verge."
+      "sujet": "Accident ferroviaire en Espagne",
+      "fait": "Un accident entre deux trains à grande vitesse en Espagne a tué au moins 68 personnes. Selon La Presse, six Canadiens ont été blessés et un autre est porté disparu."
     },
     {
-      "sujet": "Amazon Echo Studio caméra",
-      "fait": "Amazon a lancé l'Echo Studio with Home Camera, intégrant une caméra au haut-parleur intelligent tout en conservant les mêmes spécifications audio que le modèle standard, selon Ars Technica."
+      "sujet": "Chiffre d'affaires Azure de Microsoft",
+      "fait": "Microsoft a révélé que Azure a généré 33,2 milliards de dollars de revenus. Selon TechCrunch, c'est la première fois que Microsoft divulgue le chiffre d'affaires trimestriel d'Azure en dollars."
     },
     {
-      "sujet": "Équité salariale Québec",
-      "fait": "La Cour supérieure du Québec a confirmé qu'on ne peut corriger la discrimination salariale à rabais, selon Les Affaires."
+      "sujet": "Fuite de données du DHS américain",
+      "fait": "Un pirate connu sous le nom de 'Department of Peace' a volé les données personnelles de plus de 41 000 employés du ministère de la Sécurité intérieure américain, incluant des agents d'ICE et de CBP. Selon The Verge, l'accès a été obtenu via Okta."
     },
     {
-      "sujet": "Vapotage cannabis Québec",
-      "fait": "Le vapotage du cannabis est en augmentation au Québec, notamment chez les jeunes, tandis que la consommation générale de cannabis diminue, selon l'Enquête québécoise sur le cannabis de l'Institut de la statistique du Québec rapportée par La Presse."
+      "sujet": "Revenus Microsoft OpenAI",
+      "fait": "Microsoft a enregistré 10 milliards de dollars de revenus provenant d'arrangements commerciaux avec OpenAI, incluant des paiements de partage de revenus, pour le trimestre se terminant le 30 septembre. Selon TechCrunch, cela souligne la dépendance financière importante du partenariat."
     },
     {
-      "sujet": "Google AI réponses élections",
-      "fait": "Google AI Mode refuse de répondre directement à la question sur le gagnant de l'élection présidentielle américaine de 2020, redirigeant vers la Federal Election Commission, selon Ars Technica."
+      "sujet": "Résultats électoraux Israël",
+      "fait": "Avec 85 % des bulletins dépouillés, le bloc de Netanyahu et ses alliés devraient remporter 53 sièges sur les 120 du Knesset. Selon BBC World, le Likud et ses partenaires sont en tête mais ne disposent pas d'une majorité claire."
     },
     {
-      "sujet": "Mégadéduction fédérale Québec",
-      "fait": "La mégadéduction à la productivité annoncée par le gouvernement fédéral coûtera environ un milliard de dollars par année au gouvernement du Québec, selon le ministre des Finances Nicolas Marceau rapporté par La Presse."
+      "sujet": "Revenus Google Cloud trimestriels",
+      "fait": "Les revenus de Google Cloud ont augmenté de 103 % en glissement annuel pour atteindre 30,7 milliards de dollars. Selon The Verge, Alphabet a également enregistré des revenus consolidés de 127,6 milliards, en hausse de 25 % en glissement annuel."
     },
     {
-      "sujet": "macOS changements tactiles",
-      "fait": "macOS intègrera Dynamic Island d'iOS sur le nouveau MacBook Pro et permettra les contrôles tactiles, notamment pour accepter AirDrops et mettre en pause la musique, selon The Verge."
+      "sujet": "Amendes pour conseils frauduleux en immigration",
+      "fait": "Le ministère canadien de l'Immigration a annoncé de nouvelles amendes allant de 5 000 à 1,5 million de dollars pour les personnes donnant de faux conseils en immigration ou des conseils sans autorisation appropriée. Selon La Presse, cette mesure a été instaurée pour combattre les fraudes."
     },
     {
-      "sujet": "Cadillac Escalade EQ autonomie",
-      "fait": "Le Cadillac Escalade IQ électrique possède plus de 200 kWh de batterie au lithium-ion, offrant une autonomie de 440 miles (708 km) selon l'indication et 460 miles (740 km) selon le cycle d'essai EPA, selon Ars Technica."
+      "sujet": "Déclaration Canada-UE sur le statut",
+      "fait": "Un projet de déclaration conjointe Canada-UE révèle que l'UE a abandonné l'idée de nommer le Canada comme 'membre associé'. Selon National Post, de nouveaux liens 'plus étroits' seront définis en 2027."
+    },
+    {
+      "sujet": "Décès de Dolores Huerta",
+      "fait": "Dolores Huerta, co-fondatrice du syndicat United Farm Workers et auteure du slogan 'Sí, se puede!', est décédée à l'âge de 96 ans. Selon CBC World, elle a contribué à améliorer les conditions de travail dans les champs agricoles américains."
+    },
+    {
+      "sujet": "Crypto-monnaie raton-laveur de Montréal",
+      "fait": "La pièce 'Pepper', lancée le 10 octobre par un trader nommé 'Hiruzen' en référence au raton-laveur de Louka Berman, a généré plus de 110 000 dollars en frais de crypto-monnaie. Selon Global News, cet événement est associé au 'raccoon guy' montréalais."
     }
   ]
 }
