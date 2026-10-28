@@ -1,0 +1,14 @@
+{
+  "date": "2026-10-28",
+  "kind": "poll",
+  "text": "Ce matin → collision de deux trains à grande vitesse au sud de Madrid. Nouveau bilan : au moins 68 décès et plus de 100 blessés. Cinq Canadiens sont touchés par l'accident.\n\nÀ ton avis, quelles mesures devraient être prioritaires suite à ce type d'accident?",
+  "poll": {
+    "options": [
+      "Enquête technique",
+      "Révision des normes de",
+      "Amélioration des",
+      "Toutes ces mesures"
+    ],
+    "duration_minutes": 1440
+  }
+}
