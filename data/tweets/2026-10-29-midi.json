@@ -1,0 +1,14 @@
+{
+  "date": "2026-10-29",
+  "kind": "poll",
+  "text": "Ce matin → Le régime dentaire canadien a amélioré l'accès aux soins depuis 2024.\n\nNouveau : la vérificatrice générale signale un dépassement de 2,4 milliards $ prévu d'ici 2032.\n\nFace aux dépassements budgétaires du régime dentaire, le gouvernement devrait-il…",
+  "poll": {
+    "options": [
+      "Augmenter le financement",
+      "Réduire la couverture ou",
+      "Maintenir le cadre",
+      "Revoir le modèle de"
+    ],
+    "duration_minutes": 1440
+  }
+}
