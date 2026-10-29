@@ -1,54 +1,54 @@
 {
-  "generated_at": "2026-10-29T18:48:37.727407+00:00",
+  "generated_at": "2026-10-29T23:06:26.545171+00:00",
   "window_hours": 8,
   "faits": [
     {
-      "sujet": "Google Gemini édition fichiers",
-      "fait": "Google Gemini permet désormais de générer, prévisualiser et modifier directement les fichiers PDF, Google Docs, Google Sheets, diaporamas, Markdown et code sans quitter l'application. Selon The Verge, cette fonctionnalité est disponible à partir du 29 octobre 2026 pour tous les utilisateurs, en web pour tous les formats et en mobile pour les PDF uniquement."
+      "sujet": "Gouvernement du Québec - Cabinet ministériel",
+      "fait": "Jacinthe-Eve Arel, ancienne candidate conservatrice et analyste politique, devient directrice de cabinet du ministre délégué à l'Efficacité gouvernementale dans le gouvernement péquiste. Selon La Presse, elle a annoncé cette nomination sur ses réseaux sociaux le 29 octobre."
     },
     {
-      "sujet": "Canada statut membre associé UE",
-      "fait": "Ursula von der Leyen, présidente de la Commission européenne, a réitéré son appel pour que le Canada devienne un « membre associé » de l'Union européenne. D'après Radio-Canada et National Post, cette formulation avait été supprimée de la déclaration commune Canada-UE."
+      "sujet": "Alberta - Réforme des bulletins scolaires",
+      "fait": "Le gouvernement de l'Alberta introduit un projet de loi pour standardiser les bulletins scolaires et exiger des autorités scolaires de rendre publics les détails sur l'utilisation du temps des enseignants en dehors des heures de classe. Selon Global News, ce projet de loi n'a pas encore été adopté."
     },
     {
-      "sujet": "Investissement Canada dans Cohere",
-      "fait": "Le gouvernement canadien dirigé par le premier ministre Mark Carney investira jusqu'à 1,6 milliard de dollars dans l'entreprise d'IA Cohere basée à Toronto. Selon Global News et CBC, Cohere ouvre également une ronde de financement de 4,5 milliards de dollars."
+      "sujet": "Canada - Stocks de munitions militaires",
+      "fait": "Un audit du vérificateur général révèle que le stock stratégique de munitions du Canada ne peut pas soutenir la préparation à la guerre ou les engagements envers l'OTAN. Selon CBC, malgré une promesse de financement de 9,2 milliards de dollars, corriger ces lacunes critiques prendra plusieurs années."
     },
     {
-      "sujet": "Espionnage chinois CEO Nvidia",
-      "fait": "Selon Ars Technica et TechCrunch, le gouvernement Trump aurait reçu des informations classifiées indiquant qu'une espionne chinoise, Alice Huang, ancien cadre d'une société cloud singapourienne, aurait eu accès direct au CEO de Nvidia Jensen Huang, sans que Trump ne prenne de mesures en réponse."
+      "sujet": "Binance - Cyberattaque crypto",
+      "fait": "Binance, le plus grand échange de cryptomonnaies au monde, suspend les retraits après une cyberattaque. Selon TechCrunch, certaines estimations suggèrent que les pirates ont volé des milliards de dollars en crypto."
     },
     {
-      "sujet": "Enquête environnementale Google Finlande",
-      "fait": "La Finlande a lancé une enquête criminelle contre Google pour dommages environnementaux présumés liés à son projet de centre de données de 15 milliards de dollars en Finlande du Nord. D'après Al Jazeera."
+      "sujet": "Reddit - Accès requis pour se connecter",
+      "fait": "Reddit annonce son passage à une expérience réservée aux utilisateurs connectés. Selon le PDG Steve Huffman dans une lettre aux actionnaires le 29 octobre, cette mesure permettra une meilleure ciblage des publicités et une meilleure rétention des utilisateurs."
     },
     {
-      "sujet": "Alphabet performances financières Q3",
-      "fait": "Alphabet a rapporté un chiffre d'affaires de 128 milliards de dollars au Q3 2026 (+25% en glissement annuel) mais un bénéfice net 9 milliards inférieur. Selon Ars Technica, Google Cloud a dépassé les attentes avec 30 milliards de dollars de revenus, mais l'action a chuté de 12-13% après l'annonce que la recherche IA rapporte moins que la recherche organique."
+      "sujet": "Google - Baisse du trafic de recherche",
+      "fait": "Le PDG de Reddit déclare que le mode IA de Google ne génère pas de trafic vers sa plateforme. Selon The Verge, Reddit a rapporté en octobre une baisse de plus d'un million de références de recherche en moyenne par semaine."
     },
     {
-      "sujet": "Accusations illégales jeux prédiction Utah",
-      "fait": "L'Utah a porté plainte contre la plateforme de marchés de prédiction Kalshi et ses dirigeants Tarek Mansour et Luana Lopes Lara, déposant 14 accusations dont 12 pour promotion illégale de jeux en ligne. D'après The Verge et Ars Technica, l'administration Trump tente d'arrêter Utah pour faire respecter son interdiction."
+      "sujet": "Amazon - Résultats financiers trimestriels",
+      "fait": "Amazon rapporte une croissance des revenus du cloud mais manque autrement les attentes des marchés. Selon TechCrunch, le plus important problème du rapport est un flux de trésorerie disponible négatif de 2,4 milliards de dollars."
     },
     {
-      "sujet": "MacBook Pro technologie couleur CMF",
-      "fait": "Le nouveau MacBook Pro est le premier ordinateur portable et seulement le deuxième produit à supporter les modes de couleur Apple CMF 2026 avec écran OLED et fonctionnalité tactile. Selon The Verge, cette technologie améliore l'exactitude des images pour les professionnels de la couleur."
+      "sujet": "General Motors - Vente de données de conducteurs",
+      "fait": "General Motors parvient à un règlement de 220 millions de dollars pour la vente de données privées de conducteurs. Selon TechCrunch, GM doit désormais obtenir le consentement explicite des conducteurs avant de collecter ou partager leurs données de conduite et localisation."
     },
     {
-      "sujet": "Mistral trillion-paramètres modèle IA",
-      "fait": "Mistral a publié les poids de son nouveau modèle d'IA de mille milliards de paramètres ciblant la cybersécurité. D'après TechCrunch, ce modèle offre aux organisations un contrôle sur leurs défenses informatiques que les modèles fermés ne peuvent pas fournir."
+      "sujet": "Colombie-Britannique - Leadership du NPD",
+      "fait": "Le caucus du NPD de la Colombie-Britannique désigne Jennifer Whiteside comme nouvelle leader par intérim. Selon CBC, cette annonce a été faite le 29 octobre."
     },
     {
-      "sujet": "Déficit Ontario inflation tarifs Trump",
-      "fait": "Le déficit de l'Ontario devrait atteindre 16,9 milliards de dollars selon la déclaration économique d'automne du gouvernement. Selon National Post, cette augmentation est précipitée par les tarifs douaniers de Donald Trump qui ralentissent la croissance."
+      "sujet": "Winnipeg - Élections municipales",
+      "fait": "Neuf nouveaux représentants ont été élus au conseil municipal de Winnipeg lors des élections du 29 octobre. Selon Global News, ces nouvelles figures sont attendues à l'hôtel de ville de Winnipeg."
     },
     {
-      "sujet": "Israël élection résultats Netanyahu",
-      "fait": "Les résultats électoraux finaux en Israël sont attendus pour confirmer que le bloc de Benjamin Netanyahu a perdu sa majorité au parlement. D'après CBC, le parti de Netanyahu amplifie des allégations non fondées selon lesquelles les partis dirigés par des Arabes auraient « volé » l'élection avec potentiellement une aide étrangère."
+      "sujet": "Montréal - Incendie du Vieux-Montréal 2023",
+      "fait": "L'immeuble où sept personnes ont péri dans un incendie en mars 2023 est décrit dans les documents d'enquête policière comme un véritable piège mortel. Selon La Presse, le propriétaire affirme que l'état du bâtiment était connu des autorités depuis longtemps et qu'elles tolérait la situation."
     },
     {
-      "sujet": "Al Jazeera 30 ans restructuration",
-      "fait": "À l'occasion de son 30e anniversaire, Al Jazeera dévoile une nouvelle structure comportant trois chaînes, 33 programmes et innovation technologique. D'après Al Jazeera."
+      "sujet": "Windows 11 - Menu contextuel personnalisable",
+      "fait": "Microsoft déploie une mise à jour de prévisualisation pour Windows 11 permettant aux utilisateurs de personnaliser le menu contextuel du clic droit. Selon Ars Technica, cette mise à jour répond à une longue plainte des utilisateurs concernant les commandes masquées et les emplacements de menu modifiés."
     }
   ]
 }
