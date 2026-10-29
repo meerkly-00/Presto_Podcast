@@ -1,54 +1,54 @@
 {
-  "generated_at": "2026-10-28T22:57:22.941172+00:00",
+  "generated_at": "2026-10-29T18:48:37.727407+00:00",
   "window_hours": 8,
   "faits": [
     {
-      "sujet": "MacBook Pro à écran tactile",
-      "fait": "Apple a lancé un nouveau MacBook Pro avec écran tactile affichant un prix maximal de 14 549 $ avec tous les accessoires. Selon TechCrunch, ce prix marque un nouveau sommet pour le marché des portables."
+      "sujet": "Google Gemini édition fichiers",
+      "fait": "Google Gemini permet désormais de générer, prévisualiser et modifier directement les fichiers PDF, Google Docs, Google Sheets, diaporamas, Markdown et code sans quitter l'application. Selon The Verge, cette fonctionnalité est disponible à partir du 29 octobre 2026 pour tous les utilisateurs, en web pour tous les formats et en mobile pour les PDF uniquement."
     },
     {
-      "sujet": "Sommet Canada-Union européenne",
-      "fait": "Le gouvernement du Québec enverra Pascal Paradis, ancien député et nouveau diplomate en chef du Québec, au sommet Canada-UE au lieu du premier ministre ou du ministre des Relations internationales. Selon Radio-Canada et La Presse, cette absence crée de l'incertitude sur l'avenir de l'entente qui y sera négociée."
+      "sujet": "Canada statut membre associé UE",
+      "fait": "Ursula von der Leyen, présidente de la Commission européenne, a réitéré son appel pour que le Canada devienne un « membre associé » de l'Union européenne. D'après Radio-Canada et National Post, cette formulation avait été supprimée de la déclaration commune Canada-UE."
     },
     {
-      "sujet": "Accident ferroviaire en Espagne",
-      "fait": "Un accident entre deux trains à grande vitesse en Espagne a tué au moins 68 personnes. Selon La Presse, six Canadiens ont été blessés et un autre est porté disparu."
+      "sujet": "Investissement Canada dans Cohere",
+      "fait": "Le gouvernement canadien dirigé par le premier ministre Mark Carney investira jusqu'à 1,6 milliard de dollars dans l'entreprise d'IA Cohere basée à Toronto. Selon Global News et CBC, Cohere ouvre également une ronde de financement de 4,5 milliards de dollars."
     },
     {
-      "sujet": "Chiffre d'affaires Azure de Microsoft",
-      "fait": "Microsoft a révélé que Azure a généré 33,2 milliards de dollars de revenus. Selon TechCrunch, c'est la première fois que Microsoft divulgue le chiffre d'affaires trimestriel d'Azure en dollars."
+      "sujet": "Espionnage chinois CEO Nvidia",
+      "fait": "Selon Ars Technica et TechCrunch, le gouvernement Trump aurait reçu des informations classifiées indiquant qu'une espionne chinoise, Alice Huang, ancien cadre d'une société cloud singapourienne, aurait eu accès direct au CEO de Nvidia Jensen Huang, sans que Trump ne prenne de mesures en réponse."
     },
     {
-      "sujet": "Fuite de données du DHS américain",
-      "fait": "Un pirate connu sous le nom de 'Department of Peace' a volé les données personnelles de plus de 41 000 employés du ministère de la Sécurité intérieure américain, incluant des agents d'ICE et de CBP. Selon The Verge, l'accès a été obtenu via Okta."
+      "sujet": "Enquête environnementale Google Finlande",
+      "fait": "La Finlande a lancé une enquête criminelle contre Google pour dommages environnementaux présumés liés à son projet de centre de données de 15 milliards de dollars en Finlande du Nord. D'après Al Jazeera."
     },
     {
-      "sujet": "Revenus Microsoft OpenAI",
-      "fait": "Microsoft a enregistré 10 milliards de dollars de revenus provenant d'arrangements commerciaux avec OpenAI, incluant des paiements de partage de revenus, pour le trimestre se terminant le 30 septembre. Selon TechCrunch, cela souligne la dépendance financière importante du partenariat."
+      "sujet": "Alphabet performances financières Q3",
+      "fait": "Alphabet a rapporté un chiffre d'affaires de 128 milliards de dollars au Q3 2026 (+25% en glissement annuel) mais un bénéfice net 9 milliards inférieur. Selon Ars Technica, Google Cloud a dépassé les attentes avec 30 milliards de dollars de revenus, mais l'action a chuté de 12-13% après l'annonce que la recherche IA rapporte moins que la recherche organique."
     },
     {
-      "sujet": "Résultats électoraux Israël",
-      "fait": "Avec 85 % des bulletins dépouillés, le bloc de Netanyahu et ses alliés devraient remporter 53 sièges sur les 120 du Knesset. Selon BBC World, le Likud et ses partenaires sont en tête mais ne disposent pas d'une majorité claire."
+      "sujet": "Accusations illégales jeux prédiction Utah",
+      "fait": "L'Utah a porté plainte contre la plateforme de marchés de prédiction Kalshi et ses dirigeants Tarek Mansour et Luana Lopes Lara, déposant 14 accusations dont 12 pour promotion illégale de jeux en ligne. D'après The Verge et Ars Technica, l'administration Trump tente d'arrêter Utah pour faire respecter son interdiction."
     },
     {
-      "sujet": "Revenus Google Cloud trimestriels",
-      "fait": "Les revenus de Google Cloud ont augmenté de 103 % en glissement annuel pour atteindre 30,7 milliards de dollars. Selon The Verge, Alphabet a également enregistré des revenus consolidés de 127,6 milliards, en hausse de 25 % en glissement annuel."
+      "sujet": "MacBook Pro technologie couleur CMF",
+      "fait": "Le nouveau MacBook Pro est le premier ordinateur portable et seulement le deuxième produit à supporter les modes de couleur Apple CMF 2026 avec écran OLED et fonctionnalité tactile. Selon The Verge, cette technologie améliore l'exactitude des images pour les professionnels de la couleur."
     },
     {
-      "sujet": "Amendes pour conseils frauduleux en immigration",
-      "fait": "Le ministère canadien de l'Immigration a annoncé de nouvelles amendes allant de 5 000 à 1,5 million de dollars pour les personnes donnant de faux conseils en immigration ou des conseils sans autorisation appropriée. Selon La Presse, cette mesure a été instaurée pour combattre les fraudes."
+      "sujet": "Mistral trillion-paramètres modèle IA",
+      "fait": "Mistral a publié les poids de son nouveau modèle d'IA de mille milliards de paramètres ciblant la cybersécurité. D'après TechCrunch, ce modèle offre aux organisations un contrôle sur leurs défenses informatiques que les modèles fermés ne peuvent pas fournir."
     },
     {
-      "sujet": "Déclaration Canada-UE sur le statut",
-      "fait": "Un projet de déclaration conjointe Canada-UE révèle que l'UE a abandonné l'idée de nommer le Canada comme 'membre associé'. Selon National Post, de nouveaux liens 'plus étroits' seront définis en 2027."
+      "sujet": "Déficit Ontario inflation tarifs Trump",
+      "fait": "Le déficit de l'Ontario devrait atteindre 16,9 milliards de dollars selon la déclaration économique d'automne du gouvernement. Selon National Post, cette augmentation est précipitée par les tarifs douaniers de Donald Trump qui ralentissent la croissance."
     },
     {
-      "sujet": "Décès de Dolores Huerta",
-      "fait": "Dolores Huerta, co-fondatrice du syndicat United Farm Workers et auteure du slogan 'Sí, se puede!', est décédée à l'âge de 96 ans. Selon CBC World, elle a contribué à améliorer les conditions de travail dans les champs agricoles américains."
+      "sujet": "Israël élection résultats Netanyahu",
+      "fait": "Les résultats électoraux finaux en Israël sont attendus pour confirmer que le bloc de Benjamin Netanyahu a perdu sa majorité au parlement. D'après CBC, le parti de Netanyahu amplifie des allégations non fondées selon lesquelles les partis dirigés par des Arabes auraient « volé » l'élection avec potentiellement une aide étrangère."
     },
     {
-      "sujet": "Crypto-monnaie raton-laveur de Montréal",
-      "fait": "La pièce 'Pepper', lancée le 10 octobre par un trader nommé 'Hiruzen' en référence au raton-laveur de Louka Berman, a généré plus de 110 000 dollars en frais de crypto-monnaie. Selon Global News, cet événement est associé au 'raccoon guy' montréalais."
+      "sujet": "Al Jazeera 30 ans restructuration",
+      "fait": "À l'occasion de son 30e anniversaire, Al Jazeera dévoile une nouvelle structure comportant trois chaînes, 33 programmes et innovation technologique. D'après Al Jazeera."
     }
   ]
 }
