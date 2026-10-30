@@ -1,54 +1,54 @@
 {
-  "generated_at": "2026-10-29T23:06:26.545171+00:00",
+  "generated_at": "2026-10-30T18:25:48.124218+00:00",
   "window_hours": 8,
   "faits": [
     {
-      "sujet": "Gouvernement du Québec - Cabinet ministériel",
-      "fait": "Jacinthe-Eve Arel, ancienne candidate conservatrice et analyste politique, devient directrice de cabinet du ministre délégué à l'Efficacité gouvernementale dans le gouvernement péquiste. Selon La Presse, elle a annoncé cette nomination sur ses réseaux sociaux le 29 octobre."
+      "sujet": "Piratage de Binance",
+      "fait": "Binance a subi un piratage de 6,3 milliards de dollars américains, décrit comme le plus important vol d'actifs numériques jamais enregistré. Selon Radio-Canada, environ la moitié des fonds ont été gelés par des partenaires et des experts soupçonnent des acteurs nord-coréens d'être à l'origine de l'attaque."
     },
     {
-      "sujet": "Alberta - Réforme des bulletins scolaires",
-      "fait": "Le gouvernement de l'Alberta introduit un projet de loi pour standardiser les bulletins scolaires et exiger des autorités scolaires de rendre publics les détails sur l'utilisation du temps des enseignants en dehors des heures de classe. Selon Global News, ce projet de loi n'a pas encore été adopté."
+      "sujet": "Alliance Canada-Union européenne",
+      "fait": "Le Canada et l'Union européenne ont annoncé le lancement d'une « Alliance pour l'avenir » et ont engagé des négociations pour créer un nouveau statut de « membre associé » du Canada à l'UE. Selon Radio-Canada et La Presse, cet accord vise à renforcer la souveraineté et les liens entre les deux régions."
     },
     {
-      "sujet": "Canada - Stocks de munitions militaires",
-      "fait": "Un audit du vérificateur général révèle que le stock stratégique de munitions du Canada ne peut pas soutenir la préparation à la guerre ou les engagements envers l'OTAN. Selon CBC, malgré une promesse de financement de 9,2 milliards de dollars, corriger ces lacunes critiques prendra plusieurs années."
+      "sujet": "Satellite IA de Google en orbite",
+      "fait": "Google a confirmé le démarrage réussi des unités de traitement tensoriel (TPU) de son satellite équipé d'IA en orbite, permettant au modèle Gemma 4 embarqué de générer des réponses depuis l'espace. Selon The Verge et TechCrunch, cela s'inscrit dans le cadre du Project Suncatcher visant à mettre en place des centres de données IA dans l'espace."
     },
     {
-      "sujet": "Binance - Cyberattaque crypto",
-      "fait": "Binance, le plus grand échange de cryptomonnaies au monde, suspend les retraits après une cyberattaque. Selon TechCrunch, certaines estimations suggèrent que les pirates ont volé des milliards de dollars en crypto."
+      "sujet": "Ventes de cryptomonnaies compromises",
+      "fait": "Binance a suspendu les retraits pour ses clients suite au piratage et a mis de côté plus de 6,34 milliards de dollars en fonds propres pour couvrir les actifs volés, dont 5 milliards déjà détenus. Selon Radio-Canada, le codirigeant Richard Teng a promis de couvrir toutes les pertes."
     },
     {
-      "sujet": "Reddit - Accès requis pour se connecter",
-      "fait": "Reddit annonce son passage à une expérience réservée aux utilisateurs connectés. Selon le PDG Steve Huffman dans une lettre aux actionnaires le 29 octobre, cette mesure permettra une meilleure ciblage des publicités et une meilleure rétention des utilisateurs."
+      "sujet": "Déclin des actions technologiques",
+      "fait": "Intel a dégringolé de 26 % à l'ouverture de Wall Street et Amazon a chuté de près de 6 %. Selon BNN Bloomberg et Reuters, le Nasdaq fait face à un effondrement de 2 000 milliards de dollars en octobre, les craintes concernant les dépenses en IA s'approfondissant."
     },
     {
-      "sujet": "Google - Baisse du trafic de recherche",
-      "fait": "Le PDG de Reddit déclare que le mode IA de Google ne génère pas de trafic vers sa plateforme. Selon The Verge, Reddit a rapporté en octobre une baisse de plus d'un million de références de recherche en moyenne par semaine."
+      "sujet": "Production de bande magnétique Fujifilm",
+      "fait": "Fujifilm investira environ 63 millions de dollars pour augmenter sa capacité de production de bande magnétique d'un facteur cinq. Selon Ars Technica, cette augmentation répond à la demande exponentielle d'archivage générée par l'expansion de l'IA générative."
     },
     {
-      "sujet": "Amazon - Résultats financiers trimestriels",
-      "fait": "Amazon rapporte une croissance des revenus du cloud mais manque autrement les attentes des marchés. Selon TechCrunch, le plus important problème du rapport est un flux de trésorerie disponible négatif de 2,4 milliards de dollars."
+      "sujet": "Personnalisation IA chez Starbucks",
+      "fait": "Starbucks explore l'utilisation d'IA pour afficher des menus numériques personnalisés aux clients au passage automobile. Selon The Verge, le PDG Brian Niccol a annoncé lors d'une conférence de résultats le développement d'expériences qui reconnaîtraient les clients et faciliteraient les paiements."
     },
     {
-      "sujet": "General Motors - Vente de données de conducteurs",
-      "fait": "General Motors parvient à un règlement de 220 millions de dollars pour la vente de données privées de conducteurs. Selon TechCrunch, GM doit désormais obtenir le consentement explicite des conducteurs avant de collecter ou partager leurs données de conduite et localisation."
+      "sujet": "Règlement juridique de Meta",
+      "fait": "Meta a conclu un accord à l'amiable pour éviter un procès à Los Angeles concernant l'addiction aux réseaux sociaux. Selon Le Devoir, ce règlement laisse Snapchat seul face au jury dans ce type de litige."
     },
     {
-      "sujet": "Colombie-Britannique - Leadership du NPD",
-      "fait": "Le caucus du NPD de la Colombie-Britannique désigne Jennifer Whiteside comme nouvelle leader par intérim. Selon CBC, cette annonce a été faite le 29 octobre."
+      "sujet": "Fraude aux prêts étudiants avec IA",
+      "fait": "Le ministère américain de la Justice a engagé des poursuites contre cinq individus dans le cadre de la première répression fédérale contre les « étudiants fantômes » utilisant l'IA pour frauder des prêts étudiants. Selon Ars Technica, 750 000 dollars en cryptomonnaies ont été saisis d'un réseau associé à des ressortissants kenyans."
     },
     {
-      "sujet": "Winnipeg - Élections municipales",
-      "fait": "Neuf nouveaux représentants ont été élus au conseil municipal de Winnipeg lors des élections du 29 octobre. Selon Global News, ces nouvelles figures sont attendues à l'hôtel de ville de Winnipeg."
+      "sujet": "Test autonome de Rivian",
+      "fait": "Rivian lancera un système de conduite mains libres point-à-point à l'essai auprès de ses employés en 2026 et aux clients en 2027, avant de lancer son premier service de robotaxi en partenariat avec Uber en 2028. Selon The Verge, les deux prochaines années détermineront le succès de Rivian dans ses ambitions autonomes."
     },
     {
-      "sujet": "Montréal - Incendie du Vieux-Montréal 2023",
-      "fait": "L'immeuble où sept personnes ont péri dans un incendie en mars 2023 est décrit dans les documents d'enquête policière comme un véritable piège mortel. Selon La Presse, le propriétaire affirme que l'état du bâtiment était connu des autorités depuis longtemps et qu'elles tolérait la situation."
+      "sujet": "Expérience spatiale de l'astronaute canadien",
+      "fait": "L'astronaute Joshua Kutryk de l'Agence spatiale canadienne a effectué une sortie extravéhiculaire de sept heures à la Station spatiale internationale. Selon La Presse, Kutryk a déclaré avoir été submergé par l'émotion en contemplant la Terre depuis l'espace."
     },
     {
-      "sujet": "Windows 11 - Menu contextuel personnalisable",
-      "fait": "Microsoft déploie une mise à jour de prévisualisation pour Windows 11 permettant aux utilisateurs de personnaliser le menu contextuel du clic droit. Selon Ars Technica, cette mise à jour répond à une longue plainte des utilisateurs concernant les commandes masquées et les emplacements de menu modifiés."
+      "sujet": "Finales des entraîneurs de la LCF",
+      "fait": "Mark Kilam (Edmonton), Jason Maas (Montréal) et Buck Pierce (Colombie-Britannique) sont les finalistes pour le titre d'entraîneur de l'année de la Ligue canadienne de football. Selon Global News, cette annonce a été faite vendredi."
     }
   ]
 }
