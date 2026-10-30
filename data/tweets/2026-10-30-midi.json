@@ -1,0 +1,14 @@
+{
+  "date": "2026-10-30",
+  "kind": "poll",
+  "text": "Ce matin → PIB américain en hausse de 3,4 % au Q3, mais Alphabet dégringole.\n\nDéveloppement : Le Nasdaq a chuté de 3 % en fin d'après-midi.\n\nCrois-tu que les dépenses massives en IA généreront suffisamment de profits pour justifier les investissements?",
+  "poll": {
+    "options": [
+      "Oui, c'est un moteur de",
+      "Non, c'est une bulle",
+      "Trop tôt pour le dire",
+      "Dépend du secteur"
+    ],
+    "duration_minutes": 1440
+  }
+}
