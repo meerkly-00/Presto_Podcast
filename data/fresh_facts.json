@@ -1,54 +1,54 @@
 {
-  "generated_at": "2026-10-31T17:31:02.070314+00:00",
+  "generated_at": "2026-10-31T22:13:23.744359+00:00",
   "window_hours": 8,
   "faits": [
     {
-      "sujet": "Élections de mi-mandat américaines",
-      "fait": "Les élections de mi-mandat aux États-Unis sont imminentes. Selon Al Jazeera, des médecins démocrates se présentent aux élections pour contester les politiques de santé de l'administration Trump."
+      "sujet": "Piratage de Binance",
+      "fait": "Binance a annoncé que 90% des 6,3 milliards de dollars volés lors d'un piratage ont été reconstitués, l'entreprise couvrant les pertes restantes. Selon BBC World, le FBI attribue le piratage à la Corée du Nord."
     },
     {
       "sujet": "Manifestations en France",
-      "fait": "La France se prépare à un troisième weekend consécutif de manifestations le 31 octobre. Selon CBC World, 70 000 policiers et gendarmes sont mobilisés et la marche de Paris est redirigée vers la périphérie de la capitale."
+      "fait": "Plus de 320 000 personnes se sont mobilisées en France contre le coût de la vie et les services publics défaillants, avec des affrontements entre manifestants et police. Selon BBC World, c'est le troisième samedi consécutif de manifestations réunissant lycéens, syndicats et gilets jaunes."
     },
     {
-      "sujet": "Hack de Binance",
-      "fait": "La plateforme Binance a subi un vol de 6,3 milliards de dollars. Selon BBC World et Reuters, Binance a reconstitué 90% des actifs volés. Deux analystes désignent un groupe soutenu par la Corée du Nord comme responsable probable."
+      "sujet": "Accident ferroviaire en Espagne",
+      "fait": "Les autopsies des 69 personnes tuées dans l'accident ferroviaire en Espagne sont terminées, 56 d'entre elles ayant été identifiées. Selon Radio-Canada, une messe en hommage aux victimes a eu lieu."
     },
     {
-      "sujet": "Manifestations contre les pesticides",
-      "fait": "Plus de cent personnes ont participé à un 'die-in' contre les pesticides devant les bureaux de Santé Canada à Montréal le 31 octobre. Selon La Presse et Global News, certains participants étaient déguisés pour Halloween."
+      "sujet": "Trump poursuivi pour non-citoyens votants",
+      "fait": "Des data scientists ont établi que de nombreuses personnes identifiées comme 'probablement non-citoyennes' par l'administration Trump ont été erronément signalées. Selon Al Jazeera, une action légale conteste les allégations de vote par non-citoyens en Californie."
     },
     {
-      "sujet": "Épidémie d'Ebola en RDC",
-      "fait": "Plus de 5 000 personnes sont décédées de la fièvre Ebola en République démocratique du Congo. Selon BBC World, plus de 10 000 personnes ont contracté le virus dans cette épidémie, la plus meurtrière."
+      "sujet": "Procès Trump contre Wall Street Journal",
+      "fait": "Un juge fédéral a rejeté la plainte de 10 milliards de dollars déposée par Trump contre le Wall Street Journal et Rupert Murdoch concernant un article sur ses liens avec Jeffrey Epstein. Selon CBC, le juge a déclaré que Trump était 'grasping at straws' (se raccrochant à des pailles)."
     },
     {
-      "sujet": "COP17 sur la biodiversité",
-      "fait": "Un accord sur des textes clés pour protéger la nature a été conclu à la COP17 en Arménie dans la nuit du 31 octobre. Selon La Presse, cet accord intervient après deux semaines de négociations difficiles."
+      "sujet": "Cas suspects d'Ebola au Nigeria",
+      "fait": "Les autorités sanitaires du nord-est du Nigeria enquêtent sur deux cas suspects d'Ebola, les deux individus ayant été isolés et soumis au dépistage. Selon Al Jazeera, le traçage des contacts est en cours."
     },
     {
-      "sujet": "Norme d'émissions automobile Canada",
-      "fait": "Le gouvernement Carney repousse l'entrée en vigueur des normes d'émissions jusqu'en 2029. Selon Le Devoir, cette date était initialement prévue en 2027, une annonce faite il y a huit mois."
+      "sujet": "Téléscope spatial NASA défaillant",
+      "fait": "Un vieux télescope spatial de la NASA est en train de perdre son orbite après une tentative de sauvetage échouée. Selon CBC, le télescope est 'barely clinging to space' (s'accrochant difficilement à l'espace) et redescend progressivement."
     },
     {
-      "sujet": "Évacuation de civils ukrainiens",
-      "fait": "Des civils évacués de la ville occupée d'Oleshky ont traversé vers le territoire contrôlé par l'Ukraine. Selon CBC World et BBC World, cette opération humanitaire s'est déroulée sous le cessez-le-feu le plus important depuis l'invasion russe en 2022."
+      "sujet": "Expulsions de migrants afghans",
+      "fait": "Washington envisage d'expulser plus de 150 Afghans vers le Pakistan malgré les risques de persécution. Selon Le Devoir, ces expulsions posent problème concernant les droits des demandeurs d'asile."
     },
     {
-      "sujet": "Pakistan remporte finale de cricket",
-      "fait": "Le Pakistan a battu le Sri Lanka dans la finale de la tri-série de cricket. Selon Al Jazeera, Fakhar Zaman a marqué un siècle déterminant pour une victoire de trois guichets."
+      "sujet": "Réunions irano-qataris sur les tensions",
+      "fait": "Des envoyés iraniens rencontrent des médiateurs qataris alors que plane la menace de frappes américaines après les élections de mi-mandat. Selon Reuters, les discussions interviennent dans un contexte de tensions croissantes."
     },
     {
-      "sujet": "Dakar accueille Jeux olympiques jeunesse",
-      "fait": "Le Sénégal devient le premier pays africain à accueillir un événement olympique. Selon Al Jazeera, Dakar organise les Jeux olympiques de la jeunesse."
+      "sujet": "Réunion du G20 sans consensus",
+      "fait": "Les ministres des Affaires étrangères du G20 ont terminé leur réunion à Atlanta sans consensus sur les enjeux clés. Selon Associated Press, les divergences persistent sur les questions majeures."
     },
     {
-      "sujet": "Financement d'OpenAI",
-      "fait": "OpenAI réduit son objectif de financement pour sa nouvelle levée de fonds. Selon TechCrunch, cette levée de fonds n'atteint pas les attentes initiales."
+      "sujet": "Procédure judiciaire contre plans Trump",
+      "fait": "Le District de Columbia et la Virginie poursuivent en justice pour bloquer les plans d'arc triomphal de Trump. Selon Al Jazeera, les gouvernements locaux craignent des perturbations du trafic et des vues historiques."
     },
     {
-      "sujet": "Télescope NASA Swift",
-      "fait": "Le télescope Swift de la NASA est sur le point de retomber sur Terre après un échec de sa mission de sauvetage. Selon Global News, la Force spatiale américaine prévoit un crash autour du vendredi."
+      "sujet": "Alerte attentat à Moscou",
+      "fait": "L'ambassade américaine à Moscou a émis une alerte concernant une menace d'événement causant des 'mass casualty' au musée Tsaritsyno. Selon Global News, le Canada fait écho à cet avertissement."
     }
   ]
 }
