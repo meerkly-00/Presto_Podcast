@@ -1,50 +1,54 @@
 {
-  "generated_at": "2026-10-30T22:48:05.864012+00:00",
+  "generated_at": "2026-10-31T17:31:02.070314+00:00",
   "window_hours": 8,
   "faits": [
     {
-      "sujet": "Alberta réduction taxes scolaires",
-      "fait": "L'Alberta réduit les taxes foncières scolaires en 2027 : les propriétaires résidentiels et agricoles paieront 7 % de moins, tandis que les propriétaires non résidentiels paieront 5 % de moins. Selon Global News."
+      "sujet": "Élections de mi-mandat américaines",
+      "fait": "Les élections de mi-mandat aux États-Unis sont imminentes. Selon Al Jazeera, des médecins démocrates se présentent aux élections pour contester les politiques de santé de l'administration Trump."
     },
     {
-      "sujet": "États-Unis vente missiles Ukraine",
-      "fait": "Le gouvernement américain approuve la vente de 500 missiles Patriot à l'Ukraine, décrits comme la seule arme efficace pour abattre les missiles balistiques russes. Selon BBC World."
+      "sujet": "Manifestations en France",
+      "fait": "La France se prépare à un troisième weekend consécutif de manifestations le 31 octobre. Selon CBC World, 70 000 policiers et gendarmes sont mobilisés et la marche de Paris est redirigée vers la périphérie de la capitale."
     },
     {
-      "sujet": "Canada alliance UE statut associé",
-      "fait": "Le Canada devient le premier « membre associé » de l'Union européenne, selon une annonce du ministre Carney visant à renforcer les liens entre les industries canadiennes et européennes. Selon Radio-Canada."
+      "sujet": "Hack de Binance",
+      "fait": "La plateforme Binance a subi un vol de 6,3 milliards de dollars. Selon BBC World et Reuters, Binance a reconstitué 90% des actifs volés. Deux analystes désignent un groupe soutenu par la Corée du Nord comme responsable probable."
     },
     {
-      "sujet": "Russie retour compétitions hockey",
-      "fait": "La Cour d'arbitrage du sport autorise la Russie à retourner aux compétitions internationales de hockey ; le gouvernement canadien s'oppose fortement à cette décision. Selon Sportsnet."
+      "sujet": "Manifestations contre les pesticides",
+      "fait": "Plus de cent personnes ont participé à un 'die-in' contre les pesticides devant les bureaux de Santé Canada à Montréal le 31 octobre. Selon La Presse et Global News, certains participants étaient déguisés pour Halloween."
     },
     {
-      "sujet": "Binance vol cryptomonnaies Corée",
-      "fait": "Binance tente de récupérer 6,3 milliards de dollars volés lors d'un piratage attribué à la Corée du Nord, décrit comme le plus grand du genre. Selon BBC World."
+      "sujet": "Épidémie d'Ebola en RDC",
+      "fait": "Plus de 5 000 personnes sont décédées de la fièvre Ebola en République démocratique du Congo. Selon BBC World, plus de 10 000 personnes ont contracté le virus dans cette épidémie, la plus meurtrière."
     },
     {
-      "sujet": "Marché actions repli technologique",
-      "fait": "Le TSX chute de 600 points et le Nasdaq face à un effondrement de 2 billions de dollars en octobre en raison des craintes sur les dépenses en IA et la rentabilité. Selon BNN Bloomberg et Reuters."
+      "sujet": "COP17 sur la biodiversité",
+      "fait": "Un accord sur des textes clés pour protéger la nature a été conclu à la COP17 en Arménie dans la nuit du 31 octobre. Selon La Presse, cet accord intervient après deux semaines de négociations difficiles."
     },
     {
-      "sujet": "Applebee's fuite données clients",
-      "fait": "Applebee's expose les données personnelles de ses clients après avoir laissé le mot de passe de la base de données codé en dur dans son application. Selon TechCrunch."
+      "sujet": "Norme d'émissions automobile Canada",
+      "fait": "Le gouvernement Carney repousse l'entrée en vigueur des normes d'émissions jusqu'en 2029. Selon Le Devoir, cette date était initialement prévue en 2027, une annonce faite il y a huit mois."
     },
     {
-      "sujet": "Jeff Rath exclusion parti UCP",
-      "fait": "Le chef séparatiste albertain Jeff Rath est exclu du Parti conservateur uni (UCP) pour violation du code de conduite, selon la directrice exécutive du parti. Selon Global News."
+      "sujet": "Évacuation de civils ukrainiens",
+      "fait": "Des civils évacués de la ville occupée d'Oleshky ont traversé vers le territoire contrôlé par l'Ukraine. Selon CBC World et BBC World, cette opération humanitaire s'est déroulée sous le cessez-le-feu le plus important depuis l'invasion russe en 2022."
     },
     {
-      "sujet": "Anthropic notation crédit junk",
-      "fait": "Anthropic devrait recevoir une notation de crédit junk élevée des agences de notation après son entrée en bourse, compliquant sa capacité à financer ses dépenses massives. Selon TechCrunch."
+      "sujet": "Pakistan remporte finale de cricket",
+      "fait": "Le Pakistan a battu le Sri Lanka dans la finale de la tri-série de cricket. Selon Al Jazeera, Fakhar Zaman a marqué un siècle déterminant pour une victoire de trois guichets."
     },
     {
-      "sujet": "Canadiens inculpés fraude électorale",
-      "fait": "Cinq Canadiens supplémentaires sont inculpés pour fraude électorale par le ministère américain de la Justice, dans une série de poursuites avant les élections de mi-mandat. Selon CBC World."
+      "sujet": "Dakar accueille Jeux olympiques jeunesse",
+      "fait": "Le Sénégal devient le premier pays africain à accueillir un événement olympique. Selon Al Jazeera, Dakar organise les Jeux olympiques de la jeunesse."
     },
     {
-      "sujet": "G20 tensions Lavrov photographie",
-      "fait": "Le G20 annule la photo de groupe à Atlanta car les délégués européens refusent de se tenir aux côtés du ministre russe des Affaires étrangères Lavrov. Selon Al Jazeera."
+      "sujet": "Financement d'OpenAI",
+      "fait": "OpenAI réduit son objectif de financement pour sa nouvelle levée de fonds. Selon TechCrunch, cette levée de fonds n'atteint pas les attentes initiales."
+    },
+    {
+      "sujet": "Télescope NASA Swift",
+      "fait": "Le télescope Swift de la NASA est sur le point de retomber sur Terre après un échec de sa mission de sauvetage. Selon Global News, la Force spatiale américaine prévoit un crash autour du vendredi."
     }
   ]
 }
