@@ -1,0 +1,14 @@
+{
+  "date": "2026-10-31",
+  "kind": "poll",
+  "text": "Ce matin → Binance a subi le plus gros vol de cryptomonnaie jamais enregistré : 6,3 milliards $.\n\nMISE À JOUR : Le PDG confirme que 90 % des actifs volés ont été\n\nLe remboursement rapide des utilisateurs par Binance change-t-il ton impression sur la sécurité des échanges crypto?",
+  "poll": {
+    "options": [
+      "Oui, ça rassure",
+      "Non, les risques restent",
+      "Dépend de la suite",
+      "Pas d'avis"
+    ],
+    "duration_minutes": 1440
+  }
+}
