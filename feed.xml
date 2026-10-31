@@ -23,6 +23,17 @@
       <link>https://www.prestopodcast.online</link>
     </image>
     <item>
+      <title>Presto — édition du 31 octobre 2026</title>
+      <description>Au menu : Économie et marchés, Vol de cryptomonnaie chez Binance, Politique canadienne et actualité québécoise, International, Tech, Actualité québécoise, Sport</description>
+      <pubDate>Sat, 31 Oct 2026 10:01:09 +0000</pubDate>
+      <guid isPermaLink="false">https://github.com/meerkly-00/Presto_Podcast/releases/download/2026-10-31/2026-10-31.mp3</guid>
+      <enclosure url="https://github.com/meerkly-00/Presto_Podcast/releases/download/2026-10-31/2026-10-31.mp3" type="audio/mpeg" length="10100049"/>
+      <itunes:duration>929</itunes:duration>
+      <itunes:summary>Au menu : Économie et marchés, Vol de cryptomonnaie chez Binance, Politique canadienne et actualité québécoise, International, Tech, Actualité québécoise, Sport</itunes:summary>
+      <itunes:episode>161</itunes:episode>
+      <itunes:image href="https://www.prestopodcast.online/artwork-v2.jpg"/>
+    </item>
+    <item>
       <title>Presto — édition du 30 octobre 2026</title>
       <description>Au menu : International, Politique canadienne et actualité québécoise, Économie et marchés, Tech, Sport</description>
       <pubDate>Fri, 30 Oct 2026 10:01:09 +0000</pubDate>

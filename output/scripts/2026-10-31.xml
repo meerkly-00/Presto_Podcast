@@ -1,0 +1,101 @@
+# Script Presto, samedi 31 octobre 2026
+
+```xml
+<script>
+  <intro>Bonjour, on est le samedi trente et un octobre deux mille vingt-six. Voici votre Presto en environ quinze minutes. Au menu : les marchés financiers sous pression après une semaine difficile, le vol de cryptomonnaie le plus important de l'histoire, les suites du sommet Canada-Union européenne et de la crise Québec-Ottawa, la situation politique en Israël, et un mot sur la Pologne et l'Ukraine.</intro>
+
+  <chapitre titre="Économie et marchés">
+    On commence par l'économie, où la semaine se termine dans la tourmente sur les marchés boursiers. Selon Reuters, le Nasdaq a effacé environ deux mille milliards de dollars américains de valeur au cours du mois d'octobre, alors que les craintes entourant les dépenses massives en intelligence artificielle s'intensifient. CBC rapporte que l'indice Nasdaq composite a perdu près de trois pour cent vendredi, sa pire journée depuis juin, tandis que l'indice canadien S&amp;P/TSX composite a terminé la séance en baisse de un virgule sept pour cent.
+
+    Selon le Wall Street Journal, les résultats trimestriels d'Amazon et d'Intel ont alimenté ces ventes massives dans le secteur technologique. Reuters précise qu'Intel se dirige vers sa pire journée boursière de son histoire, un recul qui a entraîné dans son sillage l'ensemble du secteur des semi-conducteurs à l'échelle mondiale. Selon Bloomberg, la volatilité boursière a fortement augmenté, poussant plusieurs investisseurs à chercher refuge dans des valeurs plus sûres.
+
+    Au cœur de cette nervosité, des questions sur la rentabilité des investissements en intelligence artificielle. Selon CBC, des centaines de milliards de dollars ont été investis dans ce secteur, et des inquiétudes montent quant à savoir si ces sommes généreront assez de profits et de gains de productivité pour justifier la mise de fonds.
+
+    Du côté canadien, les nouvelles économiques ne sont guère plus réjouissantes. Selon Bloomberg, l'économie canadienne affiche une croissance annualisée de un virgule trois pour cent au troisième trimestre. BNN Bloomberg rapporte que le produit intérieur brut a stagné à nouveau en août, alors qu'une hausse de zéro virgule deux pour cent était attendue. Reuters souligne que l'économie canadienne aurait vraisemblablement aussi reculé en septembre.
+
+    Au Québec, Radio-Canada rapporte que la croissance économique de la province s'établit à zéro. Selon Radio-Canada, Donald Trump et sa guerre tarifaire sont loin d'être les seuls responsables de cette stagnation.
+
+    Toujours en économie, le Financial Times rapporte que Blackstone a averti ses investisseurs qu'Anthropic pourrait ne pas obtenir de cote de crédit de qualité investissement après son premier appel public à l'épargne. Par ailleurs, selon le Financial Times, la société CD&amp;R négocierait le rachat du processeur de paiements Global Payments, une transaction évaluée à quarante milliards de dollars américains. Et Bloomberg rapporte que l'économie française a reculé de façon inattendue, alors que les vents contraires s'intensifient.
+  </chapitre>
+
+  <chapitre titre="Vol de cryptomonnaie chez Binance">
+    Un mot sur la crypto, où une nouvelle structurante domine l'actualité. Selon l'Associated Press, la plateforme d'échange Binance a été victime du vol de cryptomonnaie le plus important jamais enregistré, totalisant environ six milliards trois cents millions de dollars américains. La BBC rapporte que l'entreprise tente maintenant de récupérer les sommes dérobées, dans ce qu'elle décrit comme une cyberattaque complexe.
+
+    Selon la BBC, des pirates informatiques présumés nord-coréens, considérés comme une élite dans le domaine, seraient les principaux suspects. Le Financial Times souligne que la Corée du Nord est devenue, au fil des années, une véritable superpuissance du piratage informatique.
+  </chapitre>
+
+  <chapitre titre="Politique canadienne et actualité québécoise">
+    On passe à la politique canadienne, où la relation entre Québec et Ottawa reste au centre de l'attention. Selon La Presse, le premier ministre du Canada Mark Carney a accordé une entrevue exclusive vendredi pour tenter de calmer le jeu après une semaine tendue entre les deux gouvernements. Carney a proposé une rencontre avec son homologue québécois, dans l'espoir de consolider cette relation, alors que celle avec Washington ne montre pas de signe d'amélioration.
+
+    Toujours selon La Presse, le sommet Canada-Union européenne qui se tenait à Montréal continue de faire des vagues, après le boycottage de l'événement par le premier ministre du Québec Paul St-Pierre Plamondon. Un éditorial de La Presse souligne que le débat entourant un éventuel statut de membre associé entre le Canada et l'Union européenne, qui agace autant le Canada que plusieurs pays européens, constitue une distraction par rapport aux enjeux de fond.
+
+    En Ontario, CBC rapporte une situation inusitée : seule une partie de la province reculera l'heure cette fin de semaine, ce qui divisera temporairement l'Ontario en deux fuseaux horaires. Au Québec et dans la majorité du Canada, Radio-Canada rappelle que le changement d'heure a lieu dans la nuit du trente et un octobre au premier novembre.
+
+    Dans l'Ouest canadien, CBC rapporte que le séparatiste albertain Jeff Rath a été exclu du Parti conservateur uni, qui forme le gouvernement de la province. Selon le parti, Rath aurait lui-même indiqué clairement qu'il ne l'appuyait plus.
+
+    En Colombie-Britannique, Global News rapporte l'évacuation d'un campement de personnes itinérantes à Penticton, une opération controversée où des agents de la Gendarmerie royale du Canada étaient présents pour assurer la sécurité pendant qu'une douzaine de résidents quittaient les lieux avec l'aide de travailleurs de proximité.
+
+    À Toronto, Global News rapporte une violente invasion de domicile dans le quartier cossu de Bridle Path, où trois membres d'une même famille ont été atteints par balle et les quatre occupants attaqués au marteau. Le chef d'une entreprise immobilière, dont la famille a été visée, a qualifié l'événement de terrifiant, je le cite : "terrifying". Fin de citation. La police recherche toujours les suspects.
+
+    Du côté des États-Unis, Radio-Canada se penche sur les élections de mi-mandat à venir, où se jouera notamment le contrôle du Sénat américain. Selon Radio-Canada, les républicains, majoritaires à la Chambre des représentants, se retrouvent de plus en plus sur la défensive. CBC rapporte par ailleurs que le département de la Justice américain a porté des accusations de fraude électorale contre cinq Canadiens supplémentaires, dans la foulée d'une série de poursuites similaires à l'approche du scrutin.
+  </chapitre>
+
+  <chapitre titre="International">
+    À l'international, la situation politique demeure incertaine en Israël. Selon l'Associated Press, des négociations difficiles s'annoncent après que le bloc du premier ministre Benjamin Nétanyahou a perdu sa majorité parlementaire.
+
+    En Pologne, la BBC rapporte un face-à-face tendu autour du contrôle de la plus haute cour du pays. Selon la BBC, cette escalade est survenue après que le gouvernement a suspendu deux juges supérieurs et entamé des démarches pour porter des accusations criminelles contre eux. L'Associated Press rapporte que la police a sécurisé le Tribunal constitutionnel polonais alors que des manifestations ont éclaté en réaction à la suspension du chef de cette cour.
+
+    En Ukraine, la BBC rapporte que les États-Unis ont approuvé la vente de cinq cents missiles Patriot à l'Ukraine. Selon la BBC, ces intercepteurs de fabrication américaine représentent l'arme la plus efficace pour abattre les missiles balistiques russes.
+
+    Au Moyen-Orient, Al Jazeera rapporte que le Conseil de sécurité des Nations unies a rejeté deux résolutions rivales, l'une américaine et l'autre russe, concernant le Sahara occidental, laissant la mission de maintien de la paix sans extension approuvée. Toujours selon Al Jazeera, le Liban a porté des accusations contre treize personnes en lien avec des explosifs confisqués appartenant au Hezbollah. Le groupe qualifie ces accusations d'injustes et soutient que les armes étaient destinées à être utilisées contre les forces israéliennes dans le sud du Liban.
+
+    Au Brésil, Al Jazeera rapporte que Flávio Bolsonaro s'engage à poursuivre le combat politique de son père.
+
+    En Espagne, les suites de la collision de trains à grande vitesse continuent d'être documentées. Selon CBC, un train circulant à plus de cent cinquante kilomètres à l'heure est entré en collision avec un train à l'arrêt dans le centre du pays, faisant au moins soixante-neuf morts et des dizaines de blessés. Des enregistrements audio des répartiteurs suggèrent qu'une défaillance technique du système de signalisation pourrait avoir contribué à l'accident.
+
+    En santé publique, CBC rapporte que le principal médecin africain en matière de santé, établi au Canada depuis deux mille treize, met en garde contre une résurgence du virus Ebola, qui dépasse maintenant les dix mille cas. Selon ce médecin, je le cite : "No one is safe". Fin de citation. Il appelle à un soutien international accru devant un risque de propagation transfrontalière qu'il qualifie de potentiellement massif dans les mois à venir.
+
+    En sport international, le gouvernement canadien a réagi fermement à une décision sportive controversée. Selon l'Associated Press, la Russie a été réintégrée dans les compétitions de hockey sur glace, dont le championnat mondial junior prévu en Alberta, à la suite d'une décision d'un tribunal sportif. CBC rapporte que la ministre canadienne des Affaires étrangères a qualifié cette décision de très mal accueillie, parlant d'une grande déception alors que l'invasion russe de l'Ukraine approche de sa cinquième année.
+  </chapitre>
+
+  <chapitre titre="Tech">
+    Du côté de la tech, plusieurs dossiers retiennent l'attention. TechCrunch rapporte que Nvidia envisage de se porter garant pour un centre de données d'intelligence artificielle de l'entreprise Nscale, en Virginie-Occidentale. Selon TechCrunch, ce geste survient à un moment où les investisseurs deviennent nerveux face à l'ampleur des dépenses dans le secteur de l'intelligence artificielle.
+
+    Toujours selon TechCrunch, Salesforce poursuit sa série d'acquisitions avec une entente rapportée à environ trois cents soixante-quinze millions de dollars américains pour la jeune entreprise de défense Rune, qui viendra renforcer sa plateforme de défense Missionforce.
+
+    Du côté des assistants d'intelligence artificielle, TechCrunch rapporte la fermeture prochaine d'Ollie, un assistant reconnu pour son approche axée sur le respect de la vie privée de ses utilisateurs. Selon le fondateur de l'entreprise, cette fermeture survient alors que le marché se retrouve inondé d'un nombre croissant d'assistants concurrents.
+
+    En matière de gouvernance de l'intelligence artificielle, The Verge rapporte que les plus grands noms du secteur, dont OpenAI, Google, Microsoft et Anthropic, appuient désormais une nouvelle norme permettant aux éditeurs de contenu de refuser que leurs données soient utilisées pour l'entraînement de modèles d'intelligence artificielle.
+
+    Le patron d'OpenAI s'est aussi exprimé sur la pénurie actuelle de mémoire vive. Selon The Verge, Sam Altman affirme qu'il est préférable que la mémoire vive se trouve dans les centres de données plutôt que dans les ordinateurs personnels.
+
+    En sécurité informatique, Reuters rapporte que l'entreprise Cursor affirme que jusqu'à cinq mille utilisateurs ont été touchés par une extension falsifiée de l'outil Claude Code.
+
+    Apple étend la disponibilité de ses outils d'intelligence artificielle. Selon The Verge, l'entreprise lancera Apple Intelligence en Chine avec la mise à jour iOS vingt-sept virgule trois, dont la version bêta doit paraître le quatre novembre, et la version complète en décembre. Ce lancement n'inclut toutefois pas la nouvelle version de l'assistant Siri propulsée par l'intelligence artificielle.
+
+    Dans le secteur de l'aviation, Ars Technica rapporte que l'avenir de l'avion supersonique de l'entreprise Boom Supersonic est remis en question, alors que l'entreprise se tourne vers l'alimentation de centres de données en intelligence artificielle. Selon le patron de United Airlines, cité par Ars Technica, je le cite : "It's not going to happen in '29, it's going to take longer." Fin de citation, en référence à l'échéancier de livraison initialement prévu pour deux mille vingt-neuf.
+
+    Enfin, la NASA cherche des solutions pour prolonger la vie du télescope spatial Hubble. Selon Ars Technica, l'agence a lancé une demande d'information auprès d'entreprises privées pour explorer des options de réhaussement d'orbite ou de désorbitation contrôlée de l'observatoire, qui pourrait autrement retomber dans l'atmosphère au début ou au milieu de la décennie deux mille trente.
+  </chapitre>
+
+  <chapitre titre="Actualité québécoise">
+    Au Québec, La Presse rapporte que Guy Cormier, qui a dirigé le Mouvement Desjardins pendant près d'une décennie, se lance en politique fédérale. Il portera les couleurs des libéraux de Mark Carney dans la circonscription de Laurier-Sainte-Marie, où une élection partielle doit avoir lieu.
+
+    Toujours au Québec, La Presse publie cette semaine une série d'articles sur la solitude, décrite comme un problème de santé publique grandissant. Selon un sondage Synopsis cité par La Presse, près de la moitié des jeunes de dix-huit à vingt-quatre ans vivent de la solitude à différents degrés.
+
+    À Montréal, Le Devoir souligne que le signal sonore emblématique du métro de Montréal, le fameux "dou-dou-dou", n'est toujours pas protégé comme marque de commerce, malgré plus de dix ans de démarches de la Société de transport de Montréal en ce sens.
+
+    À la prison de Bordeaux, le Journal de Montréal rapporte qu'un détenu a été battu et noyé après ne pas avoir trafiqué la fenêtre de sa cellule, comme on le lui aurait demandé.
+  </chapitre>
+
+  <chapitre titre="Sport">
+    Rapidement en sport. Au hockey, Sportsnet rapporte que l'attaquant Nikita Kucherov a informé ses coéquipiers et l'organisation du Lightning de Tampa Bay qu'il ne renouvellera pas son contrat et souhaite être échangé. Le Journal de Montréal précise que le directeur général du Lightning, Julien Brisebois, ne veut rien entendre de cette demande.
+
+    Toujours au hockey, Sportsnet rapporte que les Flames de Calgary ont défait le Kraken de Seattle, dans un match marqué par un combat du joueur Adam Klapka qui a donné le ton à la rencontre. Du côté du Canadien de Montréal, le Journal de Montréal souligne que Nick Suzuki a été en mesure d'agripper son bâton, un signe encourageant pour son retour au jeu.
+
+    Au basketball, Global News rapporte que Scottie Barnes a inscrit un sommet personnel de quarante et un points, mais les Raptors de Toronto se sont inclinés cent vingt et un à cent quatorze face au Magic d'Orlando, lors du premier match de la Coupe de la NBA pour les deux équipes.
+  </chapitre>
+
+  <outro>Voilà pour ce Presto du samedi trente et un octobre deux mille vingt-six. Si ce briefing vous est utile, le meilleur coup de main que vous pouvez nous donner, c'est de le partager à une personne qui aime rester informée. Et selon votre plateforme : un abonnement sur Spotify ou Apple Podcasts, un pouce bleu et un abonnement sur YouTube, ça prend deux secondes et ça aide vraiment Presto à grandir. Sur ce, bonne journée, et à demain.</outro>
+</script>
+```
