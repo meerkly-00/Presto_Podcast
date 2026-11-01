@@ -1,0 +1,14 @@
+{
+  "date": "2026-11-01",
+  "kind": "poll",
+  "text": "Ce matin → Les élections américaines de mardi approchent dans un climat de tensions.\n\nComment évalues-tu l'importance de l'intégrité électorale dans les midterms?",
+  "poll": {
+    "options": [
+      "C'est la priorité absolue",
+      "C'est important mais",
+      "Les deux enjeux sont",
+      "Je ne sais pas"
+    ],
+    "duration_minutes": 1440
+  }
+}
