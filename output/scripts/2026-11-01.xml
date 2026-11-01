@@ -1,0 +1,81 @@
+```xml
+<script>
+  <intro>Bonjour, on est le dimanche premier novembre deux mille vingt-six. Voici votre Presto en environ quinze minutes. Au menu : la crypto avec le dénouement du piratage de Binance, l'international avec les manifestations en Europe et la situation en Ukraine, la politique canadienne et québécoise, l'économie, la tech et un peu de sport.</memoire>
+
+  <chapitre titre="Crypto">
+    On commence par la crypto, où le dossier du piratage de Binance connaît un dénouement rapide. Selon Reuters, la plateforme d'échange prévoit de réautoriser les retraits dès aujourd'hui, après avoir récupéré la majeure partie des six milliards de dollars américains volés plus tôt cette semaine.
+
+    CBC rapporte que Binance affirme avoir déjà remplacé environ quatre-vingt-dix pour cent des sommes dérobées, et que l'entreprise s'est engagée à couvrir la totalité de la perte, y compris les dix pour cent restants, composés de jetons jugés moins liquides et donc plus longs à racheter. Toujours selon CBC, le Bureau fédéral d'enquête américain attribue l'attaque à une unité nord-coréenne connue sous le nom de TraderTraitor, affiliée à l'État.
+
+    The Verge précise que Binance a communiqué cet engagement directement sur le réseau social X, où l'entreprise affirme, je le cite : "Our commitment remains the same: Binance will fully cover the financial impact of the funds stolen in this incident." Fin de citation. Le dossier illustre à quelle vitesse une plateforme d'envergure peut absorber un choc financier majeur, même après avoir essuyé le vol de cryptomonnaie le plus important jamais enregistré.
+  </chapitre>
+
+  <chapitre titre="International">
+    À l'international, la contestation sociale continue de s'étendre en Europe. Selon la BBC, des manifestations contre le coût de la vie ont dégénéré dans plusieurs grandes villes allemandes, dont Berlin, Hambourg et Francfort, avec des commerces pillés. La BBC précise que ces événements sont survenus le même jour où des centaines de milliers de personnes ont aussi manifesté en France.
+
+    Al Jazeera rapporte que des dizaines de milliers de jeunes ont défilé dans les plus grandes villes d'Allemagne pour réclamer un meilleur accès à l'éducation et une baisse du coût de la vie. CBC confirme qu'il s'agit d'un troisième week-end consécutif de mobilisation menée par la jeunesse en France, avec des échos similaires en Allemagne et en Italie.
+
+    En Ukraine, CBC rapporte une opération humanitaire d'envergure à la frontière avec la Biélorussie. Des résidents évacués de la ville occupée par la Russie d'Oleshky ont pu rejoindre le territoire contrôlé par l'Ukraine, dans le cadre d'une trêve localisée présentée comme la plus significative depuis le début de l'invasion russe à grande échelle, il y a plus de quatre ans. La BBC rapporte que des évacués disent avoir traversé des champs de mines à la recherche de nourriture, et que plusieurs habitants d'Oleshky se sont retrouvés sans eau, sans électricité, forcés de cuisiner des mauvaises herbes du jardin pour survivre.
+
+    En Pologne, l'Associated Press rapporte que le premier ministre Donald Tusk défend sa décision de suspendre le président du Tribunal constitutionnel du pays, alors que des manifestants se rassemblent de nouveau.
+
+    Du côté du golfe Persique, Al Jazeera rapporte qu'un navire méthanier qatari a été frappé par des objets non identifiés dans le Golfe. La Qatar Gas Transport Company affirme qu'il n'y a eu ni blessé ni dommage environnemental.
+
+    Aux États-Unis, l'Associated Press rapporte qu'un juge fédéral a rejeté la poursuite de dix milliards de dollars intentée par Donald Trump contre le Wall Street Journal et le magnat des médias Rupert Murdoch, au sujet d'un article portant sur ses liens avec le financier Jeffrey Epstein. Le juge aurait qualifié les arguments de la poursuite, je le cite : "Grasping at straws." Fin de citation. La BBC confirme l'information.
+
+    Enfin, au Royaume-Uni, Le Devoir rapporte que le premier ministre britannique Andy Burnham envisage pour la première fois de présenter des excuses officielles pour le rôle de son pays dans la traite transatlantique des esclaves, sans toutefois répondre aux appels en faveur de réparations financières. Selon Le Devoir, Burnham se rendra la semaine prochaine à Antigua-et-Barbuda pour une réunion des dirigeants du Commonwealth. Il affirme vouloir, je le cite : "reconnaître son histoire complexe" pour protéger l'association de cinquante-six pays.
+  </chapitre>
+
+  <chapitre titre="Politique canadienne et actualité québécoise">
+    On passe à la politique canadienne, où plusieurs dossiers retiennent l'attention ce dimanche. La Presse rapporte que trois maires du Bas-Saint-Laurent font front commun pour convaincre le gouvernement de Mark Carney d'établir une base navale permanente dans la région.
+
+    Toujours selon La Presse, un dossier judiciaire marquant s'est conclu à Montréal : un homme a plaidé coupable pour avoir créé du matériel de pornographie juvénile généré par intelligence artificielle, à l'aide de requêtes et d'hypertrucages. L'homme risque la prison.
+
+    Du côté fédéral, Radio-Canada analyse les suites des élections américaines de mi-mandat à venir. Selon le réseau public, une majorité républicaine à la Chambre des représentants est jugée quasi impossible, le parti du président perdant traditionnellement des sièges lors de ces scrutins. Le Devoir rapporte par ailleurs qu'environ deux Américains sur cinq disent avoir utilisé l'intelligence artificielle pour s'informer sur ces élections, et que des clavardeurs automatisés diffuseraient de fausses informations sur le scrutin.
+
+    En Alberta, Global News rapporte que la directrice générale des élections de la province recommande que le prochain scrutin général, prévu en deux mille vingt-sept, soit tenu avec les limites électorales actuelles, ou carrément reporté, dans un contexte d'accusations de charcutage électoral.
+
+    Au Québec, Radio-Canada s'est penché sur l'après-politique pour deux députés solidaires qui ont perdu leur siège à l'Assemblée nationale le cinq octobre dernier, Guillaume Cliche-Rivard et Alejandra Zaga Mendez. Toujours selon Radio-Canada, un promoteur d'équipements militaires, Eliot Pence, de l'entreprise Dominion Dynamics, cherche à inciter Ottawa à financer davantage le développement de technologies de défense.
+
+    La Presse consacre aussi un portrait approfondi à Éric Duhaime, chef du Parti conservateur du Québec, décrit comme une figure qui divise l'opinion depuis son passage de la radio privée de Québec vers l'arène politique, amorcé pendant la pandémie.
+
+    Enfin, Le Devoir rapporte que des agriculteurs et des écologistes ont manifesté au Québec et en Ontario pour réclamer un meilleur encadrement des pesticides au Canada, dans la foulée de récentes décisions du gouvernement Carney.
+  </chapitre>
+
+  <chapitre titre="Économie et marchés">
+    Du côté de l'économie, plusieurs signaux contrastés se dégagent. Selon le Financial Times, des investisseurs réduisent leurs attentes de croissance pour l'économie américaine, en raison de craintes liées à son exposition au secteur de l'intelligence artificielle.
+
+    En Asie, Reuters rapporte que les exportations de la Corée du Sud ont presque doublé en octobre, portées par un essor des investissements liés à l'intelligence artificielle.
+
+    Bloomberg rapporte que l'économie saoudienne s'est contractée à un rythme plus lent avant l'escalade du conflit avec les Houthis.
+
+    Aux États-Unis, le Financial Times rapporte des propos de Steve Bannon selon lesquels le Parti républicain devrait connaître, je le cite : "civil war" après les élections de mi-mandat. Fin de citation.
+
+    Du côté des marchés de prédiction, le Wall Street Journal s'interroge sur leur fiabilité historique à prévoir les résultats électoraux, alors que Bloomberg note que les cotes des parieurs semblent plus certaines que les sondages, sans que cette certitude soit nécessairement justifiée.
+
+    Au Québec, Les Affaires rapporte que le secteur de l'assurance de dommages se réinvente, et qu'un investissement majeur a été annoncé au Club de golf Les Dunes.
+  </chapitre>
+
+  <chapitre titre="Tech">
+    Un mot sur la tech. TechCrunch rapporte que les centres de données liés à l'intelligence artificielle sont devenus un enjeu électoral jusque dans les quartiers de Brooklyn, à l'approche des élections de mi-mandat américaines, les résidents s'inquiétant de leur impact sur les communautés locales.
+
+    Toujours selon TechCrunch, un juge a autorisé la poursuite de l'association NAACP contre l'entreprise d'intelligence artificielle xAI, propriété de SpaceX, à se poursuivre. La poursuite allègue des violations de la loi sur la qualité de l'air liées à un centre de données.
+
+    Du côté d'Apple, TechCrunch rapporte que le nouveau chef de la direction de l'entreprise a défendu la position actuelle d'Apple dans le domaine de l'intelligence artificielle, affirmant que l'entreprise ne veut pas, je le cite : "ship AI for AI's sake." Fin de citation.
+
+    En Chine, Reuters rapporte que les livraisons de véhicules électriques de Xiaomi ont dépassé cinquante mille unités en octobre, un sommet mensuel pour l'année deux mille vingt-six.
+  </chapitre>
+
+  <chapitre titre="Sport">
+    Rapidement en sport. Au hockey, Le Devoir rapporte que le Canadien de Montréal a remporté un cinquième gain consécutif, par la marque de cinq à quatre contre les Penguins de Pittsburgh, grâce notamment à deux buts de Josh Anderson. Sportsnet souligne la contribution de plusieurs vétérans du Canadien en l'absence du capitaine Nick Suzuki.
+
+    Toujours au hockey, Global News rapporte que les Maple Leafs de Toronto ont défait les Canucks de Vancouver par la marque de quatre à deux, mettant fin à une série de deux défaites. Sportsnet rapporte aussi un deuxième blanchissage consécutif pour le gardien Tristan Jarry, qui a mené les Oilers d'Edmonton à une victoire contre les Islanders de New York.
+
+    Au football canadien, Global News rapporte que les Lions de la Colombie-Britannique ont éliminé les Roughriders des séries éliminatoires.
+
+    Enfin, au basketball féminin, Sportsnet souligne que les Valkyries ont remporté leur tout premier titre de la WNBA, lors d'un septième match historique dans les finales de la ligue.
+  </chapitre>
+
+  <outro>Voilà pour ce Presto du dimanche premier novembre deux mille vingt-six. Si ce briefing vous est utile, le meilleur coup de main que vous pouvez nous donner, c'est de le partager à une personne qui aime rester informée. Et selon votre plateforme : un abonnement sur Spotify ou Apple Podcasts, un pouce bleu et un abonnement sur YouTube, ça prend deux secondes et ça aide vraiment Presto à grandir. Sur ce, bonne journée, et à demain.</outro>
+</script>
+```
