@@ -1,0 +1,75 @@
+# Vérification du contenu disponible avant rédaction
+
+Après analyse du XML, voici ce qui constitue une vraie nouvelle (j'écarte les articles creux : avis de circulation, promos produits, chroniques d'opinion, "ce qu'on suit aujourd'hui" sans contenu propre).
+
+---
+
+```xml
+<script>
+  <intro>Bonjour, on est le lundi deux novembre deux mille vingt-six. Voici votre Presto en environ quinze minutes. Au menu : la politique québécoise et canadienne, l'international avec les élections de mi-mandat américaines et les cyberattaques en Europe de l'Est, l'économie et les marchés, et un mot sur la tech.</intro>
+
+  <chapitre titre="Actualité québécoise et politique canadienne">
+Au Québec, Radio-Canada rapporte que le gouvernement de Paul St-Pierre Plamondon démantèle le ministère de la Cybersécurité et du Numérique. Les deux mille fonctionnaires de ce ministère seront transférés au Conseil du trésor. Radio-Canada précise que cette décision a été prise sans vote favorable de l'Assemblée nationale.
+
+Toujours selon Radio-Canada, le premier ministre canadien Mark Carney s'envole ce lundi pour le sommet du Commonwealth, à Antigua-et-Barbuda, où il doit rencontrer le roi Charles trois. Ce déplacement survient sur fond de tensions entourant la monarchie à Québec, où une partie de la classe politique conteste le rôle du Commonwealth dans les institutions canadiennes.
+
+Du côté des partielles fédérales, le Journal de Montréal rapporte que les électeurs de six circonscriptions iront aux urnes le sept décembre. C'est dans ce contexte que l'ancien dirigeant du Mouvement Desjardins, Guy Cormier, se présente pour les libéraux dans Laurier-Sainte-Marie.
+
+En Alberta, Global News rapporte qu'une ministre appuie le maintien d'une élection à date fixe en deux mille vingt-sept, alors qu'Élections Alberta propose un changement. Un rapport contesté sur le redécoupage des circonscriptions électorales doit être dévoilé cette semaine ; le Nouveau Parti démocratique affirme que ce redécoupage favorise artificiellement certains partis dans deux villes.
+
+Du côté des relations canado-américaines, Reuters rapporte que le président américain Donald Trump évoque un "concept" d'entente avec le Canada qui inclurait des discussions sur un pipeline, lors d'un échange avec Mark Carney. Les Affaires rapporte que Carney a qualifié cette conversation de bonne, sans donner plus de détails sur une entente formelle.
+  </chapitre>
+
+  <chapitre titre="International : élections de mi-mandat américaines">
+À l'international, l'attention se tourne vers les élections de mi-mandat américaines de mardi. Selon la BBC, le président Donald Trump a multiplié les rassemblements de campagne ce week-end dans des États remportés par les républicains, un signe que le contrôle du Congrès pourrait se jouer serré.
+
+La BBC rapporte aussi une dissension chez les démocrates au Michigan, où une candidate battue à la primaire sénatoriale, Haley Stevens, a appuyé publiquement le candidat républicain Mike Rogers. Des représentants du parti démocrate ont qualifié ce geste de trahison, selon CBC.
+
+Selon The Economist, l'attention se porte aussi sur l'Alaska, où des allégations de manœuvres électorales pourraient coûter aux démocrates le contrôle du Sénat.
+
+Sur le fond économique de cette élection, CBC rapporte que l'économie américaine affiche une forte croissance, mais que les consommateurs n'ont jamais été aussi pessimistes. Des économistes cités par CBC attribuent ce paradoxe aux tarifs douaniers et à la guerre avec l'Iran. Le Wall Street Journal fait un constat similaire : l'économie américaine progresse rapidement, mais cette croissance ne profite pas à tout le monde.
+  </chapitre>
+
+  <chapitre titre="International : cyberattaques et tensions">
+Toujours à l'international, CBC rapporte que les systèmes d'alerte mobiles d'urgence en Ukraine et en Russie ont été ciblés par des cyberattaques dimanche soir. Des utilisateurs à Kyiv ont reçu de fausses alertes annonçant des niveaux de radiation dangereusement élevés dans la capitale. Les autorités des deux pays confirment l'incident, sans attribuer pour l'instant la responsabilité à un acteur précis.
+
+En Suède, Reuters rapporte un incident similaire dans un registre différent : la température a grimpé dans les congélateurs d'une chaîne d'épicerie, un des magasins touchés pointant du doigt des pirates informatiques.
+
+Au Soudan, selon Al Jazeera, Khartoum a déposé des plaintes contre l'Éthiopie auprès des Nations unies, après une série d'attaques de drones qui aurait fait, depuis février, quatre cent quatre-vingt-quatre victimes, morts et blessés confondus. Toujours selon Al Jazeera, la situation humanitaire continue de se détériorer pour les personnes déplacées, avec des avertissements de famine.
+
+En Turquie, Al Jazeera rapporte que le fondateur emprisonné du PKK, Abdullah Ocalan, a été transféré vers une nouvelle section de la prison insulaire où il est détenu. L'amélioration de ses conditions de détention est une demande clé des Kurdes dans le cadre des efforts pour mettre fin au conflit entre le PKK et la Turquie.
+
+En Floride, l'Associated Press et la BBC rapportent qu'un jet privé transportant neuf personnes s'est écrasé près d'une route achalandée, non loin de la résidence Mar-a-Lago du président Trump. Les neuf occupants sont morts, selon le secrétaire américain aux Transports, Sean Duffy, qui a qualifié l'écrasement de tragédie horrible.
+  </chapitre>
+
+  <chapitre titre="Économie et marchés">
+On passe à l'économie. Selon Bloomberg, les marchés boursiers américains ont freiné leur récente glissade, alors que les prix du pétrole reculent. Bloomberg Business rapporte aussi que les actions européennes sont restées stables, dans un climat de prudence lié aux élections de mi-mandat américaines.
+
+Du côté de la crypto, le dossier du piratage de Binance continue d'évoluer. Selon le Financial Times, les utilisateurs de la plateforme ont retiré environ cinq milliards de dollars américains depuis la reprise des services. La BBC précise que trois milliards six cents millions de dollars américains ont été retirés après ce qui est désormais qualifié du plus important piratage de cryptomonnaie jamais enregistré, un incident que les autorités relient à un groupe nord-coréen.
+
+En Chine, Bloomberg rapporte que l'activité manufacturière continue de croître, mais que la séquence d'accélération de cette croissance a pris fin.
+
+Du côté obligataire, le Financial Times rapporte une déroute marquée sur le marché de la dette à haut rendement, un mouvement que des investisseurs en crédit cités par le média qualifient de bain de sang.
+
+Dans le Golfe, Reuters rapporte que le marché boursier qatari progresse, à contre-courant du recul généralisé ailleurs dans la région, dans un contexte de craintes liées à la guerre en Iran.
+
+En Océanie, Bloomberg rapporte que la banque australienne Westpac a dévoilé des profits inférieurs aux attentes des analystes, sa direction évoquant un contexte économique incertain.
+
+Au Canada, BNN Bloomberg rapporte que plus de la moitié des employés de Parcs Canada ont reçu un avis de mises à pied à venir.
+  </chapitre>
+
+  <chapitre titre="Tech">
+Du côté de la tech, TechCrunch rapporte que le constructeur automobile Ford lance ce que l'entreprise appelle une promesse de confidentialité, s'engageant explicitement envers ses clients à assurer la sécurité des données de leurs véhicules.
+
+Toujours selon TechCrunch, OpenAI envisagerait de rebaptiser ses centres de données en les présentant comme des campus de calcul pour l'intelligence artificielle, dans un contexte où ces infrastructures suscitent une forte opposition dans plusieurs communautés.
+
+The Economist rapporte que les entreprises OpenAI et Anthropic voient une occasion d'affaires dans la cybersécurité, alors que des pirates informatiques utilisent de plus en plus l'intelligence artificielle pour mener leurs attaques.
+
+Du côté spatial, The Verge rapporte que l'agence spatiale américaine sollicite l'industrie spatiale privée pour tenter de prolonger la durée de vie du télescope Hubble. Selon le Verge, l'administrateur de la NASA, Jared Isaacman, affirme que le télescope a encore d'importantes découvertes scientifiques à offrir.
+
+Enfin, Nature rapporte un retour discret de la rougeole, dans plusieurs pays, les taux de vaccination ayant chuté après que la pandémie de COexcept-dix-neuf a perturbé les programmes de santé publique et leur financement.
+  </chapitre>
+
+  <outro>Voilà pour ce Presto du lundi deux novembre deux mille vingt-six. Si ce briefing vous est utile, le meilleur coup de main que vous pouvez nous donner, c'est de le partager à une personne qui aime rester informée. Et selon votre plateforme : un abonnement sur Spotify ou Apple Podcasts, un pouce bleu et un abonnement sur YouTube, ça prend deux secondes et ça aide vraiment Presto à grandir. Sur ce, bonne journée, et à demain.</outro>
+</script>
+```
