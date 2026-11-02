@@ -1,0 +1,14 @@
+{
+  "date": "2026-11-02",
+  "kind": "poll",
+  "text": "Ce matin → Cyberattaques sur les systèmes d'alerte mobiles d'Ukraine et Russie dimanche, avec fausses alertes de radiation à Kyiv.\n\nNouveau : Anthropic avertit qu'une IA capable de\n\nComment évalues-tu les risques des cyberattaques sur les systèmes critiques en contexte de crise?",
+  "poll": {
+    "options": [
+      "Priorité majeure,",
+      "Risque sérieux à",
+      "À gérer comme les autres",
+      "Les défenses existantes"
+    ],
+    "duration_minutes": 1440
+  }
+}
