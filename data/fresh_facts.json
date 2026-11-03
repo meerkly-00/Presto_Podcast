@@ -1,54 +1,50 @@
 {
-  "generated_at": "2026-11-02T22:09:50.597980+00:00",
+  "generated_at": "2026-11-03T19:58:24.533122+00:00",
   "window_hours": 8,
   "faits": [
     {
-      "sujet": "Ventes iPhone Apple record",
-      "fait": "Apple a enregistré 57,58 milliards de dollars de revenus iPhone au quatrième trimestre, soit une augmentation de 17% par rapport à l'année précédente, selon The Verge."
+      "sujet": "Aide américaine à Israël",
+      "fait": "Les États-Unis vont suspendre 4 milliards de dollars d'aide à Israël alors que le pays réduira sa dépendance envers l'aide américaine, selon Associated Press."
     },
     {
-      "sujet": "Ventes immobilières Calgary baisse",
-      "fait": "Les ventes de maisons à Calgary ont chuté de 15,3% en octobre 2026, avec une pression accrue sur les prix des logements densifiés en raison d'une suroffre, selon Global News."
+      "sujet": "Piratage de Binance par la Corée du Nord",
+      "fait": "Le plus grand échange de cryptomonnaies au monde a été victime d'un vol record de 6,3 milliards de dollars attribué à des pirates nord-coréens, malgré des avertissements antérieurs des experts en cybersécurité, selon TechCrunch."
     },
     {
-      "sujet": "Décès grippe aviaire États-Unis",
-      "fait": "Une troisième personne est décédée de la grippe aviaire aux États-Unis après exposition sur une ferme laitière infectée à Washington, selon Ars Technica."
+      "sujet": "Prix de l'essence aux élections américaines",
+      "fait": "Le prix moyen national de l'essence atteint 4,12 dollars par gallon et le diesel 6,28 dollars, les plus hauts jamais enregistrés un jour d'élection américaine, selon The Verge."
     },
     {
-      "sujet": "Congédiements policiers SPVM Montréal",
-      "fait": "Le Service de police de la Ville de Montréal a congédié sept patrouilleurs suite à des allégations de gestes discriminatoires et racistes aux postes de quartier 21 et 39, selon Radio-Canada et La Presse."
+      "sujet": "Réserve stratégique de pétrole américaine",
+      "fait": "La Réserve stratégique de pétrole des États-Unis est tombée à 282,2 millions de barils, son niveau le plus bas en 44 ans, selon The Verge."
     },
     {
-      "sujet": "Cyberattaque réfrigérateurs Europe",
-      "fait": "Une nouvelle cyberattaque affecte les réfrigérateurs de supermarchés à travers l'Europe, selon Reuters Business."
+      "sujet": "Valorisation de la startup Fal",
+      "fait": "La startup de inférence IA Fal a doublé sa valorisation à 16 milliards de dollars en levant 1,3 milliard de dollars dirigés par Bessemer, selon TechCrunch."
     },
     {
-      "sujet": "Meta fin support Quest 2",
-      "fait": "Meta a annoncé que la dernière mise à jour du système d'exploitation pour les casques Quest 2 et Quest Pro sera déployée d'ici mars 2027, selon The Verge."
+      "sujet": "Audits externes en Ontario",
+      "fait": "Le ministère du Travail de l'Ontario a engagé KPMG pour examiner le programme Better Jobs Ontario et a suspendu les nouvelles demandes en raison d'irrégularités de financement, selon Global News."
     },
     {
-      "sujet": "Botnet Android Google Videostrong",
-      "fait": "Google a découvert qu'un partenaire de fabrication a développé une porte dérobée dans 1,3 million d'appareils Android TV et les a transformés en botnet. Google a suspendu Videostrong Technology Co., selon The Verge."
+      "sujet": "Recherche ChatGPT versus Google",
+      "fait": "Le volume de requêtes de recherche sur ChatGPT représente maintenant 20 % du volume de Google, selon l'annonce d'OpenAI rapportée par The Verge."
     },
     {
-      "sujet": "Assistance conduite urbaine BMW",
-      "fait": "BMW lancera en 2027 un système d'assistance à la conduite partiellement automatisé en environnement urbain, d'abord en Allemagne, qui peut diriger, accélérer et ralentir le véhicule, selon The Verge."
+      "sujet": "Poursuites contre Brave Software",
+      "fait": "Le New York Times et d'autres éditeurs ont poursuivi Brave Software, affirmant que le navigateur a contourné les paywalls et vendu du contenu d'actualité à des entreprises d'IA pour plus de 100 millions de dollars, selon Ars Technica."
     },
     {
-      "sujet": "Règlement action collectif Snapchat",
-      "fait": "Snapchat a conclu un règlement lors d'un procès intenté par deux adolescents affirmant que la plateforme était conçue pour être addictive et causait dépression, anxiété et troubles alimentaires, selon CBC et TechCrunch."
+      "sujet": "Insécurité alimentaire à Toronto",
+      "fait": "Un enfant sur 8 à Toronto dépend des banques alimentaires, chiffre qui a presque doublé depuis 2022 selon le rapport annuel de Daily Bread, rapporte Radio-Canada."
     },
     {
-      "sujet": "Violation iPhone parlementaires allemands",
-      "fait": "Des parlementaires allemands et un cinéaste ont reçu des notifications d'Apple indiquant que leurs téléphones auraient pu être piratés avec un logiciel espion, selon TechCrunch."
+      "sujet": "Attaque à l'ours grizzli en Colombie-Britannique",
+      "fait": "Une personne est morte et une autre est portée disparue après une attaque d'ours grizzli suspectée dans la région de Snooka West Trail près de Bella Coola, selon Global News et CBC."
     },
     {
-      "sujet": "Procès Brave contenu propriété intellectuelle",
-      "fait": "Le New York Times et d'autres médias poursuivent le navigateur Brave pour extraction et distribution non autorisée de contenu protégé par droits d'auteur à des clients comme Anthropic et Perplexity, selon TechCrunch."
-    },
-    {
-      "sujet": "Robot domestique Apple prévu 2027",
-      "fait": "Apple développe un robot domestique autonome nommé HomeView Ultra, prévu pour 2027 avec un prix estimé à 1 000 dollars ou plus, capable de passer des appels FaceTime et de contrôler les lumières, selon Ars Technica."
+      "sujet": "Publicités Reddit dans les résultats de recherche",
+      "fait": "Reddit teste l'ajout de publicités dans ses résultats de recherche basées sur la pertinence contextuelle des requêtes, selon TechCrunch."
     }
   ]
 }
