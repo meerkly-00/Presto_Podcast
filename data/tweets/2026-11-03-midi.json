@@ -1,0 +1,14 @@
+{
+  "date": "2026-11-03",
+  "kind": "poll",
+  "text": "Ce matin → 7 policiers du SPVM congédiés pour inconduite, racisme et discrimination.\n\nLes caméras de lecture automatique des plaques dans les patrouilles : priorité pour la sécurité ou risque de surveillance ?",
+  "poll": {
+    "options": [
+      "Priorité pour la sécurité",
+      "Risque de surveillance",
+      "Les deux préoccupations",
+      "Incertain(e)"
+    ],
+    "duration_minutes": 1440
+  }
+}
