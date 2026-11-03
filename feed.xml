@@ -23,6 +23,17 @@
       <link>https://www.prestopodcast.online</link>
     </image>
     <item>
+      <title>Presto — édition du 3 novembre 2026</title>
+      <description>Au menu : International : élections de mi-mandat américaines, International : frappes américaines contre l'Iran, Actualité québécoise : congédiement de policiers du SPVM, Économie et marchés, Tech, Sport</description>
+      <pubDate>Tue, 03 Nov 2026 11:01:25 +0000</pubDate>
+      <guid isPermaLink="false">https://github.com/meerkly-00/Presto_Podcast/releases/download/2026-11-03/2026-11-03.mp3</guid>
+      <enclosure url="https://github.com/meerkly-00/Presto_Podcast/releases/download/2026-11-03/2026-11-03.mp3" type="audio/mpeg" length="6157173"/>
+      <itunes:duration>574</itunes:duration>
+      <itunes:summary>Au menu : International : élections de mi-mandat américaines, International : frappes américaines contre l'Iran, Actualité québécoise : congédiement de policiers du SPVM, Économie et marchés, Tech, Sport</itunes:summary>
+      <itunes:episode>164</itunes:episode>
+      <itunes:image href="https://www.prestopodcast.online/artwork-v2.jpg"/>
+    </item>
+    <item>
       <title>Presto — édition du 2 novembre 2026</title>
       <description>Au menu : Actualité québécoise et politique canadienne, International : élections de mi-mandat américaines, International : cyberattaques et tensions, Économie et marchés, Tech</description>
       <pubDate>Mon, 02 Nov 2026 11:01:19 +0000</pubDate>

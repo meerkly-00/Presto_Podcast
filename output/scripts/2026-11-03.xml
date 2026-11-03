@@ -1,0 +1,79 @@
+```xml
+<script>
+  <intro>Bonjour, on est le mardi trois novembre deux mille vingt-six. Voici votre Presto en environ quinze minutes. Au menu : les Américains votent aujourd'hui aux élections de mi-mandat, les États-Unis frappent l'Iran dans le détroit d'Hormuz, le congédiement de sept policiers du SPVM, les marchés nerveux avant le scrutin, et un mot sur la tech.</intro>
+
+  <chapitre titre="International : élections de mi-mandat américaines">
+    On commence par les États-Unis, où les bureaux de vote ont ouvert ce matin pour des élections de mi-mandat jugées déterminantes. Selon Global News, les démocrates espèrent reprendre le contrôle du Sénat et de la Chambre des représentants pour contrebalancer le pouvoir du président Donald Trump et du Parti républicain.
+
+    Toujours selon Global News, les candidats démocrates misent beaucoup sur les politiques tarifaires de Donald Trump et sur la guerre commerciale contre le Canada, qu'ils associent directement aux difficultés d'abordabilité vécues par les Américains. Si les démocrates l'emportent, Global News précise que cela pourrait changer la donne pour le Canada dans ce dossier commercial.
+
+    En Iowa, Al Jazeera rapporte que les candidats au Sénat ont multiplié les appels de dernière minute aux électeurs : la républicaine Ashley Hinson et le démocrate Josh Turek se disputent un siège serré.
+
+    Du côté juridique, la BBC rapporte que la Cour suprême américaine a rejeté une demande de l'administration Trump visant à empêcher le décompte de votes contestés en Californie. Cette décision, qui survient à la veille du scrutin, met fin aux tentatives de l'administration de faire invalider ces bulletins.
+
+    Sur la possibilité d'une contestation des résultats, Le Devoir souligne qu'il est peu probable que le président reconnaisse une défaite républicaine au Congrès advenant un tel scénario.
+
+    Enfin, à l'approche du vote, TechCrunch rapporte que les centres de données liés à l'intelligence artificielle sont devenus un enjeu électoral jusque dans les quartiers de Brooklyn, des résidents s'inquiétant de leur impact sur les communautés locales.
+  </chapitre>
+
+  <chapitre titre="International : frappes américaines contre l'Iran">
+    Toujours à l'international, la tension monte dans le détroit d'Hormuz. Selon l'Associated Press, un responsable américain confirme que les États-Unis ont mené une série de frappes qualifiées de défensives contre des cibles iraniennes près du détroit.
+
+    Al Jazeera précise que ces frappes ont visé l'île iranienne de Qeshm, une première depuis le mois de juin. Des explosions ont été entendues sur place. Selon la BBC, dont le partenaire américain CBS a recueilli la version officielle, des responsables américains décrivent ces attaques comme limitées et défensives.
+
+    Al Jazeera ajoute que l'Iran et les États-Unis semblent avancer sur deux voies parallèles, celle de la diplomatie et celle de l'escalade militaire, le président iranien Massoud Pezeshkian ayant signalé une ouverture à davantage de discussions.
+
+    Ce développement survient à un moment sensible, à la veille du scrutin américain, et les marchés en ressentent déjà les effets, comme on le verra du côté économique.
+  </chapitre>
+
+  <chapitre titre="Actualité québécoise : congédiement de policiers du SPVM">
+    Au Québec, un dossier domine l'actualité montréalaise ce matin. Selon Radio-Canada, le Service de police de la Ville de Montréal a congédié sept policiers rattachés aux postes de quartier vingt et un et trente-neuf, à la suite d'allégations d'inconduite liées à du racisme et à de la discrimination envers des personnes itinérantes.
+
+    Le chef de police Fady Dagher s'est exprimé sur la décision. En français, je le cite : « On est rassurés qu'ils ne porteront plus l'uniforme ni l'arme. » Fin de citation.
+
+    La Presse replace cet épisode dans un contexte plus large, rappelant que ces allégations sont décrites depuis quelques mois comme l'une des pires crises de confiance de l'histoire de l'organisation. Le quotidien a recensé d'autres épisodes qui ont ébranlé la confiance des citoyens envers le corps policier montréalais au fil des années.
+  </chapitre>
+
+  <chapitre titre="Économie et marchés">
+    On passe à l'économie, où la nervosité domine à la veille du scrutin américain. Selon Reuters, les actions mondiales reculent, les investisseurs restant sur leurs gardes à la fois en raison des élections de mi-mandat et de craintes persistantes liées aux paris massifs des entreprises technologiques sur l'intelligence artificielle.
+
+    Bloomberg rapporte que les actions américaines évoluent sans direction claire, les traders demeurant prudents avant de connaître l'issue du vote. Le Wall Street Journal précise que les contrats à terme sur le Dow reculent, alors que les rendements des obligations du Trésor américain progressent.
+
+    Toujours selon Reuters, un texte d'analyse souligne que les marchés mondiaux étaient déjà fragiles, et que les paris colossaux sur l'intelligence artificielle pourraient les fragiliser davantage.
+
+    Du côté des matières premières, le Wall Street Journal rapporte que le prix du pétrole recule alors que les marchés suivent de près les développements au Moyen-Orient. Bloomberg ajoute que les marchés pétroliers du Moyen-Orient montrent des signes d'abondance, avec une hausse des flux d'approvisionnement. Reuters précise par ailleurs que l'or recule, la hausse du pétrole ravivant des craintes inflationnistes à la veille du scrutin américain.
+
+    En matière de fusions-acquisitions, BNN Bloomberg rapporte que l'entreprise Marvell prévoit acheter Lumentum dans le cadre d'une transaction évaluée à cent quinze milliards de dollars américains, un pari sur les centres de données liés à l'intelligence artificielle.
+
+    Le Financial Times rapporte de son côté qu'Anthropic a dévoilé des engagements de dépenses en intelligence artificielle totalisant environ neuf cents milliards de dollars américains, à l'approche d'un premier appel public à l'épargne.
+
+    Au Canada, BNN Bloomberg rapporte que les ventes de maisons à Calgary ont chuté de quinze virgule trois pour cent en octobre, selon la Chambre immobilière régionale de Calgary.
+
+    Du côté des entreprises québécoises, Les Affaires rapporte que la Banque Laurentienne a finalisé ses transactions avec la Banque Nationale et la Banque Fairstone. Toujours selon Les Affaires, l'Autorité des marchés financiers prend des mesures d'application de la loi contre Raouf Ghadrdoust.
+  </chapitre>
+
+  <chapitre titre="Tech">
+    Du côté de la tech, Apple occupe l'actualité au lendemain de ses résultats trimestriels. Selon The Verge, l'entreprise a enregistré un trimestre record pour les ventes d'iPhone, malgré l'absence d'un nouveau modèle standard dans son plus récent cycle de lancement. Apple a généré des revenus de cinquante-sept virgule cinquante-huit milliards de dollars américains liés à l'iPhone, une hausse de dix-sept pour cent par rapport à l'an dernier.
+
+    Toujours selon The Verge, le directeur général d'Apple, John Ternus, affirme ne pas être en mesure de prédire quand l'offre du nouvel iPhone Duo pliable, lancé le mois dernier à mille neuf cent quatre-vingt-dix-neuf dollars, pourra répondre à la demande. TechCrunch ajoute qu'Apple envisage aussi de nouvelles façons de générer des revenus avec des applications tierces basées sur l'intelligence artificielle.
+
+    Ailleurs en tech, TechCrunch rapporte que les fonctions d'intelligence artificielle de l'Apple Watch permettant de reformuler et de résumer des conversations entrent en phase bêta.
+
+    Du côté de Google, The Verge rapporte que l'entreprise a dû couper les ponts avec un partenaire de fabrication d'appareils Android, la compagnie chinoise Videostrong, après avoir découvert qu'une porte dérobée avait transformé un million trois cent mille boîtiers décodeurs en un réseau de robots informatiques utilisé notamment pour de la fraude publicitaire.
+
+    Enfin, The Verge rapporte que Meta mettra fin aux mises à jour du système d'exploitation de ses casques Quest deux et Quest Pro d'ici le mois de mars deux mille vingt-sept, orientant désormais ses efforts vers le Quest trois et au-delà de nouvelles lunettes de réalité virtuelle prévues au printemps de la même année.
+  </chapitre>
+
+  <chapitre titre="Sport">
+    Rapidement en sport. Au hockey, les retombées de la demande d'échange de Nikita Kucherov continuent de faire jaser. TVA Sports rapporte que l'analyste Renaud Lavoie ne voit pas Kucherov atterrir à Montréal. Toujours selon TVA Sports, on reproche à Kucherov d'avoir mis son directeur général, Julien BriseBois, dans l'embarras avec ses déclarations.
+
+    Du côté de la Ligue nationale, Sportsnet rapporte que les Flames de Calgary ont battu les Sharks de San Jose, le gardien Dustin Wolf continuant de retrouver sa forme après avoir hérité du filet à la suite d'une blessure de Devin Cooley.
+
+    En formule un, TVA Sports rapporte que Lewis Hamilton a exigé une discussion sérieuse avec Ferrari après un Grand Prix du Mexique frustrant.
+
+    Finalement, en soccer espagnol, la BBC rapporte le décès de l'attaquant de Tenerife, Jésus de Miguel, à la suite d'une collision survenue durant un match de deuxième division.
+  </chapitre>
+
+  <outro>Voilà pour ce Presto du mardi trois novembre deux mille vingt-six. Si ce briefing vous est utile, le meilleur coup de main que vous pouvez nous donner, c'est de le partager à une personne qui aime rester informée. Et selon votre plateforme : un abonnement sur Spotify ou Apple Podcasts, un pouce bleu et un abonnement sur YouTube, ça prend deux secondes et ça aide vraiment Presto à grandir. Sur ce, bonne journée, et à demain.</outro>
+</script>
+```
