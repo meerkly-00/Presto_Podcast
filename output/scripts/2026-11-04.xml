@@ -1,0 +1,71 @@
+# Presto
+
+```xml
+<script>
+  <intro>Bonjour, on est le mercredi quatre novembre deux mille vingt-six. Voici votre Presto en environ quinze minutes. Au menu : la vague démocrate aux élections de mi-mandat américaines et ses répercussions sur les marchés, l'actualité québécoise et canadienne, et un mot sur la tech.</intro>
+
+  <chapitre titre="International : élections de mi-mandat américaines">
+On commence par les États-Unis, où la soirée électorale de mardi s'est soldée par une déroute pour le Parti républicain. Selon Radio-Canada, les démocrates ont remporté la majorité à la fois au Sénat et à la Chambre des représentants, portés par ce que plusieurs analystes qualifient de vague bleue.
+
+Le Devoir rapporte qu'à deux heures trente du matin mercredi, deux cent dix-huit candidats démocrates avaient été élus à la Chambre des représentants, un chiffre qui représente à lui seul la majorité requise, avec quarante et un autres candidats en avance. À titre de comparaison, le parti du président Donald Trump avait obtenu deux cent vingt sièges lors des élections de deux mille vingt-quatre. Au Sénat, toujours selon Le Devoir, le Parti démocrate avait récolté au moins vingt des trente-trois sièges soumis au vote, ce qui lui donne une majorité d'au moins cinquante-quatre élus contre quarante-deux républicains, avec quatre courses encore incertaines.
+
+Le Devoir souligne que les républicains ont perdu au moins sept sièges clés. Au Texas, le démocrate James Talarico a remporté son siège avec près de cinquante-quatre pour cent des votes face à Ken Paxton. Selon la BBC, il s'agit du premier siège démocrate au Sénat du Texas depuis mille neuf cent quatre-vingt-huit. La BBC cite un expert qui a résumé la soirée ainsi, je le cite : "This wasn't just a tsunami, not just a referendum, but this was a bloodbath." Fin de citation.
+
+Toujours selon la BBC, la Caroline du Sud a élu une sénatrice démocrate pour la première fois en près de trente ans, Annie Andrews l'emportant sur une candidate choisie personnellement par Donald Trump. La Floride, de son côté, a maintenu son ancrage républicain : la BBC rapporte que Byron Donalds, appuyé par Trump, deviendra le premier gouverneur noir de l'État.
+
+Selon l'Associated Press, les électeurs ont livré un désaveu sévère à Donald Trump et à son parti. Al Jazeera précise qu'il s'agit de la première fois en vingt ans qu'un président républicain perd le contrôle des deux chambres du Congrès lors d'élections de mi-mandat. Selon Reuters, Donald Trump aurait indiqué, d'après le New York Times, être disposé à accepter les résultats du scrutin.
+
+Un dossier international s'invite dans l'analyse de cette soirée électorale : les frappes américaines menées plus tôt cette semaine contre des cibles iraniennes près du détroit d'Hormuz. Selon la BBC, le négociateur en chef iranien, Mohammed Bagher Ghalibaf, affirme que les Américains ont voté, je le cite : "no to war." Fin de citation. La BBC rapporte que Donald Trump lui-même a reconnu le rôle de ce conflit dans la défaite de son parti.
+
+Dans un autre développement touchant les relations entre Washington et ses alliés, CBC rapporte que le président Trump a affirmé avoir conclu une entente avec le premier ministre israélien Benjamin Netanyahu pour mettre fin, dès la fin de l'année, à quatre milliards de dollars américains d'aide annuelle versée à Israël, tout en continuant à lui vendre des armes.
+
+Enfin, Al Jazeera rapporte que les résultats de l'élection en Israël ont été confirmés, la commission électorale ayant rejeté des allégations de fraude formulées par des alliés de Benjamin Netanyahu. Le président Isaac Herzog a entamé des discussions sur la formation du prochain gouvernement.
+  </chapitre>
+
+  <chapitre titre="Économie et marchés">
+On passe à l'économie, où le résultat électoral américain a immédiatement secoué les marchés. Selon Reuters, les actions mondiales et les obligations ont connu un rallye après le vote, tandis que le dollar américain reculait. Bloomberg confirme cette tendance et parle d'un marché qui doit maintenant composer avec l'ampleur de cette vague bleue.
+
+Selon le Financial Times, les actions américaines ont rebondi au lendemain de la victoire démocrate. Bloomberg rapporte par ailleurs que cette victoire a ébranlé ce que plusieurs investisseurs appelaient les "paris Trump", des positions sur les actions liées à l'intelligence artificielle jusqu'à la cryptomonnaie.
+
+Du côté des valeurs refuges, le Wall Street Journal rapporte que les taux des obligations du Trésor américain et des obligations gouvernementales européennes ont grimpé dans l'attente des résultats du scrutin. Reuters rapporte également que le prix du pétrole a progressé, les investisseurs restant incertains quant à l'évolution du dossier iranien après la défaite électorale des républicains.
+
+Au chapitre des résultats d'entreprises, le Wall Street Journal rapporte un recul du titre d'Apple, alors que les coûts d'emprunt de Meta ont augmenté. Toujours selon le Wall Street Journal, les actions technologiques ont néanmoins progressé dans l'ensemble malgré ce repli d'Apple.
+
+Au Canada, BNN Bloomberg rapporte que le gouverneur de la Banque du Canada, Tiff Macklem, a dit aux élus qu'il entend procéder avec prudence pour de futures hausses de taux, et a affirmé que les politiques budgétaire et monétaire ne sont pas en contradiction. BNN Bloomberg rapporte aussi que Shopify a déclaré un bénéfice net de quatre cent soixante-deux millions de dollars américains pour le troisième trimestre.
+
+Enfin, Bloomberg note que le commerce de prédictions électorales sur les marchés spécialisés s'est essoufflé après l'engouement observé en deux mille vingt-quatre, même si Reuters rapporte que les paris sur une vague démocrate avaient fortement grimpé à l'approche du scrutin.
+  </chapitre>
+
+  <chapitre titre="Actualité québécoise et canadienne">
+Au Québec, La Presse rapporte dans sa revue de presse que l'animateur Paul Arcand revient ce matin sur la déroute du Parti républicain, mais aussi sur deux autres dossiers qui font l'actualité : l'arrestation d'un suspect de dix-sept ans pour la mort d'un cycliste, et la défense syndicale des sept policiers congédiés par le Service de police de la Ville de Montréal, un dossier qui avait dominé l'actualité montréalaise la veille.
+
+Toujours selon La Presse, un ancien employé de la Banque Royale du Canada a été reconnu coupable de trois chefs d'accusation après avoir ouvert des comptes frauduleux et consulté les informations bancaires personnelles du premier ministre Mark Carney.
+
+Du côté de la défense nationale, CBC rapporte que le Canada envisage de scinder son achat prévu de douze sous-marins allemands, en s'engageant à en acquérir huit dans un premier temps et en reportant la décision pour les quatre autres. Selon des sources citées par CBC, cette approche viserait à préserver une flexibilité financière, mais pourrait compromettre une partie des quatre-vingt-six milliards de dollars de retombées économiques promises par l'Allemagne.
+
+Par ailleurs, Reuters rapporte que le premier ministre Mark Carney a annoncé que le Canada interdira aux athlètes russes de participer à un tournoi de hockey sur glace.
+
+Du côté environnemental, Radio-Canada rapporte que le fleuve Saint-Laurent, dans le secteur du parc marin du Saguenay-Saint-Laurent, a été utilisé comme dépotoir par l'armée pour ses surplus datant de la Seconde Guerre mondiale, laissant des munitions sur le fond marin. Le Devoir ajoute que la secrétaire d'État à la Nature, Nathalie Provost, affirme qu'Ottawa souhaite protéger la biodiversité et le climat dans ce secteur, alors qu'un agrandissement du parc marin pourrait être confirmé d'ici la fin de l'année.
+
+En éducation, Le Devoir rapporte que plus du tiers des enseignants québécois ne sont pas légalement qualifiés, et que leur nombre continue de croître malgré la mise en place de voies rapides pour les former.
+
+Un fait divers tragique retient aussi l'attention : La Presse rapporte qu'une mère et sa fille sont mortes à la suite d'une attaque présumée d'un grizzli près de Bella Coola, en Colombie-Britannique. CBC précise que les deux victimes ont été identifiées par leur famille comme étant Jennifer Balcarras et sa fille Selah Reed.
+  </chapitre>
+
+  <chapitre titre="Tech">
+Du côté de la tech, The Verge rapporte qu'AMD a connu ce que la présidente de l'entreprise, Lisa Su, décrit comme le trimestre le plus important et le plus profitable de son histoire. En anglais, je le cite : "the largest and most profitable in our history." Fin de citation. AMD a déclaré des revenus trimestriels de treize virgule quatre milliards de dollars, et prévoit atteindre un nouveau sommet de dix-sept milliards au prochain trimestre, porté par son secteur de centres de données.
+
+Toujours en matière d'infrastructure numérique, TechCrunch rapporte que les constructeurs de centres de données se tournent de plus en plus vers d'anciens moteurs à réaction, autrefois mis au rebut, pour pallier l'attente prolongée pour un accès au réseau électrique.
+
+En Russie, Ars Technica rapporte que des entreprises technologiques locales se précipitent pour renforcer et dissimuler leurs centres de données sous terre, après que des frappes de drones ukrainiens ont endommagé des installations hébergeant des superordinateurs dédiés à l'intelligence artificielle et perturbé des services infonuagiques pour des millions d'usagers russes.
+
+Du côté juridique, Ars Technica rapporte que le New York Times exige la fermeture du bloqueur de paywall du navigateur Brave et la fin de ses ententes avec des entreprises d'intelligence artificielle. Selon le New York Times, cité par Ars Technica, Brave aurait généré plus de cent millions de dollars en copiant et en revendant le contenu d'éditeurs sans leur consentement.
+
+En matière de réglementation, Ars Technica rapporte que la Californie accepte un milliard quatre cent vingt millions de dollars en financement fédéral pour le développement du réseau à large bande, tout en refusant la condition imposée par l'administration Trump d'abandonner ses lois sur la neutralité du réseau. L'État se réserve le droit de contester cette condition devant les tribunaux.
+
+Enfin, TechCrunch rapporte qu'Anthropic développe un système appelé FlashProve, qui permettrait à quiconque de vérifier qu'une réponse générée par intelligence artificielle provient bien du modèle qu'elle prétend être.
+  </chapitre>
+
+  <outro>Voilà pour ce Presto du mercredi quatre novembre deux mille vingt-six. Si ce briefing vous est utile, le meilleur coup de main que vous pouvez nous donner, c'est de le partager à une personne qui aime rester informée. Et selon votre plateforme : un abonnement sur Spotify ou Apple Podcasts, un pouce bleu et un abonnement sur YouTube, ça prend deux secondes et ça aide vraiment Presto à grandir. Sur ce, bonne journée, et à demain.</outro>
+</script>
+```

@@ -23,6 +23,17 @@
       <link>https://www.prestopodcast.online</link>
     </image>
     <item>
+      <title>Presto — édition du 4 novembre 2026</title>
+      <description>Au menu : International : élections de mi-mandat américaines, Économie et marchés, Actualité québécoise et canadienne, Tech</description>
+      <pubDate>Wed, 04 Nov 2026 11:01:36 +0000</pubDate>
+      <guid isPermaLink="false">https://github.com/meerkly-00/Presto_Podcast/releases/download/2026-11-04/2026-11-04.mp3</guid>
+      <enclosure url="https://github.com/meerkly-00/Presto_Podcast/releases/download/2026-11-04/2026-11-04.mp3" type="audio/mpeg" length="7117566"/>
+      <itunes:duration>671</itunes:duration>
+      <itunes:summary>Au menu : International : élections de mi-mandat américaines, Économie et marchés, Actualité québécoise et canadienne, Tech</itunes:summary>
+      <itunes:episode>165</itunes:episode>
+      <itunes:image href="https://www.prestopodcast.online/artwork-v2.jpg"/>
+    </item>
+    <item>
       <title>Presto — édition du 3 novembre 2026</title>
       <description>Au menu : International : élections de mi-mandat américaines, International : frappes américaines contre l'Iran, Actualité québécoise : congédiement de policiers du SPVM, Économie et marchés, Tech, Sport</description>
       <pubDate>Tue, 03 Nov 2026 11:01:25 +0000</pubDate>
