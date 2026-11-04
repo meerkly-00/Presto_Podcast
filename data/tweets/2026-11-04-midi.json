@@ -1,0 +1,14 @@
+{
+  "date": "2026-11-04",
+  "kind": "poll",
+  "text": "Ce matin → Les démocrates remportent le Sénat et la Chambre. Nouveauté : Trump reconnaît que la guerre en Iran a nui aux républicains.\n\nUn président qui maintient sa décision malgré ses conséquences électorales : tu vois ça comment?",
+  "poll": {
+    "options": [
+      "Cohérence politique",
+      "Refus de rendre des",
+      "Question complexe",
+      "Pas d'opinion"
+    ],
+    "duration_minutes": 1440
+  }
+}
