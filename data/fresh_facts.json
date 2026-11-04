@@ -1,46 +1,54 @@
 {
-  "generated_at": "2026-11-04T01:54:55.055354+00:00",
+  "generated_at": "2026-11-04T20:16:59.990728+00:00",
   "window_hours": 8,
   "faits": [
     {
-      "sujet": "Élections de mi-mandat américaines",
-      "fait": "Le sénateur démocrate Jon Ossoff remporte la course au Sénat en Géorgie pour un second mandat, selon Al Jazeera. Les démocrates remportent également un siège au Sénat en Caroline du Nord, selon Le Devoir."
+      "sujet": "Élections américaines de mi-mandat 2026",
+      "fait": "Les démocrates remportent la majorité au Sénat et à la Chambre des représentants, s'imposant même dans des bastions républicains. Selon Radio-Canada, les démocrates s'attendent à au moins 255 sièges à la Chambre."
     },
     {
-      "sujet": "Aide militaire américaine à Israël",
-      "fait": "Le président Donald Trump annonce son intention d'arrêter le versement annuel de 3,8 milliards de dollars d'aide militaire à Israël d'ici la fin de l'année, selon Al Jazeera."
+      "sujet": "Marchés financiers post-élections",
+      "fait": "Les actions et obligations montent tandis que le dollar baisse après le vote américain. Selon Reuters, Wall Street rallye après la victoire démocrate au Congrès, les investisseurs pariant qu'un Washington divisé signifie moins de chocs politiques."
     },
     {
-      "sujet": "Négociations commerciales Canada-États-Unis",
-      "fait": "Le premier ministre canadien Mark Carney déclare que des négociations commerciales « plus intensives » avec les États-Unis sont en cours, et que les États-Unis « demandent moins et offrent plus », selon CBC et La Presse."
+      "sujet": "Infrastructure en eau potable à Montréal",
+      "fait": "Le réseau de distribution et de production d'eau potable de Montréal arrive « à un point critique », selon l'administration Martinez Ferrada citée par La Presse, qui appelle le gouvernement à en faire une priorité."
     },
     {
-      "sujet": "Résultats financiers d'AMD",
-      "fait": "AMD rapporte un chiffre d'affaires trimestriel record de 13,4 milliards de dollars au Q3 2026, avec un revenu du secteur centres de données de 8,5 milliards de dollars, et prévoit 17 milliards de dollars au trimestre suivant, selon The Verge."
+      "sujet": "Fraude fiscale au Québec",
+      "fait": "Nadine Morandi, une Montréalaise, a été condamnée à payer plus de 107 000 $ et à 12 mois de prison avec sursis pour fausses factures et déclarations d'impôt trompeuses, selon Revenu Québec relayé par La Presse."
     },
     {
-      "sujet": "Politique de confidentialité des mods informatiques",
-      "fait": "Nexus Mods, le principal site de mods pour jeux PC, rend obligatoire la déclaration de l'utilisation de l'IA dans les nouveaux téléchargements de mods, selon The Verge."
+      "sujet": "Tarifs commerciaux Canada-Chine",
+      "fait": "La Chine prolonge le traitement sans tarifs pour certains produits agricoles et fruits de mer canadiens pour deux années supplémentaires, annonce le gouvernement fédéral selon CBC."
     },
     {
-      "sujet": "Crash ferroviaire en Espagne",
-      "fait": "Le ministre espagnol des Transports démissionne après une collision ferroviaire mortelle qui a tué au moins 69 personnes au sud de Madrid, selon BBC World."
+      "sujet": "Attaque d'ours grizzly en Colombie-Britannique",
+      "fait": "La Nuxalk Nation recommande aux résidents de rester à l'intérieur dès 20h suite à une attaque d'ours grizzly présumée qui a tué une mère et sa fille près de Bella Coola, selon CBC."
     },
     {
-      "sujet": "Plan d'approvisionnement d'Hydro-Québec",
-      "fait": "Hydro-Québec dépose son plan d'approvisionnement 2027-2041 à la Régie de l'énergie, reportant à 2041 les objectifs précédemment fixés pour 2035 (accroissement de 30% de la production), selon Le Devoir."
+      "sujet": "Vaccination contre le virus Ebola",
+      "fait": "L'OMS approuve les essais de deux nouveaux vaccins Ebola conçus pour le virus Bundibugyo qui a tué plus de 5 300 personnes en République démocratique du Congo, selon Al Jazeera."
     },
     {
-      "sujet": "Arrestation FBI aux États-Unis",
-      "fait": "Le FBI arrête un homme de l'Oklahoma City accusé d'avoir envoyé plus de 700 lettres menaçantes à des responsables américains contenant de la poudre blanche, selon Al Jazeera."
+      "sujet": "Décisions politiques municipales à Winnipeg",
+      "fait": "Le maire Scott Gillingham annonce cinq conseillers municipaux pour son cercle rapproché une semaine après les élections, selon Global News."
     },
     {
-      "sujet": "Violation de données Crime Stoppers",
-      "fait": "L'ombudsman de la Colombie-Britannique lance une enquête suite à une violation de données chez Crime Stoppers qui a exposé plus de 1,5 million de signalements anonymes à travers le Canada, selon CBC."
+      "sujet": "Trump reconnaît l'impact de la guerre en Iran",
+      "fait": "Le président américain Trump reconnaît que la guerre en Iran a nui aux républicains et à sa capacité à « transférer l'amour » pour lui, selon Reuters et Radio-Canada."
     },
     {
-      "sujet": "Élections municipales au Canada",
-      "fait": "Le maire Scott Gillingham et les 15 nouveaux élus du conseil municipal de Winnipeg prêtent serment et tiennent une séance inaugurale mardi, selon Global News."
+      "sujet": "Incident routier à Vancouver",
+      "fait": "Un tracteur-remorque frappe le viaduc Ladner Trunk sur l'autoroute 99 mercredi matin, provoquant un embouteillage important, selon Global News."
+    },
+    {
+      "sujet": "Partenariat océanographique québécois",
+      "fait": "Le réseau MEOPAR et le Centre pour la collaboration en connaissance de l'océan lancent un partenariat pluriannuel pour renforcer la mobilisation des connaissances dans le secteur océanique, selon Les Affaires."
+    },
+    {
+      "sujet": "Revendications des Premières Nations",
+      "fait": "La cheffe nationale de l'Assemblée des Premières Nations, Cindy Woodhouse Nepinak, demande dans le budget fédéral 2026 un financement soutenu pour les services et l'infrastructure des Premières Nations, selon CBC."
     }
   ]
 }
