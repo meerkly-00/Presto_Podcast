@@ -1,54 +1,50 @@
 {
-  "generated_at": "2026-11-04T20:16:59.990728+00:00",
+  "generated_at": "2026-11-05T02:00:34.729304+00:00",
   "window_hours": 8,
   "faits": [
     {
-      "sujet": "Élections américaines de mi-mandat 2026",
-      "fait": "Les démocrates remportent la majorité au Sénat et à la Chambre des représentants, s'imposant même dans des bastions républicains. Selon Radio-Canada, les démocrates s'attendent à au moins 255 sièges à la Chambre."
+      "sujet": "Rentrée parlementaire québécoise reportée",
+      "fait": "Le gouvernement péquiste a repoussé la rentrée parlementaire au 1er décembre, soit deux semaines après la date initialement prévue. Selon Radio-Canada, cette décision survient après un premier report d'une semaine."
     },
     {
-      "sujet": "Marchés financiers post-élections",
-      "fait": "Les actions et obligations montent tandis que le dollar baisse après le vote américain. Selon Reuters, Wall Street rallye après la victoire démocrate au Congrès, les investisseurs pariant qu'un Washington divisé signifie moins de chocs politiques."
+      "sujet": "Nouvelle direction de l'Agence spatiale canadienne",
+      "fait": "Alexander MacDonald, ancien économiste en chef de la NASA, a été nommé président de l'Agence spatiale canadienne le mercredi soir. Selon CBC, cette nomination a été annoncée en fin de soirée mercredi."
     },
     {
-      "sujet": "Infrastructure en eau potable à Montréal",
-      "fait": "Le réseau de distribution et de production d'eau potable de Montréal arrive « à un point critique », selon l'administration Martinez Ferrada citée par La Presse, qui appelle le gouvernement à en faire une priorité."
+      "sujet": "Élections de mi-mandat américaines 2026",
+      "fait": "Les démocrates ont remporté le contrôle des deux chambres du Congrès américain en remportant des sièges profondément républicains au Texas, en Caroline du Sud et au Kansas. Selon Al Jazeera, cette vague électorale a porté des femmes, des politiciens noirs, musulmans, gays et autochtones à des postes historiques."
     },
     {
-      "sujet": "Fraude fiscale au Québec",
-      "fait": "Nadine Morandi, une Montréalaise, a été condamnée à payer plus de 107 000 $ et à 12 mois de prison avec sursis pour fausses factures et déclarations d'impôt trompeuses, selon Revenu Québec relayé par La Presse."
+      "sujet": "Meurtre à Montréal en visioconférence",
+      "fait": "Youcef Moussaoui, accusé du meurtre de Leïla Ben Salem tuée en pleine visioconférence en septembre, s'est enlevé la vie en prison une semaine après son arrestation. Selon La Presse, aucun procès n'aura lieu."
     },
     {
-      "sujet": "Tarifs commerciaux Canada-Chine",
-      "fait": "La Chine prolonge le traitement sans tarifs pour certains produits agricoles et fruits de mer canadiens pour deux années supplémentaires, annonce le gouvernement fédéral selon CBC."
+      "sujet": "Données de district scolaire piratées en Colombie-Britannique",
+      "fait": "Un groupe de pirates informatiques russes a posté les données volées du district scolaire de Burnaby sur le dark web. Selon CBC, il s'agit d'une opération du groupe de rançongiciel Qilin."
     },
     {
-      "sujet": "Attaque d'ours grizzly en Colombie-Britannique",
-      "fait": "La Nuxalk Nation recommande aux résidents de rester à l'intérieur dès 20h suite à une attaque d'ours grizzly présumée qui a tué une mère et sa fille près de Bella Coola, selon CBC."
+      "sujet": "Records de chaleur en novembre au Québec",
+      "fait": "Le Québec a enregistré des records de chaleur le mercredi 4 novembre. Selon le Journal de Montréal et CBC, certaines régions de l'Ontario et du Québec ont connu des températures record permettant des activités de plage."
     },
     {
-      "sujet": "Vaccination contre le virus Ebola",
-      "fait": "L'OMS approuve les essais de deux nouveaux vaccins Ebola conçus pour le virus Bundibugyo qui a tué plus de 5 300 personnes en République démocratique du Congo, selon Al Jazeera."
+      "sujet": "Fraude aux certificats d'immigration québécoise",
+      "fait": "Une ancienne employée du ministère de l'Immigration du Québec aurait livré plus de 100 faux certificats de sélection entre 2016 et 2019. Selon La Presse, cette fraude a été révélée par une enquête du Commissaire à la lutte contre la corruption."
     },
     {
-      "sujet": "Décisions politiques municipales à Winnipeg",
-      "fait": "Le maire Scott Gillingham annonce cinq conseillers municipaux pour son cercle rapproché une semaine après les élections, selon Global News."
+      "sujet": "Accord commercial sino-canadien prolongé",
+      "fait": "L'accord commercial entre la Chine et le Canada a été prolongé jusqu'à fin 2028. Selon BNN Bloomberg, cette extension a été annoncée mercredi."
     },
     {
-      "sujet": "Trump reconnaît l'impact de la guerre en Iran",
-      "fait": "Le président américain Trump reconnaît que la guerre en Iran a nui aux républicains et à sa capacité à « transférer l'amour » pour lui, selon Reuters et Radio-Canada."
+      "sujet": "Piratage de téléphones via flaws iOS et Android",
+      "fait": "Des pirates informatiques, probablement liés au service de renseignement étranger russe, ont exploité des failles iOS et Android déjà corrigées pour infecter les téléphones de visiteurs de centaines de sites web. Selon Ars Technica, les attaquants ont volé des cookies de navigateur et, dans certains cas, des mots de passe Wi-Fi et des données complètes d'appareils mobiles."
     },
     {
-      "sujet": "Incident routier à Vancouver",
-      "fait": "Un tracteur-remorque frappe le viaduc Ladner Trunk sur l'autoroute 99 mercredi matin, provoquant un embouteillage important, selon Global News."
+      "sujet": "Qualcomm prévoit croissance data center",
+      "fait": "Qualcomm prévoit un chiffre d'affaires de 650 millions de dollars dans les data centers au premier trimestre 2027, atteignant 5 milliards d'euros fin 2027 et 15 milliards en 2029. Selon The Verge, cette expansion compense la baisse de 20 % des ventes de smartphones par rapport à 2025."
     },
     {
-      "sujet": "Partenariat océanographique québécois",
-      "fait": "Le réseau MEOPAR et le Centre pour la collaboration en connaissance de l'océan lancent un partenariat pluriannuel pour renforcer la mobilisation des connaissances dans le secteur océanique, selon Les Affaires."
-    },
-    {
-      "sujet": "Revendications des Premières Nations",
-      "fait": "La cheffe nationale de l'Assemblée des Premières Nations, Cindy Woodhouse Nepinak, demande dans le budget fédéral 2026 un financement soutenu pour les services et l'infrastructure des Premières Nations, selon CBC."
+      "sujet": "Performance améliorée de l'application web X",
+      "fait": "X a lancé une version mise à jour de son application web qui charge les profils en 2,7 secondes au lieu de plus de 22 secondes sur l'ancienne version. Selon The Verge, cette amélioration remplace trois serveurs par un seul."
     }
   ]
 }
