@@ -1,0 +1,14 @@
+{
+  "date": "2026-11-05",
+  "kind": "poll",
+  "text": "Ce matin → Le ministre Carney présente un budget de 62,3 G$ de déficit.\n\nCrois-tu que les investissements en culture et les chèques d'aide ponctuelle répondent aux priorités budgétaires du Canada?",
+  "poll": {
+    "options": [
+      "Oui, c'est bien ciblé",
+      "Non, il faudrait couper",
+      "Oui et non, c'est",
+      "Trop tôt pour juger"
+    ],
+    "duration_minutes": 1440
+  }
+}
