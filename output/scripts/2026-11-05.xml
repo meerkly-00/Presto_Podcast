@@ -1,0 +1,95 @@
+# Script Presto — jeudi 5 novembre 2026
+
+```xml
+<script>
+  <intro>Bonjour, on est le jeudi cinq novembre deux mille vingt-six. Voici votre Presto en environ quinze minutes. Au menu : les suites des élections américaines et le vent de panique chez les républicains, le dossier des menaces à la bombe qui perturbent le trafic aérien en Europe, l'actualité québécoise avec la loi cent un au cégep et la pression sur le SPVM, l'économie et les marchés secoués par le résultat électoral, et la tech avec les géants de l'intelligence artificielle qui continuent de dépenser massivement.</intro>
+
+  <chapitre titre="International : les suites du séisme électoral américain">
+    On commence par les États-Unis, où les retombées politiques de la déroute républicaine de mardi continuent de se faire sentir. Selon Al Jazeera, le vice-président JD Vance a livré une critique acerbe du bilan électoral du parti, pointant la guerre contre l'Iran comme un facteur déterminant de la défaite. Al Jazeera précise qu'il s'agit d'une des ruptures les plus nettes avec un président en poste depuis longtemps. Toujours selon Al Jazeera, plusieurs proches de Donald Trump prennent maintenant leurs distances par rapport à ce conflit, alors que les démocrates se préparent à utiliser leur nouvelle majorité au Congrès pour tenter de l'encadrer.
+
+    La BBC rapporte que les démocrates, avec le contrôle des deux chambres, pourront faire adopter des projets de loi, mais que Donald Trump conserve son droit de veto. La marge de manœuvre réelle du nouveau Congrès reste donc à déterminer.
+
+    CBC rapporte que la première dame Melania Trump se prépare à recevoir des représentants russes et ukrainiens, dans ce que plusieurs observateurs décrivent comme une tentative de la Maison-Blanche de projeter une image de leadership sur la scène internationale, après la déroute électorale intérieure.
+
+    Du côté des analyses à plus long terme, CBC souligne que le Texas et l'Ohio, deux États traditionnellement républicains, sont passés aux mains des démocrates mardi soir. Certains observateurs politiques cités par CBC estiment que ces gains ne garantissent pas que ces États resteront démocrates, mais qu'ils deviennent désormais des champs de bataille électoraux en vue de la présidentielle de deux mille vingt-huit.
+
+    Reuters, de son côté, analyse les conséquences internationales de cet affaiblissement politique de Donald Trump. Selon l'agence, cette situation pourrait représenter un gain à court terme mais une complication à long terme pour la Chine dans ses relations avec Washington.
+
+    Ailleurs à l'international, la BBC rapporte que des menaces à la bombe ont forcé plusieurs avions à effectuer des atterrissages d'urgence imprévus en Europe jeudi matin, notamment en Tchéquie, en Pologne et en France. Il s'agit, selon la BBC, de la plus récente d'une série de menaces similaires visant des vols en Europe.
+
+    Toujours en France, la BBC rapporte que cinq syndicats se joignent à une vague de grèves et de manifestations dans le cadre d'une journée de mobilisation nationale.
+
+    En Asie, la BBC et CBC rapportent que le militant pro-démocratie hongkongais Joshua Wong a été condamné à dix ans de prison, sa deuxième condamnation en vertu de la loi sur la sécurité nationale imposée par Pékin. CBC précise que des critiques y voient le reflet de la répression continue du mouvement pro-démocratie dans l'ancienne colonie britannique.
+
+    En Afrique du Sud, Reuters rapporte un recul important de l'appui au Congrès national africain dans les premiers résultats des élections municipales.
+
+    Enfin, Al Jazeera rapporte qu'un mois après le début de l'offensive du gouvernement yéménite, une guerre d'usure s'installe entre les forces gouvernementales, appuyées par l'Arabie saoudite, et les Houthis, qui subissent des pertes mais infligent également des dommages importants aux forces gouvernementales.
+  </chapitre>
+
+  <chapitre titre="Économie et marchés : le marché digère le résultat électoral américain">
+    On passe à l'économie, où le résultat des élections de mi-mandat continue de dicter le ton. Selon l'Associated Press, les actions américaines ont bondi mercredi, l'indice Dow Jones gagnant environ mille cinq cents points, alors que les prix du pétrole ont fortement reculé. Le Wall Street Journal confirme que les actions américaines ont progressé nettement après la victoire démocrate au Congrès.
+
+    Reuters précise que les marchés saluent cette victoire démocrate, misant sur le fait qu'un Washington divisé entraînerait moins de chocs politiques imprévus à l'avenir.
+
+    Selon le Financial Times, le pétrole est passé sous la barre des cent dollars américains le baril, porté par des espoirs de paix après l'élection. Bloomberg précise que le prix du pétrole a prolongé sa glissade après avoir chuté de huit pour cent, les investisseurs misant sur des perspectives d'apaisement dans la guerre entre les États-Unis et l'Iran.
+
+    Le Wall Street Journal rapporte par ailleurs que les rendements obligataires américains ont reculé à la suite du résultat électoral et de la baisse du prix du pétrole. Bloomberg ajoute que l'or se maintient au-dessus de quatre mille dollars américains l'once, alors que le dollar américain et les rendements obligataires reculent.
+
+    Toujours selon Bloomberg, les actions chinoises du secteur des énergies renouvelables ont prolongé leur envolée à la suite de la victoire démocrate.
+
+    Du côté des perdants de la séance, Reuters rapporte que les actions technologiques liées à l'intelligence artificielle, de même que les titres du secteur des centres de données, ont reculé, les investisseurs anticipant des changements de politique après ce vote.
+
+    Au Canada, le Financial Times rapporte que la victoire démocrate a déclenché ce que le journal décrit comme des réactions de soulagement du côté canadien, Donald Trump se retrouvant affaibli politiquement après ce scrutin. BNN Bloomberg précise que ce résultat pourrait aussi représenter un tournant pour l'industrie canadienne de l'aluminium.
+
+    Toujours selon BNN Bloomberg, l'accord commercial entre le Canada et la Chine a été prolongé jusqu'à la fin de deux mille vingt-huit. Et du côté de l'automobile, BNN Bloomberg rapporte que les ventes ont connu une cinquième hausse consécutive, malgré des vents économiques contraires, selon la firme DesRosiers.
+
+    Dans les nouvelles d'entreprises, Reuters rapporte que CVS Health va scinder son entreprise évaluée à cent dix-sept milliards de dollars, séparant ses activités de pharmacie de ses activités d'assurance. Les actions de l'entreprise ont reculé à la suite de cette annonce.
+
+    Côté québécois, Les Affaires rapporte que la firme montréalaise Avenir Global renforce sa présence internationale avec l'acquisition de Marker Collective, une entreprise spécialisée en technologies. Les Affaires rapporte aussi les résultats du troisième trimestre de Métaux Russel.
+
+    Enfin, à Ottawa, Radio-Canada se penche sur le budget fédéral du ministre des Finances François-Philippe Champagne. Le gouvernement de Mark Carney a dépensé abondamment ces derniers mois, et Radio-Canada identifie cinq éléments à surveiller pour voir comment Ottawa compte équilibrer ses chiffres. Le Devoir souligne par ailleurs que la mention de la formule "maîtres chez nous" dans ce budget, en lien avec le dossier de Churchill Falls au Labrador, suscite des réactions chez les Innus, qui rappellent que ce territoire est aussi chez eux.
+  </chapitre>
+
+  <chapitre titre="Actualité québécoise">
+    Au Québec, La Presse se penche sur la pression qui pèse sur le directeur du Service de police de la Ville de Montréal, Fady Dagher. Le journal décrit l'année deux mille vingt-six du SPVM comme à la fois exceptionnelle et catastrophique.
+
+    Toujours à Montréal, La Presse rapporte que des manifestants d'extrême gauche ont vandalisé la résidence du dirigeant d'une grande entreprise de vidéosurveillance le soir de l'Halloween. La police s'est voulue rassurante quant à l'expansion de son réseau de caméras dans la ville.
+
+    En politique linguistique, La Presse et Le Devoir rapportent que l'engagement du Parti québécois d'étendre la loi cent un au niveau collégial se heurte à un mur : tous les partis d'opposition s'y opposent. Cette mesure interdirait aux francophones et aux allophones de fréquenter un cégep de langue anglaise. Le ministre de la Langue française, Pascal Bérubé, fait donc face à un premier défi politique important sur ce dossier.
+
+    Dans un autre registre, La Presse et Le Devoir rapportent les résultats d'une étude sur les jeux de hasard en ligne. Si la popularité du jeu en général est en forte baisse depuis vingt ans, le jeu en ligne progresse fortement, en particulier chez les jeunes hommes. Près d'un jeune Montréalais sur cinq a joué en ligne en deux mille vingt-cinq, selon cette étude. Des chercheurs cités par La Presse qualifient la situation de réel enjeu de santé publique.
+
+    Du côté d'Ottawa, Radio-Canada rapporte que le vérificateur général critique les retards et les dépassements de coûts d'une plateforme numérique de perception des droits de douane développée pour l'Agence des services frontaliers du Canada, un projet évalué à environ huit cents millions de dollars qui n'a pas généré les gains d'efficience prévus.
+
+    Enfin, Radio-Canada rapporte la découverte d'un baril militaire mystérieux sur une île du Saint-Laurent, qui pourrait provenir d'un laboratoire secret d'anthrax actif durant la Deuxième Guerre mondiale.
+  </chapitre>
+
+  <chapitre titre="Tech : l'intelligence artificielle, toujours au centre des dépenses et des tensions">
+    Du côté de la tech, The Verge revient sur les récents résultats trimestriels des quatre plus grands acteurs de la course à l'intelligence artificielle. Selon le site, deux constats se dégagent : les géants technologiques ne ralentissent pas leurs dépenses records dans la construction de centres de données pour l'intelligence artificielle, et ces investissements ne se rapprochent pas des rendements promis. Amazon, Microsoft, Alphabet et Meta ont indiqué aux investisseurs qu'ils prévoient dépenser au moins sept cent vingt milliards de dollars en dépenses en capital cette année seulement, en grande partie pour cette infrastructure, en plus de mille milliards de dollars d'engagements déjà annoncés. The Verge souligne qu'aucun signe ne laisse présager un ralentissement volontaire de ce rythme de dépenses.
+
+    TechCrunch rapporte d'ailleurs que l'opposition à l'implantation de centres de données a traversé les lignes partisanes lors des élections de mardi, un enjeu qui pourrait s'intensifier après ce scrutin. Toujours selon TechCrunch, des comités d'action politique liés à l'industrie de l'intelligence artificielle ont dépensé des millions de dollars pour tenter d'influencer la composition du Congrès lors de ces élections de mi-mandat, avec des résultats mitigés.
+
+    Dans la même veine, The Verge rapporte que Qualcomm mise désormais fortement sur les centres de données, alors que ses ventes de semi-conducteurs pour téléphones intelligents ont chuté d'environ vingt pour cent par rapport à deux mille vingt-cinq. L'entreprise prévoit des revenus d'environ six cent cinquante millions de dollars dans ce secteur au premier trimestre de deux mille vingt-sept, avec une croissance projetée à quinze milliards de dollars d'ici deux mille vingt-neuf.
+
+    TechCrunch rapporte aussi qu'Apple réduirait significativement les budgets alloués à l'utilisation interne de l'intelligence artificielle par ses équipes d'ingénierie.
+
+    Ailleurs en tech, TechCrunch rapporte qu'Amazon a choisi Uber Eats comme nouveau partenaire officiel de livraison de repas pour les membres Prime aux États-Unis, mettant ainsi fin à son partenariat avec GrubHub.
+
+    Du côté de la cybersécurité, Ars Technica rapporte que des pirates informatiques, possiblement liés au service de renseignement extérieur russe, ont exploité des failles déjà corrigées sur iOS et Android pour tenter d'infecter les téléphones de visiteurs de plusieurs sites web, dont un site célébrant l'anniversaire de l'indépendance américaine. Les chercheurs cités par Ars Technica évaluent avec un niveau de confiance modéré à élevé l'implication de ce service russe.
+
+    CBC rapporte par ailleurs que les bibliothèques universitaires font face à un déferlement de robots d'exploration de données, qui ralentissent ou font planter des sites destinés aux étudiants, aux chercheurs et au public, alors que des entreprises d'intelligence artificielle cherchent du contenu pour alimenter leurs grands modèles de langage.
+
+    Enfin, The Verge rapporte que X a lancé une nouvelle version de son application web, nettement plus rapide selon l'entreprise. Un ingénieur principal de X cité par The Verge affirme que le temps de chargement d'un profil sur une connexion lente est passé de plus de vingt-deux secondes à environ trois secondes.
+  </chapitre>
+
+  <chapitre titre="Sport">
+    Rapidement en sport. À Ottawa, les Sénateurs ont battu les Sabres de Buffalo deux à un, selon Sportsnet, grâce à un but de Michael Amadio en fin de troisième période.
+
+    En basketball, Sportsnet rapporte que les Raptors de Toronto ont connu un effondrement en troisième quart, s'inclinant face aux Nuggets de Denver après un bon début de match.
+
+    En soccer européen, Al Jazeera rapporte que l'attaquant anglais Harry Kane a prolongé son contrat avec le Bayern Munich jusqu'en deux mille vingt-neuf.
+  </chapitre>
+
+  <outro>Voilà pour ce Presto du jeudi cinq novembre deux mille vingt-six. Si ce briefing vous est utile, le meilleur coup de main que vous pouvez nous donner, c'est de le partager à une personne qui aime rester informée. Et selon votre plateforme : un abonnement sur Spotify ou Apple Podcasts, un pouce bleu et un abonnement sur YouTube, ça prend deux secondes et ça aide vraiment Presto à grandir. Sur ce, bonne journée, et à demain.</outro>
+</script>
+```
