@@ -1,50 +1,54 @@
 {
-  "generated_at": "2026-11-05T02:00:34.729304+00:00",
+  "generated_at": "2026-11-05T20:29:05.127180+00:00",
   "window_hours": 8,
   "faits": [
     {
-      "sujet": "Rentrée parlementaire québécoise reportée",
-      "fait": "Le gouvernement péquiste a repoussé la rentrée parlementaire au 1er décembre, soit deux semaines après la date initialement prévue. Selon Radio-Canada, cette décision survient après un premier report d'une semaine."
+      "sujet": "Budget fédéral canadien 2026",
+      "fait": "Le ministre fédéral des Finances présentera son deuxième budget à la Chambre des communes peu après 16h. Selon Radio-Canada, cette présentation intervient après la première rencontre officielle entre Mark Carney et le premier ministre lors du Sommet de la Francophonie à Phnom Penh."
     },
     {
-      "sujet": "Nouvelle direction de l'Agence spatiale canadienne",
-      "fait": "Alexander MacDonald, ancien économiste en chef de la NASA, a été nommé président de l'Agence spatiale canadienne le mercredi soir. Selon CBC, cette nomination a été annoncée en fin de soirée mercredi."
+      "sujet": "Commutation des peines de mort en Californie",
+      "fait": "Le gouverneur californien Gavin Newsom a commué les peines de mort de 548 personnes condamnées à capital. Selon Global News et BBC World, cette décision intervient alors que Newsom se prépare à quitter ses fonctions après huit ans."
     },
     {
-      "sujet": "Élections de mi-mandat américaines 2026",
-      "fait": "Les démocrates ont remporté le contrôle des deux chambres du Congrès américain en remportant des sièges profondément républicains au Texas, en Caroline du Sud et au Kansas. Selon Al Jazeera, cette vague électorale a porté des femmes, des politiciens noirs, musulmans, gays et autochtones à des postes historiques."
+      "sujet": "Grèves et manifestations en France",
+      "fait": "Plus de 250 000 personnes ont manifesté en France jeudi suite à un appel à la grève de cinq syndicats. D'après Al Jazeera et BBC World, l'intérieur français estime à 600 000 le nombre de manifestants, tandis que les syndicats avancent un chiffre plus élevé."
     },
     {
-      "sujet": "Meurtre à Montréal en visioconférence",
-      "fait": "Youcef Moussaoui, accusé du meurtre de Leïla Ben Salem tuée en pleine visioconférence en septembre, s'est enlevé la vie en prison une semaine après son arrestation. Selon La Presse, aucun procès n'aura lieu."
+      "sujet": "Interdiction de fracturation pétrolière au Nouveau-Brunswick",
+      "fait": "Le gouvernement libéral de la Première ministre Susan Holt révise l'interdiction de longue date concernant la fracturation hydraulique et le développement du gaz de schiste. Selon Global News, une Première Nation critique le gouvernement de ne pas l'avoir consultée."
     },
     {
-      "sujet": "Données de district scolaire piratées en Colombie-Britannique",
-      "fait": "Un groupe de pirates informatiques russes a posté les données volées du district scolaire de Burnaby sur le dark web. Selon CBC, il s'agit d'une opération du groupe de rançongiciel Qilin."
+      "sujet": "Marché boursier et craintes réglementaires sur l'IA",
+      "fait": "Le Nasdaq s'oriente vers sa plus grande baisse quotidienne en 19 mois en raison des craintes concernant les régulations de l'intelligence artificielle. Selon Reuters et Bloomberg, cette chute affecte particulièrement les valeurs technologiques."
     },
     {
-      "sujet": "Records de chaleur en novembre au Québec",
-      "fait": "Le Québec a enregistré des records de chaleur le mercredi 4 novembre. Selon le Journal de Montréal et CBC, certaines régions de l'Ontario et du Québec ont connu des températures record permettant des activités de plage."
+      "sujet": "Corruption judiciaire au Mexique pour un narcotrafiquant",
+      "fait": "Un juge mexicain a été arrêté pour avoir alléguement accepté un pot-de-vin de 2 millions de dollars américains en échange de la libération du bras droit de Ryan Wedding, ancien athlète olympique canadien. Selon La Presse et CBC, Wedding est accusé d'être un baron de la drogue."
     },
     {
-      "sujet": "Fraude aux certificats d'immigration québécoise",
-      "fait": "Une ancienne employée du ministère de l'Immigration du Québec aurait livré plus de 100 faux certificats de sélection entre 2016 et 2019. Selon La Presse, cette fraude a été révélée par une enquête du Commissaire à la lutte contre la corruption."
+      "sujet": "Initiatives de paix Ukraine-Russie des États-Unis",
+      "fait": "La Première dame américaine Melania Trump a remis jeudi des lettres adressées à Vladimir Poutine et Volodymyr Zelensky appelant à un cessez-le-feu durable. Selon Le Devoir et Al Jazeera, elle a accueilli des responsables russes et ukrainiens à la Maison-Blanche."
     },
     {
-      "sujet": "Accord commercial sino-canadien prolongé",
-      "fait": "L'accord commercial entre la Chine et le Canada a été prolongé jusqu'à fin 2028. Selon BNN Bloomberg, cette extension a été annoncée mercredi."
+      "sujet": "Cyberattaques massives d'équipements frigorifiques",
+      "fait": "Le gouvernement américain avertit d'une menace cyber persistante affectant les équipements frigorifiques industriels, de détail et militaires. Selon TechCrunch, les piratages touchent les secteurs alimentaire, des transports et de la santé."
     },
     {
-      "sujet": "Piratage de téléphones via flaws iOS et Android",
-      "fait": "Des pirates informatiques, probablement liés au service de renseignement étranger russe, ont exploité des failles iOS et Android déjà corrigées pour infecter les téléphones de visiteurs de centaines de sites web. Selon Ars Technica, les attaquants ont volé des cookies de navigateur et, dans certains cas, des mots de passe Wi-Fi et des données complètes d'appareils mobiles."
+      "sujet": "Contestation étudiante en Ontario sur l'aide financière",
+      "fait": "Des étudiants d'universités et de collèges de l'Ontario ont participé à une sortie de classe jeudi pour protester contre les augmentations de frais de scolarité et les réductions du Programme d'aide financière aux étudiants de l'Ontario. Selon CBC, cette mobilisation est à l'échelle provinciale."
     },
     {
-      "sujet": "Qualcomm prévoit croissance data center",
-      "fait": "Qualcomm prévoit un chiffre d'affaires de 650 millions de dollars dans les data centers au premier trimestre 2027, atteignant 5 milliards d'euros fin 2027 et 15 milliards en 2029. Selon The Verge, cette expansion compense la baisse de 20 % des ventes de smartphones par rapport à 2025."
+      "sujet": "Meta et opposition politique aux centres de données",
+      "fait": "Meta avertit que la croissance de l'opposition politique aux centres de données pourrait menacer ses investissements futurs en IA. Selon TechCrunch, les communautés s'opposent aux projets massifs d'infrastructure."
     },
     {
-      "sujet": "Performance améliorée de l'application web X",
-      "fait": "X a lancé une version mise à jour de son application web qui charge les profils en 2,7 secondes au lieu de plus de 22 secondes sur l'ancienne version. Selon The Verge, cette amélioration remplace trois serveurs par un seul."
+      "sujet": "Nouvelle capacité vocale du chatbot Muse de Meta",
+      "fait": "Meta a lancé une fonction de conversation vocale en temps réel avec son agent Muse IA, disponible pour les utilisateurs américains. Selon The Verge et TechCrunch, l'avatar s'anime en synchronisation avec les paroles de l'agent."
+    },
+    {
+      "sujet": "Augmentation des prix chez Maple Leaf Foods",
+      "fait": "Maple Leaf Foods prévoit une nouvelle augmentation de prix au début de l'année prochaine, malgré une hausse tarifaire déjà effectuée cette année. Selon CBC, ces augmentations visent à compenser les coûts d'exploitation en hausse."
     }
   ]
 }
