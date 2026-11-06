@@ -1,0 +1,91 @@
+```xml
+<script>
+  <intro>Bonjour, on est le vendredi six novembre deux mille vingt-six. Voici votre Presto en environ quinze minutes. Au menu : le budget fédéral et ses suites, le déroute technologique qui secoue les marchés mondiaux, les suites politiques des élections américaines, et un mot sur la tech et le sport.</intro>
+
+  <chapitre titre="Économie et marchés">
+    On commence par les marchés, où une correction technologique majeure continue de s'approfondir. Selon Bloomberg, les actions asiatiques se préparent à une nouvelle séance de ventes massives, alors que la déroute liée à l'intelligence artificielle s'intensifie. Le Nikkei japonais est passé sous le seuil des soixante mille points, toujours selon Bloomberg.
+
+    Al Jazeera rapporte que les marchés mondiaux sont ébranlés par des craintes entourant l'expansion des centres de données américains et la réglementation de l'intelligence artificielle. Reuters confirme que les marchés s'inquiètent à la fois de la croissance, de l'inflation, et de l'accélération de cette correction technologique.
+
+    Selon le Wall Street Journal, Wall Street a essuyé ce que le journal qualifie de correction historique des titres technologiques, avec une perte de valeur boursière d'environ deux mille cinq cents milliards de dollars américains. Reuters Business note aussi que les actions de SpaceX et de Tesla ont prolongé leurs pertes, les résultats des élections de mi-mandat brouillant les perspectives sur les centres de données et les fusions à venir.
+
+    The Economist souligne que les investisseurs s'inquiètent qu'une domination démocrate à Washington puisse ralentir l'essor de l'intelligence artificielle. En Corée du Sud, Reuters Business rapporte que les actions ont plongé sous l'effet de cette même correction déclenchée par les résultats électoraux américains.
+
+    Du côté du pétrole, Reuters rapporte que les prix sont en voie d'enregistrer une forte baisse hebdomadaire, les élections de mi-mandat américaines ayant ravivé l'espoir d'une hausse des exportations de brut en provenance du Moyen-Orient. Un autre texte de Reuters souligne que les prix élevés du pétrole freinent la demande, et que de nouveaux signes de surabondance apparaissent sur le marché.
+
+    Ici au pays, Bloomberg rapporte que le gouverneur de la Banque du Canada, Mark Carney, a renouvelé avec le gouvernement fédéral le cadre de politique monétaire axé sur une cible d'inflation de deux pour cent. Du côté des résultats d'entreprises, BNN Bloomberg rapporte que BCE a déclaré des revenus d'exploitation totalisant environ six milliards de dollars au troisième trimestre.
+
+    On reste au pays avec le budget fédéral dévoilé jeudi par le gouvernement Carney, qui continue de générer des réactions. Selon Les Affaires, la CSN affirme que ce budget profite davantage aux personnes les plus nanties. CBC rapporte de son côté que le budget augmente les versements de la prestation canadienne pour l'épicerie et les biens essentiels, élargit un crédit d'impôt pour les travailleurs à faible revenu, et rend remboursable le crédit canadien pour aidant naturel. Le réseau précise toutefois que ces mesures d'abordabilité sont surtout à court terme, les mesures visant à stimuler l'investissement ayant pris le dessus.
+
+    Enfin, du côté immobilier, BNN Bloomberg rapporte que les loyers moyens demandés ont reculé de trois virgule deux pour cent en octobre à l'échelle du pays, même si les prix continuent d'augmenter à Toronto et à Vancouver.
+  </chapitre>
+
+  <chapitre titre="International">
+    On passe à l'international, où les suites politiques des élections de mi-mandat américaines continuent de dominer l'actualité. Selon CBC, le secrétaire américain à la Guerre, Pete Hegseth, a défendu son bilan dans un message vidéo jeudi, qualifiant la guerre contre l'Iran de, je le cite : "courageous and historic". Fin de citation. Il y dénonce aussi ce qu'il appelle une tentative de destitution bidon à son endroit.
+
+    La BBC rapporte de son côté que la Maison-Blanche dément les informations selon lesquelles Hegseth et le secrétaire d'État Marco Rubio pourraient quitter leurs fonctions à la suite des pertes électorales républicaines. Certains médias américains évoquent des appels au remplacement de Hegseth, qui fait face à un possible vote de destitution, tandis que Rubio serait soupçonné de vouloir se présenter à la présidence.
+
+    Toujours selon la BBC, le président Donald Trump a signé un décret visant à préserver le Bureau ovale comme monument national, après avoir procédé à plusieurs changements majeurs dans le décor de la pièce et avoir fait démolir l'aile est de la Maison-Blanche.
+
+    Ailleurs aux États-Unis, l'Associated Press rapporte que la socialiste démocrate Nithya Raman a délogé la mairesse sortante de Los Angeles, Karen Bass, dans ce que CBC qualifie de résultat surprise qui changera la trajectoire de la deuxième ville en importance du pays. The Economist qualifie ce résultat de bouleversement générationnel.
+
+    Du côté canadien, CBC rapporte que plusieurs élus républicains ont tenté de prendre leurs distances par rapport à la guerre commerciale de Donald Trump durant la campagne, demandant même le retrait de certains tarifs spécifiques. Malgré cela, les républicains ont perdu. Le réseau précise que les démocrates, traditionnellement associés au protectionnisme, semblent désormais pencher vers une position plus favorable au libre-échange et prêts à chercher une entente avec les républicains. Dans la même veine, le site The Hub rapporte que le premier ministre Mark Carney affirme que les États-Unis ont abandonné certaines demandes liées à la culture et à des pays tiers, ce qui ravive l'espoir d'un allégement tarifaire du côté canadien.
+
+    Du côté du Moyen-Orient, Al Jazeera revient sur l'emprisonnement par le Royaume-Uni d'un marin indien pour violation des sanctions contre la Russie, un dossier que le média qualifie de point de départ d'une tempête diplomatique parfaite. Le capitaine Ajay Pant se trouvait en eaux internationales lorsque son pétrolier, soupçonné de faire partie d'une flotte fantôme, a été intercepté par des soldats britanniques.
+
+    En Amérique latine, Al Jazeera rapporte qu'un tribunal a accordé une assignation à résidence à l'ex-premier ministre malaisien Najib Razak, après le paiement d'une amende de douze millions de dollars américains financée par sociofinancement, en échange d'un pardon royal.
+
+    En Amérique du Sud, l'Associated Press rapporte que le président du Paraguay, Santiago Peña, fait l'objet d'une enquête et risque d'être démis de ses fonctions à la suite de l'effondrement d'une banque.
+
+    Toujours à l'international, la BBC rapporte que le pape Léon entreprend un long séjour en Amérique latine, quelques semaines après une opération pour un cancer du poumon. Il visitera l'Uruguay, l'Argentine et le Pérou.
+
+    En France, la BBC rapporte qu'un accident d'autobus a fait deux morts, soit un enfant et un jeune adulte, selon les autorités locales. Plusieurs autres personnes ont été blessées.
+
+    Enfin, CBC rapporte que le gouverneur de la Californie, Gavin Newsom, commuera les peines de mort de plus de cinq cents détenus en peines d'emprisonnement à vie sans libération conditionnelle. Selon lui, l'exécution par l'État est incompatible avec les valeurs de la Californie.
+  </chapitre>
+
+  <chapitre titre="Actualité québécoise">
+    Au Québec, La Presse rapporte dans sa revue de presse que l'animateur Paul Arcand commente ce matin le budget fédéral dévoilé jeudi par le gouvernement Carney, ainsi que la chute des marchés boursiers. Il s'attarde aussi au contenu culturel québécois, le ministre Mathieu Bérubé souhaitant la création d'une seule plateforme numérique pour le diffuser.
+
+    Toujours sur le budget, Radio-Canada rapporte que le milieu culturel québécois a réservé un accueil tiède au budget fédéral de deux mille vingt-six, certains y voyant une incertitude totale, d'autres une bouffée d'air frais. Le réseau note aussi un léger retour du balancier en faveur d'un filet social plus solide dans ce budget, notamment sur les enjeux liés à l'itinérance et à la productivité.
+
+    À Québec, Radio-Canada rapporte que la formation en éthique demeure optionnelle pour les nouveaux députés à l'Assemblée nationale. Parmi les quatre-vingt-dix-neuf nouveaux élus, la majorité n'avait jamais fait de politique auparavant. Le Devoir rapporte de son côté que la Fédération professionnelle des journalistes du Québec entretient des attentes élevées envers le nouveau gouvernement provincial, réclamant des actions concrètes pour garantir l'accès à l'information dès la première année du mandat.
+
+    Du côté montréalais, La Presse rapporte qu'on peut désormais acheter un billet de Lotto 6/49 directement chez Dollarama. Certains clients de la chaîne de magasins à bas prix jugent malsain de les cibler ainsi, alors que des experts évoquent un risque de banalisation de la loterie. Dans un autre registre, Global News rapporte qu'une nouvelle étude démontre que le jeu en ligne a plus que doublé chez les jeunes hommes montréalais, les fournisseurs de traitement rapportant une hausse des demandes d'aide chez cette clientèle.
+
+    Sur le plan judiciaire, le Journal de Montréal rapporte que les coupables des meurtres de Daniel Langlois et de Dominique Marchand, survenus en Dominique, connaîtront leur peine le vingt-trois novembre.
+
+    Enfin, un fait divers tragique : le Journal de Montréal rapporte qu'une sortie de route a coûté la vie à un jeune homme de dix-huit ans à Oka.
+  </chapitre>
+
+  <chapitre titre="Tech">
+    Du côté de la tech, Tesla occupe l'actualité. Selon The Verge, l'entreprise entame le retrait progressif de la production du Cybertruck, prévu pour le milieu de l'année prochaine. Dans un message publié sur X, le chef de la direction Elon Musk explique vouloir faire de la place à une production accrue du Cybercab. Reuters confirme l'information, précisant que Tesla peine à faire croître la popularité du véhicule depuis son lancement.
+
+    Toujours en intelligence artificielle, The Verge rapporte qu'OpenAI annonce reculer sur l'usage d'ententes de confidentialité pour ses projets de centres de données, après que les électeurs américains ont exprimé lors des élections de mi-mandat une opposition marquée à l'expansion de ces installations. L'entreprise affirme ne garder que des protections limitées, couvrant la sécurité, les secrets commerciaux et l'information sensible sur le plan concurrentiel.
+
+    Dans le secteur de la sécurité, TechCrunch rapporte que Palo Alto Networks négocie l'achat de la jeune pousse Clutch, spécialisée en sécurité des agents d'intelligence artificielle, pour environ cinq cents millions de dollars américains. L'entreprise avait été évaluée à environ quatre-vingt-cinq millions de dollars lors de son plus récent tour de financement.
+
+    Du côté des fusions, TechCrunch et The Verge rapportent que le New York Times négocie l'achat de Letterboxd, la plateforme sociale dédiée aux cinéphiles, pour environ trois cent trente millions de dollars américains. Selon le Times, les cofondateurs de Letterboxd pourraient demeurer en poste tout en relevant d'un dirigeant du journal.
+
+    Toujours en intelligence artificielle, The Verge rapporte qu'Airbnb prévoit déployer un agent voyage basé sur l'intelligence artificielle au cours de la première moitié de deux mille vingt-sept, selon sa lettre aux actionnaires du troisième trimestre.
+
+    En matière de surveillance, TechCrunch rapporte qu'au moins dix administrations locales ont cessé d'utiliser les caméras de surveillance de l'entreprise Flock depuis l'été, invoquant des enjeux de vie privée, de partage de données et d'approvisionnement.
+
+    Par ailleurs, TechCrunch rapporte que Meta, Google et TikTok poursuivent le procureur général de la Californie au sujet d'une loi visant à restreindre l'accès des réseaux sociaux aux jeunes de moins de seize ans, qui doit entrer en vigueur l'an prochain.
+
+    Enfin, Ars Technica rapporte que Blue Origin a annoncé deux améliorations majeures à sa fusée New Glenn, réduisant le coût de fabrication du véhicule tout en augmentant sa capacité à livrer des charges utiles en orbite géostationnaire et vers la Lune. Selon le chef de la direction Dave Limp, la demande pour des lancements n'a jamais été aussi forte.
+  </chapitre>
+
+  <chapitre titre="Sport">
+    Rapidement en sport. Au hockey, Sportsnet rapporte que les Canucks de Vancouver ont connu un net recul, s'inclinant largement face aux Jets de Winnipeg, qui ont profité de l'élan tiré de leur victoire contre Montréal plus tôt cette semaine, selon Global News.
+
+    À Montréal, le Journal de Montréal et Sportsnet rapportent que le Canadien a répondu avec caractère, revenant de l'arrière pour battre le Mammoth en prolongation, après la défaite embarrassante subie plus tôt dans la semaine.
+
+    À Edmonton, Global News rapporte que les Oilers se sont inclinés quatre à cinq face aux Ducks d'Anaheim, une deuxième défaite consécutive. Sportsnet rapporte par ailleurs que la star des Oilers, Connor McDavid, s'est montrée passionnée dans ses commentaires d'après-match au sujet d'une mise en échec qu'il a qualifiée de dangereuse.
+
+    En soccer, l'Associated Press rapporte que Cristiano Ronaldo a annoncé sa retraite de l'équipe nationale du Portugal.
+  </chapitre>
+
+  <outro>Voilà pour ce Presto du vendredi six novembre deux mille vingt-six. Si ce briefing vous est utile, le meilleur coup de main que vous pouvez nous donner, c'est de le partager à une personne qui aime rester informée. Et selon votre plateforme : un abonnement sur Spotify ou Apple Podcasts, un pouce bleu et un abonnement sur YouTube, ça prend deux secondes et ça aide vraiment Presto à grandir. Sur ce, bonne journée, et à demain.</outro>
+</script>
+```
