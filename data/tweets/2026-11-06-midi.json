@@ -1,0 +1,14 @@
+{
+  "date": "2026-11-06",
+  "kind": "poll",
+  "text": "Ce matin → Stephen Miller remplace Susie Wiles au poste de directeur de cabinet de Trump après les élections de mi-mandat.\n\nQuel est ton avis sur cette nomination?",
+  "poll": {
+    "options": [
+      "Changement nécessaire",
+      "Changement risqué",
+      "Détail administratif",
+      "Pas d'opinion"
+    ],
+    "duration_minutes": 1440
+  }
+}
