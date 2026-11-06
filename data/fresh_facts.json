@@ -1,54 +1,50 @@
 {
-  "generated_at": "2026-11-05T20:29:05.127180+00:00",
+  "generated_at": "2026-11-06T02:00:12.284618+00:00",
   "window_hours": 8,
   "faits": [
     {
+      "sujet": "Chute des marchés technologiques mondiaux",
+      "fait": "Le Nasdaq a enregistré sa plus forte baisse quotidienne en 19 mois suite aux craintes de réglementation de l'IA après les élections de mi-mandat américaines. Selon Reuters et Bloomberg, les actions technologiques asiatiques se préparent à une vente de masse tandis que les investisseurs craignent un ralentissement du secteur de l'IA."
+    },
+    {
       "sujet": "Budget fédéral canadien 2026",
-      "fait": "Le ministre fédéral des Finances présentera son deuxième budget à la Chambre des communes peu après 16h. Selon Radio-Canada, cette présentation intervient après la première rencontre officielle entre Mark Carney et le premier ministre lors du Sommet de la Francophonie à Phnom Penh."
+      "fait": "Le gouvernement Carney a annoncé un déficit de 62,3 milliards de dollars et un plan de 142 milliards de dollars pour stimuler l'économie et l'accessibilité, incluant des mesures pour l'épicerie et 11,2 milliards de dollars sur 4 ans pour réduire l'itinérance. Selon Radio-Canada et BNN Bloomberg."
     },
     {
-      "sujet": "Commutation des peines de mort en Californie",
-      "fait": "Le gouverneur californien Gavin Newsom a commué les peines de mort de 548 personnes condamnées à capital. Selon Global News et BBC World, cette décision intervient alors que Newsom se prépare à quitter ses fonctions après huit ans."
+      "sujet": "Commutation sentences peine de mort Californie",
+      "fait": "Le gouverneur Gavin Newsom a commué les peines de 548 personnes en attente d'exécution, la plus importante commutation en masse de l'histoire américaine, en citant les valeurs de l'État et les défauts du système judiciaire. Selon Al Jazeera et BBC World."
     },
     {
-      "sujet": "Grèves et manifestations en France",
-      "fait": "Plus de 250 000 personnes ont manifesté en France jeudi suite à un appel à la grève de cinq syndicats. D'après Al Jazeera et BBC World, l'intérieur français estime à 600 000 le nombre de manifestants, tandis que les syndicats avancent un chiffre plus élevé."
+      "sujet": "Élection maire Los Angeles",
+      "fait": "Nithya Raman, une figure peu connue du conseil municipal soutenue par les Socialistes démocrates d'Amérique, a défait la maire Karen Bass. Selon BBC World et CBC, ce résultat signifie que les deux plus grandes villes américaines seront dirigées par des socialistes démocrates."
     },
     {
-      "sujet": "Interdiction de fracturation pétrolière au Nouveau-Brunswick",
-      "fait": "Le gouvernement libéral de la Première ministre Susan Holt révise l'interdiction de longue date concernant la fracturation hydraulique et le développement du gaz de schiste. Selon Global News, une Première Nation critique le gouvernement de ne pas l'avoir consultée."
+      "sujet": "OpenAI renonce aux accords de confidentialité",
+      "fait": "OpenAI a annoncé qu'elle ne recourrait plus aux accords de non-divulgation (NDA) avec les autorités publiques sur les projets de centre de données, suite aux résultats électoraux exprimant l'opposition aux expansions de centres de données. Selon The Verge."
     },
     {
-      "sujet": "Marché boursier et craintes réglementaires sur l'IA",
-      "fait": "Le Nasdaq s'oriente vers sa plus grande baisse quotidienne en 19 mois en raison des craintes concernant les régulations de l'intelligence artificielle. Selon Reuters et Bloomberg, cette chute affecte particulièrement les valeurs technologiques."
+      "sujet": "Coût référendum indépendance Alberta",
+      "fait": "L'agence électorale de l'Alberta a indiqué que le référendum sur l'indépendance tenu le mois dernier a coûté 84 millions de dollars. Selon La Presse."
     },
     {
-      "sujet": "Corruption judiciaire au Mexique pour un narcotrafiquant",
-      "fait": "Un juge mexicain a été arrêté pour avoir alléguement accepté un pot-de-vin de 2 millions de dollars américains en échange de la libération du bras droit de Ryan Wedding, ancien athlète olympique canadien. Selon La Presse et CBC, Wedding est accusé d'être un baron de la drogue."
+      "sujet": "Blue Origin améliore fusée New Glenn",
+      "fait": "Blue Origin a annoncé des mises à niveau de sa fusée New Glenn réduisant les coûts de fabrication et élargissant la capacité de charge utile, avec pour objectif de lancer plus de 1 000 fois par an. Selon Ars Technica."
     },
     {
-      "sujet": "Initiatives de paix Ukraine-Russie des États-Unis",
-      "fait": "La Première dame américaine Melania Trump a remis jeudi des lettres adressées à Vladimir Poutine et Volodymyr Zelensky appelant à un cessez-le-feu durable. Selon Le Devoir et Al Jazeera, elle a accueilli des responsables russes et ukrainiens à la Maison-Blanche."
+      "sujet": "The New York Times acquiert Letterboxd",
+      "fait": "The New York Times est en négociations exclusives pour acquérir Letterboxd, la plateforme sociale pour cinéphiles, pour environ 330 millions de dollars, avec possibilité que les cofondateurs restent à la tête de la plateforme. Selon The Verge et TechCrunch."
     },
     {
-      "sujet": "Cyberattaques massives d'équipements frigorifiques",
-      "fait": "Le gouvernement américain avertit d'une menace cyber persistante affectant les équipements frigorifiques industriels, de détail et militaires. Selon TechCrunch, les piratages touchent les secteurs alimentaire, des transports et de la santé."
+      "sujet": "Trump déclare bureau ovale monument national",
+      "fait": "Le président Donald Trump a signé une proclamation déclarant le bureau ovale et la salle du Cabinet de la Maison-Blanche comme monuments nationaux. Selon CBC."
     },
     {
-      "sujet": "Contestation étudiante en Ontario sur l'aide financière",
-      "fait": "Des étudiants d'universités et de collèges de l'Ontario ont participé à une sortie de classe jeudi pour protester contre les augmentations de frais de scolarité et les réductions du Programme d'aide financière aux étudiants de l'Ontario. Selon CBC, cette mobilisation est à l'échelle provinciale."
+      "sujet": "Meta, Google et TikTok poursuivent Californie",
+      "fait": "Meta, Google et TikTok ont poursuivi la procureure générale de Californie concernant une loi restreignant l'accès aux réseaux sociaux pour les enfants de moins de 16 ans qui entrerait en vigueur l'année prochaine. Selon TechCrunch."
     },
     {
-      "sujet": "Meta et opposition politique aux centres de données",
-      "fait": "Meta avertit que la croissance de l'opposition politique aux centres de données pourrait menacer ses investissements futurs en IA. Selon TechCrunch, les communautés s'opposent aux projets massifs d'infrastructure."
-    },
-    {
-      "sujet": "Nouvelle capacité vocale du chatbot Muse de Meta",
-      "fait": "Meta a lancé une fonction de conversation vocale en temps réel avec son agent Muse IA, disponible pour les utilisateurs américains. Selon The Verge et TechCrunch, l'avatar s'anime en synchronisation avec les paroles de l'agent."
-    },
-    {
-      "sujet": "Augmentation des prix chez Maple Leaf Foods",
-      "fait": "Maple Leaf Foods prévoit une nouvelle augmentation de prix au début de l'année prochaine, malgré une hausse tarifaire déjà effectuée cette année. Selon CBC, ces augmentations visent à compenser les coûts d'exploitation en hausse."
+      "sujet": "Vulnérabilité sécurité Linux Alpine",
+      "fait": "Une vulnérabilité de dix ans dans certaines configurations d'Alpine Linux permet aux attaquants de se connecter sans mot de passe via SSH, affectant les appareils avec des comptes d'utilisateurs sans mot de passe configurés. Selon Ars Technica."
     }
   ]
 }
