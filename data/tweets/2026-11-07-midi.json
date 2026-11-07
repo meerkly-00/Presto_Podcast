@@ -1,0 +1,14 @@
+{
+  "date": "2026-11-07",
+  "kind": "poll",
+  "text": "Ce matin → OpenAI levée 11G$ et valorisée à 1,25T$. Nouveau : les États-Unis offrent 20M$ pour infos sur le programme nucléaire iranien, dans un contexte de tensions accrues.\n\nSelon toi, comment les investissements massifs en IA devraient-ils être régulés?",
+  "poll": {
+    "options": [
+      "Laisser le marché opérer",
+      "Régulation légère des",
+      "Encadrement strict des",
+      "Moratoire sur certains"
+    ],
+    "duration_minutes": 1440
+  }
+}
