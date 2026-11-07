@@ -1,0 +1,81 @@
+```xml
+<script>
+  <intro>Bonjour, on est le samedi sept novembre deux mille vingt-six. Voici votre Presto en environ quinze minutes. Au menu : la nomination de Stephen Miller à la Maison-Blanche et ses suites, la correction technologique qui continue d'agiter les marchés, le valse-hausse d'OpenAI, et un tour d'horizon de l'international, de l'actualité québécoise et du sport.</intro>
+
+  <chapitre titre="International">
+    On commence par les États-Unis, où le président Donald Trump a nommé Stephen Miller directeur de cabinet, quelques jours seulement après la déroute électorale républicaine. Selon CBC, Miller remplace Susie Wiles, qui a remis sa démission jeudi soir. Radio-Canada le décrit comme un représentant de la droite identitaire.
+
+    Selon la BBC, cette nomination prépare un affrontement avec le Congrès : Miller est un partisan fervent et loyal à Trump, et son arrivée au poste le plus influent de la Maison-Blanche laisse présager des tensions à venir.
+
+    Toujours sur les suites électorales, le vice-président JD Vance a livré une critique du bilan du parti plus tôt cette semaine, pointant la guerre contre l'Iran comme un facteur du recul républicain. The Economist va dans le même sens et soutient que la victoire démocrate pourrait accélérer le déclin de l'alliance israélo-américaine, certains républicains blâmant Israël pour leur défaite. Le Devoir, de son côté, rapporte que des experts restent partagés sur la question de savoir si ce résultat signe la fin du mouvement MAGA ; la réponse se précisera selon eux quand les républicains choisiront leur stratégie pour la présidentielle.
+
+    Ailleurs, les tensions avec l'Iran continuent d'inquiéter. Selon le Financial Times, cité par Ars Technica, plusieurs navires liés à l'Iran ont été repérés à proximité de câbles sous-marins dans le golfe d'Oman, près du détroit d'Ormuz, un signe possible que Téhéran se prépare à viser cette infrastructure en cas de nouvelles frappes américaines et israéliennes. Le détroit relie le Moyen-Orient à l'Europe, à l'Afrique et à l'Asie, et plusieurs pays, dont l'Irak, le Koweït, le Bahreïn et le Qatar, en dépendent entièrement pour leurs télécommunications.
+
+    En Amérique latine, selon la BBC, le président paraguayen Santiago Peña a été destitué et placé en résidence surveillée à la suite de l'effondrement d'une banque qui a privé des millions de personnes d'accès à leur épargne. CBC précise qu'il fait face à des accusations d'abus de confiance et de trafic d'influence.
+
+    Toujours selon la BBC, le pape Leo entame une tournée en Amérique latine, en commençant par l'Uruguay, environ trois semaines après une chirurgie pour un cancer du poumon. Le Vatican le dit en assez bonne santé.
+
+    En Israël, Al Jazeera rapporte que les citoyens palestiniens d'Israël font face à une pression grandissante après les succès électoraux de partis arabes, une situation que certains décrivent comme un test de loyauté.
+
+    Enfin, Reuters rapporte qu'en Haïti, le premier ministre a confirmé la mort du chef de gang Mathias Saintil.
+  </chapitre>
+
+  <chapitre titre="Économie et marchés">
+    On passe à l'économie, où la correction technologique amorcée cette semaine continue de dominer. Selon Bloomberg, les marchés ont connu ce que l'agence décrit comme une réaction en chaîne soudaine qui a secoué Wall Street. Le Wall Street Journal rapporte que les actions technologiques ont toutefois récupéré une partie de leurs pertes vendredi, et la BBC confirme que les titres liés à l'intelligence artificielle ont remonté après que des milliers de milliards de dollars eurent été effacés de la valeur des marchés plus tôt dans la semaine. Selon la BBC, les investisseurs vendaient massivement ces actions en partie par crainte que la victoire démocrate ne ralentisse le développement de l'intelligence artificielle.
+
+    Du côté de l'emploi américain, le Financial Times rapporte que l'économie a créé environ cent soixante-cinq mille emplois en octobre, dépassant les prévisions des analystes. Le Wall Street Journal ajoute que les rendements obligataires ont progressé à la suite de ces données solides, et que ce portrait de l'emploi, combiné à l'inflation, laisse maintenant aux marchés le soin de deviner la décision de la Réserve fédérale en décembre.
+
+    Au Canada, BNN Bloomberg rapporte que les rendements des certificats de placement garanti sont en hausse, alors que la Banque du Canada continue de lutter contre l'inflation.
+
+    Du côté des entreprises, Reuters rapporte que les investisseurs de Trump Media ont perdu environ deux milliards deux cents millions de dollars, alors que le président Trump détient personnellement une participation évaluée à environ quatre cent soixante millions de dollars.
+
+    En matière d'énergie, BNN Bloomberg rapporte qu'Enbridge se dit prête à saisir les occasions de croissance dans les sables bitumineux, et Reuters précise que l'entreprise a aussi manifesté son intérêt à construire un pipeline pour le réseau de captage de carbone Pathways au Canada.
+
+    Toujours en lien avec l'intelligence artificielle, Bloomberg observe que l'IA s'est imposée dans tous les recoins du marché, tandis que le Wall Street Journal documente une levée de boucliers grandissante contre les centres de données des géants technologiques.
+  </chapitre>
+
+  <chapitre titre="Tech">
+    Du côté de la tech, OpenAI continue de dominer l'actualité. Selon Bloomberg, cité par The Verge, l'entreprise est maintenant évaluée à un billion deux cent cinquante milliards de dollars, dans le cadre d'une nouvelle ronde de financement qui a permis de récolter onze milliards de dollars supplémentaires. Cela ferait d'OpenAI l'une des entreprises les plus valorisées au monde, à peine quelques mois après avoir recueilli cent vingt-deux milliards de dollars en mars à une évaluation de huit cent cinquante-deux milliards de dollars. Toujours selon Bloomberg, OpenAI chercherait encore à obtenir jusqu'à vingt milliards de dollars supplémentaires, après avoir d'abord espéré lever jusqu'à trente milliards à une évaluation encore plus élevée d'un billion quatre cents milliards de dollars, avant que les actions technologiques ne reculent.
+
+    En parallèle, Bloomberg rapporte que les acheteurs potentiels de l'introduction en bourse d'Anthropic évaluent maintenant l'entreprise à aussi peu qu'un billion cent milliards de dollars.
+
+    TechCrunch se penche sur ce que signifie le résultat des élections de mi-mandat pour les grandes entreprises technologiques. Selon le site, après avoir passé deux ans à se rapprocher de la Maison-Blanche, les géants du secteur tentent maintenant de se rapprocher des démocrates. Le Journal de Montréal résume la situation en notant qu'Elon Musk et Sam Altman devront désormais composer avec le nouveau rapport de force à Washington.
+
+    Toujours chez Nvidia, selon le New York Times, cité par The Verge, les services de renseignement chinois auraient recruté une dirigeante de l'entreprise Megaspeed pour espionner le chef de la direction de Nvidia, Jensen Huang, dans le but d'obtenir de l'information sur les puces d'intelligence artificielle américaines et possiblement influencer la vente des puces les plus avancées à la Chine.
+
+    Du côté des infrastructures, TechCrunch rapporte que l'entreprise Crusoe a vendu à Google un projet de centre de données problématique au Wyoming, un exemple, selon le site, des défis que pose la construction de ces immenses installations dédiées à l'intelligence artificielle. BNN Bloomberg ajoute que des manifestants ont fait irruption dans un site de centre de données de Microsoft à Amsterdam, dans ce que l'agence décrit comme une contestation grandissante en Europe.
+
+    En matière de cybersécurité, Ars Technica rapporte que la firme d'analyse de chaîne de blocs Chainalysis a confirmé que des pirates ont dérobé des identifiants et des jetons d'accès pour l'ensemble de sa clientèle, qui inclut des agences gouvernementales comme le FBI et l'armée de l'air américaine, ainsi que des entreprises comme Microsoft, Coinbase et Barclays.
+
+    Enfin, du côté de Tesla, l'Associated Press confirme que le Cybertruck s'apprête à disparaître après des années de controverse et d'engouement.
+  </chapitre>
+
+  <chapitre titre="Actualité québécoise et canadienne">
+    Au Québec, La Presse publie cinq choses à savoir sur la COP trente et un, la conférence des Nations unies sur les changements climatiques qui débute lundi à Antalya, en Turquie.
+
+    Toujours dans La Presse, une chronique revient sur la dynamique entre le premier ministre Mark Carney et le chef du Parti québécois, Paul St-Pierre Plamondon, décrivant l'approche de Carney comme celle de passer tout droit plutôt que de s'attarder à la discussion.
+
+    Le Devoir se penche de son côté sur les promesses du Canada en matière d'intelligence artificielle, notant qu'elles ne sont pas si éloignées de celles mises de l'avant par le président américain Donald Trump.
+
+    Sur le plan municipal, La Presse rapporte que près de cent quarante maires et conseillers municipaux élus en novembre deux mille vingt-cinq ont déjà quitté leurs fonctions moins d'un an plus tard. Le climat hostile et la lourdeur de la tâche en auraient accablé plusieurs, selon le journal.
+
+    Toujours à Montréal, La Presse documente une controverse à Outremont autour d'un projet de vingt condos ultraluxueux, qui implique notamment l'animatrice Julie Snyder, l'ex-premier ministre Justin Trudeau et l'homme d'affaires Jean-Pierre Léger.
+
+    Le Devoir rapporte par ailleurs que les mesures culturelles promises dans le budget fédéral, même généreuses, n'auront pas l'effet de levier espéré par le milieu artistique.
+
+    Du côté fédéral, Global News rapporte que le premier ministre Mark Carney affirme que la coordination, la volonté et le financement seront tous nécessaires pour éliminer l'itinérance d'ici dix ans.
+
+    Enfin, CBC rapporte qu'un sédatif vétérinaire puissant s'ajoute de plus en plus au fentanyl vendu dans la rue au Canada, compliquant la réponse des urgences aux surdoses. Toujours selon CBC, un rapport interne révèle que les détachements de la Gendarmerie royale du Canada dans les régions nordiques et éloignées souffrent d'un sous-effectif chronique et parfois critique.
+  </chapitre>
+
+  <chapitre titre="Sport">
+    Rapidement en sport. En basketball, Sportsnet rapporte que les Raptors de Toronto ont battu les Bucks de Milwaukee dans le cadre de la NBA Cup, malgré l'absence de trois joueurs partants, grâce à la meilleure performance en carrière d'Alijah Martin. Toujours en NBA, Sportsnet souligne un tir du fond du terrain réussi par Luka Doncic des Lakers juste avant la fin de la première demie.
+
+    Au hockey, Global News rapporte que les Ducks d'Anaheim ont battu les Flames de Calgary cinq à trois, Cutter Gauthier portant sa série de matchs avec un but à cinq rencontres consécutives grâce au but gagnant.
+
+    Toujours chez les Flames, Sportsnet note que le jeune défenseur Zayne Parekh gagne en confiance et commence à faire une différence pour l'équipe. Du côté des Canucks de Vancouver, Sportsnet rapporte qu'Elias Pettersson retrouve son jeu dans un environnement plus sain depuis le début de la saison.
+  </chapitre>
+
+  <outro>Voilà pour ce Presto du samedi sept novembre deux mille vingt-six. Si ce briefing vous est utile, le meilleur coup de main que vous pouvez nous donner, c'est de le partager à une personne qui aime rester informée. Et selon votre plateforme : un abonnement sur Spotify ou Apple Podcasts, un pouce bleu et un abonnement sur YouTube, ça prend deux secondes et ça aide vraiment Presto à grandir. Sur ce, bonne journée, et à demain.</outro>
+</script>
+```
