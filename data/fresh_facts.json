@@ -1,46 +1,42 @@
 {
-  "generated_at": "2026-11-07T17:57:00.516176+00:00",
+  "generated_at": "2026-11-07T22:30:10.420706+00:00",
   "window_hours": 8,
   "faits": [
     {
-      "sujet": "Cyberattaque Binance et départ du CFO",
-      "fait": "Le directeur financier de Binance quitte son poste pour poursuivre une nouvelle venture, moins d'une semaine après le vol de 6,3 milliards de dollars en cryptomonnaies par des pirates informatiques. Selon TechCrunch."
+      "sujet": "Nomination gouvernementale en Israël",
+      "fait": "Le président israélien a confié à Gadi Eisenkot, candidat de l'opposition et ancien chef d'état-major, la mission de former un nouveau gouvernement. Selon CBC et Radio-Canada, cette nomination constitue un revers pour le Premier ministre Benjamin Netanyahu."
     },
     {
-      "sujet": "Données personnelles ministre italien piratées",
-      "fait": "Le ministre des Affaires étrangères italien a déclaré que des hackers ont divulgué ses données personnelles en ligne. La Première ministre Giorgia Meloni a attribué l'attaque à des hackers pro-russes. Selon BBC World."
+      "sujet": "Proposition de Trump pour la Maison-Blanche",
+      "fait": "Donald Trump a proposé à Dana White, patron de l'UFC, le poste de porte-parole de la Maison-Blanche, selon Le Devoir et Radio-Canada. White n'a pas encore accepté cette proposition."
     },
     {
-      "sujet": "Grippe aviaire Île d'Orléans",
-      "fait": "Un cas de grippe aviaire a été confirmé dans un lieu commercial de l'Île d'Orléans. L'Agence canadienne d'inspection des aliments a établi une zone de contrôle autour du foyer. Selon La Presse."
+      "sujet": "Budget fédéral canadien pour l'itinérance",
+      "fait": "Le gouvernement fédéral libéral a alloué 11,2 milliards de dollars sur quatre ans pour tenter d'éliminer l'itinérance en dix ans, selon CBC."
     },
     {
-      "sujet": "Rage du raton chez bovin Québec",
-      "fait": "Un premier cas de rage du raton chez une vache a été confirmé à Coaticook. Il s'agit du premier cas chez un bovin au Québec depuis le début de l'épidémie en 2024. Selon Radio-Canada."
+      "sujet": "Attaque à main armée en Pologne",
+      "fait": "Une fusillade dans la place du marché de Cracovie a tué six personnes et en a blessé 16. Trois autres corps ont été découverts au domicile du suspect, selon BBC World et CBC."
     },
     {
-      "sujet": "Nouvelle drogue surcharge urgences Québec",
-      "fait": "La médétomidine, un sédatif vétérinaire, surcharge les urgences du Québec. Contrairement à la fentanyl, la naloxone est inefficace contre ce composé. Selon Radio-Canada."
+      "sujet": "Récompense américaine sur le nucléaire iranien",
+      "fait": "Les États-Unis offrent une récompense de 20 millions de dollars pour des informations sur le programme nucléaire iranien, annonce BBC World."
     },
     {
-      "sujet": "Élection Nouvelle-Zélande très serrée",
-      "fait": "Les résultats préliminaires de l'élection générale en Nouvelle-Zélande ne montrent pas de vainqueur clair, avec un parlement très divisé. Des négociations de coalition de plusieurs semaines pourraient suivre. Selon BBC World."
+      "sujet": "Élection néo-zélandaise indécise",
+      "fait": "Les résultats préliminaires des élections générales en Nouvelle-Zélande n'indiquent pas de vainqueur clair, selon BBC World, ce qui pourrait entraîner des semaines de négociations de coalition."
     },
     {
-      "sujet": "Trudeau fellow Oxford University",
-      "fait": "L'ancien premier ministre Justin Trudeau a été nommé distinguished fellow à la Blavatnik School of Government de l'Université Oxford. Selon CBC."
+      "sujet": "Grève chez Autobus Venise",
+      "fait": "La grève chez Autobus Venise a pris fin, les membres du syndicat Unifor approuvant l'entente à 74%, selon Les Affaires."
     },
     {
-      "sujet": "Accord commercial UK-UE échouera",
-      "fait": "Michel Barnier, ancien négociateur du Brexit, a déclaré au BBC que l'UE rejetterait toute tentative britannique de suivre les règles économiques 'à la carte'. Selon BBC World."
+      "sujet": "Espionnage présumé pour la Chine",
+      "fait": "Selon un mémo des services de renseignement américains relayé par TechCrunch, le ministère chinois de la Sécurité d'État aurait recruté une cadre technologique pour espionner le PDG de Nvidia."
     },
     {
-      "sujet": "Frappes russes infrastructure ukrainienne",
-      "fait": "La Russie a mené des frappes qui ont blessé neuf personnes et endommagé le réseau énergétique ukrainien avant des pourparlers trilatéraux prévus à Abu Dhabi la semaine suivante. Selon BBC World."
-    },
-    {
-      "sujet": "Routes militaires Israël sud-Liban",
-      "fait": "Israël construit un réseau de 90 km de routes militaires et d'avant-postes dans le sud du Liban. Selon Al Jazeera."
+      "sujet": "Grippe aviaire au Québec",
+      "fait": "Un cas de grippe aviaire a été détecté dans un établissement commercial de l'île d'Orléans et l'Agence canadienne d'inspection des aliments a établi une zone de contrôle, selon La Presse."
     }
   ]
 }
