@@ -1,54 +1,46 @@
 {
-  "generated_at": "2026-11-07T01:38:28.875235+00:00",
+  "generated_at": "2026-11-07T17:57:00.516176+00:00",
   "window_hours": 8,
   "faits": [
     {
-      "sujet": "Financement OpenAI",
-      "fait": "OpenAI a levé 11 milliards de dollars supplémentaires à une valuation de 1,25 trillion de dollars, selon The Verge et Bloomberg. L'entreprise pourrait lever jusqu'à 20 milliards de dollars supplémentaires."
+      "sujet": "Cyberattaque Binance et départ du CFO",
+      "fait": "Le directeur financier de Binance quitte son poste pour poursuivre une nouvelle venture, moins d'une semaine après le vol de 6,3 milliards de dollars en cryptomonnaies par des pirates informatiques. Selon TechCrunch."
     },
     {
-      "sujet": "Sanctions américaines Canada",
-      "fait": "Les États-Unis ont imposé des sanctions contre plusieurs entreprises canadiennes de change de devises pour transactions liées à l'Iran et au présumé baron de la drogue Ryan Wedding, selon Radio-Canada et Global News."
+      "sujet": "Données personnelles ministre italien piratées",
+      "fait": "Le ministre des Affaires étrangères italien a déclaré que des hackers ont divulgué ses données personnelles en ligne. La Première ministre Giorgia Meloni a attribué l'attaque à des hackers pro-russes. Selon BBC World."
     },
     {
-      "sujet": "Crise politique Paraguay",
-      "fait": "L'ancien président paraguayen Santiago Peña a été placé en résidence surveillée après son destitution par le Sénat liée à l'effondrement de la banque Ueno. Pedro Alliana a prêté serment en tant que nouveau président, selon Al Jazeera et CBC."
+      "sujet": "Grippe aviaire Île d'Orléans",
+      "fait": "Un cas de grippe aviaire a été confirmé dans un lieu commercial de l'Île d'Orléans. L'Agence canadienne d'inspection des aliments a établi une zone de contrôle autour du foyer. Selon La Presse."
     },
     {
-      "sujet": "Plan fédéral itinérance",
-      "fait": "Le gouvernement fédéral du Canada a annoncé un plan visant à éliminer l'itinérance d'ici dix ans, selon Global News. Le PM Mark Carney affirme que coordination, dévouement et financement sont nécessaires."
+      "sujet": "Rage du raton chez bovin Québec",
+      "fait": "Un premier cas de rage du raton chez une vache a été confirmé à Coaticook. Il s'agit du premier cas chez un bovin au Québec depuis le début de l'épidémie en 2024. Selon Radio-Canada."
     },
     {
-      "sujet": "Accès vérificatrice générale",
-      "fait": "Le gouvernement fédéral souhaite rétablir l'accès de la vérificatrice générale aux informations confidentielles dans le budget fédéral, selon La Presse."
+      "sujet": "Nouvelle drogue surcharge urgences Québec",
+      "fait": "La médétomidine, un sédatif vétérinaire, surcharge les urgences du Québec. Contrairement à la fentanyl, la naloxone est inefficace contre ce composé. Selon Radio-Canada."
     },
     {
-      "sujet": "Trudeau fellow Oxford",
-      "fait": "L'ancien PM Justin Trudeau devient fellow du Cercle des anciens dirigeants de l'Université d'Oxford pour promouvoir des gouvernements plus efficaces, selon La Presse."
+      "sujet": "Élection Nouvelle-Zélande très serrée",
+      "fait": "Les résultats préliminaires de l'élection générale en Nouvelle-Zélande ne montrent pas de vainqueur clair, avec un parlement très divisé. Des négociations de coalition de plusieurs semaines pourraient suivre. Selon BBC World."
     },
     {
-      "sujet": "Starlink Mobile 5G",
-      "fait": "SpaceX a signé un accord avec Qualcomm pour déployer sa technologie cellulaire sur des dizaines de milliers de sites 5G à partir de 2027, selon The Verge. SpaceX envisage également l'acquisition de Boost Mobile."
+      "sujet": "Trudeau fellow Oxford University",
+      "fait": "L'ancien premier ministre Justin Trudeau a été nommé distinguished fellow à la Blavatnik School of Government de l'Université Oxford. Selon CBC."
     },
     {
-      "sujet": "Cartographie panneaux stationnement",
-      "fait": "Montréal prévoit de dresser une cartographie complète de ses centaines de milliers de panneaux de stationnement blanc, rouge et noir, selon La Presse."
+      "sujet": "Accord commercial UK-UE échouera",
+      "fait": "Michel Barnier, ancien négociateur du Brexit, a déclaré au BBC que l'UE rejetterait toute tentative britannique de suivre les règles économiques 'à la carte'. Selon BBC World."
     },
     {
-      "sujet": "Rage chez bovins",
-      "fait": "Un premier cas de rage du raton laveur a été détecté chez une vache à Coaticook en Estrie. L'animal est mort le jour des premiers symptômes, selon La Presse."
+      "sujet": "Frappes russes infrastructure ukrainienne",
+      "fait": "La Russie a mené des frappes qui ont blessé neuf personnes et endommagé le réseau énergétique ukrainien avant des pourparlers trilatéraux prévus à Abu Dhabi la semaine suivante. Selon BBC World."
     },
     {
-      "sujet": "Espionnage IA Chine",
-      "fait": "La Chine aurait recruté une cadre d'une entreprise cliente de Nvidia pour espionner le PDG Jensen Huang et obtenir des informations sur les puces IA américaines, selon The Verge citant le New York Times."
-    },
-    {
-      "sujet": "Bombes Europe aéroports",
-      "fait": "Des alertes à la bombe ont été signalées en Europe. Jusqu'à présent, aucune d'entre elles ne s'est avérée fondée et aucun explosif n'a été trouvé, selon Radio-Canada."
-    },
-    {
-      "sujet": "Visite pape Amérique du Sud",
-      "fait": "Le pape Léon XIV arrive en Uruguay pour une tournée de 12 jours en Amérique du Sud suite à une chirurgie pulmonaire effectuée le mois précédent, selon Al Jazeera."
+      "sujet": "Routes militaires Israël sud-Liban",
+      "fait": "Israël construit un réseau de 90 km de routes militaires et d'avant-postes dans le sud du Liban. Selon Al Jazeera."
     }
   ]
 }
