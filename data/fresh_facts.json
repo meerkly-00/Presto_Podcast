@@ -1,54 +1,46 @@
 {
-  "generated_at": "2026-11-08T18:14:00.973705+00:00",
+  "generated_at": "2026-11-08T22:40:36.056306+00:00",
   "window_hours": 8,
   "faits": [
     {
-      "sujet": "Protestation centres de données Nouvelle-Écosse",
-      "fait": "Des manifestants se sont rassemblés devant l'assemblée législative provinciale samedi à midi, occupant un pâté de maisons entier avant de manifester dans le centre-ville pour demander un moratoire sur les propositions de centres de données. Selon Global News."
+      "sujet": "Élections de mi-mandat américaines",
+      "fait": "Les démocrates ont remporté au moins 40 sièges à la Chambre des représentants et 7 sièges au Sénat américain, dont une victoire historique au Texas avec James Talarico. Selon Radio-Canada, le parti pourrait également remporter deux autres sièges au Sénat au Mississippi et en Alaska."
     },
     {
-      "sujet": "Fraude immigration Québec",
-      "fait": "Plus de 100 cas présumés de fraude ont été identifiés au ministère de l'Immigration du Québec. Une ancienne bureaucrate, Marilena Ida, a été accusée de violation de confiance et de falsification de documents suite à une enquête. Selon Global News."
+      "sujet": "Enquête Nvidia sur espionnage chinois",
+      "fait": "Nvidia ouvre une enquête indépendante sur son PDG Jensen Huang suite à des allégations selon lesquelles il aurait entretenu une relation étroite avec Alice Huang, une femme d'affaires soupçonnée d'espionnage pour la Chine. D'après TechCrunch, Huang a admis dans un mémorandum à l'entreprise qu'il avait une liaison."
     },
     {
-      "sujet": "Collision trains Égypte",
-      "fait": "Deux trains sont entrés en collision près du Caire, causant au moins 4 à 7 morts et plus de 88 à 100 blessés. Plusieurs voitures ont déraillé après que les deux trains, circulant dans la même direction, se soient heurtés. Selon BBC World et CBC."
+      "sujet": "Nomination de Stephen Miller par Trump",
+      "fait": "Trump a nommé Stephen Miller, figure de la droite dure américaine, au poste de directeur de cabinet. Selon Le Devoir, cette nomination représente un choix pour l'affrontement avec les démocrates."
     },
     {
-      "sujet": "Manifestation Amsterdam contre Israël",
-      "fait": "Des centaines de milliers de manifestants ont participé à la manifestation de la « Red Line » à Amsterdam, demandant des restrictions commerciales plus strictes contre Israël et l'arrêt de toutes les ventes d'armes. Selon Al Jazeera."
+      "sujet": "Visite papale en Argentine",
+      "fait": "Le pape Léon XIV effectue une visite historique en Argentine, sa première visite papale dans le pays en près de quatre décennies, accueilli par le président Milei. D'après Al Jazeera, cette visite intervient au milieu de tensions avec le gouvernement."
     },
     {
-      "sujet": "Fusillade de masse Pologne Krakow",
-      "fait": "La Pologne connaît son pire massacre de civils depuis la fin du régime communiste (1944-1989). Les autorités polonaises sont confrontées à des préoccupations concernant le « terrorisme intérieur ». Selon Radio-Canada."
+      "sujet": "Collision de trains en Égypte",
+      "fait": "Deux trains circulant dans la même direction ont percuté près de Giza, causant au moins sept morts et plus de 100 blessés, avec plusieurs voitures déraillées. Selon la BBC World, un train circulant de Gizeh vers Fayoum a percuté l'arrière d'un autre train circulant vers le sud."
     },
     {
-      "sujet": "Pétroliers en feu détroit Ormuz",
-      "fait": "Trois nouveaux pétroliers ont pris feu dans le détroit d'Ormuz. Selon Les Affaires."
+      "sujet": "Budget fédéral canadien 2026",
+      "fait": "Le ministre Miller annonce un soutien ciblé de 600 millions de dollars pour les secteurs audio et audiovisuel du Canada dans le Budget 2026. Selon Les Affaires, ce déploiement s'inscrit dans l'initiative 'Maîtres chez nous'."
     },
     {
-      "sujet": "Gouvernement Israël Eisenkot",
-      "fait": "Le président d'Israël a choisi Gadi Eisenkot pour former le prochain gouvernement, écartant Benjamin Netanyahu. Selon Al Jazeera."
+      "sujet": "Epic Games Launcher et SteamOS",
+      "fait": "Epic Games confirme que son nouveau launcher sera compatible avec SteamOS et d'autres distributions Linux incluant Fedora, Cachy et Omarchy. D'après The Verge, le launcher est actuellement en phase de prévisualisation."
     },
     {
-      "sujet": "Procès Suno musique IA",
-      "fait": "Les détenteurs des droits musicaux d'Elvis Presley et l'éditeur de certains plus grands succès d'Eminem poursuivent Suno en justice, l'accusant de générer illégalement de la musique et des paroles imitant ces artistes. Les avocats de Presley affirment que Suno a violé la loi du Tennessee ELVIS (Ensuring Likeness Voice and Image Security). Selon The Verge."
+      "sujet": "Futur de Siri chez Apple",
+      "fait": "Le PDG John Ternus presse Craig Federighi d'accélérer la feuille de route de Siri pour développer un assistant IA plus puissant capable de concurrencer OpenAI's Dots et Meta's Muse. Selon The Verge, deux améliorations significatives sont attendues dans les mois à venir, incluant un contrôle fin des applications Apple."
     },
     {
-      "sujet": "Toilettes fermées trains banlieue Québec",
-      "fait": "Le transporteur exo a fermé une grande partie des toilettes de ses 44 nouvelles voitures de train équipées de sanitaires pour économiser sur les frais d'entretien. Selon La Presse."
+      "sujet": "Futur politique Trump après les midterms",
+      "fait": "L'ancien gouverneur de l'Arkansas Asa Hutchinson déclare que tout dépendra de la façon dont se dérouleront les deux prochaines années et qu'il s'attend à ce que le chaos se poursuive. D'après Radio-Canada, il ajoute que cela n'est pas de bon augure pour l'héritage de Trump."
     },
     {
-      "sujet": "Données clients Toys R Us Canada",
-      "fait": "Lors de sa faillite, Toys \"R\" Us Canada a vendu les noms et coordonnées de ses clients. Selon Radio-Canada."
-    },
-    {
-      "sujet": "Adhésion Canada programme Erasmus+",
-      "fait": "Les coûts associés au programme d'échanges Erasmus+ avec l'Union européenne pourraient constituer un obstacle à l'adhésion du Canada, selon un expert. Selon Radio-Canada."
-    },
-    {
-      "sujet": "Tempête vent Colombie-Britannique",
-      "fait": "Une deuxième vague de vents puissants a frappé la Colombie-Britannique samedi, tuant un conducteur dont le véhicule a été écrasé par un arbre abattu à Surrey. Selon CBC."
+      "sujet": "Trump nomme Dana White au secrétariat de presse",
+      "fait": "Trump souhaite nommer Dana White, patron de l'UFC, au poste de secrétaire de presse de la Maison-Blanche. Selon Al Jazeera, les deux ont des liens commerciaux remontant à des décennies et White a aidé Trump à rejoindre les jeunes électeurs."
     }
   ]
 }
