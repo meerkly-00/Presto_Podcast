@@ -1,0 +1,65 @@
+```xml
+<script>
+  <intro>Bonjour, on est le dimanche huit novembre deux mille vingt-six. Voici votre Presto en environ quinze minutes. Au menu : la fusillade de Cracovie, la formation d'un nouveau gouvernement en Israël, les suites politiques des élections américaines, l'économie et les marchés, un mot sur la tech et le sport.</minute></intro>
+
+  <chapitre titre="International">
+On commence par la Pologne, où une fusillade a fait plusieurs morts samedi après-midi. Selon la BBC, six personnes ont été tuées et seize autres blessées lorsqu'un homme a ouvert le feu sur la place principale de Cracovie. La police polonaise a qualifié l'événement d'acte de terreur. Trois autres corps ont ensuite été découverts au domicile du suspect, selon la même source. Le ministre polonais de la Défense a employé cette expression pour décrire l'attaque, rapporte CBC. Aucun autre détail sur les motivations du tireur n'a été communiqué par les autorités pour l'instant.
+
+On reste à l'international, où un nouveau chapitre s'ouvre dans la politique israélienne. Selon la BBC, le président d'Israël a chargé le chef de l'opposition Gadi Eisenkot de former le prochain gouvernement, ni le bloc du premier ministre Benjamin Netanyahou ni celui de son rival n'ayant obtenu de majorité lors des élections de la semaine dernière. Radio-Canada présente Eisenkot, un ancien chef d'état-major israélien, comme celui que plusieurs surnomment déjà l'anti-Netanyahou. CBC confirme qu'il s'agit d'un nouveau revers pour le premier ministre sortant.
+
+Du côté des États-Unis, les suites de la déroute électorale républicaine continuent d'occuper l'actualité. Selon Le Devoir, le président Donald Trump a proposé samedi le poste de porte-parole de la Maison-Blanche à Dana White, patron de l'UFC et proche du président. Cette offre survient au lendemain de la nomination de Stephen Miller comme directeur de cabinet, un geste que Le Devoir décrit comme une confirmation de la pugnacité affichée par le président face à la future majorité parlementaire démocrate. Sur son réseau Truth Social, Donald Trump a qualifié Dana White de, je le cite : combattant et guerrier violent. Fin de citation. L'homme d'affaires a répondu qu'il se rendrait à Washington pour rencontrer le président lundi. Le poste était vacant depuis l'éviction, le seize octobre dernier, de Katie Zacharia, qui avait occupé la fonction pendant cinq jours.
+
+Toujours aux États-Unis, selon Reuters, le président Trump a ordonné au département de la Justice d'enquêter sur des élus démocrates qu'il accuse d'avoir menacé des citoyens. Al Jazeera, de son côté, s'intéresse aux conséquences de la victoire démocrate au Congrès pour l'Ukraine, notant que Kyiv espère un soutien accru de Washington, même si l'incertitude demeure quant aux efforts de paix de Donald Trump. Le Financial Times pose la même question dans un texte distinct, sans trancher sur l'issue.
+
+Ailleurs, en Iran, Reuters rapporte que les autorités ont exécuté trois hommes accusés d'implication dans des troubles armés survenus lors des manifestations de janvier. Et au Yémen, la BBC rapporte que les rebelles houthis affirment qu'au moins trente-trois personnes ont été tuées dans une frappe aérienne saoudienne. Al Jazeera précise que la coalition menée par l'Arabie saoudite contre les houthis peine pour l'instant à reprendre l'avantage, alors que des civils se retrouvent de plus en plus pris entre les deux camps.
+
+En Nouvelle-Zélande, la BBC décrit une élection particulièrement serrée, marquée par un climat politique morose et une désertion des électeurs envers les grands partis traditionnels.
+
+Au Paraguay enfin, CBC rapporte que l'ex-président destitué Santiago Peña a été formellement accusé d'abus de confiance et de gestion frauduleuse, au lendemain de sa destitution liée à l'effondrement de la banque numérique Ueno. Les procureurs demandent sa détention préventive.
+  </chapitre>
+
+  <chapitre titre="Économie et marchés">
+On passe à l'économie. Selon Bloomberg, des stratèges de Wall Street considèrent la récente déroute boursière comme une nouvelle occasion d'achat plutôt qu'un signal d'inquiétude durable. Bloomberg rapporte par ailleurs que le ralentissement lié à l'intelligence artificielle ravive l'intérêt pour des titres asiatiques jusqu'ici délaissés, de la Chine à l'Inde.
+
+Du côté des entreprises, le Financial Times rapporte que Berkshire Hathaway a intensifié ses rachats d'actions, avec des achats totalisant environ neuf milliards et demi de dollars américains.
+
+Au Canada, le budget fédéral déposé cette semaine continue de susciter des réactions. Selon CBC, le chef conservateur Pierre Poilievre critique l'exemption de quinze millions de dollars sur les gains en capital prévue dans le budget du gouvernement Carney, lors de la vente d'actions admissibles d'une entreprise canadienne. Poilievre soutient que la mesure est trop restrictive et exclut des entreprises clés, plaidant pour un plan plus simple. De son côté, selon Les Affaires, la leader adjointe du gouvernement à la Chambre des communes, Arielle Kayabaga, a mis de l'avant le plan du budget visant à mettre fin à l'itinérance d'ici dix ans. Toujours selon Les Affaires, le secrétaire parlementaire Kody Blois a présenté les investissements prévus au budget pour le logement et la lutte contre l'itinérance.
+
+Un texte d'analyse de Radio-Canada qualifie ce budget de, je le cite : tout à fait libéral. Fin de citation, notant que le premier ministre Mark Carney renoue avec la tendance dépensière qui avait marqué les années de Justin Trudeau.
+
+Enfin, les tarifs américains continuent de peser sur certains secteurs canadiens. Selon CBC, l'industrie du fromage canadien, qui connaissait un essor remarqué aux États-Unis ces dernières années avec plusieurs grands prix remportés dans l'hémisphère occidental, voit son élan menacé par les tarifs de cinquante pour cent imposés par l'administration Trump sur certains produits laitiers, dont le fromage canadien.
+  </chapitre>
+
+  <chapitre titre="Tech">
+Du côté de la tech, Tesla poursuit son virage vers l'abandon du Cybertruck. Selon Reuters, l'entreprise ajoutera un quart de travail supplémentaire pour écouler les commandes en attente avant de démanteler la chaîne de production l'an prochain.
+
+TechCrunch se penche aussi sur les suites des élections de mi-mandat pour l'industrie technologique, notant que la situation s'annonce plus difficile pour Elon Musk et pour les projets de centres de données, dans le contexte politique qui se dessine à Washington.
+
+Toujours selon TechCrunch, un mémo de renseignement américain allègue qu'une dirigeante d'une entreprise technologique nommée Megaspeed aurait été recrutée par le ministère chinois de la Sécurité d'État pour espionner le chef de la direction de Nvidia.
+
+Du côté de la cryptomonnaie, TechCrunch rapporte que le chef des finances de Binance quitte l'entreprise pour, je le cite : poursuivre un nouveau projet. Fin de citation. Cette annonce survient un peu plus d'une semaine après le vol d'environ six milliards et demi de dollars en cryptomonnaie appartenant à des utilisateurs de Binance.
+  </chapitre>
+
+  <chapitre titre="Actualité québécoise et canadienne">
+Au Québec, La Presse publie une enquête de son journaliste Tristan Péloquin sur un phénomène méconnu : les, je le cite : coureurs de feux. Fin de citation. Ces individus se présentent parfois sur les lieux d'incendies avant même les services d'urgence pour solliciter les sinistrés. La Presse documente le cas d'un homme au passé criminel et aux pratiques commerciales douteuses, qui parvient à franchir les périmètres de sécurité sans encombre.
+
+Du côté culturel, Le Devoir rapporte que les lauréats des prix Judith-Jasmin, qui récompensent les meilleurs reportages journalistiques au Québec, ont été dévoilés samedi soir lors d'un gala à Sherbrooke.
+
+Et au Journal de Montréal, un reportage s'intéresse à la prolifération des vieilles voitures en mauvais état sur les routes québécoises et à la question de savoir si leur inspection devrait devenir obligatoire.
+  </chapitre>
+
+  <chapitre titre="Sport">
+Rapidement en sport. Au football, Le Devoir rapporte que les Alouettes de Montréal ont battu les Blue Bombers de Winnipeg trente-trois à vingt-trois dans la finale de l'Est de la Ligue canadienne de football, se qualifiant du coup pour la Coupe Grey. Le secondeur Tyrice Beverette a réussi le jeu déterminant en forçant un échappé dans les dernières minutes. L'entraîneur-chef Jason Maas a salué sa contribution, le qualifiant de, je le cite : inestimable. Fin de citation.
+
+Au hockey, le Canadien de Montréal a défait les Maple Leafs de Toronto quatre à deux, selon Le Devoir. Alex Newhook a inscrit deux buts et le gardien Jacob Fowler a réalisé vingt-six arrêts. Le Tricolore menait trois à zéro après quarante minutes avant de voir les Maple Leafs réduire l'écart, mais Zachary Bolduc a calmé le jeu avec un but en avantage numérique. TVA Sports rapporte par ailleurs les commentaires de l'entraîneur-chef Martin Saint-Louis, qui a contesté une pénalité décernée à son défenseur Arber Xhekaj.
+
+Toujours au hockey, les Oilers d'Edmonton ont défait les Canucks de Vancouver quatre à deux, selon Global News, avec deux buts et une aide de Leon Draisaitl, et trois mentions d'aide supplémentaires pour Connor McDavid, qui poursuit sa course au record de points en une saison de Wayne Gretzky. À Ottawa, selon Global News, les Sénateurs ont défait le Mammoth de l'Utah quatre à deux grâce à un but de Nick Cousins en fin de troisième période.
+
+En soccer, Al Jazeera rapporte que l'Argentin Lionel Messi est devenu le premier joueur à remporter deux années de suite le titre de meilleur buteur de la Major League Soccer, avec vingt-six buts en saison régulière, menant l'Inter Miami vers les séries éliminatoires de la Coupe MLS.
+
+Enfin, en tennis, Al Jazeera rapporte que la numéro un mondiale Elena Rybakina s'est retirée du tournoi des finales de la WTA en raison d'un virus, et sera remplacée par l'Ukrainienne Marta Kostyuk.
+  </chapitre>
+
+  <outro>Voilà pour ce Presto du dimanche huit novembre deux mille vingt-six. Si ce briefing vous est utile, le meilleur coup de main que vous pouvez nous donner, c'est de le partager à une personne qui aime rester informée. Et selon votre plateforme : un abonnement sur Spotify ou Apple Podcasts, un pouce bleu et un abonnement sur YouTube, ça prend deux secondes et ça aide vraiment Presto à grandir. Sur ce, bonne journée, et à demain.</outro>
+</script>
+```
