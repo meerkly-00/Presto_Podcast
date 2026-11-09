@@ -1,0 +1,14 @@
+{
+  "date": "2026-11-09",
+  "kind": "poll",
+  "text": "Ce matin → Nvidia enquête sur la relation de Jensen Huang avec une personne soupçonnée d'être liée au gouvernement chinois.\n\nNouveau : Huang aurait engagé une firme de relations publiques\n\nSelon toi, les enquêtes en cours doivent-elles être publiques ou confidentielles?",
+  "poll": {
+    "options": [
+      "Publiques et",
+      "Confidentielles jusqu'à",
+      "Partiellement",
+      "Sans opinion"
+    ],
+    "duration_minutes": 1440
+  }
+}
