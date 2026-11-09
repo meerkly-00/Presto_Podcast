@@ -1,46 +1,50 @@
 {
-  "generated_at": "2026-11-08T22:40:36.056306+00:00",
+  "generated_at": "2026-11-09T22:53:04.430087+00:00",
   "window_hours": 8,
   "faits": [
     {
-      "sujet": "Élections de mi-mandat américaines",
-      "fait": "Les démocrates ont remporté au moins 40 sièges à la Chambre des représentants et 7 sièges au Sénat américain, dont une victoire historique au Texas avec James Talarico. Selon Radio-Canada, le parti pourrait également remporter deux autres sièges au Sénat au Mississippi et en Alaska."
+      "sujet": "Nvidia enquête sur Jensen Huang",
+      "fait": "Le conseil d'administration de Nvidia a ouvert une enquête sur la relation de Jensen Huang avec une personne soupçonnée d'être un espion chinois. Selon TechCrunch, l'action Nvidia a chuté de plus de 4% suite à cette annonce."
     },
     {
-      "sujet": "Enquête Nvidia sur espionnage chinois",
-      "fait": "Nvidia ouvre une enquête indépendante sur son PDG Jensen Huang suite à des allégations selon lesquelles il aurait entretenu une relation étroite avec Alice Huang, une femme d'affaires soupçonnée d'espionnage pour la Chine. D'après TechCrunch, Huang a admis dans un mémorandum à l'entreprise qu'il avait une liaison."
+      "sujet": "Stellantis vend usine Brampton",
+      "fait": "Stellantis a annoncé la vente de son usine d'assemblage de Brampton en Ontario à Roshel Inc., une entreprise canadienne de fabrication de véhicules blindés. Selon CBC et Radio-Canada, l'accord a été conclu le 9 novembre 2026."
     },
     {
-      "sujet": "Nomination de Stephen Miller par Trump",
-      "fait": "Trump a nommé Stephen Miller, figure de la droite dure américaine, au poste de directeur de cabinet. Selon Le Devoir, cette nomination représente un choix pour l'affrontement avec les démocrates."
+      "sujet": "Trump déclare guerre Iran terminée",
+      "fait": "Le président Trump a déclaré que la guerre contre l'Iran était 'effectivement terminée' après des discussions avec le premier ministre du Qatar sur la médiation. Selon Al Jazeera, cette déclaration fait suite à des rencontres pour négocier avec l'Iran."
     },
     {
-      "sujet": "Visite papale en Argentine",
-      "fait": "Le pape Léon XIV effectue une visite historique en Argentine, sa première visite papale dans le pays en près de quatre décennies, accueilli par le président Milei. D'après Al Jazeera, cette visite intervient au milieu de tensions avec le gouvernement."
+      "sujet": "Impeachment Pete Hegseth lancé",
+      "fait": "Un élu républicain, Thomas Massie, a déposé une motion pour forcer un vote en vue de destituer le secrétaire à la Défense Pete Hegseth. Selon Radio-Canada et CBC, Massie reproche notamment à Hegseth d'avoir lancé la guerre en Iran sans l'aval du Congrès."
     },
     {
-      "sujet": "Collision de trains en Égypte",
-      "fait": "Deux trains circulant dans la même direction ont percuté près de Giza, causant au moins sept morts et plus de 100 blessés, avec plusieurs voitures déraillées. Selon la BBC World, un train circulant de Gizeh vers Fayoum a percuté l'arrière d'un autre train circulant vers le sud."
+      "sujet": "Canada lance réseau paiements instantanés",
+      "fait": "Le Canada a lancé un réseau de paiements instantanés après plusieurs années de retard. Selon BNN Bloomberg, ce système a été mis en place le 9 novembre 2026."
     },
     {
-      "sujet": "Budget fédéral canadien 2026",
-      "fait": "Le ministre Miller annonce un soutien ciblé de 600 millions de dollars pour les secteurs audio et audiovisuel du Canada dans le Budget 2026. Selon Les Affaires, ce déploiement s'inscrit dans l'initiative 'Maîtres chez nous'."
+      "sujet": "Tarifs postaux Canada augmenteront",
+      "fait": "Le timbre-poste unique au Canada augmentera de 1,44$ à 2$ en 2027, avec une hausse supplémentaire de 7% annuelle à partir de cette date. Selon Global News, cette augmentation permettra de soutenir les opérations de Postes Canada."
     },
     {
-      "sujet": "Epic Games Launcher et SteamOS",
-      "fait": "Epic Games confirme que son nouveau launcher sera compatible avec SteamOS et d'autres distributions Linux incluant Fedora, Cachy et Omarchy. D'après The Verge, le launcher est actuellement en phase de prévisualisation."
+      "sujet": "Chorus Aviation révise prévisions hausse",
+      "fait": "Chorus Aviation Inc. a annoncé ses résultats financiers du troisième trimestre 2026 et révisé ses prévisions à la hausse. Selon Les Affaires, l'annonce a été faite le 9 novembre 2026."
     },
     {
-      "sujet": "Futur de Siri chez Apple",
-      "fait": "Le PDG John Ternus presse Craig Federighi d'accélérer la feuille de route de Siri pour développer un assistant IA plus puissant capable de concurrencer OpenAI's Dots et Meta's Muse. Selon The Verge, deux améliorations significatives sont attendues dans les mois à venir, incluant un contrôle fin des applications Apple."
+      "sujet": "James Gunn Peter Safran remplacés DCU",
+      "fait": "James Gunn et Peter Safran, co-PDG de l'univers cinématographique DC, quittent leurs postes moins de deux mois après la fusion Paramount-Warner Bros. Selon Ars Technica, Jeremy Latcham, protégé de Kevin Feige, les remplace."
     },
     {
-      "sujet": "Futur politique Trump après les midterms",
-      "fait": "L'ancien gouverneur de l'Arkansas Asa Hutchinson déclare que tout dépendra de la façon dont se dérouleront les deux prochaines années et qu'il s'attend à ce que le chaos se poursuive. D'après Radio-Canada, il ajoute que cela n'est pas de bon augure pour l'héritage de Trump."
+      "sujet": "Fervo geothermie 12 milliards commandes",
+      "fait": "La société de géothermie Fervo a annoncé 12 milliards de dollars de commandes pour sa technologie de production d'énergie. Selon TechCrunch, l'entreprise vise à remplacer le gaz naturel en réduisant les coûts de forage géothermique à partir de son site de 8,4 GW en Utah."
     },
     {
-      "sujet": "Trump nomme Dana White au secrétariat de presse",
-      "fait": "Trump souhaite nommer Dana White, patron de l'UFC, au poste de secrétaire de presse de la Maison-Blanche. Selon Al Jazeera, les deux ont des liens commerciaux remontant à des décennies et White a aidé Trump à rejoindre les jeunes électeurs."
+      "sujet": "Archivage Trudeau 12 millions dollars",
+      "fait": "Le gouvernement fédéral a budgété un montant record de 12 millions de dollars pour les archives du mandat de Justin Trudeau comme premier ministre. Selon CBC, il s'agit du plus important investissement jamais consenti pour les archives d'un ancien premier ministre."
+    },
+    {
+      "sujet": "Explosion usine acier Turquie 17 morts",
+      "fait": "Une explosion dans l'usine sidérurgique Habas Demir Celik à Aliaga, en Turquie, a tué au moins 17 personnes le 9 novembre 2026. Selon BBC World, l'explosion a été ressentie comme un séisme par les témoins."
     }
   ]
 }
