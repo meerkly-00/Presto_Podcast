@@ -1,0 +1,81 @@
+```xml
+<script>
+  <intro>Bonjour, on est le lundi neuf novembre deux mille vingt-six. Voici votre Presto en environ quinze minutes. Au menu : l'affaire Jensen Huang chez Nvidia, les marchés qui tentent de stabiliser après la correction technologique, la situation en Iran et au Moyen-Orient, la fusillade de Cracovie, et un peu d'actualité québécoise.</intro>
+
+  <chapitre titre="Tech et économie : l'affaire Nvidia">
+    On commence par l'affaire qui domine l'actualité tech et économique ce matin. Selon Reuters, le conseil d'administration de Nvidia a annoncé dimanche l'ouverture d'une enquête sur son chef de la direction, Jensen Huang, concernant sa relation avec une femme d'affaires chinoise soupçonnée d'être liée au gouvernement de Pékin.
+
+    Selon CBC, le New York Times avait rapporté en octobre que monsieur Huang entretenait une relation rapprochée avec cette femme, identifiée comme Alice Huang, elle-même présentée comme une agente du gouvernement chinois. Des élus républicains de haut rang à la Chambre des représentants américaine ont depuis demandé à monsieur Huang de venir témoigner devant le Congrès ce mois-ci.
+
+    The Verge a publié le texte intégral d'un mémo envoyé par Jensen Huang aux employés de Nvidia, dans lequel il reconnaît l'infidélité. En anglais, je le cite : "I was unfaithful to my wife. My actions hurt her and our children." Fin de citation.
+
+    TechCrunch rapporte les propos de Jeffrey Sonnenfeld, professeur à Yale, qui évalue à environ cinquante pour cent les chances que monsieur Huang conserve son poste de chef de la direction. The Economist, de son côté, pose la question de la survie politique et institutionnelle de monsieur Huang à la tête de l'entreprise la plus valorisée au monde dans le secteur des semi-conducteurs.
+
+    Au Québec, La Presse rapporte que l'animateur Paul Arcand doit aborder cette affaire ce matin dans sa revue de presse, aux côtés des suites de la correction boursière récente.
+
+    Du côté des marchés, Bloomberg rapporte que les actions américaines ont progressé lundi, la baisse du prix du pétrole ayant compensé les inquiétudes entourant Nvidia. Reuters note de son côté que les difficultés de l'entreprise représentent un nouveau test pour des marchés qui cherchaient un calme fragile après la secousse liée à l'intelligence artificielle survenue la semaine dernière. Reuters utilise d'ailleurs l'expression anglaise de "fragile calm after AI whiplash" pour décrire la situation.
+
+    Toujours selon Reuters, les cryptomonnaies ont glissé à leur plus bas niveau en deux mois dans la foulée des élections de mi-mandat américaines.
+  </chapitre>
+
+  <chapitre titre="International">
+    On passe à l'international, où plusieurs dossiers se bousculent ce matin.
+
+    En Pologne, la BBC rapporte que l'auteur présumé de la fusillade de Cracovie est mort à l'hôpital. Au moins six personnes avaient été tuées samedi lorsque l'homme a ouvert le feu sur la place principale de la ville, en plus de trois membres de sa famille retrouvés sans vie à leur domicile. Un différend politique se développe maintenant autour des motivations de l'auteur des gestes, toujours selon la BBC.
+
+    Au Moyen-Orient, Al Jazeera rapporte que l'Iran durcit ses mesures de sécurité intérieure face à la menace de frappes américaines, visant autant des espions présumés que des rassemblements de jeunes. Toujours selon Al Jazeera, le premier ministre du Qatar doit rencontrer Donald Trump pour discuter d'une proposition iranienne de deux jours élaborée avec la médiation qatarienne, actuellement à l'étude à Washington.
+
+    En Israël, The Economist se penche sur les chances de Gadi Eisenkot de former un nouveau gouvernement, précisant que tant ses adversaires que ses alliés présumés pourraient encore faire obstacle à cette tentative.
+
+    En Ukraine, Al Jazeera rapporte qu'au moins une personne est morte dans la nuit alors que la Russie et l'Ukraine ont échangé des frappes. Des drones ont mis le feu à la deuxième plus grande raffinerie de pétrole russe, tandis que des frappes russes ont visé des sites énergétiques ukrainiens.
+
+    Du côté de la crise migratoire, la BBC rapporte qu'au moins trente-quatre personnes sont mortes après le naufrage d'une embarcation au large du Sénégal, en route vers les îles Canaries espagnoles. CBC rapporte par ailleurs que les autorités grecques ont retrouvé douze corps dans une embarcation au sud de la Crète, tandis que dix-huit personnes ont été secourues.
+
+    En Égypte, l'Associated Press rapporte qu'une collision entre deux trains a fait sept morts et au moins cent vingt-cinq blessés, dans le district d'al-Ayyat, à environ cinquante-deux kilomètres au sud du Caire, selon le ministère égyptien des Transports cité par CBC.
+
+    Du côté américain, CBC rapporte que le président Donald Trump a affirmé dimanche qu'il "plaisantait" en suggérant que le patron de l'UFC, Dana White, pourrait devenir son prochain attaché de presse à la Maison-Blanche. L'affirmation avait circulé la veille sur les réseaux sociaux et avait alimenté les spéculations sur une approche combative envers les démocrates, qui s'apprêtent à prendre le contrôle du Congrès.
+
+    Enfin, en France, un sondage cité par Reuters place Marine Le Pen et Jean-Luc Mélenchon en tête des intentions de vote pour la présidentielle de deux mille vingt-sept.
+  </chapitre>
+
+  <chapitre titre="Économie et marchés">
+    Du côté de l'économie, Bloomberg rapporte que les données sur l'emploi américain ont ravivé les attentes d'une hausse du taux directeur en décembre, ce qui a maintenu l'or en baisse.
+
+    Toujours selon Bloomberg, Wall Street multiplie les grandes transactions alors qu'approche un changement d'ère politique aux États-Unis.
+
+    Au chapitre des tensions commerciales et énergétiques, Reuters rapporte que les marchés du Golfe reculent alors que les investisseurs attendent la prochaine décision de Donald Trump concernant l'Iran. Le Financial Times rapporte par ailleurs qu'un bureau de la société pétrolière saoudienne Aramco à Riyad a été endommagé lors des dernières frappes houthies.
+
+    Au Canada, BNN Bloomberg se penche sur l'effet du conflit commercial avec les États-Unis sur le retour des snowbirds canadiens, et rapporte aussi que des milliers de chèvres pourraient être abattues en raison des tarifs américains.
+
+    Toujours selon BNN Bloomberg, une nouvelle exemption permet désormais aux acheteurs étrangers de se procurer des propriétés neuves au Canada. Des experts cités par le média restent toutefois partagés quant à l'effet réel de cette mesure sur l'abordabilité du logement.
+
+    Au Québec, Le Devoir rapporte que la hausse des taux d'intérêt contribue à ralentir le marché immobilier, qui pourrait devenir, selon certains observateurs cités par le journal, "beaucoup plus tranquille" dans les prochains mois.
+  </chapitre>
+
+  <chapitre titre="Actualité québécoise et canadienne">
+    Au Québec, Radio-Canada rapporte que le Parti libéral du Québec conteste devant la Cour supérieure les résultats de l'élection dans la circonscription de Vachon. Affine Lwalalika a déposé une requête en contestation d'élection.
+
+    Toujours selon Radio-Canada, plus de cent élèves âgés de dix à douze ans, issus d'au moins deux écoles primaires de Candiac, ont partagé des images pornographiques dans un groupe Snapchat, une application qui exige pourtant d'avoir au moins treize ans pour créer un compte. La Régie intermunicipale de police Roussillon a été sollicitée par les écoles pour intervenir. L'agente aux relations médiatiques Vicky Côté précise que le service policier n'a pas été en mesure de confirmer la nature ou la provenance des images, ni l'utilisation éventuelle de l'intelligence artificielle. Aucune plainte formelle n'a été déposée et aucune enquête criminelle n'est en cours, mais des interventions, dont des rencontres individuelles avec les jeunes et leurs parents, pourraient avoir lieu.
+
+    Du côté judiciaire, La Presse publie un reportage sur le mégaprocès Mécano, qui met en lumière le rôle des réseaux sociaux dans cette affaire, notamment des publications tournant autour de l'homicide de Christopher-Shawn Jean Vilsaint, aussi connu sous le nom de Dirty S.
+
+    Au chapitre de la criminalité, le Journal de Montréal rapporte qu'un agent double a permis de piéger un réseau d'exportation de voitures volées.
+
+    Du côté de la vie culturelle, Radio-Canada rapporte que le duo saguenéen de rock microtonal Angine de Poitrine a remporté cinq prix Félix dimanche soir, lors du quarante-huitième Gala de l'ADISQ.
+
+    Enfin, à l'échelle du pays, CBC rapporte que des critiques soulèvent des inquiétudes quant à la protection des renseignements personnels en santé, alors qu'Ottawa accélère sa stratégie en intelligence artificielle, en commençant par le secteur de la santé. Des experts cités par CBC estiment que les mesures proposées pour protéger la vie privée comportent des lacunes importantes.
+  </chapitre>
+
+  <chapitre titre="Sport">
+    Rapidement en sport. Au hockey, Sportsnet rapporte que les Maple Leafs de Toronto, déjà touchés par les blessures, se sont inclinés quatre à zéro face aux Devils du New Jersey, Connor Hellebuyck signant son premier blanchissage avec sa nouvelle équipe. Selon Sportsnet, Hellebuyck ne sera cependant pas devant le filet mardi à Winnipeg, où il affrontera son ancienne équipe. Il a confié se sentir, je le cite : "disappointed but I understand". Fin de citation.
+
+    Toujours dans la Ligue nationale, Global News rapporte que les Flames de Calgary ont battu les Flyers de Philadelphie quatre à trois en prolongation, grâce à un but de Matt Coronato. Chez les Jets de Winnipeg, Sportsnet souligne un but victorieux de Mark Scheifele avec une seconde et six dixièmes à faire au match contre Tampa Bay.
+
+    Au golf, CBC rapporte que Blades Brown, âgé de dix-neuf ans, est devenu le plus jeune gagnant sur le circuit de la PGA en quatre-vingt-quinze ans, remontant un retard de sept coups pour l'emporter au Mexique.
+
+    Enfin, TVA Sports souligne l'intronisation de Carey Price au Temple de la renommée du hockey, l'ancien gardien des Canadiens se disant fier de ses racines autochtones.
+  </chapitre>
+
+  <outro>Voilà pour ce Presto du lundi neuf novembre deux mille vingt-six. Si ce briefing vous est utile, le meilleur coup de main que vous pouvez nous donner, c'est de le partager à une personne qui aime rester informée. Et selon votre plateforme : un abonnement sur Spotify ou Apple Podcasts, un pouce bleu et un abonnement sur YouTube, ça prend deux secondes et ça aide vraiment Presto à grandir. Sur ce, bonne journée, et à demain.</outro>
+</script>
+```
