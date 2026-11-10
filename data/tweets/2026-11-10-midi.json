@@ -1,0 +1,14 @@
+{
+  "date": "2026-11-10",
+  "kind": "poll",
+  "text": "Ce matin → Anthropic prépare son IPO à ~70 G$. NOUVEAUTÉ : ses 7 co-fondateurs vendront chacun le même nombre d'actions, générant ~250 M$ en liquide tout en gardant le contrôle.\n\nSelon toi, comment les régulateurs doivent-ils encadrer les IPO de firmes d'IA?",
+  "poll": {
+    "options": [
+      "Cadre strict,",
+      "Règles standard, pas de",
+      "Approche légère,",
+      "Moratorium jusqu'à"
+    ],
+    "duration_minutes": 1440
+  }
+}
