@@ -1,50 +1,54 @@
 {
-  "generated_at": "2026-11-09T22:53:04.430087+00:00",
+  "generated_at": "2026-11-10T20:14:26.899157+00:00",
   "window_hours": 8,
   "faits": [
     {
-      "sujet": "Nvidia enquête sur Jensen Huang",
-      "fait": "Le conseil d'administration de Nvidia a ouvert une enquête sur la relation de Jensen Huang avec une personne soupçonnée d'être un espion chinois. Selon TechCrunch, l'action Nvidia a chuté de plus de 4% suite à cette annonce."
+      "sujet": "Anthropic IPO et liquidités",
+      "fait": "Les sept co-fondateurs d'Anthropic prévoient chacun de vendre le même nombre d'actions lors de l'IPO, générant environ 250 millions de dollars en liquide au point médian de la fourchette de prix tout en conservant le contrôle de l'entreprise. Selon TechCrunch."
     },
     {
-      "sujet": "Stellantis vend usine Brampton",
-      "fait": "Stellantis a annoncé la vente de son usine d'assemblage de Brampton en Ontario à Roshel Inc., une entreprise canadienne de fabrication de véhicules blindés. Selon CBC et Radio-Canada, l'accord a été conclu le 9 novembre 2026."
+      "sujet": "Canada et sanctions Iran",
+      "fait": "Le Canada réinstaure les sanctions contre 11 entités iraniennes, qu'il avait levées il y a 10 ans, les accusant de contribuer au programme nucléaire et de missiles balistiques de Téhéran. Selon La Presse."
     },
     {
-      "sujet": "Trump déclare guerre Iran terminée",
-      "fait": "Le président Trump a déclaré que la guerre contre l'Iran était 'effectivement terminée' après des discussions avec le premier ministre du Qatar sur la médiation. Selon Al Jazeera, cette déclaration fait suite à des rencontres pour négocier avec l'Iran."
+      "sujet": "Oura acquisition primaire",
+      "fait": "Oura acquiert Counsel Health, une startup de soins primaires utilisant l'IA, pour 625 millions de dollars. Cela intervient quelques semaines après que Oura a reporté indéfiniment son IPO de jusqu'à 2,2 milliards de dollars. Selon TechCrunch."
     },
     {
-      "sujet": "Impeachment Pete Hegseth lancé",
-      "fait": "Un élu républicain, Thomas Massie, a déposé une motion pour forcer un vote en vue de destituer le secrétaire à la Défense Pete Hegseth. Selon Radio-Canada et CBC, Massie reproche notamment à Hegseth d'avoir lancé la guerre en Iran sans l'aval du Congrès."
+      "sujet": "Nvidia perte capitalisation",
+      "fait": "Nvidia connaît une baisse de 470 milliards de dollars sur deux jours suite à des révélations concernant une liaison du PDG Jensen Huang avec une femme soupçonnée d'être une espionne chinoise. Microsoft dépasse temporairement Nvidia en capitalisation boursière pour la première fois depuis juin 2025. Selon Reuters."
     },
     {
-      "sujet": "Canada lance réseau paiements instantanés",
-      "fait": "Le Canada a lancé un réseau de paiements instantanés après plusieurs années de retard. Selon BNN Bloomberg, ce système a été mis en place le 9 novembre 2026."
+      "sujet": "Starlink Mini 2 batterie",
+      "fait": "SpaceX annonce le Starlink Mini 2, équipé d'une batterie amovible fonctionnant jusqu'à 4,5 heures, au prix de 999 dollars incluant un an de service Roam Unlimited valorisé à 2 100 dollars. Selon The Verge."
     },
     {
-      "sujet": "Tarifs postaux Canada augmenteront",
-      "fait": "Le timbre-poste unique au Canada augmentera de 1,44$ à 2$ en 2027, avec une hausse supplémentaire de 7% annuelle à partir de cette date. Selon Global News, cette augmentation permettra de soutenir les opérations de Postes Canada."
+      "sujet": "PlayStation Plus application PC",
+      "fait": "Sony ferme l'application PlayStation Plus pour PC le 10 décembre. Moins de 0,4% des abonnés PlayStation Plus Premium utilisaient cette application de diffusion en continu. Selon The Verge."
     },
     {
-      "sujet": "Chorus Aviation révise prévisions hausse",
-      "fait": "Chorus Aviation Inc. a annoncé ses résultats financiers du troisième trimestre 2026 et révisé ses prévisions à la hausse. Selon Les Affaires, l'annonce a été faite le 9 novembre 2026."
+      "sujet": "Talks Russie Ukraine Abu Dhabi",
+      "fait": "La Russie et l'Ukraine tiennent des pourparlers d'environ 4 heures à Abu Dhabi, avec médiation américaine, première négociation trilatérale depuis février. Selon Associated Press et BBC."
     },
     {
-      "sujet": "James Gunn Peter Safran remplacés DCU",
-      "fait": "James Gunn et Peter Safran, co-PDG de l'univers cinématographique DC, quittent leurs postes moins de deux mois après la fusion Paramount-Warner Bros. Selon Ars Technica, Jeremy Latcham, protégé de Kevin Feige, les remplace."
+      "sujet": "Supreme Court armes à feu Canada",
+      "fait": "La Cour suprême du Canada réserve sa décision sur la question de savoir si le gouvernement fédéral avait l'autorité pour interdire des centaines de modèles d'armes à feu, après audition d'arguments des défenseurs des armes et des avocats gouvernementaux. Selon CBC."
     },
     {
-      "sujet": "Fervo geothermie 12 milliards commandes",
-      "fait": "La société de géothermie Fervo a annoncé 12 milliards de dollars de commandes pour sa technologie de production d'énergie. Selon TechCrunch, l'entreprise vise à remplacer le gaz naturel en réduisant les coûts de forage géothermique à partir de son site de 8,4 GW en Utah."
+      "sujet": "Mercor AI valuation",
+      "fait": "La startup de formation en IA Mercor est valorisée à 20 milliards de dollars dans son dernier cycle de financement. Selon Reuters."
     },
     {
-      "sujet": "Archivage Trudeau 12 millions dollars",
-      "fait": "Le gouvernement fédéral a budgété un montant record de 12 millions de dollars pour les archives du mandat de Justin Trudeau comme premier ministre. Selon CBC, il s'agit du plus important investissement jamais consenti pour les archives d'un ancien premier ministre."
+      "sujet": "Google Pixel Tag disponibilité",
+      "fait": "Le tracker Google Pixel Tag est désormais disponible à l'achat au prix de 29,99 dollars pour une unité ou 99,99 dollars pour un paquet de quatre. Selon The Verge."
     },
     {
-      "sujet": "Explosion usine acier Turquie 17 morts",
-      "fait": "Une explosion dans l'usine sidérurgique Habas Demir Celik à Aliaga, en Turquie, a tué au moins 17 personnes le 9 novembre 2026. Selon BBC World, l'explosion a été ressentie comme un séisme par les témoins."
+      "sujet": "OpenAI profils métier ChatGPT",
+      "fait": "OpenAI déploie de nouveaux profils commerciaux pour rendre ChatGPT un moteur de découverte pour les consommateurs plus robuste, permettant aux entreprises de l'aider à remplir cette fonction. Selon TechCrunch."
+    },
+    {
+      "sujet": "Projets majeurs fédéraux",
+      "fait": "Dix-sept employés de plus d'une douzaine de compagnies privées ont été détachés pour travailler au Bureau des grands projets fédéral, selon un document fourni au comité de l'environnement de la Chambre des communes. Selon CBC."
     }
   ]
 }
