@@ -23,6 +23,17 @@
       <link>https://www.prestopodcast.online</link>
     </image>
     <item>
+      <title>Presto — édition du 10 novembre 2026</title>
+      <description>Au menu : L'affaire Nvidia, International, Économie et marchés, Tech, Actualité québécoise, Sport</description>
+      <pubDate>Tue, 10 Nov 2026 11:01:34 +0000</pubDate>
+      <guid isPermaLink="false">https://github.com/meerkly-00/Presto_Podcast/releases/download/2026-11-10/2026-11-10.mp3</guid>
+      <enclosure url="https://github.com/meerkly-00/Presto_Podcast/releases/download/2026-11-10/2026-11-10.mp3" type="audio/mpeg" length="7466100"/>
+      <itunes:duration>690</itunes:duration>
+      <itunes:summary>Au menu : L'affaire Nvidia, International, Économie et marchés, Tech, Actualité québécoise, Sport</itunes:summary>
+      <itunes:episode>171</itunes:episode>
+      <itunes:image href="https://www.prestopodcast.online/artwork-v2.jpg"/>
+    </item>
+    <item>
       <title>Presto — édition du 9 novembre 2026</title>
       <description>Au menu : Tech et économie : l'affaire Nvidia, International, Économie et marchés, Actualité québécoise et canadienne, Sport</description>
       <pubDate>Mon, 09 Nov 2026 11:01:29 +0000</pubDate>

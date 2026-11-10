@@ -1,0 +1,85 @@
+```xml
+<script>
+  <intro>Bonjour, on est le mardi dix novembre deux mille vingt-six. Voici votre Presto en environ quinze minutes. Au menu : l'affaire Nvidia qui continue de faire des vagues, les pourparlers de paix entre la Russie et l'Ukraine qui reprennent, l'économie et les marchés, la tech, et un peu d'actualité québécoise.</intro>
+
+  <chapitre titre="L'affaire Nvidia">
+    On commence avec l'affaire qui continue de dominer l'actualité économique et politique des deux côtés de la frontière. Selon la BBC, le président américain Donald Trump a confirmé lundi que le FBI enquête sur la relation entre le chef de la direction de Nvidia, Jensen Huang, et une femme d'affaires chinoise soupçonnée d'être une agente du gouvernement chinois. Toujours selon la BBC, Trump a dit avoir parlé directement à Huang à ce sujet lundi.
+
+    CBC rapporte que Trump a néanmoins minimisé la portée de l'enquête, disant ne pas croire que le dirigeant, qui a contribué au développement de l'intelligence artificielle, ait des raisons de s'inquiéter.
+
+    Reuters se penche sur l'identité de cette femme d'affaires, nommée Alice Huang. The Verge souligne de son côté l'ampleur de ce qui est en jeu : Nvidia détient environ quatre-vingt-dix-neuf milliards de dollars en investissements dans des laboratoires d'intelligence artificielle, des fournisseurs d'infrastructure infonuagique et d'autres entreprises technologiques de pointe. Son chef de la direction serait donc une cible de choix pour une puissance étrangère, selon le média.
+
+    Le Wall Street Journal rapporte que l'action de Nvidia a reculé après l'annonce de l'ouverture de cette enquête par le conseil d'administration de l'entreprise. Al Jazeera note que l'affaire relance par ailleurs le débat chez les élus américains sur les restrictions à imposer aux ventes de puces à la Chine, plusieurs parlementaires réclamant un resserrement des règles d'exportation.
+
+    Du côté plus léger, TechCrunch souligne que l'affaire, surnommée en ligne un scandale de type « honeypot », a aussi inspiré une vague de mèmes sur internet.
+  </chapitre>
+
+  <chapitre titre="International">
+    On passe à l'international, où les pourparlers de paix entre la Russie et l'Ukraine ont repris. Selon CBC, des discussions parrainées par les États-Unis ont débuté à Abou Dabi, Kyiv et Moscou restant loin d'une entente sur les éléments clés d'un accord, alors que la guerre approche de son cinquième anniversaire.
+
+    La BBC rapporte que des délégations de Kyiv, Washington et Moscou se trouvent aux Émirats arabes unis pour les premières discussions trilatérales depuis février, des représentants américains évoquant une certaine flexibilité de la part des deux camps belligérants. The Economist, de son côté, soutient que ces pourparlers pressés par Trump pourraient surtout donner à la Russie l'occasion de prolonger le conflit, Vladimir Poutine n'étant pas, selon le magazine, dans la même urgence que son homologue américain.
+
+    Toujours à Washington, CBC rapporte qu'un élu républicain de la Chambre des représentants, Thomas Massie, a déposé une motion pour forcer un vote sur la destitution du secrétaire à la Guerre, Pete Hegseth, mettant de la pression sur ses collègues républicains après les lourdes pertes électorales du parti.
+
+    En Espagne, la BBC rapporte qu'un policier est mort et qu'un autre a été blessé après l'explosion d'un sac à dos à Oviedo, les agents étant intervenus en lien avec un incident distinct survenu dans un immeuble résidentiel de la ville.
+
+    Au Pakistan, Al Jazeera rapporte qu'une animatrice de télévision, Rabiya Ahsan, a été tuée par balle à son domicile. La police enquête sur les déclarations de son époux, qui affirme qu'il s'agit d'un coup de feu accidentel.
+  </chapitre>
+
+  <chapitre titre="Économie et marchés">
+    Du côté de l'économie, Bloomberg rapporte que les marchés boursiers asiatiques s'apprêtent à grimper, portés par une remontée des titres technologiques américains et un recul des prix du pétrole. Toujours selon Bloomberg, le ralentissement lié à l'intelligence artificielle pousse certains investisseurs à chercher des occasions d'achat du côté des marchés émergents.
+
+    Le Wall Street Journal souligne que les investisseurs ont largement fait fi des turbulences récentes, qu'il s'agisse des élections américaines, du repli boursier ou même du scandale entourant Nvidia, pour continuer d'acheter des actions.
+
+    Du côté des taux d'intérêt, Reuters rapporte que Christopher Waller, de la Réserve fédérale américaine, entend appuyer au moins une hausse d'un quart de point du taux directeur en décembre.
+
+    Selon le Financial Times, les prix du pétrole ont touché un creux de dix semaines après que Trump a affirmé que des frappes contre l'Iran seraient hautement improbables.
+
+    Au Canada, BNN Bloomberg rapporte que le pays a lancé son réseau de paiements instantanés après des années de retard. Toujours selon BNN Bloomberg, le premier ministre Mark Carney a nommé la première personne à diriger le nouveau fonds souverain du Canada. Selon Reuters, il s'agit de Karniol-Tambour, qui quitte Bridgewater pour prendre les rênes de ce fonds.
+
+    Toujours du côté canadien, BNN Bloomberg rapporte qu'une banque canadienne s'apprête à acheter un gestionnaire de placements australien, et que le Canada et la Chine ont signé une entente pour renforcer leurs liens dans le secteur financier, selon Les Affaires.
+
+    Ailleurs, le Financial Times rapporte que le Botswana prévoit doubler sa participation dans De Beers pour la porter à trente pour cent. Du côté des entreprises, Reuters rapporte que PepsiCo prévoit couper des emplois en Amérique du Nord.
+
+    Un mot enfin sur l'intelligence artificielle et l'économie mondiale. The Economist soutient, dans un texte d'opinion, que l'essor de l'intelligence artificielle donne de nouvelles raisons aux défenseurs du libre-échange de s'en réjouir, sans toutefois préciser lesquelles de façon chiffrée.
+  </chapitre>
+
+  <chapitre titre="Tech">
+    Du côté de la tech, l'entreprise d'intelligence artificielle Anthropic est au cœur de l'attention. Selon Reuters, un projet de premier appel public à l'épargne évaluant l'entreprise à près de soixante-dix milliards de dollars a brièvement circulé auprès de banques avant d'être retiré. TechCrunch rapporte que le Wall Street Journal indique de son côté qu'Anthropic prévoit tout de même aller de l'avant avec son projet d'inscription en bourse, une fourchette d'évaluation devant être fixée cette semaine.
+
+    Toujours en matière de financement, Bloomberg rapporte que Altimeter, un bailleur de fonds d'OpenAI, cherche à amasser plus de trois milliards de dollars pour des fonds de marchés privés.
+
+    Reuters rapporte par ailleurs que Google a dévoilé de nouvelles variantes de puces d'intelligence artificielle, alors que la demande pour l'infonuagique continue de croître.
+
+    Du côté du divertissement, The Verge rapporte que le chef de la direction de Paramount Skydance, David Ellison, a affirmé lors d'un appel aux résultats trimestriels que l'intelligence artificielle pourrait représenter, je le cite : "the biggest creative unlock in modern history." Fin de citation. Il a comparé l'impact potentiel de cette technologie à celui qu'a eu l'arrivée des effets visuels numériques dans les années quatre-vingt-dix.
+
+    Ars Technica rapporte de son côté un changement de direction chez l'univers cinématographique DC : les codirigeants James Gunn et Peter Safran quittent leurs fonctions, à peine deux mois après la fusion controversée entre Paramount et Warner Bros. Le producteur Jeremy Latcham doit les remplacer.
+
+    En sécurité informatique, Ars Technica rapporte qu'une vulnérabilité critique surnommée "sshole", touchant des systèmes Linux utilisant OpenSSH et la librairie musl, est activement exploitée par des pirates informatiques. Selon la firme de sécurité Greynoise, un groupe qu'elle surveille a mené des intrusions dites matures à l'aide de ce code, qui contiendrait des commentaires en chinois et semblerait avoir été généré avec l'aide de l'intelligence artificielle.
+
+    Un mot enfin sur la proposition de taxe sur les milliardaires en Californie. Selon TechCrunch, qui cite l'Associated Press, les électeurs californiens ont rejeté la proposition quarante, qui aurait imposé une taxe unique de cinq pour cent sur les grandes fortunes. Les dirigeants technologiques ont dépensé environ dix fois plus que les partisans de la mesure pour la faire battre. TechCrunch note que les fondateurs et économistes consultés avant le vote étaient divisés sur la question de savoir si la taxe aurait fait fuir les résidents fortunés ou simplement réduit leurs avoirs.
+  </chapitre>
+
+  <chapitre titre="Actualité québécoise">
+    Au Québec, La Presse rapporte que l'Université du Québec franchit une nouvelle étape dans la création de son propre programme de médecine, en déposant son dossier d'opportunité auprès du gouvernement. L'établissement prévoit accueillir une première cohorte de deux cents étudiants en deux mille trente et un, dont au moins soixante-quinze pour cent proviendraient de régions ou de milieux mal desservis.
+
+    Toujours selon La Presse, trois étudiantes voilées du cégep de Saint-Laurent, inscrites en techniques d'éducation spécialisée, doivent renoncer à leur formation faute d'avoir trouvé de stage, et ce, malgré un taux de placement de quatre-vingt-dix-huit pour cent dans leur programme. Le sociologue Gérard Bouchard commente la situation dans une chronique du même média, où il questionne cette situation en pleine pénurie de personnel dans le secteur.
+
+    Le Devoir rapporte de son côté qu'une étude de l'Institut du Québec souligne que Montréal a besoin de ses travailleurs étrangers qualifiés, les secteurs de pointe de la métropole nécessitant cette main-d'œuvre experte.
+
+    Du côté du sport, Le Journal de Montréal rapporte que le propriétaire Joey Saputo a annoncé la vente du CF Montréal, un groupe de Phoenix étant évoqué parmi les acheteurs potentiels.
+  </chapitre>
+
+  <chapitre titre="Sport">
+    Rapidement en sport. Au hockey, Sportsnet rapporte que les Canucks de Vancouver ont connu un début de match difficile dans une défaite face aux Flyers de Philadelphie, qui disputaient pourtant leur deuxième match en vingt-quatre heures. Les Canucks n'ont dirigé que six tirs au but après quarante minutes de jeu. Global News précise que les Flyers ont finalement gagné trois à un, résistant à une poussée tardive des Canucks.
+
+    Toujours selon Sportsnet, l'entraîneur des Jets de Winnipeg, Scott Arniel, a critiqué la décision des Devils du New Jersey de ne pas faire jouer le gardien Connor Hellebuyck lors de son retour au Manitoba.
+
+    En basketball, Sportsnet rapporte que les Raptors de Toronto, privés de la plupart de leurs joueurs offensifs les plus importants, se sont inclinés face aux Grizzlies.
+
+    Au football, les Alouettes de Montréal et les Elks d'Edmonton sont arrivés à Calgary en vue de la cent treizième Coupe Grey, qui se jouera dimanche, selon Global News.
+  </chapitre>
+
+  <outro>Voilà pour ce Presto du mardi dix novembre deux mille vingt-six. Si ce briefing vous est utile, le meilleur coup de main que vous pouvez nous donner, c'est de le partager à une personne qui aime rester informée. Et selon votre plateforme : un abonnement sur Spotify ou Apple Podcasts, un pouce bleu et un abonnement sur YouTube, ça prend deux secondes et ça aide vraiment Presto à grandir. Sur ce, bonne journée, et à demain.</outro>
+</script>
+```
