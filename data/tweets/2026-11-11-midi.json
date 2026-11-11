@@ -1,0 +1,14 @@
+{
+  "date": "2026-11-11",
+  "kind": "poll",
+  "text": "Ce matin → Des dizaines de milliers d'Espagnols en grève sur le logement et le coût de la vie.\n\nNouveauté : Des affrontements ont éclaté à Barcelone mercredi, selon BBC World.\n\nComment évalues-tu l'efficacité des grèves générales comme outil de changement politique?",
+  "poll": {
+    "options": [
+      "Très efficace",
+      "Modérément efficace",
+      "Peu efficace",
+      "Inefficace"
+    ],
+    "duration_minutes": 1440
+  }
+}
