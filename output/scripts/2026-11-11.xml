@@ -1,0 +1,87 @@
+```xml
+<script>
+  <intro>Bonjour, on est le mercredi onze novembre deux mille vingt-six. Voici votre Presto en environ quinze minutes. Au menu : l'affaire Nvidia qui continue de rebondir à Washington, la politique américaine avec le vote sur Pete Hegseth, l'international avec l'Espagne et l'Ukraine, l'économie et les marchés, la tech, et un mot sur le jour du Souvenir au Canada.</intro>
+
+  <chapitre titre="L'affaire Nvidia">
+    On commence avec l'affaire qui continue de dominer l'actualité économique et politique des deux côtés de la frontière. Selon CBC, l'identité de la femme d'affaires chinoise au cœur du dossier a été précisée. Il s'agit d'Alice Huang, que les autorités américaines ont identifiée comme un agent de renseignement lié à Pékin ayant transmis de l'information aux autorités chinoises.
+
+    La pression politique s'intensifie. Selon Reuters, un sénateur républicain siégeant au comité bancaire du Sénat américain a demandé la démission du chef de la direction de Nvidia, Jensen Huang. Toujours selon BNN Bloomberg, Nvidia et Jensen Huang font maintenant l'objet de poursuites judiciaires liées aux informations divulguées concernant cette affaire d'espionnage présumé.
+
+    TechCrunch rapporte que des experts en gouvernance d'entreprise consultés par le média affirment n'avoir jamais rien vu de comparable à ce qui se déroule actuellement chez Nvidia. Selon l'Associated Press, cette affaire pourrait avoir des répercussions politiques plus larges à Washington, au-delà du seul sort de Jensen Huang.
+
+    Malgré la tourmente, Bloomberg rapporte que les gains du secteur technologique soutiennent les marchés boursiers, pendant que les obligations reculent sur fond d'attentes autour des décisions de la Réserve fédérale américaine.
+  </chapitre>
+
+  <chapitre titre="Politique américaine">
+    On reste aux États-Unis, où la Chambre des représentants a évité de justesse un vote de destitution contre le secrétaire à la Guerre, Pete Hegseth. Selon la BBC, le président américain Donald Trump s'est réjoui du résultat, qualifiant Hegseth de, je le cite : "Great American Patriot". Fin de citation.
+
+    Selon Al Jazeera, onze démocrates étaient absents lors du vote de procédure qui a permis d'écarter la résolution de destitution de justesse. CBC World précise que les républicains de la Chambre ont voté mardi pour mettre de côté cette résolution.
+
+    Du côté des démocrates, Radio-Canada se penche sur la suite des choses : le parti devra définir une stratégie pour rester uni entre ses ailes progressiste et centriste, au-delà de la seule opposition à Donald Trump.
+  </chapitre>
+
+  <chapitre titre="International">
+    On passe à l'international. En Espagne, Al Jazeera rapporte le début de la première grève générale du pays en quatorze ans. Le mouvement perturbe le transport public et plusieurs industries, les syndicats réclamant une réforme du logement à l'approche des élections prévues le vingt-neuf novembre.
+
+    Du côté de l'Ukraine, Reuters rapporte que le chemin vers l'adhésion à l'Union européenne se rétrécit à mesure que la guerre se prolonge. L'Associated Press précise que la Russie et l'Ukraine ont tenu près de quatre heures de pourparlers parrainés par les États-Unis à Abou Dabi mardi.
+
+    Toujours en lien avec la sécurité européenne, la BBC rapporte que les autorités américaines accusent trois hommes soutenus par l'Iran d'avoir planifié plusieurs attaques, dont un incident visant la base aérienne britannique de RAF Fairford utilisée par les forces armées américaines. CBC World précise que ces trois hommes font face à des accusations liées à près de vingt complots visant des communautés juives en Europe et aux États-Unis.
+
+    Par ailleurs, CBC World rapporte l'arrestation en Angleterre d'un soldat américain affecté à une unité de l'OTAN, soupçonné d'espionnage lié à la Russie.
+
+    Du côté du Royaume-Uni, Al Jazeera rapporte un différend entre Londres et l'Argentine concernant un projet pétrolier au large des îles Falkland. Le Royaume-Uni affirme qu'il défendra ses intérêts devant un tribunal, alors que l'Argentine cherche à faire bloquer le projet.
+
+    Enfin, l'Associated Press rapporte qu'au moins douze personnes sont mortes et des dizaines d'autres ont été blessées dans des collisions survenues sur une autoroute bulgare enveloppée de brouillard.
+  </chapitre>
+
+  <chapitre titre="Économie et marchés">
+    On passe à l'économie. Selon le Wall Street Journal, les contrats à terme du Nasdaq grimpent alors que l'optimisme autour de l'intelligence artificielle revient. Reuters confirme que les actions progressent alors que l'entreprise CoreWeave relance l'engouement pour le secteur de l'intelligence artificielle. Toujours selon Reuters, CoreWeave vise d'ailleurs une rentabilité d'ici deux mille vingt-huit, porté par la demande soutenue dans ce secteur.
+
+    Du côté des taux d'intérêt, BNN Bloomberg rapporte que la Banque du Canada envisage la possibilité de hausses additionnelles du taux directeur. Aux États-Unis, le Wall Street Journal rapporte que les rendements obligataires ont grimpé après la publication de données sur l'inflation plus élevées que prévu.
+
+    En entreprises, Bloomberg rapporte que les résultats trimestriels de Petrobras ont déçu malgré des vents favorables du côté du pétrole et du raffinage. Le Financial Times rapporte que l'entreprise Anthropic prépare une hausse de l'évaluation visée pour son premier appel public à l'épargne, désormais autour de mille cinq cents milliards de dollars ou plus, après une évaluation précédente autour de mille quatre cents milliards de dollars.
+
+    Toujours en entreprises, Reuters rapporte que la minière canadienne Barrick Mining a déposé une demande de premier appel public à l'épargne pour ses activités nord-américaines à New York. Le Financial Times rapporte par ailleurs que l'homme le plus riche d'Afrique, Aliko Dangote, a retiré son projet d'inscription en bourse à Londres.
+
+    Du côté de l'Asie, Bloomberg rapporte que la Chine compte sur ses aînés pour relancer une économie au ralenti. Le Financial Times rapporte aussi que le vice-président de l'Indonésie a l'intention de démissionner après que ses qualifications ont été remises en question.
+
+    Au Canada, CBC rapporte que la vente de l'usine Stellantis de Brampton, en Ontario, au fabricant de véhicules blindés Roshel, suscite à la fois de l'optimisme et de la déception. Des travailleurs et des élus locaux déplorent la perte de deux mille emplois, tandis que certains commerçants et experts estiment que la nouvelle entreprise pourrait attirer davantage d'emplois et d'achalandage dans la communauté.
+
+    Enfin, The Economist se penche sur les finances publiques européennes, notant que le continent représente la moitié des dépenses sociales mondiales, une réalité que sa politique fragmentée rend difficile à réformer.
+  </chapitre>
+
+  <chapitre titre="Tech">
+    Du côté de la tech, OpenAI poursuit ses acquisitions. Selon TechCrunch, l'entreprise a fait l'acquisition d'Odessia, une jeune pousse dans le domaine du voyage fondée par Francis Davidson, aussi connu pour avoir fondé Sonder.
+
+    Toujours selon TechCrunch, un nouvel encadrement réglementaire touche OpenAI et Anthropic : la loi sur la sécurité de l'intelligence artificielle de l'État de New York entre en vigueur, exigeant que les grands développeurs s'enregistrent, divulguent leurs pratiques de sécurité et signalent tout incident critique, sous peine d'amendes.
+
+    Du côté des télécommunications américaines, Ars Technica rapporte que les sénateurs démocrates s'opposent à la nomination d'une nouvelle commissaire républicaine à la Commission fédérale des communications, pendant la période précédant leur prise de contrôle du Congrès en janvier deux mille vingt-sept. Les démocrates prévoient aussi mener des enquêtes sur le président de l'organisme, Brendan Carr.
+
+    En matière d'intelligence artificielle appliquée à la santé, The Verge rapporte que l'entreprise Oura fait l'acquisition de Counsel Health, une jeune pousse de clavardage médical propulsé par l'intelligence artificielle, pour environ six cent vingt-cinq millions de dollars.
+
+    Ars Technica rapporte aussi qu'Amazon dévoile un drone et un robot de sécurité propulsés par l'intelligence artificielle pour sa gamme Ring, ce qui ravive des préoccupations en matière de vie privée déjà soulevées par une tentative précédente de l'entreprise de populariser une caméra de sécurité volante.
+
+    Enfin, Ars Technica rapporte que l'armée américaine montre des signes de nervosité face à une possible pénurie de capacité de lancement spatial, alors que SpaceX prévoit mettre fin à son programme de fusées Falcon. Le Pentagone a octroyé des prêts de cent cinquante millions de dollars chacun à Stoke Space et à Rocket Lab, deux concurrents de SpaceX dans le secteur du lancement.
+  </chapitre>
+
+  <chapitre titre="Actualité québécoise et canadienne">
+    Au Canada, c'est aujourd'hui le jour du Souvenir. Radio-Canada rapporte le témoignage de deux vétérans de la mission canadienne en Afghanistan, qui parlent de leur devoir de mémoire et de leur longue guérison. Toujours selon Radio-Canada, une pierre tombale a été installée à Memramcook, au Nouveau-Brunswick, pour honorer un soldat acadien tombé dans l'oubli.
+
+    CBC se penche sur la difficulté du Canada à nommer la guerre en Afghanistan comme telle. Le Parlement peine à faire adopter un projet de loi qui désignerait ce conflit de treize ans, où plus de quarante mille Canadiens ont servi, comme une guerre à part entière. Selon Global News, un vétéran de quatre-vingt-dix ans qui vend des coquelicots dans le métro de Montréal depuis deux mille sept affirme avoir été harcelé par les agents de sécurité du métro.
+
+    Toujours selon Radio-Canada, environ dix-neuf millions d'épinglettes en forme de coquelicots sont vendues chaque année au pays, une collecte qui finance l'aide aux vétérans.
+
+    Du côté de la diplomatie canadienne, CBC rapporte que le premier ministre Mark Carney entreprend une tournée mondiale de sommets au cours de la prochaine semaine, avec des arrêts prévus à la Communauté politique européenne, à l'Association des nations de l'Asie du Sud-Est, à la Francophonie et à la Coopération économique Asie-Pacifique. Les discussions porteront à la fois sur la défense et le commerce.
+
+    Au Québec, La Presse rapporte que la Ville de Prévost, dans les Laurentides, redistribue maintenant une partie de sa cagnotte d'écocontribution, qui atteint environ deux cent mille dollars, aux citoyens qui font réparer des articles plutôt que d'en acheter des neufs. Le Devoir rapporte par ailleurs que les agences de placement et les chasseurs de têtes prennent une place grandissante dans le réseau scolaire québécois, un signe de l'ampleur des pénuries de personnel.
+  </chapitre>
+
+  <chapitre titre="Sport">
+    Rapidement en sport. Au hockey, Sportsnet rapporte que les Canadiens de Montréal ont rendu hommage à l'ancien gardien Carey Price mardi, qui est devenu le soixante-deuxième membre de l'organisation à entrer au temple de la renommée de l'équipe. Global News précise que les partisans lui ont réservé un accueil chaleureux, soulignant son parcours débuté dans la communauté éloignée d'Anahim Lake, en Colombie-Britannique.
+
+    Toujours au hockey, Global News rapporte que les Maple Leafs de Toronto ont subi une quatrième défaite consécutive à domicile. Du côté de Winnipeg, Sportsnet rapporte que Dawson Mercer a marqué deux buts, dont celui de la victoire, pour mener les Jets face aux Devils, qui évoluaient sans leur gardien Connor Hellebuyck. Ce dernier a d'ailleurs reçu un accueil glacial de la part des partisans des Jets lors de son retour à Winnipeg, selon Sportsnet.
+  </chapitre>
+
+  <outro>Voilà pour ce Presto du mercredi onze novembre deux mille vingt-six. Si ce briefing vous est utile, le meilleur coup de main que vous pouvez nous donner, c'est de le partager à une personne qui aime rester informée. Et selon votre plateforme : un abonnement sur Spotify ou Apple Podcasts, un pouce bleu et un abonnement sur YouTube, ça prend deux secondes et ça aide vraiment Presto à grandir. Sur ce, bonne journée, et à demain.</outro>
+</script>
+```
