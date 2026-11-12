@@ -1,50 +1,46 @@
 {
-  "generated_at": "2026-11-11T20:00:42.283068+00:00",
+  "generated_at": "2026-11-12T02:42:16.243862+00:00",
   "window_hours": 8,
   "faits": [
     {
-      "sujet": "Grève générale en Espagne",
-      "fait": "Des dizaines de milliers de personnes participent à une grève générale en Espagne, appelée par les principaux syndicats du pays sur les questions de logement et du coût de la vie. Selon BBC World, des affrontements ont eu lieu à Barcelone."
+      "sujet": "Jour du Souvenir 2026 Canada",
+      "fait": "Le Canada a commémoré le 11 novembre 2026 avec une minute de silence à 11 h 11 et des défilés en hommage aux 118 000 Canadiens morts à la guerre depuis 1867, selon La Presse."
     },
     {
-      "sujet": "Médicaments GLP-1 et risque cardiaque",
-      "fait": "Une étude rapportée par Global News montre que l'arrêt des médicaments GLP-1 pourrait augmenter le risque de crise cardiaque, particulièrement chez les personnes obèses médicalement."
+      "sujet": "Effondrement immeuble Brooklyn",
+      "fait": "Un immeuble de trois étages s'est effondré à Brooklyn, New York, tuant au moins deux personnes et en blessant plusieurs autres selon le CBC."
     },
     {
-      "sujet": "Financement CoreWeave pour l'IA",
-      "fait": "Selon TechCrunch, CoreWeave demande de plus en plus à ses clients des paiements anticipés et recourt à des contrats à court terme pour financer sa croissance dans le secteur de l'IA."
+      "sujet": "Élection sénateur Mississippi",
+      "fait": "Le démocrate Scott Colom a remporté l'élection au Sénat américain au Mississippi, devenant le premier sénateur noir de l'État depuis la Reconstruction, selon la BBC World."
     },
     {
-      "sujet": "Investissement Fractile en puces IA",
-      "fait": "D'après TechCrunch, la société britannique Fractile a levé 720 millions de dollars et s'est hissée parmi les principaux acteurs financés dans la course aux puces IA."
+      "sujet": "Démission vice-président Indonésie",
+      "fait": "Le vice-président indonésien Gibran Rakabuming Raka a démissionné au milieu d'une dispute concernant ses qualifications éducatives, selon Al Jazeera."
     },
     {
-      "sujet": "Violence conjugale en hausse au Canada",
-      "fait": "Selon Global News, la violence entre partenaires intimes a augmenté de 15% sur 8 ans au Canada, selon Statistique Canada, suite à ce que certains experts qualifient de backlash anti-féministe."
+      "sujet": "Scandales CEO Jensen Huang Nvidia",
+      "fait": "Le conseil d'administration de Nvidia se prépare à évincer le CEO Jensen Huang suite à des révélations d'une relation extraconjugale avec une femme présumée être une espionne chinoise et d'une seconde relation avec une cadre de l'entreprise, selon TechCrunch et The Verge."
     },
     {
-      "sujet": "Régulation EU des pratiques numériques",
-      "fait": "Selon The Verge, la Commission européenne a publié mercredi la Digital Fairness Act pour réguler les boîtes à butin, les influenceurs non déclarés et les pratiques addictives dans les jeux et réseaux sociaux."
+      "sujet": "Santé Québec projet chirurgies privées",
+      "fait": "Santé Québec a annulé un projet pilote de chirurgies au secteur privé, avec plus de 1000 patients en attente de chirurgie orthopédique depuis plus d'un an, selon Radio-Canada."
     },
     {
-      "sujet": "Échange de prisonniers Russie-Ukraine",
-      "fait": "D'après Associated Press, la Russie et l'Ukraine ont convenu d'un échange de prisonniers important lors de pourparlers à Abu Dhabi, sans percée majeure sur les autres questions."
+      "sujet": "Réseau cambrioleurs bijouteries Montréal",
+      "fait": "Le SPVM a démantelé un réseau de cambrioleurs de bijouteries, arrêtant les présumés chefs de file et receleurs responsables de la majorité des vols dans le Grand Montréal, selon La Presse."
     },
     {
-      "sujet": "Crise alimentaire au Liban",
-      "fait": "Selon Al Jazeera, plus d'un million de personnes au Liban font face à une grave insécurité alimentaire, avertit l'ONU, affectant près d'un quart de la population."
+      "sujet": "Réserve sirop d'érable Québec",
+      "fait": "La réserve stratégique de sirop d'érable du Québec s'épuise, menaçant le contrôle du cartel provincial, selon The Economist."
     },
     {
-      "sujet": "Démission vice-président indonésien",
-      "fait": "D'après The Economist, le vice-président de l'Indonésie a démissionné, escaladant un différend déstabilisateur qui pourrait opposer l'armée et la police du pays."
+      "sujet": "Grève générale Barcelone Espagne",
+      "fait": "Des dizaines de milliers de personnes ont participé à une grève générale en Espagne appelée par les principaux syndicats pour protester contre le logement et le coût élevé de la vie, des affrontements s'étant produits à Barcelone, selon la BBC World."
     },
     {
-      "sujet": "Menaces de bombes en écoles européennes",
-      "fait": "Selon BBC World, plus de 6 000 écoles italiennes ont reçu des menaces jeudi, tandis que des écoles en Écosse et Irlande du Nord ont également été affectées. Les autorités indiquent qu'il n'y a apparemment aucun risque réel."
-    },
-    {
-      "sujet": "Restrictions journalistes Trump bloquées",
-      "fait": "Selon Ars Technica, une cour d'appel a rejeté mercredi la tentative de l'administration Trump de surveiller les messages LinkedIn de journalistes, estimant que la demande était trop large et menaçait les sources confidentielles."
+      "sujet": "Hockey Russie Championnat junior",
+      "fait": "Le gouvernement fédéral canadien a confirmé que les joueurs de hockey russes ne seront pas autorisés à participer au championnat mondial junior en Alberta le mois prochain, même s'ils possèdent des visas canadiens valides, selon CBC World."
     }
   ]
 }
