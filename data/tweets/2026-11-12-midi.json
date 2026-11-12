@@ -1,0 +1,14 @@
+{
+  "date": "2026-11-12",
+  "kind": "poll",
+  "text": "Ce matin → Jensen Huang démissionne d'Nvidia après des rapports d'affaires, dont une impliquant une présumée espionne chinoise.\n\nLes dirigeants tech réagissent : plusieurs estiment que c'est une erreur de laisser partir\n\nQuelle est ta vue sur le départ de Jensen Huang d'Nvidia?",
+  "poll": {
+    "options": [
+      "Une décision nécessaire",
+      "Une perte majeure pour",
+      "Un enjeu de sécurité",
+      "Une affaire personnelle"
+    ],
+    "duration_minutes": 1440
+  }
+}
