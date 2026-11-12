@@ -1,0 +1,89 @@
+```xml
+<script>
+  <intro>Bonjour, on est le jeudi douze novembre deux mille vingt-six. Voici votre Presto en environ quinze minutes. Au menu : la crise à la direction de Nvidia qui franchit un nouveau cap, les marchés secoués par le dossier, l'Ukraine et le Moyen-Orient, et l'actualité québécoise et canadienne.</intro>
+
+  <chapitre titre="L'affaire Nvidia">
+    On commence avec l'affaire qui continue de dominer l'actualité économique et politique. Selon le Wall Street Journal, le conseil d'administration de Nvidia se préparait mercredi soir à congédier son fondateur et chef de la direction depuis trente-trois ans, Jensen Huang.
+
+    Le dossier s'est aggravé en cours de journée. TechCrunch rapporte qu'en plus de la relation déjà connue avec une femme d'affaires soupçonnée par les autorités américaines d'être un agent de renseignement chinois, Jensen Huang fait maintenant face à une accusation distincte : celle d'avoir eu une relation avec une cadre de l'entreprise elle-même. Selon le New York Times, cité par The Verge, il s'agirait de Kimberly Powell, vice-présidente de la division santé chez Nvidia, qui relève directement de lui.
+
+    Ars Technica précise que les deux personnes concernées sont mariées, et que le conseil d'administration a tenu des discussions d'urgence mercredi soir après la publication de cette information. Selon le Financial Times, c'est maintenant au conseil de décider du sort de Jensen Huang.
+
+    L'identité de la première femme concernée, elle, demeure trouble. Selon l'Associated Press, Alice Huang, présentée par les autorités américaines comme liée au renseignement chinois, reste une figure largement insaisissable malgré l'attention médiatique.
+
+    Reuters rapporte que des entreprises d'intelligence artificielle chinoises se précipitent pour sécuriser leurs réserves de puces Nvidia, par crainte que ce scandale pousse Washington à resserrer les règles d'exportation. Toujours selon Reuters, une université chinoise liée à l'armée aurait par ailleurs acheté des puces Nvidia malgré son inscription sur une liste noire américaine.
+
+    Sur la question de la succession, TechCrunch note que Nvidia n'a aucun plan de succession officiel. Reuters rapporte que le chef de la technologie et la chef des finances de l'entreprise figurent parmi les candidats les plus évoqués pour prendre la relève si Jensen Huang devait quitter.
+
+    Du côté de l'opinion, The Economist estime que l'imprudence de Jensen Huang place Nvidia devant une situation sans bonne issue, et que l'incident causera un tort durable à l'entreprise. Au Québec, Paul Arcand est également revenu sur ce dossier dans sa revue de presse à La Presse, le qualifiant d'histoire mêlant argent, espionnage et vie privée.
+  </chapitre>
+
+  <chapitre titre="Économie et marchés">
+    On passe à l'économie, où les répercussions du dossier Nvidia se font sentir partout. Selon le Wall Street Journal, la crise à la direction de l'entreprise pèse sur les marchés asiatiques. Bloomberg confirme que les actions ont reculé en Asie, le pétrole cédant également un peu de terrain.
+
+    En Europe, cependant, Reuters rapporte que les bourses ont atteint un sommet record, même après la tourmente créée par le dossier Nvidia en Asie. Toujours selon Bloomberg, la tourmente profite à certains concurrents : les titres d'AMD et de Broadcom ont progressé, les investisseurs misant sur des gains de parts de marché.
+
+    BNN Bloomberg rapporte que les titres liés à l'intelligence artificielle ont par ailleurs rebondi mardi, Wall Street étant presque revenu au niveau où il se trouvait avant la vente massive de la semaine dernière. Le Wall Street Journal précise que l'action de CoreWeave a bondi, redonnant un élan au commerce lié à l'intelligence artificielle.
+
+    Mais tout n'est pas réglé pour autant. Reuters rapporte que les signes suggèrent qu'il est encore trop tôt pour dire que le pire est passé pour les marchés américains après la récente secousse. The Economist se demande d'ailleurs si l'essor de l'intelligence artificielle peut générer suffisamment de revenus pour se soutenir lui-même, notant que Wall Street commence à s'inquiéter. Dans un autre texte, le magazine affirme qu'il faut s'attendre à un ralentissement du secteur de l'intelligence artificielle, sans nécessairement un cataclysme financier.
+
+    Du côté des taux, Bloomberg rapporte que les contrats à terme sur les obligations du Trésor américain reculent, les marchés anticipant davantage de hausses de taux de la part de la Réserve fédérale. L'Associated Press confirme que des responsables de la Fed envisagent des hausses plus rapides, alors que les prix élevés s'infiltrent dans l'ensemble de l'économie.
+
+    Ailleurs dans le monde, le Financial Times rapporte que la production pétrolière saoudienne est revenue près de ses niveaux d'avant-guerre. Toujours selon le Financial Times, le principal régulateur bancaire turc a offert sa démission dans la foulée d'un scandale de fraude évalué à vingt milliards de dollars. En Allemagne, le chancelier Friedrich Merz fait face à des appels à limiter l'endettement lié à la défense, toujours selon le Financial Times.
+
+    Au Canada, BNN Bloomberg rapporte que le secteur minier reçoit deux virgule trois milliards de dollars dans le budget fédéral. Les Affaires précise que le ministre Hodgson a présenté les investissements du budget fédéral destinés à rendre le coût de la vie plus abordable pour les Canadiens. Toujours selon Les Affaires, l'Institut climatique du Canada lance un nouvel outil de données pour suivre les progrès du pays vers une économie propre. Et en marge de la conférence COP trente et un, Les Affaires rapporte que le premier ministre Mark Carney a reçu le surnom peu flatteur de « fossile du jour ».
+  </chapitre>
+
+  <chapitre titre="International">
+    On passe à l'international, où la diplomatie autour de l'Ukraine progresse à petits pas. Selon Al Jazeera, des envoyés américains, Jared Kushner et Steve Witkoff, sont arrivés à Moscou pour des discussions avec Vladimir Poutine, après deux jours de pourparlers trilatéraux aux Émirats arabes unis qui n'ont débouché sur aucune percée. La BBC rapporte par ailleurs que des Ukrainiens vivent sans électricité, sans eau ni chauffage, la Russie continuant de frapper le réseau électrique du pays.
+
+    Au Moyen-Orient, la situation reste tendue à Gaza. Selon CBC, confirmé par la BBC et l'Associated Press, une frappe israélienne contre l'hôpital Nasser, dans le sud de Gaza, a fait six morts et au moins une douzaine de blessés selon le ministère de la Santé de Gaza. Des témoins cités par la BBC affirment qu'un missile a touché un bâtiment abritant les services de chirurgie et les soins intensifs de l'hôpital, le plus grand du sud de l'enclave.
+
+    Toujours dans la région, Al Jazeera se demande si les bases militaires américaines à l'étranger, du Royaume-Uni au Golfe, deviennent un fardeau plutôt qu'un atout, l'Iran ayant changé le calcul stratégique pour Washington depuis plusieurs années.
+
+    En Indonésie, CBC rapporte que le vice-président a démissionné après que la Cour constitutionnelle et la Cour suprême ont jugé que les documents soumis concernant ses études à l'étranger ne répondaient pas aux exigences électorales.
+
+    Aux États-Unis, la BBC souligne un résultat électoral marquant : le démocrate Scott Colom devient le premier sénateur noir élu au Mississippi depuis cent cinquante ans, dans un État que Donald Trump avait remporté par vingt-deux points il y a deux ans. Ce résultat prolonge une série de victoires démocrates récentes au Sénat.
+
+    À New York, CBC et la BBC rapportent qu'un immeuble de trois étages s'est effondré à Brooklyn mercredi, en bordure d'un chantier de construction. Au moins deux personnes sont mortes et quatre autres ont été grièvement blessées; les pompiers continuent de fouiller les décombres à la recherche de survivants.
+
+    Ailleurs, l'Associated Press rapporte que la première ministre italienne Giorgia Meloni affirme que des cybermenaces récentes visent à semer la peur, après que des écoles du pays ont fait l'objet de menaces à la bombe. Au Pakistan, Al Jazeera rapporte qu'une attaque dans le nord-ouest du pays a fait dix morts parmi des policiers et dix-huit morts parmi des combattants, les policiers ayant été pris pour cible à leur retour d'une mine dans le district de Kohat. En Australie, CBC rapporte qu'un adolescent de dix-sept ans vivant avec l'autisme a été retrouvé vivant après six jours perdu dans la forêt, dans l'est du pays.
+  </chapitre>
+
+  <chapitre titre="Tech">
+    Du côté de la tech, une partie de l'attention reste tournée vers l'avenir de Nvidia, mais d'autres dossiers ont retenu l'attention. Selon CBC, le premier appel public à l'épargne attendu d'Anthropic, qui serait le premier titre d'intelligence artificielle « pur » coté en bourse, s'apprête à tester un marché nerveux. Un gestionnaire de portefeuille cité par CBC dit que la situation lui rappelle la bulle des entreprises point-com des années deux mille.
+
+    En Europe, The Verge rapporte que la Commission européenne a dévoilé un projet de loi, le Digital Fairness Act, qui vise à encadrer les pratiques jugées exploitantes en ligne : prix trompeurs, fonctionnalités addictives comme les coffres à butin dans les jeux vidéo, et marketing d'influenceurs non divulgué. Selon la Commission, le texte doit protéger les consommateurs de tous âges dans leurs achats et leur navigation en ligne.
+
+    Toujours en matière d'intelligence artificielle appliquée, The Verge rapporte que la compagnie aérienne United a annoncé qu'elle n'autoriserait pas les assistants d'intelligence artificielle personnels à réserver des billets en son nom, invoquant des préoccupations de confidentialité et de réglementation. Selon le Wall Street Journal, cité par The Verge, l'entreprise n'a pas encore observé un grand nombre de tentatives en ce sens, une situation similaire à celle d'autres entreprises comme Doordash.
+
+    Ars Technica rapporte par ailleurs que l'État de New York a conclu une entente avec T-Mobile, après avoir allégué que l'entreprise imposait illégalement un plafond de données à ses forfaits Internet résidentiels à faible coût, en violation d'une loi sur l'accès abordable à Internet. T-Mobile a accepté d'éliminer les limites de vitesse et d'étendre l'offre de ces forfaits.
+
+    Enfin, Ars Technica souligne qu'Anduril Industries a annoncé la démonstration réussie d'un capteur satellite capable de détecter les manœuvres d'autres engins spatiaux même dans l'ombre de la Terre, un développement financé par les fonds propres de l'entreprise.
+  </chapitre>
+
+  <chapitre titre="Actualité québécoise et canadienne">
+    Au Québec, La Presse rapporte que la mairesse de Montréal mise sur la construction modulaire pour ériger rapidement un immeuble de cinquante logements destinés aux femmes itinérantes, dans le cadre d'un plan plus vaste visant à construire deux mille habitations de transition. Toujours à Montréal, La Presse rapporte que les amendes imposées par le Service de sécurité incendie vont doubler pour les infractions au Code de sécurité incendie, avec des amendes pouvant atteindre deux mille dollars dès une première infraction.
+
+    Radio-Canada rapporte un cas troublant à Terrebonne : un homme, Fernand Tanguay, a été retrouvé mort dans les toilettes de l'urgence au début du mois. Ses proches dénoncent les circonstances de ce décès.
+
+    Du côté de l'immigration, Radio-Canada affirme qu'Ottawa sème la confusion, des contradictions apparaissant entre les affirmations contenues dans le budget fédéral et certaines politiques en vigueur. Au Journal de Montréal, la ministre Catherine Gentilcore accuse directement le premier ministre Mark Carney d'avoir menti à la population sur ce dossier, je le cite : "Oui, Mark Carney a menti à la population". Fin de citation.
+
+    En Ontario, Global News rapporte qu'une rencontre à haut risque est prévue entre le premier ministre Doug Ford, le gouvernement fédéral, le syndicat Unifor et l'entreprise Stellantis. L'enjeu central : déterminer si Stellantis est tenue de respecter son entente de financement, après que des millions de dollars de fonds publics ont été versés à l'entreprise.
+
+    Du côté identitaire, Radio-Canada rapporte que, pour la première fois, le Canada dépasse la France comme premier bailleur de fonds de l'Organisation internationale de la Francophonie, Ottawa et les provinces contribuant désormais davantage que Paris. Toujours selon Radio-Canada, des artéfacts autochtones ont été découverts en Outaouais et dans les Laurentides, grâce à une équipe dirigée par un chercheur anishinabe, près du Lac Gagnon.
+
+    Du côté du marché du travail, CBC rapporte qu'après une enquête menée par le réseau, LinkedIn et Monster ont retiré plus de mille annonces d'emploi frauduleuses, en fait liées à une entreprise de marketing à paliers multiples.
+  </chapitre>
+
+  <chapitre titre="Sport">
+    Rapidement en sport. Au hockey, Sportsnet rapporte que les Oilers d'Edmonton ont battu les Flyers en prolongation, un signe de stabilité qui s'installe devant le filet après deux victoires consécutives portées par leur gardien. Toujours selon Sportsnet, les Flames de Calgary ont vu le jeune Zayne Parekh signer un jeu spectaculaire, qui n'aurait manqué que le but pour devenir le candidat au but de l'année.
+
+    Au basketball, Global News et Sportsnet rapportent que les Raptors de Toronto ont bien amorcé leur match contre les Celtics de Boston avant de s'effondrer en deuxième demie, l'attaque de l'équipe calant sans ses meilleurs marqueurs habituels.
+
+    Au baseball, Sportsnet rapporte que le releveur des Blue Jays, Louis Varland, a été nommé releveur de l'année dans la Ligue américaine, après avoir récolté trente-cinq sauvetages depuis qu'il a pris les commandes du poste de releveur partant en début de saison.
+  </chapitre>
+
+  <outro>Voilà pour ce Presto du jeudi douze novembre deux mille vingt-six. Si ce briefing vous est utile, le meilleur coup de main que vous pouvez nous donner, c'est de le partager à une personne qui aime rester informée. Et selon votre plateforme : un abonnement sur Spotify ou Apple Podcasts, un pouce bleu et un abonnement sur YouTube, ça prend deux secondes et ça aide vraiment Presto à grandir. Sur ce, bonne journée, et à demain.</outro>
+</script>
+```
