@@ -1,0 +1,89 @@
+```xml
+<script>
+  <intro>Bonjour, on est le vendredi treize novembre deux mille vingt-six. Voici votre Presto en environ quinze minutes. Au menu : le départ fracassant de Jensen Huang chez Nvidia et ses suites politiques, la panne mondiale de Microsoft, la diplomatie autour de l'Ukraine et de l'Iran, l'économie et les marchés, et un peu d'actualité québécoise.</intro>
+
+  <chapitre titre="L'affaire Nvidia">
+    On commence avec l'affaire qui continue de dominer l'actualité économique et politique des deux côtés de la frontière. Selon Bloomberg, le conseil d'administration de Nvidia a finalement poussé vers la sortie son fondateur et chef de la direction depuis trente-trois ans, Jensen Huang, après que des informations ont fait état de trois relations extraconjugales, dont une avec une femme identifiée par les autorités américaines comme un agent de renseignement chinois.
+
+    Selon l'agence Associated Press, monsieur Huang a quitté abruptement la tête de l'une des entreprises les plus valorisées au monde jeudi. Selon la BBC, l'ex-dirigeant a depuis été sommé de témoigner devant le Congrès américain au sujet de cette relation.
+
+    Toujours selon Reuters, le départ de monsieur Huang et la surveillance accrue des autorités américaines mettent en péril environ trois milliards de dollars de projets chinois d'intelligence artificielle qui dépendaient des puces de Nvidia.
+
+    Du côté politique, le dossier s'élargit. Selon TechCrunch, des élus démocrates ont lancé une seconde enquête du Congrès, cette fois sur les ventes de Nvidia en Chine et sur les liens de l'entreprise avec le président Trump, dans une lettre qualifiant les agissements de monsieur Huang de stratagème. Selon Radio-Canada, le secrétaire américain au Commerce, Howard Lutnick, se retrouve lui aussi dans la tourmente, critiqué pour son inaction à l'égard d'une entreprise chinoise nommée Megaspeed.
+
+    Du côté de la succession, selon The Verge, le président Trump a proposé publiquement sur Truth Social que l'ancien chef de la direction d'Apple, Tim Cook, prenne les rênes de Nvidia. Pour l'instant, l'entreprise est dirigée de façon intérimaire par sa chef des finances. Selon The Economist, la personne qui succédera à monsieur Huang hérite de l'un des postes les plus exigeants de l'industrie technologique, une entreprise bâtie autour d'un seul homme devant désormais apprendre à fonctionner sans lui.
+
+    Sur les marchés, selon le Wall Street Journal, le titre de Nvidia a chuté après l'annonce du départ de son chef de la direction, au milieu de scandales qui se multiplient. Selon l'Associated Press, Wall Street a connu des soubresauts importants à cause de Nvidia et des prix du pétrole, mais a récupéré la majorité de ses pertes initiales en fin de séance. Reuters précise que les actions du secteur de l'intelligence artificielle ont réduit leurs pertes alors que les investisseurs évaluent les retombées de ce départ.
+  </chapitre>
+
+  <chapitre titre="La panne mondiale de Microsoft">
+    On enchaîne avec une panne informatique qui a touché une bonne partie de la planète. Selon la BBC, Microsoft a précisé que cette panne mondiale n'a pas été causée par un incident de cybersécurité, mais les efforts pour résoudre le problème sont demeurés largement infructueux.
+
+    Selon CBC, la panne, qui a commencé jeudi après-midi, continue d'affecter plusieurs applications et outils de l'entreprise, dont le courriel, Teams et l'assistant d'intelligence artificielle Copilot. Toujours selon CBC, l'entreprise affirme que les correctifs prévus ne fonctionnent pas comme prévu.
+
+    Selon Bloomberg, cette panne a aussi engorgé les marchés financiers et forcé des négociateurs à utiliser leur téléphone pour continuer à travailler. Le Financial Times rapporte que Microsoft est à pied d'œuvre pour rétablir ses services le plus rapidement possible.
+  </chapitre>
+
+  <chapitre titre="International">
+    On passe à l'international, où la diplomatie autour de l'Ukraine progresse à petits pas. Selon la BBC, le président ukrainien Volodymyr Zelensky s'est réjoui de voir les États-Unis inclure des dirigeants européens dans les pourparlers de paix avec la Russie, soulignant que cela fait du sens dans la perspective d'une future adhésion de l'Ukraine à l'Union européenne.
+
+    Toujours sur ce dossier, selon CBC, le premier ministre canadien Mark Carney a conclu des rencontres sur la sécurité et le commerce avec des dirigeants européens en Irlande, où il a notamment entendu monsieur Zelensky faire le point sur l'état des négociations avec la Russie.
+
+    Sur le terrain cependant, Al Jazeera rapporte que la Russie et l'Ukraine continuent de signaler des attaques survenues pendant la nuit, alors que les efforts diplomatiques américains peinent à produire des progrès concrets.
+
+    Du côté du Moyen-Orient, Al Jazeera pose la question de la position américaine face à l'Iran. Le président Trump affirme qu'aucune entente n'est nécessaire avec Téhéran, une position qui met de côté le vice-président JD Vance dans ce dossier. Selon des analystes cités par Al Jazeera, la guerre entre les États-Unis et l'Iran demeure prise dans une situation qualifiée de "ni guerre, ni paix". Toujours à ce sujet, The Economist décrit la vie quotidienne des Iraniens sur la ligne de front, le long du détroit d'Ormuz, dans un conflit qui semble sans fin en vue.
+
+    Par ailleurs, Al Jazeera rapporte qu'à Gaza, chaque pluie fait craindre une perte d'accès à l'électricité et aux soins de santé, les fortes pluies inondant les abris et endommageant les systèmes d'énergie solaire, menaçant des services essentiels.
+
+    En Amérique, selon Associated Press, le sénateur Chris Van Hollen a annoncé qu'il allait affronter Chuck Schumer pour le poste de chef de la minorité démocrate au Sénat.
+
+    Finalement, selon Reuters, l'Agence internationale de l'énergie affirme que le marché pétrolier mondial revient vers un surplus, les exportations du Golfe se rétablissant.
+  </chapitre>
+
+  <chapitre titre="Économie et marchés">
+    On passe à l'économie. Selon Bloomberg, les actions américaines évoluent sans direction claire à l'approche de données sur l'inflation qui seront déterminantes pour les paris du marché sur les décisions à venir de la Réserve fédérale.
+
+    Toujours sur l'inflation, selon Bloomberg, l'économie russe ralentit, les attaques ukrainiennes ayant endommagé des pans entiers de l'industrie du pays.
+
+    Du côté des entreprises, le Financial Times rapporte que Mercedes-Benz a annoncé la suspension de tous ses futurs investissements en Allemagne. Selon Les Affaires, Canadian Tire a annoncé de solides résultats pour le troisième trimestre de deux mille vingt-six, accompagnés d'une hausse de son dividende annuel. BNN Bloomberg précise par ailleurs que l'entreprise mise sur des réductions de prix pour séduire les acheteurs de cadeaux du temps des Fêtes, alors que les coûts pèsent sur les consommateurs.
+
+    Du côté commercial, le Financial Times et BNN Bloomberg rapportent que le président Trump menace de doubler les tarifs douaniers imposés au Mexique si le pays ne freine pas l'immigration illégale.
+
+    Au Canada, BNN Bloomberg rapporte que le refroidissement des voyages entre le Canada et les États-Unis commence à se renverser depuis les élections de mi-mandat américaines. CBC nuance toutefois : plusieurs Canadiens interrogés jugent qu'il est encore trop tôt pour revisiter les États-Unis, malgré la victoire jugée encourageante du Parti démocrate, la méfiance envers l'administration Trump demeurant forte.
+
+    Du côté québécois, Le Devoir rapporte que six caisses de retraite, qui gèrent collectivement des actifs de plus de mille six cents milliards de dollars, sont mises en garde contre les risques d'investir dans le gaz naturel liquéfié. Et toujours au Québec, Les Affaires rapporte que le Fonds de recherche du Québec et ses partenaires ont adopté la déclaration de Phnom Penh, un pas vers un réseau international de diplomatie scientifique francophone.
+  </chapitre>
+
+  <chapitre titre="Tech">
+    Du côté de la tech, une partie de l'attention reste tournée vers les suites de l'affaire Nvidia, mais d'autres dossiers ont retenu l'attention. Selon Associated Press, des groupes de défense des droits ont intenté une poursuite contre des géants de l'intelligence artificielle pour geler le développement de nouveaux modèles, évoquant des risques qualifiés de catastrophiques.
+
+    Selon Ars Technica, l'administration fédérale américaine de l'aviation étend l'utilisation d'un outil d'intelligence artificielle pour aider à gérer la congestion du trafic aérien dans l'ensemble de l'espace aérien américain. Ce système, nommé SMART et dont le déploiement initial a coûté environ huit cent soixante-quinze millions de dollars, aurait permis de réacheminer cent quatre-vingts vols et d'économiser en moyenne dix minutes par vol depuis son implantation à Washington en septembre. Le syndicat américain représentant les contrôleurs aériens affirme toutefois ne pas avoir été impliqué dans la conception ni les tests du système.
+
+    Toujours selon TechCrunch, l'entreprise Nebius prévoit financer une expansion de quarante milliards de dollars dans les infrastructures d'intelligence artificielle par des prépaiements de clients et des emprunts, alors que des retards dans un centre de données de Microsoft soulèvent des questions sur ce modèle de financement.
+
+    Finalement, selon Radio-Canada, le mois de novembre s'annonce mémorable pour les joueurs de jeux vidéo, entre les sorties attendues de Grand Theft Auto, de Zelda et de World of Warcraft. Du côté de Xbox, The Verge rapporte l'annonce officielle de Wolfenstein trois par le studio MachineGames, près d'une décennie après le précédent volet de la série.
+  </chapitre>
+
+  <chapitre titre="Actualité québécoise">
+    Au Québec, Radio-Canada rapporte que Santé Québec a aboli cinq postes d'infirmière à l'unité des soins palliatifs de l'Hôtel-Dieu de Lévis.
+
+    Toujours selon le Journal de Montréal, le président de l'association des spécialistes en médecine d'urgence du Québec qualifie de pire cauchemar la situation de patients décédés alors qu'ils attendaient d'être pris en charge à l'urgence.
+
+    Du côté municipal, La Presse rapporte que la municipalité de Sainte-Flavie, dans le Bas-Saint-Laurent, attend depuis quatre cent quarante-sept jours l'autorisation du gouvernement du Québec pour ouvrir de nouvelles rues, alors que le taux d'inoccupation des logements y est à zéro pour cent.
+
+    Également signalé par Le Devoir, des Québécois se disent prêts à offrir un espace chez eux pour prévenir l'itinérance, à condition d'être accompagnés par un organisme dans cette démarche.
+
+    Finalement, Le Devoir publie une chronique qui qualifie la popularité du premier ministre Mark Carney d'exceptionnelle, notant toutefois que l'opposition fédérale semble sans repère et que les résultats concrets de son gouvernement restent à livrer.
+  </chapitre>
+
+  <chapitre titre="Sport">
+    Rapidement en sport. Au hockey, Sportsnet rapporte que les Canadiens de Montréal ont écrasé les Bruins de Boston cinq à deux jeudi, les plaçant à égalité avec le Lightning au sommet de la division Atlantique, même si l'équipe doit encore corriger certaines lacunes défensives. Du côté de Toronto, les Maple Leafs ont subi une cinquième défaite consécutive, Sportsnet notant que la confiance de l'équipe est ébranlée par cette glissade à domicile. À Ottawa, Global News rapporte que Shane Pinto a brillé dans une victoire convaincante des Sénateurs contre l'Avalanche, pour souligner son vingt-sixième anniversaire de naissance.
+
+    Toujours selon CBC, le président de la fédération russe de hockey, Vladislav Tretiak, menace de réclamer une compensation et de pousser pour la relocalisation ou l'annulation du championnat mondial junior prévu le mois prochain en Alberta, si la Russie en est exclue.
+
+    Du côté du basketball, Sportsnet rapporte que les Raptors de Toronto se sont inclinés contre les Seventy-Sixers de Philadelphie, malgré de bonnes performances de RJ Barrett et Immanuel Quickley.
+  </chapitre>
+
+  <outro>Voilà pour ce Presto du vendredi treize novembre deux mille vingt-six. Si ce briefing vous est utile, le meilleur coup de main que vous pouvez nous donner, c'est de le partager à une personne qui aime rester informée. Et selon votre plateforme : un abonnement sur Spotify ou Apple Podcasts, un pouce bleu et un abonnement sur YouTube, ça prend deux secondes et ça aide vraiment Presto à grandir. Sur ce, bonne journée, et à demain.</outro>
+</script>
+```
