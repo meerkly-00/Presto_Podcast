@@ -1,0 +1,14 @@
+{
+  "date": "2026-11-13",
+  "kind": "poll",
+  "text": "Ce matin → Microsoft en panne depuis jeudi. Nouveauté : Microsoft déclare être « deeply sorry » et experts soulignent que le monde dépend trop d'un petit groupe de grandes tech.\n\nComment réguler la dépendance aux grands fournisseurs tech?",
+  "poll": {
+    "options": [
+      "Renforcer la concurrence",
+      "Imposer des normes de",
+      "Diversifier les",
+      "Laisser le marché"
+    ],
+    "duration_minutes": 1440
+  }
+}
