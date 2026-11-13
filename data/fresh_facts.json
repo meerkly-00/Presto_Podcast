@@ -1,54 +1,50 @@
 {
-  "generated_at": "2026-11-13T02:24:48.676230+00:00",
+  "generated_at": "2026-11-13T20:20:21.628805+00:00",
   "window_hours": 8,
   "faits": [
     {
-      "sujet": "Nvidia CEO démission scandale",
-      "fait": "Jensen Huang a démissionné de son poste de PDG de Nvidia suite à des révélations concernant des liaisons, dont une potentiellement avec une espionne chinoise. Selon BBC World, des législateurs américains veulent l'interroger sur cette affaire."
+      "sujet": "Stelco rappelle employés à Hamilton",
+      "fait": "Stelco rappelle l'ensemble des employés licenciés à son aciérie de Hamilton et leur verse rétroactivement leur plein salaire pour la mise à pied temporaire. (Selon Radio-Canada)"
     },
     {
-      "sujet": "Stellantis remboursement usine Brampton",
-      "fait": "Stellantis remboursera 24 millions de dollars de plein gré au gouvernement fédéral canadien suite à la vente de son usine de Brampton. D'après Radio-Canada, l'entreprise négocie également une solution équitable avec les employés."
+      "sujet": "Hydro-Québec réduit exportations électricité",
+      "fait": "Hydro-Québec réduit ses exportations d'électricité en raison d'une sécheresse record. Cette réduction a diminué de 312 millions de dollars la rentabilité de l'entreprise. (Selon Radio-Canada)"
     },
     {
-      "sujet": "Négociations Ukraine présence européenne",
-      "fait": "Le président ukrainien Volodymyr Zelensky a annoncé que des leaders européens seraient présents aux prochaines négociations de paix sur l'Ukraine. Selon BBC World, Zelensky estime que la présence européenne est justifiée car l'Ukraine espère éventuellement rejoindre l'UE."
+      "sujet": "LangChain atteint valorisation 3 milliards",
+      "fait": "La startup LangChain atteint une valorisation de 3 milliards de dollars avec 7 000 clients utilisant son outil de gestion d'agents LangSmith. (Selon TechCrunch)"
     },
     {
-      "sujet": "Grève étudiants Québec logement endettement",
-      "fait": "Des étudiants collégiaux et universitaires québécois manifesteront vendredi à Montréal pour dénoncer l'endettement, l'insécurité alimentaire et la crise du logement. D'après La Presse, cette mobilisation est menée par la CRUES, la plus militante des coalitions étudiantes."
+      "sujet": "Mélanie Joly rejette offre Stellantis",
+      "fait": "La ministre de l'Industrie Mélanie Joly déclare que l'offre de 24 millions de dollars de Stellantis est insuffisante, affirmant que l'entreprise est 'sur la touche pour des centaines de millions'. (Selon Radio-Canada)"
     },
     {
-      "sujet": "Panne Microsoft 365 Outlook Teams",
-      "fait": "Des milliers d'utilisateurs de Microsoft 365, Outlook et Teams ont subi une panne généralisée jeudi. Selon Radio-Canada et CBC, Microsoft a commencé à restaurer les services en fin d'après-midi."
+      "sujet": "Nvidia blâmé pour contrôles exports",
+      "fait": "Le secrétaire du Trésor Scott Bessent blâme le département du Commerce pour n'avoir pas interdit les exportations de puces Nvidia vers une entreprise présentant des liens présumés avec la Chine. (Selon BBC World)"
     },
     {
-      "sujet": "Trump appelle Cook diriger Nvidia",
-      "fait": "Le président Donald Trump a proposé que Tim Cook, ancien PDG d'Apple, prenne la tête de Nvidia suite à la démission de Jensen Huang. D'après The Verge, Trump a posté cette suggestion sur Truth Social immédiatement après l'annonce de la démission."
+      "sujet": "Grève étudiante au Québec",
+      "fait": "Près de 100 000 étudiants sont en grève pour dénoncer le manque d'aide du gouvernement du Québec face à la précarité étudiante, plusieurs centaines manifestant à Montréal. (Selon La Presse)"
     },
     {
-      "sujet": "FAA déploiement système SMART national",
-      "fait": "La FAA a étendu le déploiement de son système SMART d'IA pour la gestion du trafic aérien à l'ensemble de l'espace aérien américain après un test réussi en septembre. Selon Ars Technica, le système a rerouvé 180 vols dans la région de Washington, économisant en moyenne 10 minutes par vol et 80 gallons de carburant."
+      "sujet": "Délai traitement dossier Sainte-Flavie",
+      "fait": "Le ministère de l'Environnement du Québec a pris 450 jours pour étudier un projet de développement à Sainte-Flavie destiné à construire des logements. (Selon La Presse)"
     },
     {
-      "sujet": "American Cancer Society dépistage prostate",
-      "fait": "L'American Cancer Society recommande désormais que tous les hommes se soumettent à un test PSA régulier pour le dépistage du cancer de la prostate. D'après Ars Technica, les hommes à risque moyen devraient faire un test tous les deux ans à partir de 50 ans jusqu'à 69 ans."
+      "sujet": "Trump Jr. quitte conseil Kalshi",
+      "fait": "Donald Trump Jr. met fin à son rôle de conseiller auprès de la plateforme de prédiction Kalshi après que sa firme de capital-risque a investi massivement dans le concurrent Polymarket. (Selon Ars Technica)"
     },
     {
-      "sujet": "Annonce jeu Wolfenstein 3 Xbox",
-      "fait": "Xbox a annoncé officiellement Wolfenstein 3, suite aux confirmations précédentes d'Elder Scrolls VI. Selon The Verge, le jeu est en production par MachineGames avec une session de capture de mouvement en cours."
+      "sujet": "Outage Microsoft Outlook Teams",
+      "fait": "Microsoft restaure les services suite à une panne mondiale affectant Outlook et Teams. (Selon BBC World)"
     },
     {
-      "sujet": "Rapport réseau hypertrucages McGill",
-      "fait": "Un rapport de l'Université McGill identifie un réseau probablement basé hors du Canada utilisant des hypertrucages pour diffuser des contenus provoquant des divisions politiques parmi les Canadiens. D'après La Presse, ce rapport a été publié jeudi."
+      "sujet": "Canada retire or réserves officielles",
+      "fait": "Le Canada n'a plus d'or dans ses réserves officielles, soulevant des questions sur les risques pour le pays. (Selon Les Affaires)"
     },
     {
-      "sujet": "Trump pause frappes contre Iran",
-      "fait": "Le président Trump déclare que les pays du Golfe lui ont demandé de suspendre les attaques contre l'Iran. Selon Al Jazeera, Trump a fait cette déclaration depuis la Maison-Blanche."
-    },
-    {
-      "sujet": "Houthis attaques Arabie Saoudite",
-      "fait": "Les Houthis du Yémen ont renouvelé les attaques contre l'Arabie Saoudite avec des drones contre les infrastructures pétrolières et militaires. D'après Al Jazeera, la coalition dirigée par l'Arabie Saoudite a intercepté plusieurs drones suspects."
+      "sujet": "Migrants route Îles Canaries",
+      "fait": "Plus de 7 400 migrants sont arrivés aux Îles Canaries espagnoles durant les dix premiers jours de novembre. (Selon Al Jazeera)"
     }
   ]
 }
