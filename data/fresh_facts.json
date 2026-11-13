@@ -1,54 +1,54 @@
 {
-  "generated_at": "2026-11-12T20:40:02.744554+00:00",
+  "generated_at": "2026-11-13T02:24:48.676230+00:00",
   "window_hours": 8,
   "faits": [
     {
-      "sujet": "Négociations Ukraine-Russie",
-      "fait": "L'envoyé américain Steve Witkoff déclare que le président Poutine a accepté que des négociateurs européens participent au prochain cycle de pourparlers sur l'Ukraine. Selon BBC World."
+      "sujet": "Nvidia CEO démission scandale",
+      "fait": "Jensen Huang a démissionné de son poste de PDG de Nvidia suite à des révélations concernant des liaisons, dont une potentiellement avec une espionne chinoise. Selon BBC World, des législateurs américains veulent l'interroger sur cette affaire."
     },
     {
-      "sujet": "Attaque drone en Baltique",
-      "fait": "Un navire de guerre russe a été touché par un drone ukrainien dans le golfe de Finlande, ce qui constituerait la première fois que des drones ukrainiens attaquent un navire russe en haute mer dans la Baltique. Selon BBC World."
+      "sujet": "Stellantis remboursement usine Brampton",
+      "fait": "Stellantis remboursera 24 millions de dollars de plein gré au gouvernement fédéral canadien suite à la vente de son usine de Brampton. D'après Radio-Canada, l'entreprise négocie également une solution équitable avec les employés."
     },
     {
-      "sujet": "Tensions Falkland Argentine-Royaume-Uni",
-      "fait": "L'Argentine et le Royaume-Uni sont en conflit juridique concernant un projet de forage pétrolier en eaux profondes. Selon Al Jazeera."
+      "sujet": "Négociations Ukraine présence européenne",
+      "fait": "Le président ukrainien Volodymyr Zelensky a annoncé que des leaders européens seraient présents aux prochaines négociations de paix sur l'Ukraine. Selon BBC World, Zelensky estime que la présence européenne est justifiée car l'Ukraine espère éventuellement rejoindre l'UE."
     },
     {
-      "sujet": "Restriction Starshield en Ukraine",
-      "fait": "Le président Zelenskyy déclare que Starshield a à nouveau été désactivé sur les drones rapides en territoire ukrainien occupé par la Russie, avec une limite de vitesse ramenée à 161 km/h. Selon Ars Technica."
+      "sujet": "Grève étudiants Québec logement endettement",
+      "fait": "Des étudiants collégiaux et universitaires québécois manifesteront vendredi à Montréal pour dénoncer l'endettement, l'insécurité alimentaire et la crise du logement. D'après La Presse, cette mobilisation est menée par la CRUES, la plus militante des coalitions étudiantes."
     },
     {
-      "sujet": "Départ du PDG d'Nvidia Jensen Huang",
-      "fait": "Jensen Huang, PDG d'Nvidia et figure de proue du boom de l'IA, a été évincé de son poste par le conseil d'administration d'Nvidia. Selon Bloomberg."
+      "sujet": "Panne Microsoft 365 Outlook Teams",
+      "fait": "Des milliers d'utilisateurs de Microsoft 365, Outlook et Teams ont subi une panne généralisée jeudi. Selon Radio-Canada et CBC, Microsoft a commencé à restaurer les services en fin d'après-midi."
     },
     {
-      "sujet": "Scandale personnel Jensen Huang",
-      "fait": "Reuters rapporte que Jensen Huang avait une relation avec une deuxième employée d'Nvidia, et signale des informations sur une troisième affaire. Selon Reuters et TechCrunch."
+      "sujet": "Trump appelle Cook diriger Nvidia",
+      "fait": "Le président Donald Trump a proposé que Tim Cook, ancien PDG d'Apple, prenne la tête de Nvidia suite à la démission de Jensen Huang. D'après The Verge, Trump a posté cette suggestion sur Truth Social immédiatement après l'annonce de la démission."
     },
     {
-      "sujet": "Lancement Gemini 4 Hydrogen Google",
-      "fait": "Google déploie Gemini 4 Hydrogen, remplaçant le modèle Gemini 3.8 Flash. Google affirme que ce modèle est 2,5 fois plus rapide que Flash 3.8 en mode haute puissance et réduit les affirmations fausses de plus de 5 fois. Selon Ars Technica."
+      "sujet": "FAA déploiement système SMART national",
+      "fait": "La FAA a étendu le déploiement de son système SMART d'IA pour la gestion du trafic aérien à l'ensemble de l'espace aérien américain après un test réussi en septembre. Selon Ars Technica, le système a rerouvé 180 vols dans la région de Washington, économisant en moyenne 10 minutes par vol et 80 gallons de carburant."
     },
     {
-      "sujet": "Panne Microsoft Outlook",
-      "fait": "Microsoft Outlook a connu une panne affectant les utilisateurs mondiaux. Microsoft a rapporté que une partie de son infrastructure connaissait une charge élevée dans plusieurs régions. Selon The Verge et TechCrunch."
+      "sujet": "American Cancer Society dépistage prostate",
+      "fait": "L'American Cancer Society recommande désormais que tous les hommes se soumettent à un test PSA régulier pour le dépistage du cancer de la prostate. D'après Ars Technica, les hommes à risque moyen devraient faire un test tous les deux ans à partir de 50 ans jusqu'à 69 ans."
     },
     {
-      "sujet": "Faux site Maya découvert par IA",
-      "fait": "Un chercheur de Google affirmant avoir découvert un site Maya inédit en utilisant des agents IA a été contredit : le site avait déjà été découvert et publié dans un journal académique l'année précédente. Selon The Verge."
+      "sujet": "Annonce jeu Wolfenstein 3 Xbox",
+      "fait": "Xbox a annoncé officiellement Wolfenstein 3, suite aux confirmations précédentes d'Elder Scrolls VI. Selon The Verge, le jeu est en production par MachineGames avec une session de capture de mouvement en cours."
     },
     {
-      "sujet": "Démocrates debattent avenir parti",
-      "fait": "Les démocrates américains se réunissent à Denver pour débattre de l'avenir du parti suite à leurs victoires électorales de mi-mandat, avec la participation de législateurs et de potentiels candidats à 2028. Selon Al Jazeera."
+      "sujet": "Rapport réseau hypertrucages McGill",
+      "fait": "Un rapport de l'Université McGill identifie un réseau probablement basé hors du Canada utilisant des hypertrucages pour diffuser des contenus provoquant des divisions politiques parmi les Canadiens. D'après La Presse, ce rapport a été publié jeudi."
     },
     {
-      "sujet": "Effondrement immeuble New York",
-      "fait": "Un immeuble s'est effondré à New York, faisant au moins 8 morts. Environ 250 pompiers et secouristes sont mobilisés pour les recherches. Selon Radio-Canada."
+      "sujet": "Trump pause frappes contre Iran",
+      "fait": "Le président Trump déclare que les pays du Golfe lui ont demandé de suspendre les attaques contre l'Iran. Selon Al Jazeera, Trump a fait cette déclaration depuis la Maison-Blanche."
     },
     {
-      "sujet": "Bombes factices écoles Italie",
-      "fait": "Des écoles à travers l'Italie ont reçu des menaces de bombes pour le deuxième jour consécutif, provoquant des évacuations. Selon BBC World."
+      "sujet": "Houthis attaques Arabie Saoudite",
+      "fait": "Les Houthis du Yémen ont renouvelé les attaques contre l'Arabie Saoudite avec des drones contre les infrastructures pétrolières et militaires. D'après Al Jazeera, la coalition dirigée par l'Arabie Saoudite a intercepté plusieurs drones suspects."
     }
   ]
 }
