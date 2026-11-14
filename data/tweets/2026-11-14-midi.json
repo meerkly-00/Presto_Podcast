@@ -1,0 +1,14 @@
+{
+  "date": "2026-11-14",
+  "kind": "poll",
+  "text": "Ce matin → Une panne massive a paralysé le transport aérien américain vendredi.\n\nNouveau : Le secrétaire aux Transports confirme que le remplacement de câbles en cuivre par fibre optique en est la\n\nComment améliorer la résilience des systèmes critiques du transport aérien?",
+  "poll": {
+    "options": [
+      "Renforcer les tests",
+      "Maintenir des systèmes",
+      "Augmenter",
+      "Combiner ces trois"
+    ],
+    "duration_minutes": 1440
+  }
+}
