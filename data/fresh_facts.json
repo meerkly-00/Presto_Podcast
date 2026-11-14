@@ -1,46 +1,50 @@
 {
-  "generated_at": "2026-11-14T01:58:51.576227+00:00",
+  "generated_at": "2026-11-14T18:39:54.646122+00:00",
   "window_hours": 8,
   "faits": [
     {
-      "sujet": "Panne communications FAA États-Unis",
-      "fait": "La FAA a émis un arrêt au sol national à 15h44 ET le 13 novembre suite à une panne de télécommunications affectant les centres de contrôle aérien. L'arrêt a été levé à 20h15 ET après plus de quatre heures. Selon Ars Technica et The Verge, plus de 14 000 vols ont été annulés ou retardés."
+      "sujet": "Panne aérienne FAA aux États-Unis",
+      "fait": "Une panne nationale du système aérien américain causée par le remplacement de câbles en cuivre par une fibre optique a entraîné l'arrêt au sol le plus long depuis le 11 septembre. Selon Al Jazeera et The Verge, le secrétaire américain aux Transports Sean Duffy a qualifié cela de maintenance de routine, bien que la cause exacte reste incertaine."
     },
     {
-      "sujet": "Collision cargo-bateau Nouvelle-Orléans",
-      "fait": "Un navire-citerne a percuté un bateau de croisière amarré sur le Mississippi à la Nouvelle-Orléans. Selon la BBC, tous les passagers ont été secourus et 32 personnes hospitalisées avec blessures non critiques, aucune personne portée disparue."
+      "sujet": "Amende Meta en Italie pour accès données",
+      "fait": "L'Italie a infligé une amende de 805 millions d'euros (887 millions de dollars) à Meta pour avoir accédé aux photos de 20 millions d'utilisateurs sans les en informer. Selon la BBC et Reuters, la plateforme était accusée de ne pas informer les utilisateurs de cet accès."
     },
     {
-      "sujet": "SpaceX Starship vol 15",
-      "fait": "Le vol 15 de Starship a décollé vendredi du sud du Texas et a atteint une orbite basse. Selon Ars Technica, cela constituait le deuxième vol de Starship vers une orbite basse terrestre."
+      "sujet": "Négociations commerciales Canada-États-Unis",
+      "fait": "Le premier ministre Mark Carney a déclaré que le Canada n'accepterait pas un accord commercial qui ne permettrait pas un secteur automobile viable. Selon Global News, Carney affirme que les négociations commerciales avec les États-Unis font des progrès."
     },
     {
-      "sujet": "Panne mondiale services Microsoft",
-      "fait": "Microsoft a subi une panne mondiale affectant Outlook et Teams. Selon Al Jazeera, les services ont commencé à se rétablir vendredi."
+      "sujet": "Carney participe à photo APEC avec Poutine",
+      "fait": "Le premier ministre canadien Mark Carney a annoncé qu'il participerait à une photo de groupe avec le président russe Vladimir Poutine lors du sommet de l'APEC, par respect pour le président chinois Xi Jinping. Selon la CBC, Carney refuse de boycotter cet événement."
     },
     {
-      "sujet": "Bombardier contrat Arabie saoudite",
-      "fait": "Bombardier a confirmé un contrat avec The Helicopter Company pour 12 avions d'affaires, valorisé à 568 millions USD (790 millions CAD). Selon Le Devoir, l'accord inclut des options pour 48 appareils supplémentaires et prévoit l'établissement d'une présence locale en Arabie saoudite."
+      "sujet": "Rappel de produits Soup Time",
+      "fait": "Des soupes de marque Soup Time (Baba's Borscht Soup et Wardy's Bow Valley Beef Barley) ont été rappelées en raison de la présence non déclarée de blé. Selon Les Affaires, ces produits présentent un risque pour les consommateurs allergiques."
     },
     {
-      "sujet": "Utilisation GLP-1 États-Unis",
-      "fait": "Environ 27 millions d'adultes américains (9,8%) ont utilisé des médicaments GLP-1 en 2025. Selon Ars Technica, 44% des utilisateurs ont rapporté utiliser ces médicaments différemment que prescrit, principalement pour des raisons de coût ou de disponibilité."
+      "sujet": "Lancement SpaceX Starship test 15",
+      "fait": "Le vaisseau Starship de SpaceX a complété son 15e vol d'essai et a tenté un atterrissage de précision au point exact de lancement au Texas. Selon la CBC, l'entreprise visait un retour sans précédent au même site."
     },
     {
-      "sujet": "Rappel employés aciérie Stelco",
-      "fait": "Stelco a rappelé l'ensemble des employés licenciés à son aciérie de Hamilton. Selon Radio-Canada, tous les employés concernés recevront rétroactivement leur salaire pour la période de mise à pied."
+      "sujet": "Philippines remporte Eurovision Asie",
+      "fait": "La candidate philippine Carmelle a remporté le premier concours Eurovision Song Contest Asia avec sa chanson Sobra-Sobra sur l'autonomisation des femmes. Selon la BBC, elle était la favorite du concours."
     },
     {
-      "sujet": "Réaction mondiale panne FAA",
-      "fait": "Le secrétaire à la Défense Markwayne Mullin a déclaré qu'il n'y avait aucune indication que la panne était une attaque malveillante. Selon Ars Technica, les vols internationaux ont été traités au cas par cas."
+      "sujet": "Protestes en République centrafricaine",
+      "fait": "Des centaines de personnes ont manifesté dans les rues de Bangui pour protester contre la hausse des prix du carburant et les arrestations. Selon Al Jazeera, les tensions socioéconomiques s'aggravent dans le pays."
     },
     {
-      "sujet": "Nvidia départ PDG Huang",
-      "fait": "Le départ de Jensen Huang de la présidence de Nvidia préoccupe les investisseurs en startups IA. Selon TechCrunch, Nvidia avait investi des dizaines de milliards dans des startups sous sa direction."
+      "sujet": "Tesla propose achat Cybercab personnel",
+      "fait": "Tesla invite des clients à acheter un Cybercab pour usage personnel au prix de 29 990 dollars plus 299 dollars par mois d'abonnement autonomie. Selon The Verge, le véhicule n'est disponible que dans les zones où fonctionne le service Robotaxi de Tesla."
     },
     {
-      "sujet": "Amazon World Product Graph",
-      "fait": "Amazon prévoit de construire une base de données sur chaque produit vendu sur internet, y compris ceux non vendus par Amazon. Selon The Verge et Reuters, le projet vise à réduire les recherches clients sur Reddit ou Google."
+      "sujet": "Démission Nvidia CEO Jensen Huang",
+      "fait": "Jensen Huang a quitté son poste de PDG de Nvidia, provoquant des réactions des gouvernements asiatiques concernant les engagements d'approvisionnement en puces. Selon TechCrunch, certains gouvernements surveillent l'impact sur leurs projets locaux."
+    },
+    {
+      "sujet": "Italie soutient Allemagne projet avion",
+      "fait": "L'Italie a annoncé son soutien à l'adhésion de l'Allemagne au projet de développement du prochain avion de combat. Selon Reuters, cette décision renforce la coopération militaire européenne."
     }
   ]
 }
