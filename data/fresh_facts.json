@@ -1,50 +1,50 @@
 {
-  "generated_at": "2026-11-14T18:39:54.646122+00:00",
+  "generated_at": "2026-11-14T22:52:44.143829+00:00",
   "window_hours": 8,
   "faits": [
     {
-      "sujet": "Panne aérienne FAA aux États-Unis",
-      "fait": "Une panne nationale du système aérien américain causée par le remplacement de câbles en cuivre par une fibre optique a entraîné l'arrêt au sol le plus long depuis le 11 septembre. Selon Al Jazeera et The Verge, le secrétaire américain aux Transports Sean Duffy a qualifié cela de maintenance de routine, bien que la cause exacte reste incertaine."
+      "sujet": "Ukraine cession Donbas OTAN",
+      "fait": "Le président ukrainien Zelensky déclare que les États-Unis ont évoqué la possibilité que l'Ukraine cède le Donbas en échange d'une adhésion à l'OTAN. Les autorités américaines n'ont pas confirmé, indiquant que « de nombreuses idées continuent à être discutées ». Selon BBC World."
     },
     {
-      "sujet": "Amende Meta en Italie pour accès données",
-      "fait": "L'Italie a infligé une amende de 805 millions d'euros (887 millions de dollars) à Meta pour avoir accédé aux photos de 20 millions d'utilisateurs sans les en informer. Selon la BBC et Reuters, la plateforme était accusée de ne pas informer les utilisateurs de cet accès."
+      "sujet": "SpaceX attrape Starship mécaniquement",
+      "fait": "SpaceX a réussi à attraper le vaisseau Starship avec les bras mécaniques « Mechazilla » du lanceur, réalisant la première capture réussie du vaisseau complet. C'est la première fois que cette manœuvre est exécutée sur le véhicule Starship lui-même. Selon The Verge et BBC World."
     },
     {
-      "sujet": "Négociations commerciales Canada-États-Unis",
-      "fait": "Le premier ministre Mark Carney a déclaré que le Canada n'accepterait pas un accord commercial qui ne permettrait pas un secteur automobile viable. Selon Global News, Carney affirme que les négociations commerciales avec les États-Unis font des progrès."
+      "sujet": "Panne aérienne États-Unis causes",
+      "fait": "La Secrétaire aux Transports Sean Duffy déclare que la paralysie aérienne du 14 novembre a été causée par des travaux de remplacement d'un câble de cuivre vieillissant par une ligne optique dans une installation FAA distante. Selon BBC World et The Verge."
     },
     {
-      "sujet": "Carney participe à photo APEC avec Poutine",
-      "fait": "Le premier ministre canadien Mark Carney a annoncé qu'il participerait à une photo de groupe avec le président russe Vladimir Poutine lors du sommet de l'APEC, par respect pour le président chinois Xi Jinping. Selon la CBC, Carney refuse de boycotter cet événement."
+      "sujet": "Carney photo APEC avec Poutine",
+      "fait": "Le premier ministre canadien Mark Carney annonce qu'il participera à la photo de famille du sommet APEC avec le président russe Poutine par respect pour le pays hôte, la Chine. Selon CBC et Radio-Canada."
     },
     {
-      "sujet": "Rappel de produits Soup Time",
-      "fait": "Des soupes de marque Soup Time (Baba's Borscht Soup et Wardy's Bow Valley Beef Barley) ont été rappelées en raison de la présence non déclarée de blé. Selon Les Affaires, ces produits présentent un risque pour les consommateurs allergiques."
+      "sujet": "Québec vote indépendant Francophonie",
+      "fait": "Le premier ministre du Québec Paul St-Pierre Plamondon affirme être prêt à voter indépendamment du gouvernement fédéral lors de l'élection du secrétaire général de l'Organisation internationale de la Francophonie. Selon Radio-Canada et La Presse."
     },
     {
-      "sujet": "Lancement SpaceX Starship test 15",
-      "fait": "Le vaisseau Starship de SpaceX a complété son 15e vol d'essai et a tenté un atterrissage de précision au point exact de lancement au Texas. Selon la CBC, l'entreprise visait un retour sans précédent au même site."
+      "sujet": "Militaires décédés Wainwright incendie",
+      "fait": "Un cinquième soldat des Forces armées canadiennes décède des blessures subies lors de l'incendie à la base de Wainwright en Alberta, le 14 octobre. Le militaire était hospitalisé en Ontario. Selon Global News et La Presse."
     },
     {
-      "sujet": "Philippines remporte Eurovision Asie",
-      "fait": "La candidate philippine Carmelle a remporté le premier concours Eurovision Song Contest Asia avec sa chanson Sobra-Sobra sur l'autonomisation des femmes. Selon la BBC, elle était la favorite du concours."
+      "sujet": "Canada vente gaz COP31",
+      "fait": "La ministre fédérale de l'Environnement Julie Dabrusin révèle que le Canada a discuté de vente de gaz avec l'Europe lors de la COP31 en Turquie. Elle est critiquée par d'anciens ministres de l'Environnement. Selon La Presse et Radio-Canada."
     },
     {
-      "sujet": "Protestes en République centrafricaine",
-      "fait": "Des centaines de personnes ont manifesté dans les rues de Bangui pour protester contre la hausse des prix du carburant et les arrestations. Selon Al Jazeera, les tensions socioéconomiques s'aggravent dans le pays."
+      "sujet": "Musk pétition Nvidia Jensen Huang",
+      "fait": "Elon Musk et d'autres dirigeants technologiques signent une pétition demandant à Nvidia de réintégrer son PDG Jensen Huang. La pétition a recueilli plus de 115 000 signatures. Selon TechCrunch."
     },
     {
-      "sujet": "Tesla propose achat Cybercab personnel",
-      "fait": "Tesla invite des clients à acheter un Cybercab pour usage personnel au prix de 29 990 dollars plus 299 dollars par mois d'abonnement autonomie. Selon The Verge, le véhicule n'est disponible que dans les zones où fonctionne le service Robotaxi de Tesla."
+      "sujet": "Tesla Cybercab pré-commandes frais",
+      "fait": "Tesla ouvre les pré-commandes de son Cybercab pour usage personnel, avec des restrictions géographiques et des frais mensuels de 299 dollars. Elon Musk déclare que ce tarif est « trop élevé ». Selon TechCrunch."
     },
     {
-      "sujet": "Démission Nvidia CEO Jensen Huang",
-      "fait": "Jensen Huang a quitté son poste de PDG de Nvidia, provoquant des réactions des gouvernements asiatiques concernant les engagements d'approvisionnement en puces. Selon TechCrunch, certains gouvernements surveillent l'impact sur leurs projets locaux."
+      "sujet": "Tanker Chine Nouvelle-Orléans port",
+      "fait": "Le port de Nouvelle-Orléans poursuit en justice pour obtenir le contrôle d'un tanker qui a heurté un navire de croisière. Le tanker est détenu par une filiale d'une entreprise chinoise. Les 197 passagers et membres d'équipage du navire de croisière ont survécu. Selon CBC et Global News."
     },
     {
-      "sujet": "Italie soutient Allemagne projet avion",
-      "fait": "L'Italie a annoncé son soutien à l'adhésion de l'Allemagne au projet de développement du prochain avion de combat. Selon Reuters, cette décision renforce la coopération militaire européenne."
+      "sujet": "Kushner brokering pourparlers Ukraine",
+      "fait": "L'envoyé américain Jared Kushner déclare viser à faciliter des négociations directes entre l'Europe et la Russie sur l'Ukraine. Selon Al Jazeera."
     }
   ]
 }
