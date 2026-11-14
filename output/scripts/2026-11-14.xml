@@ -1,0 +1,90 @@
+```xml
+<script>
+  <intro>Bonjour, on est le samedi quatorze novembre deux mille vingt-six. Voici votre Presto en environ quinze minutes. Au menu : la panne aérienne massive aux États-Unis, les suites de l'affaire Nvidia, un sommet historique annoncé entre Washington, Moscou et Pékin, la diplomatie sur l'Ukraine, l'économie et la tech, et un tour de l'actualité québécoise.</memo>
+  </intro>
+
+  <chapitre titre="La panne aérienne aux États-Unis">
+    On commence avec un épisode qui a paralysé une bonne partie du transport aérien américain vendredi. Selon Associated Press, l'administration Trump a attribué l'arrêt général des décollages à une surcharge de systèmes vieillissants, et non à une cyberattaque. Radio-Canada rapporte que le secrétaire au Transport réclame cinquante milliards de dollars du Congrès pour moderniser le contrôle aérien.
+
+    Selon Ars Technica, il s'agit du troisième arrêt général de l'histoire de la Federal Aviation Administration. L'interruption a été décrétée à quinze heures quarante-quatre, heure de l'Est, vendredi, pour, je le cite : "extraordinary circumstances and for reasons of safety". Fin de citation. Elle a été levée environ quatre heures plus tard, vers vingt heures quinze. Plus d'un million de voyageurs ont été touchés, selon Ars Technica, et plusieurs compagnies ont annulé des vols pour le reste de la soirée. Air Canada a annulé tous ses vols vers et depuis les États-Unis pour le reste de la soirée de vendredi.
+
+    Selon Reuters, Microsoft a précisé que ses services destinés aux consommateurs étaient rétablis, mais que l'entreprise continuait de surveiller ses services destinés aux entreprises, dans la foulée d'une panne informatique mondiale survenue plus tôt cette semaine.
+
+    Toujours selon Ars Technica, la FAA a par ailleurs élargi le déploiement d'un outil d'intelligence artificielle destiné à aider les contrôleurs aériens à gérer la congestion, à l'échelle de tout l'espace aérien américain. Le syndicat représentant les contrôleurs aériens dit ne pas avoir été impliqué dans la conception ni les essais de ce système.
+  </chapitre>
+
+  <chapitre titre="L'affaire Nvidia">
+    On enchaîne avec l'affaire qui continue de dominer l'actualité économique et politique des deux côtés de la frontière. Selon le Wall Street Journal, la crise à la direction de Nvidia continue de peser sur les marchés asiatiques.
+
+    Selon Reuters, l'ancien chef de la direction de Nvidia aurait induit en erreur le principal avocat de l'entreprise au sujet de sa relation avec la femme d'affaires chinoise Alice Huang. Reuters a aussi publié un portrait détaillé de cette dernière.
+
+    Du côté politique, selon Associated Press, le secrétaire au Trésor américain Scott Bessent reproche au département du Commerce, dirigé par Howard Lutnick, de ne pas avoir restreint les exportations de puces Nvidia. CBC confirme que Bessent s'est dit frustré par l'inaction du département du Commerce envers une entreprise dirigée, selon les autorités américaines, par une personne soupçonnée d'espionnage pour le compte de la Chine. Selon The Economist, ce dossier touche maintenant directement le cabinet de Donald Trump, Lutnick se retrouvant dans la ligne de mire.
+
+    Du côté des marchés, Financial Times rapporte que les investisseurs qui croient à l'intelligence artificielle maintiennent leurs positions malgré les secousses chez Nvidia. Toujours selon Financial Times, certains investisseurs auraient empoché environ deux cents millions de dollars en pariant contre le titre avant l'annonce du départ de Jensen Huang. TechCrunch rapporte que ce départ crée un vide important dans le financement des jeunes pousses en intelligence artificielle, Nvidia ayant injecté des dizaines de milliards de dollars dans ce secteur sous sa direction.
+  </chapitre>
+
+  <chapitre titre="International">
+    À l'international, la BBC rapporte une annonce majeure de la Maison-Blanche : Donald Trump, Vladimir Poutine et Xi Jinping tiendraient une rencontre conjointe en Chine la semaine prochaine. Selon la porte-parole citée par la BBC, Trump doit y discuter de la, je le cite : "reduction of nuclear weapons". Fin de citation.
+
+    Toujours selon la BBC, le président ukrainien Volodymyr Zelensky affirme que des envoyés américains ont évoqué l'idée que l'Ukraine cède le Donbass en échange d'une adhésion à l'OTAN, dans le cadre des efforts pour mettre fin à la guerre avec la Russie.
+
+    Ailleurs, Al Jazeera rapporte le report des toutes premières élections nationales du Soudan du Sud, initialement attendues en deux mille vingt-deux, maintenant prévues le onze février. Toujours selon Al Jazeera, une caravane de migrants de plus de mille personnes se dirige vers la frontière américaine depuis le sud du Mexique, dans la foulée de la victoire des démocrates aux élections de mi-mandat.
+
+    En Israël, Al Jazeera souligne que même si l'avenir politique de Benjamin Netanyahu est incertain, l'héritage de l'extrême droite israélienne au sein des institutions pourrait difficilement être renversé, selon des observateurs cités par le média.
+
+    Du côté des Nations unies, CBC rapporte que des responsables de la santé de l'ONU saluent des progrès dans la réponse à l'épidémie d'Ebola, six mois après le début de l'éclosion, tout en précisant que l'insécurité demeure le plus grand défi, la maladie continuant de se propager vers des régions plus reculées du Congo.
+
+    Enfin, à La Nouvelle-Orléans, la BBC et CBC rapportent qu'un pétrolier ayant perdu sa capacité de manœuvre a percuté un bateau de croisière fluviale amarré avec cent quatre-vingts personnes à bord. Toutes les personnes à bord ont survécu, bien que trente-deux personnes aient été hospitalisées pour des blessures jugées non critiques.
+  </chapitre>
+
+  <chapitre titre="Économie et marchés">
+    On passe à l'économie. Selon Bloomberg, l'inflation américaine dépasse les projections des économistes. Selon Bloomberg toujours, les contrats à terme américains progressent malgré la panne chez Microsoft, les investisseurs ayant maintenant l'œil sur les données sur les prix à la production.
+
+    Du côté des premiers appels publics à l'épargne, Reuters rapporte que les investisseurs se précipitent sur celui d'Anthropic, tout en s'interrogeant sur la durabilité de son avance dans le secteur de l'intelligence artificielle. Selon Bloomberg, cette entrée en bourse vient couronner une année record pour les mégatransactions sur les marchés boursiers.
+
+    Au Canada, Global News rapporte que l'Alberta modifie son système de redevances pour encourager l'investissement et la production dans les sables bitumineux, avec des taux garantis et prévisibles. Selon BNN Bloomberg, Statistique Canada rapporte que les ventes manufacturières sont demeurées essentiellement inchangées en septembre.
+
+    Toujours selon BNN Bloomberg, les détenteurs de parts de H&R REIT ont voté contre la vente de la fiducie immobilière, forçant l'abandon de la transaction. Par ailleurs, la ministre fédérale Mélanie Joly affirme qu'Ottawa et le Québec espèrent qu'un, je le cite : "aggressive package" pourra éviter la vente d'une usine de Stellantis. Fin de citation.
+
+    Au Québec, Les Affaires rapporte qu'Hydro-Québec voit sa rentabilité affectée au troisième trimestre par l'achat d'électricité. L'entreprise doit présenter ses résultats financiers complets pour la période.
+
+    Du côté de l'énergie, selon Reuters, l'Agence internationale de l'énergie affirme que le marché pétrolier mondial retourne vers un surplus, les exportations du Golfe reprenant. Toujours selon Reuters, le Canada prévoit investir environ deux cents millions de dollars canadiens dans le projet Woodfibre LNG pour en accroître la capacité.
+  </chapitre>
+
+  <chapitre titre="Tech">
+    Du côté de la tech, une partie de l'attention reste tournée vers les suites de l'affaire Nvidia, mais plusieurs autres dossiers ont retenu l'attention. Selon Ars Technica, la fusée Starship de SpaceX a atteint l'orbite lors de son quinzième vol d'essai, un lancement jugé largement réussi, ouvrant la voie à une possible récupération de l'engin samedi.
+
+    Selon The Verge, Amazon prépare un vaste projet baptisé le "World Product Graph", visant à indexer les données de pratiquement tous les produits vendus en ligne, même ceux qu'elle ne vend pas elle-même. Reuters précise que l'objectif est de devenir la référence pour les agents d'intelligence artificielle qui font désormais du magasinage pour le compte des utilisateurs.
+
+    Toujours chez OpenAI, selon The Verge, l'entreprise lance ChatGPT Wallet, un portefeuille permettant à ses agents Dots d'effectuer des achats pour le compte des utilisateurs abonnés à ChatGPT Pro aux États-Unis, avec vérification biométrique obligatoire avant chaque transaction.
+
+    Du côté de la santé publique, CBC rapporte une hausse, je le cite : "notable increase" de matériel d'exploitation sexuelle d'enfants généré par intelligence artificielle, observée par la Gendarmerie royale à l'Île-du-Prince-Édouard. Fin de citation. Des spécialistes cités par CBC s'inquiètent que ce contenu illégal alimente la demande pour de l'abus réel.
+
+    Enfin, TechCrunch rapporte qu'une jeune entreprise nommée Drogue mise sur la chaleur des océans pour alimenter des centres de données flottants, avec un premier prototype attendu en mer d'ici moins de deux ans.
+  </chapitre>
+
+  <chapitre titre="Actualité québécoise et canadienne">
+    Au Québec, La Presse souligne qu'il y a cinquante ans, le Québec élisait son premier gouvernement souverainiste, celui de René Lévesque. Le Devoir rappelle que cette élection survenait dans un Québec en pleine effervescence politique et culturelle, alors que la chanson Gens du pays, de Gilles Vigneault, devenait une sorte d'hymne non officiel lors des célébrations de la Saint-Jean-Baptiste de mille neuf cent soixante-quinze.
+
+    Toujours selon La Presse, les gouvernements du Québec et du Canada partagent une position commune à l'approche du Sommet de la Francophonie : aucun des deux ne souhaite que les tribunaux les forcent à traduire intégralement la Constitution canadienne en français.
+
+    Sur le dossier de la grève étudiante, La Presse rapporte une mobilisation grandissante qui représente un test pour le chef du Parti québécois, Paul St-Pierre Plamondon. Les étudiants mobilisés depuis plusieurs jours disent vouloir, je le cite : "faire tomber la province entière en grève à l'hiver deux mille vingt-sept". Fin de citation.
+
+    Du côté diplomatique, Radio-Canada et Global News rapportent que le Canada et les Philippines ont conclu les négociations en vue d'un accord de libre-échange, le gouvernement canadien visant aussi un accord plus large avec les onze pays de l'Association des nations de l'Asie du Sud-Est. Le Devoir souligne par ailleurs que le Québec se positionne comme un partenaire intéressant pour les pays d'Asie du Sud-Est, selon la déléguée du Québec à Singapour.
+
+    Ailleurs au pays, CBC rapporte que de nouveaux rapports montrent que le salaire minimum n'a suivi le rythme du coût de la vie dans aucune des cinquante-neuf villes et régions étudiées à travers le pays.
+  </chapitre>
+
+  <chapitre titre="Sport">
+    Rapidement en sport. Au soccer, Sportsnet rapporte que le Canada a battu le Guatemala trois à deux lors du match aller des quarts de finale de la Ligue des nations de la Concacaf, mais a perdu son capitaine Alphonso Davies, blessé en cours de match.
+
+    Au hockey, Sportsnet souligne que les Canucks de Vancouver peinent toujours à livrer une performance complète malgré une semaine de repos, tandis que les Maple Leafs de Toronto, qui traversent une séquence de cinq défaites consécutives à domicile, ont changé leur routine d'entraînement.
+
+    En tennis, Al Jazeera rapporte que la numéro deux mondiale Aryna Sabalenka a été éliminée des finales de la saison de la WTA après une défaite contre Elina Svitolina.
+
+    Enfin, en soccer international, CBC rapporte que le gardien espagnol Jesus Owono a été suspendu pour douze matchs après une collision ayant entraîné la mort d'un joueur de Tenerife, un geste qui relance les questions sur les soins médicaux d'urgence offerts sur le terrain.
+  </chapitre>
+
+  <outro>Voilà pour ce Presto du samedi quatorze novembre deux mille vingt-six. Si ce briefing vous est utile, le meilleur coup de main que vous pouvez nous donner, c'est de le partager à une personne qui aime rester informée. Et selon votre plateforme : un abonnement sur Spotify ou Apple Podcasts, un pouce bleu et un abonnement sur YouTube, ça prend deux secondes et ça aide vraiment Presto à grandir. Sur ce, bonne journée, et à demain.</outro>
+</script>
+```
