@@ -1,50 +1,42 @@
 {
-  "generated_at": "2026-11-14T22:52:44.143829+00:00",
+  "generated_at": "2026-11-15T19:15:15.910630+00:00",
   "window_hours": 8,
   "faits": [
     {
-      "sujet": "Ukraine cession Donbas OTAN",
-      "fait": "Le président ukrainien Zelensky déclare que les États-Unis ont évoqué la possibilité que l'Ukraine cède le Donbas en échange d'une adhésion à l'OTAN. Les autorités américaines n'ont pas confirmé, indiquant que « de nombreuses idées continuent à être discutées ». Selon BBC World."
+      "sujet": "Russie exclus du mondial junior hockey",
+      "fait": "L'IIHF a confirmé que la Russie ne participera pas au Championnat mondial junior de hockey 2026 (26 décembre 2026 - 5 janvier 2027) en raison des restrictions imposées par le gouvernement canadien. Selon Radio-Canada et CBC, le premier ministre Mark Carney avait déclaré que les athlètes russes et bélarusses ne pourraient pas jouer en sol canadien."
     },
     {
-      "sujet": "SpaceX attrape Starship mécaniquement",
-      "fait": "SpaceX a réussi à attraper le vaisseau Starship avec les bras mécaniques « Mechazilla » du lanceur, réalisant la première capture réussie du vaisseau complet. C'est la première fois que cette manœuvre est exécutée sur le véhicule Starship lui-même. Selon The Verge et BBC World."
+      "sujet": "Zelenskyy demande levée restrictions Starlink",
+      "fait": "Le président ukrainien Volodymyr Zelenskyy a averti que les limitations du système satellite Starshield de SpaceX pourraient affaiblir les défenses de l'infrastructure énergétique ukrainienne avant l'hiver. Selon CBC et BBC World, Zelenskyy demande aux États-Unis et à Musk de lever ces restrictions."
     },
     {
-      "sujet": "Panne aérienne États-Unis causes",
-      "fait": "La Secrétaire aux Transports Sean Duffy déclare que la paralysie aérienne du 14 novembre a été causée par des travaux de remplacement d'un câble de cuivre vieillissant par une ligne optique dans une installation FAA distante. Selon BBC World et The Verge."
+      "sujet": "Canada investit dans protection forêts tropicales",
+      "fait": "Le Canada a promis jusqu'à 560 millions de dollars sur quatre ans pour protéger les forêts tropicales dans le cadre d'un projet codirigé par le Brésil et la Norvège, selon CBC World."
     },
     {
-      "sujet": "Carney photo APEC avec Poutine",
-      "fait": "Le premier ministre canadien Mark Carney annonce qu'il participera à la photo de famille du sommet APEC avec le président russe Poutine par respect pour le pays hôte, la Chine. Selon CBC et Radio-Canada."
+      "sujet": "Mike Morrice élu chef Parti vert Canada",
+      "fait": "L'ancien député fédéral Mike Morrice a été élu à la tête du Parti vert du Canada, étant le seul candidat en lice pour la direction du parti, selon La Presse."
     },
     {
-      "sujet": "Québec vote indépendant Francophonie",
-      "fait": "Le premier ministre du Québec Paul St-Pierre Plamondon affirme être prêt à voter indépendamment du gouvernement fédéral lors de l'élection du secrétaire général de l'Organisation internationale de la Francophonie. Selon Radio-Canada et La Presse."
+      "sujet": "Trump demande financement infrastructure FAA",
+      "fait": "Le président Donald Trump a exigé que le Congrès accorde plus d'argent pour améliorer complètement le système de contrôle du trafic aérien américain, suite à une panne d'infrastructure vétuste qui a immobilisé les vols ce week-end, selon CBC World."
     },
     {
-      "sujet": "Militaires décédés Wainwright incendie",
-      "fait": "Un cinquième soldat des Forces armées canadiennes décède des blessures subies lors de l'incendie à la base de Wainwright en Alberta, le 14 octobre. Le militaire était hospitalisé en Ontario. Selon Global News et La Presse."
+      "sujet": "Estonie ferme passages frontaliers russes",
+      "fait": "L'Estonie a décidé de fermer les passages frontaliers avec la Russie après une tentative d'incendie ciblant un fabricant de drones, que Tallinn attribue aux services de renseignement russes, selon Al Jazeera et Reuters."
     },
     {
-      "sujet": "Canada vente gaz COP31",
-      "fait": "La ministre fédérale de l'Environnement Julie Dabrusin révèle que le Canada a discuté de vente de gaz avec l'Europe lors de la COP31 en Turquie. Elle est critiquée par d'anciens ministres de l'Environnement. Selon La Presse et Radio-Canada."
+      "sujet": "Canada dépense 11,5% du PIB en santé",
+      "fait": "Selon l'ICIS, le Canada a consacré 11,5% de son produit intérieur brut aux soins de santé en 2024, marquant un sommet de dépenses, d'après Radio-Canada."
     },
     {
-      "sujet": "Musk pétition Nvidia Jensen Huang",
-      "fait": "Elon Musk et d'autres dirigeants technologiques signent une pétition demandant à Nvidia de réintégrer son PDG Jensen Huang. La pétition a recueilli plus de 115 000 signatures. Selon TechCrunch."
+      "sujet": "Approvisionnement eau douce menace sécurité Canada",
+      "fait": "Une note interne du gouvernement canadien met en garde que les pressions sur l'approvisionnement en eau douce posent des défis ayant des répercussions sur « la sécurité et la prospérité à long terme » du Canada, selon La Presse."
     },
     {
-      "sujet": "Tesla Cybercab pré-commandes frais",
-      "fait": "Tesla ouvre les pré-commandes de son Cybercab pour usage personnel, avec des restrictions géographiques et des frais mensuels de 299 dollars. Elon Musk déclare que ce tarif est « trop élevé ». Selon TechCrunch."
-    },
-    {
-      "sujet": "Tanker Chine Nouvelle-Orléans port",
-      "fait": "Le port de Nouvelle-Orléans poursuit en justice pour obtenir le contrôle d'un tanker qui a heurté un navire de croisière. Le tanker est détenu par une filiale d'une entreprise chinoise. Les 197 passagers et membres d'équipage du navire de croisière ont survécu. Selon CBC et Global News."
-    },
-    {
-      "sujet": "Kushner brokering pourparlers Ukraine",
-      "fait": "L'envoyé américain Jared Kushner déclare viser à faciliter des négociations directes entre l'Europe et la Russie sur l'Ukraine. Selon Al Jazeera."
+      "sujet": "Migrants arrivent aux Îles Canaries",
+      "fait": "Près de 2 200 migrants ont atteint les Îles Canaries espagnoles en 2 jours, dont environ 1 500 en une seule journée, selon Al Jazeera et Associated Press."
     }
   ]
 }
