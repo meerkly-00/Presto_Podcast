@@ -1,0 +1,14 @@
+{
+  "date": "2026-11-15",
+  "kind": "poll",
+  "text": "Ce matin → Plus de 115 000 personnes demandent la réintégration de Jensen Huang à la tête de Nvidia.\n\nNouveau : La Maison-Blanche enquête pour savoir si Nvidia a fermé les yeux sur la contrebande de\n\nComment devraient être gérées les enquêtes sur l'exportation de puces d'IA?",
+  "poll": {
+    "options": [
+      "Enquête complète avant",
+      "Renforcer les contrôles",
+      "Clarifier les",
+      "Laisser les agences"
+    ],
+    "duration_minutes": 1440
+  }
+}
