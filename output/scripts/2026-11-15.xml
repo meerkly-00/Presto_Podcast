@@ -1,0 +1,95 @@
+```xml
+<script>
+  <intro>Bonjour, on est le dimanche quinze novembre deux mille vingt-six. Voici votre Presto en environ quinze minutes. Au menu : la paralysie aérienne américaine, les suites de l'affaire Nvidia, la diplomatie autour de l'Ukraine, l'économie et les marchés, la tech avec le succès de Starship, et un peu de sport avec la Coupe Grey.</chapitre>
+
+  <chapitre titre="La paralysie aérienne aux États-Unis">
+  On commence avec les suites de la paralysie du transport aérien américain, qui a frappé vendredi. Selon Associated Press, l'agence fédérale de l'aviation affirme que le trafic aérien américain devrait revenir à la normale dimanche, après que l'arrêt général des décollages a provoqué des annulations massives de vols. 
+
+  Selon la BBC, le secrétaire aux Transports Sean Duffy a précisé que la panne découle d'un chantier de remplacement d'un câble de cuivre vétuste par une ligne à fibre optique dans une installation éloignée de l'agence. Il a qualifié ces travaux de maintenance de routine, mais a admis ne pas connaître la cause exacte du problème, qui pourrait être un bris d'équipement ou une erreur de configuration. 
+
+  Toujours selon Reuters, un fournisseur du nom de L3 Harris aurait installé le routeur en cause. Radio-Canada rapporte que les autorités américaines se sont d'abord montrées vagues sur la raison de l'interruption des vols. 
+
+  Les conséquences se font sentir bien au-delà des frontières américaines. Selon BNN Bloomberg, les voyageurs canadiens pris dans ce chaos aérien ont des droits précis qu'ils peuvent faire valoir. Le Journal de Montréal rapporte aussi un accrochage entre deux avions sur le tarmac de l'aéroport de Miami, un événement distinct qui s'ajoute à la congestion généralisée du réseau. Et toujours au Journal de Montréal, certains craignent que les répercussions de cette paralysie se fassent sentir pendant encore une semaine.
+  </chapitre>
+
+  <chapitre titre="L'affaire Nvidia">
+  On enchaîne avec l'affaire qui continue de dominer l'actualité économique et politique. Selon TechCrunch, le chef de la sécurité de Nvidia avait quitté discrètement l'entreprise en août. Maintenant que le chef de la direction Jensen Huang a quitté ses fonctions en raison de ses relations, dont une avec une dirigeante d'une entreprise soupçonnée d'acheminer des puces vers la Chine, un ancien agent du renseignement cité par TechCrunch affirme que ce genre de fuite d'information passe souvent sous le radar des équipes de sécurité corporative. 
+
+  Toujours selon Reuters, l'entreprise Megaspeed affirme que cette dirigeante, Alice Huang, a quitté l'entreprise en août deux mille vingt-cinq. 
+
+  Le dossier suscite une mobilisation inattendue. Selon TechCrunch, Elon Musk et d'autres dirigeants du secteur technologique ont signé une pétition demandant la réintégration de Jensen Huang à la tête de Nvidia. Plus de cent quinze mille personnes avaient signé la pétition samedi après-midi. 
+
+  Selon The Economist, cette affaire marque un tournant pour l'entreprise : son expert en semi-conducteurs soutient que Nvidia ne sera plus jamais la même.
+  </chapitre>
+
+  <chapitre titre="International">
+  À l'international, la diplomatie autour de l'Ukraine continue d'évoluer. Selon CBC, le président ukrainien Volodymyr Zelensky affirme que les États-Unis ont évoqué la possibilité d'un nouveau cadre de sécurité pour l'Europe dans le cadre des efforts pour mettre fin à la guerre. Il prévient que la Russie pourrait se servir de telles discussions pour affaiblir l'OTAN et redessiner les frontières du continent. 
+
+  Toujours selon la BBC, Zelensky affirme que les États-Unis ont évoqué l'idée que l'Ukraine cède le Donbass en échange d'une adhésion à l'OTAN. Un responsable américain cité par la BBC n'a pas confirmé ces propos, disant que plusieurs idées continuent d'être discutées. 
+
+  Du côté canadien, selon CBC, le premier ministre Mark Carney affirme qu'il participera à la photo de groupe du sommet de l'APEC aux côtés du président russe Vladimir Poutine, par respect pour l'hôte, le président chinois Xi Jinping. D'ailleurs, Radio-Canada rapporte que les grandes puissances mondiales se retrouvent à Manille pour un sommet régional de l'ANASE, où les dirigeants d'Asie du Sud-Est seront rejoints par Donald Trump et Mark Carney. Selon Al Jazeera, des manifestants ont dénoncé les politiques américaines à l'arrivée des dirigeants à Manille. 
+
+  Ailleurs, selon Radio-Canada, l'ingérence étrangère continue de faire son chemin dans les pays baltes, qu'elle soit russe ou américaine. 
+
+  Au Soudan, Al Jazeera rapporte que des attaques de drones contre des centrales électriques plongent plusieurs villes dans le noir. 
+
+  Au Cap-Vert, toujours selon Al Jazeera, les bureaux de vote sont ouverts pour une élection présidentielle qui oppose le président sortant José Maria Neves à cinq candidats de l'opposition, dont Joana Rosa, première candidate féminine à la présidence du pays. 
+
+  En France, Le Devoir rapporte qu'entre cent six mille et deux cent mille personnes ont manifesté dans les rues, le ministère de l'Intérieur insistant sur un nouveau recul de la participation par rapport aux mobilisations précédentes. 
+
+  Et à Washington, la BBC rapporte qu'un juge a temporairement bloqué les plans de Donald Trump de fermer un terrain de golf pour le rénover.
+  </chapitre>
+
+  <chapitre titre="Économie et marchés">
+  On passe à l'économie. Selon le Financial Times, les actions liées à la construction de centres de données ont perdu quatre mille deux cents milliards de dollars américains en valeur boursière alors que l'engouement pour le commerce lié à l'intelligence artificielle se dégonfle. 
+
+  Toujours selon le Financial Times, le chroniqueur Martin Wolf analyse les élections de mi-mandat américaines, notant un recul pour Donald Trump alors que le populisme européen continue de se maintenir. 
+
+  Du côté des entreprises, le Financial Times rapporte que le groupe Trump Media fait face à une pression de remboursement de dette d'environ un milliard de dollars américains, alors que son pari sur le bitcoin perd de sa valeur. 
+
+  Selon Bloomberg, la candidature de SpaceX pour une place dans l'indice S&P 500 reprend vie alors qu'Elon Musk propose une fusion avec Tesla. 
+
+  Au Québec, Les Affaires dresse un bilan positif d'une tournée européenne de Jeunes Entreprises, qui a parcouru près de dix mille kilomètres à travers onze pays en quinze étapes. Toujours selon Les Affaires, un texte d'opinion soutient que la bulle de l'intelligence artificielle rime avec les bulles précédentes, sans toutefois s'y répéter exactement. 
+
+  Du côté des géants industriels chinois, Les Affaires rapporte que l'entreprise Zoomlion présentera des équipements et des robots dotés d'intelligence artificielle lors d'un salon en Chine, et que l'entreprise LiuGong a réuni ses partenaires internationaux dans le cadre d'une conférence mondiale de concessionnaires. 
+
+  En Colombie-Britannique, selon BNN Bloomberg, un courtier immobilier qui a trompé ses clients et menti au régulateur a été condamné à payer environ six cent vingt-sept mille dollars en pénalités. 
+
+  Et au Japon, selon le Financial Times, le caviar rouge disparaît tranquillement des menus de sushi alors que le prix des œufs de poisson grimpe.
+  </chapitre>
+
+  <chapitre titre="Tech">
+  Du côté de la tech, le grand exploit du week-end vient de SpaceX. Selon CBC, la fusée Starship a fait un retour triomphal sur Terre samedi, capturée en plein vol par d'immenses bras mécaniques, vingt-deux heures après son décollage. Il s'agit d'une étape clé dans l'effort de l'entreprise, qui dure depuis une dizaine d'années, pour développer une fusée entièrement réutilisable. 
+
+  Selon Ars Technica, il s'agissait du quinzième vol d'essai de l'appareil, et même si l'entreprise n'a pas réussi la double récupération qu'elle espérait, l'exploit est jugé hautement significatif. Le Devoir confirme que SpaceX n'a pas réussi à récupérer les deux parties de la fusée comme elle l'espérait. Selon The Verge, il s'agit de la première fois que la manœuvre dite du "chopstick", où des bras mécaniques attrapent l'appareil, fonctionne sur le vaisseau Starship lui-même, et non seulement sur son propulseur. 
+
+  Ailleurs en tech, selon Reuters, l'Italie a imposé une amende d'environ huit cent quatre-vingt-sept millions de dollars américains à Meta concernant l'accès aux données des utilisateurs Android. 
+
+  Selon TechCrunch, Tesla a ouvert les précommandes de son Cybercab pour usage personnel, avec des restrictions géographiques et des frais mensuels d'environ trois cents dollars américains. Même Elon Musk a reconnu que ces frais mensuels sont trop élevés. 
+
+  Du côté scientifique, selon Ars Technica, le télescope spatial James Webb a détecté de la glace plus ancienne que l'étoile qu'elle orbite, dans le disque de débris entourant l'étoile Beta Pictoris, à environ soixante-quatre années-lumière de la Terre. Cette découverte suggère que les ingrédients nécessaires pour former des mondes riches en eau pourraient être courants autour des jeunes étoiles. 
+
+  Et selon Associated Press, la sonde Voyager un de la NASA s'approche d'un jour-lumière de distance dans l'espace interstellaire, établissant un nouveau record de distance.
+  </chapitre>
+
+  <chapitre titre="Actualité québécoise et canadienne">
+  Au Québec, Le Devoir rapporte que le premier ministre Paul St-Pierre Plamondon courtise les entrepreneurs francophones lors d'un sommet de la Francophonie, où il a été accueilli en grande pompe par des gens d'affaires. 
+
+  Toujours au Québec, Radio-Canada se penche sur l'héritage politique du Parti québécois actuel, se demandant si la formation dirigée par Paul St-Pierre Plamondon demeure l'héritière du parti fondé par René Lévesque. Selon un militant cité par Radio-Canada, je le cite : "C'est toujours une coalition, mais portée par des militants qui n'ont pas vécu les échecs référendaires." Fin de citation.
+  </chapitre>
+
+  <chapitre titre="Sport">
+  Rapidement en sport. Au football, Global News rapporte que les Alouettes de Montréal et les Elks d'Edmonton s'affrontent aujourd'hui lors de la cent treizième finale de la Coupe Grey, un duel entre les meneurs de leurs divisions respectives. TVA Sports confirme que la formation des Alouettes a été dévoilée en vue du match. 
+
+  Au hockey universitaire, TVA Sports rapporte que les Carabins de Montréal affronteront les Thunderbirds lors de la coupe Uteck. 
+
+  Dans la Ligue nationale de hockey, Sportsnet rapporte que les Oilers d'Edmonton ont blanchi les Maple Leafs de Toronto un à zéro, infligeant à Toronto une sixième défaite consécutive à domicile. Le gardien Devon Levi a réalisé son premier jeu blanc dans la Ligue nationale, et Connor McDavid a étendu sa séquence de matchs consécutifs avec au moins un point à vingt et un rencontres. 
+
+  Du côté des Flames de Calgary, Sportsnet rapporte que le gardien Dustin Wolf a mené son équipe à une victoire contre les Kings de Los Angeles. 
+
+  Et à Montréal, Global News rapporte que l'Avalanche du Colorado a battu le Canadien quatre à un, malgré l'absence de ses deux étoiles blessées Nathan MacKinnon et Cale Makar. Selon Sportsnet, le Canadien a connu une défaite jugée imméritée, après une victoire jugée tout aussi chanceuse contre les Bruins quelques jours plus tôt.
+  </chapitre>
+
+  <outro>Voilà pour ce Presto du quinze novembre. Si ce briefing vous est utile, le meilleur coup de main que vous pouvez nous donner, c'est de le partager à une personne qui aime rester informée. Et selon votre plateforme : un abonnement sur Spotify ou Apple Podcasts, un pouce bleu et un abonnement sur YouTube, ça prend deux secondes et ça aide vraiment Presto à grandir. Sur ce, bonne journée, et à demain.</outro>
+</script>
+```
