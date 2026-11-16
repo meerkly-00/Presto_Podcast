@@ -1,42 +1,50 @@
 {
-  "generated_at": "2026-11-15T19:15:15.910630+00:00",
+  "generated_at": "2026-11-16T01:35:17.268291+00:00",
   "window_hours": 8,
   "faits": [
     {
-      "sujet": "Russie exclus du mondial junior hockey",
-      "fait": "L'IIHF a confirmé que la Russie ne participera pas au Championnat mondial junior de hockey 2026 (26 décembre 2026 - 5 janvier 2027) en raison des restrictions imposées par le gouvernement canadien. Selon Radio-Canada et CBC, le premier ministre Mark Carney avait déclaré que les athlètes russes et bélarusses ne pourraient pas jouer en sol canadien."
+      "sujet": "Apple étude IA santé",
+      "fait": "Apple a lancé une nouvelle application pour une étude visant à comprendre comment les gens interagissent avec les outils IA de santé conversationnelle. Selon The Verge, l'étude est menée en collaboration avec OpenEvidence, une plateforme IA clinique, et les participants évaluent les réponses selon des critères d'exactitude, de détail et de pertinence."
     },
     {
-      "sujet": "Zelenskyy demande levée restrictions Starlink",
-      "fait": "Le président ukrainien Volodymyr Zelenskyy a averti que les limitations du système satellite Starshield de SpaceX pourraient affaiblir les défenses de l'infrastructure énergétique ukrainienne avant l'hiver. Selon CBC et BBC World, Zelenskyy demande aux États-Unis et à Musk de lever ces restrictions."
+      "sujet": "Fusée Vulcan échec Amazon",
+      "fait": "La fusée Vulcan de United Launch Alliance a échoué 10 minutes après son décollage le 15 novembre 2026, détruisant 40 satellites de haut débit Amazon Leo. Selon Ars Technica, c'était le premier vol d'une série de 38 lancements commandés par Amazon pour construire son réseau satellite."
     },
     {
-      "sujet": "Canada investit dans protection forêts tropicales",
-      "fait": "Le Canada a promis jusqu'à 560 millions de dollars sur quatre ans pour protéger les forêts tropicales dans le cadre d'un projet codirigé par le Brésil et la Norvège, selon CBC World."
+      "sujet": "Triche IA examen Corée",
+      "fait": "Un candidat sud-coréen au top score de l'examen national pour les futurs comptables fiscaux a confessé dimanche avoir utilisé l'IA générative pour tricher. Selon CBC, le candidat a reconnu avoir commis la fraude."
     },
     {
-      "sujet": "Mike Morrice élu chef Parti vert Canada",
-      "fait": "L'ancien député fédéral Mike Morrice a été élu à la tête du Parti vert du Canada, étant le seul candidat en lice pour la direction du parti, selon La Presse."
+      "sujet": "Miguel Gallardo décès cartel",
+      "fait": "Miguel Angel Felix Gallardo, fondateur du cartel de Guadalajara connu comme le 'Boss of Bosses', est décédé à l'hôpital à l'âge de 80 ans après des décennies de prison. Selon BBC World, il a été condamné pour le meurtre en 1985 d'un agent de la DEA américaine et d'un pilote mexicain."
     },
     {
-      "sujet": "Trump demande financement infrastructure FAA",
-      "fait": "Le président Donald Trump a exigé que le Congrès accorde plus d'argent pour améliorer complètement le système de contrôle du trafic aérien américain, suite à une panne d'infrastructure vétuste qui a immobilisé les vols ce week-end, selon CBC World."
+      "sujet": "Toronto Tempo WNBA 2027",
+      "fait": "Les Toronto Tempo ont remporté la loterie du repêchage WNBA 2027 et obtiendront le premier choix au total. D'après CBC, la garde de l'USC JuJu Watkins est considérée comme la meilleure perspective du repêchage 2027."
     },
     {
-      "sujet": "Estonie ferme passages frontaliers russes",
-      "fait": "L'Estonie a décidé de fermer les passages frontaliers avec la Russie après une tentative d'incendie ciblant un fabricant de drones, que Tallinn attribue aux services de renseignement russes, selon Al Jazeera et Reuters."
+      "sujet": "Snowbirds vol final Calgary",
+      "fait": "Les avions à réaction CT-114 Tutor des Snowbirds de la Défense nationale ont effectué leur vol final au-dessus du stade McMahon de Calgary le 15 novembre 2026, juste avant le 113e Coupe Grey. Selon CBC et Global News, cela marquait la fin de l'ère de ces avions légendaires."
     },
     {
-      "sujet": "Canada dépense 11,5% du PIB en santé",
-      "fait": "Selon l'ICIS, le Canada a consacré 11,5% de son produit intérieur brut aux soins de santé en 2024, marquant un sommet de dépenses, d'après Radio-Canada."
+      "sujet": "Canada hockey féminin final",
+      "fait": "Le Canada s'est qualifié pour la finale du Championnat du monde de hockey féminin en battant la Suède 3-0 dimanche. D'après Le Devoir, Sarah Fillier a marqué lors d'un avantage numérique et Ann-Renée Desbiens a réalisé un blanchissage avec 13 arrêts."
     },
     {
-      "sujet": "Approvisionnement eau douce menace sécurité Canada",
-      "fait": "Une note interne du gouvernement canadien met en garde que les pressions sur l'approvisionnement en eau douce posent des défis ayant des répercussions sur « la sécurité et la prospérité à long terme » du Canada, selon La Presse."
+      "sujet": "Mike Morrice chef Parti vert",
+      "fait": "Mike Morrice, ancien député fédéral de Kitchener-Centre de 2021 à 2025, a été élu chef du Parti vert du Canada. Selon Le Devoir, Morrice a perdu son siège aux dernières élections."
     },
     {
-      "sujet": "Migrants arrivent aux Îles Canaries",
-      "fait": "Près de 2 200 migrants ont atteint les Îles Canaries espagnoles en 2 jours, dont environ 1 500 en une seule journée, selon Al Jazeera et Associated Press."
+      "sujet": "Canada Gaza aide humanitaire",
+      "fait": "Le Canada et trois autres pays ont exigé un accès humanitaire 'sans entrave' et 'immédiat' à Gaza. Selon Radio-Canada, 150 000 tentes et autres fournitures vitales sont bloquées à la frontière de Gaza."
+    },
+    {
+      "sujet": "Russie Mondial junior hockey",
+      "fait": "L'IIHF a confirmé que la Russie ne participera pas au Championnat mondial de hockey junior 2026. D'après Radio-Canada et Global News, la fédération russe de hockey qualifie cette décision d''unlawful' et prévoit d'en appeler au Comité international olympique."
+    },
+    {
+      "sujet": "Carney rencontre Xi Chine",
+      "fait": "Le premier ministre Mark Carney se rencontrera avec le président chinois Xi Jinping lors du sommet de l'APEC pour approfondir les liens économiques et commerciaux. Selon CBC World, cette rencontre intervient alors que le paysage des menaces pourrait avoir changé."
     }
   ]
 }
