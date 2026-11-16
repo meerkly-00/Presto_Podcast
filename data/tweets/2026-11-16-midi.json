@@ -1,0 +1,14 @@
+{
+  "date": "2026-11-16",
+  "kind": "poll",
+  "text": "Ce matin → Des figures tech soutiennent le retour de Jensen Huang à la tête de Nvidia.\n\nNouveau : Selon The Verge, certains attribuent son départ à un complot. Trump appuie sa réintégration.\n\nSelon toi, le départ de Jensen Huang devrait-il être réexaminé?",
+  "poll": {
+    "options": [
+      "Oui, il doit revenir",
+      "Non, la transition doit",
+      "Dépend des faits établis",
+      "Pas d'avis"
+    ],
+    "duration_minutes": 1440
+  }
+}
