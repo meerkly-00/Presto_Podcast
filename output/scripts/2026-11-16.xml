@@ -1,0 +1,79 @@
+```xml
+<script>
+  <intro>Bonjour, on est le lundi seize novembre deux mille vingt-six. Voici votre Presto en environ quinze minutes. Au menu : les suites de l'affaire Nvidia, la tournée asiatique de Mark Carney, les tensions internationales de la mer Rouge au Moyen-Orient, l'échec du lanceur Vulcan, et un survol de l'économie et du sport, avec la Coupe Grey.</menu>
+
+  <chapitre titre="L'affaire Nvidia">
+On commence avec l'affaire qui continue de dominer l'actualité économique et politique des deux côtés de la frontière. Selon Al Jazeera, d'anciens pairs de Jensen Huang, dont Elon Musk, ont vanté publiquement son sens des affaires depuis son départ forcé de la direction de Nvidia, certains avertissant des risques que cette sortie ferait peser sur les objectifs américains en matière d'intelligence artificielle.
+
+Toujours dans ce dossier, selon le Financial Times, Jensen Huang discuterait avec des alliés d'un possible retour à la tête de Nvidia. Selon la BBC, l'entreprise Megaspeed affirme qu'un employé soupçonné d'espionnage pour la Chine, et lié à l'ancien patron de Nvidia, aurait quitté l'entreprise en deux mille vingt-cinq. Le scandale continue de soulever des questions sur la possibilité que des puces d'intelligence artificielle avancées se soient retrouvées en Chine malgré les restrictions américaines.
+
+Justement, sur ce front réglementaire, selon The Verge, la sénatrice démocrate Maria Cantwell a vivement critiqué le secrétaire au Commerce Howard Lutnick, lui reprochant de ne pas avoir fait respecter les protections empêchant les puces d'intelligence artificielle de Nvidia de se retrouver en Chine. Dans une lettre, je la cite : "Despite clear authority from Congress, the Department of Commerce has allowed advanced AI chips to flow through companies with ties to the People's Republic of China." Fin de citation.
+
+En parallèle, selon Reuters, qui cite le Wall Street Journal, l'administration Trump prévoirait de désigner Nvidia et d'autres entreprises d'intelligence artificielle comme des, je le cite : "national champions" américains. Fin de citation.
+
+Sur les marchés, selon Bloomberg, les actions technologiques ont reculé alors que les investisseurs attendent les résultats trimestriels de Nvidia ainsi que l'entrée en bourse d'Anthropic. Selon Reuters, la prudence s'est installée sur les marchés avant ces deux échéances. Le Wall Street Journal rapporte que les jours où Nvidia agissait comme un, je le cite : "open checkbook" pour l'ensemble de l'économie de l'intelligence artificielle, seraient comptés. Fin de citation.
+
+Enfin, selon TechCrunch, la question qui agite l'industrie est de savoir si les mauvaises nouvelles pour Jensen Huang en sont aussi pour l'ensemble du secteur de l'intelligence artificielle, certains observateurs soulignant à quel point l'économie de l'intelligence artificielle reposait sur Nvidia et sur son ancien dirigeant.
+  </chapitre>
+
+  <chapitre titre="Politique canadienne et internationale">
+On passe à la diplomatie canadienne. Selon Radio-Canada, le premier ministre canadien Mark Carney entame un ballet diplomatique en Chine, où un tête-à-tête avec le président chinois Xi Jinping est prévu pour mardi. Selon BNN Bloomberg, un spécialiste en politique affirme que l'Asie représente une région clé dans la stratégie de diversification commerciale de Mark Carney. Toujours selon BNN Bloomberg, le premier ministre a aussi fait la promotion de l'industrie automobile canadienne lors d'un passage au Cambodge.
+
+Du côté des États-Unis, selon l'Associated Press, Donald Trump se rend en Asie dans l'espoir de renverser la vapeur après des revers électoraux à mi-mandat qui l'ont affaibli sur le plan intérieur. Toujours selon l'Associated Press, le président désigné par Trump à la tête du parti républicain ferait face à une rébellion interne, les pertes électorales des derniers scrutins ayant fragilisé l'emprise du président sur le Parti républicain.
+
+Sur un autre front, Donald Trump a brisé le silence entourant la paralysie générale du trafic aérien américain survenue en fin de semaine. Selon CBC, le président a profité de l'incident pour réclamer du Congrès davantage de fonds afin de moderniser complètement le système de contrôle aérien du pays, qu'il attribue à des systèmes vieillissants plutôt qu'à une cyberattaque.
+  </chapitre>
+
+  <chapitre titre="International">
+À l'international, la situation reste tendue au Moyen-Orient. Selon Al Jazeera, le porte-avions américain USS Roosevelt est arrivé dans la région, rejoignant deux autres navires déjà déployés dans la zone de responsabilité du commandement central américain, ce qui relance les questions sur une possible reprise des hostilités entre les États-Unis et l'Iran.
+
+Toujours selon Al Jazeera, la Jordanie a interdit l'application de messagerie Telegram, invoquant des raisons de sécurité nationale, dans le contexte d'une répression sécuritaire déclenchée après une attaque meurtrière survenue le mois dernier contre une église grecque orthodoxe.
+
+Au Yémen, selon la BBC, des forces appuyées par l'Arabie saoudite affirment déplacer des troupes du détroit de Bab al-Mandab pour défendre la capitale provisoire, Aden, face à une offensive des Houthis.
+
+Selon la BBC également, le Royaume-Uni et plusieurs alliés, dont le Canada, l'Australie et l'Italie, demandent à Israël de permettre un accès humanitaire rapide à Gaza, affirmant que les autorités israéliennes retiennent aux frontières des fournitures essentielles, dont cent cinquante mille tentes.
+
+En Ukraine, selon Reuters, l'armée ukrainienne a frappé un pont reliant la Russie à la Crimée. Le Kremlin affirme que les dommages sont mineurs.
+
+Ailleurs, la BBC rapporte deux fusillades de masse en Afrique du Sud, dans les provinces du KwaZulu-Natal et du Gauteng, qui ont fait dix-sept morts au total, un drame qui met en lumière les difficultés du pays à freiner la criminalité violente.
+
+En France, selon Reuters, l'acteur Gérard Depardieu a retiré son appel dans l'affaire d'agression sexuelle le visant et a présenté ses excuses aux victimes.
+  </chapitre>
+
+  <chapitre titre="Économie et marchés">
+On passe à l'économie. Selon Reuters, les marchés ont fléchi lundi, les investisseurs se montrant prudents avant la publication des résultats de Nvidia et l'entrée en bourse d'Anthropic. Selon Bloomberg, les actions technologiques ont glissé dans l'attente de ces deux tests jugés déterminants pour la suite du commerce lié à l'intelligence artificielle.
+
+Sur ce sujet, selon le Financial Times, l'entrée en bourse d'Anthropic est présentée comme le prochain grand test pour l'ensemble du secteur de l'intelligence artificielle. The Economist souligne que les agents de codage représentent déjà un marché considérable, tout en s'interrogeant sur la suite pour l'industrie.
+
+Du côté de l'énergie, selon Reuters, le pétrole a reculé alors que la reprise des exportations au Moyen-Orient alimente des perspectives de surplus. Le Wall Street Journal confirme que les prix du pétrole ont fléchi légèrement, les perspectives de surplus d'approvisionnement compensant les tensions persistantes dans la région. Toujours selon le Wall Street Journal, l'or a connu une légère remontée, mais les prix demeurent faibles.
+
+En Amérique latine, selon Bloomberg, l'économie du Pérou a ralenti de façon inattendue, un recul attribué à un ralentissement dans les secteurs minier et agricole.
+
+Au Québec, Le Devoir rapporte qu'une étude souligne que le resserrement des règles sur les redevances minières n'a pas empêché les entreprises du secteur de quadrupler leurs profits, ce qui amène certains à soutenir que le Québec pourrait se montrer plus exigeant envers l'industrie minière.
+
+Toujours au Québec, Les Affaires rapporte le retour de la liaison aérienne directe entre Montréal et Pékin. Dans le commerce de détail, Best Buy Canada et Uber Eats annoncent un partenariat pour livrer des produits électroniques sur demande partout au pays.
+  </chapitre>
+
+  <chapitre titre="Tech et espace">
+Du côté de la tech, l'échec d'un lancement spatial a retenu l'attention en fin de semaine. Selon Ars Technica, la fusée Vulcan de United Launch Alliance a échoué lors de son lancement, entraînant la perte de quarante satellites à large bande destinés au réseau Amazon Leo. Selon The Verge, il s'agirait de son premier échec de mission en vingt ans d'existence pour l'entreprise. Reuters précise que la fusée appartient à une coentreprise de Boeing et Lockheed Martin, et que sa charge utile de satellites Amazon a été détruite en vol. Ce lancement devait être le premier d'une série de trente-huit vols achetés par Amazon pour développer son réseau concurrent de Starlink, et l'incident devrait clouer la fusée au sol pour une période indéterminée.
+
+En intelligence artificielle, selon The Verge, Apple a lancé une nouvelle étude avec l'organisation OpenEvidence pour mieux comprendre comment les gens utilisent les outils d'intelligence artificielle conversationnelle en matière de santé. Les participants pourront poser des questions médicales par l'entremise d'une nouvelle application et évaluer les réponses reçues selon des critères comme l'exactitude et la pertinence.
+
+Selon CBC, un Sud-Coréen a admis avoir utilisé l'intelligence artificielle générative pour obtenir le meilleur score à l'examen national pour les comptables fiscalistes, ses résultats ayant éveillé des soupçons avant qu'il n'avoue la fraude.
+
+Au Québec, La Presse rapporte que l'intelligence artificielle transforme l'étude des insectes nocturnes grâce à un système développé à Montréal. Le directeur de l'Insectarium, Maxim Larrivée, s'en réjouit, je le cite : "On découvre des choses qu'on n'avait jamais pensé découvrir avant." Fin de citation.
+
+En financement, selon TechCrunch, la firme européenne de capital de risque Plural a amassé un milliard cent millions de dollars américains pour financer la prochaine génération de projets ambitieux en Europe.
+  </chapitre>
+
+  <chapitre titre="Sport">
+Rapidement en sport. Au football canadien, Radio-Canada rapporte que les Elks d'Edmonton ont remporté la cent treizième Coupe Grey face aux Alouettes de Montréal, qui trébuchent ainsi pour une deuxième année de suite en finale. Selon Sportsnet, le quart-arrière Cody Fajardo, âgé de trente-quatre ans, a remporté sa deuxième Coupe Grey, et l'a fait face à l'équipe qui l'avait échangé. Global News souligne que l'attaque pourtant productive de Montréal s'est essoufflée au quatrième quart, laissant filer la victoire une seconde année consécutive. Selon Radio-Canada, les joueurs des Elks ont célébré leur victoire sous une pluie de confettis verts et jaunes.
+
+Au hockey, selon Global News, Leon Draisaitl a inscrit deux buts, et Connor McDavid a égalé le record de Wayne Gretzky du chemin le plus rapide vers quarante passes décisives, lors d'une victoire de cinq à deux des Oilers d'Edmonton contre les Flyers de Philadelphie. L'équipe a maintenant remporté cinq matchs de suite et occupe le sommet de la Ligue nationale de hockey avec trente-cinq points.
+
+Du côté de Vancouver, selon Sportsnet, les Canucks ont signé une victoire surprenante de six à trois à Las Vegas contre les Golden Knights, ce qui pourrait mettre fin à un début de saison difficile pour l'équipe.
+  </chapitre>
+
+  <outro>Voilà pour ce Presto du lundi seize novembre deux mille vingt-six. Si ce briefing vous est utile, le meilleur coup de main que vous pouvez nous donner, c'est de le partager à une personne qui aime rester informée. Et selon votre plateforme : un abonnement sur Spotify ou Apple Podcasts, un pouce bleu et un abonnement sur YouTube, ça prend deux secondes et ça aide vraiment Presto à grandir. Sur ce, bonne journée, et à demain.</outro>
+</script>
+```
