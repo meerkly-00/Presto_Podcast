@@ -1,0 +1,14 @@
+{
+  "date": "2026-11-17",
+  "kind": "poll",
+  "text": "Ce matin → Un pont stratégique de Crimée s'effondre après une attaque ukrainienne.\n\n📍 Nouvelles précisions : L'Ukraine affirme que l'opération a nécessité plusieurs\n\nSelon toi, comment devraient évoluer les stratégies militaires face aux attaques sur les infrastructures civiles?",
+  "poll": {
+    "options": [
+      "Renforcer les défenses",
+      "Négocier un cessez-le-feu",
+      "Cibler les capacités",
+      "Augmenter l'aide"
+    ],
+    "duration_minutes": 1440
+  }
+}
