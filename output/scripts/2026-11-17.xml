@@ -1,0 +1,89 @@
+```xml
+<script>
+  <intro>Bonjour, on est le mardi dix-sept novembre deux mille vingt-six. Voici votre Presto en environ quinze minutes. Au menu : l'attaque ukrainienne contre le pont de Crimée, les suites de l'affaire Nvidia à la veille des résultats trimestriels, l'actualité politique québécoise, et un tour d'horizon de l'économie et de la tech.</intro>
+
+  <chapitre titre="International">
+    On commence à l'international, où un pont stratégique a été frappé cette nuit. Selon la BBC, une partie du pont de Crimée s'est effondrée après une attaque ukrainienne que le président Volodymyr Zelensky qualifie de, je le cite : "unprecedented". Fin de citation. Toujours selon la BBC, l'Ukraine affirme que l'opération a nécessité des semaines de planification, tandis que le Kremlin promet de reconstruire la structure.
+
+    Toujours en Ukraine, la BBC rapporte que la Russie est accusée d'avoir visé une opération de sauvetage après une frappe dite à double impact, qui a fait soixante-douze morts dans le sud du pays. Selon des responsables cités par la BBC, les efforts pour récupérer les corps sont entravés par des frappes russes qui se poursuivent.
+
+    Du côté diplomatique, Al Jazeera rapporte que le président américain Donald Trump est arrivé à Manille avant un sommet spécial entre les États-Unis et l'Association des nations de l'Asie du Sud-Est.
+
+    Toujours à l'international, Al Jazeera rapporte que cinq pays européens relancent des plans pour déporter des migrants vers le Rwanda, un dispositif présenté comme un moyen de dissuasion. CBC confirme l'information et souligne qu'un plan semblable avait été annulé au Royaume-Uni après qu'un tribunal l'a jugé illégal. Des groupes de défense des droits de la personne, cités par Al Jazeera, mettent en garde contre des risques d'abus.
+
+    En Asie du Sud, la BBC rapporte que Bilkis Bano, victime d'un viol collectif alors qu'elle était enceinte en deux mille deux, se dit, je le cite : "heartbroken". Fin de citation, après que deux des agresseurs ont obtenu une libération sous caution par la plus haute cour du pays.
+
+    Au Pakistan, la BBC rapporte que l'ancien premier ministre Imran Khan, emprisonné depuis août deux mille vingt-trois, demande des soins médicaux urgents, affirmant craindre de ne pas en ressortir vivant.
+
+    Enfin, CBC rapporte que les démocrates américains débattent de la marche à suivre après leur victoire électorale de mi-mandat, certaines factions réclamant des enquêtes sur le président Trump, sa famille et ses alliés, d'autres préférant concentrer les efforts sur le coût de la vie.
+  </chapitre>
+
+  <chapitre titre="L'affaire Nvidia">
+    On enchaîne avec l'affaire qui continue de dominer l'actualité économique et politique, à la veille d'un moment charnière. Selon TechCrunch, la cheffe de la direction par intérim et directrice financière de longue date de Nvidia, Colette Kress, présente demain les résultats du troisième trimestre, dans un contexte de turbulences pour l'entreprise.
+
+    Du côté des théories qui circulent dans l'industrie, The Verge rapporte que plusieurs figures de la Silicon Valley, dont certaines réclament la réintégration de l'ancien chef de la direction Jensen Huang, soutiennent qu'un complot serait à l'origine de son départ. Cette théorie s'appuie sur des reportages du New York Times selon lesquels une des femmes avec qui monsieur Huang aurait eu une liaison serait une espionne chinoise. Selon The Verge, les agences américaines n'ont pas confirmé cette affirmation, et le président Trump affirme ne pas avoir été au courant d'une quelconque affaire d'espionnage.
+
+    Sur les marchés, les retombées se font sentir depuis plusieurs jours. Selon Reuters, Wall Street a clôturé en forte baisse lundi, les investisseurs étant nerveux à l'approche des résultats de Nvidia et de l'entrée en bourse d'Anthropic. L'agence Associated Press confirme que Nvidia a entraîné un autre recul des titres technologiques. Selon le Wall Street Journal, les actions liées à l'intelligence artificielle ont repris leur glissade, dans un contexte où les craintes liées à la Chine s'ajoutent aux inquiétudes entourant Nvidia.
+
+    Ce matin, selon Bloomberg, les pressions semblent s'atténuer un peu à l'approche de la publication des résultats de Nvidia.
+  </chapitre>
+
+  <chapitre titre="Actualité québécoise">
+    Au Québec, La Presse rapporte que le gouvernement St-Pierre Plamondon remet en question une loi caquiste qui limite le droit de grève. Il amorce les démarches pour la revoir.
+
+    Toujours selon La Presse, Santé Québec traverse une période de déclin, une situation qui pourrait aussi affecter politiquement le gouvernement péquiste.
+
+    Du côté des enjeux scolaires, Global News rapporte que le chef conservateur québécois Éric Duhaime laisse la porte ouverte à appuyer le plan du gouvernement péquiste d'étendre l'interdiction des signes religieux aux élèves du primaire.
+
+    Toujours selon Global News, une étudiante établie au Canada depuis sept ans fait face à une expulsion, alors que ses camarades de classe et ses enseignants exhortent le gouvernement fédéral à intervenir.
+
+    Sur le plan diplomatique, Le Devoir rapporte que la Chine et le Canada s'entendent sur de nouvelles réductions de droits de douane. Les allègements chinois visent environ quatre cents millions de dollars d'exportations canadiennes de poisson, de fruits de mer et de porc.
+
+    Par ailleurs, Radio-Canada rapporte qu'une entreprise de services après sinistre, Qualinet, a fait rédiger par ses employés des avis élogieux en ligne pour étouffer les plaintes de clients dénonçant des factures gonflées.
+
+    Toujours selon Radio-Canada, le protecteur de l'élève a reçu cent huit plaintes cette année concernant la gestion d'actes à caractère sexuel dans des écoles. Une mère, citée par Radio-Canada, dit s'être sentie abandonnée après une agression sexuelle présumée visant son fils.
+
+    Enfin, à l'échelle fédérale, CBC rapporte que des représentants de Meta affirment que l'entreprise devrait, je le cite : "consider" fin de citation, retirer ses services de chiffrement du Canada si le projet de loi sur l'accès légal est adopté sans modification.
+  </chapitre>
+
+  <chapitre titre="Économie et marchés">
+    On passe à l'économie. Selon Bloomberg, l'inflation canadienne s'est maintenue à trois virgule un pour cent en octobre. BNN Bloomberg précise que la hausse des prix de l'essence et de l'épicerie garde l'inflation élevée, malgré un répit dans d'autres catégories.
+
+    Du côté de l'habitation, CBC rapporte que les ventes de propriétés au Canada ont légèrement progressé en octobre, selon l'Association canadienne de l'immeuble, déjouant les attentes de certains analystes, bien que les niveaux restent inférieurs à ceux d'octobre deux mille vingt-cinq.
+
+    À la Réserve fédérale américaine, le Wall Street Journal et BNN Bloomberg rapportent que le président Kevin Warsh évalue comment l'intelligence artificielle pourrait transformer l'économie, tout en évitant de se prononcer sur les risques inflationnistes que cette technologie pourrait poser.
+
+    Du côté des entreprises, Ars Technica rapporte qu'Intel fait l'objet d'une poursuite de la part de ses actionnaires, après que le titre a chuté de vingt-huit virgule six pour cent en une seule journée fin octobre. Les plaignants allèguent qu'Intel aurait fait des déclarations fausses ou trompeuses sur l'impact du ralentissement des ventes d'ordinateurs personnels. BNN Bloomberg confirme la poursuite.
+
+    Au Brésil, Bloomberg rapporte que des inquiétudes politiques entourant le président Lula pèsent sur les marchés brésiliens, du real aux obligations corporatives.
+
+    Et au Japon, Bloomberg rapporte que la firme d'investissement KKR émergerait comme le principal soumissionnaire pour l'acquisition de la chaîne de restaurants de cari japonaise Ichibanya.
+  </chapitre>
+
+  <chapitre titre="Tech">
+    Du côté de la tech, les pannes continuent de faire les manchettes. Associated Press et The Verge rapportent qu'une panne de systèmes d'une durée d'une heure et demie a forcé United Airlines à retarder des vols au départ lundi, un nouvel incident survenu seulement quelques jours après l'arrêt général des décollages provoqué par une défaillance du réseau de l'agence fédérale de l'aviation. CBC confirme que United Airlines a résolu le problème en soirée.
+
+    Sur la panne précédente chez Microsoft, Ars Technica rapporte que trois défaillances distinctes, dont un bogue latent dormant depuis juillet, se sont combinées pour causer l'une des plus importantes pannes de l'histoire de l'entreprise. Selon le rapport préliminaire de Microsoft, cité par Ars Technica, l'incident n'est pas lié à une cyberattaque ni à l'intelligence artificielle.
+
+    Du côté de la sécurité informatique, TechCrunch rapporte que l'entreprise de cybersécurité Infoblox confirme avoir été victime d'un incident de sécurité après que des pirates ont eu accès à des informations de l'entreprise.
+
+    Toujours en cybersécurité, mais côté affaires judiciaires, The Verge rapporte qu'un pirate ayant divulgué des vidéos du jeu Grand Theft Auto Six en deux mille vingt-deux a plaidé coupable. Selon le service des poursuites britannique, cité par The Verge, l'individu avait aussi piraté d'autres grandes entreprises.
+
+    Dans le secteur de la robotique, Ars Technica rapporte qu'une jeune entreprise de robots militaires appuyée par Eric Trump, le fils du président américain, aurait manqué sa paie et pourrait être au bord de l'effondrement en raison d'un manque de financement. Des sources anonymes citées par CNBC, et reprises par Ars Technica, affirment que le directeur général de l'entreprise aurait emprunté près de cinq millions de dollars des fonds de la société pour acheter une résidence de luxe.
+
+    Sur l'intelligence artificielle et son empreinte énergétique, Ars Technica rapporte qu'une nouvelle étude évalue que les centres de données hyperscale consomment environ deux pour cent de l'électricité américaine.
+
+    Enfin, du côté des produits, TechCrunch rapporte qu'Apple dévoile de nouveaux contrôles de sécurité pour Mac, destinés à encadrer les risques posés par les agents d'intelligence artificielle sur la protection de la vie privée.
+  </chapitre>
+
+  <chapitre titre="Sport">
+    Rapidement en sport. Au hockey, Sportsnet rapporte que le gardien Nikita Tolopilo a réalisé trente-quatre arrêts lundi, menant les Canucks à une deuxième victoire consécutive. Du côté du Canadien de Montréal, Sportsnet rapporte que des difficultés à l'avantage numérique, avec zéro réussite en quatre occasions, ont coûté cher dans la défaite face aux Rangers. Toujours au hockey, Sportsnet rapporte que le directeur général des Maple Leafs, John Chayka, appuie son entraîneur-chef Jim Hiller malgré une séquence de défaites, et promet de trouver des solutions.
+
+    Au football canadien, TVA Sports revient sur la défaite des Alouettes de Montréal en finale de la Coupe Grey, évoquant des problèmes récurrents qui ont coulé l'équipe.
+
+    Enfin, au soccer, Sportsnet souligne que l'équipe masculine canadienne termine une année marquée par un parcours historique à la Coupe du monde avec une victoire éclatante contre le Guatemala en Ligue des nations de la Concacaf.
+  </chapitre>
+
+  <outro>Voilà pour ce Presto du mardi dix-sept novembre deux mille vingt-six. Si ce briefing vous est utile, le meilleur coup de main que vous pouvez nous donner, c'est de le partager à une personne qui aime rester informée. Et selon votre plateforme : un abonnement sur Spotify ou Apple Podcasts, un pouce bleu et un abonnement sur YouTube, ça prend deux secondes et ça aide vraiment Presto à grandir. Sur ce, bonne journée, et à demain.</outro>
+</script>
+```
