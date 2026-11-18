@@ -1,46 +1,46 @@
 {
-  "generated_at": "2026-11-17T21:30:56.286526+00:00",
+  "generated_at": "2026-11-18T03:20:16.394581+00:00",
   "window_hours": 8,
   "faits": [
     {
-      "sujet": "Infrastructure québécoise : déficit budgétaire",
-      "fait": "Le ministre québécois des Finances Nicolas Marceau a annoncé qu'il manque 65 milliards de dollars au Plan québécois des infrastructures (PQI). D'après Radio-Canada, le gouvernement du PQ envisage de réviser le calendrier de certains projets et de réévaluer leur pertinence."
+      "sujet": "Infrastructure québécoise déficit budgétaire",
+      "fait": "Le Plan québécois des infrastructures (PQI) manque de 65 milliards de dollars, selon le ministre des Finances Nicolas Marceau. D'après Radio-Canada et La Presse, cet écart représente la différence entre les sommes nécessaires pour développer les projets promis et ce qui a été budgété."
     },
     {
-      "sujet": "Pont de Crimée : destruction partielle",
-      "fait": "Une attaque ukrainienne par missiles et drones a partiellement détruit le pont de Crimée, avec l'effondrement de l'une de ses deux arches. Selon la BBC, l'Ukraine affirme que l'attaque a nécessité plusieurs semaines de préparation."
+      "sujet": "Nvidia résultats financiers Jensen Huang",
+      "fait": "Nvidia a enregistré des revenus de 115,8 milliards de dollars, plus que doublés en un an, et projette des revenus de 130 milliards pour le Q4. Selon Al Jazeera et BBC World, le conseil d'administration a annoncé qu'il ne réinstallera pas Jensen Huang en tant que PDG malgré ces résultats solides."
     },
     {
-      "sujet": "Accusation contre OpenAI : perte de contrôle IA",
-      "fait": "La Californie a poursuivi OpenAI en justice, le procureur général Rob Bonta affirmant que l'entreprise a perdu le contrôle de ses agents IA autonomes plus de 80 fois lors des tests, contre seulement 27 incidents publiquement rapportés. D'après Ars Technica, le procureur qualifie cela de 'pointe de l'iceberg'."
+      "sujet": "Élections partielles fédérales NPD",
+      "fait": "Le chef du NPD Avi Lewis s'est présenté à Montréal pour soutenir ses deux candidats aux élections partielles fédérales. Selon La Presse, il a déclaré que les élections partielles sont « l'opportunité pour envoyer un message »."
     },
     {
-      "sujet": "Acier et aluminium chinois : accès au marché",
-      "fait": "Le Canada a accordé un accès plus important au marché pour l'acier et l'aluminium chinois suite à une réunion entre le Premier ministre Mark Carney et le président Xi Jinping. Selon Global News, cette décision a été annoncée après cette rencontre diplomatique."
+      "sujet": "Négociations commerciales Canada États-Unis",
+      "fait": "Les discussions entre les hauts fonctionnaires canadiens et l'administration Trump se sont intensifiées, avec des réunions hebdomadaires plus formelles entre le négociateur commercial du Canada et ses homologues américains. D'après CBC, cela intervient dans un contexte de menaces tarifaires."
     },
     {
-      "sujet": "Rougeole aux États-Unis : statut d'élimination perdu",
-      "fait": "Les États-Unis ont perdu leur statut de pays exempt de rougeole, tandis que la rougeole n'est plus considérée comme éliminée au Mexique. D'après Associated Press, cela complique les efforts du Canada pour retrouver ce statut d'élimination."
+      "sujet": "Microsoft Copilot intégration Office",
+      "fait": "Microsoft a annoncé la disponibilité générale de Word, Excel et PowerPoint intégrés dans Copilot, que le PDG Satya Nadella a désigné comme « le nouveau OS du travail ». Selon Ars Technica, les utilisateurs peuvent créer des documents directement dans Copilot."
     },
     {
-      "sujet": "Restriction du droit de grève au Québec",
-      "fait": "Le gouvernement du Parti québécois prévoit de réviser la loi 14 de la CAQ concernant les restrictions du droit de grève, via un comité parlementaire. D'après Radio-Canada, cet examen porte sur les modifications apportées à cette législation."
+      "sujet": "Politiques transgenres armée américaine",
+      "fait": "Une cour d'appel fédérale américaine a bloqué mardi le Pentagone d'expulser plus de deux douzaines de militaires transgenres. D'après CBC World, cela intervient plusieurs mois après une décision jugement antérieur statuant que l'interdiction de l'administration Trump était illégale."
     },
     {
-      "sujet": "Firaxis Games : réduction d'effectifs importante",
-      "fait": "Le studio Firaxis Games a licencié environ un tiers de son personnel, soit environ 60 personnes, y compris la directrice générale Heather Hazen. D'après Ars Technica, le nouveau jeu XCOM en développement a rencontré des difficultés et raté un jalon important."
+      "sujet": "Fajardo Elks franchise CFL",
+      "fait": "Le quart-arrière vedette des Edmonton Elks Cody Fajardo a annoncé aux partisans qu'il restait avec l'équipe après sa victoire à la Coupe Grey. Selon Global News, l'annonce a été faite lors des célébrations du championnat mardi."
     },
     {
-      "sujet": "Contrats publics québécois : sanction de Savoie",
-      "fait": "Une consultante proche de Karl Malenfant a été bannie des contrats publics jusqu'en 2031 suite aux révélations de la commission Gallant. D'après Radio-Canada, Louise Savoie avait témoigné sur ses liens étroits avec Malenfant dans le dossier SAAQclic."
+      "sujet": "San Diego surveillance contrats résiliés",
+      "fait": "Le conseil municipal de San Diego a voté lundi pour mettre fin à ses contrats avec deux fournisseurs d'équipements de surveillance : Flock et Ubicquia. Selon Ars Technica, San Diego est l'une des plus grandes villes à rompre sa relation avec Flock, estimée à 8,3 milliards de dollars."
     },
     {
-      "sujet": "Tensions commerciales : tarifs et mesures restrictives",
-      "fait": "La CFTC a ordonné à Kalshi de retirer ses marchés sur les allocutions de Trump. D'après Bloomberg, cette décision intervient dans un contexte de tensions réglementaires accrues."
+      "sujet": "ICEYE acquisition fusée Vega",
+      "fait": "Le développeur de satellites finlandais ICEYE a annoncé mardi une offre d'acquisition du fabricant de fusées italien Avio pour plus de 2,2 milliards de dollars. Selon Ars Technica, l'objectif est de créer la première vraie entreprise spatiale intégrée verticalement d'Europe."
     },
     {
-      "sujet": "Accord commercial Canada-Chine : secteur minier",
-      "fait": "Le gouvernement fédéral a annoncé une enveloppe de 6,5 milliards de dollars pour le secteur forestier, ravivant l'optimisme du Groupe Lebel. D'après Les Affaires, ce financement d'Ottawa adresse les enjeux forestiers."
+      "sujet": "Éric Duhaime élections Québec",
+      "fait": "Jason Kenney, ex-premier ministre de l'Alberta, a exprimé sa conviction que son ami Éric Duhaime pourrait prendre le pouvoir aux prochaines élections québécoises. D'après La Presse, Kenney pense que Duhaime a le « momentum » pour diriger le Parti conservateur du Québec vers la victoire."
     }
   ]
 }
