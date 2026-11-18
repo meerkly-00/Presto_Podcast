@@ -1,0 +1,14 @@
+{
+  "date": "2026-11-18",
+  "kind": "poll",
+  "text": "Ce matin → La hausse tarifaire en CPE passait de 9,65 $ à 10,60 $ dès janvier.\n\nFace aux contraintes budgétaires, comment financer les services de garde subventionnés?",
+  "poll": {
+    "options": [
+      "Augmenter les tarifs aux",
+      "Augmenter le financement",
+      "Réduire les services",
+      "Combinaison de ces"
+    ],
+    "duration_minutes": 1440
+  }
+}
