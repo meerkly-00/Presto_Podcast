@@ -1,0 +1,63 @@
+```xml
+<script>
+  <intro>Bonjour, on est le mercredi dix-huit novembre deux mille vingt-six. Voici votre Presto en environ quinze minutes. Au menu : la diplomatie canadienne en Chine, les tensions au Moyen-Orient, les résultats de Nvidia et la journée mouvementée des marchés, la victoire démocrate en Alaska, et la tech avec Microsoft et l'arrivée de Grand Theft Auto six.</intro>
+
+  <chapitre titre="Politique canadienne et diplomatie">
+    On commence au Québec et à Ottawa, où la diplomatie canadienne vit une journée chargée. Selon La Presse, le premier ministre Mark Carney doit rencontrer aujourd'hui le président américain Donald Trump en sol chinois, au lendemain d'une entente conclue avec le président Xi Jinping pour rétablir l'accès au marché chinois pour une grande majorité des produits canadiens visés par des droits de douane punitifs.
+
+    Selon CBC, Mark Carney affirme que les liens commerciaux grandissants du Canada avec la Chine ne constituent pas une priorité pour Donald Trump, soulignant que le Canada exporte surtout des matières premières vers la Chine plutôt que des technologies sensibles comme les semi-conducteurs avancés.
+
+    Toujours sur ce dossier, Radio-Canada rapporte que des experts qualifient ce rapprochement de pari risqué. La professeure Geneviève Dufour, de l'Université d'Ottawa, soutient que les États-Unis ne cessent de violer les règles du commerce, ce qui pousserait le Canada à chercher de nouveaux partenaires ailleurs. En anglais, je le cite : "Est-ce que ça risque de fâcher Trump? Probablement." Fin de citation. De son côté, la chercheuse de l'Université McGill Diya Jiang, spécialiste des relations commerciales Canada-Chine, doute que Donald Trump mette ses menaces à exécution.
+
+    Au Québec, Radio-Canada rapporte que Santé Québec adopte un vocabulaire plus nationaliste, la haute direction ayant demandé aux équipes d'éviter les termes "province" et "provincial", dans un contexte de pression politique venant du Parti québécois.
+
+    Du côté de Montréal, Le Devoir rapporte que le président du comité exécutif de la Ville, Claude Pinard, affirme que Montréal n'a aucune marge de manœuvre financière et que des décisions difficiles devront être prises pour boucler le budget de deux mille vingt-sept.
+  </chapitre>
+
+  <chapitre titre="International">
+    On passe à l'international, où la situation reste tendue au Moyen-Orient. Selon Associated Press, une accalmie de deux mois a pris fin avec une troisième frappe iranienne contre des cibles américaines à Bahreïn, suivie d'une riposte américaine.
+
+    En parallèle, le Wall Street Journal rapporte que les contrats à terme sur le pétrole ont progressé, les risques persistants pour le transport maritime au Moyen-Orient continuant d'inquiéter les marchés.
+
+    Aux États-Unis, la victoire électorale de la démocrate Mary Peltola en Alaska a été confirmée. Selon la BBC, cette confirmation vient clore le raz-de-marée du parti démocrate contre les républicains lors des élections sénatoriales de mi-mandat. Associated Press précise que Mary Peltola a défait le sénateur républicain sortant Dan Sullivan, complétant un retour politique spectaculaire dans un État où Donald Trump l'avait emporté largement à plusieurs reprises. Selon Al Jazeera, cette victoire porte à cinquante-six le nombre de sièges démocrates au Sénat, offrant une marge de manœuvre au parti dans des États républicains en vue des élections de deux mille vingt-huit.
+
+    Toujours à Washington, le secrétaire d'État Marco Rubio affirme, selon la BBC, qu'il n'existe "zéro evidence" reliant entre elles les récentes pannes technologiques ayant touché Microsoft, des banques et des compagnies aériennes. En anglais, je le cite : "zero evidence." Fin de citation. Selon Associated Press, cette vague de pannes a aussi atteint le gouvernement américain, un réseau de communications classifiées de l'Agence de sécurité nationale étant tombé en panne, selon un responsable de la défense.
+
+    Par ailleurs, Al Jazeera rapporte que des fuites de documents de la Deutsche Bank exposent des liens entre Donald Trump, Jeffrey Epstein et des élites mondiales, dans un contexte de scrutin accru sur d'anciennes irrégularités financières.
+
+    Enfin, Al Jazeera rapporte qu'un reportage du New York Times suggérant un lien possible entre des barrages iraniens et des installations militaires souterraines suscite une vive controverse.
+  </chapitre>
+
+  <chapitre titre="Économie et marchés">
+    On passe à l'économie, dominée encore une fois par Nvidia. Selon la BBC, l'entreprise affirme qu'elle ne réintégrera pas Jensen Huang à la direction, même si elle a dévoilé des ventes en forte hausse lors de la publication de ses résultats trimestriels mardi. Selon le Wall Street Journal, les actions européennes du secteur des semi-conducteurs ont progressé à la suite de ces résultats jugés solides.
+
+    Mais la réaction des marchés dans leur ensemble a été plus mitigée. Selon Reuters, les actions mondiales ont fléchi après la publication des résultats de Nvidia, l'entrée en bourse prochaine d'Anthropic étant perçue comme un second test déterminant pour l'engouement entourant l'intelligence artificielle. Le Wall Street Journal rapporte aussi qu'un ralentissement des ventes au détail a pesé sur les marchés américains.
+
+    Du côté géopolitique économique, la BBC rapporte qu'à l'approche d'une rencontre entre Donald Trump et Xi Jinping, les ambitions chinoises en intelligence artificielle font face à un obstacle imprévu : le scandale d'espionnage chez Nvidia, que Pékin craint de voir utilisé par Washington pour justifier un resserrement des restrictions sur la vente de puces avancées.
+
+    Enfin, selon The Economist, des failles commencent à apparaître dans ce qu'on appelle le "bouclier de silicium" de Taïwan, alors que la domination de TSMC dans la fabrication de puces avancées commence à faire face à davantage de concurrence.
+  </chapitre>
+
+  <chapitre titre="Tech">
+    Du côté de la tech, Microsoft a tenu sa conférence Ignite. Selon Ars Technica, le chef de la direction Satya Nadella y a présenté ce qu'il appelle le nouveau système d'exploitation du travail : Copilot intègre maintenant directement Word, Excel et PowerPoint, inversant la logique traditionnelle où les logiciels étaient au centre et l'assistant en soutien. Désormais, selon Microsoft, ce sont les agents d'intelligence artificielle qui pilotent, les applications devenant des composantes secondaires.
+
+    Selon The Verge, Satya Nadella affirme aussi être, je le cite : "AGI-pilled", c'est-à-dire convaincu que l'intelligence artificielle générale pourrait transformer la structure même de l'économie et de la politique. Fin de citation. Il précise toutefois ne pas croire que des modèles comme Claude soient conscients, rejoignant la position de Mustafa Suleyman, chef de la direction de Microsoft AI, selon qui les entreprises ne devraient pas accorder de droits à ces modèles.
+
+    En sécurité informatique, Ars Technica rapporte qu'une campagne de logiciels malveillants a touché des centaines de sites web utilisant la plateforme Optimizely, dont CNN, Zoom, la BBC et Salesforce. Le code malveillant visait les portefeuilles de cryptomonnaies, les données de cartes de paiement, les témoins de connexion, et livrait des trousses d'exploitation pour iPhone et iPad.
+
+    Ailleurs dans l'espace, Ars Technica rapporte que l'entreprise finlandaise de satellites ICEYE cherche à acquérir le fabricant italien de fusées Avio pour plus de deux milliards deux cents millions de dollars américains, dans une transaction visant à créer la première entreprise spatiale européenne pleinement intégrée de bout en bout.
+
+    Et un mot sur le divertissement : Rockstar a lancé Grand Theft Auto six. Selon The Verge, le jeu réussit l'impossible en étant à la hauteur d'années d'attentes, après que son prédécesseur se soit vendu à plus de deux cent trente millions de copies à travers trois générations de consoles. Le producteur Rob Nelson, du studio Rockstar North, décrit le pari de miser sur une histoire d'amour entre deux voleurs comme un risque. En anglais, je le cite : "It's a risk." Fin de citation.
+  </chapitre>
+
+  <chapitre titre="Sport">
+    Rapidement en sport. Au football canadien, Global News rapporte que le quart-arrière des Elks d'Edmonton, Cody Fajardo, laisse entendre à des centaines de partisans célébrant la victoire de la Coupe Grey qu'il pourrait rester avec l'équipe.
+
+    Au hockey, Sportsnet rapporte que la recrue Jonathan Castagna a atteint un jalon personnel avec ses deux premiers buts dans la Ligue nationale, menant les Flames à une deuxième victoire en trois matchs sur la route en Californie. Toujours selon Sportsnet, les Oilers d'Edmonton ont infligé une défaite décisive aux Panthers pour une sixième victoire consécutive, après avoir séparé Connor McDavid et Leon Draisaitl dans l'alignement.
+
+    Au basketball, Global News rapporte que les Raptors de Toronto ont de nouveau mené en quatrième quart contre les champions en titre de la NBA, les Knicks de New York, avant de s'incliner pour une deuxième défaite consécutive.
+  </chapitre>
+
+  <outro>Voilà pour ce Presto du mercredi dix-huit novembre deux mille vingt-six. Si ce briefing vous est utile, le meilleur coup de main que vous pouvez nous donner, c'est de le partager à une personne qui aime rester informée. Et selon votre plateforme : un abonnement sur Spotify ou Apple Podcasts, un pouce bleu et un abonnement sur YouTube, ça prend deux secondes et ça aide vraiment Presto à grandir. Sur ce, bonne journée, et à demain.</outro>
+</script>
+```
