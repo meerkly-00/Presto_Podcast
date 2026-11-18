@@ -1,46 +1,54 @@
 {
-  "generated_at": "2026-11-18T03:20:16.394581+00:00",
+  "generated_at": "2026-11-18T21:06:46.484131+00:00",
   "window_hours": 8,
   "faits": [
     {
-      "sujet": "Infrastructure québécoise déficit budgétaire",
-      "fait": "Le Plan québécois des infrastructures (PQI) manque de 65 milliards de dollars, selon le ministre des Finances Nicolas Marceau. D'après Radio-Canada et La Presse, cet écart représente la différence entre les sommes nécessaires pour développer les projets promis et ce qui a été budgété."
+      "sujet": "Infrastructure scolaire québécoise",
+      "fait": "Le gouvernement du Québec abandonne le projet des « plus belles écoles du monde » de François Legault face à un déficit de 65 milliards de dollars en infrastructures. Les nouvelles écoles seront construites « à la hauteur de nos moyens », selon La Presse."
     },
     {
-      "sujet": "Nvidia résultats financiers Jensen Huang",
-      "fait": "Nvidia a enregistré des revenus de 115,8 milliards de dollars, plus que doublés en un an, et projette des revenus de 130 milliards pour le Q4. Selon Al Jazeera et BBC World, le conseil d'administration a annoncé qu'il ne réinstallera pas Jensen Huang en tant que PDG malgré ces résultats solides."
+      "sujet": "Garderies subventionnées au Québec",
+      "fait": "Le coût quotidien d'une place en garderie subventionnée au Québec passera de 9,65 $ à 10,60 $ dès le 1er janvier si aucune mesure n'est prise, rapporte Radio-Canada."
     },
     {
-      "sujet": "Élections partielles fédérales NPD",
-      "fait": "Le chef du NPD Avi Lewis s'est présenté à Montréal pour soutenir ses deux candidats aux élections partielles fédérales. Selon La Presse, il a déclaré que les élections partielles sont « l'opportunité pour envoyer un message »."
+      "sujet": "Usine Stellantis à Brampton",
+      "fait": "Le gouvernement Ford attribue à Ottawa la responsabilité des négociations avec Stellantis concernant l'usine de Brampton, selon Global News."
     },
     {
-      "sujet": "Négociations commerciales Canada États-Unis",
-      "fait": "Les discussions entre les hauts fonctionnaires canadiens et l'administration Trump se sont intensifiées, avec des réunions hebdomadaires plus formelles entre le négociateur commercial du Canada et ses homologues américains. D'après CBC, cela intervient dans un contexte de menaces tarifaires."
+      "sujet": "Pannes informatiques aux États-Unis",
+      "fait": "Une série de pannes techniques a perturbé les vols aériens, les opérations bancaires et les systèmes de sécurité aux États-Unis. L'administration Trump affirme qu'il n'y a pas lieu de paniquer, selon CBC."
     },
     {
-      "sujet": "Microsoft Copilot intégration Office",
-      "fait": "Microsoft a annoncé la disponibilité générale de Word, Excel et PowerPoint intégrés dans Copilot, que le PDG Satya Nadella a désigné comme « le nouveau OS du travail ». Selon Ars Technica, les utilisateurs peuvent créer des documents directement dans Copilot."
+      "sujet": "Entraînement des cadets canadiens",
+      "fait": "L'armée canadienne a suspendu la plupart des entraînements et compétitions de cadets les fins de semaine dans certaines régions jusqu'en mars en raison de contraintes budgétaires, révèlent des courriels internes selon CBC."
     },
     {
-      "sujet": "Politiques transgenres armée américaine",
-      "fait": "Une cour d'appel fédérale américaine a bloqué mardi le Pentagone d'expulser plus de deux douzaines de militaires transgenres. D'après CBC World, cela intervient plusieurs mois après une décision jugement antérieur statuant que l'interdiction de l'administration Trump était illégale."
+      "sujet": "Enquête sur la publicité Gap et Old Navy",
+      "fait": "Le Bureau de la concurrence du Canada enquête sur des réclamations publicitaires potentiellement fausses ou trompeuses formulées par Gap et Old Navy, selon Global News."
     },
     {
-      "sujet": "Fajardo Elks franchise CFL",
-      "fait": "Le quart-arrière vedette des Edmonton Elks Cody Fajardo a annoncé aux partisans qu'il restait avec l'équipe après sa victoire à la Coupe Grey. Selon Global News, l'annonce a été faite lors des célébrations du championnat mardi."
+      "sujet": "Windows Server 2028 sécurité",
+      "fait": "Microsoft annonce que Windows Server 2028 implémentera par défaut un cadre de sécurité conforme aux normes militaires américaines (DoD), disponible pour les installations Server Core, selon Ars Technica."
     },
     {
-      "sujet": "San Diego surveillance contrats résiliés",
-      "fait": "Le conseil municipal de San Diego a voté lundi pour mettre fin à ses contrats avec deux fournisseurs d'équipements de surveillance : Flock et Ubicquia. Selon Ars Technica, San Diego est l'une des plus grandes villes à rompre sa relation avec Flock, estimée à 8,3 milliards de dollars."
+      "sujet": "COP31 négociations climatiques",
+      "fait": "Un nouveau projet de décision finale est attendu d'ici jeudi matin lors des négociations climatiques à Antalya, en Turquie, selon Radio-Canada."
     },
     {
-      "sujet": "ICEYE acquisition fusée Vega",
-      "fait": "Le développeur de satellites finlandais ICEYE a annoncé mardi une offre d'acquisition du fabricant de fusées italien Avio pour plus de 2,2 milliards de dollars. Selon Ars Technica, l'objectif est de créer la première vraie entreprise spatiale intégrée verticalement d'Europe."
+      "sujet": "Projections religieuses mondiales",
+      "fait": "Selon une étude du Pew Research Center, l'islam devrait devenir la plus grande religion mondiale d'ici 2035, rapporte Al Jazeera."
     },
     {
-      "sujet": "Éric Duhaime élections Québec",
-      "fait": "Jason Kenney, ex-premier ministre de l'Alberta, a exprimé sa conviction que son ami Éric Duhaime pourrait prendre le pouvoir aux prochaines élections québécoises. D'après La Presse, Kenney pense que Duhaime a le « momentum » pour diriger le Parti conservateur du Québec vers la victoire."
+      "sujet": "Pétition contre ambassadeur américain",
+      "fait": "Plus de 285 000 personnes ont signé une pétition demandant le retrait de l'ambassadeur américain Pete Hoekstra du Canada, selon CBC."
+    },
+    {
+      "sujet": "Nvidia direction exécutive",
+      "fait": "Le conseil d'administration de Nvidia a confirmé Colette Kress à la présidence sans réengager Jensen Huang, selon Reuters."
+    },
+    {
+      "sujet": "Instagram édition de Stories",
+      "fait": "Instagram permet maintenant d'éditer les Stories jusqu'à 15 minutes après leur publication sans perdre les vues, j'aimes ou réponses, annonce le responsable Adam Mosseri selon The Verge."
     }
   ]
 }
