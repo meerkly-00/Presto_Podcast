@@ -1,50 +1,54 @@
 {
-  "generated_at": "2026-11-19T02:56:58.649591+00:00",
+  "generated_at": "2026-11-19T21:12:27.996103+00:00",
   "window_hours": 8,
   "faits": [
     {
-      "sujet": "IPO d'Anthropic",
-      "fait": "Anthropic a fixé le prix de ses actions à 83 $ US pour son introduction en bourse, levant environ 79,4 milliards $ US et valorisant l'entreprise à 1,51 trillion $ US. Selon CBC World, les actions débutent sur Nasdaq jeudi."
+      "sujet": "Meta lance films 3D en VR",
+      "fait": "Meta propose plus de 150 films 3D à l'achat ou la location sur ses casques Quest 3 et 3S, incluant Avatar, Spider-Man: Far From Home et un film de concert de Billie Eilish co-réalisé avec James Cameron. Selon The Verge, une fonction Théâtre crée une expérience cinématique personnalisée."
     },
     {
-      "sujet": "Rencontre Carney-Trump",
-      "fait": "Mark Carney a rencontré Donald Trump en face-à-face au sommet de l'APEC, leur première rencontre depuis l'effondrement des négociations commerciales. Selon CBC, le premier ministre canadien a déclaré que si les États-Unis ne voulaient pas d'entente, le Canada avait d'autres choses à faire."
+      "sujet": "Anthropic IPO record à Wall Street",
+      "fait": "Anthropic a débuté ses opérations en bourse avec une valorisation ayant brièvement atteint 2000 milliards USD. Selon Radio-Canada et Reuters, il s'agit du plus important IPO jamais enregistré malgré les turbulences dans le secteur de l'IA."
     },
     {
-      "sujet": "Accord militaire États-Unis-Venezuela",
-      "fait": "Le secrétaire à la Défense Pete Hegseth a dévoilé un nouvel accord militaire avec le Venezuela lors de sa première visite depuis la capture de Nicolas Maduro. Selon Al Jazeera et Associated Press."
+      "sujet": "STM supprime plus de 100 postes",
+      "fait": "La Société de transport de Montréal procédera à la suppression de plus de 100 postes internes et révisera le processus d'entretien des voitures de métro pour réaliser 30 millions en économies. Selon La Presse, ces mesures s'inscrivent dans l'équilibre du budget 2027."
     },
     {
-      "sujet": "Pont de Crimée endommagé",
-      "fait": "Le pont de Crimée a été attaqué à nouveau, le gouverneur installé par la Russie signalant la suspension temporaire du trafic. Selon BBC World et CBC, l'évaluation des dégâts était en cours."
+      "sujet": "Cour ICJ reconnaît génocide rohingya",
+      "fait": "La Cour internationale de justice a rendu un verdict historique déclarant que le Myanmar a commis un génocide contre la minorité rohingya lors d'une répression militaire en 2017. Selon la BBC et l'Associated Press, c'est la première fois que le tribunal onusien conclut à un génocide."
     },
     {
-      "sujet": "Augmentation des taxes à Saskatoon",
-      "fait": "Saskatoon propose une augmentation des taxes foncières de 5,45 % pour le prochain budget, les administrateurs municipaux recommandant une réduction de 1,19 million $ des dépenses précédemment approuvées. Selon Global News."
+      "sujet": "Accord Google-Blue Origin spatial",
+      "fait": "Blue Origin annonce que sa fusée New Glenn lancera des satellites de centres de données pour Google en 2029 dans le cadre du Project Suncatcher. Selon Ars Technica, le projet vise à déployer des satellites informatiques en orbite héliosynchrone alimentés par énergie solaire."
     },
     {
-      "sujet": "Retrait de nomination FDA",
-      "fait": "Le président Trump a retiré sa nomination d'Heidi Overton pour diriger la FDA après ses positions controversées sur les vaccins, l'avortement et les contraceptifs. Selon Ars Technica."
+      "sujet": "FCC autorise brouillage cellulaire prisons",
+      "fait": "La Federal Communications Commission a voté à l'unanimité pour permettre aux prisons d'État et locales de brouiller les signaux de téléphones cellulaires. Selon The Verge, l'FCC argue que cette mesure combat l'afflux de téléphones de contrebande utilisés pour des activités criminelles."
     },
     {
-      "sujet": "Exclusion de Tesla au Manitoba",
-      "fait": "Un juge du Manitoba a ordonné au gouvernement NPD de révéler qui a pris la décision d'exclure Tesla Motors Canada du programme provincial de remise pour véhicules électriques et d'en expliquer les motifs. Selon CBC."
+      "sujet": "Prix Muse Charm Meta fixé",
+      "fait": "Meta planifie de fixer le prix du Muse Charm, un petit appareil avec écran pour chatter avec un agent IA, à 300 dollars USD. Selon The Verge, l'appareil devrait être expédié pour les vacances de décembre avec capteur d'empreintes et technologie vocale en temps réel."
     },
     {
-      "sujet": "Tablettes de progestérone Prometrium",
-      "fait": "Des capsules de progestérone de marque Prometrium sont devenues symboles du manque de considération pour la santé féminine en raison de préoccupations concernant leur efficacité potentielle. Selon La Presse."
+      "sujet": "Espion russe poursuivi en Californie",
+      "fait": "Igor D'iu, 25 ans, a été inculpé pour avoir espionné pour la Russie, notamment en photographiant des employés d'une entreprise technologique aiding l'Ukraine. Selon Ars Technica, il aurait suivi une employée sur 30 miles entre Palo Alto et San Francisco avant qu'elle contacte la police."
     },
     {
-      "sujet": "Autorisation médicament perte de poids",
-      "fait": "Santé Canada a autorisé la vente du Foundayo d'Eli Lilly, un nouveau médicament GLP-1 pour la perte de poids se présentant sous forme de pilules quotidiennes plutôt que d'injections hebdomadaires. Selon La Presse."
+      "sujet": "Violence conjugale : rapport Statistique Canada",
+      "fait": "Selon un rapport de Statistique Canada publié mercredi, près de la moitié des femmes au Canada ont subi une forme de violence conjugale durant leur vie. La Presse note que davantage de personnes signalent désormais ces incidents à la police, bien que la majorité restent non rapportés."
     },
     {
-      "sujet": "École primaire et IA Google",
-      "fait": "Les plus grands districts scolaires des États-Unis (New York, Los Angeles, Chicago) envisagent d'abandonner Google Search après que la compagnie a annoncé qu'elle désactiverait Search pour les écoles qui optent de ne pas utiliser ses fonctionnalités IA Gemini. Selon The Verge."
+      "sujet": "Google intègre chats IA en page d'accueil",
+      "fait": "Google déploie globalement une barre latérale pliable sur sa page d'accueil permettant d'accéder et poursuivre les recherches IA. Selon The Verge, l'interface affiche l'historique des recherches en mode IA et permet de créer de nouveaux threads ou connecter un Gemini Notebook."
     },
     {
-      "sujet": "Contrôleurs routiers Montérégie armés",
-      "fait": "Un deuxième groupe de contrôleurs routiers, basé à Saint-Bruno-de-Montarville, a l'autorisation de retourner faire des interceptions sur les routes en étant désormais armés, après plus d'un an et demi d'arrêt forcé. Selon La Presse."
+      "sujet": "Loblaw prévient hausse prix alimentaires",
+      "fait": "Loblaw avertit que les prix des aliments pourraient augmenter en 2027 avec les coûts de carburant élevés impactant les consommateurs sensibles au prix tandis que les grands fournisseurs réclament des augmentations. Selon Global News, l'entreprise se trouve prise entre ces pressions contraires."
+    },
+    {
+      "sujet": "Canada dollar sous 70 cents USD",
+      "fait": "Le dollar canadien a franchi à la baisse le seuil des 70 cents USD. Selon Les Affaires, cette dépréciation monétaire marque un recul supplémentaire de la devise canadienne."
     }
   ]
 }
