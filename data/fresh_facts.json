@@ -1,54 +1,50 @@
 {
-  "generated_at": "2026-11-18T21:06:46.484131+00:00",
+  "generated_at": "2026-11-19T02:56:58.649591+00:00",
   "window_hours": 8,
   "faits": [
     {
-      "sujet": "Infrastructure scolaire québécoise",
-      "fait": "Le gouvernement du Québec abandonne le projet des « plus belles écoles du monde » de François Legault face à un déficit de 65 milliards de dollars en infrastructures. Les nouvelles écoles seront construites « à la hauteur de nos moyens », selon La Presse."
+      "sujet": "IPO d'Anthropic",
+      "fait": "Anthropic a fixé le prix de ses actions à 83 $ US pour son introduction en bourse, levant environ 79,4 milliards $ US et valorisant l'entreprise à 1,51 trillion $ US. Selon CBC World, les actions débutent sur Nasdaq jeudi."
     },
     {
-      "sujet": "Garderies subventionnées au Québec",
-      "fait": "Le coût quotidien d'une place en garderie subventionnée au Québec passera de 9,65 $ à 10,60 $ dès le 1er janvier si aucune mesure n'est prise, rapporte Radio-Canada."
+      "sujet": "Rencontre Carney-Trump",
+      "fait": "Mark Carney a rencontré Donald Trump en face-à-face au sommet de l'APEC, leur première rencontre depuis l'effondrement des négociations commerciales. Selon CBC, le premier ministre canadien a déclaré que si les États-Unis ne voulaient pas d'entente, le Canada avait d'autres choses à faire."
     },
     {
-      "sujet": "Usine Stellantis à Brampton",
-      "fait": "Le gouvernement Ford attribue à Ottawa la responsabilité des négociations avec Stellantis concernant l'usine de Brampton, selon Global News."
+      "sujet": "Accord militaire États-Unis-Venezuela",
+      "fait": "Le secrétaire à la Défense Pete Hegseth a dévoilé un nouvel accord militaire avec le Venezuela lors de sa première visite depuis la capture de Nicolas Maduro. Selon Al Jazeera et Associated Press."
     },
     {
-      "sujet": "Pannes informatiques aux États-Unis",
-      "fait": "Une série de pannes techniques a perturbé les vols aériens, les opérations bancaires et les systèmes de sécurité aux États-Unis. L'administration Trump affirme qu'il n'y a pas lieu de paniquer, selon CBC."
+      "sujet": "Pont de Crimée endommagé",
+      "fait": "Le pont de Crimée a été attaqué à nouveau, le gouverneur installé par la Russie signalant la suspension temporaire du trafic. Selon BBC World et CBC, l'évaluation des dégâts était en cours."
     },
     {
-      "sujet": "Entraînement des cadets canadiens",
-      "fait": "L'armée canadienne a suspendu la plupart des entraînements et compétitions de cadets les fins de semaine dans certaines régions jusqu'en mars en raison de contraintes budgétaires, révèlent des courriels internes selon CBC."
+      "sujet": "Augmentation des taxes à Saskatoon",
+      "fait": "Saskatoon propose une augmentation des taxes foncières de 5,45 % pour le prochain budget, les administrateurs municipaux recommandant une réduction de 1,19 million $ des dépenses précédemment approuvées. Selon Global News."
     },
     {
-      "sujet": "Enquête sur la publicité Gap et Old Navy",
-      "fait": "Le Bureau de la concurrence du Canada enquête sur des réclamations publicitaires potentiellement fausses ou trompeuses formulées par Gap et Old Navy, selon Global News."
+      "sujet": "Retrait de nomination FDA",
+      "fait": "Le président Trump a retiré sa nomination d'Heidi Overton pour diriger la FDA après ses positions controversées sur les vaccins, l'avortement et les contraceptifs. Selon Ars Technica."
     },
     {
-      "sujet": "Windows Server 2028 sécurité",
-      "fait": "Microsoft annonce que Windows Server 2028 implémentera par défaut un cadre de sécurité conforme aux normes militaires américaines (DoD), disponible pour les installations Server Core, selon Ars Technica."
+      "sujet": "Exclusion de Tesla au Manitoba",
+      "fait": "Un juge du Manitoba a ordonné au gouvernement NPD de révéler qui a pris la décision d'exclure Tesla Motors Canada du programme provincial de remise pour véhicules électriques et d'en expliquer les motifs. Selon CBC."
     },
     {
-      "sujet": "COP31 négociations climatiques",
-      "fait": "Un nouveau projet de décision finale est attendu d'ici jeudi matin lors des négociations climatiques à Antalya, en Turquie, selon Radio-Canada."
+      "sujet": "Tablettes de progestérone Prometrium",
+      "fait": "Des capsules de progestérone de marque Prometrium sont devenues symboles du manque de considération pour la santé féminine en raison de préoccupations concernant leur efficacité potentielle. Selon La Presse."
     },
     {
-      "sujet": "Projections religieuses mondiales",
-      "fait": "Selon une étude du Pew Research Center, l'islam devrait devenir la plus grande religion mondiale d'ici 2035, rapporte Al Jazeera."
+      "sujet": "Autorisation médicament perte de poids",
+      "fait": "Santé Canada a autorisé la vente du Foundayo d'Eli Lilly, un nouveau médicament GLP-1 pour la perte de poids se présentant sous forme de pilules quotidiennes plutôt que d'injections hebdomadaires. Selon La Presse."
     },
     {
-      "sujet": "Pétition contre ambassadeur américain",
-      "fait": "Plus de 285 000 personnes ont signé une pétition demandant le retrait de l'ambassadeur américain Pete Hoekstra du Canada, selon CBC."
+      "sujet": "École primaire et IA Google",
+      "fait": "Les plus grands districts scolaires des États-Unis (New York, Los Angeles, Chicago) envisagent d'abandonner Google Search après que la compagnie a annoncé qu'elle désactiverait Search pour les écoles qui optent de ne pas utiliser ses fonctionnalités IA Gemini. Selon The Verge."
     },
     {
-      "sujet": "Nvidia direction exécutive",
-      "fait": "Le conseil d'administration de Nvidia a confirmé Colette Kress à la présidence sans réengager Jensen Huang, selon Reuters."
-    },
-    {
-      "sujet": "Instagram édition de Stories",
-      "fait": "Instagram permet maintenant d'éditer les Stories jusqu'à 15 minutes après leur publication sans perdre les vues, j'aimes ou réponses, annonce le responsable Adam Mosseri selon The Verge."
+      "sujet": "Contrôleurs routiers Montérégie armés",
+      "fait": "Un deuxième groupe de contrôleurs routiers, basé à Saint-Bruno-de-Montarville, a l'autorisation de retourner faire des interceptions sur les routes en étant désormais armés, après plus d'un an et demi d'arrêt forcé. Selon La Presse."
     }
   ]
 }
