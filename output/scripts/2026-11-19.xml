@@ -1,0 +1,77 @@
+```xml
+<script>
+  <intro>Bonjour, on est le jeudi dix-neuf novembre deux mille vingt-six. Voici votre Presto en environ quinze minutes. Au menu : le sommet inédit entre Donald Trump, Xi Jinping et Vladimir Poutine, l'entrée en bourse record d'Anthropic, l'actualité québécoise et internationale, l'économie et les marchés, et un mot sur la tech.</intro>
+
+  <chapitre titre="International">
+    On commence par un sommet diplomatique sans précédent survenu cette nuit en Chine. Selon l'Associated Press, Donald Trump, Xi Jinping et Vladimir Poutine ont tenu les premiers pourparlers trilatéraux de l'histoire, en marge du sommet de l'APEC à Shenzhen. Les trois dirigeants ont discuté de réduction des armes nucléaires et de la guerre en Ukraine. Selon Radio-Canada, Donald Trump affirme, je le cite : "écrire l'Histoire". Fin de citation. CBC précise que la rencontre s'est conclue après plus d'une heure d'échanges.
+
+    La BBC souligne qu'il s'agit d'un moment diplomatique remarquable pour Xi Jinping, mais que des défis demeurent : certains sujets ne seraient pas également désirés par toutes les parties à la table. Toujours selon la BBC, Trump a appelé à une réduction des armes nucléaires lors du sommet de l'APEC.
+
+    En parallèle, la situation ukrainienne reste au cœur des tensions. Selon Reuters, l'Ukraine a frappé le pont de Crimée pour une troisième fois en une semaine, à la veille même de ce sommet. Ars Technica rapporte que l'opération des quinze et seize novembre a fait s'effondrer l'une des deux arches soutenant le tablier routier du pont, grâce à des vagues coordonnées de drones et de missiles, dont le missile de croisière ukrainien Flamingo. Selon le Financial Times, cité par Ars Technica, les forces ukrainiennes ont utilisé des drones-relais formant un réseau de communication aérien pour guider les frappes sans dépendre de la version militaire de Starlink.
+
+    Sur ce sujet, Elon Musk a réagi publiquement. Selon The Verge, il affirme que le président ukrainien Volodymyr Zelensky ment au sujet des perturbations touchant Starshield en Ukraine, et qu'il chercherait à détourner Starlink, un service civil, à des fins militaires. En anglais, je le cite : "It is not meant to be used for offensive drone strikes that kill people." Fin de citation.
+
+    Ailleurs à l'international, la Cour internationale de justice a rendu un jugement majeur. Selon Al Jazeera, le plus haut tribunal des Nations unies a reconnu le Myanmar coupable d'intention génocidaire envers les Rohingyas, dans une cause déposée par la Gambie en deux mille dix-neuf en vertu de la Convention sur le génocide de mille neuf cent quarante-huit.
+
+    Toujours selon Al Jazeera, des groupes d'aide humanitaire affirment que le plan de paix pour Gaza appuyé par Donald Trump a échoué, alors que deux millions de Palestiniens demeurent confinés dans un territoire de moins de cent trente kilomètres carrés.
+
+    En Asie, selon CBC, la Cour suprême de la Corée du Sud a annulé la condamnation de l'ancien premier ministre Han Duck-soo, qui avait été reconnu coupable d'avoir contribué à la déclaration de la loi martiale en décembre deux mille vingt-quatre.
+
+    Au large du Sénégal, selon la BBC, des dizaines de personnes sont portées disparues après le naufrage d'une embarcation transportant une centaine de migrants. Des médias locaux rapportent qu'au moins quatre corps ont été retrouvés.
+  </chapitre>
+
+  <chapitre titre="Politique canadienne et actualité québécoise">
+    Du côté d'Ottawa, selon Radio-Canada, le Bloc québécois a déposé un projet de loi qu'il qualifie d'anti-reculs en matière d'environnement. Les bloquistes souhaitent qu'un vote soit tenu sur toute mesure ayant un impact sur les cibles climatiques du Canada.
+
+    Au Québec, La Presse publie une entrevue avec l'ex-ministre caquiste de la Santé, Sonia Bélanger, qui affirme que Santé Québec doit changer sa façon de parler de ses enjeux, en insistant moins sur le budget et davantage sur les soins aux patients. Elle qualifie l'idée d'abolir Santé Québec de scandaleuse, une position qui vise autant son propre ancien gouvernement que la réforme promise par le Parti québécois.
+
+    Toujours au Québec, Le Devoir rapporte les propos du sondeur Jean-Marc Léger au sujet de la Coalition avenir Québec, maintenant à six pour cent des intentions de vote selon la firme qu'il dirige. Le chef intérimaire Mathieu Lévesque, lui-même ancien ministre délégué aux Régions pendant quelques mois seulement, chercherait à maintenir un accès du parti aux conférences de presse à l'Assemblée nationale, malgré l'absence de député élu.
+
+    Sur un enjeu plus préoccupant, La Presse rapporte qu'un centre jeunesse de l'Abitibi a utilisé un local de rangement comme unité de débordement pour héberger des adolescents handicapés et vulnérables, faute d'espace adéquat. Cette situation est révélée par la Commission des droits de la personne et des droits de la jeunesse.
+
+    Radio-Canada rapporte aussi qu'une enquête basée sur des milliers d'heures d'images tournées en caméra cachée dans une centaine de fermes québécoises documente des conditions de souffrance animale dans l'industrie de l'élevage.
+
+    Du côté climatique, La Presse souligne que des records de température ont été fracassés dans le sud du Québec au début du mois de novembre, à quelques semaines d'un hiver qui s'annonce particulièrement chaud. L'agriculture, les stations de ski, les chantiers de construction et les réservoirs d'Hydro-Québec sont tous affectés par ce réchauffement amplifié par un épisode El Niño.
+
+    Un mot aussi sur la cybersécurité : Global News rapporte que KPMG Canada confirme que des documents de clients ont été consultés lors d'une brèche informatique, le plus récent d'une série de cyberincidents visant des organisations canadiennes, notamment dans les secteurs juridique et financier.
+
+    Enfin, du côté des infrastructures, Le Devoir rapporte que Postes Canada a repris l'envoi de colis vers l'Europe, mais dans la confusion : de nouvelles formalités à remplir avant de se présenter au comptoir pourraient prendre de court plusieurs expéditeurs.
+  </chapitre>
+
+  <chapitre titre="Économie et marchés">
+    On passe à l'économie, dominée par l'entrée en bourse historique d'Anthropic. Selon la BBC, l'entreprise derrière le carillon conversationnel Claude a amassé quatre-vingt-un milliards de dollars américains lors de son premier jour de transactions boursières, un record absolu. L'Associated Press précise que l'évaluation de l'entreprise atteint un virgule cinq billion de dollars américains, en faisant le plus important premier appel public à l'épargne de l'histoire. Selon CBC, le prix de l'action a été fixé à quatre-vingt-trois dollars américains, avec des titres mis en marché sur le Nasdaq ce jeudi.
+
+    Sur les marchés plus largement, selon BNN Bloomberg, le S&P 500 a inscrit une cinquième baisse consécutive mercredi, entraînant Wall Street dans sa plus longue séquence de pertes depuis juin. Selon Reuters, les investisseurs espéraient que les actions puissent mettre fin à cette séquence négative à la veille du premier appel public à l'épargne d'Anthropic. Le Wall Street Journal rapporte que les titres technologiques ont été soutenus par un regain d'intérêt pour les entreprises de cybersécurité. Le Financial Times note aussi que les actions technologiques américaines ont oscillé à la suite des résultats de Nvidia.
+
+    Du côté des matières premières, Bloomberg rapporte que le cuivre a prolongé sa chute, s'approchant d'un creux de cinq mois alors que le dollar américain se renforce. Reuters rapporte de son côté que les prix du pétrole ont augmenté, les attaques visant le transport maritime au Moyen-Orient venant contrebalancer les perspectives d'un surplus de l'offre. Toujours selon Reuters, des attaques de drones auraient réduit de près de moitié la capacité de raffinage pétrolière de la Russie en novembre, selon des sources citées par l'agence.
+
+    Au Canada, selon BNN Bloomberg, un représentant de la Banque du Canada s'est exprimé sur l'orientation future des taux d'intérêt. Toujours selon BNN Bloomberg, un spécialiste affirme que le premier ministre Mark Carney conclut des ententes commerciales à, je le cite : "lightning speed" fin de citation, dans le cadre d'une stratégie de diversification économique. En Alberta, BNN Bloomberg rapporte que le gouvernement provincial exigera dorénavant que des fonds de nettoyage soient mis de côté pour chaque nouveau puits pétrolier foré.
+
+    Ailleurs dans le monde des affaires, le Financial Times rapporte que Meta met en pause son projet de créer une catégorie d'actions sans droit de vote, à la suite d'une poursuite déposée par des investisseurs. Toujours selon le Financial Times, Citi a réglé une poursuite pour harcèlement sexuel alléguant des menaces envers une directrice générale. Selon Bloomberg, le Sénat brésilien appuie le plan budgétaire du président Lula, bien que les marchés en demandent davantage.
+
+    Au Québec, Les Affaires rapporte qu'Activate figure parmi les entreprises technologiques nord-américaines à la croissance la plus rapide sur la liste Technology Fast 500 de Deloitte pour deux mille vingt-six.
+  </chapitre>
+
+  <chapitre titre="Tech">
+    Du côté de la tech, Ars Technica rapporte que les districts scolaires les plus importants des États-Unis, dont New York, Los Angeles et Chicago, envisagent d'abandonner Google Search. En cause : Google a annoncé qu'il désactivera la fonction de recherche pour les écoles qui refusent ses fonctionnalités d'intelligence artificielle. Selon le New York Times, cité par The Verge, un vice-président de Google à l'éducation affirme, je le cite : "Search and AI are deeply integrated." Fin de citation. Plusieurs élus, dont le maire de New York Zohran Mamdani et le sénateur Bernie Sanders, ont vivement critiqué cette décision.
+
+    En politique technologique américaine, Ars Technica rapporte qu'un comité sénatorial présidé par le sénateur Ted Cruz a approuvé la candidature d'une nommée de Donald Trump à la Commission fédérale des communications, par un vote de quinze voix contre zéro, les démocrates ayant boycotté le vote. The Verge précise que les quatorze républicains du comité étaient présents, contre une douzaine de sièges vides du côté démocrate. Les démocrates soutiennent avoir répété leurs préoccupations sur le fait de faire avancer une candidature républicaine sans contrepartie démocrate.
+
+    Toujours selon Ars Technica, l'administration Trump a aussi retiré la candidature controversée d'Heidi Overton à la tête de la Food and Drug Administration, après des critiques tant chez les républicains que chez les démocrates sur ses positions concernant les vaccins et l'avortement.
+
+    Un mot sur un lancement attendu dans l'industrie du jeu vidéo : Radio-Canada rapporte que Rockstar Games lance ce jeudi Grand Theft Auto Six sur PlayStation Cinq et Xbox Series S, treize ans après la sortie de Grand Theft Auto Cinq. CBC souligne que plusieurs amateurs prennent congé du travail pour s'y consacrer, un phénomène qui ne serait pas inédit lors d'événements culturels majeurs selon des experts en ressources humaines.
+
+    Enfin, en sciences, Nature rapporte que le cerveau exercerait un contrôle étonnant sur la perception de la maladie, pouvant décoder la présence de pathogènes, conserver la mémoire d'infections passées et préparer le corps à de futures menaces.
+  </chapitre>
+
+  <chapitre titre="Sport">
+    Rapidement en sport. Au basketball, Global News rapporte que les Raptors de Toronto ont prolongé leur séquence de défaites à six matchs, battus cent trois à quatre-vingt-dix-neuf par les Wizards de Washington. Anthony Davis a inscrit vingt-cinq points et quatorze rebonds pour les Wizards.
+
+    Au hockey, Sportsnet rapporte que le Canadien de Montréal a retrouvé son équilibre dans une victoire contre les Devils, après une performance jugée inhabituellement brouillonne lundi.
+
+    En soccer, Al Jazeera confirme que le Français Philippe Diallo et le Japonais Kozo Tashima seront les deux seuls candidats à la présidence de la FIFA lors de l'élection de deux mille vingt-sept, face au président sortant Gianni Infantino.
+  </chapitre>
+
+  <outro>Voilà pour ce Presto du jeudi dix-neuf novembre deux mille vingt-six. Si ce briefing vous est utile, le meilleur coup de main que vous pouvez nous donner, c'est de le partager à une personne qui aime rester informée. Et selon votre plateforme : un abonnement sur Spotify ou Apple Podcasts, un pouce bleu et un abonnement sur YouTube, ça prend deux secondes et ça aide vraiment Presto à grandir. Sur ce, bonne journée, et à demain.</outro>
+</script>
+```
