@@ -1,0 +1,14 @@
+{
+  "date": "2026-11-19",
+  "kind": "poll",
+  "text": "Ce matin → Anthropic lève 81,3 G$ USD en bourse, record historique.\n\nNouveau : le titre a atteint une valorisation de 2000 G$ USD en séance, dépassant l'IPO de SpaceX de l'été dernier.\n\nSelon toi, quelle est la principale explication de cet engouement pour Anthropic?",
+  "poll": {
+    "options": [
+      "La confiance envers son",
+      "La spéculation sur le",
+      "La stratégie commerciale",
+      "Incertain"
+    ],
+    "duration_minutes": 1440
+  }
+}
