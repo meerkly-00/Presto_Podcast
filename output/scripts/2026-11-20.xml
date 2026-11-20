@@ -1,0 +1,75 @@
+<script>
+  <intro>Bonjour, on est le vendredi vingt novembre deux mille vingt-six. Voici votre Presto en environ quinze minutes. Au menu : la riposte russe contre Kyiv, les marchés secoués par le dégonflement du commerce lié à l'intelligence artificielle, l'entrée en bourse d'Anthropic, et un mot sur le Québec et le sport.</intro>
+
+  <chapitre titre="International">
+On commence à l'international, où la guerre en Ukraine a franchi un nouveau palier cette nuit. Selon la BBC, trois ponts de Kyiv ont été frappés lors d'une attaque russe de missiles d'envergure, et cinq personnes ont été tuées. Al Jazeera précise que cette frappe fait suite à la promesse du président russe Vladimir Poutine de répondre, je le cite : "douloureusement". Fin de citation, à l'attaque ukrainienne qui avait endommagé le pont de Crimée plus tôt cette semaine.
+
+En parallèle, le dossier diplomatique autour de l'Ukraine continue d'évoluer. Selon l'Associated Press, Jared Kushner affirme croire que la Russie est à l'aise avec l'idée de garanties de sécurité de type OTAN pour l'Ukraine. Cette déclaration survient au lendemain d'un sommet qualifié d'historique par l'Associated Press, où Donald Trump, Xi Jinping et Vladimir Poutine ont tenu les premiers pourparlers trilatéraux de l'histoire en marge du sommet de l'APEC à Shenzhen. Radio-Canada rapporte que ce sommet a surtout permis au président chinois de s'imposer au cœur des affaires mondiales, pendant que le Financial Times évoque l'aube d'un monde post-occidental.
+
+Ailleurs, la situation humanitaire se détériore à Gaza. Selon CBC, un bébé de neuf mois est mort d'hypothermie alors que le territoire entre dans la saison hivernale et que de fortes pluies causent des inondations dans les campements de fortune.
+
+Du côté du Royaume-Uni, la BBC rapporte qu'un sommet Royaume-Uni-Union européenne doit entériner aujourd'hui un programme de mobilité jeunesse, avec également des ententes prévues sur le commerce alimentaire et les émissions de carbone. Le Financial Times confirme que les deux parties sont sur le point de finaliser un accord pour réinitialiser leurs relations.
+
+En Haïti, CBC rapporte que les forces armées ont lancé une offensive pour déloger des gangs qui contrôlent un corridor stratégique reliant la capitale aux régions de l'ouest et du sud du pays.
+
+Enfin, selon Al Jazeera, la Cour internationale de justice a tranché contre le Myanmar dans le dossier du génocide rohingya, mais le retour sécuritaire, la citoyenneté et les réparations demeurent incertains pour les victimes.
+  </chapitre>
+
+  <chapitre titre="Économie et marchés">
+On passe à l'économie, dominée par un dégonflement généralisé du commerce lié à l'intelligence artificielle. Selon Bloomberg, les marchés boursiers traversent leur pire série depuis deux mille vingt-trois, alors que les investisseurs remettent en question la valorisation des entreprises liées à l'intelligence artificielle. Bloomberg rapporte aussi que la déroute du cuivre s'aggrave, les ventes massives dans le secteur de l'intelligence artificielle créant des remous dans l'ensemble des marchés de métaux. L'or, de son côté, se dirige selon Bloomberg vers sa pire semaine depuis le mois de mars, une situation attribuée à la fois à une Réserve fédérale plus prudente sur les baisses de taux et à ce dégonflement du commerce de l'intelligence artificielle.
+
+Le titre de Nvidia reste au centre de l'attention. Selon The Verge, l'action de l'entreprise s'échangeait jeudi autour de cent cinquante dollars américains, une baisse de près de quarante pour cent par rapport à son sommet historique du six octobre. Cela efface le gain enregistré après la publication des résultats du troisième trimestre, des résultats pourtant qualifiés de solides par The Verge, qui note que les revenus ont plus que doublé par rapport à la même période l'an dernier. La cheffe de la direction par intérim, Colette Kress, a conclu l'appel aux investisseurs en affirmant, je le cite : "We've got this". Fin de citation.
+
+Dans ce contexte, l'entrée en bourse d'Anthropic continue de faire des vagues. Selon BNN Bloomberg, l'action de l'entreprise derrière l'agent conversationnel Claude a clôturé sa première journée de transactions à quatre-vingt-dix-sept dollars et dix-sept cents américains, en hausse de plus de dix-sept pour cent par rapport au prix de l'émission initiale. The Verge précise que le titre s'échangeait à cent onze dollars et cinquante cents américains à un moment donné, soit trente-quatre pour cent de plus que prévu. Reuters qualifie tout de même la situation d'un test pour la confiance de Wall Street envers l'essor de l'intelligence artificielle, notant que l'entrée en bourse éclatante d'Anthropic n'a pas réussi à soulever l'ensemble du secteur. Le Wall Street Journal observe d'ailleurs que des investisseurs délaissent d'autres titres liés à l'intelligence artificielle pour investir dans Anthropic, ce qui a fait reculer les actions technologiques dans leur ensemble.
+
+Autre signe de prudence dans le secteur : selon Bloomberg, l'entreprise singapourienne DayOne mettrait en pause ses projets d'entrée en bourse américaine, en raison de préoccupations liées aux centres de données et aux conditions de marché.
+
+Du côté des indicateurs économiques américains, le Wall Street Journal rapporte que les demandes d'assurance-chômage ont augmenté de façon inattendue.
+
+Au Canada, BNN Bloomberg rapporte que KPMG Canada confirme que des documents clients ont été compromis lors d'une brèche de cybersécurité.
+
+Au Québec, Les Affaires rapporte que de nouvelles données confirment les constats de la Centrale des syndicats du Québec : l'engagement du personnel enseignant est toujours présent, mais les conditions d'exercice continuent de s'effriter. Toujours selon Les Affaires, la moyenne record de trois virgule vingt-sept millions de demandes mensuelles enregistrée en deux mille vingt-six sera dépassée de sept virgule trois pour cent dès deux mille vingt-sept.
+
+Enfin, Radio-Canada rapporte que le remplacement de trois traversiers de la Société des traversiers du Québec coûtera deux fois plus cher que prévu. Annoncé à un coût estimé de cent quatre-vingt-onze millions et demi de dollars en deux mille vingt-trois, le projet pourrait désormais frôler les quatre cents millions de dollars.
+  </chapitre>
+
+  <chapitre titre="Tech">
+Du côté de la tech, le dossier de l'espionnage industriel refait surface. Selon Ars Technica, un ressortissant russe de vingt-cinq ans a été inculpé pour avoir espionné les employés d'une entreprise de la Silicon Valley qui assistait l'Ukraine dans sa guerre. Les procureurs fédéraux affirment qu'il photographiait des employés et leurs écrans d'ordinateur dans un café près du bureau de l'entreprise à Palo Alto, et qu'il a suivi une employée en voiture sur près de cinquante kilomètres.
+
+Toujours en lien avec l'intelligence artificielle et la sécurité nationale, Reuters rapporte que les restrictions américaines sur les semi-conducteurs destinés à l'intelligence artificielle frappent les titres technologiques chinois, et poussent la Chine à accélérer ses efforts d'autosuffisance.
+
+Au Canada, CBC rapporte que les grandes entreprises d'intelligence artificielle, qui seraient selon leurs propres mots désespérément en quête de puissance de calcul, évincent les jeunes pousses canadiennes sur leur propre marché. Le nouveau budget d'Ottawa promet d'aider les entreprises canadiennes d'intelligence artificielle à accéder à cette puissance de calcul en sol canadien.
+
+Du côté des grandes entreprises technologiques, The Verge rapporte qu'Apple recruterait des ingénieurs pour développer son propre agent d'intelligence artificielle, capable de naviguer le web, de travailler à travers plusieurs applications et d'écrire du code. Cela placerait Apple en concurrence avec Muse de Meta, Dots d'OpenAI, Duet d'Anthropic et Tasks de Google.
+
+Meta, de son côté, multiplie les annonces. The Verge rapporte que l'entreprise vend maintenant plus de cent cinquante films en trois dimensions pour ses casques Quest. Meta prévoit aussi lancer d'ici les Fêtes un petit appareil avec écran, le Muse Charm, qui permettrait de converser avec un agent d'intelligence artificielle sans déverrouiller son téléphone, à un prix qui pourrait avoisiner les trois cents dollars américains selon The Information.
+
+Ars Technica rapporte par ailleurs qu'Amazon utilise son site web et son application pour tenter de convaincre ses clients de s'opposer à un projet de loi new-yorkais sur la protection de la livraison, qui pourrait ajouter jusqu'à cinq dollars par commande.
+
+Enfin, Ars Technica relaie une poursuite déposée par des adolescents de Baltimore après qu'un système de détection d'armes à feu par intelligence artificielle a déclenché une fausse alerte en identifiant un sac de Doritos comme une arme potentielle.
+  </chapitre>
+
+  <chapitre titre="Actualité québécoise">
+Au Québec, La Presse rapporte que la revue de presse de Paul Arcand se penche aujourd'hui sur un rapport de Statistique Canada qui révèle que près de la moitié des femmes au pays ont été victimes d'une forme de violence conjugale à un moment de leur existence.
+
+Toujours selon La Presse, quatre entreprises familiales du secteur de la construction ont mené une réflexion sur la transmission de leur entreprise à travers les générations, un exercice qui a mené à la création d'une Chaise de la transmission inspirée du principe autochtone des sept générations.
+
+Radio-Canada rapporte que le chantier naval de la Davie, qui recrute des centaines de travailleurs avec des conditions de travail avantageuses, crée des difficultés pour des petites et moyennes entreprises de Chaudière-Appalaches qui peinent à concurrencer ces conditions.
+
+Le Devoir rapporte que des enseignants du Cégep virtuel réclament la fin des évaluations en ligne, qu'ils souhaitent voir tenues en personne pour réduire le risque de plagiat à l'ère de l'intelligence artificielle.
+
+Du côté de la santé, le Journal de Montréal rapporte que Santé Canada a approuvé un nouveau médicament pour contrer les maladies cardiovasculaires chez les personnes diabétiques.
+
+Enfin, le Journal de Montréal rapporte qu'un appel du milliardaire Robert Miller a été rejeté dans le cadre d'une action collective pour exploitation sexuelle de mineures.
+  </chapitre>
+
+  <chapitre titre="Sport">
+Rapidement en sport. Au hockey, Sportsnet rapporte que le Canadien de Montréal a signé sa victoire la plus courageuse de la saison, Lane Hutson menant l'équipe face aux Hurricanes. À Edmonton, Sportsnet rapporte que les Oilers ont vu deux séquences prendre fin lors d'une défaite serrée contre le Lightning, une partie où Connor McDavid n'a inscrit aucun point pour la première fois cette saison. Global News rapporte que le Wild du Minnesota a battu les Flames de Calgary quatre à un, Kirill Kaprizov et Quinn Hughes prolongeant chacun leur séquence de matchs avec au moins un point à treize rencontres consécutives.
+
+Du côté des Maple Leafs de Toronto, Global News rapporte que l'équipe a gaspillé une avance importante, prolongeant une séquence difficile. Les Canucks de Vancouver, eux, ont vu prendre fin leur courte séquence de victoires face à Seattle, selon Sportsnet.
+
+Enfin, Al Jazeera rapporte que près de cent dépisteurs de football sont présents au Qatar pour la Coupe du monde des moins de dix-sept ans, à la recherche du prochain grand joueur vedette.
+  </chapitre>
+
+  <outro>Voilà pour ce Presto du vendredi vingt novembre deux mille vingt-six. Si ce briefing vous est utile, le meilleur coup de main que vous pouvez nous donner, c'est de le partager à une personne qui aime rester informée. Et selon votre plateforme : un abonnement sur Spotify ou Apple Podcasts, un pouce bleu et un abonnement sur YouTube, ça prend deux secondes et ça aide vraiment Presto à grandir. Sur ce, bonne journée, et à demain.</outro>
+</script>
