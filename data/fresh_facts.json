@@ -1,54 +1,50 @@
 {
-  "generated_at": "2026-11-19T21:12:27.996103+00:00",
+  "generated_at": "2026-11-20T02:51:29.078193+00:00",
   "window_hours": 8,
   "faits": [
     {
-      "sujet": "Meta lance films 3D en VR",
-      "fait": "Meta propose plus de 150 films 3D à l'achat ou la location sur ses casques Quest 3 et 3S, incluant Avatar, Spider-Man: Far From Home et un film de concert de Billie Eilish co-réalisé avec James Cameron. Selon The Verge, une fonction Théâtre crée une expérience cinématique personnalisée."
+      "sujet": "Direction cybersécurité Maison-Blanche",
+      "fait": "Sean Cairncross est remplacé par Kirsten A. Davies au poste de directeur national de la cybersécurité de la Maison-Blanche, selon une source proche de la présidence citée par CBC News."
     },
     {
-      "sujet": "Anthropic IPO record à Wall Street",
-      "fait": "Anthropic a débuté ses opérations en bourse avec une valorisation ayant brièvement atteint 2000 milliards USD. Selon Radio-Canada et Reuters, il s'agit du plus important IPO jamais enregistré malgré les turbulences dans le secteur de l'IA."
+      "sujet": "Fraude crypto Aiden Pleterski",
+      "fait": "La défense d'un suspect accusé de participation au kidnapping du \"Crypto King\" Aiden Pleterski soutient que l'enlèvement était une \"farce\" et que Pleterski aurait créé une vidéo pour gagner la sympathie de ses investisseurs, selon CBC."
     },
     {
-      "sujet": "STM supprime plus de 100 postes",
-      "fait": "La Société de transport de Montréal procédera à la suppression de plus de 100 postes internes et révisera le processus d'entretien des voitures de métro pour réaliser 30 millions en économies. Selon La Presse, ces mesures s'inscrivent dans l'équilibre du budget 2027."
+      "sujet": "Objectifs climatiques Meta",
+      "fait": "Meta révise ses cibles de durabilité pour 2030 en raison de l'augmentation des besoins énergétiques des centres de données d'IA, selon Al Jazeera."
     },
     {
-      "sujet": "Cour ICJ reconnaît génocide rohingya",
-      "fait": "La Cour internationale de justice a rendu un verdict historique déclarant que le Myanmar a commis un génocide contre la minorité rohingya lors d'une répression militaire en 2017. Selon la BBC et l'Associated Press, c'est la première fois que le tribunal onusien conclut à un génocide."
+      "sujet": "Négociations Ukraine Europe-Russie",
+      "fait": "Les alliés européens de l'Ukraine déclarent disposer d'une position de négociation \"unie\" lors d'un sommet à Berlin pour discuter de la fin de la guerre, rapporte BBC World."
     },
     {
-      "sujet": "Accord Google-Blue Origin spatial",
-      "fait": "Blue Origin annonce que sa fusée New Glenn lancera des satellites de centres de données pour Google en 2029 dans le cadre du Project Suncatcher. Selon Ars Technica, le projet vise à déployer des satellites informatiques en orbite héliosynchrone alimentés par énergie solaire."
+      "sujet": "Accord commercial Canada-États-Unis",
+      "fait": "Selon Radio-Canada, un accord commercial intérimaire entre Ottawa et Washington pourrait être conclu d'ici la fin de l'année."
     },
     {
-      "sujet": "FCC autorise brouillage cellulaire prisons",
-      "fait": "La Federal Communications Commission a voté à l'unanimité pour permettre aux prisons d'État et locales de brouiller les signaux de téléphones cellulaires. Selon The Verge, l'FCC argue que cette mesure combat l'afflux de téléphones de contrebande utilisés pour des activités criminelles."
+      "sujet": "Sanctions américaines mafia italienne",
+      "fait": "Les États-Unis imposent des sanctions contre la branche canadienne présumée de la 'Ndrangheta, incluant des salons funéraires dans la région de Toronto, selon CBC."
     },
     {
-      "sujet": "Prix Muse Charm Meta fixé",
-      "fait": "Meta planifie de fixer le prix du Muse Charm, un petit appareil avec écran pour chatter avec un agent IA, à 300 dollars USD. Selon The Verge, l'appareil devrait être expédié pour les vacances de décembre avec capteur d'empreintes et technologie vocale en temps réel."
+      "sujet": "Brèche cybersécurité KPMG Canada",
+      "fait": "KPMG Canada confirme que des documents clients ont été compromis lors d'une brèche de cybersécurité, selon BNN Bloomberg."
     },
     {
-      "sujet": "Espion russe poursuivi en Californie",
-      "fait": "Igor D'iu, 25 ans, a été inculpé pour avoir espionné pour la Russie, notamment en photographiant des employés d'une entreprise technologique aiding l'Ukraine. Selon Ars Technica, il aurait suivi une employée sur 30 miles entre Palo Alto et San Francisco avant qu'elle contacte la police."
+      "sujet": "Contrat Groupe ADF États-Unis",
+      "fait": "L'entreprise québécoise Groupe ADF signe son plus important contrat de son histoire aux États-Unis malgré les tarifs douaniers sur l'acier imposés par l'administration Trump, selon Le Devoir."
     },
     {
-      "sujet": "Violence conjugale : rapport Statistique Canada",
-      "fait": "Selon un rapport de Statistique Canada publié mercredi, près de la moitié des femmes au Canada ont subi une forme de violence conjugale durant leur vie. La Presse note que davantage de personnes signalent désormais ces incidents à la police, bien que la majorité restent non rapportés."
+      "sujet": "Fonds de roulement métaux précieux",
+      "fait": "L'or enregistre sa pire semaine depuis mars en raison d'une position hawkish de la Réserve fédérale et d'un repli des titres IA, selon Bloomberg."
     },
     {
-      "sujet": "Google intègre chats IA en page d'accueil",
-      "fait": "Google déploie globalement une barre latérale pliable sur sa page d'accueil permettant d'accéder et poursuivre les recherches IA. Selon The Verge, l'interface affiche l'historique des recherches en mode IA et permet de créer de nouveaux threads ou connecter un Gemini Notebook."
+      "sujet": "Engagement climatique Québec",
+      "fait": "Le Québec annonce sa feuille de route pour abandonner les énergies fossiles lors de la COP31 en Turquie, suscitant des félicitations d'organisations environnementales, selon Le Devoir."
     },
     {
-      "sujet": "Loblaw prévient hausse prix alimentaires",
-      "fait": "Loblaw avertit que les prix des aliments pourraient augmenter en 2027 avec les coûts de carburant élevés impactant les consommateurs sensibles au prix tandis que les grands fournisseurs réclament des augmentations. Selon Global News, l'entreprise se trouve prise entre ces pressions contraires."
-    },
-    {
-      "sujet": "Canada dollar sous 70 cents USD",
-      "fait": "Le dollar canadien a franchi à la baisse le seuil des 70 cents USD. Selon Les Affaires, cette dépréciation monétaire marque un recul supplémentaire de la devise canadienne."
+      "sujet": "Agent IA Apple",
+      "fait": "Apple engage des ingénieurs pour développer son propre assistant IA capable de naviguer sur le web, travailler entre applications et écrire du code, selon une offre d'emploi rapportée par The Verge."
     }
   ]
 }
