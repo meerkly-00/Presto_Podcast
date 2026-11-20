@@ -1,50 +1,54 @@
 {
-  "generated_at": "2026-11-20T02:51:29.078193+00:00",
+  "generated_at": "2026-11-20T20:55:58.199391+00:00",
   "window_hours": 8,
   "faits": [
     {
-      "sujet": "Direction cybersécurité Maison-Blanche",
-      "fait": "Sean Cairncross est remplacé par Kirsten A. Davies au poste de directeur national de la cybersécurité de la Maison-Blanche, selon une source proche de la présidence citée par CBC News."
+      "sujet": "GTA VI lancement record",
+      "fait": "Grand Theft Auto VI a généré 3,79 milliards de dollars US en ventes le premier jour, établissant un nouveau record pour le divertissement selon Rockstar Games et la CBC."
     },
     {
-      "sujet": "Fraude crypto Aiden Pleterski",
-      "fait": "La défense d'un suspect accusé de participation au kidnapping du \"Crypto King\" Aiden Pleterski soutient que l'enlèvement était une \"farce\" et que Pleterski aurait créé une vidéo pour gagner la sympathie de ses investisseurs, selon CBC."
+      "sujet": "YouTube règlement litiges dépendance",
+      "fait": "YouTube se prépare à verser 3 milliards de dollars pour régler les réclamations de districts scolaires américains concernant le design addictif de la plateforme, selon The Verge citant Bloomberg."
     },
     {
-      "sujet": "Objectifs climatiques Meta",
-      "fait": "Meta révise ses cibles de durabilité pour 2030 en raison de l'augmentation des besoins énergétiques des centres de données d'IA, selon Al Jazeera."
+      "sujet": "Nvidia enquête SEC comptabilité",
+      "fait": "La comptabilité de Nvidia est au cœur d'une enquête de la SEC américaine, selon des sources citées par Reuters."
     },
     {
-      "sujet": "Négociations Ukraine Europe-Russie",
-      "fait": "Les alliés européens de l'Ukraine déclarent disposer d'une position de négociation \"unie\" lors d'un sommet à Berlin pour discuter de la fin de la guerre, rapporte BBC World."
+      "sujet": "Stellantis usine Brampton négociations",
+      "fait": "Le gouvernement fédéral et l'Ontario rencontrent les dirigeants de Stellantis vendredi pour tenter de sauver l'usine de Brampton, selon la CBC."
     },
     {
-      "sujet": "Accord commercial Canada-États-Unis",
-      "fait": "Selon Radio-Canada, un accord commercial intérimaire entre Ottawa et Washington pourrait être conclu d'ici la fin de l'année."
+      "sujet": "Loi 21 laïcité jugement Cour suprême",
+      "fait": "La Cour suprême du Canada rendra son jugement vendredi prochain sur la Loi sur la laïcité de l'État, selon Radio-Canada."
     },
     {
-      "sujet": "Sanctions américaines mafia italienne",
-      "fait": "Les États-Unis imposent des sanctions contre la branche canadienne présumée de la 'Ndrangheta, incluant des salons funéraires dans la région de Toronto, selon CBC."
+      "sujet": "Prisons autorisation brouillage téléphones",
+      "fait": "La Federal Communications Commission a autorisé les prisons à utiliser la technologie de brouillage pour les téléphones de contrebande, malgré les avertissements que les brouilleurs affecteront aussi les appels légitimes, selon Ars Technica."
     },
     {
-      "sujet": "Brèche cybersécurité KPMG Canada",
-      "fait": "KPMG Canada confirme que des documents clients ont été compromis lors d'une brèche de cybersécurité, selon BNN Bloomberg."
+      "sujet": "Estonie fermeture frontière Russie",
+      "fait": "L'Estonie a fermé ses passages frontaliers routiers suite à une attaque contre un fabricant de drones, affirme Al Jazeera."
     },
     {
-      "sujet": "Contrat Groupe ADF États-Unis",
-      "fait": "L'entreprise québécoise Groupe ADF signe son plus important contrat de son histoire aux États-Unis malgré les tarifs douaniers sur l'acier imposés par l'administration Trump, selon Le Devoir."
+      "sujet": "Alberta programme capture carbone ajustements",
+      "fait": "L'Alberta a modifié son programme d'incitations à la capture du carbone pour couvrir 12 % des coûts en capital admissibles durant la construction, selon Global News."
     },
     {
-      "sujet": "Fonds de roulement métaux précieux",
-      "fait": "L'or enregistre sa pire semaine depuis mars en raison d'une position hawkish de la Réserve fédérale et d'un repli des titres IA, selon Bloomberg."
+      "sujet": "Anthropic cotation ajustement marché",
+      "fait": "Le cours des actions d'Anthropic a chuté de 13% le jour suivant son introduction en bourse, selon Reuters."
     },
     {
-      "sujet": "Engagement climatique Québec",
-      "fait": "Le Québec annonce sa feuille de route pour abandonner les énergies fossiles lors de la COP31 en Turquie, suscitant des félicitations d'organisations environnementales, selon Le Devoir."
+      "sujet": "Accord Royaume-Uni Union européenne",
+      "fait": "Le Royaume-Uni et l'Union européenne ont conclu un accord portant sur les exportations alimentaires britanniques, le commerce des émissions et un programme d'échange pour jeunes, selon la BBC."
     },
     {
-      "sujet": "Agent IA Apple",
-      "fait": "Apple engage des ingénieurs pour développer son propre assistant IA capable de naviguer sur le web, travailler entre applications et écrire du code, selon une offre d'emploi rapportée par The Verge."
+      "sujet": "Trump taxe centres données étrangers",
+      "fait": "Le président Trump a promis une 'taxe considérable' pour les entreprises construisant des centres de données en dehors des États-Unis, selon The Verge."
+    },
+    {
+      "sujet": "Longueuil augmentation places refuges",
+      "fait": "Longueuil augmentera son nombre de places dans les ressources destinées aux personnes itinérantes cet hiver, selon La Presse."
     }
   ]
 }
