@@ -1,0 +1,14 @@
+{
+  "date": "2026-11-21",
+  "kind": "poll",
+  "text": "Ce matin → deux ex-policiers du SPVM arrêtés.\n\nNouveau : Radio-Canada révèle leurs noms et accusations.\n\nSelon toi, comment les forces de l'ordre doivent-elles gérer les enquêtes internes contre leurs propres agents?",
+  "poll": {
+    "options": [
+      "Par des unités internes",
+      "Par des enquêteurs",
+      "Par les deux en parallèle",
+      "Au cas par cas selon la"
+    ],
+    "duration_minutes": 1440
+  }
+}
