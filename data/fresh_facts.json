@@ -1,50 +1,46 @@
 {
-  "generated_at": "2026-11-21T02:59:20.511293+00:00",
+  "generated_at": "2026-11-21T19:56:29.608776+00:00",
   "window_hours": 8,
   "faits": [
     {
-      "sujet": "Marchés boursiers américains en baisse",
-      "fait": "Le NASDAQ affiche une baisse de 5,28 % à la clôture et efface ses gains de 2026, tandis que le S&P 500 enregistre sa plus longue série de pertes depuis 2020. Selon Radio-Canada et Bloomberg, les stocks technologiques plongent en marché baissier dans la pire semaine depuis la crise du Covid-19."
+      "sujet": "Arrestations policiers SPVM",
+      "fait": "Deux ex-policiers du SPVM, Vincent Routhier (24 ans) et Zachary Belzil (25 ans), ont été arrêtés et accusés de voies de fait, d'abus de confiance et de harcèlement criminel. Selon Radio-Canada, les faits reprochés se seraient produits entre septembre 2025 et juin 2026."
     },
     {
-      "sujet": "Anthropic shares slump après l'IPO",
-      "fait": "Le cours de l'action Anthropic s'effondre, effaçant presque entièrement le gain initial de son introduction en bourse. Selon Bloomberg, cette chute reflète le déroulement du commerce de l'IA."
+      "sujet": "Négociations climatiques COP31",
+      "fait": "Les négociations de la COP31 sont en impasse sur les enjeux des énergies fossiles et du financement climatique. Selon Reuters, les pourparlers risquent l'échec et se prolongent au-delà de l'horaire prévu."
     },
     {
-      "sujet": "Trump rencontre Poutine et Xi en Chine",
-      "fait": "Donald Trump affirme avoir des relations « fantastiques » avec Vladimir Poutine et Xi Jinping après une rencontre trilatérale à Shenzhen. Selon Radio-Canada, Trump déclare que Poutine lui a indiqué vouloir une issue diplomatique avec Kiev."
+      "sujet": "Piratage base de données FBI",
+      "fait": "Le FBI enquête sur un piratage présumé de sa base de données criminelle nationale (NCIC). Selon Al Jazeera et The Verge, ceci constitue la deuxième cyberattaque contre l'agence en quelques mois."
     },
     {
-      "sujet": "Missile russe frappe la Pologne",
-      "fait": "Deux missiles russes ont frappé la Pologne alors que l'Ukraine et ses alliés tenaient un exercice militaire. Selon la BBC, Varsovie qualifie l'incident de « provocation » de Moscou, sans faire état de victimes ni de dégâts."
+      "sujet": "Piratage USDA États-Unis",
+      "fait": "Le département américain de l'Agriculture (USDA) a été piraté, au minimum dans sa base de données de paiements. Selon NBC et Reuters, le piratage a été confirmé par le président Trump à Fox News."
     },
     {
-      "sujet": "Grippe aviaire détectée au Québec",
-      "fait": "Un deuxième cas de grippe aviaire a été détecté mardi au Québec dans une zone commerciale près de Saint-Hyacinthe, en Montérégie. Selon La Presse."
+      "sujet": "Coopération militaire Canada-États-Unis",
+      "fait": "Le ministre canadien de la Défense David McGuinty affirme n'avoir pas connaissance d'une note du secrétaire américain à la Défense limitant la coopération entre les deux pays. Selon La Presse, McGuinty assure que la collaboration reste inchangée."
     },
     {
-      "sujet": "Stellantis doit potentiellement rembourser 831 millions $",
-      "fait": "Stellantis pourrait avoir à rembourser 831 millions de dollars reçus du gouvernement fédéral si la vente de son usine de Brampton se confirme. Selon Radio-Canada."
+      "sujet": "Attaque drone en mer Baltique",
+      "fait": "La Finlande rapporte qu'un drone ukrainien a attaqué un cargo russe en mer Baltique. Selon Le Devoir, un hélicoptère russe a ensuite pénétré 4,1 km dans le territoire finlandais."
     },
     {
-      "sujet": "Budget de Montréal en hausse de 8 %",
-      "fait": "Le budget de la Ville de Montréal connaît une augmentation d'au moins 8 % et inclut une nouvelle taxe. Selon La Presse, les fondations financières de la ville montrent des signes de fragilité."
+      "sujet": "Bombardement russe en Ukraine",
+      "fait": "La Russie a lancé plus de 400 drones et 110 missiles en Ukraine, tuant au moins sept personnes à Kyiv. Selon Al Jazeera, cette attaque massive s'est produite de nuit."
     },
     {
-      "sujet": "Consommation électrique des centres de données",
-      "fait": "La consommation d'électricité des centres de données doublera d'ici 2030, avec une consommation globale atteignant 1,7 % de la demande mondiale. Selon Le Devoir."
+      "sujet": "Arrestation chef cartel Sinaloa",
+      "fait": "Les autorités mexicaines ont capturé Fausto Isidro Meza Flores, connu sous le nom d'El Chapo Isidro, chef du cartel de Sinaloa. Selon CBC World, cette arrestation a déclenché une vague de violence dans la région."
     },
     {
-      "sujet": "Meta reconsidère son objectif net-zéro 2030",
-      "fait": "Meta reconnaît dans son rapport de durabilité que ses objectifs d'émissions nettes zéro d'ici 2030 sont en révision, suite à des émissions de gaz à effet de serre record dues aux centres de données d'IA. Selon Ars Technica."
+      "sujet": "Grève possible universités Québec",
+      "fait": "Des étudiants universitaires et collégiaux se rassemblent samedi à Montréal pour étudier la possibilité d'une grève générale illimitée durant la session d'hiver. Selon La Presse, la mobilisation porte sur cette action de protestation."
     },
     {
-      "sujet": "COP31 bloquée sur l'accord climatique",
-      "fait": "Les négociations à la COP31 sont au point mort, les nations ayant du mal à s'entendre sur un plan climatique. Selon Al Jazeera."
-    },
-    {
-      "sujet": "Anthropic aurait prouvé la conjecture de Riemann",
-      "fait": "Un mathématicien d'Anthropic affirme avoir utilisé une IA pour prouver la célèbre hypothèse de Riemann, bien que la vérification soit en cours. Selon la BBC."
+      "sujet": "Politique d'IA sur Etsy",
+      "fait": "Etsy est critiquée pour avoir inclus l'entraînement de modèles d'IA dans une mise à jour de politique. Selon CBC, certains vendeurs canadiens retirent des produits de la plateforme en réaction."
     }
   ]
 }
