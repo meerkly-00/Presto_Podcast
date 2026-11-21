@@ -1,0 +1,75 @@
+```xml
+<script>
+  <intro>Bonjour, on est le samedi vingt et un novembre deux mille vingt-six. Voici votre Presto en environ quinze minutes. Au menu : la déroute des marchés financiers mondiaux, la guerre en Ukraine, le dossier climatique de la COP trente et un, et la tech, avec Google, Meta et le record historique de Grand Theft Auto six.</intro>
+
+  <chapitre titre="Économie et marchés">
+    On commence par l'économie, alors que les marchés financiers mondiaux traversent leur pire période depuis le dernier briefing. Selon l'Associated Press, le S&P 500 a chuté de trois virgule sept pour cent vendredi, et le Nasdaq composite est passé en territoire négatif pour l'année alors que la vente massive de titres technologiques s'aggrave. La BBC rapporte que le S&P 500 et le Dow Jones sont entrés en zone de correction, dans un contexte où les actions d'Anthropic reculent aussi.
+
+    Justement, sur Anthropic : selon Bloomberg, l'entreprise a chuté de cinq pour cent après la fermeture des marchés, à la suite de son premier appel public à l'épargne qui avait pourtant établi un record absolu de cent sept virgule trois milliards de dollars américains.
+
+    Selon Bloomberg, Wall Street approche d'un point de rupture alors que la peur s'empare des marchés mondiaux. En parallèle, Bitcoin a chuté à son niveau le plus bas depuis plus de deux ans, toujours selon Bloomberg, dans la foulée de cet effondrement généralisé des marchés.
+
+    Du côté canadien, selon BNN Bloomberg, un expert affirme que l'économie du pays s'est révélée beaucoup plus faible que ce que plusieurs attendaient, à la suite d'un rapport décevant sur les ventes au détail. Un autre texte de BNN Bloomberg reprend ce même constat : l'économie canadienne serait devenue nettement plus faible que prévu.
+
+    Toujours selon BNN Bloomberg, malgré la poursuite du conflit impliquant l'Iran, les prix de l'essence ont reculé, une tendance que les observateurs économiques continuent d'analyser.
+
+    Au Québec, Les Affaires rapporte une menace de lockout et un mandat de grève au Vieux-Port de Montréal. Toujours selon Les Affaires, Vidéotron figure parmi les cent meilleurs employeurs au Canada cette année.
+  </chapitre>
+
+  <chapitre titre="International">
+    On passe à l'international, où la guerre en Ukraine demeure au centre des tensions diplomatiques. Selon la BBC, le président ukrainien Volodymyr Zelensky a qualifié Vladimir Poutine de tueur, je le cite en anglais : "Putin is a killer." Fin de citation. Cette déclaration survient après que Donald Trump eut qualifié le dirigeant russe d'ami plus tôt cette semaine, lors d'une rencontre en Chine.
+
+    Toujours en lien avec l'Ukraine, Ars Technica rapporte que le représentant démocrate Jim Himes, pressenti pour présider le comité du renseignement de la Chambre des représentants en janvier, menace de retenir le financement de SpaceX en raison de l'enquête en cours sur l'utilisation de Starshield en Ukraine. Selon CNN, cité par Ars Technica, Himes affirme que les modifications unilatérales apportées par SpaceX à un contrat gouvernemental remettent en question l'ensemble des contrats de l'entreprise avec le gouvernement américain.
+
+    Du côté de la COP trente et un, la BBC rapporte que les négociations climatiques sont dans une impasse, près de deux cents pays échouant à s'entendre sur un nouvel accord mondial en raison de désaccords sur les combustibles fossiles. Radio-Canada illustre les conséquences concrètes de ces enjeux à Madagascar, où certaines personnes doivent consacrer deux heures par jour pour trouver de l'eau en raison des dérèglements climatiques.
+
+    Toujours à l'international, Al Jazeera rapporte que des avis de démolition visant des bâtiments légalement autorisés à Hébron suscitent la crainte d'un déplacement forcé chez des Palestiniens de Cisjordanie.
+
+    Un mot sur un jugement historique : Radio-Canada rapporte que la Cour internationale de justice a statué que le Myanmar a bel et bien commis un génocide contre sa minorité rohingya. Une survivante témoignant à La Haye, Minara Islam, a dit, je le cite : "C'est le plus beau jour de ma vie." Fin de citation.
+
+    Enfin, Al Jazeera rapporte que les pays membres de la Convention des Nations unies sur certaines armes classiques se sont entendus pour élaborer, d'ici deux mille vingt-huit, des règles encadrant les systèmes d'armes autonomes pilotés par intelligence artificielle, sans toutefois s'entendre sur l'adoption rapide de règles juridiquement contraignantes.
+  </chapitre>
+
+  <chapitre titre="Tech">
+    Du côté de la tech, Google poursuit sa transformation vers l'intelligence artificielle. Selon Ars Technica, l'entreprise a lancé une nouvelle page d'accueil pour son moteur de recherche, intégrant désormais un historique de conversations avec son intelligence artificielle, et retirant carrément le bouton de recherche traditionnel. Le vice-président de la recherche chez Google, Robby Stein, a confirmé le déploiement de cette refonte après une période de test.
+
+    Ailleurs chez les géants technologiques, Ars Technica rapporte que Meta revoit son objectif de carboneutralité fixé pour deux mille trente, alors que l'entreprise a enregistré une hausse record de ses émissions de gaz à effet de serre, attribuable à la croissance des centres de données dédiés à l'intelligence artificielle. Dans son rapport de durabilité, Meta affirme que la demande en infrastructure d'intelligence artificielle a crû plus rapidement que prévu par la plupart des observateurs.
+
+    Toujours en lien avec les centres de données, CBC rapporte que le président américain Donald Trump menace d'imposer une taxe qualifiée de considérable aux entreprises technologiques américaines qui construisent des centres de données d'intelligence artificielle à l'extérieur du pays. Selon The Verge, Trump a affirmé lors d'une conférence de presse suivant son sommet avec les présidents chinois et russe que les États-Unis n'autoriseront pas leurs entreprises à bâtir ces infrastructures ailleurs.
+
+    Du côté réglementaire, Ars Technica rapporte que la Commission fédérale des communications, sous l'administration Trump, a statué que la Californie n'a pas le droit d'appliquer ses propres règles de service téléphonique à l'entreprise AT&T, qui souhaite cesser d'offrir un service de base à des milliers de clients résidentiels et commerciaux.
+
+    Un mot sur un règlement à l'amiable : selon The Verge, qui cite Bloomberg, YouTube se préparerait à verser trois milliards de dollars américains à des milliers de districts scolaires américains pour régler des poursuites alléguant que la conception jugée dépendante de la plateforme nuit à la santé mentale des jeunes. L'entente inclurait aussi de nouvelles mesures de protection pour les adolescents.
+
+    Enfin, The Economist rapporte qu'une intelligence artificielle pourrait avoir résolu l'hypothèse de Riemann, l'un des problèmes les plus importants des mathématiques, sur lequel des chercheurs travaillaient depuis cent soixante-sept ans.
+
+    Du côté du jeu vidéo, l'Associated Press et The Verge rapportent que Grand Theft Auto six a établi un record avec trois virgule soixante-dix-neuf milliards de dollars américains de ventes au détail dès sa première journée, selon Rockstar Games. L'entreprise affirme qu'il s'agit du plus important lancement de l'histoire du divertissement, toutes plateformes confondues, avec trente-deux virgule cinq millions d'exemplaires précommandés. Le président et fondateur de Rockstar, Sam Houser, a dit, je le cite : "We are incredibly humbled by the response from players around the world." Fin de citation.
+  </chapitre>
+
+  <chapitre titre="Actualité québécoise">
+    Au Québec, La Presse publie une enquête sur l'arrivée de l'intelligence artificielle chez le dentiste. Selon le journal, une expérience menée par ses journalistes montre que cette technologie pourrait changer radicalement les diagnostics reçus par certains patients, en augmentant de façon marquée le nombre de problèmes décelés dans leur bouche. La Presse souligne aussi que des plans de traitement considérablement différents peuvent être proposés pour une même bouche, certains actes courants étant davantage guidés par la tradition ou le modèle d'affaires de la clinique que par des données médicales uniformes.
+
+    Toujours au Québec, La Presse rapporte que le gouvernement provincial entend publier une feuille de route pour se sevrer des énergies fossiles, dans le contexte de la COP trente et un. Le Canada, pour sa part, ne fait pas partie des États ayant adopté une telle feuille de route, selon le journal.
+
+    Le Devoir se penche sur le rapprochement diplomatique entre le Canada et l'Union européenne, qui serait menacé par la présidentielle française à venir, notamment par la perspective d'une montée de l'extrême droite et d'une possible victoire de Marine Le Pen. Le Devoir rapporte aussi que certains élus rencontrés au Parlement européen émettent des réserves quant à l'idée de faire du Canada un membre associé de l'Union.
+
+    Un mot sur la cybersécurité : le Journal de Montréal rapporte que des renseignements personnels de clients de Bureau en Gros ont été compromis.
+
+    Enfin, le Journal de Montréal rapporte que la Cour suprême du Canada rendra sa décision sur la loi sur la laïcité de l'État vendredi prochain.
+  </chapitre>
+
+  <chapitre titre="Sport">
+    Rapidement en sport. Au basketball, selon Al Jazeera, James Harden des Cavaliers de Cleveland continue de grimper dans l'histoire de la NBA pour les matchs de cinquante points et plus, dépassant Kobe Bryant et se rapprochant de Michael Jordan, dans une victoire de cent vingt-huit à cent dix-neuf contre les Pacers de l'Indiana.
+
+    À Toronto, Sportsnet rapporte que les Raptors ont mis fin à une séquence de six défaites grâce à une victoire contre les Pistons de Detroit, portée par de grandes performances de Scottie Barnes et Allen Graves.
+
+    En Formule un, Al Jazeera rapporte que Max Verstappen évite une sanction disciplinaire après des accrochages lors des essais du Grand Prix de Las Vegas, et décroche la position de tête, alors que Kimi Antonelli écope d'une pénalité.
+
+    Au curling, Sportsnet rapporte que l'équipe de Rachel Homan, qui peinait depuis le début de la saison, a retrouvé sa magie vendredi soir.
+
+    Enfin, du côté du football canadien, TVA Sports rapporte que les Alouettes de Montréal ont congédié leur coordonnateur défensif, Noel Thorpe.
+  </chapitre>
+
+  <outro>Voilà pour ce Presto du samedi vingt et un novembre deux mille vingt-six. Si ce briefing vous est utile, le meilleur coup de main que vous pouvez nous donner, c'est de le partager à une personne qui aime rester informée. Et selon votre plateforme : un abonnement sur Spotify ou Apple Podcasts, un pouce bleu et un abonnement sur YouTube, ça prend deux secondes et ça aide vraiment Presto à grandir. Sur ce, bonne journée, et à demain.</outro>
+</script>
+```
