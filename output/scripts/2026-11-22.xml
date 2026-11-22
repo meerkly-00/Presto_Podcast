@@ -1,0 +1,83 @@
+```xml
+<script>
+  <intro>Bonjour, on est le dimanche vingt-deux novembre deux mille vingt-six. Voici votre Presto en environ quinze minutes. Au menu : l'international avec la COP31 sous tension et la guerre en Ukraine, la scène politique canadienne et québécoise, l'économie et la tech, et un mot de sport.</intro>
+
+  <chapitre titre="International">
+On commence à l'international, où la guerre en Ukraine continue de faire des victimes. Selon CBC, une frappe russe sur Kryvyi Rih, la ville natale du président ukrainien Volodymyr Zelensky, a tué deux personnes et en a blessé soixante. Par ailleurs, selon la BBC, confirmé par Al Jazeera, un navire cargo russe en direction de Kaliningrad reste la proie des flammes après avoir été touché par une attaque de drones dans le golfe de Finlande. Le navire avait dérivé en eaux territoriales finlandaises après avoir été endommagé en eaux internationales. Selon la BBC, les forces de défense finlandaises estiment que l'Ukraine est probablement derrière cette attaque.
+
+Toujours selon Reuters, le président ukrainien a affirmé que Donald Trump a dit aux dirigeants européens qu'ils dépensaient beaucoup d'argent pour soutenir l'Ukraine.
+
+On passe à la COP31, le sommet climatique qui s'étire en Turquie. Selon Le Devoir, les négociations ont connu une nouvelle nuit de pourparlers, butant sur la question des énergies fossiles et du financement. Le ministre turc de l'Environnement a indiqué qu'un projet de décision finale serait transmis aux quelque deux cents délégations présentes. La présidence turque a tenté de rapprocher l'Union européenne et l'Arabie saoudite, dont les positions sur l'avenir des énergies fossiles restent opposées. Le commissaire européen au Climat Wopke Hoekstra a dit, je le cite : "It's better to not have a deal than to conclude a bad one." Fin de citation. De son côté, le ministre de l'Environnement de Tuvalu, Maina Talia, a insisté sur l'urgence d'agir, cet archipel du Pacifique étant menacé par la montée des eaux. Reuters rapporte que le sommet risque carrément l'échec, les discussions se prolongeant bien au-delà de l'horaire prévu.
+
+En parallèle, à Genève, les discussions à l'ONU sur l'encadrement de l'intelligence artificielle dans la guerre se sont soldées sans accord contraignant. Selon CBC, les pays présents se sont entendus pour poursuivre les discussions, mais sans consensus sur des règles fermes pour encadrer les armes autonomes meurtrières. Le Comité international de la Croix-Rouge, gardien des Conventions de Genève, avait pourtant réclamé des règles contraignantes dans un délai d'un an, un appel appuyé par le secrétaire général de l'ONU et par le pape Léon.
+
+Du côté du Mexique, selon la BBC, confirmé par Le Devoir, les autorités ont arrêté Fausto Isidro Meza Flores, surnommé Chapo Isidro, un baron de la drogue qui figurait sur la liste des dix fugitifs les plus recherchés du FBI. Le Devoir précise que le FBI offrait une récompense de cinq millions de dollars pour sa capture. Selon CBC, cette arrestation a toutefois déclenché une flambée de violence dans l'État de Sinaloa, faisant au moins onze morts.
+
+Ailleurs, selon la BBC, le ministre sud-coréen de l'Éducation, Choi Kyo-jin, a démissionné après un scandale de tricherie assistée par intelligence artificielle lors de l'examen national d'entrée à l'université. Il a reconnu que les mesures de dernière minute pour contrer cette tricherie avaient causé le chaos.
+
+En Indonésie, toujours selon la BBC, un incendie dans une usine de confiseries a fait au moins trois morts, et trente-six personnes demeurent portées disparues.
+
+Enfin, selon Al Jazeera, des manifestations ont rassemblé des dizaines de milliers de personnes à travers la France pour un sixième week-end consécutif, pour dénoncer le coût de la vie et l'état des services publics. Les organisateurs prévoient déjà d'autres rassemblements.
+  </chapitre>
+
+  <chapitre titre="Politique canadienne et actualité québécoise">
+Du côté d'Ottawa, selon CBC, le chef du Nouveau Parti démocratique, Avi Lewis, dit craindre l'arrivée d'un "Trump canadien" au pouvoir. Il lie la montée de l'autoritarisme au désespoir économique et plaide pour que la gauche se reconstruise. 
+
+Toujours selon CBC, le Congrès du travail du Canada, qui représente plus de trois millions de travailleurs, a adopté une résolution déclarant que le commerce et les services liés à Israël constituent une "cargaison chaude". Le mouvement syndical appelle les travailleurs à refuser de manipuler des équipements militaires destinés à Israël. Cette position s'inscrit dans un mouvement plus large qui gagne du terrain dans les syndicats canadiens.
+
+Un autre dossier à suivre à Ottawa : selon CBC, Meta affirme que le projet de loi C-vingt-deux, sur l'accès légal aux communications, pourrait la forcer à envisager de retirer des services chiffrés comme WhatsApp du Canada. Des défenseurs des droits s'inquiètent, rappelant que l'application sert de lien essentiel pour les réfugiés et les nouveaux arrivants qui restent en contact avec leurs proches à l'étranger.
+
+En Alberta, toujours selon CBC, le gouvernement de la première ministre Danielle Smith pourrait remplir un nouveau pipeline d'exportation vers la côte ouest avec du pétrole reçu en redevances directement de l'industrie, une façon de surmonter l'un des plus grands obstacles à ce projet.
+
+Au Québec, selon Le Devoir, des étudiants envisagent de déclencher une grève illimitée durant la session d'hiver, estimant que l'heure n'est plus à l'attente et réclamant des changements rapides.
+
+Toujours au Québec, selon Radio-Canada, le gouvernement de Paul St-Pierre Plamondon tranche qu'il veut demeurer l'unique gestionnaire du programme d'échange étudiant Erasmus+ sur le territoire québécois, alors que le programme européen pourrait s'élargir ailleurs au Canada.
+
+Selon le Journal de Montréal, deux policiers du poste de quartier trente-neuf du Service de police de la Ville de Montréal ont été arrêtés à la suite d'accusations de comportements racistes.
+
+Enfin, La Presse publie une enquête sur des mères aux prises avec la toxicomanie qui tentent de s'en sortir pour leur enfant, au Centre mère-enfant de l'organisme Portage.
+  </chapitre>
+
+  <chapitre titre="Économie et marchés">
+On passe à l'économie. Selon le Wall Street Journal, des graphiques comparant plusieurs pays montrent pourquoi les jeunes à travers le monde expriment une frustration grandissante envers l'économie actuelle.
+
+Toujours selon le Wall Street Journal, le marché obligataire envoie des signaux inattendus sur l'engouement entourant l'intelligence artificielle, une lecture qui tranche avec l'enthousiasme affiché par les marchés boursiers ces derniers mois.
+
+Du côté des fusions-acquisitions, selon le Financial Times, Amazon serait près de conclure une entente d'environ sept virgule cinq milliards de dollars américains pour acquérir la jeune pousse en intelligence artificielle Decart.
+
+Toujours selon le Financial Times, des négociants commencent à déplacer du cuivre américain vers la Chine, alors que les craintes entourant les tarifs douaniers de Donald Trump s'atténuent.
+
+Au Québec, selon Les Affaires, le district de Nansha, en Chine, s'impose comme un pivot stratégique pour le commerce entre l'Asie et le Pacifique dans la région du Grand Baie de Guangdong-Hong Kong-Macao. Toujours selon Les Affaires, le gouvernement du Québec appuie financièrement le Grand Marché de Noël dans le cadre de sa programmation de festivals et d'événements pour la saison hiver-printemps.
+
+Enfin, Les Affaires souligne les trente ans de la Loi sur l'équité salariale au Québec, une loi qualifiée de victoire historique mais dont l'application demeure, selon plusieurs intervenantes citées, un droit encore inachevé.
+  </chapitre>
+
+  <chapitre titre="Tech">
+Du côté de la tech, deux institutions américaines ont été victimes de piratage informatique. Selon The Verge, confirmé par CBC, le département de l'Agriculture des États-Unis et le FBI ont tous deux été visés. Dans le cas du FBI, CNN rapporte qu'il s'agit de la deuxième attaque du genre en quelques mois, cette fois contre le Centre national d'information sur le crime, utilisé par les forces de l'ordre fédérales, étatiques et locales pour partager des mandats et des avis de personnes disparues. Le président Donald Trump a confirmé le piratage dans une entrevue à Fox News. Pour sa part, Reuters rapporte, selon d'anciens fonctionnaires cités par l'agence, que l'ampleur de l'intrusion dans la base de données des paiements du département de l'Agriculture demeure difficile à établir avec précision.
+
+Toujours en tech, selon The Verge, Amazon intensifie sa bataille contre le conseil municipal de New York au sujet de la loi sur la protection de la livraison. L'entreprise appose désormais des étiquettes sur ses envois affirmant que cette loi pourrait ajouter jusqu'à cinq dollars à chaque commande. Le projet de loi municipal forcerait les entreprises de livraison du dernier kilomètre à embaucher directement leurs travailleurs plutôt que de recourir à des ententes avec des tiers.
+
+Un dossier de fond à noter : Ars Technica revient sur la résurgence de discours pseudo-scientifiques sur les différences raciales d'intelligence, que certains appellent le "réalisme racial". L'article souligne que ces thèses, déjà écartées scientifiquement depuis des décennies, refont surface dans certains cercles politiques et universitaires, et alimentent des stratégies de désinformation sur les réseaux sociaux.
+
+Un mot aussi sur l'espace : selon La Presse, la sonde Voyager 1, lancée en mille neuf cent soixante-dix-sept pour explorer Saturne et Pluton, se trouve désormais à une journée-lumière de la Terre, continuant de repousser les limites du système solaire.
+  </chapitre>
+
+  <chapitre titre="Sport">
+Rapidement en sport, où le hockey domine l'actualité canadienne. Selon Sportsnet, les Canucks de Vancouver ont signé l'une de leurs meilleures performances de la saison, revenant de l'arrière à trois reprises pour vaincre le Wild du Minnesota.
+
+Du côté des Maple Leafs de Toronto, Sportsnet et Global News rapportent que l'équipe a de nouveau échappé une avance, cette fois dans une défaite contre les Blue Jackets, où Zach Werenski a asséné le coup fatal. La séquence sans victoire des Leafs se poursuit.
+
+À Ottawa, selon Global News, Tim Stutzle a inscrit deux buts en troisième période et une mention d'aide, menant les Senators vers une victoire de quatre à deux contre les Kings de Los Angeles.
+
+À Winnipeg, toujours selon Global News, Mark Scheifele a inscrit son trois cent quatre-vingtième but en carrière, dépassant son mentor Dale Hawerchuk au chapitre des buts dans l'histoire de la franchise. Cela n'a toutefois pas suffi: les Jets se sont inclinés quatre à cinq en tirs de barrage face à Vegas.
+
+À Edmonton, selon Sportsnet, les Oilers ont subi un retour à la réalité en s'inclinant face aux Hurricanes, champions en titre. Un joueur a résumé, je le cite : "In the end, we didn't measure up today." Fin de citation.
+
+Du côté du Canadien de Montréal, selon Le Devoir, les Flyers de Philadelphie ont renversé l'équipe grâce à un but de Cates avec moins de trente secondes à faire en troisième période.
+
+Enfin, à Ottawa toujours, Global News souligne le retour remarqué de Nick Cousins avec les Senators, un joueur dont l'impact dépasse largement les statistiques.
+  </chapitre>
+
+  <outro>Voilà pour ce Presto du dimanche vingt-deux novembre deux mille vingt-six. Si ce briefing vous est utile, le meilleur coup de main que vous pouvez nous donner, c'est de le partager à une personne qui aime rester informée. Et selon votre plateforme : un abonnement sur Spotify ou Apple Podcasts, un pouce bleu et un abonnement sur YouTube, ça prend deux secondes et ça aide vraiment Presto à grandir. Sur ce, bonne journée, et à demain.</outro>
+</script>
+```
