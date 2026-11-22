@@ -1,0 +1,14 @@
+{
+  "date": "2026-11-22",
+  "kind": "poll",
+  "text": "Ce matin → La COP31 en Turquie s'est terminée sans accord après 49 h de prolongations.\n\nNouveau : L'UE s'est opposée à l'adoption d'un accord final ne mentionnant pas les\n\nSelon toi, les négociations climatiques devraient-elles mentionner explicitement les énergies fossiles?",
+  "poll": {
+    "options": [
+      "Oui, c'est essentiel",
+      "Non, ce n'est pas",
+      "Peu importe, tant qu'on",
+      "Incertain"
+    ],
+    "duration_minutes": 1440
+  }
+}
