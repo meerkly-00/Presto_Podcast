@@ -1,46 +1,54 @@
 {
-  "generated_at": "2026-11-21T19:56:29.608776+00:00",
+  "generated_at": "2026-11-22T01:55:31.232964+00:00",
   "window_hours": 8,
   "faits": [
     {
-      "sujet": "Arrestations policiers SPVM",
-      "fait": "Deux ex-policiers du SPVM, Vincent Routhier (24 ans) et Zachary Belzil (25 ans), ont été arrêtés et accusés de voies de fait, d'abus de confiance et de harcèlement criminel. Selon Radio-Canada, les faits reprochés se seraient produits entre septembre 2025 et juin 2026."
+      "sujet": "Arrestation de baron de la drogue mexicain",
+      "fait": "Fausto Isidro 'Chapo Isidro' Meza Flores, recherché par le FBI et figurant sur sa liste des 10 criminels les plus recherchés, a été arrêté lors d'un échange de tirs avec les autorités mexicaines. Selon BBC World, il est accusé de trafic de drogue et de torture."
     },
     {
-      "sujet": "Négociations climatiques COP31",
-      "fait": "Les négociations de la COP31 sont en impasse sur les enjeux des énergies fossiles et du financement climatique. Selon Reuters, les pourparlers risquent l'échec et se prolongent au-delà de l'horaire prévu."
+      "sujet": "Piratage informatique base de données FBI",
+      "fait": "Le FBI enquête sur un apparent piratage de sa base de données National Crime Information Center, utilisée par les forces de l'ordre fédérales et locales pour partager des informations, selon BBC World."
     },
     {
-      "sujet": "Piratage base de données FBI",
-      "fait": "Le FBI enquête sur un piratage présumé de sa base de données criminelle nationale (NCIC). Selon Al Jazeera et The Verge, ceci constitue la deuxième cyberattaque contre l'agence en quelques mois."
+      "sujet": "Négociations gouvernementales en Israël",
+      "fait": "Gadi Eisenkot, chargé de former le prochain gouvernement israélien, a invité le Likoud du premier ministre sortant Benyamin Nétanyahou à des pourparlers de coalition prévus dimanche. Eisenkot dispose jusqu'au mois prochain pour former un gouvernement suite aux législatives de fin octobre qui n'ont dégagé aucune majorité absolue, selon Radio-Canada."
     },
     {
-      "sujet": "Piratage USDA États-Unis",
-      "fait": "Le département américain de l'Agriculture (USDA) a été piraté, au minimum dans sa base de données de paiements. Selon NBC et Reuters, le piratage a été confirmé par le président Trump à Fox News."
+      "sujet": "Accord climatique COP31 en impasse",
+      "fait": "Les négociations climatiques de la COP31 réunissant environ 200 pays sont en impasse sur la question des combustibles fossiles pour parvenir à un nouvel accord climatique mondial, selon BBC World."
     },
     {
-      "sujet": "Coopération militaire Canada-États-Unis",
-      "fait": "Le ministre canadien de la Défense David McGuinty affirme n'avoir pas connaissance d'une note du secrétaire américain à la Défense limitant la coopération entre les deux pays. Selon La Presse, McGuinty assure que la collaboration reste inchangée."
+      "sujet": "Attaques iraniennes en Bahreïn",
+      "fait": "L'Iran a ciblé des bases militaires américaines en Bahreïn. Bahreïn a condamné ces frappes qui ont touché une installation industrielle, tandis que ses défenses aériennes ont intercepté des attaques, selon Al Jazeera et Reuters."
     },
     {
-      "sujet": "Attaque drone en mer Baltique",
-      "fait": "La Finlande rapporte qu'un drone ukrainien a attaqué un cargo russe en mer Baltique. Selon Le Devoir, un hélicoptère russe a ensuite pénétré 4,1 km dans le territoire finlandais."
+      "sujet": "Arrestations de policiers montréalais congédiés",
+      "fait": "Deux policiers du Service de police de la Ville de Montréal (SPVM) récemment congédiés, Vincent Routhier (24 ans) et Zachary Belzil (25 ans), ont été arrêtés. Ils font l'objet d'accusations de voies de fait, d'abus de confiance et de harcèlement criminel pour des faits remontant à septembre 2025 et juin 2026, selon Radio-Canada."
     },
     {
-      "sujet": "Bombardement russe en Ukraine",
-      "fait": "La Russie a lancé plus de 400 drones et 110 missiles en Ukraine, tuant au moins sept personnes à Kyiv. Selon Al Jazeera, cette attaque massive s'est produite de nuit."
+      "sujet": "Manifestations contre la vie chère en France",
+      "fait": "Le sixième samedi consécutif de manifestations en France a enregistré une participation en baisse : 150 000 manifestants selon les organisateurs contre 200 000 la semaine précédente et 800 000 le 17 octobre. À Paris, 21 500 personnes selon la police contre 24 000 la semaine antérieure, selon Le Devoir."
     },
     {
-      "sujet": "Arrestation chef cartel Sinaloa",
-      "fait": "Les autorités mexicaines ont capturé Fausto Isidro Meza Flores, connu sous le nom d'El Chapo Isidro, chef du cartel de Sinaloa. Selon CBC World, cette arrestation a déclenché une vague de violence dans la région."
+      "sujet": "Étudiants québécois envisagent grève illimitée",
+      "fait": "Des étudiants universitaires et collégiaux se sont rassemblés samedi à Montréal pour étudier la possibilité d'une grève générale illimitée durant la session d'hiver, estimant que l'heure n'est plus à l'attente, selon Le Devoir et La Presse."
     },
     {
-      "sujet": "Grève possible universités Québec",
-      "fait": "Des étudiants universitaires et collégiaux se rassemblent samedi à Montréal pour étudier la possibilité d'une grève générale illimitée durant la session d'hiver. Selon La Presse, la mobilisation porte sur cette action de protestation."
+      "sujet": "Négociations ONU sur armes autonomes",
+      "fait": "Les discussions de l'ONU à Genève sur la régulation des armes autonomes ('killer robots') se sont conclues samedi sans accord contraignant. Les pays se sont entendus pour 'commencer à discuter des options' après une semaine de négociations peu fructueuse, selon CBC World et The Verge."
     },
     {
-      "sujet": "Politique d'IA sur Etsy",
-      "fait": "Etsy est critiquée pour avoir inclus l'entraînement de modèles d'IA dans une mise à jour de politique. Selon CBC, certains vendeurs canadiens retirent des produits de la plateforme en réaction."
+      "sujet": "Enquête SEC sur les pratiques comptables Nvidia",
+      "fait": "Le gendarme boursier américain va enquêter sur les pratiques comptables du fabricant de puces Nvidia, selon le Journal de Montréal."
+    },
+    {
+      "sujet": "Amazon conteste Loi de protection des livreurs NYC",
+      "fait": "Amazon intensifie son opposition à la Delivery Protection Act du conseil municipal de New York en apposant des étiquettes sur les envois affirmant que le conseil pourrait ajouter jusqu'à 5 dollars par commande. Cette loi bannirait les arrangements tiers actuels et obligerait l'emploi direct des livreurs, selon The Verge."
+    },
+    {
+      "sujet": "Bateau chavire lors cérémonie funéraire Nigéria",
+      "fait": "Au moins 24 personnes sont décédées quand un bateau transportant des passagers à une cérémonie funéraire a chaviré vendredi dans l'État de Bayelsa au Nigéria, selon Global News."
     }
   ]
 }
