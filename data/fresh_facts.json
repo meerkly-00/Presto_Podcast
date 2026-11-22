@@ -1,54 +1,46 @@
 {
-  "generated_at": "2026-11-22T01:55:31.232964+00:00",
+  "generated_at": "2026-11-22T20:09:49.505868+00:00",
   "window_hours": 8,
   "faits": [
     {
-      "sujet": "Arrestation de baron de la drogue mexicain",
-      "fait": "Fausto Isidro 'Chapo Isidro' Meza Flores, recherché par le FBI et figurant sur sa liste des 10 criminels les plus recherchés, a été arrêté lors d'un échange de tirs avec les autorités mexicaines. Selon BBC World, il est accusé de trafic de drogue et de torture."
+      "sujet": "Négociations commerciales Canada-États-Unis",
+      "fait": "Le représentant commercial de Trump déclare que les deux pays sont « proches » d'un accord commercial, après l'effondrement des pourparlers en août. Selon Global News."
     },
     {
-      "sujet": "Piratage informatique base de données FBI",
-      "fait": "Le FBI enquête sur un apparent piratage de sa base de données National Crime Information Center, utilisée par les forces de l'ordre fédérales et locales pour partager des informations, selon BBC World."
+      "sujet": "Sommet climatique COP31 échoue",
+      "fait": "La COP31 en Turquie s'est terminée sans accord après plus de 49 heures de prolongations, les pays étant divisés sur la mention des énergies fossiles. Selon CBC et Le Devoir."
     },
     {
-      "sujet": "Négociations gouvernementales en Israël",
-      "fait": "Gadi Eisenkot, chargé de former le prochain gouvernement israélien, a invité le Likoud du premier ministre sortant Benyamin Nétanyahou à des pourparlers de coalition prévus dimanche. Eisenkot dispose jusqu'au mois prochain pour former un gouvernement suite aux législatives de fin octobre qui n'ont dégagé aucune majorité absolue, selon Radio-Canada."
+      "sujet": "Élection démocrate à la Chambre américaine",
+      "fait": "Les démocrates remportent une majorité historique d'au moins 258 sièges à la Chambre, la plus importante depuis 1992. Selon Associated Press."
     },
     {
-      "sujet": "Accord climatique COP31 en impasse",
-      "fait": "Les négociations climatiques de la COP31 réunissant environ 200 pays sont en impasse sur la question des combustibles fossiles pour parvenir à un nouvel accord climatique mondial, selon BBC World."
+      "sujet": "Élection d'un premier sénateur palestinien à New York",
+      "fait": "Aber Kawas devient le premier Palestinien élu au Sénat de l'État de New York, remportant 74,5% des voix en tant que démocrate socialiste. Selon Al Jazeera."
     },
     {
-      "sujet": "Attaques iraniennes en Bahreïn",
-      "fait": "L'Iran a ciblé des bases militaires américaines en Bahreïn. Bahreïn a condamné ces frappes qui ont touché une installation industrielle, tandis que ses défenses aériennes ont intercepté des attaques, selon Al Jazeera et Reuters."
+      "sujet": "Fusillade à Scarborough, Toronto",
+      "fait": "Deux adolescents de 16 ans sont morts lors d'une fusillade tôt dimanche matin à Scarborough; un troisième du même âge a été grièvement blessé. Selon Radio-Canada."
     },
     {
-      "sujet": "Arrestations de policiers montréalais congédiés",
-      "fait": "Deux policiers du Service de police de la Ville de Montréal (SPVM) récemment congédiés, Vincent Routhier (24 ans) et Zachary Belzil (25 ans), ont été arrêtés. Ils font l'objet d'accusations de voies de fait, d'abus de confiance et de harcèlement criminel pour des faits remontant à septembre 2025 et juin 2026, selon Radio-Canada."
+      "sujet": "Panne système Delta Air Lines à Atlanta",
+      "fait": "Tous les vols Delta à l'aéroport d'Atlanta sont confrontés à des retards importants en raison d'une panne du système de calcul du poids et de l'équilibre des avions. Selon The Verge."
     },
     {
-      "sujet": "Manifestations contre la vie chère en France",
-      "fait": "Le sixième samedi consécutif de manifestations en France a enregistré une participation en baisse : 150 000 manifestants selon les organisateurs contre 200 000 la semaine précédente et 800 000 le 17 octobre. À Paris, 21 500 personnes selon la police contre 24 000 la semaine antérieure, selon Le Devoir."
+      "sujet": "Explosion navire russe en Libye",
+      "fait": "Un navire russe en escale au port libyen de Tobrouk pour le ravitaillement a subi une explosion lors d'une présumée attaque à drone. Selon BBC World."
     },
     {
-      "sujet": "Étudiants québécois envisagent grève illimitée",
-      "fait": "Des étudiants universitaires et collégiaux se sont rassemblés samedi à Montréal pour étudier la possibilité d'une grève générale illimitée durant la session d'hiver, estimant que l'heure n'est plus à l'attente, selon Le Devoir et La Presse."
+      "sujet": "Suspension NHL pour vérification du casque",
+      "fait": "Le défenseur Wyatt Kaiser des Blackhawks de Chicago est suspendu pour trois matchs pour un coup illégal à la tête du joueur des Flames Martin Pospisil. Selon Sportsnet et Global News."
     },
     {
-      "sujet": "Négociations ONU sur armes autonomes",
-      "fait": "Les discussions de l'ONU à Genève sur la régulation des armes autonomes ('killer robots') se sont conclues samedi sans accord contraignant. Les pays se sont entendus pour 'commencer à discuter des options' après une semaine de négociations peu fructueuse, selon CBC World et The Verge."
+      "sujet": "Allègements des mesures IA dans l'industrie",
+      "fait": "The Economist rapporte des préoccupations sur le marché quant à la viabilité des valorisations liées au commerce de l'IA, les marchés étant troublés."
     },
     {
-      "sujet": "Enquête SEC sur les pratiques comptables Nvidia",
-      "fait": "Le gendarme boursier américain va enquêter sur les pratiques comptables du fabricant de puces Nvidia, selon le Journal de Montréal."
-    },
-    {
-      "sujet": "Amazon conteste Loi de protection des livreurs NYC",
-      "fait": "Amazon intensifie son opposition à la Delivery Protection Act du conseil municipal de New York en apposant des étiquettes sur les envois affirmant que le conseil pourrait ajouter jusqu'à 5 dollars par commande. Cette loi bannirait les arrangements tiers actuels et obligerait l'emploi direct des livreurs, selon The Verge."
-    },
-    {
-      "sujet": "Bateau chavire lors cérémonie funéraire Nigéria",
-      "fait": "Au moins 24 personnes sont décédées quand un bateau transportant des passagers à une cérémonie funéraire a chaviré vendredi dans l'État de Bayelsa au Nigéria, selon Global News."
+      "sujet": "Interdiction temporaire de la tague à Montréal",
+      "fait": "Une école primaire de Montréal a suspendu temporairement le jeu de tague pendant les récréations et la garde pour les élèves de 4e, 5e et 6e année. Selon La Presse."
     }
   ]
 }
