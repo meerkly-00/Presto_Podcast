@@ -1,46 +1,50 @@
 {
-  "generated_at": "2026-11-22T20:09:49.505868+00:00",
+  "generated_at": "2026-11-23T02:16:27.389952+00:00",
   "window_hours": 8,
   "faits": [
     {
+      "sujet": "Relations de défense Canada-États-Unis",
+      "fait": "Le secrétaire américain à la Défense Pete Hegseth a émis un mémo restreignant les liens de défense avec le Canada, selon CBC."
+    },
+    {
       "sujet": "Négociations commerciales Canada-États-Unis",
-      "fait": "Le représentant commercial de Trump déclare que les deux pays sont « proches » d'un accord commercial, après l'effondrement des pourparlers en août. Selon Global News."
+      "fait": "Jamieson Greer a déclaré dimanche que les deux pays étaient « assez proches de trouver un terrain d'entente » dans les négociations, selon Radio-Canada."
     },
     {
-      "sujet": "Sommet climatique COP31 échoue",
-      "fait": "La COP31 en Turquie s'est terminée sans accord après plus de 49 heures de prolongations, les pays étant divisés sur la mention des énergies fossiles. Selon CBC et Le Devoir."
+      "sujet": "Tentatives d'assassinat en Europe de l'Est",
+      "fait": "La Pologne a confirmé que la Russie a tenté d'assassiner un rappeur ukrainien à deux reprises, suite à la révélation d'un supposé complot russe au Danemark, selon Al Jazeera."
     },
     {
-      "sujet": "Élection démocrate à la Chambre américaine",
-      "fait": "Les démocrates remportent une majorité historique d'au moins 258 sièges à la Chambre, la plus importante depuis 1992. Selon Associated Press."
+      "sujet": "Effondrement des négociations climatiques COP31",
+      "fait": "Les négociations de la COP31 se sont terminées sans accord majeur après un différend sur la mention des combustibles fossiles dans le texte final, selon BBC World."
     },
     {
-      "sujet": "Élection d'un premier sénateur palestinien à New York",
-      "fait": "Aber Kawas devient le premier Palestinien élu au Sénat de l'État de New York, remportant 74,5% des voix en tant que démocrate socialiste. Selon Al Jazeera."
+      "sujet": "Contraction des marchés technologiques",
+      "fait": "Les marchés technologiques d'Asie se préparent à une « crise de l'IA » tandis que les futures boursières américaines rebondissent après le repli, selon Reuters."
     },
     {
-      "sujet": "Fusillade à Scarborough, Toronto",
-      "fait": "Deux adolescents de 16 ans sont morts lors d'une fusillade tôt dimanche matin à Scarborough; un troisième du même âge a été grièvement blessé. Selon Radio-Canada."
+      "sujet": "Gains démocrates aux élections américaines",
+      "fait": "Les Démocrates ont remporté la plus grande majorité à la Chambre depuis 1992 avec 44 sièges supplémentaires gagnés jusqu'à présent, selon Global News."
     },
     {
-      "sujet": "Panne système Delta Air Lines à Atlanta",
-      "fait": "Tous les vols Delta à l'aéroport d'Atlanta sont confrontés à des retards importants en raison d'une panne du système de calcul du poids et de l'équilibre des avions. Selon The Verge."
+      "sujet": "Contrat record dans la Ligue majeure de baseball",
+      "fait": "Tarik Skubal a accepté un contrat record de 450 millions de dollars sur 9 ans avec les Mets de New York, selon Associated Press."
     },
     {
-      "sujet": "Explosion navire russe en Libye",
-      "fait": "Un navire russe en escale au port libyen de Tobrouk pour le ravitaillement a subi une explosion lors d'une présumée attaque à drone. Selon BBC World."
+      "sujet": "Frappes russes en Ukraine",
+      "fait": "Dix personnes ont été tuées lors d'une frappe nocturne russe sur Dymer, à environ 45 km au nord de Kiev, sur un immeuble de cinq étages, selon Le Devoir."
     },
     {
-      "sujet": "Suspension NHL pour vérification du casque",
-      "fait": "Le défenseur Wyatt Kaiser des Blackhawks de Chicago est suspendu pour trois matchs pour un coup illégal à la tête du joueur des Flames Martin Pospisil. Selon Sportsnet et Global News."
+      "sujet": "Explosion navale à Benghazi",
+      "fait": "Une explosion sur un navire russe au port de Benghazi aurait été causée par une attaque présumée de drones ukrainiens, selon BBC World."
     },
     {
-      "sujet": "Allègements des mesures IA dans l'industrie",
-      "fait": "The Economist rapporte des préoccupations sur le marché quant à la viabilité des valorisations liées au commerce de l'IA, les marchés étant troublés."
+      "sujet": "Discussions gouvernementales en Israël",
+      "fait": "Les partis d'Eisenkot et de Netanyahou ont achevé leurs discussions sans parvenir à un accord, avec un délai jusqu'au 6 décembre pour former un gouvernement, selon Le Devoir."
     },
     {
-      "sujet": "Interdiction temporaire de la tague à Montréal",
-      "fait": "Une école primaire de Montréal a suspendu temporairement le jeu de tague pendant les récréations et la garde pour les élèves de 4e, 5e et 6e année. Selon La Presse."
+      "sujet": "Violence armée à Scarborough",
+      "fait": "Deux adolescents ont été tués et un troisième gravement blessé lors d'une fusillade après minuit dimanche à Scarborough, selon Global News."
     }
   ]
 }
