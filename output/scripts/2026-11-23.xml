@@ -1,0 +1,77 @@
+```xml
+<script>
+  <intro>Bonjour, on est le lundi vingt-trois novembre deux mille vingt-six. Voici votre Presto en environ quinze minutes. Au menu : l'international avec l'escalade en Ukraine et l'échec du sommet climatique de la COP trente et un, l'économie avec le rebond des marchés après la correction liée à l'intelligence artificielle, l'actualité québécoise avec une nouvelle loi sur les terres agricoles et la hausse de taxes à Montréal, et un mot sur la tech et le sport.</intro>
+
+  <chapitre titre="International">
+    On commence à l'international, où la guerre en Ukraine continue de s'intensifier. Selon Al Jazeera, au moins quinze personnes ont été tuées dans la région de Kyiv après que la Russie a intensifié ses attaques, dans la foulée de la promesse de Vladimir Poutine d'offrir une réponse qu'il a qualifiée de douloureuse aux attaques ukrainiennes. La BBC rapporte qu'un garçon de sept ans a été sorti vivant des décombres, plusieurs heures après une frappe russe sur la ville de Dymer, où onze personnes sont mortes et où les équipes de sauvetage continuent de chercher des personnes toujours portées disparues dans un immeuble résidentiel.
+
+    Du côté ukrainien, le président Volodymyr Zelensky a confirmé que son pays est responsable d'une attaque qui a coulé un navire de guerre russe au large de la Libye. Selon CBC, le gouvernement de l'est de la Libye affirme que ce navire s'était arrêté pour du ravitaillement en carburant et en fournitures avant de retourner en Russie. La BBC confirme l'information.
+
+    Toujours sur le dossier russo-ukrainien, CBC rapporte que l'ancien ambassadeur américain à l'OTAN, Kurt Volker, a qualifié d'inquiétante l'insistance du président américain Donald Trump à décrire Vladimir Poutine comme son ami. Monsieur Volker s'est aussi prononcé sur une note confidentielle du Pentagone, dévoilée dans les médias, qui proposerait de restreindre les liens de défense avec le Canada.
+
+    On reste en Europe, où le sommet climatique des Nations unies, la COP trente et un, s'est terminé en Turquie sans qu'une entente soit conclue. Selon CBC, les pourparlers se sont effondrés après que des États membres ont rejeté un texte qui ne mentionnait pas les combustibles fossiles. La BBC précise qu'il s'agissait du sommet climatique le plus long de l'histoire des Nations unies, tenu à Antalya. Le premier ministre de l'Australie, pays coorganisateur de l'événement, a attribué cet échec à des circonstances géopolitiques difficiles.
+
+    Ailleurs dans le monde, Al Jazeera rapporte que des tensions importantes entourent la Grameen Bank, une institution financière de premier plan au Bangladesh, visée par la violence de partisans de l'ancienne première ministre Sheikh Hasina. Toujours selon Al Jazeera, en Cisjordanie occupée, des zones déclarées militaires sont de plus en plus récupérées par des colons israéliens, qui les utilisent comme points de départ pour des violences contre des civils.
+
+    Enfin, selon Al Jazeera, un orage violent a frappé la ville brésilienne de Tupancireta, forçant le déplacement de milliers de personnes.
+  </chapitre>
+
+  <chapitre titre="Économie et marchés">
+    On passe à l'économie, où les marchés amorcent la semaine avec un certain soulagement après la correction des derniers jours. Selon Bloomberg, les contrats à terme sur les actions américaines ont rebondi ce matin, après une période de turbulences liée aux valorisations des entreprises technologiques associées à l'intelligence artificielle. Le Financial Times rapporte également que Wall Street s'apprête à rebondir après ce mouvement de vente massif sur les titres technologiques.
+
+    Selon Reuters, les contrats à terme américains ont progressé alors que la vague de ventes liées à l'intelligence artificielle marque une pause, et que des autorités asiatiques sont intervenues pour soutenir leurs marchés boursiers. Toujours selon Bloomberg, la Chine a abaissé son exigence de marge à quatre-vingts pour cent afin de stimuler la liquidité sur ses marchés boursiers.
+
+    L'Economist, de son côté, pose la question à savoir combien d'air peut encore sortir de ce qu'il appelle la bulle de l'intelligence artificielle, notant que les marchés demeurent troublés. Reuters rapporte que les investisseurs cherchent des signes indiquant si la vente d'actions américaines s'apparente à une simple correction ou à une remise en question plus profonde.
+
+    Du côté des banques centrales américaines, Bloomberg rapporte que le secrétaire au Trésor américain, Scott Bessent, affirme que la Réserve fédérale risque de nuire à l'économie en resserrant trop sa politique monétaire. Toujours selon Bloomberg, le marché obligataire, qui anticipait des hausses de taux de la Réserve fédérale, a été bousculé par le recul des actions.
+
+    En matière commerciale, BNN Bloomberg rapporte que le représentant américain au Commerce, Jamieson Greer, affirme que les États-Unis et le Canada sont, je le cite, "fairly close" à une entente commerciale. Fin de citation.
+
+    Ailleurs, le Financial Times rapporte que Compass, un géant de la restauration collective coté au FTSE 100 à Londres, prévoit transférer son inscription principale à New York. Du côté du pétrole, Reuters rapporte que les prix ont reculé, les marchés surveillant de près les flux en provenance du Moyen-Orient. Enfin, Reuters note que la plupart des bourses du Golfe ont aussi reculé, dans un contexte de tensions régionales persistantes.
+  </chapitre>
+
+  <chapitre titre="Actualité québécoise">
+    Au Québec, La Presse se penche sur les effets d'une nouvelle loi provinciale visant à maximiser le nombre de terres cultivées, qui complique désormais la vente de certaines propriétés agricoles. Le journal cite le cas d'Émilie Viel, copropriétaire d'une fermette de vingt et un acres près de Rimouski, qui tente de vendre son domaine et se bute à cette loi peu connue. La Presse rapporte que cette situation suscite beaucoup d'inquiétude dans certaines régions du Québec.
+
+    Toujours au Québec, Radio-Canada rapporte que la Ville de Montréal prévoit une hausse de neuf virgule huit pour cent des taxes résidentielles pour l'année deux mille vingt-sept. Cette information provient d'une copie du sommaire exécutif du budget, publiée avant son dépôt officiel prévu demain.
+
+    Du côté économique, Radio-Canada rapporte qu'un autre projet de la filière batterie est en difficulté au Québec. L'entreprise Réseau Allégé Québec devait initialement construire une usine d'un milliard de dollars à Shawinigan.
+
+    Par ailleurs, Radio-Canada rapporte que le gouvernement du Québec et la Ville de Montréal doivent dévoiler aujourd'hui leur stratégie pour tenter d'attirer la nouvelle Banque de la défense.
+
+    Sur le plan social, La Presse publie un dossier sur la propagation des hypertrucages à caractère sexuel sur les réseaux sociaux, notamment sur Facebook, où des publicités incitent les utilisateurs à tester ces outils à la limite de la légalité. Le journal cite des experts selon qui, je le cite, "tout le monde est à risque". Fin de citation. Ce dossier fait aussi l'objet de la revue de presse de Paul Arcand, qui aborde ce matin le cas de dizaines de personnalités québécoises dont des photos ont été truquées par l'intelligence artificielle, générant des commentaires misogynes.
+
+    Enfin, Radio-Canada rapporte que la liberté académique demeure précaire au Québec. Malgré l'adoption d'une loi sur le sujet, plusieurs professeurs universitaires disent encore craindre pour leur liberté académique et pratiquer une forme d'autocensure.
+  </chapitre>
+
+  <chapitre titre="Politique canadienne">
+    Du côté canadien, CBC rapporte que le premier ministre du Manitoba, Wab Kinew, souhaite savoir qui a espionné son père pour le compte de la Gendarmerie royale du Canada, et pourquoi. Des documents obtenus par CBC révèlent que le chef anichinabé Tobasonakwut Kinew, aujourd'hui décédé, a fait l'objet d'une surveillance dans les années mille neuf cent soixante, dans le cadre d'une initiative d'infiltration à l'échelle du pays plus tard surnommée le programme contre l'extrémisme autochtone.
+
+    Toujours selon CBC, une nouvelle étude révèle que la consommation quotidienne de cannabis dépasse désormais celle de l'alcool au Canada, les jeunes Canadiens étant à l'avant-plan de cette tendance. Des experts cités par CBC disent voir certains aspects positifs à ce changement générationnel, tout en notant que plusieurs Canadiens demeurent mal informés des risques liés à une surconsommation de cannabis.
+
+    Par ailleurs, CBC rapporte qu'une pétition demande aux télécommunicateurs canadiens de répondre aux appels de leurs clients en moins de dix minutes. Un homme de l'Ontario, à l'origine de cette initiative, affirme que les Canadiens en ont assez des longs délais d'attente pour joindre un agent du service à la clientèle.
+
+    Du côté des États-Unis, Global News rapporte que le parti démocrate a obtenu sa plus importante majorité à la Chambre des représentants depuis mille neuf cent quatre-vingt-douze, à la suite d'une victoire en Caroline du Nord. Les démocrates ont ainsi gagné quarante-quatre sièges jusqu'à maintenant, soit quatre de plus que les quarante sièges gagnés lors des premières élections de mi-mandat du président Donald Trump, en deux mille dix-huit.
+  </chapitre>
+
+  <chapitre titre="Tech">
+    Du côté de la tech, The Verge revient sur la série de pannes informatiques majeures survenues au cours de la dernière semaine, incluant un arrêt des vols à l'échelle nationale ordonné par l'agence fédérale de l'aviation, une panne de plusieurs jours du service Outlook qui a paralysé des entreprises entières, et une panne bancaire chez JPMorgan Chase. Le directeur du Renseignement national américain, Jay Clayton, a dit à CNN, je le cite en anglais : "The American people should be prepared for a great deal of investment in upgrading our systems." Fin de citation. Le consensus, selon The Verge, est que d'autres pannes du genre sont à prévoir.
+
+    Dans la même veine, The Verge rapporte que tous les vols de Delta Air Lines à destination et en provenance d'Atlanta ont subi d'importants retards dimanche, en raison d'un problème touchant le système qui calcule le poids et l'équilibre des avions. L'aéroport international Hartsfield-Jackson d'Atlanta est la plus importante plaque tournante de Delta et l'un des aéroports les plus achalandés au monde.
+
+    Toujours en tech, Ars Technica rapporte qu'une nouvelle recherche suggère que les médicaments de la famille des GLP-un, comme l'Ozempic et le Wegovy, pourraient avoir un effet environnemental insoupçonné. Selon cette recherche, une utilisation généralisée de ces médicaments pourrait transformer le système alimentaire mondial et libérer de vastes superficies de terres agricoles. Les chercheurs estiment qu'une utilisation répandue pourrait prévenir jusqu'à six virgule six millions de décès par année d'ici deux mille cinquante, tout en libérant jusqu'à trente-deux millions d'hectares de terres agricoles, soit une superficie légèrement plus grande que l'Italie.
+  </chapitre>
+
+  <chapitre titre="Sport">
+    Rapidement en sport, où le hockey domine l'actualité canadienne. Selon Sportsnet, le Canadien de Montréal a réussi l'un des coups les plus marquants de la saison en acquérant l'attaquant Dylan Larkin des Red Wings de Détroit. Le Journal de Montréal rapporte que l'analyste Renaud Lavoie estime que le Canadien doit désormais être considéré comme favori pour remporter la Coupe Stanley.
+
+    Au football américain, Sportsnet rapporte que les Quarante-Niners de San Francisco ont livré une victoire convaincante contre les Vikings du Minnesota lors de la onzième semaine de la Ligue nationale de football, s'imposant comme l'équipe la plus complète du circuit selon certains observateurs.
+
+    Au baseball, Sportsnet rapporte que le lanceur Tarik Skubal a signé un contrat record avec les Mets de New York, un dénouement jugé prévisible après son passage au marché des joueurs autonomes.
+
+    Enfin, du côté du basketball, Sportsnet rapporte que les Raptors de Toronto ont mis fin à une séquence de défaites avec une victoire contre les Pistons de Détroit, dans un contexte où l'équipe doit maintenant redresser le cours de sa saison.
+  </chapitre>
+
+  <outro>Voilà pour ce Presto du lundi vingt-trois novembre deux mille vingt-six. Si ce briefing vous est utile, le meilleur coup de main que vous pouvez nous donner, c'est de le partager à une personne qui aime rester informée. Et selon votre plateforme : un abonnement sur Spotify ou Apple Podcasts, un pouce bleu et un abonnement sur YouTube, ça prend deux secondes et ça aide vraiment Presto à grandir. Sur ce, bonne journée, et à demain.</outro>
+</script>
+```
