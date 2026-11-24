@@ -23,6 +23,17 @@
       <link>https://www.prestopodcast.online</link>
     </image>
     <item>
+      <title>Presto — édition du 24 novembre 2026</title>
+      <description>Au menu : Économie et marchés, International, Actualité québécoise, Politique canadienne, Tech, Sport</description>
+      <pubDate>Tue, 24 Nov 2026 11:00:57 +0000</pubDate>
+      <guid isPermaLink="false">https://github.com/meerkly-00/Presto_Podcast/releases/download/2026-11-24/2026-11-24.mp3</guid>
+      <enclosure url="https://github.com/meerkly-00/Presto_Podcast/releases/download/2026-11-24/2026-11-24.mp3" type="audio/mpeg" length="7596391"/>
+      <itunes:duration>722</itunes:duration>
+      <itunes:summary>Au menu : Économie et marchés, International, Actualité québécoise, Politique canadienne, Tech, Sport</itunes:summary>
+      <itunes:episode>185</itunes:episode>
+      <itunes:image href="https://www.prestopodcast.online/artwork-v2.jpg"/>
+    </item>
+    <item>
       <title>Presto — édition du 23 novembre 2026</title>
       <description>Au menu : International, Économie et marchés, Actualité québécoise, Politique canadienne, Tech, Sport</description>
       <pubDate>Mon, 23 Nov 2026 11:01:33 +0000</pubDate>

@@ -1,0 +1,71 @@
+# Script Presto — mardi 24 novembre 2026
+
+```xml
+<script>
+  <intro>Bonjour, on est le mardi vingt-quatre novembre deux mille vingt-six. Voici votre Presto en environ quinze minutes. Au menu : le retour mouvementé de Jensen Huang chez Nvidia et ses suites, la guerre en Ukraine et les tensions militaires en Asie, Gaza, l'actualité québécoise avec l'école et un dossier judiciaire, et un mot de tech et de sport.</intro>
+
+  <chapitre titre="Économie et marchés">
+    On commence par l'économie, dominée depuis deux jours par un seul nom : Jensen Huang. Selon l'Associated Press, le conseil d'administration de Nvidia a réintégré Jensen Huang au poste de chef de la direction, à peine quelques jours après avoir rejeté son offre de retour. Selon la BBC, le président américain Donald Trump affirme avoir lui-même convaincu Nvidia de reprendre Jensen Huang, dont le retour a ajouté mille milliards de dollars à la valeur boursière de l'entreprise.
+
+    La nouvelle a d'abord provoqué un soulagement sur les marchés. Selon l'Associated Press, les actions américaines ont effacé la moitié de la chute de la semaine précédente à la suite de l'annonce. Selon Reuters, les bourses asiatiques ont aussi grimpé, ce retour ayant relancé l'appétit des investisseurs pour les titres liés à l'intelligence artificielle. Mais l'euphorie n'a pas duré. Selon Bloomberg, les actions américaines sont redescendues par la suite, l'enthousiasme initial s'étant dissipé en cours de séance.
+
+    L'épisode a aussi fait des victimes du côté des paris contre Nvidia. Selon Bloomberg, les fonds à effet de levier qui misaient sur une baisse du titre ont subi des pertes allant jusqu'à quatre-vingt-douze pour cent. Selon le Financial Times, les fonds négociés en bourse à position vendeuse et à effet de levier sur Nvidia ont littéralement explosé, je le cite : "The leveraged short Nvidia ETFs have just blown up." Fin de citation.
+
+    L'affaire dépasse largement la mécanique boursière. Selon CBC, l'intervention de Donald Trump pour faire réintégrer Jensen Huang ne répond pas aux nombreuses questions entourant ce qui est désormais qualifié de scandale, qui a secoué autant Washington que les marchés financiers. Selon Reuters, des élus américains ont critiqué la décision de Nvidia de réintégrer Jensen Huang. Du côté de la Chine, selon Bloomberg, les autorités chinoises préviennent que le retour de Jensen Huang ne met pas fin aux risques qu'elles qualifient de malveillants en provenance des États-Unis. Selon Reuters, le redressement de Nvidia en Chine, qui se chiffre en milliards de dollars, demeure menacé par les suites du départ et du retour de Jensen Huang.
+
+    Ailleurs sur les marchés, selon Reuters, le pétrole a touché son plus bas niveau en trois mois, la hausse de l'offre mondiale ayant neutralisé les craintes liées à une menace sur le détroit d'Ormuz. Du côté des entreprises canadiennes, Les Affaires rapporte que l'homme d'affaires Éric Martel pilote ce que le média qualifie de nouveau décollage pour Bombardier. Toujours selon Les Affaires, Deloitte Canada estime qu'un nouveau bureau de préparation de projets pourrait tripler les investissements privés dans les grands projets d'infrastructure au pays. Selon BNN Bloomberg, Brookfield fait l'acquisition de l'entreprise PGP Glass auprès de Blackstone, pour environ un virgule sept milliard de dollars américains.
+
+    Du côté des institutions canadiennes, BNN Bloomberg rapporte que Bell enquête sur une cyberattaque de type agentique ayant exposé des renseignements de ses clients la semaine dernière.
+  </chapitre>
+
+  <chapitre titre="International">
+    On passe à l'international, où la guerre en Ukraine continue de faire des victimes. Selon Al Jazeera, une frappe russe sur Zaporijjia a tué deux personnes, détruit une maison et endommagé un immeuble de cinq étages, selon les autorités ukrainiennes.
+
+    Les tensions militaires liées à la Russie débordent désormais au-delà de l'Ukraine. Selon la BBC, des médias allemands rapportent que la Russie prévoit lancer dans les prochaines semaines un satellite muni d'une ogive nucléaire. Toujours selon la BBC, le chef de l'OTAN promet une défense contre cette menace spatiale. Par ailleurs, selon Al Jazeera, la Corée du Sud a émis une alerte aux raids aériens après que des chasseurs russes se soient approchés de son espace aérien.
+
+    Du côté du Moyen-Orient, selon Al Jazeera, des frappes aériennes israéliennes à Gaza ont tué sept personnes, alors que des médecins sur place signalent une éclosion de méningite. Toujours selon Al Jazeera, les cas de méningite sont passés à deux cent soixante-douze en octobre, soit plus de huit fois le taux mensuel habituel. Par ailleurs, selon CBC, un groupe de défense des droits de la personne, Physicians for Human Rights Israel, rapporte une hausse de trois cent cinquante pour cent des attaques violentes contre des travailleurs de la santé palestiniens, perpétrées par des colons et l'armée israélienne. Israël conteste les conclusions de ce rapport.
+
+    Du côté du Royaume-Uni, selon CBC, le gouvernement travailliste du premier ministre Andy Burnham cherche désormais à resserrer les liens avec l'Union européenne, ce que le média qualifie de possible "Breturn", soit un retour partiel sur le Brexit. En France, selon le Financial Times, le président Emmanuel Macron propose une règle d'or budgétaire pour le pays. Au Japon, toujours selon le Financial Times, la première ministre Sanae Takaichi se retrouve isolée sur la scène internationale.
+
+    Enfin, un fait religieux retient l'attention : selon l'Associated Press, confirmé par CBC, des extraits du journal intime privé du pape François, publiés mardi, révèlent qu'il a traversé une crise spirituelle de deux ans à partir de deux mille vingt et un, période durant laquelle il dit avoir été tenté par le diable et avoir eu du mal à exercer son pouvoir sur l'Église catholique.
+  </chapitre>
+
+  <chapitre titre="Actualité québécoise">
+    Au Québec, La Presse publie un dossier sur la violence dans les écoles. En entrevue avec le journal, le ministre de l'Éducation, Joël Arseneau, affirme que les parents ont aussi un rôle à jouer pour contrer le phénomène. Selon Radio-Canada, plus de quatre-vingts pour cent des gestes de violence à l'école sont commis par des élèves du préscolaire et du primaire. Radio-Canada rapporte que ce dossier constitue la priorité numéro un du ministre en ce début de mandat.
+
+    Toujours au Québec, La Presse rapporte que l'ex-ministre Kariane Bourassa a porté plainte à la police après avoir reçu, dans la boîte courriel de son ministère, des photos trafiquées d'elle-même dénudée, accompagnées de menaces visant sa famille si elle ne reculait pas sur une décision politique touchant les femmes. Le journal publie en parallèle une enquête plus large sur les hypertrucages sexuels, où une doctorante de l'Université du Québec à Montréal, Valérie Lapointe, dresse le portrait des hommes qui s'adonnent à cette pratique.
+
+    Du côté de la défense, Radio-Canada rapporte que des militaires misent sur l'avion de chasse F-35 et le développement de nouveaux drones collaboratifs dans le cadre du projet Arrow, plutôt que sur l'achat d'appareils Gripen. En parallèle, Global News rapporte que Montréal fait valoir ses atouts en aérospatiale et en intelligence artificielle pour tenter d'accueillir la future banque de défense, de sécurité et de résilience de l'OTAN, qui devrait démarrer l'an prochain avec environ cinquante employés, un nombre appelé à grimper jusqu'à sept cents d'ici dix ans.
+
+    Enfin, dans La Presse, un texte d'opinion s'interroge sur le serment des parlementaires québécois au roi d'un pays étranger, dans la foulée d'un jugement récent sur la question.
+  </chapitre>
+
+  <chapitre titre="Politique canadienne">
+    Du côté canadien, CBC rapporte une fraude préoccupante au Manitoba. Cinq Manitobains ont été victimes, au cours des deux derniers mois, d'un stratagème où des fraudeurs infiltrent les courriels d'avocats pour rediriger des paiements. Une femme de Flin Flon, qui tentait de racheter une maison après avoir perdu la sienne dans un feu de forêt, a perdu plus de cent soixante-dix mille dollars dans cette fraude.
+
+    Toujours selon CBC, Santé Canada a saisi des peptides injectables non autorisés dans une boutique de Toronto et met en garde contre les risques pour la santé liés à ce marché non réglementé.
+
+    Enfin, selon The Hub, un sénateur américain affirme qu'une note interne du Pentagone concernant le Canada limite certaines rencontres, mais pas les opérations militaires.
+  </chapitre>
+
+  <chapitre titre="Tech">
+    Du côté de la tech, deux États américains passent à l'attaque contre SpaceX. Selon Ars Technica, la Virginie et l'Oregon poursuivent l'entreprise, alléguant que son intelligence artificielle Grok continue de sexualiser, sans contrôle adéquat, des photos réelles de femmes et d'enfants. Les procureurs généraux de ces États soutiennent que les déclarations antérieures de l'entreprise, qui affirmait avoir corrigé le problème, étaient trompeuses.
+
+    Toujours en tech, Ars Technica rapporte que le pirate informatique à l'origine des fuites du jeu vidéo Grand Theft Auto Six a été condamné à sept ans de prison, mais libéré sous conditions. Arion Kurtaj avait plaidé coupable la semaine dernière d'avoir piraté le studio Rockstar Games ainsi que d'autres entreprises comme Uber et Revolut.
+
+    Du côté des nouveaux produits, The Verge rapporte le lancement en version bêta publique de Kagi Mail, un nouveau service de courriel lancé par l'entreprise Kagi, déjà connue pour son moteur de recherche payant concurrent de Google. Le service promet, je le cite : "no surveillance, no ads, open standards, and no lock-in." Fin de citation. Toujours selon The Verge, un nouveau navigateur web nommé Ladybird est maintenant disponible en version alpha pour essai sur macOS et Linux. Il s'agit du premier navigateur en plusieurs années à être construit avec un moteur entièrement nouveau, plutôt que de réutiliser l'un des trois moteurs dominants actuels.
+
+    Enfin, selon Ars Technica, l'administration Trump a interrompu les plans de l'armée américaine de faire détoner des matières explosives dégradées dans une usine de munitions en Iowa, transférant la responsabilité de la décision à un tribunal fédéral et au futur gouverneur de l'État.
+  </chapitre>
+
+  <chapitre titre="Sport">
+    Rapidement en sport, où le hockey continue de dominer l'actualité canadienne. Selon Le Devoir, le nouvel attaquant du Canadien de Montréal, Dylan Larkin, a électrisé le Centre Bell dès son premier match avec l'équipe, participant au seul but de sa formation moins de vingt-quatre heures après son arrivée, mais le Canadien s'est tout de même incliné face aux Kings de Los Angeles.
+
+    Du côté des Maple Leafs de Toronto, selon Sportsnet, la recrue Gavin McKenna a inscrit le but gagnant en troisième période face aux Islanders de New York, permettant à son équipe de mettre fin à une séquence sans victoire.
+
+    Au basketball, selon Global News, les Raptors de Toronto ont raté une occasion de prendre de l'élan en s'inclinant face aux Bucks de Milwaukee, pourtant la pire équipe de la ligue actuellement, ce qui relance des questions sur l'identité de l'équipe.
+  </chapitre>
+
+  <outro>Voilà pour ce Presto du vingt-quatre novembre. Si ce briefing vous est utile, le meilleur coup de main que vous pouvez nous donner, c'est de le partager à une personne qui aime rester informée. Et selon votre plateforme : un abonnement sur Spotify ou Apple Podcasts, un pouce bleu et un abonnement sur YouTube, ça prend deux secondes et ça aide vraiment Presto à grandir. Sur ce, bonne journée, et à demain.</outro>
+</script>
+```
