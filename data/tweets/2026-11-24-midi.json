@@ -1,0 +1,14 @@
+{
+  "date": "2026-11-24",
+  "kind": "poll",
+  "text": "Ce matin → 80 % des gestes de violence à l'école au Québec sont commis par des élèves du préscolaire et du primaire.\n\nNouveau : Un constable de la STM a assuré la sécurité en petite tenue lundi, en\n\nFace à la violence en milieu scolaire, où devrait porter priorité la réponse?",
+  "poll": {
+    "options": [
+      "Renforcer la présence",
+      "Intervenir auprès des",
+      "Former le personnel",
+      "Modifier l'environnement"
+    ],
+    "duration_minutes": 1440
+  }
+}
