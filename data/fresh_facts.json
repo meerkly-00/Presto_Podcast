@@ -1,54 +1,54 @@
 {
-  "generated_at": "2026-11-24T00:36:05.464104+00:00",
+  "generated_at": "2026-11-24T22:55:36.700740+00:00",
   "window_hours": 8,
   "faits": [
     {
-      "sujet": "Hypertrucages sexuels en ligne",
-      "fait": "Le ministre Marc Miller souhaite accélérer l'entrée en vigueur d'un projet de loi fédéral sanctionnant les réseaux sociaux partageant des hypertrucages sexuels sans consentement. Selon La Presse, Miller a qualifié la situation de « dégueulasse »."
+      "sujet": "Missions NASA à Mars en panne",
+      "fait": "Deux des quatre missions de la NASA opérant sur Mars ont suspendu leurs opérations scientifiques suite à des problèmes techniques : le rover Perseverance et l'orbiteur Odyssey. Selon Ars Technica, Perseverance rencontre des problèmes de communications dans son système UHF redondant."
     },
     {
-      "sujet": "Retour du PDG Jensen Huang chez Nvidia",
-      "fait": "Le conseil d'administration de Nvidia a réintégré Jensen Huang comme PDG quelques jours après avoir rejeté son offre de retour. Selon Bloomberg et Reuters, ce retour a provoqué une hausse significative des marchés boursiers américains, les actions de technologie et d'IA se redressant."
+      "sujet": "Panne cloud Microsoft analysée",
+      "fait": "Microsoft a déclaré un audit « Code Red » de ses pratiques de réponse d'ingénierie suite à la panne du 12 novembre affectant Exchange Online, Teams et Outlook. D'après Ars Technica, la panne a eu l'impact client le plus important de l'histoire d'Exchange Online, et les correctifs urgents mettent 5 à 6 jours pour atteindre la saturation mondiale au lieu de l'objectif d'une heure."
     },
     {
-      "sujet": "Blacklistage de Megaspeed par les États-Unis",
-      "fait": "Le gouvernement américain a placé sur liste noire la firme de puces Megaspeed, accusée de détourner des puces d'IA vers la Chine après qu'une affaire entre une dirigeante de Megaspeed et Jensen Huang soit devenue publique. Selon BBC World et Reuters, cette action intervient après un scandale de sécurité nationale."
+      "sujet": "Huawei condamnée aux États-Unis",
+      "fait": "Un jury américain a reconnu Huawei coupable de vol de secrets commerciaux et de fraude bancaire, selon The Verge et BBC World. Le jury a acquitté l'entreprise de l'accusation la plus grave de complot de racket."
     },
     {
-      "sujet": "Critique du Pentagone sur la défense canadienne",
-      "fait": "Le Pentagone a publié une « fiche d'information » critiquant les dépenses de défense du Canada, affirmant qu'elles ont limité la capacité du pays à contribuer à la défense de l'Amérique du Nord. Selon La Presse et Global News, le sénateur républicain Mike Rounds a précisé que cette position n'affecterait pas les opérations militaires."
+      "sujet": "Geneviève Biron quitte Santé Québec",
+      "fait": "Le mandat de la PDG de Santé Québec, Geneviève Biron, ne sera pas renouvelé à son échéance en mai 2027. D'après La Presse, cela évite au gouvernement de verser une indemnité de départ de 581 742 $."
     },
     {
-      "sujet": "Financement du programme des cadets canadiens",
-      "fait": "Le ministre de la Défense a annoncé qu'Ottawa accordera un financement supplémentaire au programme des cadets jusqu'à la fin du mois de mars, permettant la reprise des activités. Selon Radio-Canada, cette intervention intervient après une suspension précédente."
+      "sujet": "Saskatchewan adopte punitions routières immédiates",
+      "fait": "Le gouvernement de la Saskatchewan a présenté une loi permettant des punitions administratives immédiatement au bord de la route pour les conducteurs en état d'ébriété, incluant des suspensions de permis et des amendes. Selon Global News."
     },
     {
-      "sujet": "Kagi lance un service de messagerie",
-      "fait": "Kagi, alternative à Google Search, a annoncé le lancement en bêta public de Kagi Mail, offrant des adresses @kagimail.com, 50 Go de stockage, des alias illimités et un calendrier intégré. Selon The Verge, les applications mobiles natives ne sont pas attendues avant le troisième trimestre 2027."
+      "sujet": "Stocks technologiques chutent après hausse",
+      "fait": "Les actions liées à l'IA, notamment Nvidia et Anthropic, ont chuté après leur hausse de la veille. Les actions d'Anthropic se négocient en dessous de leur prix d'introduction en bourse de 83 dollars, selon Reuters Business."
     },
     {
-      "sujet": "Navigateur Ladybird en alpha",
-      "fait": "Le navigateur indépendant Ladybird, doté d'un moteur entièrement nouveau, est disponible en test alpha sur macOS et Linux après plus de quatre ans de développement. Selon The Verge, c'est le premier navigateur en années à sortir avec un moteur complètement nouveau."
+      "sujet": "Stocks des États-Unis en baisse mardi",
+      "fait": "Le Nasdaq et le S&P 500 ont glissé mardi suite au repli des valeurs technologiques après la hausse stimulée par Nvidia le lundi. Selon Reuters."
     },
     {
-      "sujet": "Procès contre Grok pour contenus sexualisés",
-      "fait": "La Virginie et l'Oregon sont devenues les premiers États à poursuivre SpaceX pour alléguer que Grok génère sans contrôle des contenus sexualisés impliquant des femmes et des enfants. Selon Ars Technica, SpaceX a acquis xAI en février et fait face à des accusations que les sauvegardes sont insuffisantes malgré les promesses d'amélioration."
+      "sujet": "TikTok connaît une panne brève",
+      "fait": "TikTok a connu une panne mardi touchant les vidéos, les résultats de recherche, les favoris et autres fonctionnalités. D'après The Verge, environ 25 000 signalements de problèmes ont été enregistrés vers 14h56 ET, les services étant rétablis vers 15h45 ET."
     },
     {
-      "sujet": "Incidents navires dans le détroit d'Ormuz",
-      "fait": "Selon Al Jazeera, les Gardiens de la Révolution iraniens affirment que trois pétroliers ont pris feu après avoir heurté des mines navales dans le détroit d'Ormuz."
+      "sujet": "Cas de rougeole atteignent 6 000 aux États-Unis",
+      "fait": "Le nombre de cas de rougeole aux États-Unis approche 6 000 pour l'année, le plus haut depuis 1991, avec 14 décès confirmés au 24 novembre. Selon Ars Technica, 47 États et juridictions rapportent des cas, et la Pennsylvanie en tête avec 1 638 cas."
     },
     {
-      "sujet": "Attaque au drone contre base police colombienne",
-      "fait": "Une base de police colombienne a été frappée par un drone, blessant des civils dont un nourrisson. Selon Al Jazeera, l'incident survient dans un contexte d'escalade entre le gouvernement et les groupes rebelles."
+      "sujet": "Real Madrid bat PSV en Ligue des Champions",
+      "fait": "Real Madrid a remporté une victoire 5-1 contre le PSV Eindhoven en Ligue des Champions. Selon Al Jazeera, Bellingham et Mbappé (avec un doublé) ont contribué à cette victoire."
     },
     {
-      "sujet": "Chercheur chinois détenu par ICE",
-      "fait": "Un neuroscientifique chinois de Princeton a été arrêté par l'ICE après sa détention à l'aéroport de Washington. Selon Associated Press, les détails exacts restent limités dans le rapport initial."
+      "sujet": "Projet GTA VI PC supprimé par Take-Two",
+      "fait": "Take-Two a adressé un avis de cessation et désistement DMCA au projet Leonida, un projet de recompilation de fan conçu pour faire fonctionner la version Xbox de GTA VI sur PC. D'après The Verge, le projet avait été créé par un développeur de 15 ans connu sous le pseudonyme 'NotRexed'."
     },
     {
-      "sujet": "Suspension de détonation en Iowa",
-      "fait": "Le président Trump a ordonné au militaire américain de suspendre les plans de détonation de 68 barils de composés explosifs instables (azoture de plomb) à l'usine de munitions d'Iowa. Selon Ars Technica, le sort du matériau est désormais confié à une cour fédérale et au gouverneur élu Rob Sand, qui prendra fonction en janvier."
+      "sujet": "Venezuela rapporte sa dette publique",
+      "fait": "Le Venezuela a déclaré une dette publique de 237,5 milliards de dollars dans le cadre d'une démarche vers une restructuration majeure. Selon Reuters."
     }
   ]
 }
