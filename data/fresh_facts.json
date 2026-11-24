@@ -1,50 +1,54 @@
 {
-  "generated_at": "2026-11-23T02:16:27.389952+00:00",
+  "generated_at": "2026-11-24T00:36:05.464104+00:00",
   "window_hours": 8,
   "faits": [
     {
-      "sujet": "Relations de défense Canada-États-Unis",
-      "fait": "Le secrétaire américain à la Défense Pete Hegseth a émis un mémo restreignant les liens de défense avec le Canada, selon CBC."
+      "sujet": "Hypertrucages sexuels en ligne",
+      "fait": "Le ministre Marc Miller souhaite accélérer l'entrée en vigueur d'un projet de loi fédéral sanctionnant les réseaux sociaux partageant des hypertrucages sexuels sans consentement. Selon La Presse, Miller a qualifié la situation de « dégueulasse »."
     },
     {
-      "sujet": "Négociations commerciales Canada-États-Unis",
-      "fait": "Jamieson Greer a déclaré dimanche que les deux pays étaient « assez proches de trouver un terrain d'entente » dans les négociations, selon Radio-Canada."
+      "sujet": "Retour du PDG Jensen Huang chez Nvidia",
+      "fait": "Le conseil d'administration de Nvidia a réintégré Jensen Huang comme PDG quelques jours après avoir rejeté son offre de retour. Selon Bloomberg et Reuters, ce retour a provoqué une hausse significative des marchés boursiers américains, les actions de technologie et d'IA se redressant."
     },
     {
-      "sujet": "Tentatives d'assassinat en Europe de l'Est",
-      "fait": "La Pologne a confirmé que la Russie a tenté d'assassiner un rappeur ukrainien à deux reprises, suite à la révélation d'un supposé complot russe au Danemark, selon Al Jazeera."
+      "sujet": "Blacklistage de Megaspeed par les États-Unis",
+      "fait": "Le gouvernement américain a placé sur liste noire la firme de puces Megaspeed, accusée de détourner des puces d'IA vers la Chine après qu'une affaire entre une dirigeante de Megaspeed et Jensen Huang soit devenue publique. Selon BBC World et Reuters, cette action intervient après un scandale de sécurité nationale."
     },
     {
-      "sujet": "Effondrement des négociations climatiques COP31",
-      "fait": "Les négociations de la COP31 se sont terminées sans accord majeur après un différend sur la mention des combustibles fossiles dans le texte final, selon BBC World."
+      "sujet": "Critique du Pentagone sur la défense canadienne",
+      "fait": "Le Pentagone a publié une « fiche d'information » critiquant les dépenses de défense du Canada, affirmant qu'elles ont limité la capacité du pays à contribuer à la défense de l'Amérique du Nord. Selon La Presse et Global News, le sénateur républicain Mike Rounds a précisé que cette position n'affecterait pas les opérations militaires."
     },
     {
-      "sujet": "Contraction des marchés technologiques",
-      "fait": "Les marchés technologiques d'Asie se préparent à une « crise de l'IA » tandis que les futures boursières américaines rebondissent après le repli, selon Reuters."
+      "sujet": "Financement du programme des cadets canadiens",
+      "fait": "Le ministre de la Défense a annoncé qu'Ottawa accordera un financement supplémentaire au programme des cadets jusqu'à la fin du mois de mars, permettant la reprise des activités. Selon Radio-Canada, cette intervention intervient après une suspension précédente."
     },
     {
-      "sujet": "Gains démocrates aux élections américaines",
-      "fait": "Les Démocrates ont remporté la plus grande majorité à la Chambre depuis 1992 avec 44 sièges supplémentaires gagnés jusqu'à présent, selon Global News."
+      "sujet": "Kagi lance un service de messagerie",
+      "fait": "Kagi, alternative à Google Search, a annoncé le lancement en bêta public de Kagi Mail, offrant des adresses @kagimail.com, 50 Go de stockage, des alias illimités et un calendrier intégré. Selon The Verge, les applications mobiles natives ne sont pas attendues avant le troisième trimestre 2027."
     },
     {
-      "sujet": "Contrat record dans la Ligue majeure de baseball",
-      "fait": "Tarik Skubal a accepté un contrat record de 450 millions de dollars sur 9 ans avec les Mets de New York, selon Associated Press."
+      "sujet": "Navigateur Ladybird en alpha",
+      "fait": "Le navigateur indépendant Ladybird, doté d'un moteur entièrement nouveau, est disponible en test alpha sur macOS et Linux après plus de quatre ans de développement. Selon The Verge, c'est le premier navigateur en années à sortir avec un moteur complètement nouveau."
     },
     {
-      "sujet": "Frappes russes en Ukraine",
-      "fait": "Dix personnes ont été tuées lors d'une frappe nocturne russe sur Dymer, à environ 45 km au nord de Kiev, sur un immeuble de cinq étages, selon Le Devoir."
+      "sujet": "Procès contre Grok pour contenus sexualisés",
+      "fait": "La Virginie et l'Oregon sont devenues les premiers États à poursuivre SpaceX pour alléguer que Grok génère sans contrôle des contenus sexualisés impliquant des femmes et des enfants. Selon Ars Technica, SpaceX a acquis xAI en février et fait face à des accusations que les sauvegardes sont insuffisantes malgré les promesses d'amélioration."
     },
     {
-      "sujet": "Explosion navale à Benghazi",
-      "fait": "Une explosion sur un navire russe au port de Benghazi aurait été causée par une attaque présumée de drones ukrainiens, selon BBC World."
+      "sujet": "Incidents navires dans le détroit d'Ormuz",
+      "fait": "Selon Al Jazeera, les Gardiens de la Révolution iraniens affirment que trois pétroliers ont pris feu après avoir heurté des mines navales dans le détroit d'Ormuz."
     },
     {
-      "sujet": "Discussions gouvernementales en Israël",
-      "fait": "Les partis d'Eisenkot et de Netanyahou ont achevé leurs discussions sans parvenir à un accord, avec un délai jusqu'au 6 décembre pour former un gouvernement, selon Le Devoir."
+      "sujet": "Attaque au drone contre base police colombienne",
+      "fait": "Une base de police colombienne a été frappée par un drone, blessant des civils dont un nourrisson. Selon Al Jazeera, l'incident survient dans un contexte d'escalade entre le gouvernement et les groupes rebelles."
     },
     {
-      "sujet": "Violence armée à Scarborough",
-      "fait": "Deux adolescents ont été tués et un troisième gravement blessé lors d'une fusillade après minuit dimanche à Scarborough, selon Global News."
+      "sujet": "Chercheur chinois détenu par ICE",
+      "fait": "Un neuroscientifique chinois de Princeton a été arrêté par l'ICE après sa détention à l'aéroport de Washington. Selon Associated Press, les détails exacts restent limités dans le rapport initial."
+    },
+    {
+      "sujet": "Suspension de détonation en Iowa",
+      "fait": "Le président Trump a ordonné au militaire américain de suspendre les plans de détonation de 68 barils de composés explosifs instables (azoture de plomb) à l'usine de munitions d'Iowa. Selon Ars Technica, le sort du matériau est désormais confié à une cour fédérale et au gouverneur élu Rob Sand, qui prendra fonction en janvier."
     }
   ]
 }
