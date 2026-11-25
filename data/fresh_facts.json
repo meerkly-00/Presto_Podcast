@@ -1,54 +1,46 @@
 {
-  "generated_at": "2026-11-24T22:55:36.700740+00:00",
+  "generated_at": "2026-11-25T22:09:18.599297+00:00",
   "window_hours": 8,
   "faits": [
     {
-      "sujet": "Missions NASA à Mars en panne",
-      "fait": "Deux des quatre missions de la NASA opérant sur Mars ont suspendu leurs opérations scientifiques suite à des problèmes techniques : le rover Perseverance et l'orbiteur Odyssey. Selon Ars Technica, Perseverance rencontre des problèmes de communications dans son système UHF redondant."
+      "sujet": "Incendie de camion-citerne en Égypte",
+      "fait": "Au moins 31 personnes sont mortes et 21 ont été blessées dans un incendie survenu après qu'un véhicule transportant des produits pétroliers se soit renversé sur une route circulaire majeure au Caire. Selon CBC World et BBC World."
     },
     {
-      "sujet": "Panne cloud Microsoft analysée",
-      "fait": "Microsoft a déclaré un audit « Code Red » de ses pratiques de réponse d'ingénierie suite à la panne du 12 novembre affectant Exchange Online, Teams et Outlook. D'après Ars Technica, la panne a eu l'impact client le plus important de l'histoire d'Exchange Online, et les correctifs urgents mettent 5 à 6 jours pour atteindre la saturation mondiale au lieu de l'objectif d'une heure."
+      "sujet": "Projets de loi C-39 au Canada",
+      "fait": "Le comité examinant le projet de loi C-39 a passé plus de 100 heures à le débattre sur sept jours avant de terminer lundi. Selon Global News et Le Devoir."
     },
     {
-      "sujet": "Huawei condamnée aux États-Unis",
-      "fait": "Un jury américain a reconnu Huawei coupable de vol de secrets commerciaux et de fraude bancaire, selon The Verge et BBC World. Le jury a acquitté l'entreprise de l'accusation la plus grave de complot de racket."
+      "sujet": "Augmentation des taxes à Montréal",
+      "fait": "La Ville de Montréal a annoncé une augmentation moyenne de la taxe foncière de 9,8 %, soit environ trois fois le taux d'inflation. Selon CBC et Radio-Canada."
     },
     {
-      "sujet": "Geneviève Biron quitte Santé Québec",
-      "fait": "Le mandat de la PDG de Santé Québec, Geneviève Biron, ne sera pas renouvelé à son échéance en mai 2027. D'après La Presse, cela évite au gouvernement de verser une indemnité de départ de 581 742 $."
+      "sujet": "Données compromises chez 1Password",
+      "fait": "Un pirate a volé les noms et adresses e-mail des clients de 1Password après avoir accédé aux systèmes backend de l'entreprise, sans exposer les mots de passe ou les données des coffres. Selon The Verge."
     },
     {
-      "sujet": "Saskatchewan adopte punitions routières immédiates",
-      "fait": "Le gouvernement de la Saskatchewan a présenté une loi permettant des punitions administratives immédiatement au bord de la route pour les conducteurs en état d'ébriété, incluant des suspensions de permis et des amendes. Selon Global News."
+      "sujet": "Brevet Google pour vidéos IA personnalisées",
+      "fait": "Google a déposé un brevet pour un système appelé My Channel créant des flux vidéo personnalisés générés par IA et des publicités basées sur les données démographiques et l'historique de visionnage des utilisateurs. Le brevet a été rejeté. Selon The Verge."
     },
     {
-      "sujet": "Stocks technologiques chutent après hausse",
-      "fait": "Les actions liées à l'IA, notamment Nvidia et Anthropic, ont chuté après leur hausse de la veille. Les actions d'Anthropic se négocient en dessous de leur prix d'introduction en bourse de 83 dollars, selon Reuters Business."
+      "sujet": "Situation critique chez Norse Atlantic",
+      "fait": "La compagnie aérienne Norse Atlantic a déclaré que sa situation financière était 'critique', ses actions ayant chuté. Selon Reuters Business."
     },
     {
-      "sujet": "Stocks des États-Unis en baisse mardi",
-      "fait": "Le Nasdaq et le S&P 500 ont glissé mardi suite au repli des valeurs technologiques après la hausse stimulée par Nvidia le lundi. Selon Reuters."
+      "sujet": "Détonation contrôlée d'explosifs en Iowa",
+      "fait": "L'armée américaine a procédé à une détonation contrôlée de plus de 9 700 livres d'azide de plomb hautement volatil à l'Iowa Army Ammunition Plant. L'EPA a signalé 'zéro' plomb dans l'air après l'explosion. Selon The Verge et AP News."
     },
     {
-      "sujet": "TikTok connaît une panne brève",
-      "fait": "TikTok a connu une panne mardi touchant les vidéos, les résultats de recherche, les favoris et autres fonctionnalités. D'après The Verge, environ 25 000 signalements de problèmes ont été enregistrés vers 14h56 ET, les services étant rétablis vers 15h45 ET."
+      "sujet": "Avertissement santé sur la sémaglutide",
+      "fait": "Santé Canada a émis un avertissement suite à l'examen de la sécurité, identifiant un possible lien entre les médicaments GLP-1 sémaglutide et une forme rare de perte de vision. Selon CBC."
     },
     {
-      "sujet": "Cas de rougeole atteignent 6 000 aux États-Unis",
-      "fait": "Le nombre de cas de rougeole aux États-Unis approche 6 000 pour l'année, le plus haut depuis 1991, avec 14 décès confirmés au 24 novembre. Selon Ars Technica, 47 États et juridictions rapportent des cas, et la Pennsylvanie en tête avec 1 638 cas."
+      "sujet": "Critiques envers Mark Carney sur le TGV",
+      "fait": "Les partis d'opposition dénoncent un comportement 'autoritaire' de Mark Carney et de son gouvernement dans le dossier du train à grande vitesse d'Alto. Selon La Presse."
     },
     {
-      "sujet": "Real Madrid bat PSV en Ligue des Champions",
-      "fait": "Real Madrid a remporté une victoire 5-1 contre le PSV Eindhoven en Ligue des Champions. Selon Al Jazeera, Bellingham et Mbappé (avec un doublé) ont contribué à cette victoire."
-    },
-    {
-      "sujet": "Projet GTA VI PC supprimé par Take-Two",
-      "fait": "Take-Two a adressé un avis de cessation et désistement DMCA au projet Leonida, un projet de recompilation de fan conçu pour faire fonctionner la version Xbox de GTA VI sur PC. D'après The Verge, le projet avait été créé par un développeur de 15 ans connu sous le pseudonyme 'NotRexed'."
-    },
-    {
-      "sujet": "Venezuela rapporte sa dette publique",
-      "fait": "Le Venezuela a déclaré une dette publique de 237,5 milliards de dollars dans le cadre d'une démarche vers une restructuration majeure. Selon Reuters."
+      "sujet": "Réductions d'importations américaines au Canada",
+      "fait": "Les importations de véhicules légers en provenance des États-Unis représentaient 40 % du total des importations canadiennes en 2026, mesuré en dollars, indiquant un éloignement du secteur automobile canadien des importations américaines. Selon Global News."
     }
   ]
 }
