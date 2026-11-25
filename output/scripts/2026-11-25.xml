@@ -1,0 +1,65 @@
+```xml
+<script>
+  <intro>Bonjour, on est le mercredi vingt-cinq novembre deux mille vingt-six. Voici votre Presto en environ quinze minutes. Au menu : l'économie et les marchés, dominés par la condamnation de Huawei et les craintes de nouveaux tarifs américains, l'international avec l'Ukraine et le Moyen-Orient, l'actualité québécoise avec le budget montréalais, et la tech.</intro>
+
+  <chapitre titre="Économie et marchés">
+    On commence par l'économie, où plusieurs dossiers s'entrecroisent. Selon Reuters, confirmé par CBC et le Financial Times, un jury américain a déclaré coupable l'entreprise chinoise Huawei de complot pour vol de secrets commerciaux et de fraude bancaire. Le verdict, rendu dans un tribunal fédéral de New York, conclut une bataille judiciaire de plusieurs années qui accusait le géant chinois des télécommunications d'avoir volé du code source et de la technologie propriétaire à plusieurs entreprises, dont T-Mobile, Cisco et Motorola. Selon Reuters, le procès portait aussi sur les activités de l'entreprise en Iran.
+
+    Du côté des marchés, Bloomberg rapporte que les actions asiatiques s'apprêtent à reculer alors que les doutes sur l'engouement pour l'intelligence artificielle refont surface. Selon le Wall Street Journal, le rebond de soulagement du titre de Nvidia s'essouffle. La BBC rapporte que l'action de Nvidia a chuté de sept pour cent, alors que des élus américains réclament des réponses sur l'implication du président Donald Trump dans la réintégration de Jensen Huang à la tête de l'entreprise. Toujours selon la BBC, le procureur général des États-Unis a évité de répondre aux questions sur l'enquête visant Nvidia.
+
+    En parallèle, Reuters rapporte que les actions mondiales reculent alors que de nouveaux tarifs américains se profilent et que le rebond lié à l'intelligence artificielle perd de la vigueur. Selon le Wall Street Journal, les États-Unis se préparent à hausser les tarifs douaniers visant la Chine et d'autres pays. Le Financial Times ajoute que Donald Trump prépare une nouvelle série de tarifs visant les grandes économies mondiales. Du côté obligataire, Bloomberg rapporte que des investisseurs se précipitent pour se couvrir contre le risque que des hausses de taux de la Réserve fédérale ne freinent l'économie américaine.
+
+    Au Canada, BNN Bloomberg rapporte que le gouverneur de la Banque du Canada, Tiff Macklem, affirme que ses prévisions d'inflation sont revues à la baisse, mais que les pressions liées au prix du pétrole persistent. Toujours selon BNN Bloomberg, Ottawa entend verrouiller les droits de propriété pour permettre la réalisation du projet de train à grande vitesse, et le Canada multiplie les démarches pour recruter de nouveaux membres dans sa tentative de fonder une banque mondiale de la défense.
+
+    Ailleurs, le Financial Times rapporte que le Venezuela dévoile une dette de deux cent quarante milliards de dollars américains avant une restructuration qualifiée d'historique par le journal. Et selon Bloomberg, les exportations chinoises affichent une forte croissance, ce qui masquerait, selon Bloomberg, des tensions économiques internes.
+  </chapitre>
+
+  <chapitre titre="International">
+    À l'international, la guerre en Ukraine continue d'évoluer. Selon Reuters, Vladimir Poutine affirme que l'Ukraine continue de frapper des installations pétrolières russes malgré les demandes de Donald Trump, et promet des représailles. Par ailleurs, la BBC rapporte que les propres chiffres de la Russie montrent qu'elle a perdu près de cinq cent mille personnes dans la guerre en Ukraine, selon des données ayant fait l'objet d'une fuite qui révèlent un changement fondamental dans les profils de mortalité du pays.
+
+    Au Moyen-Orient, Al Jazeera se penche sur la possibilité que le premier ministre israélien Benjamin Netanyahu entraîne Israël dans une nouvelle guerre contre l'Iran pour se maintenir au pouvoir, alors que le chef de l'opposition, Naftali Eisenkot, tente de former un gouvernement. Selon Reuters, l'Iran affirme être prêt à résister à un blocus américain et cherche à freiner la hausse des prix. Le Financial Times rapporte par ailleurs qu'une attaque houthie contre la tour du fonds souverain saoudien à Riyad a blessé onze personnes.
+
+    Ailleurs dans le monde, l'Associated Press rapporte que des hommes armés ont pris des otages à Carthagène, l'une des principales destinations touristiques de la Colombie. Reuters rapporte aussi que des groupes insurgés en Afrique amènent désormais la guerre dans les airs, à l'aide de drones commerciaux achetés sur le marché libre.
+
+    Du côté britannique, CBC rapporte que deux hommes ont été accusés après une introduction par effraction présumée survenue lundi à la résidence de campagne du prince William et de la princesse Catherine, sur le domaine royal de Sandringham.
+
+    Enfin, du côté de la cybersécurité étatique, l'Associated Press rapporte qu'un système non classifié de la CIA a été compromis lors d'une cyberattaque. Selon The Verge, le bureau américain de lutte contre la criminalité financière, FinCEN, qui relève du département du Trésor, a aussi annoncé enquêter sur un incident de cybersécurité ayant entraîné un accès non autorisé à une partie limitée de ses systèmes.
+  </chapitre>
+
+  <chapitre titre="Actualité québécoise">
+    Au Québec, le dossier du jour, c'est le budget montréalais. La Presse rapporte que la mairesse Soraya Martinez Ferrada a annoncé une nouvelle redevance pour financer l'entretien des infrastructures, qui devient la huitième taxe imposée aux Montréalais. Cette annonce survient en parallèle d'une hausse des taxes foncières résidentielles, un sujet que Paul Arcand aborde d'ailleurs dans sa revue de presse du jour. La Presse souligne aussi que cette hausse survient à soixante-douze heures du Vendredi fou, période de dépenses intense pour plusieurs ménages.
+
+    Toujours à Montréal, Global News rapporte qu'un homme ayant des antécédents d'infractions violentes a été accusé après une attaque contre une femme de soixante-quinze ans alors qu'elle promenait son chien à Verdun. La famille de la victime se questionne sur les raisons pour lesquelles l'accusé se trouvait de nouveau dans la communauté.
+
+    En éducation, Radio-Canada rapporte que le ministre Joël Arseneau se dit prêt à donner plus de liberté aux écoles, une ouverture saluée par les directions d'établissements, qui souhaitent pouvoir sortir des cadres habituels. Le Devoir rapporte par ailleurs une hausse de la violence à l'école spécialisée Irénée-Lussier, dont le personnel réclame une diminution du nombre d'élèves.
+
+    Du côté des services de garde, Radio-Canada rapporte que la hausse du tarif des garderies subventionnées sera limitée à trois pour cent, la facture quotidienne passant de neuf dollars soixante-cinq à neuf dollars quatre-vingt-quinze en deux mille vingt-sept.
+
+    Sur les relations avec les Premières Nations, Radio-Canada rapporte que le nouveau ministre responsable du dossier, Simon-Pierre Savard-Tremblay, affirme que, je le cite : « tout est à rebâtir ». Fin de citation.
+
+    Enfin, concernant le projet de train à grande fréquence Alto, Radio-Canada rapporte que l'alternative proposée par l'Union des producteurs agricoles est jugée irréaliste par des experts d'une chaire de recherche, bien que techniquement faisable.
+  </chapitre>
+
+  <chapitre titre="Tech">
+    Du côté de la tech, les suites des pannes et des cyberattaques des derniers jours continuent de faire des vagues. Selon Ars Technica, des mémos internes obtenus par Reuters montrent que Microsoft a déclenché une révision complète de ses pratiques d'intervention technique après la panne majeure du douze novembre, qui avait paralysé Exchange Online, Teams et Outlook à l'échelle mondiale. Selon ces mémos, le président de Microsoft trois cent soixante-cinq, Jason Henderson, a qualifié cet événement du plus important impact client de l'histoire d'Exchange Online. Un correctif de sécurité urgent a nécessité de cinq à six jours pour atteindre une saturation mondiale, alors que l'objectif de l'entreprise pour ses correctifs les plus critiques est d'une heure.
+
+    Toujours en tech, Ars Technica rapporte que la moitié de la flotte vieillissante de la NASA sur Mars est hors service en raison de problèmes techniques. Le rover Perseverance et l'orbiteur Odyssey ont tous deux suspendu leurs opérations scientifiques après des défaillances distinctes survenues dans les dernières semaines.
+
+    Sur le plan scientifique, Ars Technica revient sur la preuve de l'hypothèse de Riemann, l'un des problèmes mathématiques les plus importants, annoncée la semaine dernière grâce à l'intelligence artificielle. Selon Ars Technica, cette avancée s'ajoute à plusieurs autres percées récentes en mathématiques rendues possibles par des systèmes fondés sur de grands modèles de langage, un développement qui bouleverse le domaine.
+
+    Du côté de la santé publique, Ars Technica rapporte que le bilan de la rougeole aux États-Unis atteint maintenant quatorze décès, alors que le pays a officiellement perdu son statut d'élimination de la maladie. Le nombre de cas approche les six mille pour l'année, le plus haut total depuis mille neuf cent quatre-vingt-onze, avec des éclosions dans quarante-sept États et juridictions.
+
+    Enfin, du côté de la recherche médicale, Nature rapporte qu'un vaccin puissant contre le VIH serait désormais à portée de main, grâce à des anticorps capables de générer une réponse immunitaire forte contre diverses souches du virus, bien que d'importants obstacles demeurent.
+  </chapitre>
+
+  <chapitre titre="Sport">
+    Rapidement en sport, où le baseball fait une entrée remarquée dans l'actualité canadienne. Selon Sportsnet, les Blue Jays de Toronto ont signé le lanceur droitier japonais Kaima Taira pour un contrat de cinq ans et quatre-vingts millions de dollars. Toujours selon Sportsnet, cette signature n'écarterait pas pour autant la possibilité que l'équipe poursuive aussi les démarches pour obtenir les services de Seiya Suzuki.
+
+    Du côté du hockey, Global News rapporte que les Golden Knights de Vegas ont signé une victoire importante contre les Oilers d'Edmonton. Selon Sportsnet, les Oilers ont montré des signes évidents de fatigue après un long voyage de six matchs dans l'Est.
+
+    Enfin, TVA Sports rapporte que l'attaquant vedette de l'Avalanche du Colorado, Nathan MacKinnon, sera absent pour une période prévue de douze semaines, forçant l'équipe à se réinventer.
+  </chapitre>
+
+  <outro>Voilà pour ce Presto du vingt-cinq novembre deux mille vingt-six. Si ce briefing vous est utile, le meilleur coup de main que vous pouvez nous donner, c'est de le partager à une personne qui aime rester informée. Et selon votre plateforme : un abonnement sur Spotify ou Apple Podcasts, un pouce bleu et un abonnement sur YouTube, ça prend deux secondes et ça aide vraiment Presto à grandir. Sur ce, bonne journée, et à demain.</outro>
+</script>
+```
