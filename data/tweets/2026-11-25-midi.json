@@ -1,0 +1,14 @@
+{
+  "date": "2026-11-25",
+  "kind": "poll",
+  "text": "Ce matin → Les actions reculent alors que Trump prépare de nouveaux tarifs douaniers.\n\nNouveau : Trump a dévoilé des tarifs supplémentaires ciblant l'excédent de capacité\n\nSelon toi, les nouveaux tarifs douaniers auront-ils un effet positif, négatif ou mixte sur l'économie ?",
+  "poll": {
+    "options": [
+      "Positif",
+      "Négatif",
+      "Mixte (gains et pertes)",
+      "Incertain"
+    ],
+    "duration_minutes": 1440
+  }
+}
