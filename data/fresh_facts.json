@@ -1,46 +1,54 @@
 {
-  "generated_at": "2026-11-25T22:09:18.599297+00:00",
+  "generated_at": "2026-11-26T22:07:56.871337+00:00",
   "window_hours": 8,
   "faits": [
     {
-      "sujet": "Incendie de camion-citerne en Égypte",
-      "fait": "Au moins 31 personnes sont mortes et 21 ont été blessées dans un incendie survenu après qu'un véhicule transportant des produits pétroliers se soit renversé sur une route circulaire majeure au Caire. Selon CBC World et BBC World."
+      "sujet": "Taxe sur logements vacants à Montréal",
+      "fait": "L'administration Martinez Ferrada de Montréal veut imposer une taxe sur les logements vacants, notamment pour les immeubles vidés par leurs propriétaires afin d'y hausser les loyers. Selon La Presse."
     },
     {
-      "sujet": "Projets de loi C-39 au Canada",
-      "fait": "Le comité examinant le projet de loi C-39 a passé plus de 100 heures à le débattre sur sept jours avant de terminer lundi. Selon Global News et Le Devoir."
+      "sujet": "Fonds d'infrastructure au Québec",
+      "fait": "Le gouvernement du Québec annonce la création d'un fonds d'infrastructures pour aider les villes. Le déficit d'entretien des routes et aqueducs devrait passer de 52 à 94 milliards de dollars d'ici 2036. Selon La Presse."
     },
     {
-      "sujet": "Augmentation des taxes à Montréal",
-      "fait": "La Ville de Montréal a annoncé une augmentation moyenne de la taxe foncière de 9,8 %, soit environ trois fois le taux d'inflation. Selon CBC et Radio-Canada."
+      "sujet": "Propriété du pipeline Coastal GasLink",
+      "fait": "Douze Premières Nations en Colombie-Britannique achètent une participation indirecte dans le pipeline Coastal GasLink, appuyées par une garantie de prêt de 168 millions de dollars du gouvernement fédéral. Selon CBC."
     },
     {
-      "sujet": "Données compromises chez 1Password",
-      "fait": "Un pirate a volé les noms et adresses e-mail des clients de 1Password après avoir accédé aux systèmes backend de l'entreprise, sans exposer les mots de passe ou les données des coffres. Selon The Verge."
+      "sujet": "Surplus budgétaire en Alberta",
+      "fait": "L'Alberta passe d'un budget déficitaire à un surplus anticipé de 8,5 milliards de dollars, dopé par le secteur pétrolier. Selon Radio-Canada."
     },
     {
-      "sujet": "Brevet Google pour vidéos IA personnalisées",
-      "fait": "Google a déposé un brevet pour un système appelé My Channel créant des flux vidéo personnalisés générés par IA et des publicités basées sur les données démographiques et l'historique de visionnage des utilisateurs. Le brevet a été rejeté. Selon The Verge."
+      "sujet": "Premier autocar électrique Prevost",
+      "fait": "L'entreprise beauceronne Prevost lance son premier autocar électrique, entièrement fabriqué au Québec, avec 52 places et une autonomie de 400 km. Selon Le Devoir."
     },
     {
-      "sujet": "Situation critique chez Norse Atlantic",
-      "fait": "La compagnie aérienne Norse Atlantic a déclaré que sa situation financière était 'critique', ses actions ayant chuté. Selon Reuters Business."
+      "sujet": "Augmentation de la dette des Canadiens",
+      "fait": "Un rapport de TransUnion indique que les Canadiens portent plus de dettes que jamais, avec une accélération de la dette non hypothécaire, avant une vague de renouvellements hypothécaires en 2027. Selon Global News."
     },
     {
-      "sujet": "Détonation contrôlée d'explosifs en Iowa",
-      "fait": "L'armée américaine a procédé à une détonation contrôlée de plus de 9 700 livres d'azide de plomb hautement volatil à l'Iowa Army Ammunition Plant. L'EPA a signalé 'zéro' plomb dans l'air après l'explosion. Selon The Verge et AP News."
+      "sujet": "Tanker diesel près d'Ibiza",
+      "fait": "Un tanker transportant jusqu'à 7 000 tonnes de diesel chavire près d'Ibiza en Espagne, causant un décès. Les dommages environnementaux sont en cours d'évaluation par le service de sauvetage maritime espagnol. Selon BBC World."
     },
     {
-      "sujet": "Avertissement santé sur la sémaglutide",
-      "fait": "Santé Canada a émis un avertissement suite à l'examen de la sécurité, identifiant un possible lien entre les médicaments GLP-1 sémaglutide et une forme rare de perte de vision. Selon CBC."
+      "sujet": "Arrestation de journaliste iranien",
+      "fait": "Le journaliste iranien et scénariste Mehdi Mahmoudian, nominé aux Oscars, est arrêté à Téhéran un jour après avoir rapporté des avis d'exécution contre deux protestataires emprisonnés. Selon CBC World."
     },
     {
-      "sujet": "Critiques envers Mark Carney sur le TGV",
-      "fait": "Les partis d'opposition dénoncent un comportement 'autoritaire' de Mark Carney et de son gouvernement dans le dossier du train à grande vitesse d'Alto. Selon La Presse."
+      "sujet": "Attaque à la raffinerie saoudienne",
+      "fait": "Une attaque contre la raffinerie Jazan du groupe Saudi Aramco tue un travailleur népalais, en blesse plusieurs autres et provoque un incendie. Selon Al Jazeera."
     },
     {
-      "sujet": "Réductions d'importations américaines au Canada",
-      "fait": "Les importations de véhicules légers en provenance des États-Unis représentaient 40 % du total des importations canadiennes en 2026, mesuré en dollars, indiquant un éloignement du secteur automobile canadien des importations américaines. Selon Global News."
+      "sujet": "Révélation des suicides de victimes de violence conjugale",
+      "fait": "Le PLQ juge « préoccupants » les chiffres révélés par une enquête du Devoir concernant les suicides de victimes de violence conjugale, estimant que cela devrait être une priorité. Selon Le Devoir."
+    },
+    {
+      "sujet": "Suspension d'un policier montréalais",
+      "fait": "Un policier du poste 21 du SPVM est suspendu en raison d'allégations de comportements inappropriés envers une personne vulnérable. Selon Radio-Canada."
+    },
+    {
+      "sujet": "Appels aux armes pour autodéfense en Ontario",
+      "fait": "Le premier ministre de l'Ontario Doug Ford encourage les Ontariens à « utiliser n'importe quel outil à leur disposition pour riposter » en cas d'agression au domicile, incluant une arme à feu. Selon Radio-Canada."
     }
   ]
 }
