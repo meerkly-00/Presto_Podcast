@@ -1,0 +1,14 @@
+{
+  "date": "2026-11-26",
+  "kind": "poll",
+  "text": "Ce matin → Un incendie provoqué par un accident de camion-citerne au Caire a tué au moins 31 personnes en Égypte.\n\nNouveau : Les autorités\n\nSelon toi, dans les enquêtes d'accidents routiers majeurs, faut-il d'abord investiguer l'état du conducteur ou l'état du véhicule?",
+  "poll": {
+    "options": [
+      "L'état du conducteur",
+      "L'état du véhicule",
+      "Les deux en parallèle",
+      "Les conditions routières"
+    ],
+    "duration_minutes": 1440
+  }
+}
