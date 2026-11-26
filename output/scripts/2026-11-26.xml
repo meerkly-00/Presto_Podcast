@@ -1,0 +1,75 @@
+```xml
+<script>
+  <intro>Bonjour, on est le jeudi vingt-six novembre deux mille vingt-six. Voici votre Presto en environ quinze minutes. Au menu : l'économie et les marchés américains, l'affaire Nvidia qui s'étend jusqu'à Singapour, l'international avec l'Ukraine et l'Égypte, l'actualité québécoise et un mot de tech et de sport.</intro>
+
+  <chapitre titre="Économie et marchés">
+On commence par l'économie, où les marchés américains ont connu une séance mouvementée. Selon l'Associated Press, Wall Street a effacé la majorité de ses pertes matinales après un recul des actions technologiques liées à l'intelligence artificielle. Toujours selon Bloomberg, les contrats à terme sur le Nasdaq ont ensuite progressé ce matin, les investisseurs misant sur une reprise des titres liés à l'intelligence artificielle.
+
+Selon Reuters, l'économie américaine a connu une forte croissance au troisième trimestre, tandis que l'inflation d'octobre demeure élevée. Toujours selon le Financial Times, une révision à la hausse des chiffres du produit intérieur brut garde ouverte la possibilité d'une hausse de taux de la Réserve fédérale en décembre. Selon BNN Bloomberg, l'inflation américaine demeure élevée malgré un recul des prix de l'essence, ce qui complique la tâche de la banque centrale.
+
+Le dossier Nvidia continue de dominer l'actualité économique. Selon le Financial Times, l'entreprise a suspendu ses livraisons de puces vers l'Asie du Sud-Est. Selon CBC, cette affaire place désormais Singapour dans la mire de Washington, les autorités américaines s'inquiétant du rôle de la cité-État dans l'accès de la Chine à des puces d'intelligence artificielle avancées. Des entreprises infonuagiques comme Megaspeed sont soupçonnées de contourner les contrôles américains à l'exportation, et Singapour dit vouloir intensifier ses efforts pour empêcher ce contournement.
+
+Du côté des entreprises en difficulté, Reuters rapporte que le transporteur aérien Norse Atlantic évoque un risque de faillite après la suspension de ses vols. La compagnie qualifie sa situation financière de critique, et son titre a chuté en Bourse. En parallèle, Reuters précise que la compagnie pakistanaise PIA prévoit transférer ses vols vers le Royaume-Uni à sa propre flotte à la suite de cette suspension.
+
+Ailleurs, le Financial Times rapporte que les plus grands membres de l'OPEP plus se dirigent vers une confrontation au sujet de leurs estimations de production pétrolière. Le Wall Street Journal note de son côté que le pétrole a enregistré deux séances consécutives de gains en raison des tensions au Moyen-Orient.
+
+Au Canada, BNN Bloomberg rapporte que le représentant commercial de Donald Trump affirme qu'une entente commerciale avec le Canada doit, je le cite : "accommodate Canada". Fin de citation. Toujours selon BNN Bloomberg, le secteur automobile canadien s'éloigne progressivement des importations américaines, selon l'analyste DesRosiers.
+
+Du côté des entreprises québécoises, Les Affaires rapporte que la firme Morningstar juge surévaluées plusieurs actions canadiennes, dont celles de Metro et d'Hydro One.
+  </chapitre>
+
+  <chapitre titre="International">
+À l'international, la guerre en Ukraine continue de faire des victimes. Selon Al Jazeera, une attaque de drones ukrainiens a tué cinq personnes à Zaporijjia, un territoire occupé par la Russie. Les forces russes ont pour leur part lancé une attaque de missiles balistiques sur Kyiv, frappant un centre commercial et d'autres immeubles.
+
+En Égypte, l'Associated Press rapporte qu'un accident impliquant un camion-citerne a provoqué un incendie majeur sur une autoroute entourant le Caire, causant la mort d'au moins trente et une personnes.
+
+Au Royaume-Uni, la BBC rapporte qu'un nouveau traité entre le Royaume-Uni et l'Union européenne comporte une clause de résiliation après dix ans. Le texte complet des traités doit être publié aujourd'hui, avec la législation permettant de mettre en œuvre l'essentiel de l'entente.
+
+En Iran, la BBC rapporte que des femmes condamnées à mort après avoir participé à des manifestations lancent des appels désespérés. Selon un groupe de défense des droits cité par la BBC, les condamnations à mort de manifestantes et de dissidentes atteignent des niveaux inégalés depuis des décennies.
+
+Du côté américain, le Wall Street Journal rapporte que l'économie iranienne est soumise à ce que le journal appelle une guerre silencieuse en raison du blocus américain. Par ailleurs, l'Associated Press rapporte qu'un juge a bloqué une révision anticipée de la licence du réseau ABC par la Commission fédérale des communications, un geste que le réseau dit avoir eu un effet dissuasif sur sa couverture.
+
+Au Kenya, Al Jazeera rapporte que la Haute Cour a jugé qu'un site de quarantaine lié à l'Ebola violait la constitution du pays, et ordonne l'arrêt des travaux tant que les détails d'une entente avec les États-Unis ne seront pas divulgués.
+
+Enfin, CBC rapporte que le numéro deux de l'OTAN adopte un ton différent de celui du Pentagone à l'égard du Canada, saluant dans une entrevue exclusive la contribution canadienne à la dissuasion européenne et les efforts de reconstruction de ses forces armées.
+  </chapitre>
+
+  <chapitre titre="Actualité québécoise">
+Au Québec, Global News rapporte que la mairesse de Montréal, Soraya Martinez Ferrada, s'est excusée pour une analogie impliquant le Kraft Dinner, dans la foulée d'une controverse entourant une hausse de taxes foncières approchant les dix pour cent. Cette hausse, combinée à une nouvelle redevance annoncée récemment, alimente le mécontentement de plusieurs résidents.
+
+La Presse revient par ailleurs sur l'arrestation de Bernard Bray, un homme de soixante-treize ans, en lien avec cinq agressions sexuelles survenues à Montréal entre deux mille six et deux mille douze.
+
+Toujours selon La Presse, la famille d'une femme happée mortellement par un véhicule utilitaire sport sur l'avenue Papineau réclame de meilleurs aménagements pour piétons à cet endroit.
+
+Du côté social, Radio-Canada rapporte que des enseignants sont de plus en plus sollicités pour héberger des enfants retirés de leur famille par la Direction de la protection de la jeunesse, faute de familles d'accueil disponibles.
+
+Le Devoir publie le troisième volet d'une enquête sur la violence conjugale, documentant qu'au moins treize femmes ayant vécu une telle violence se sont enlevé la vie entre deux mille vingt-deux et deux mille vingt-quatre au Québec. Le journal rapporte que la France a inscrit la notion de "suicide forcé" dans son code pénal depuis deux mille vingt, portant la peine à dix ans de prison lorsqu'une victime de harcèlement conjugal s'enlève la vie. Des voix s'élèvent pour que le Québec envisage une approche similaire.
+
+Par ailleurs, Radio-Canada publie une enquête sur Domtar, rapportant que son propriétaire, Jackson Wijaya, est lié à une famille d'industriels aux pratiques controversées en Indonésie.
+
+Enfin, le Journal de Montréal rapporte qu'au moins vingt touristes canadiens sont morts dans des circonstances nébuleuses en République dominicaine.
+  </chapitre>
+
+  <chapitre titre="Tech">
+Du côté de la tech, le réseau social X déploie ses premiers outils de contrôle parental. Selon The Verge, les parents et tuteurs pourront désormais voir le temps passé par leur adolescent sur la plateforme, fixer des limites quotidiennes, exiger une approbation pour les nouveaux abonnés et limiter les recommandations de contenu aux comptes déjà suivis. Toujours selon The Verge, les parents ne pourront ni lire les messages privés, ni voir l'historique de recherche ou de navigation, ni publier au nom de leur enfant.
+
+Toujours en matière de protection des mineurs, Reuters rapporte qu'Apple a retiré le robot conversationnel d'intelligence artificielle MiniMax de l'App Store en raison de préoccupations liées à la sécurité des enfants.
+
+Selon The Verge, une coalition de quarante-deux procureurs généraux d'États américains tente d'empêcher l'entreprise Character.AI de vendre les conversations de ses utilisateurs dans le cadre de ses procédures de faillite. Les procureurs allèguent que l'entreprise prévoit vendre aux enchères l'historique de conversations privées de plus de vingt et un millions de comptes américains, dont environ deux millions appartiennent à des mineurs, sans mesures de protection adéquates.
+
+Par ailleurs, Ars Technica rapporte que la Commission fédérale des communications a autorisé SpaceX à déployer jusqu'à un million de satellites destinés à servir de centres de données en orbite. Selon l'agence, ce déploiement multiplierait par environ cinquante le nombre de satellites actuellement en orbite. Toujours selon Reuters, Elon Musk promet par ailleurs deux actions de SpaceX pour chaque enfant américain.
+
+Enfin, Ars Technica rapporte qu'une sonde spatiale européenne a observé une scène chaotique après une expérience de déviation d'astéroïde menée par la NASA il y a quatre ans, confirmant que l'impact avait réduit l'orbite de l'astéroïde Dimorphos autour de son compagnon Didymos d'environ trente-trois minutes.
+  </chapitre>
+
+  <chapitre titre="Sport">
+Rapidement en sport, où le Canadien de Montréal traverse des moments difficiles. Selon Sportsnet, l'équipe a subi une autre perte importante à la ligne bleue, le défenseur Kaiden Guhle pourrait être absent pour une période prolongée, dans ce qui ressemble de plus en plus à une glissade majeure pour l'équipe.
+
+Ailleurs dans la Ligue nationale de hockey, Global News rapporte que les Jets de Winnipeg ont vaincu les Bruins de Boston quatre à deux, portant leur fiche à neuf victoires, une défaite et une défaite en prolongation lors de leurs onze derniers matchs. Sportsnet rapporte également que la recrue des Flames de Calgary, Jonathan Castagna, a marqué un but d'assurance après un face-à-face avec son idole d'enfance, Sidney Crosby, lors d'une victoire de Calgary contre Pittsburgh.
+
+Du côté du baseball, Sportsnet analyse le pari que représente la signature du lanceur japonais Kaima Taira par les Blue Jays de Toronto, un joueur qui n'a jamais lancé dans un match de la Ligue majeure.
+  </chapitre>
+
+  <outro>Voilà pour ce Presto du jeudi vingt-six novembre deux mille vingt-six. Si ce briefing vous est utile, le meilleur coup de main que vous pouvez nous donner, c'est de le partager à une personne qui aime rester informée. Et selon votre plateforme : un abonnement sur Spotify ou Apple Podcasts, un pouce bleu et un abonnement sur YouTube, ça prend deux secondes et ça aide vraiment Presto à grandir. Sur ce, bonne journée, et à demain.</outro>
+</script>
+```
