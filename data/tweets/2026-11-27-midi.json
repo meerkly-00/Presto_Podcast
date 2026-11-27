@@ -1,0 +1,14 @@
+{
+  "date": "2026-11-27",
+  "kind": "poll",
+  "text": "Ce matin → La Cour suprême valide presque entièrement la Loi 21 sur la laïcité de l'État du Québec.\n\nNouveau : Des femmes qui portent le voile expriment leur déception face à cette décision.\n\nComment vois-tu cette validation de la Loi 21?",
+  "poll": {
+    "options": [
+      "Nécessaire pour la",
+      "Atteinte aux libertés",
+      "Équilibre acceptable",
+      "Indécis"
+    ],
+    "duration_minutes": 1440
+  }
+}
