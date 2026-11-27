@@ -1,54 +1,50 @@
 {
-  "generated_at": "2026-11-26T22:07:56.871337+00:00",
+  "generated_at": "2026-11-27T21:49:05.830518+00:00",
   "window_hours": 8,
   "faits": [
     {
-      "sujet": "Taxe sur logements vacants à Montréal",
-      "fait": "L'administration Martinez Ferrada de Montréal veut imposer une taxe sur les logements vacants, notamment pour les immeubles vidés par leurs propriétaires afin d'y hausser les loyers. Selon La Presse."
+      "sujet": "Loi 21 validée par la Cour suprême",
+      "fait": "La Cour suprême du Canada a validé la presque totalité de la Loi sur la laïcité de l'État du Québec. D'après Radio-Canada, la disposition de dérogation peut être invoquée préventivement."
     },
     {
-      "sujet": "Fonds d'infrastructure au Québec",
-      "fait": "Le gouvernement du Québec annonce la création d'un fonds d'infrastructures pour aider les villes. Le déficit d'entretien des routes et aqueducs devrait passer de 52 à 94 milliards de dollars d'ici 2036. Selon La Presse."
+      "sujet": "Jean-François Arsenault président de l'Assemblée nationale",
+      "fait": "Le gouvernement du Parti québécois propose la candidature du député de Granby Jean-François Arsenault pour devenir président de l'Assemblée nationale. Selon Radio-Canada, Arsenault a présidé la Chambre de commerce et d'industrie de la Haute-Yamaska de 2024 à 2026."
     },
     {
-      "sujet": "Propriété du pipeline Coastal GasLink",
-      "fait": "Douze Premières Nations en Colombie-Britannique achètent une participation indirecte dans le pipeline Coastal GasLink, appuyées par une garantie de prêt de 168 millions de dollars du gouvernement fédéral. Selon CBC."
+      "sujet": "Projet de loi C-39 sur les grands projets",
+      "fait": "Le premier ministre Mark Carney a déclaré que tous les députés libéraux seraient tenus de voter sur le projet de loi C-39 « en tant que gouvernement ». D'après La Presse, cette position impose une discipline de vote stricte aux élus."
     },
     {
-      "sujet": "Surplus budgétaire en Alberta",
-      "fait": "L'Alberta passe d'un budget déficitaire à un surplus anticipé de 8,5 milliards de dollars, dopé par le secteur pétrolier. Selon Radio-Canada."
+      "sujet": "Cour d'appel statue sur serment au roi",
+      "fait": "La Cour d'appel du Québec rendra sa décision lundi sur l'affaire du serment au roi, la veille de la reprise des travaux parlementaires. Selon La Presse, l'audience s'est tenue vendredi et l'appel pourrait entraîner une audition sur le fond le 11 janvier."
     },
     {
-      "sujet": "Premier autocar électrique Prevost",
-      "fait": "L'entreprise beauceronne Prevost lance son premier autocar électrique, entièrement fabriqué au Québec, avec 52 places et une autonomie de 400 km. Selon Le Devoir."
+      "sujet": "CRTC condamne Bell, Telus et Rogers",
+      "fait": "Le CRTC a rendu une décision vendredi selon laquelle Bell, Telus et Rogers ont violé l'interdiction de facturer des frais pour la fourniture et l'installation de téléphones cellulaires. D'après Global News, cette violation concerne les frais dits « junk fees »."
     },
     {
-      "sujet": "Augmentation de la dette des Canadiens",
-      "fait": "Un rapport de TransUnion indique que les Canadiens portent plus de dettes que jamais, avec une accélération de la dette non hypothécaire, avant une vague de renouvellements hypothécaires en 2027. Selon Global News."
+      "sujet": "Canada prolonge restrictions Ebola 90 jours",
+      "fait": "Le Canada a prolongé de 90 jours ses restrictions de voyage liées à l'épidémie d'Ebola, jusqu'au 25 février 2027. Selon Le Devoir, les restrictions devaient expirer vendredi à minuit."
     },
     {
-      "sujet": "Tanker diesel près d'Ibiza",
-      "fait": "Un tanker transportant jusqu'à 7 000 tonnes de diesel chavire près d'Ibiza en Espagne, causant un décès. Les dommages environnementaux sont en cours d'évaluation par le service de sauvetage maritime espagnol. Selon BBC World."
+      "sujet": "Venezuela abroge loi banning opposition",
+      "fait": "Le Venezuela annonce l'abrogation d'une loi qui interdisait aux figures de l'opposition d'exercer une fonction publique. D'après Al Jazeera, cette décision intervient un mois après le retour en Venezuela de la leader de l'opposition Maria Corina Machado."
     },
     {
-      "sujet": "Arrestation de journaliste iranien",
-      "fait": "Le journaliste iranien et scénariste Mehdi Mahmoudian, nominé aux Oscars, est arrêté à Téhéran un jour après avoir rapporté des avis d'exécution contre deux protestataires emprisonnés. Selon CBC World."
+      "sujet": "OpenAI poursuit Apple en contre-attaque",
+      "fait": "OpenAI a porté plainte contre Apple en contre-attaque dans une affaire de secrets commerciaux. Selon Al Jazeera, cette escalade résulte de la compétition intense dans la course au développement de produits d'intelligence artificielle."
     },
     {
-      "sujet": "Attaque à la raffinerie saoudienne",
-      "fait": "Une attaque contre la raffinerie Jazan du groupe Saudi Aramco tue un travailleur népalais, en blesse plusieurs autres et provoque un incendie. Selon Al Jazeera."
+      "sujet": "Poutine dévoile sous-marin nucléaire hypersonique",
+      "fait": "Poutine a dévoilé un nouveau sous-marin nucléaire russe équipé d'armes hypersoniques. D'après Al Jazeera, le Kremlin prévoit d'élargir sa flotte navale avec cinq nouveaux sous-marins nucléaires d'ici 2030."
     },
     {
-      "sujet": "Révélation des suicides de victimes de violence conjugale",
-      "fait": "Le PLQ juge « préoccupants » les chiffres révélés par une enquête du Devoir concernant les suicides de victimes de violence conjugale, estimant que cela devrait être une priorité. Selon Le Devoir."
+      "sujet": "Metro Vancouver élection nouveau président",
+      "fait": "Le conseil d'administration de Metro Vancouver a élu un nouveau président. D'après Global News, cette élection intervient après les débordements de coûts majeurs de la station d'épuration des eaux usées de la Rive-Nord."
     },
     {
-      "sujet": "Suspension d'un policier montréalais",
-      "fait": "Un policier du poste 21 du SPVM est suspendu en raison d'allégations de comportements inappropriés envers une personne vulnérable. Selon Radio-Canada."
-    },
-    {
-      "sujet": "Appels aux armes pour autodéfense en Ontario",
-      "fait": "Le premier ministre de l'Ontario Doug Ford encourage les Ontariens à « utiliser n'importe quel outil à leur disposition pour riposter » en cas d'agression au domicile, incluant une arme à feu. Selon Radio-Canada."
+      "sujet": "Famine au Yémen malgré disponibilité nourriture",
+      "fait": "Des familles au Yémen du Nord souffrent de la faim même où la nourriture est disponible sur les marchés à Hodeïdah et Sanaa. Selon Al Jazeera, les coûts élevés et le manque de travail et d'aide rendent la nourriture inaccessible."
     }
   ]
 }
