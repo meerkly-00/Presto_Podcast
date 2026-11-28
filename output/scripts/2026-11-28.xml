@@ -1,0 +1,83 @@
+```xml
+<script>
+  <intro>Bonjour, on est le samedi vingt-huit novembre deux mille vingt-six. Voici votre Presto en environ quinze minutes. Au menu : la Cour suprême et la loi sur la laïcité, les élections en Espagne, l'explosion meurtrière dans une école afghane, l'économie avec la France en récession et les marchés secoués par Nvidia, et un mot sur le sport et la tech.</intro>
+
+  <chapitre titre="Actualité québécoise et canadienne">
+    On commence au Québec et au Canada, où la Cour suprême a tranché un dossier qui touche directement à l'unité du pays. Selon Reuters, le plus haut tribunal du pays a maintenu la loi québécoise interdisant le port de symboles religieux pour certains employés de l'État. La décision est perçue comme un test pour l'unité canadienne, le tribunal ayant validé l'utilisation de la disposition de dérogation par Québec. Le Journal de Montréal a salué la performance du ministre québécois de la Justice, Simon Jolin-Barrette, dans ce dossier. De son côté, le site d'analyse The Hub soutient que cette décision arme ce qu'il qualifie de bombe à retardement autour de la clause dérogatoire, un outil que d'autres provinces pourraient être tentées d'utiliser plus largement à l'avenir.
+
+    Toujours sur le thème de l'identité et des institutions fédérales, La Presse publie une chronique qui s'interroge sur l'attitude de certains nationalistes québécois face aux institutions de la Couronne, notamment autour du serment au roi.
+
+    En politique fédérale, une élection partielle se jouera bientôt dans la circonscription montréalaise de Rosemont, La Petite-Patrie. Selon La Presse, le Nouveau Parti démocratique y défend son seul château fort au Québec après quinze ans sous la gouverne d'Alexandre Boulerice, qui cède sa place au candidat Pierre Céré. Le Parti libéral et le Bloc québécois convoitent tous les deux ce siège.
+
+    À Montréal, la controverse budgétaire autour des taxes municipales continue d'alimenter les discussions, un dossier que Presto suit depuis plusieurs jours. Le Devoir publie une analyse qui se demande si la Ville peut réellement réduire sa masse salariale, celle-ci représentant environ trente-sept pour cent des dépenses municipales.
+
+    En Alberta, le premier ministre Scott Moe et des collègues du parti au pouvoir ont appelé à l'unité lors du congrès annuel de l'Union conservatrice unie, selon Global News. Cet appel survient quelques semaines après que les Albertains eurent rejeté un nouveau référendum sur la séparation de la province, un vote qui laisse des divisions persistantes au sein du mouvement indépendantiste.
+
+    Du côté de la petite enfance, Radio-Canada rapporte que les garderies privées subventionnées réclament davantage d'équité avec les centres de la petite enfance, un écart financier qui s'élèverait à plusieurs centaines de milliers de dollars selon des propriétaires de garderies.
+
+    Enfin, dans le secteur culturel, Radio-Canada souligne que le Salon du livre de Montréal tient sa première édition depuis la controverse entourant l'intelligence artificielle et l'affaire Thélyson Orélien.
+  </chapitre>
+
+  <chapitre titre="International">
+    À l'international, l'Espagne se dirige aujourd'hui vers des élections législatives à haut risque pour le premier ministre sortant. Selon Al Jazeera, confirmé par la BBC et Radio-Canada, le socialiste Pedro Sanchez brigue un nouveau mandat alors que les sondages indiquent que le Parti populaire, de centre droit, et le parti d'extrême droite Vox pourraient obtenir ensemble la majorité. Pedro Sanchez, au pouvoir depuis deux mille dix-huit, mise sur la crise du logement pour convaincre l'électorat. Selon Radio-Canada, son gouvernement s'est démarqué en régularisant le statut de plus de cinq cent mille migrants, à contre-courant de pays comme l'Allemagne et le Danemark. La BBC rapporte que ses adversaires l'accusent pour leur part de ne pas dire la vérité et de trahison. Aucun budget national n'a été adopté en Espagne depuis deux mille vingt-trois, une fragilité politique que le professeur Hubert Peres, de l'Université de Montpellier, qualifie de survie à énormément de difficultés.
+
+    En Afghanistan, une explosion survenue près d'une école secondaire dans la province de Kunar a fait au moins sept morts et plus de quatre-vingt-dix blessés, selon la BBC et CBC, qui citent les autorités provinciales. Al Jazeera rapporte un bilan de six morts et quatre-vingt-dix-sept blessés parmi les élèves. Un porte-parole du ministère afghan de l'Intérieur attribue l'explosion à un manque de précaution près d'un dépôt d'explosifs voisin.
+
+    Au Moyen-Orient, la BBC rapporte que deux membres du personnel ont été tués dans une frappe israélienne visant une clinique médicale à Gaza, selon l'organisation Médecins sans frontières. L'armée israélienne affirme avoir visé des combattants du Hamas, une version condamnée par l'Organisation mondiale de la santé.
+
+    Toujours selon CBC, les agences alimentaires des Nations unies préviennent que la faim devrait s'aggraver dans seize pays au cours des six prochains mois, en raison des conflits, de la hausse des coûts du carburant liée à la guerre au Moyen-Orient et des coupes dans l'aide humanitaire.
+
+    En Ukraine, selon CBC, le président Volodymyr Zelensky a critiqué Donald Trump dans une entrevue à la BBC, lui reprochant de se rapprocher de Vladimir Poutine, de retarder la livraison de missiles Patriot promis et de ne pas accorder assez d'attention à la guerre. Cette critique survient alors qu'un accord européen prévoyant un prêt de soixante-dix milliards de dollars à l'Ukraine s'est effondré.
+
+    En Turquie, la BBC rapporte que les autorités ont, selon le propriétaire de la chaîne, détruit le réseau de télévision d'opposition Halk TV, dont le siège a été perquisitionné le mois dernier, dans ce qui s'inscrit dans une série de répressions contre des médias critiques du gouvernement.
+
+    À Taïwan, l'Associated Press rapporte que des élections locales se déroulent aujourd'hui pour choisir des maires et d'autres dirigeants locaux, sous le regard de la Chine.
+
+    En Irak, Al Jazeera s'interroge sur les raisons qui poussent l'administration Trump à soutenir la campagne antitrafic de Bagdad, qui vise à reprendre le contrôle des routes de contrebande, des postes frontaliers et des champs pétroliers.
+
+    Au Kenya, Al Jazeera rapporte que le chef d'une secte, Paul Mackenzie, a été reconnu coupable d'homicide involontaire dans la mort de cent vingt-trois de ses disciples, morts de famine.
+
+    En Iran, Reuters rapporte, selon des sources internes, que la flagellation récente d'un chanteur constituait un avertissement de la part de responsables religieux inquiets.
+
+    Aux États-Unis, l'Associated Press rapporte que l'Union américaine pour les libertés civiles réclame une ordonnance de la cour pour bloquer les tentatives de l'administration Trump de démasquer l'identité de critiques de l'agence d'immigration ICE sur les réseaux sociaux.
+
+    Enfin, à la COP31, Radio-Canada rapporte que plus de cent vingt pays ont tenu tête aux pays producteurs de pétrole, malgré l'échec d'un accord final, dans ce que le média décrit comme l'émergence d'un nouveau rapport de force pour sortir des énergies fossiles.
+  </chapitre>
+
+  <chapitre titre="Économie et marchés">
+    On passe à l'économie, où la France a officiellement basculé en récession. Selon le Wall Street Journal, confirmé par Reuters, des révisions trimestrielles montrent que les exportations françaises ont reculé suffisamment pour placer le pays en récession technique.
+
+    Aux États-Unis, Wall Street a connu une semaine mouvementée. Selon CBC, les marchés ont terminé la semaine sur une note positive vendredi, les titres technologiques ayant rebondi après avoir subi des pertes plus tôt dans la semaine. Le Financial Times souligne toutefois que l'intervention répétée de Donald Trump dans le dossier Nvidia a eu un coût pour les actions américaines, plusieurs investisseurs s'inquiétant de l'influence grandissante du président sur les marchés boursiers. Reuters rapporte par ailleurs que ces ventes massives d'actions américaines ont provoqué un rebond inhabituel du dollar américain.
+
+    Toujours du côté des grandes entreprises technologiques, Reuters rapporte des propos d'Elon Musk selon qui Google serait intéressé à louer davantage de capacité informatique auprès de SpaceX. Selon Bloomberg, la technologie Blackwell de Nvidia aurait par ailleurs été utilisée dans un site chinois lié à une certaine Alice Huang, un dossier que Bloomberg continue de suivre.
+
+    Ailleurs dans le monde, Bloomberg rapporte que les mesures de resserrement monétaire de la Turquie montrent des signes précoces d'apaisement sur les marchés. Au Brésil, Reuters rapporte que les marchés ont réagi positivement à la nomination du président de Bradesco à la tête des Finances par le président Lula.
+
+    Du côté du pétrole, le Wall Street Journal rapporte que les contrats à terme ont clôturé en baisse à l'approche d'une réunion de politique de l'OPEP+.
+
+    Au Canada, BNN Bloomberg rapporte qu'un projet d'oléoduc reliant l'Alberta à la Colombie-Britannique, destiné à augmenter le débit, a été complété. Toujours selon BNN Bloomberg, le fondateur de Freedom Mobile souhaiterait racheter l'entreprise auprès de Québecor.
+
+    Enfin, aux États-Unis, Ars Technica rapporte, à partir de documents internes obtenus dans le cadre d'une poursuite fédérale, que l'administration Trump aurait exercé une pression directe sur Intel afin d'obtenir une participation de dix pour cent dans l'entreprise, un avocat du département du Commerce ayant averti l'entreprise que refuser aurait des conséquences imprévisibles.
+
+    Au chapitre de la consommation, l'Associated Press rapporte que les acheteurs du Black Friday ne se sont pas laissés décourager par l'inflation ni par le mauvais temps aux États-Unis. En Chine, Reuters rapporte que la stratégie des fabricants misant sur des doudounes haut de gamme se heurte à la résistance des consommateurs.
+  </chapitre>
+
+  <chapitre titre="Tech">
+    Du côté de la tech, la période du Black Friday continue de dominer l'actualité américaine. The Verge rapporte que le MacBook Air équipé de la puce M cinq bénéficie de son plus important rabais depuis qu'Apple avait augmenté ses prix. The Verge souligne aussi que plusieurs autres rabais restent disponibles à l'approche du Cyber Monday, notamment sur les écouteurs, les téléviseurs et les aspirateurs robots, même si la hausse générale des prix liée à ce que le média appelle le Ramageddon a réduit l'ampleur de certains rabais cette année.
+
+    En Chine, The Verge rapporte que le constructeur BYD a dévoilé une fourgonnette électrique, la BYD Whale, capable de parcourir environ neuf cents kilomètres avec une seule charge, un véhicule plus imposant que la Honda Odyssey ou la Toyota Sienna.
+  </chapitre>
+
+  <chapitre titre="Sport">
+    Rapidement en sport, où plusieurs équipes canadiennes étaient en action vendredi. Selon Global News, les Jets de Winnipeg ont vaincu les Islanders de New York par la marque de trois à un, portés par deux buts de Kyle Connor, l'équipe affichant un dossier de dix victoires, une défaite et un match nul à ses douze dernières sorties. Toujours selon Global News, le Kraken de Seattle a profité de ses unités spéciales pour battre les Oilers d'Edmonton quatre à deux, grâce à deux buts de Kaapo Kakko en troisième période. Selon Sportsnet, cette unité d'avantage numérique des Oilers, pourtant considérée comme la meilleure de la ligue, n'a pas été assez bonne lors de cette cinquième défaite consécutive de l'équipe.
+
+    À Toronto, Sportsnet rapporte que les Raptors ont été éliminés de la Coupe NBA malgré une performance remarquée de Scottie Barnes, l'équipe ayant toutefois renoué avec la victoire à domicile. Toujours selon Sportsnet, les Maple Leafs de Toronto ont retrouvé leur aplomb en battant les Bruins de Boston.
+
+    Au baseball, Sportsnet rapporte que les Blue Jays de Toronto s'entendent avec le joueur Jazz Chisholm Junior, une acquisition qui doit ajouter de la puissance et de la vitesse à une formation en reconstruction.
+
+    Enfin, en hockey junior, le Journal de Montréal rapporte qu'un club de la Ligue de hockey junior majeur du Québec s'installera à Saint-Constant, sur la Rive-Sud de Montréal.
+  </chapitre>
+
+  <outro>Voilà pour ce Presto du samedi vingt-huit novembre deux mille vingt-six. Si ce briefing vous est utile, le meilleur coup de main que vous pouvez nous donner, c'est de le partager à une personne qui aime rester informée. Et selon votre plateforme : un abonnement sur Spotify ou Apple Podcasts, un pouce bleu et un abonnement sur YouTube, ça prend deux secondes et ça aide vraiment Presto à grandir. Sur ce, bonne journée, et à demain.</outro>
+</script>
+```
